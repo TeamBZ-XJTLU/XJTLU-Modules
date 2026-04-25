@@ -494,6 +494,29 @@ def module_data(department: Department, offerings: list[dict[str, object]]) -> d
     }
 
 
+def module_level(offerings: list[dict[str, object]]) -> str:
+    for offering in sorted(offerings, key=offering_sort_key):
+        overview = offering.get("overview")
+        if isinstance(overview, dict):
+            value = overview.get("Module Level")
+            if isinstance(value, str) and value:
+                return value
+    return ""
+
+
+def manifest_module(path: str, offerings: list[dict[str, object]]) -> dict[str, str]:
+    sorted_offerings = sorted(offerings, key=offering_sort_key)
+    first_listing = sorted_offerings[0].get("listing") if sorted_offerings else {}
+    if not isinstance(first_listing, dict):
+        first_listing = {}
+    return {
+        "path": path,
+        "module_code": str(first_listing.get("module_code", "")),
+        "full_name": str(first_listing.get("full_name", "")),
+        "module_level": module_level(sorted_offerings),
+    }
+
+
 def main() -> int:
     args = parse_args()
     base_url = args.base_url.rstrip("/")
@@ -576,6 +599,10 @@ def main() -> int:
         "base_url": base_url,
         "department_count": len(departments),
         "module_file_count": len([path for path in generated_paths if path.endswith(".json")]),
+        "modules": [
+            manifest_module(path, offerings)
+            for path, offerings in sorted(offerings_by_path.items())
+        ],
         "error_count": len(errors),
         "errors": errors,
         "generated_paths": sorted(generated_paths),
