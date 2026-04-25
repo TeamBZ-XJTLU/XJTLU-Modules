@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IND",
+    "domain_code": "IND",
+    "full_name": "Industrial Design"
+  },
+  "full_name": "Advanced Collaborative Project",
+  "module_code": "IND409",
+  "offerings": [
+    {
+      "heading": "Advanced Collaborative Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IND",
+        "full_name": "Advanced Collaborative Project",
+        "module_code": "IND409",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Collaborative Project",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module provides post-graduate students with a framework for integrating a substantial real-world industry or research collaboration into their academic studies. The collaboration aims to immerse students in the complexities of the professional work/research environment, affording an opportunity to apply their knowledge to ‘authentic’ challenges, and to develop problem-solving, collaboration and communication skills.",
+        "Learning outcomes": "A. Analyse complex, ‘wicked’ problems to formulate actionable, viable, and time-bound solution plans. B. Synthesise and apply advanced theoretical knowledge, skills and tools to the solution of practical problems. C. Synthesise and apply advanced theoretical knowledge, skills and tools to the solution of practical problems. D. Collaborate effectively and inclusively in the workplace environment. E. Communicate complex ideas professionally and persuasively, using a range of media appropriate to the audience and context.",
+        "Method of teaching and learning": "The module aims to foster self-directed learning, and students are expected to take a leading role in the selection of the internal or external partner and in the definition of the collaborative project. Nonetheless, individual guidance will be provided by an academic supervisor from the Design School and by an industry/research mentor from the internal or external unit in which the project takes place. External units include industries, engineering/design/planning firms, or research institutions recognised by the school through a formal agreement. Internal units include university research centres, laboratories, or groups working on structured collaborative projects. The unit, the project and the mentor must be approved by the school the module coordinator and academic supervisor as meeting the essential standards, with reference to the QAA UK Quality Code - Advice and Guidance for Work-based Learning, and to the following critical requirements: The unit is well-established and reputable, provides a safe working environment, and has a clear organisational structure and processes. The mentor possesses sufficient qualifications, experience and seniority to oversee post-graduate students. The project engages the student meaningfully on an individual level, is specifically relevant to their home programme and is suitable to meet the intended learning outcomes. Collaboration projects may originate from students, partners or academic supervisors or the school. Projects involving more than one student and students from different programmes are possible and encouraged, as long as each individual contribution can be clearly identified and assessed."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IND409&psl_code=SEM1"
+    }
+  ]
+}

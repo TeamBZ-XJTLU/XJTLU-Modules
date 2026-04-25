@@ -168,6 +168,7 @@
     "ARC|ARC - Architecture/ARC405.json",
     "ARC|ARC - Architecture/ARC406.json",
     "ARC|ARC - Architecture/ARC409.json",
+    "ARC|ARC - Architecture/ARC412.json",
     "ARC|ARC - Architecture/ARC413.json",
     "BIO|BIO - Biological Sciences",
     "BIO|BIO - Biological Sciences/BIO002.json",
@@ -1251,6 +1252,7 @@
     "IND|IND - Industrial Design/IND405.json",
     "IND|IND - Industrial Design/IND406.json",
     "IND|IND - Industrial Design/IND408.json",
+    "IND|IND - Industrial Design/IND409.json",
     "INS|INS - International Studies",
     "INS|INS - International Studies/INS006.json",
     "INS|INS - International Studies/INS101.json",
@@ -2511,7 +2513,7 @@
     "XPU|LIFE - XIPU AI general education/XPU001.json",
     "XPU|LIFE - XIPU AI general education/XPU002.json"
   ],
-  "module_file_count": 2440,
+  "module_file_count": 2442,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -3478,6 +3480,12 @@
       "module_code": "ARC409",
       "module_level": "Level 4",
       "path": "ARC|ARC - Architecture/ARC409.json"
+    },
+    {
+      "full_name": "Topics in Design Thinking and Cultural Innovation",
+      "module_code": "ARC412",
+      "module_level": "Level 4",
+      "path": "ARC|ARC - Architecture/ARC412.json"
     },
     {
       "full_name": "Design Studio 3",
@@ -9808,6 +9816,12 @@
       "module_code": "IND408",
       "module_level": "Level 4",
       "path": "IND|IND - Industrial Design/IND408.json"
+    },
+    {
+      "full_name": "Advanced Collaborative Project",
+      "module_code": "IND409",
+      "module_level": "Level 4",
+      "path": "IND|IND - Industrial Design/IND409.json"
     },
     {
       "full_name": "Introduction to International Relations",
