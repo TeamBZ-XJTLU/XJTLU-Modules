@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOT",
+    "domain_code": "IOTTC",
+    "full_name": "Internet of things"
+  },
+  "full_name": "loT for Smart Health",
+  "module_code": "IOT311TC",
+  "offerings": [
+    {
+      "heading": "loT for Smart Health",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOTTC",
+        "full_name": "loT for Smart Health",
+        "module_code": "IOT311TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "loT for Smart Health",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide a comprehensive understanding of various cutting-edge technologies and key applications related to the Internet of Things (IoT) for smart health. The module will introduce you to the general knowledge and applications of smart health in terms of IoT technologies and tools that are currently used in the domain of smart health. You will gain a solid foundation of knowledge about the different IoT-enabled solutions that are currently being used in the healthcare industry and will be able to identify the key issues and challenges. The module will also cover the practices in smart health, giving you an in-depth understanding of the latest trends and practices in this field.",
+        "Learning outcomes": "A. Demonstrate a solid understanding of concepts, processes, and issues related to IoT for smart health. B. Identify IoT technologies and tools for smart health and understand their technical roles and operations. C. Determine the appropriate use of IoT technologies, tools, and software to construct smart health applications.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contributions from a practical perspective. This philosophy is carried through also in terms of assessment, with a reduction in the use of exams and an increase in coursework, especially problem-based assessments that are project-focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. The module will be delivered via lectures and supervised laboratory sessions, as well as private studies."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOT311TC&psl_code=SEM2"
+    }
+  ]
+}

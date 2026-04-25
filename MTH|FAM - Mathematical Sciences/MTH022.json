@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FAM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Mathematical and Statistical Models",
+  "module_code": "MTH022",
+  "offerings": [
+    {
+      "heading": "Mathematical and Statistical Models",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Mathematical and Statistical Models",
+        "module_code": "MTH022",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Mathematical and Statistical Models",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students some basic and important techniques in constructing mathematical models using linear algebra, statistics, differential equations and machine learning ideas. The purpose is to let students from non-mathematical backgrounds to have the opportunity to appreciate the ideas of mathematical modelling and also learn how to apply the techniques upon real-world problems.",
+        "Learning outcomes": "A Demonstrate understanding of basic ideas and techniques in constructing mathematical models. B Skilful in using the techniques to construct mathematical models for standard practical problems. C Develop understanding of general mathematical ideas in mathematical modelling. D Use mathematical software in solving real problems.",
+        "Method of teaching and learning": "Students will be expected to attend 2 hours of formal lectures on a weekly basis, and supervised tutorial sessions to have the opportunity to make use of software to practice. Lectures will mainly introduce ideas and techniques of important models, tutorials or lab sessions mainly on practices of problem-solving. Students will be trained to write academic reports in group work to show how they use the learned techniques in the module to solve real problems. Opportunities will be given to present their work in the module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH022&psl_code=SEM2"
+    }
+  ]
+}

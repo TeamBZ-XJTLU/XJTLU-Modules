@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Corporate Reporting and Auditing II",
+  "module_code": "ACC410",
+  "offerings": [
+    {
+      "heading": "Corporate Reporting and Auditing II",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Corporate Reporting and Auditing II",
+        "module_code": "ACC410",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Corporate Reporting and Auditing II",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To enable students to apply technical knowledge, analytical techniques and professional skills to resolve compliance financial and business issues that arise in the context of the preparation and evaluation of corporate reports and from providing audit services. To require students to use technical knowledge and professional judgement to identify, explain and evaluate alternatives and to determine the appropriate solutions to compliance issues, giving due consideration to the needs of clients and other stakeholders. The commercial context and impact of recommendations and ethical issues will also need to be considered in making such judgements as to appropriate courses of action. This module builds upon and draws heavily upon the knowledge developed in the pre-requisite module, ACF426 Corporate Reporting & Auditing I. It shares many of the learning outcomes, but applies those outcomes to a widening and deepening set of knowledge of accounting and auditing standards.",
+        "Learning outcomes": "A formulate, implement and evaluate accounting and reporting policies for single entities and groups of varying sizes and in a variety of industries B discern and apply appropriate treatments to complex transactions and complex scenarios C evaluate and apply technical knowledge from individual accounting standards to accounting and business issues D apply professional skills to assimilate knowledge where several accounting standards are simultaneously applicable and interact. E analyse, interpret, evaluate and compare financial statements of entities both over time and across a range of industries. This will require the application of technical knowledge, along with the use of professional judgement and other skills. F explain the processes involved in planning an audit, evaluating internal controls, appraising risk, gathering evidence and drawing conclusions in accordance with the terms of the engagement. G evaluate corporate reporting policies, estimates and disclosures in a scenario in order to be able to assess whether they are in compliance with accounting standards and are appropriate in the context of audit objectives. H identify and explain ethical issues. Where ethical dilemmas arise, they will be able to recommend and justify appropriate actions, including ethical safeguards to mitigate threats.",
+        "Method of teaching and learning": "A range of teaching and learning methods will be utilized on this module. Core substantive knowledge will be delivered via an intensive programme of lectures, and the knowledge covered in lectures will be reinforced by practical student group work, culminating in participative tutorials. Longer, case-based work will be delivered by means of four 2-hour seminars, which will again be participative in nature."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC410&psl_code=SEM2"
+    }
+  ]
+}

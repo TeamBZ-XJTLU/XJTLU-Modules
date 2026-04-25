@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Analysis 1",
+  "module_code": "MTH117",
+  "offerings": [
+    {
+      "heading": "Analysis 1",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Analysis 1",
+        "module_code": "MTH117",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Analysis 1",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide a basic understanding of the principles of Real Analysis.",
+        "Learning outcomes": "A State definitions and theorems in real analysis; B Present proofs of the main theorems; C Apply these definitions and theorems to simple examples; D Construct their own proofs of simple unseen results.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH117&psl_code=SEM1"
+    }
+  ]
+}

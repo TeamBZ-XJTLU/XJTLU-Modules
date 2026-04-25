@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Foreign Policy Analysis",
+  "module_code": "INS303",
+  "offerings": [
+    {
+      "heading": "Foreign Policy Analysis",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Foreign Policy Analysis",
+        "module_code": "INS303",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Foreign Policy Analysis",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module enables BA IR students who are unable to join the International Relations Study Abroad module (INS301) to undertake alternative study to learn about foreign policy analysis and to apply this to another country. It provides skills and theoretical knowledge about important approaches to the study of foreign policy analysis, as well as some of the main actors and dynamics involved in the creation, development and implementation of foreign policy, enabling students to complete an assessment about another country’s foreign policy.",
+        "Learning outcomes": "A Demonstrate knowledge about foreign policy analysis. B Understand the development of another country’s foreign policy. C Evaluate another country’s relationship with China. D Develop a sustained analysis of a country’s foreign policy in written form. E Present an oral foreign policy brief with recommendations.",
+        "Method of teaching and learning": "This module will be delivered by 3 hour workshops that combine lectures, seminars, group work and work-in-progress sessions. Lectures will be designed to provide essential information and introduce students to the basic tools required to conduct Foreign Policy Analysis research. Seminars will be based on student-led learning activities and discussion to provide a learning opportunity designed to clarify, extend and deepen the material introduced in the lectures. Work-in-Progress sessions will enable students to work on their independent research in a workshop setting. Students are also required to engage in extensive independent learning, including weekly required readings to deepen knowledge and understanding of academic scholarship and theoretical debate about Foreign Policy Analysis. Across the module students will be required to connect general learning to their specific country study."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS303&psl_code=SEM1"
+    }
+  ]
+}

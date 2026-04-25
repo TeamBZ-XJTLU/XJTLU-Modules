@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ELC",
+    "domain_code": "LM",
+    "full_name": ""
+  },
+  "full_name": "Outline of Chinese Modern History",
+  "module_code": "LMCCT010",
+  "offerings": [
+    {
+      "heading": "Outline of Chinese Modern History",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LM",
+        "full_name": "Outline of Chinese Modern History",
+        "module_code": "LMCCT010",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2",
+        "Module Level": "Level 0",
+        "Module Title": "Outline of Chinese Modern History",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Enlarge students’ knowledge range; help students form objective and rational attitude toward China and the world at large.",
+        "Learning outcomes": "A. Understand the history and conditions of the country, deeply understand the history and how the people chose Marxism , the Chinese Communist Party , the socialist road , and the reform and opening up. B. Establish a correct view of history, use scientific view of history and methodology to analyze and evaluate historical issues. C. Develop an ability to write short critical essay to evaluate historic issues.",
+        "Method of teaching and learning": "Case Teaching; Independent analysis; group discussion"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LMCCT010&psl_code=SEM2"
+    }
+  ]
+}

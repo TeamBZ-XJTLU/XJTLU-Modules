@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDU",
+    "domain_code": "PGC",
+    "full_name": "Professional Studies"
+  },
+  "full_name": "Using Technology to Enhance Learning and Teaching",
+  "module_code": "PGC404",
+  "offerings": [
+    {
+      "heading": "Using Technology to Enhance Learning and Teaching",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "PGC",
+        "full_name": "Using Technology to Enhance Learning and Teaching",
+        "module_code": "PGC404",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Using Technology to Enhance Learning and Teaching",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is part of a professional development programme for teaching staff at XJTLU and all the aims take into consideration the XJTLU context. Its aims are: • To develop the ability of academic staff to plan, develop, implement and evaluate educationally effective learning, teaching and assessment utilising educational technologies and new, emerging forms of pedagogy in higher education and the wider context of higher education. • To show how awareness of quality assurance and enhancement regarding educational technologies impacts practice, with inclusion of generative AI as an emerging model of educational technology impacting practice. •To enable participants to critically reflect on learning with technologies, such as generative AI, over the duration of the programme and through continuing professional development. • To generate awareness of, and engagement with, the Professional Standards Framework 2023. The aims of this module are aligned with the Professional Standards Framework 2023, which is mapped to Programme-level learning outcomes and module assessments. See Programme Specifications for details.",
+        "Learning outcomes": "A Critically reflect on the requirements for quality assurance and enhancement and their implications for your practice in educational technology-enhanced learning activities and/or assessments. B Critically reflect on the implications of technology-enhanced learning, such as AI-enhanced Learning, within the wider context of higher education, and how you have adapted your teaching practices accordingly with the emerging models of technology-enhanced learning. C Critically reflect on how your utilisation of professional development has impacted the design and enhancement of technology-enhanced learning activities and/or practices and develop your digital literacies. D Critically reflect on digital literacies to support the effective application of educational technologies and tools, such as generative AI tools, to increase student engagement within learning and teaching, incorporating student voices (informal or formal student feedback) as a lens.",
+        "Method of teaching and learning": "• A significant proportion of this module will involve online delivery and online participation by participants. An exception to this will be the face-to-face delivery of the compulsory workshops. • Participants will be able to select from a range of practical, reflective and research-based tasks, including effectively implementing technology into their learning and teaching, evaluating the application of technology-informed approaches to the teaching of their own discipline, evaluating their own digital competencies and digital literacies. • Use of a wide variety of resources that are available via Learning Mall Core and the Higher Education Academy (www.heacademy.ac.uk). • Participants will have access to AI-powered resources, such as AI assistants, to support them in transforming their teaching practices into technology-enhanced approaches. • Support from a mentor (normally a more senior colleague from the same discipline as the participant and/or a colleague with Senior Fellow HEA)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PGC404&psl_code=SEM2"
+    }
+  ]
+}

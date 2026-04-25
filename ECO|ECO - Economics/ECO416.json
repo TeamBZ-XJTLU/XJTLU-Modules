@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Economic Growth, Technology And Environment",
+  "module_code": "ECO416",
+  "offerings": [
+    {
+      "heading": "Economic Growth, Technology And Environment",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Economic Growth, Technology And Environment",
+        "module_code": "ECO416",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Economic Growth, Technology And Environment",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with advanced knowledge of models and practices underpinning economic growth, sustainable development and growth accounting. Such popular concepts as growth, sustainable growth, productivity and creative destruction are explained. The module contains mathematical derivations, and a background in calculus and macroeconomic is beneficial.",
+        "Learning outcomes": "A. Describe various growth theories, their advantages and shortcomings B. Gain the ability to tweak models and to use them in thought experiments or policy evaluations C. Distinguish the differences between sustainable growth and unconstrained growth D. Use and interprete data on growth accounting, innovation and productivity",
+        "Method of teaching and learning": "Module combines lectures and seminars for a more in depth learning experience. Weekly lectures provide essential information concerning theory and application. Seminars are intended for further discussion of course material and helping students develop their skills at using and applying those material."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO416&psl_code=SEM2"
+    }
+  ]
+}

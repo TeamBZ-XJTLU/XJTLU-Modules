@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Contemporary Russian Politics And Economy",
+  "module_code": "INS209",
+  "offerings": [
+    {
+      "heading": "Contemporary Russian Politics And Economy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Contemporary Russian Politics And Economy",
+        "module_code": "INS209",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Contemporary Russian Politics And Economy",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module is to provide students with a broad introduction to Russian politics, economy, foreign and energy policy issues. The interdisciplinary approach enables students to study and evaluate the main aspects of the development of the Russian society after 1991. Taking the Russian experience as a starting point, the module will help students develop their critical thinking skills, which they can apply in their future studies of other regions and countries.",
+        "Learning outcomes": "A demonstrate critical knowledge about how contemporary Russian society works in terms of politics, economy and foreign policy B demonstrate critical theoretical tools for the study of politics, economy, finance, foreign and energy policy C Apply theoretical knowledge to analyze contemporary Russian politics, economy and foreign policy D Produce academic writing in the fields of politics, economy and foreign policy",
+        "Method of teaching and learning": "Lectures and seminars. Students will submit mid-term writing group assignments (25%) based on a selection of limited topics designed by the instructor. Particular attention will be paid to theoretical and methodological issues. Students will choose the topic of the final essay (75%) with the instructor’s approval."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS209&psl_code=SEM1"
+    }
+  ]
+}

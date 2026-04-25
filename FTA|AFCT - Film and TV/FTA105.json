@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Documentary Theory and Practice",
+  "module_code": "FTA105",
+  "offerings": [
+    {
+      "heading": "Documentary Theory and Practice",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Documentary Theory and Practice",
+        "module_code": "FTA105",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Documentary Theory and Practice",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to: build on the students’ practical skills and knowledge of production established during semester one and aims to develop their critical understanding of documentary production as well as offering the opportunity to author a short documentary film.",
+        "Learning outcomes": "A Analyse the development of documentary forms and functions. B Demonstrate a clear understanding of the character of the debates about ‘truthfulness’ and ‘the real’ which have surrounded documentary work in relation to a short documentary project. C Develop their knowledge of research and production techniques in relation to documentary production work. D Demonstrate an understanding of the nature of pre-production, production, and post-production work in relation to documentary production.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (lectures and practical workshops). The lectures will introduce students to the form and function of documentary as it has developed internationally, in both film and television and aims to develop their critical understanding of documentary production. The practical workshops will develop production skills such as planning, organisation, production management, camera, lighting, sound and post production techniques. Students will work independently or in small crews to develop their ideas and produce their own short documentary."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA105&psl_code=SEM1"
+    }
+  ]
+}

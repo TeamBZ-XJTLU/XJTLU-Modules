@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Strategic Operations Management",
+  "module_code": "IOM404",
+  "offerings": [
+    {
+      "heading": "Strategic Operations Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Strategic Operations Management",
+        "module_code": "IOM404",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Strategic Operations Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to demonstrate how operations management can influence and shape competitive strategy. Specific topics include the examination of modern business drivers and competitive performance (time compression, responsiveness, waste elimination etc.), the achievement of competitive advantage through operations management, globalisation and supply chains, agility and ECR examples and operations performance measurement. Leading-edge operational practice is analysed within each topic covered. The aims are that the student will: • Develop a conviction that operations can be managed as a strategic resource and understand the strategic role and importance of operations. • Understand the drivers and dimensions of competitive performance. • Understand operations strategy process and practice in the context of its importance to the success of a company in its marketplace. • Understand the inputs to the development of an operations strategy.",
+        "Learning outcomes": "Students completing the module successfully should: A Demonstrate an awareness of the principles governing modern approaches to the management of operations. B Identify and apply methods for establishing fit between markets, operations and supply chains. C Interpret operations success and business health and performance using a range of financial and non-financial measures. D Identify a range of operations and supply chain management initiatives and techniques that can be considered in the development of an operations strategy. E Have the research skills and appreciation of both strategic and functional management practice in order to be able to plan and undertake work at a postgraduate level within a Management discipline.",
+        "Method of teaching and learning": "• Teaching will be in a 3 hour seminar which will incorporate lecture and review, case studies and discussion. • A game to simulate supply chain operations and strategic aspects of supply chain performance (the supply chain co-ordination game), will be run during two of the sessions. • Although taking the form of a traditional lecture programme, the module will be primarily case-based. • Textbooks covering the basic material and others which can be used for further reading. • References to journal articles will expose students to state-of-the-art studies. • Use of best practice web-sites will be utilised to further expose students to practical case studies. • For case study assessment purposes, each assessment will examine specific issues as covered in the syllabus."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM404&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Computational Chemistry",
+  "module_code": "CHE317",
+  "offerings": [
+    {
+      "heading": "Computational Chemistry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Computational Chemistry",
+        "module_code": "CHE317",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Computational Chemistry",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To introduce students to molecular modelling techniques using examples from inorganic and organic chemistry, and materials science.",
+        "Learning outcomes": "A Understand the importance of molecular modelling in chemistry and materials science. B Explain ab initio, semi-empirical and empirical models, knowing which model is suitable for a particular type of problem. C Explain Molecular Dynamics and Monte Carlo simulation methods, knowing which method is suitable for a particular type of problem. D Apply molecular/materials simulation techniques to solve chemistry and materials science problems. E Evaluate supportive technologies in modelling molecular and extended structure processes.",
+        "Method of teaching and learning": "Lectures and computational labs"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE317&psl_code=SEM1"
+    }
+  ]
+}

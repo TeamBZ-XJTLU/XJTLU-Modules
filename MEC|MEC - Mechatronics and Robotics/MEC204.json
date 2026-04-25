@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MEC",
+    "domain_code": "MEC",
+    "full_name": "Mechatronics and Robotics"
+  },
+  "full_name": "Mechanical Engineering Design",
+  "module_code": "MEC204",
+  "offerings": [
+    {
+      "heading": "Mechanical Engineering Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MEC",
+        "full_name": "Mechanical Engineering Design",
+        "module_code": "MEC204",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Mechanical Engineering Design",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides fundamental knowledge and practical skills for the design and development of general mechanical systems, in alignment with specified objectives such as performance, cost-effectiveness, safety, environmental sustainability, and reliability, while also addressing ethical considerations, quality management, engineering management principles, and intellectual property rights. Fundamentals cover the general knowledge regarding procedures of and relevant standards applicable to designing mechanical systems, including synthesis and analysis of mechanisms and machines, modelling of kinematics and dynamics, selection of appropriate mechanical elements with corresponding motion and load analyses, and finally the manufacturing processes related to the designed system involving part/component fabrication and assembly. Practical skills include mathematical modelling (e.g. statics and dynamics, motion/kinematics analysis, load and stress analysis, etc.), use of relevant CAD software and/or any other tool applicable for analysis and design.",
+        "Learning outcomes": "A. Comprehend and apply the fundamental concepts and principles of mechanical engineering design to industrial applications. B. Evaluate mechanics analysis approaches for structural components and mechanical systems. C. Analyze mechanical structures and apply appropriate design and analysis methods, incorporating principles of quality management and engineering management. D. Appraise and evaluate the applicability and the limitations of the techniques, with consideration of ethical issues and intellectual property rights.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures, tutorials and supervised laboratory sessions. Continuous assignments, which enable students to use the acquired knowledge in an integrated manner, are adopted to assess students’ learning outcomes. Lectures：Lectures provide students with the theoretical foundation of mechanical engineering design, covering core topics such as material selection, force and stress analysis, design principles of mechanical components. Key concepts and design approaches are introduced through structured presentations, supplemented by case studies and problem-based examples to connect theory with real-world applications. Tutorials：Interactive tutorials are designed to deepen students’ understanding of essential topics through guided exercises and worked examples. Numerical Laboratories: Numerical lab sessions allow students to develop computational and simulation skills relevant to modern design practices. Students will use software tools to perform design calculations, modelling, and finite element analysis (FEA), enabling them to validate design choices and assess performance under simulated conditions. Physical Laboratories：Physical lab sessions provide students with hands-on experience in experimental testing. These sessions bridge the gap between theoretical design concepts and their real-world implementation, enhancing students’ practical problem-solving abilities. Workshops and Seminars：Workshops offer focused training on specialized design topics, including finite element analysis (FEA), design for additive manufacturing, and sustainable design principles. Seminars delivered by academic researchers and industry experts expose students to current advancements, professional practices, and emerging challenges in mechanical engineering design. Independent Study: Students are encouraged to engage in self-directed learning beyond scheduled class time, utilizing engineering literature, technical standards , and professional databases."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MEC204&psl_code=SEM2"
+    }
+  ]
+}

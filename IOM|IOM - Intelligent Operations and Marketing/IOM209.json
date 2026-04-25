@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Business Intelligence",
+  "module_code": "IOM209",
+  "offerings": [
+    {
+      "heading": "Business Intelligence",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Business Intelligence",
+        "module_code": "IOM209",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Business Intelligence",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to provide a foundational knowledge of Business Intelligence (BI) and how businesses can harness the benefits of BI by combining business analytics, data mining, data visualisation tools and organisations IT (Information Technology) infrastructure to make more data-driven decisions.",
+        "Learning outcomes": "A. Explain the concepts and components of Business Intelligence (BI) and discuss the role thatBI can play in supporting businesses and their decision-making. B. Evaluate the suitability of BI technological tools for organizational needs. C. Interpret and present data and information to support decision-making. D. Apply the fundamental concepts and techniques in data visualization for decision-making.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures and tutorials. Lectures will be designed to provide essential information and introduce students to the academic content and practical skills which are the subject of this module. Tutorials will be based around practical exercises, the completion of which and their discussion in workshops will provide students with a learning opportunity designed to extend the material introduced in the lectures."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM209&psl_code=SEM2"
+    }
+  ]
+}

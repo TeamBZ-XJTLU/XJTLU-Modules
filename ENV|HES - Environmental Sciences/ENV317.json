@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Environment and Society",
+  "module_code": "ENV317",
+  "offerings": [
+    {
+      "heading": "Environment and Society",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Environment and Society",
+        "module_code": "ENV317",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Environment and Society",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to familiarize students with social science perspectives on environment. It explores the ways in which social structures and culture shape human action towards the environment and the ways in which the environment affects human lives. In addition to providing an overview of the social approaches to environment, the module invites students to learn about, and critically reflect upon, some of the controversies in the field of environment and society.",
+        "Learning outcomes": "A illustrate the social construction of environment B identify the social forces that contribute to environmental inequalities and injustice C critically discuss contemporary debates regarding environmental issues",
+        "Method of teaching and learning": "This module will be delivered through lectures and seminars. Students are expected to conduct independent study and practical work as part of the module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV317&psl_code=SEM1"
+    }
+  ]
+}

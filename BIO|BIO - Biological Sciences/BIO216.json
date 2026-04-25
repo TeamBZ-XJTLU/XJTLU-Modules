@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Artificial Intelligence for Life Science",
+  "module_code": "BIO216",
+  "offerings": [
+    {
+      "heading": "Artificial Intelligence for Life Science",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Artificial Intelligence for Life Science",
+        "module_code": "BIO216",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Artificial Intelligence for Life Science",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module “Artificial Intelligence for Life Science” is to provide students with a fundamental understanding of the key principles, techniques, and concepts that underlie artificial intelligence (AI). This module covers topics such as Introduction to AI, Intelligent agents, problem-solving algorithms, Constraint Satisfaction Problems, Uncertainty, Machine learning. Its goal is to lay the groundwork for students to develop the knowledge and skills necessary to work with AI technologies, design AI systems, and contribute to advancements in the field of AI. Upon completion of this module, students will gain valuable insights into the AI techniques, machine learning and ultimately get a solid foundation for further study and research in artificial intelligence. Students learn to apply AI algorithms to solve complex problems, which can be beneficial not only in AI-related roles but also in problem-solving across different domains, such as biology, healthcare and more, fostering interdisciplinary skills. This module includes hands-on projects, allowing students to gain practical experience in developing AI applications and building a portfolio of projects to showcase for future career development.",
+        "Learning outcomes": "A. Translate an AI problem to a specification of the agent's task and environment, and identify the appropriate type of environment for a given problem as well as corresponding methods for solving search problems within this environment; B. Provide a precise problem formulation for a problem-solving agent; C. Explain and discuss different algorithms for search, and identify the most suitable approach for a given problem; D. Gain a deep understanding of the fundamental concepts in machine learning, including supervised learning, unsupervised learning, reinforcement learning and their applications. E. Understand and analyze the basics of regression, classification, clustering problems, and demonstrate a familiarity with related algorithms. F. Implement and apply AI techniques to biomedical data analysis",
+        "Method of teaching and learning": "Each lecture of the module is complemented by hands-on demonstrations using the programming language Python. Students will have the opportunity to work with practical cases including high-quality example biomedical datasets to learn how to use AI for real-world problems. Throughout the module, students will also be exposed to a variety of case studies and examples that showcase the use of AI and machine learning techniques in the analysis of biomedical, such as clinical image classification, and biomarker identification. By the end of the module, students will be well-versed in the practical application of AI in biology, and they will be equipped with the necessary skills to develop, validate, and interpret machine learning models for a wide range of biological data types. This comprehensive understanding will prepare them to contribute effectively to the rapidly evolving field of AI and to harness the power of AI to drive advancements in biomedical research."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO216&psl_code=SEM2"
+    }
+  ]
+}

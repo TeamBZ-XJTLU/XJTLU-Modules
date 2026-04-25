@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Business Analytics",
+  "module_code": "IFB412TC",
+  "offerings": [
+    {
+      "heading": "Business Analytics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Business Analytics",
+        "module_code": "IFB412TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Business Analytics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to  Equip students with practical programming skills (Python) tailored to business analytics.  Bridge the gap between programming technicality and business application: students will learn to translate business questions into code, analyze results, and communicate findings to non-technical stakeholders.  Develop proficiency in business analytics workflows using programming: data collection, data cleaning, exploratory data analysis (EDA), statistical modeling, and visualization.  Prepare students for roles in business analytics by emphasizing industry-relevant tools, best practices, and problem-solving for real business scenarios. The module supports the MSc Digital Business’s goal of producing analytics-ready graduates by framing programming not as a technical skill in isolation, but as a tool to solve business problems—aligning with employer demands for analysts who can “code, analyze, and communicate.",
+        "Learning outcomes": "A. Critically evaluate core programming concepts and their application to business analytics tasks (e.g., automating monthly sales reports, cleaning customer datasets). B. Evaluate the quality of analytics outputs (e.g., model accuracy, visualization clarity) and refine code to address gaps (e.g., adjusting a clustering algorithm to better segment high-value customers) C. Use Python to execute end-to-end business analytics workflows and create interactive business dashboards, with code that is well-documented and reproducible. D. Collaborate in cross-functional teams to solve business problems using programming",
+        "Method of teaching and learning": "The teaching philosophy of the module adopts the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially the use of problem-based assessment which is project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. This module will be delivered through lectures, seminars and tutorials. Teaching will be conducted using problem-based learning, with problems embedded in the lectures. General transferable skills are developed through the presentation of written and oral reports."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB412TC&psl_code=SEM2"
+    }
+  ]
+}

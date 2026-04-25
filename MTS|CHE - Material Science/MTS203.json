@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "MTS",
+    "full_name": "Material Science"
+  },
+  "full_name": "AI Materials Design Project",
+  "module_code": "MTS203",
+  "offerings": [
+    {
+      "heading": "AI Materials Design Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTS",
+        "full_name": "AI Materials Design Project",
+        "module_code": "MTS203",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "AI Materials Design Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides students with an integrated, project based learning experience at the intersection of Materials Science and Artificial Intelligence. It combines the group design methodology from traditional materials engineering with cutting edge AI tools to solve real world materials design challenges. Students will learn how to apply advanced AI algorithms including graph neural networks, transformers, and molecular machine learning to accelerate materials design and its discovery, predict properties with high accuracy, and extract insights from scientific literature. Through hands on labs, case studies, and a capstone group project, students will develop both technical proficiency in AI driven materials design and professional skills in teamwork, project management, and communication.",
+        "Learning outcomes": "A Identify and assess real-world materials discovery, optimization, and sustainability problems across industries such as energy, semiconductors, and manufacturing through case-study analysis. B Implement neural networks and numerical methods to model, predict, and optimize mechanical, electronic, and environmental performance of materials. C Apply advanced AI methods to mine and synthesize materials-related information from research literature. D Conduct lifecycle assessment and multi-objective optimization to inform environmentally conscious material selection and design. E Plan, develop, and deliver a group design project, integrating AI tools, teamwork, and professional communication from scoping through final presentation.",
+        "Method of teaching and learning": "• Lectures: Interactive sessions with live demos (e.g., Google colab; Jupyter notebooks for implementing open-source AI tools designed specific for materials science). • Tutorials: Code reviews, debugging, and case study discussions. Practicals: • Group Projects: Peer-assessed, with milestones (proposal, interim, final pitch). • Lab/Practicals: Hands-on practice of using open-source AI tools for solving problems on materials science."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTS203&psl_code=SEM2"
+    }
+  ]
+}

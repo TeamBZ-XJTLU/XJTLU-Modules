@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Environmental Economics for Environmental Sciences",
+  "module_code": "ENV223",
+  "offerings": [
+    {
+      "heading": "Environmental Economics for Environmental Sciences",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Environmental Economics for Environmental Sciences",
+        "module_code": "ENV223",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Environmental Economics for Environmental Sciences",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module provides an introduction to environmental economics and is developed for students of non-economic study programmes. The aim of the course is to show how environmental problems can be approached and analyzed using economic theory. Furthermore, the module demonstrates how economics provides guidance to address serious environmental problems such as global warming, ozone depletion, carbon sequestration, air and water pollution at different scales (global, regional). The students will learn how markets function and under which conditions markets fail, giving rise to a misallocation of resources causing environmental problems. These insights will then be used to analyze how policy interventions can correct market failure and enhance social welfare. The course also introduces students to recent policy developments regarding environmental and sustainability issues.",
+        "Learning outcomes": "A: Understand the theoretical foundations of environmental economics, including key concepts such as sustainability, efficiency, and market failure. B: Analyze environmental problems, such as pollution, from an economic perspective, with a focus on externalities and resource misallocation. C: Evaluate key economic instruments and policy measures, such as taxes, subsidies, eco-labeling and tradable permits, to address environmental issues on a global scale. D: Apply economic concepts to specific cases in environmental economics to assess policy effectiveness and promote sustainable outcomes. E: Explain the strengths and limitations of environmental economic analysis, with a focus on improving decision-making for environmental protection.",
+        "Method of teaching and learning": "The module will be delivered in lectures and seminars. The lectures will provide an overview of economic concepts, economic instruments, and policy measures. The seminars will explore case studies of important environmental issues and environmental problems such as, for example, pollution control, and will include the oral presentations of the students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV223&psl_code=SEM1"
+    }
+  ]
+}

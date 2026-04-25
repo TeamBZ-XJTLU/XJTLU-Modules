@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHP",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "Micro/Nano Electromechanical Systems",
+  "module_code": "MES403TC",
+  "offerings": [
+    {
+      "heading": "Micro/Nano Electromechanical Systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Micro/Nano Electromechanical Systems",
+        "module_code": "MES403TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Micro/Nano Electromechanical Systems",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module presents the fundamentals of Microelectromechanical Systems (MEMS) Nanoelectromechanical Systems (NEMS), culminating in advanced concepts and applications. Major topics covered include electrostatic actuation and capacitive sensing, piezoelectric actuation and sensing, thermal actuation and sensing, optical MEMS devices and nanophotonics, CMOS MEMS devices, inertial sensors, RF MEMS devices, resonators and clocking, NEMS sensors, energy harvesters, and packaging technology. The module aims to introduce students to the basic theory of nano- and microsystems. Students will deeply understand the development of integration design, testing, reliability evaluation, and system packaging of advanced MEMS and NEMS.",
+        "Learning outcomes": "A Understand the interactions between actuation and sensing, computing and communication, and other processes and phenomena in MEMS and NEMS. B Understand and implement the fabrication process of MEMS. C Gain a consolidated knowledge of working principle and key features of typical MEMS devices. D Understand the assembly and package process of MEMS. E Be familiar with several typical MEMS products and their applications.",
+        "Method of teaching and learning": "This module will be delivered through lectures, tutorials and experiments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES403TC&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FAM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Calculus (Science and Engineering)",
+  "module_code": "MTH013",
+  "offerings": [
+    {
+      "heading": "Calculus (Science and Engineering)",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Calculus (Science and Engineering)",
+        "module_code": "MTH013",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Calculus (Science and Engineering)",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To give students a broad education in calculus and linear algebra, which include the topics usually covered in a course on single-variable calculus; To give students an appreciation of the application of mathematics to science and engineering; To develop the students' ability to work independently and to acquire the skill of problem solving.",
+        "Learning outcomes": "A. have a good understanding of the basic concepts which are the subject of this module; B. have a good appreciation of the link between mathematics and Science and Engineering; C. be skilful of problem solving; D. be able to establish mathematical models for simple practical problems. E. train students’ ability in learning academic contents using English",
+        "Method of teaching and learning": "Students will be expected to attend 3 hours of formal lectures and 1 hour of tutorial in a typical week. In lectures, teachers will introduce the academic content and practical skills which are the subject of the module. In the tutorials, the students can practice those skills. In addition to the formal lectures and tutorials, students are expected to devote the unsupervised time to study the lecture materials and background readings. Online resources will be provided to the students to promote their active learning and self-leaning. Continuous assessment including online home assignments will be used to assess the learning outcomes. Written examinations in the middle and at the end of the semester constitute the major part of the assessment of the academic achievement of students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH013&psl_code=SEM1"
+    }
+  ]
+}

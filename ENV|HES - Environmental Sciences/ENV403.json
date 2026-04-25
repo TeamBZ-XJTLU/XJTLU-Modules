@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Common Research Issues in Environmental Sciences",
+  "module_code": "ENV403",
+  "offerings": [
+    {
+      "heading": "Common Research Issues in Environmental Sciences",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Common Research Issues in Environmental Sciences",
+        "module_code": "ENV403",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Common Research Issues in Environmental Sciences",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aim is to increase environmental science students’ ability to identify common research issues that could be found both in published literature and in designing their own research project. Issues addressed here include research ethics, replication, pseudo-replication, confirmation bias, publication bias, correlation and causation, HARKing, reproducibility in research, predictive and casual models, ratios, and misinformation. The methods to avoid these issues will be also explored.",
+        "Learning outcomes": "A Identify common environmental science research issues in published research literature and in the experimental design of a research project B Assess the impacts of these issues on the validity, generality, and applicability of the research outcome C Explore methods to avoid these issues D Verbally present a group consensus opinion to the entire class E Communicate in writing their understanding of common research issues",
+        "Method of teaching and learning": "This module will be delivered through lectures and seminars. Each lecture will introduce one of the key issues impacting environmental science research. Students will need to read materials in advance before class and write a short summary. During the class, students will be divided into small groups to discuss the potential impacts of each issue. Then one spokesperson of each group will make an oral presentation to the entire class. Finally, students will write a reflection to summarize their understanding of this issue and explore methods to avoid these issues."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV403&psl_code=SEM1"
+    }
+  ]
+}

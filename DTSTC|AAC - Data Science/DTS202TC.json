@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "Fundamentals of Parallel Computing",
+  "module_code": "DTS202TC",
+  "offerings": [
+    {
+      "heading": "Fundamentals of Parallel Computing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DTSTC",
+        "full_name": "Fundamentals of Parallel Computing",
+        "module_code": "DTS202TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Fundamentals of Parallel Computing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provides an introduction to parallel computing on modern supercomputer. The aim of this module is to provide students with an understanding of the modern processors and architectures of parallel computers, enable students to have preliminary ability in design and implementation of parallel algorithms in MPI. Parallel programming with emphasis on developing applications for processors with many computation cores. Computational thinking, forms of parallelism, programming models, mapping computations to parallel hardware, efficient data structures, paradigms for efficient parallel algorithms, and application case studies.",
+        "Learning outcomes": "A. Use profiling tools to identify bottlenecks in a serial algorithm and understand their impact on performance B. Identify and solve a computational problem through parallel algorithm design C. Design, implement, and optimize parallel algorithms using appropriate tools and techniques (e.g., pthreads, OpenMP, MPI, CUDA) D. Analyze the performance and efficiency of parallel algorithms",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. Students will be expected to attend about formal lectures, seminars, tutorials as well as labs. Students will be introduced to the academic content and have a understanding of lecture materials. In addition, students will be expected to devote unsupervised time to private study. Private study will provide time for reflection and consideration of lecture material and background reading"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS202TC&psl_code=SEM1"
+    },
+    {
+      "heading": "Fundamentals of Parallel Computing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DTSTC",
+        "full_name": "Fundamentals of Parallel Computing",
+        "module_code": "DTS202TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Fundamentals of Parallel Computing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provides an introduction to parallel computing on modern supercomputer. The aim of this module is to provide students with an understanding of the modern processors and architectures of parallel computers, enable students to have preliminary ability in design and implementation of parallel algorithms in MPI. Parallel programming with emphasis on developing applications for processors with many computation cores. Computational thinking, forms of parallelism, programming models, mapping computations to parallel hardware, efficient data structures, paradigms for efficient parallel algorithms, and application case studies.",
+        "Learning outcomes": "A. Use profiling tools to identify bottlenecks in a serial algorithm and understand their impact on performance B. Identify and solve a computational problem through parallel algorithm design C. Design, implement, and optimize parallel algorithms using appropriate tools and techniques (e.g., pthreads, OpenMP, MPI, CUDA) D. Analyze the performance and efficiency of parallel algorithms",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. Students will be expected to attend about formal lectures, seminars, tutorials as well as labs. Students will be introduced to the academic content and have a understanding of lecture materials. In addition, students will be expected to devote unsupervised time to private study. Private study will provide time for reflection and consideration of lecture material and background reading"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS202TC&psl_code=SEM2"
+    }
+  ]
+}

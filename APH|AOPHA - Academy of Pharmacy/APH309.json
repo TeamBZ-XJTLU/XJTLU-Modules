@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Biopharmaceutical Engineering",
+  "module_code": "APH309",
+  "offerings": [
+    {
+      "heading": "Biopharmaceutical Engineering",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Biopharmaceutical Engineering",
+        "module_code": "APH309",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Biopharmaceutical Engineering",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "1. To provide a contemporary review of the classification and mechanism of biopharmaceuticals 2. To develop the students with the deep understanding of recombinant biologics and monoclonal antibodies. 3. To build upon the knowledge and understanding of the principles of biopharmaceutical drug design and the application in prevention, diagnosis and treatment of diseases.",
+        "Learning outcomes": "A Outline the main types biopharmaceuticals and summarize clearly and the characteristic and principle of genetic engineering B Deeply understand procedures in the preparation of recombinant monoclonal antibodies and demonstrate the principle of gene therapy C Demonstrate the categories of vaccines D Understand principles of stem cell therapy and determine suitable application of precision medicine E Discuss the relationship between biosimilars and bio betters in drug development F Deeply understand the concept of bioequivalent and bioavailability",
+        "Method of teaching and learning": "The module will be delivered through standard lectures, which will be accompanied by relevant lecture handouts. Students will also be guided to sections of specific textbooks and if reading of specific reviews or literature sources is required, then copies of these will be made available in the library for use by the students. At intervals during the module, tutorials will be held for the students to deeply understand the principle of this module. Animations and/or videos will be shown for some of the topics. Review sessions will be arranged towards end of the semester and the students will have opportunities to self-assess their understanding of the course. Industry site visits are to be selected to visit pharmaceutical companies. Students will attend a 2-hour lecture and a 1-hour tutorial per week. Students will also be given guidance and opportunities to practice the various skills mentioned in the specifications. Self-study activities will be extensions or consolidations of work carried out in the lecture and tutorial. There will be 2-day field trips arranged for students to better understand the aims of the teaching. Assessment components of this module will include: 1) questions or tests in lectures or tutorials; 2) coursework to review the topics; 3) group discussion or report that summarizes the field visit; and 4) presentation of a critique of the teaching topics. The feedback will help improve the teaching quality and ensure the quality of summative assessment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH309&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Dissertation for MRes Management",
+  "module_code": "SMO416",
+  "offerings": [
+    {
+      "heading": "Dissertation for MRes Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Dissertation for MRes Management",
+        "module_code": "SMO416",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "40",
+        "Module Level": "Level 4",
+        "Module Title": "Dissertation for MRes Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Students are required to submit a dissertation that reports an independently conducted and original research project (under faculty supervision) on an approved specialist topic of interest to them, and that applies the knowledge gained from the modules on their programme of study. The dissertation must demonstrate analytical, quantitative and/or qualitative research skills as appropriate to the research topic and for addressing the research questions. Depending on the focus, the dissertation will combine both theory and empirical work in varying proportions. The research must demonstrate intellectual depth in a management or business-related topic.",
+        "Learning outcomes": "A Demonstrate an ability to conduct original research in the field of business and management. B Be able to interpret and communicate knowledge in business and management based on research at the frontiers of knowledge. C Produce a dissertation conforming to scholarly conventions that upon further peer review and revision has the potential to be accepted for publication in a recognized business or management journal. D Demonstrate breadth and depth of understanding in a specific subject area in the field of business and management. E Demonstrate persistence in the face of research related setbacks. F Demonstrate the ability to apply tools and skills acquired on the MRes Management programme to answer research questions or address a specific set of problems in the business and management field.",
+        "Method of teaching and learning": "Independent study punctuated by regular meetings with supervisor and participation in research seminars. Meetings with the supervisor (and relevant faculty) anticipates completed research drafts as per a pre-agreed schedule."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO416&psl_code=SEM1"
+    }
+  ]
+}

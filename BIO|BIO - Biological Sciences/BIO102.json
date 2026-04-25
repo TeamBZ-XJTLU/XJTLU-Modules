@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Experimental Design and Analysis",
+  "module_code": "BIO102",
+  "offerings": [
+    {
+      "heading": "Experimental Design and Analysis",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Experimental Design and Analysis",
+        "module_code": "BIO102",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "Experimental Design and Analysis",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This practical module will provide training in experimental design and hypothesis formulation. Students will learn how to design simple experiments and how these can be used to solve problems in biological and biomedical research. Analysis involves identifying the appropriate statistical tools and applying them to the interpretation of the data. This module uses biochemical, biological, enzyme assays and a number of other data, however the underlying principles can be applied to experimental work in any field of biology.",
+        "Learning outcomes": "A. Define concepts of experimental design and apply these to formulate scientific hypotheses. B. Demonstrate ability to plan and conduct a series of simple experiments for testing hypotheses using laboratory equipment relevant to biochemical, biological and enzyme assays. C. Develop the ability to record/summarize/ interpret procedures and protocols. D. Process, analyse and assess data by applying appropriate statistics. E. Summarize, present, interpret qualitative and quantitative data, and interpret validity. F. Develop team-working and individual skills and also learn to manage time effectively.",
+        "Method of teaching and learning": "This module is delivered through a combination of lectures and laboratory practicals. In addition, each laboratory session will be preceded by a tutorial session to provide background in theory and procedures. In the laboratory session students will work individually or within small groups and receive help in the planning, execution and interpretation of the experiments from demonstrators. Course manuals will provide theoretical background, detailed protocols and procedures, and examples of worked data."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO102&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Introduction to Medicinal Chemistry",
+  "module_code": "CHE310",
+  "offerings": [
+    {
+      "heading": "Introduction to Medicinal Chemistry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Introduction to Medicinal Chemistry",
+        "module_code": "CHE310",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Introduction to Medicinal Chemistry",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to introduce students to the fundamental principles that underpin modern medicinal chemistry, including an introduction to targets for drug action, methods of administration, qualitative and quantitative SAR, computer aided molecular design, solid phase chemistry /combinatorial chemistry. The course also aims to describe in detail the chemical mechanisms of antitumour agents.",
+        "Learning outcomes": "By the end of this module students are expected to have acquired an understanding of - The principle bonding interactions in drug receptor interactions The basic concepts of structure activity relationships (SAR) and quantitative structure activity relationships (QSAR) - The principles behind computer aided molecular design and 3-D QSAR - Peptide synthesis, protecting groups and combinatorial chemistry - Chemical mechanisms of drugs that target DNA - and will be able to use these concepts and principles to solve simple problems in medicinal chemistry",
+        "Method of teaching and learning": "This course will be taught by a series of lectures in Chemistry. Students will learn how to apply their knowledge by completing a series of related tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE310&psl_code=SEM1"
+    }
+  ]
+}

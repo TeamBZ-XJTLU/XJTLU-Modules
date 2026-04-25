@@ -1,0 +1,80 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Educational Research: Theory and Practice",
+  "module_code": "EDS443",
+  "offerings": [
+    {
+      "heading": "Educational Research: Theory and Practice",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Educational Research: Theory and Practice",
+        "module_code": "EDS443",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Educational Research: Theory and Practice",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are to introduce principles and practices in educational research and support students in developing a well-articulated understanding of the nature of educational research. Through critically engaging with the evidence and methodologies, this module cultivates students’ capacity to design rigorous and independent research, enhancing their knowledge and skills in selecting appropriate research designs, data collection, and data analysis techniques to examine complex educational problems from professional work settings. This year-long introductory module is offered in Year 1 of the EdD programme. It enables students to acquire a general and comprehensive picture of educational research and prepares students to transition to more specific and sophisticated research methods in Year 2 of the EdD programme. This module sets the foundation for building up research knowledge and skills for the thesis stage.",
+        "Learning outcomes": "A. Demonstrate a deep understanding of the theoretical foundations and key concepts for major research methods in the social sciences: quantitative, qualitative, and mixed methods. B. Evaluate and critique various educational literature, research designs, and methods commonly employed in educational research. C. Independently apply a range of research methods in theoretical and empirical studies and be able to evaluate the validity, reliability, and generalisability of research. D. Develop a research proposal that includes clear research questions, rigorous research design, and ethical considerations to solve educational problems in professional workplaces. E. Fully understand professional standards and research ethics and integrity in data collection, analysis, and reporting.",
+        "Method of teaching and learning": "The teaching sessions consist of lectures and tutorials. The lectures are both theoretical and interactive to introduce the fundamental knowledge of the module and develop research skills. The materials covered in the lectures lay a foundation for tutorial components which follow an interactive and project-based approach where appropriate. Online-onsite blended teaching and learning with a flipped classroom strategy provides students with both interpersonal relations and hands-on learning opportunities, as well as deeper reflective opportunities. Delivery strategies focus on student-centred interactive activities and, where possible, integrating technology to facilitate learning. Students are guided to integrate the lectures and tutorials with real-life problems in their professional workplaces by designing action research, observational research, or participatory research using appropriate research methods, which builds up essential research skills for the thesis stage and future scholarly publications."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS443&psl_code=ACYR"
+    },
+    {
+      "heading": "Educational Research: Theory and Practice",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Educational Research: Theory and Practice",
+        "module_code": "EDS443",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Educational Research: Theory and Practice",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are to introduce principles and practices in educational research and support students in developing a well-articulated understanding of the nature of educational research. Through critically engaging with the evidence and methodologies, this module cultivates students’ capacity to design rigorous and independent research, enhancing their knowledge and skills in selecting appropriate research designs, data collection, and data analysis techniques to examine complex educational problems from professional work settings. This year-long introductory module is offered in Year 1 of the EdD programme. It enables students to acquire a general and comprehensive picture of educational research and prepares students to transition to more specific and sophisticated research methods in Year 2 of the EdD programme. This module sets the foundation for building up research knowledge and skills for the thesis stage.",
+        "Learning outcomes": "A. Demonstrate a deep understanding of the theoretical foundations and key concepts for major research methods in the social sciences: quantitative, qualitative, and mixed methods. B. Evaluate and critique various educational literature, research designs, and methods commonly employed in educational research. C. Independently apply a range of research methods in theoretical and empirical studies and be able to evaluate the validity, reliability, and generalisability of research. D. Develop a research proposal that includes clear research questions, rigorous research design, and ethical considerations to solve educational problems in professional workplaces. E. Fully understand professional standards and research ethics and integrity in data collection, analysis, and reporting.",
+        "Method of teaching and learning": "The teaching sessions consist of lectures and tutorials. The lectures are both theoretical and interactive to introduce the fundamental knowledge of the module and develop research skills. The materials covered in the lectures lay a foundation for tutorial components which follow an interactive and project-based approach where appropriate. Online-onsite blended teaching and learning with a flipped classroom strategy provides students with both interpersonal relations and hands-on learning opportunities, as well as deeper reflective opportunities. Delivery strategies focus on student-centred interactive activities and, where possible, integrating technology to facilitate learning. Students are guided to integrate the lectures and tutorials with real-life problems in their professional workplaces by designing action research, observational research, or participatory research using appropriate research methods, which builds up essential research skills for the thesis stage and future scholarly publications."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS443&psl_code=SEM1"
+    },
+    {
+      "heading": "Educational Research: Theory and Practice",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Educational Research: Theory and Practice",
+        "module_code": "EDS443",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Educational Research: Theory and Practice",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are to introduce principles and practices in educational research and support students in developing a well-articulated understanding of the nature of educational research. Through critically engaging with the evidence and methodologies, this module cultivates students’ capacity to design rigorous and independent research, enhancing their knowledge and skills in selecting appropriate research designs, data collection, and data analysis techniques to examine complex educational problems from professional work settings. This year-long introductory module is offered in Year 1 of the EdD programme. It enables students to acquire a general and comprehensive picture of educational research and prepares students to transition to more specific and sophisticated research methods in Year 2 of the EdD programme. This module sets the foundation for building up research knowledge and skills for the thesis stage.",
+        "Learning outcomes": "A. Demonstrate a deep understanding of the theoretical foundations and key concepts for major research methods in the social sciences: quantitative, qualitative, and mixed methods. B. Evaluate and critique various educational literature, research designs, and methods commonly employed in educational research. C. Independently apply a range of research methods in theoretical and empirical studies and be able to evaluate the validity, reliability, and generalisability of research. D. Develop a research proposal that includes clear research questions, rigorous research design, and ethical considerations to solve educational problems in professional workplaces. E. Fully understand professional standards and research ethics and integrity in data collection, analysis, and reporting.",
+        "Method of teaching and learning": "The teaching sessions consist of lectures and tutorials. The lectures are both theoretical and interactive to introduce the fundamental knowledge of the module and develop research skills. The materials covered in the lectures lay a foundation for tutorial components which follow an interactive and project-based approach where appropriate. Online-onsite blended teaching and learning with a flipped classroom strategy provides students with both interpersonal relations and hands-on learning opportunities, as well as deeper reflective opportunities. Delivery strategies focus on student-centred interactive activities and, where possible, integrating technology to facilitate learning. Students are guided to integrate the lectures and tutorials with real-life problems in their professional workplaces by designing action research, observational research, or participatory research using appropriate research methods, which builds up essential research skills for the thesis stage and future scholarly publications."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS443&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SCI",
+    "domain_code": "SCI",
+    "full_name": "Science"
+  },
+  "full_name": "Machine Learning for Science",
+  "module_code": "SCI402",
+  "offerings": [
+    {
+      "heading": "Machine Learning for Science",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SCI",
+        "full_name": "Machine Learning for Science",
+        "module_code": "SCI402",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Machine Learning for Science",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "In the science field, machine learning offers a powerful set of tools for data analysis, pattern recognition, and predictive modelling. It allows scientists to handle large and complex datasets, extract meaningful insights, and make data-driven decisions. This module aims to provide scientists and researchers with a comprehensive understanding of machine learning techniques and their applications in scientific research By integrating machine learning into science programs, students gain the ability to transform their raw data into actionable knowledge, which can lead to new discoveries, more efficient processes, and better-informed policies. The interdisciplinary nature of machine learning ensures that it is a valuable addition to any science curriculum, preparing students for the data-rich future of scientific research and application.",
+        "Learning outcomes": "A. Pre-process data by handling missing values, scaling, normalization, and feature selection and engineering, which is essential for feeding data into machine l earning models. B. Define machine learning, differentiate between supervised and unsupervised learning, and explain the concept of overfitting and underfitting. C. Apply and understand the strengths and weaknesses of machine learning algorithms such as linear regression, decision trees, random forests, support vector machines, k-nearest neighbours, and neural networks. D. Evaluate the performance of machine learning models using various metrics and how to select the appropriate model based on the data and the scientific problem at hand. E. Apply machine learning techniques to real-world scientific problems, understand the limitations and challenges of machine learning in scientific research, and be equipped with the skills to continue learning and adapting to new developments in the field.",
+        "Method of teaching and learning": "Each lecture in the module is complemented by hands-on Python demonstrations, bridging theory and practice. Python’s extensive libraries make it ideal for machine learning, enabling students to grasp complex concepts through coding exercises. Students will work with high-quality scientific datasets to apply AI to real-world problems, gaining practical experience in solving real-life challenges. The module includes tutorial sessions to reinforce lecture content. These interactive sessions provide additional explanations, answer questions, and guide problem-solving exercises, helping students deepen their understanding of complex topics. Multiple lab sessions throughout the module expose students to diverse case studies and examples, focusing on applying AI and machine learning techniques to scientific data analysis. These sessions are crucial for developing practical skills in data preprocessing, model building, evaluation, and interpretation. Students will experiment with different techniques and tools, fostering creativity and problem-solving abilities. Overall, this approach ensures a comprehensive understanding of machine learning for science. Combining lectures, demonstrations, tutorials, and lab sessions, students will develop both theoretical knowledge and practical skills, preparing them to tackle complex scientific problems using machine learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SCI402&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FAM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Mathematics And Statistics For Data Science",
+  "module_code": "MTH413",
+  "offerings": [
+    {
+      "heading": "Mathematics And Statistics For Data Science",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Mathematics And Statistics For Data Science",
+        "module_code": "MTH413",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Mathematics And Statistics For Data Science",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This is a prerequisite module which students are asked to TAKE before entering MTH452 and MTH453. This module helps students learn and consolidate the basic knowledge of mathematics and statistics related to data science. It will cover three aspects: calculus, linear algebra and fundamentals of probability and statistics. Students who successfully complete this course will be able to have a good understanding and mastery of the mathematical principles and methods of calculus and linear algebra related to data science. It is helpful for students to further learn the contents related to optimization methods for data science. This course will also introduce the basic knowledge of statistics, including statistical inference, linear models, linear regression and classification, Bayesian statistics, and so on. Students will also learn to use R to conduct the basic mathematical calculations and statistical analysis.",
+        "Learning outcomes": "A. Carry out calculation related matrices and vectors, including inner product, eigenvalues and eigenvectors and singular value decomposition B. Calculate and implement derivative, integration, partial derivatives, directional derivative, gradient, linear approximations, Taylor series and Lagrange’s multiplier method C. Explain and apply the methods of parameter estimation including maximum likelihood estimation/moment estimation/Bayesian estimation D. Analyze and implement confidence interval, hypothesis testing for statistical inference. E. Perform linear regression and analysis of variance and diagnose/improve regression analysis with data transformation/model refitting, and apply these techniques to solve problems using R.",
+        "Method of teaching and learning": "This module is delivered through formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH413&psl_code=SEM1"
+    }
+  ]
+}

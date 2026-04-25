@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Dissertation",
+  "module_code": "FTA450",
+  "offerings": [
+    {
+      "heading": "Dissertation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Dissertation",
+        "module_code": "FTA450",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Dissertation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides students with a structured framework to undertake an independent research project within the field of Cultural and Creative Industries. It supports the development of advanced research competencies and academic writing skills required at postgraduate level.",
+        "Learning outcomes": "A. Formulate and critically address a self-defined research question and produce adequate research project to address that question B. Identify, analyse and evaluate relevant literature and existing scholarship C. Critically apply appropriate research methods and theoretical constructs to investigate agendas in the cultural and creative industries D. Systematically synthesise evidence through rigorous analysis to present justified interpretation and conclusions",
+        "Method of teaching and learning": "A series of lectures will be delivered to refresh the research knowledge that students acquired previously. These lectures help students contextualise further their research thinking skills. Weekly seminars will be held between the students and the module leaders to discuss and reflect on student’s research progress and the relevant agendas. Students will work independently and demonstrate the progress of their work through lectures and seminars. Students are expected to identify and refine a topic of both personal and academic relevance, working under the guidance of a module leader—who provides general academic support—and an assigned supervisor, who offers subject-specific expertise and ongoing feedback."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA450&psl_code=SEM1"
+    },
+    {
+      "heading": "Dissertation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Dissertation",
+        "module_code": "FTA450",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Dissertation",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides students with a structured framework to undertake an independent research project within the field of Cultural and Creative Industries. It supports the development of advanced research competencies and academic writing skills required at postgraduate level.",
+        "Learning outcomes": "A. Formulate and critically address a self-defined research question and produce adequate research project to address that question B. Identify, analyse and evaluate relevant literature and existing scholarship C. Critically apply appropriate research methods and theoretical constructs to investigate agendas in the cultural and creative industries D. Systematically synthesise evidence through rigorous analysis to present justified interpretation and conclusions",
+        "Method of teaching and learning": "A series of lectures will be delivered to refresh the research knowledge that students acquired previously. These lectures help students contextualise further their research thinking skills. Weekly seminars will be held between the students and the module leaders to discuss and reflect on student’s research progress and the relevant agendas. Students will work independently and demonstrate the progress of their work through lectures and seminars. Students are expected to identify and refine a topic of both personal and academic relevance, working under the guidance of a module leader—who provides general academic support—and an assigned supervisor, who offers subject-specific expertise and ongoing feedback."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA450&psl_code=SEM2"
+    }
+  ]
+}

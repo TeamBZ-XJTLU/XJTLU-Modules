@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Market Research",
+  "module_code": "IOM208",
+  "offerings": [
+    {
+      "heading": "Market Research",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Market Research",
+        "module_code": "IOM208",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Market Research",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To develop an understanding of the need for, and place of, market research in supporting marketing decisions To develop a practical and applied understanding of developments of market research, and an appreciation of its strengths and weaknesses To develop the ability to critically evaluate the methodologies used in market research projects To develop an understanding of ethics in market research",
+        "Learning outcomes": "On successful completion of the module, students will be able to: A. Understand the range of contemporary market research techniques available to marketers B. Demonstrate an understanding of the handling and analysis of questionnaire-derived data and qualitative data C. Apply their understanding of market research to designing their own market research project D. Critically evaluate methods of market research that have been used in marketing projects E. Demonstrate an awareness of ethical issues, and questions of relevance in market research",
+        "Method of teaching and learning": "The module involves a range of teaching strategies including lectures, tutorials, case studies and guest lectures. Additional material will be in the form of web-based reading and research, selected texts, journal articles and contemporary magazine and press articles. Independent research and study will be encouraged throughout to complement groupwork activities. Tutorials will facilitate the sharing of knowledge and experiences of cohort members."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM208&psl_code=SEM2"
+    }
+  ]
+}

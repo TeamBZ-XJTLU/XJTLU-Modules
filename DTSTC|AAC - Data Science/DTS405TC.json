@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "Image Processing and Computer Vision",
+  "module_code": "DTS405TC",
+  "offerings": [
+    {
+      "heading": "Image Processing and Computer Vision",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DTSTC",
+        "full_name": "Image Processing and Computer Vision",
+        "module_code": "DTS405TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Image Processing and Computer Vision",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module focuses on the rapidly advancing and closely related fields of image processing and computer vision, which utilize artificial intelligence techniques to derive meaningful information from image, video, and other visual data. Divided into two parts, the first part of the module will cover fundamental techniques in image processing including acquiring, processing, enhancing image signal; the second part will cover techniques and applications in image/video analysis and computer vision, i.e., analysing and extracting high level information from the world from images in a similar way to humans. The module will be delivered in a practical manner and students will be asked to code algorithms in Python to demonstrate deep and practical understanding of cutting-edge research in image processing and computer vision to solve real-life vision problems.",
+        "Learning outcomes": "A Demonstrate a comprehensive and systematic understanding of the mathematical foundations and algorithmic principles of digital image processing (IP) and computer vision (CV). B Implement different IP and CV algorithms and models, and evaluate them based on appropriate performance metrics. C Demonstrate expert knowledge to offer critical insight into the current state-of-the-art image processing and computer vision technologies. D Expertly analyse real-world IP/CV problems and critically appraise the development of appropriate algorithms used for implementing IP and CV.",
+        "Method of teaching and learning": "The module follows the principles of Syntegrative Education, with emphasis on industry engagement, reduced reliance on examinations, and greater focus on coursework and project-based assessments. Delivery is arranged over a 13-week semester, with one two-hour lecture and one two-hour lab each week. Lectures introduce the core syllabus content and provide students with a solid foundation in image processing and computer vision. Labs offer hands-on experience, enabling students to develop practical programming skills and apply algorithms in practice. Tutorial-style discussions may be incorporated within lectures or labs to encourage critical thinking and analysis of research developments. In addition to contact hours, students are expected to engage in private study for reflection, background reading, and preparation of assessments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS405TC&psl_code=SEM2"
+    }
+  ]
+}

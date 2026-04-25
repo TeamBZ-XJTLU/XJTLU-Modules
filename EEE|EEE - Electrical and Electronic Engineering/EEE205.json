@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Digital Electronics II",
+  "module_code": "EEE205",
+  "offerings": [
+    {
+      "heading": "Digital Electronics II",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Digital Electronics II",
+        "module_code": "EEE205",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Digital Electronics II",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide students with the ability to: Apply the Algorithmic State Machine (ASM) methodology to the design of digital systems. Define the features of Programmable Logic Devices (PLDs) and apply them in their designs. Implement Interface memory techniques and other peripherals in microprocessor systems.",
+        "Learning outcomes": "A. Define the FPGAs, Algorithmic State Machine (ASM), and interfacing memory and peripherals in digital systems. B. Apply theoretical knowledge to design a stable and robust digital system. C. Implement digital systems with the FPGA and hardware description languages",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures, tutorials and both supervised and unsupervised laboratory sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE205&psl_code=SEM2"
+    }
+  ]
+}

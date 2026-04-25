@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Strategic and data-driven HRM",
+  "module_code": "SMO214",
+  "offerings": [
+    {
+      "heading": "Strategic and data-driven HRM",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Strategic and data-driven HRM",
+        "module_code": "SMO214",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Strategic and data-driven HRM",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course introduces students to the concepts of human resource metrics, analytics, and evidence-based management. Students learn to reexamine the scope of human resource management through a quantitative lens. This module provides you with an in-depth, critical understanding of strategic human resource management, alongside principles and concepts underpinning data science and statistics. In addition to mastering cutting-edge AI and data analytics methods, you'll gain a practical understanding of how these principles and concepts can be applied in the fields of HR and people management. You'll learn how to identify people-related business problems, understand how analytics can provide solutions for these problems and identify and explain actionable insights.",
+        "Learning outcomes": "A. Identify HRM-related business problems, understand how AI and people analytics can provide solutions for these problems; B. Critically compare and use appropirate methods to conduct HR analytics and people analytics ; C. Conduct data analysis, interprete data, and communication data analysis results; D. Critically utilize HR analytics to make strategic HRM-related decisions or assist managers to make strategic decisions.",
+        "Method of teaching and learning": "Methods of teaching and learning include a combination of lectures (which teach basic concepts and principles), tutorials (which are interactive and designed to enable students to apply and discuss their knowledge to analyse real cases), lab tutorials, guest lecturers, as well as the university's virtual learning environment (i.e., Learning Mall), which will be used for dissemination of materials and providing feedback to students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO214&psl_code=SEM2"
+    }
+  ]
+}

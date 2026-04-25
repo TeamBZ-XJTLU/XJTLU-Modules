@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Advanced Electrical Circuits and Electromagnetics",
+  "module_code": "CAN209",
+  "offerings": [
+    {
+      "heading": "Advanced Electrical Circuits and Electromagnetics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Advanced Electrical Circuits and Electromagnetics",
+        "module_code": "CAN209",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Advanced Electrical Circuits and Electromagnetics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To equip students with tools to analyse electrical circuits with an understanding of the nature of electric, magnetic and electromagnetic fields, which are important to engineering and applications",
+        "Learning outcomes": "A. Understand principles related to Electrostatics and Magnetostatics and analyse the operation of basic magnetically coupled circuits; B. Apply Maxwell's equations in differential and integral form for engineering applications and the energy aspects of electromagnetic fields, and understand and analyse the properties of plane waves in free space; C. Describe and analyse the transient and frequency responses of first order and second order networks; D. Explain the structure and operation of three phase networks and analyse network properties. E. Perform network analysis using appropriate parameters on two port networks;",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures, problem classes, and laboratory work."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN209&psl_code=SEM1"
+    }
+  ]
+}

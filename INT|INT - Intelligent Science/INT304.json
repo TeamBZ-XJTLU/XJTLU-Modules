@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Pattern Recognition in Computer Vision",
+  "module_code": "INT304",
+  "offerings": [
+    {
+      "heading": "Pattern Recognition in Computer Vision",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "INT",
+        "full_name": "Pattern Recognition in Computer Vision",
+        "module_code": "INT304",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Pattern Recognition in Computer Vision",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To introduce the basic concept of pattern recognition in computer vision. To develop the necessary skills to carry out and report simple experiments of pattern recognition in computer vision",
+        "Learning outcomes": "A.Demonstrate an understanding of basic principles of pattern recognition in computer vision. B.Demonstrate knowledge in the areas of applications for various techniques of pattern recognition in computer vision. Intellectual Abilities C. formulate and define computer vision problems and to use pattern recognition methodologies to analyse and solve engineering problems. D.design simple pattern recognition systems to achieve the specified objectives on performance, cost, etc. Practical Skills E. apply relevant pattern recognition techniques to a given problem. F. develop basic image recognition software.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures and supervised laboratory sessions. There are totally Three coursework that will be assigned across the semester."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT304&psl_code=SEM2"
+    }
+  ]
+}

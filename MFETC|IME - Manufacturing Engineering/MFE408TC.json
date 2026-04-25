@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MFETC",
+    "full_name": "Manufacturing Engineering"
+  },
+  "full_name": "Internship",
+  "module_code": "MFE408TC",
+  "offerings": [
+    {
+      "heading": "Internship",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MFETC",
+        "full_name": "Internship",
+        "module_code": "MFE408TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Internship",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to appeal to students without prior working experience seeking to gain valuable work experience. It trains students to bring a professional attitude to their internship and are keen to take practical steps towards securing their future. This module is designed to provide students with valuable work experience through a 6-month internship project which fits with the learning activities of this program.",
+        "Learning outcomes": "A Exhibit self-management capabilities such as initiative, adaptability and accountability B Effectively engage meaningfully with various stakeholder via communication and collaboration whilst demonstrating mutual respect C Efficiently produce results by being achievement orientated, organizationally effective and creative in problem-solving D Posses skills critical for professional settings namely critical thinking, continuous improvement, and self-presentation",
+        "Method of teaching and learning": "The teaching philosophy of the module adopts the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially the use of problem-based assessment which is project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. Students will be supported in choosing an internship with great assistance from university academic staff with a range of organisations across the public, private and charities sectors. The school of IME has strong ties with industrial stakeholders such as Haier, Bosch, Sinnotech, and etc. Alongside the internship, students will be provided with extra knowledge such as informational material on workplace cultures, project management, CVs, interview techniques, presentation skills and career options. During the internship, students will be attached to the company whilst following an industrial supervisor."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MFE408TC&psl_code=SEM1"
+    },
+    {
+      "heading": "Internship",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MFETC",
+        "full_name": "Internship",
+        "module_code": "MFE408TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Internship",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to appeal to students without prior working experience seeking to gain valuable work experience. It trains students to bring a professional attitude to their internship and are keen to take practical steps towards securing their future. This module is designed to provide students with valuable work experience through a 6-month internship project which fits with the learning activities of this program.",
+        "Learning outcomes": "A Exhibit self-management capabilities such as initiative, adaptability and accountability B Effectively engage meaningfully with various stakeholder via communication and collaboration whilst demonstrating mutual respect C Efficiently produce results by being achievement orientated, organizationally effective and creative in problem-solving D Posses skills critical for professional settings namely critical thinking, continuous improvement, and self-presentation",
+        "Method of teaching and learning": "The teaching philosophy of the module adopts the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially the use of problem-based assessment which is project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. Students will be supported in choosing an internship with great assistance from university academic staff with a range of organisations across the public, private and charities sectors. The school of IME has strong ties with industrial stakeholders such as Haier, Bosch, Sinnotech, and etc. Alongside the internship, students will be provided with extra knowledge such as informational material on workplace cultures, project management, CVs, interview techniques, presentation skills and career options. During the internship, students will be attached to the company whilst following an industrial supervisor."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MFE408TC&psl_code=SEM2"
+    }
+  ]
+}

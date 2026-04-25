@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Data Communication and Communication Networks",
+  "module_code": "CAN405",
+  "offerings": [
+    {
+      "heading": "Data Communication and Communication Networks",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Data Communication and Communication Networks",
+        "module_code": "CAN405",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Data Communication and Communication Networks",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students fundamental understanding of network protocols and architectures, a common basis for the study of advanced modules in wireless and optical networking, and to enable them to use tools & techniques for the design and analysis of the performance of network protocols and architectures.",
+        "Learning outcomes": "A. Evaluate the operation of key network protocols and algorithms for MAC, routing/switching, and TCP flow/congestion control. B. Design and analyse the performance of network protocols and architectures using mathematical techniques and/or computer simulations. C. Assess options for the mitigation of operational risks in network architectures and protocols. D. Apply inclusive network algorithms and design to promote inclusivity and diversity. E. Critically evaluate the current state-of-the-art in networking research.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures and supervised laboratory sessions. Coursework is not normally anonymously marked as staff wish to provide meaningful feedback."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN405&psl_code=SEM1"
+    }
+  ]
+}

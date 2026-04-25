@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Introductory Biology",
+  "module_code": "BIO002",
+  "offerings": [
+    {
+      "heading": "Introductory Biology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Introductory Biology",
+        "module_code": "BIO002",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Introductory Biology",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This introductory module considers biological principles and the properties of life, ranging from molecules to the biosphere. It covers the relevant features of atoms, charge, bonds, ionic compounds, molecules/biomolecules, cell structure, membranes, metabolism, energy and cell communication, as well as the importance of key underpinning life-related processes such as evolution and photosynthesis. The module also considers how biological processes can be exploited (biotechnology), as well as key ecological principles and biomes.",
+        "Learning outcomes": "A. Define key features of atoms and molecules relevant to biological systems B. Describe how key features of atoms and molecules influence life processes C. Define key structures and processes in biology D. Define key ecological processes and biomes E. Acquire the ability to formulate, evaluate and interpret this knowledge to solve problems in biology.",
+        "Method of teaching and learning": "The course material will be provided through lectures, which will be accompanied by suitable lecture handouts (also available on ICE). Students will also be guided to sections of specific textbooks. If reading of specific reviews or source literature is required then copies of these will be posted on ICE."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO002&psl_code=SEM2"
+    }
+  ]
+}

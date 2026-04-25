@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Introductory Physical Chemistry for Non-Chemists",
+  "module_code": "CHE114",
+  "offerings": [
+    {
+      "heading": "Introductory Physical Chemistry for Non-Chemists",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Introductory Physical Chemistry for Non-Chemists",
+        "module_code": "CHE114",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "Introductory Physical Chemistry for Non-Chemists",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The main aim of this module is to equip students with an understanding of basic thermodynamics and kinetics.",
+        "Learning outcomes": "Students who complete this module successfully will be able to A. Explain basic ideas of energy changes in chemical reactions B. Discuss ideas relating to the rates of chemical reactions C. Conduct fundamental physical chemistry experiments and to develop lab report writing skills.",
+        "Method of teaching and learning": "The module consists of 13 hours of lectures, which are blended with 12 hours of problem-solving tutorials and 12 hours of laboratory experiments, including 4 experiments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE114&psl_code=SEM2"
+    }
+  ]
+}

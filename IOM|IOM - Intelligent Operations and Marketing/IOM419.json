@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Project Evaluation Management",
+  "module_code": "IOM419",
+  "offerings": [
+    {
+      "heading": "Project Evaluation Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Project Evaluation Management",
+        "module_code": "IOM419",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Project Evaluation Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with the critical knowledge and understanding of project evaluation from the comprehensive perspectives of project management, cost and finance, as well as risk management. This involves project selection, funding and financing, cost and budgeting, risk management and project controlling. Students will learn practical skills, methods and knowledge necessary for project evaluation throughout a project lifecycle.",
+        "Learning outcomes": "A. Demonstrate a critical understanding on the concepts and methods of project selection, financing and budgeting management as well as apply these methods in real life project scenarios. B. Interpret, explain and apply theoretical knowledge in project risk management. C. Select and apply appropriate principles, processes, tools and techniques of project evaluation throughout the project lifecycle. D. Critically evaluate various challenges associated with project evaluation.",
+        "Method of teaching and learning": "Lectures, workshops, tutorials for exercises, case studies, group work, online learning, and private study"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM419&psl_code=SEM1"
+    }
+  ]
+}

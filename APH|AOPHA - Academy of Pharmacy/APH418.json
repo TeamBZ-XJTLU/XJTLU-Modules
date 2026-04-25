@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Analysis of Categorical Data",
+  "module_code": "APH418",
+  "offerings": [
+    {
+      "heading": "Analysis of Categorical Data",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Analysis of Categorical Data",
+        "module_code": "APH418",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Analysis of Categorical Data",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce a comprehensive overview of methods of analysis categorical data, including analysis for binary and other discrete response data. The module focuses on the applications to epidemiological and clinical studies. In this module, SAS/R or other software will be used.",
+        "Learning outcomes": "A Analyze two-way and three-way contingency tables. B Apply logistic and loglinear models for the analysis of categorical data. C Use the proper method in analyzing matched pairs data, clustered, and correlated observations. D Perform categorical data analysis using a statistical software, and interpret the result.",
+        "Method of teaching and learning": "The module is delivered through a combination of lectures and tutorials over a period of 13 weeks. In lectures, students are introduced to the core principles, major methodology, and common topics and issues in the area of categorical data analysis. Tutorials are given as a platform to address any specific question or issue from individual students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH418&psl_code=SEM2"
+    }
+  ]
+}

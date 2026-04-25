@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SAT",
+    "domain_code": "SAT",
+    "full_name": "Advanced Technology"
+  },
+  "full_name": "Final Year Project",
+  "module_code": "SAT301",
+  "offerings": [
+    {
+      "heading": "Final Year Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SAT",
+        "full_name": "Final Year Project",
+        "module_code": "SAT301",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 3",
+        "Module Title": "Final Year Project",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides students with the opportunity to apply their accumulated technical, analytical, and creative expertise to tackle a substantial research problem within the field of Advanced Technology. Through guided independent inquiry, students will deepen their mastery of domain-specific methodologies while developing critical professional competencies such as project management, risk analysis, and problem-solving, with emphasis on ethical, sustainable, and user-centered approaches to innovation. By undertaking this project, students will also refine their ability to articulate complex ideas through structured academic writing and technical presentations. This module aligns with programme learning outcomes by bridging theoretical concepts with practical applications in computing and engineering, fostering solutions that balance technical rigour with societal and environmental considerations. It consolidates students’ readiness for advanced study or technical careers in industry, equipping them to address real-world challenges through strategically informed, ethically grounded innovation.",
+        "Learning outcomes": "A. Critically evaluate scholarly and industrial literature to identify gaps and opportunities within a research topic. B. Identify and formulate research questions that address technical challenges aligned with industry or academic priorities. C. Develop and execute a project plan, incorporating ethical considerations, risk management protocols, and strategies to minimise social and environmental impacts. D. Design, implement, and validate a technical artefact (e.g., software, system, prototype), through the application of appropriate computing and engineering technologies and processes, justifying the approach taken. E. Critically evaluate the artefact’s performance, scalability, and alignment with user requirements, discussing its capabilities, limitations, and ethical risks in deployment (e.g., data privacy, bias, environmental impact). F. Communicate complex technical outcomes to both technical and non-technical audiences through formal presentations. G. Structure and write a formal dissertation that adheres to academic conventions, effectively synthesising research findings, methodologies, and critical reflections into a cohesive report. H. Plan and record self-learning and development as the foundation for lifelong learning and continued professional development.",
+        "Method of teaching and learning": "This module fosters independent learning and a spirit of academic inquiry through a combination of structured foundational instruction and sustained personalised supervision. Students select a project and supervisor based on their interests through the XJTLU Fair Allocation model. During the initial phase, students receive formal training - delivered by guest lecturers - on the fundamental stages of planning, executing, and reporting on a research project. The primary mode of learning is student-led inquiry, supported by regular meetings with their allocated academic supervisor. Supervisors guide students through iterative cycles of planning, development, and critical evaluation, offering formative feedback tailored to the student’s specific project. This mentorship ensures students balance creativity with methodological rigour. Supervisors also provide targeted advice and guidance on synthesising research findings, structuring arguments, and presenting technical outcomes with clarity, ensuring students develop the skills necessary to communicate effectively on complex technical matters across written, visual, and oral formats with a variety of audiences."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SAT301&psl_code=ACYR"
+    }
+  ]
+}

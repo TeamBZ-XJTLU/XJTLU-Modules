@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Preparative Chemistry: Synthesis and Characterisation",
+  "module_code": "CHE207",
+  "offerings": [
+    {
+      "heading": "Preparative Chemistry: Synthesis and Characterisation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Preparative Chemistry: Synthesis and Characterisation",
+        "module_code": "CHE207",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Preparative Chemistry: Synthesis and Characterisation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to present a unified approach to the synthesis and characterisation of organic, organometallic and inorganic compounds and will build on techniques introduced in the previous year’s modules, such as the general chemistry module CHE115, organic chemistry modules CHE112 and CHE113, and inorganic chemistry module CHE103.",
+        "Learning outcomes": "A perform preparative and synthetic chemistry using advanced techniques B characterize organic and inorganic compounds C use word processing and chemical structure drawing programmes to produce written experimental reports.",
+        "Method of teaching and learning": "Tutorials and laboratory sessions"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE207&psl_code=SEM1"
+    }
+  ]
+}

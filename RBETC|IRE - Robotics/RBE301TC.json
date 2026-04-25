@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "IRE",
+    "domain_code": "RBETC",
+    "full_name": "Robotics"
+  },
+  "full_name": "System Design in Robotics",
+  "module_code": "RBE301TC",
+  "offerings": [
+    {
+      "heading": "System Design in Robotics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "RBETC",
+        "full_name": "System Design in Robotics",
+        "module_code": "RBE301TC",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "System Design in Robotics",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Fit of Module Robots are playing an increasingly important role in industries and sectors in recent years. Understanding and grasping the suitable methods to solve engineering problems are essential for those interested in pursuing a career in robotics engineering or related fields. These methods include both numerical and practical methods, which becomes increasingly important in the design, manufacturing and commissioning of robotics systems. This module is suitable for students in relevant industries to gain fundamental understanding of the components of robotic systems, and to grasp the popular numerical and practical tools, which will lay a solid foundation for the students to solve the real problem in a system design project in robotics. Aims: The aims of this module are to：  Provide students with a practical understanding of the accessories, subsystems of robotic systems and Artificial Intelligence (AI) based approaches;  Enables students to correlate theory in textbooks with its practical application;  Develop the ability of the students to solve 'real' engineering problems by both numerical and practical methods.",
+        "Learning outcomes": "A Exhibit a comprehensive understanding of the general robot accessories and the selections of sensor, actuators, communication to meet the design specifications B Demonstrate proficiency in leveraging basic robotic design software to design and model robotic components, and implementing AI-based algorithms in robotic functions. C Showcase proficiency in using software to execute kinematic and dynamic simulations of robotic systems. D Demonstrate proficiency in utilising basic robotic lab equipment, showcasing practical knowledge.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. Seminars: four seminars will be given about sustainability theory, covering two case studies. Students will have team discussion sessions among themselves for the case studies. They will be responsible for the topics they choose for a selected case study and write a report on design, implementation, and test. Practical exercises: with the aid of scripts, students complete experiment by building robot devices with precision servo-control systems Practical skills will be developed by building a system with electronic and mechanical components, system testing and trouble shooting. Progress tutorial/quiz will be held to monitor the progress, providing formative feedback. Lectures: lectures will be given on programming and simulation in lecture hall."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=RBE301TC&psl_code=ACYR"
+    },
+    {
+      "heading": "System Design in Robotics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "RBETC",
+        "full_name": "System Design in Robotics",
+        "module_code": "RBE301TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "System Design in Robotics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Fit of Module Robots are playing an increasingly important role in industries and sectors in recent years. Understanding and grasping the suitable methods to solve engineering problems are essential for those interested in pursuing a career in robotics engineering or related fields. These methods include both numerical and practical methods, which becomes increasingly important in the design, manufacturing and commissioning of robotics systems. This module is suitable for students in relevant industries to gain fundamental understanding of the components of robotic systems, and to grasp the popular numerical and practical tools, which will lay a solid foundation for the students to solve the real problem in a system design project in robotics. Aims: The aims of this module are to：  Provide students with a practical understanding of the accessories, subsystems of robotic systems and Artificial Intelligence (AI) based approaches;  Enables students to correlate theory in textbooks with its practical application;  Develop the ability of the students to solve 'real' engineering problems by both numerical and practical methods.",
+        "Learning outcomes": "A Exhibit a comprehensive understanding of the general robot accessories and the selections of sensor, actuators, communication to meet the design specifications B Demonstrate proficiency in leveraging basic robotic design software to design and model robotic components, and implementing AI-based algorithms in robotic functions. C Showcase proficiency in using software to execute kinematic and dynamic simulations of robotic systems. D Demonstrate proficiency in utilising basic robotic lab equipment, showcasing practical knowledge.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. Seminars: four seminars will be given about sustainability theory, covering two case studies. Students will have team discussion sessions among themselves for the case studies. They will be responsible for the topics they choose for a selected case study and write a report on design, implementation, and test. Practical exercises: with the aid of scripts, students complete experiment by building robot devices with precision servo-control systems Practical skills will be developed by building a system with electronic and mechanical components, system testing and trouble shooting. Progress tutorial/quiz will be held to monitor the progress, providing formative feedback. Lectures: lectures will be given on programming and simulation in lecture hall."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=RBE301TC&psl_code=SEM1"
+    }
+  ]
+}

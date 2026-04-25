@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Curriculum Design In International Context",
+  "module_code": "EDS429",
+  "offerings": [
+    {
+      "heading": "Curriculum Design In International Context",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Curriculum Design In International Context",
+        "module_code": "EDS429",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Curriculum Design In International Context",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to help students develop a solid understanding of the curriculum implemented in different programs and schools. Moreover, this module will provide students with knowledge and skills in curriculum design, curriculum development, and curriculum evaluation in an internationalized context.",
+        "Learning outcomes": "A Critique the design of an existing curriculum and suggest improvement B Analyze curriculum by applying the knowledge of internationalized and institutional context C Design and develop curriculum in the planning process D Critically reflect on the fundamental aspects of curriculum design and development E Critically reflect on the impact of policies and theories on practice",
+        "Method of teaching and learning": "This module will be delivered through a combination of lectures and tutorials with a focus on Research-Led Project-Based Learning (RLPBL) approaches. Lectures and tutorials provide students with key conceptual, theoretical, and methodological insights, as well as dedicated opportunities for collaborative and individual practice, critical reflection, and iterative development of curriculum design projects."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS429&psl_code=SEM2"
+    }
+  ]
+}

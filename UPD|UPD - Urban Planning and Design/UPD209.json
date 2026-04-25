@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "UPD",
+    "full_name": "Urban Planning and Design"
+  },
+  "full_name": "Planning and Research Methodology",
+  "module_code": "UPD209",
+  "offerings": [
+    {
+      "heading": "Planning and Research Methodology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "Planning and Research Methodology",
+        "module_code": "UPD209",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Planning and Research Methodology",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides an introduction to the approaches, methods and techniques that are used in the preparation and implementation of plans and policies.",
+        "Learning outcomes": "A. demonstrate familiarity with the main elements of the planning process and techniques associated with them. B. undertake analyses of urban structures and stakeholder constellations. C. show understanding of planning documents, including how they are prepared and the functions they serve D. apply analytic techniques and research methods to planning related work",
+        "Method of teaching and learning": "A series of lectures and tutorials is used to introduce the main methods and techniques associated with urban planning. All students also work on a given planning assignment requiring them to collect relevant information and to prepare a related planning document."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD209&psl_code=SEM2"
+    }
+  ]
+}

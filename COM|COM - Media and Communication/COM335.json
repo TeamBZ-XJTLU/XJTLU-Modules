@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "True Stories Told",
+  "module_code": "COM335",
+  "offerings": [
+    {
+      "heading": "True Stories Told",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "True Stories Told",
+        "module_code": "COM335",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "True Stories Told",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module introduces students to the practical skills in producing creative nonfiction videos. It will guide students through the art and craft of visual storytelling, drawing on narrative theories and video production techniques. Students will be taught how to choose and research a topic, structure, capture and present compelling human-interest stories through the medium of video. They will sharpen their video production skills by developing, writing, pitching, directing, filming and editing a creative nonfiction video. The module builds upon and develops methods, theories and techniques taught in the previous production modules of the programme. It also complements the other theory-based modules the department offers to Y4 students in the final semester.",
+        "Learning outcomes": "A. Demonstrate an understanding of the key principles of storytelling and their application to nonfiction video B. Research for, write and pitch a proposal for a creative nonfiction video C. Demonstrate technical competency to plan, film, and edit a creative nonfiction video D. Critically reflect on the production process of creative nonfiction video",
+        "Method of teaching and learning": "Lectures Practicals"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM335&psl_code=SEM2"
+    }
+  ]
+}

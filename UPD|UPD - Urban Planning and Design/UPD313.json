@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "UPD",
+    "full_name": "Urban Planning and Design"
+  },
+  "full_name": "International Field Class",
+  "module_code": "UPD313",
+  "offerings": [
+    {
+      "heading": "International Field Class",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "International Field Class",
+        "module_code": "UPD313",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "International Field Class",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides a structured opportunity for students to develop fieldwork and research skills and gain first-hand experience of planning/urban design in an international context. The module also provides an opportunity for students to reflect on, develop, and apply theoretical knowledge learnt in earlier classroom-based modules. The module directly draws on staff-related research as well as local practitioner expertise and grassroots perspectives. The knowledge and skills developed will be of particular relevance to students seeking to work in international planning agencies/consultancies.",
+        "Learning outcomes": "A Demonstrate in-depth knowledge and practical understanding of how different countries contexts impact planning and urban design B Compare and contrast relevant cultural, social, and governance contexts to translate planning and urban design theory in a context sensitive way C Conduct planning and urban design fieldwork effectively in foreign environments.",
+        "Method of teaching and learning": "The module is primarily designed as a travelling teaching studio. During the studio, students will engage in real projects as organised from time to time by teaching staff in UPD. In preparing for the studio students will engage in independent learning about the particular place they will be travelling to under guidance of on-line teaching materials. The majority of direct teaching will take place during the studio including lectures, tutorials, workshops, discussions, focus groups, and other research activities. On return to XJTLU students will prepare individual analysis of the studio and present their findings to the UPD community."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD313&psl_code=SEM1"
+    }
+  ]
+}

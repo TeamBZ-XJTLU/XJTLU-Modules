@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Tax Compliance",
+  "module_code": "ACC206",
+  "offerings": [
+    {
+      "heading": "Tax Compliance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Tax Compliance",
+        "module_code": "ACC206",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Tax Compliance",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to enable students to understand, prepare and explain UK tax computations for individuals and companies including income tax, national insurance, corporation tax, capital gains tax, VAT and inheritance tax. It also provides students with an understanding of the ethical issues arising from performing in the context of taxation.",
+        "Learning outcomes": "A. Understand the overall function and purpose of UK tax system B. Understand and explain the main concepts and principles of UK tax system C. Undertake the tax computations for individuals and companies",
+        "Method of teaching and learning": "a) Lectures – covering key concepts, theories and calculations of main taxes b) Tutorials – practical applications and calculations of main taxes c) Learning Mall – used for learning materials and relevant contemporary and academic articles"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC206&psl_code=SEM2"
+    }
+  ]
+}

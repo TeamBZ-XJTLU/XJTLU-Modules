@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Sustainable Development II",
+  "module_code": "ECO311",
+  "offerings": [
+    {
+      "heading": "Sustainable Development II",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "ECO",
+        "full_name": "Sustainable Development II",
+        "module_code": "ECO311",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Sustainable Development II",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with an understanding of the relationship between human/economic development and the environment that this takes place in. The concepts covered allow the students to analyse issues such as climate change, exploitation of natural resources, pollution, and biodiversity from the perspective of environmental, energy, and resource economics.",
+        "Learning outcomes": "A. Demonstrate understanding of the core concepts and models used in environmental, resource, and energy economics; B. Understand the interaction between the development of economy and the environment; C. Understand the key determinants of energy demand and supply; D. Demonstrate the ability to pose and solve a variety of environmental management",
+        "Method of teaching and learning": "The module will be taught using a combination of lectures, exercise tutorials and office hours for student questions. The lectures are intended to provide an introduction to the topics covered in the syllabus. This will be built upon by the regular completion of structured exercises. Learning will also be reinforced by appropriate readings from the course text. Additional time for questions will be provided to students during office hours."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO311&psl_code=SEM2"
+    }
+  ]
+}

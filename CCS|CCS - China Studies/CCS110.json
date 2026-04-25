@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "Aesthetics, Art and Design in China",
+  "module_code": "CCS110",
+  "offerings": [
+    {
+      "heading": "Aesthetics, Art and Design in China",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "Aesthetics, Art and Design in China",
+        "module_code": "CCS110",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Aesthetics, Art and Design in China",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with an introduction to the cultural history of China through the categories of art, aesthetics, and design. The broad nature of the module provides a general background knowledge of art and design in China throughout different historical epochs and cultural contexts, and supplements later modules in the programme which provide more specialized studies in the field.",
+        "Learning outcomes": "A. Demonstrate knowledge of various art and design artefacts and styles throughout China’s history. B. Engage critically with concepts of ‘art’ and ‘aesthetics’ in a Chinese context C. Explain the relationship between socio-political change and aesthetic developments over time. D. Demonstrate the ability to critically analyse works of art, design and/or fashion in China. E. Use creative thinking skills to make intellectual and aesthetic links between artefacts",
+        "Method of teaching and learning": "Lectures will provide an overview of the weekly topic. Seminars will provide an opportunity for students to discuss concepts and their applicability, analyse the text and speech, and learn how to apply acquired skills for better reasoning and debate. The virtual learning environment will be used to help students to engage with module content."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS110&psl_code=SEM2"
+    }
+  ]
+}

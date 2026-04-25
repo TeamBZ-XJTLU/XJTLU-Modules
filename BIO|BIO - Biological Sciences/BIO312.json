@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Protein Structure and Function",
+  "module_code": "BIO312",
+  "offerings": [
+    {
+      "heading": "Protein Structure and Function",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Protein Structure and Function",
+        "module_code": "BIO312",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Protein Structure and Function",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Proteomics is the term used to describe the detailed characterisation of proteins within cells and tissues, and this module begins by describing the latest proteomic technologies. It then gives some examples of how these proteomic approaches can solve both fundamental and applied problems across a range of biological disciplines, including vaccine development. The second half of the module introduces cutting edge technologies capable of solving detailed, fine structures of proteins, and describes how the knowledge of protein structure can help explain the function of specific systems such as cellular energy production, ion channels and receptor signalling.",
+        "Learning outcomes": "A. Define and explain the latest technologies used for extraction, enrichment and analysis of proteins. Produce a critical commentary on the pros and cons of the methods and their limitations for proteins of different characteristics. Evaluate, design and create, with justification, a protocol to purify a protein from a natural source using knowledge learnt in the lectures. B. Evaluate how proteomics-based approaches can be used to study fundamental and applied biological problems, such as vaccine development. C. Evaluate and contrast the different methods of analysis for post-translational modifications of proteins and their implications for cell function. Compare and contrast the different methods using specific examples from the literature. D. Evaluate the strength and weaknesses of NMR, x-ray crystallography, surface plasmon resonance and other physical methods that can be used to determine the detailed structure of proteins using specific examples from the literature. Draw connections among different techniques as a way to realise their potentials in protein characterisation. E. Appraise and discuss how knowledge of protein structure can be used to explain function using a variety of well-studied proteins complexes.",
+        "Method of teaching and learning": "Key topics will be introduced through standard lectures, supported by materials on VITAL and other web-based resources. Additionally, practical demonstrations and workshops will aid learning. Students will be guided to key articles in the literature (original papers and review articles) and be expected to use this material to supplement their independent learning. A key principle of this module will be both the understanding and application of techniques in proteomics research, and at regular intervals both formative and summative assessment exercises will test knowledge and ability to solve problems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO312&psl_code=SEM1"
+    }
+  ]
+}

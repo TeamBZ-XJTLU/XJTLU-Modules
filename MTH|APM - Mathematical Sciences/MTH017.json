@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "APM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Linear Algebra for Mathematical Science",
+  "module_code": "MTH017",
+  "offerings": [
+    {
+      "heading": "Linear Algebra for Mathematical Science",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Linear Algebra for Mathematical Science",
+        "module_code": "MTH017",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Linear Algebra for Mathematical Science",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To give students a broad education in linear algebra To give students an appreciation of the application of linear algebra; To develop the students' ability to work independently and to acquire the skill of problem solving. To increase students ablility of learning academic contents in English",
+        "Learning outcomes": "A To provide students with a good understanding of the concepts and methods of linear algebra, described in detail in the syllabus. B To help the students develop the ability to solve problems using linear algebra. C To connect linear algebra to other fields both within and without mathematics. D To develop abstract and critical reasoning by studying the proofs and methods as applied to linear algebra.",
+        "Method of teaching and learning": "Students will be expected to attend 2*2 hours of formal lectures with integrated tutorials about problem solving in a typical week. Lectures introduce students to the academic content and practical skills which are the subject of the module and tutorials integrated in the lectures will give students more feedback on the course work. In addition to the time of classes, students will be expected to devote the unsupervised time to private study. Private study will provide time for reflection and consideration of lecture material and background reading. Continuous assessment including home assignment marking will be used to test to what extent practical skills have been learnt. Written examination at the end of the semester constitutes the major part of the assessment of the academic achievement of students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH017&psl_code=SEM1"
+    }
+  ]
+}

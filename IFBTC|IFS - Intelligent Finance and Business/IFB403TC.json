@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Financial Markets, Regulation And Compliance",
+  "module_code": "IFB403TC",
+  "offerings": [
+    {
+      "heading": "Financial Markets, Regulation And Compliance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Financial Markets, Regulation And Compliance",
+        "module_code": "IFB403TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Financial Markets, Regulation And Compliance",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to equip students with the knowledge and skills required to understand compliance issues and regulatory frameworks for digital financial markets. The module provides students with the necessary knowledge and skills to comply with regulatory requirements and mitigate financial risks in the digital business landscape. It is particularly relevant for students pursuing a career in digital finance, fintech, or compliance within the digital business sector. Upon completion of this module, students will have a comprehensive understanding of financial markets, their regulation, and compliance requirements. They will be equipped to navigate the regulatory landscape of financial institutions and apply their knowledge to real-world scenarios. This module will enhance their overall skillset and make them more competitive in the job market. This module on Financial Markets, Regulation, and Compliance is highly relevant to the Master of Digital Business program. With the increasing digitization of the business world, financial transactions are becoming more complex and frequent. Understanding the regulatory framework and compliance requirements of financial markets is crucial for any business operating in the digital space.",
+        "Learning outcomes": "A Comprehend the architecture of global financial markets and their significance in the digital business realm. B Critically evaluate the regulatory frameworks and their implications for digital business operations in financial markets. C Critically evaluate the potential risks and compliance requirements associated with digital finance tools and platforms. D Analyze case studies of regulatory breaches, understanding the consequences and preventive measures.",
+        "Method of teaching and learning": "Based on the philosophy of Syntegrative Education, this module’s delivery pattern follows more intensive block teaching, and allows more meaningful contribution from industry partners. This delivery pattern provides space for students to concentrate on completing the problem-based and project-oriented assessments. This module will be delivered through a series of key lectures/seminars. In addition, students will be required to analyse a number of cases, determining what worked and why."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB403TC&psl_code=SEM1"
+    }
+  ]
+}

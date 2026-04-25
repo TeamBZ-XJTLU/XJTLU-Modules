@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Educational Placement",
+  "module_code": "EDS418",
+  "offerings": [
+    {
+      "heading": "Educational Placement",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Educational Placement",
+        "module_code": "EDS418",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Educational Placement",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "In this module, students will be given the chance to undertake a period of work experience relevant in a childhood education service or family-education-related activity, arranged by ILEAD or themselves. It is experiential learning supported by reading, experiencing, reflection and critical analysis. The primary aim is to give students the possibilities to experience and reflect on the working of a position related with child/family education. This module is designed particularly for those students who aim to get first-hand experience in working in the real educational settings.",
+        "Learning outcomes": "A Precisely explain the operation of the chosen educational placement B Demonstrate clear self-awareness regarding your contribution to the placement as well as personal development (including the associated strengths/room for development in the work) C Reflect on the challenges and difficulties during teaching/counselling in the field of child development and family education D Evaluate the relationships between theoretical perspectives and the first-hand experience in educational practice",
+        "Method of teaching and learning": "Students will visit their placement on a regular basis under the guidance of their placement supervisor (two days a week would be typical) and students’ working schedule need take account of their university timetable. During their placement, students will be visited at least once by an academic staff in ILEAD, and they will have 2 keep-in-touch meetings at the university with their placement supervisor."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS418&psl_code=SEM2"
+    }
+  ]
+}

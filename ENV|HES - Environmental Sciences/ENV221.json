@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Introductory Statistics for Natural Sciences",
+  "module_code": "ENV221",
+  "offerings": [
+    {
+      "heading": "Introductory Statistics for Natural Sciences",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Introductory Statistics for Natural Sciences",
+        "module_code": "ENV221",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Introductory Statistics for Natural Sciences",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with a basic introduction to statistics. Students use modern software and will gain statistical skills that are fundamental for investigations in a range of issues relevant to natural sciences. The module covers classical statistical theories and practices via analysis and visualization of environmental-science data.",
+        "Learning outcomes": "A. Define statistical terms commonly used in Environmental Science B. Construct and interpret data representations effectively using graphs and tables C. Apply data analysis techniques using modern statistical software D. Select and utilize appropriate statistical methods to analyze specific data sets E. Apply modern technologies, such as Generative Artificial Intelligence, to support statistical analysis processes and presentation, and critique the results.",
+        "Method of teaching and learning": "The module is delivered through a series of lectures and practices. The lectures provide statistical theories and case studies in the environmental sciences. The practices use problem-oriented exercises, group work on case studies, discussions, and presentations. Students apply the knowledge learnt in the lectures and practices to the assignments and staff provides feedback to improve students understanding and applications of statistical theories in environmental sciences."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV221&psl_code=SEM1"
+    }
+  ]
+}

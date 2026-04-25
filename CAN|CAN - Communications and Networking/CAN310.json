@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Signal Processing and Digital Filtering",
+  "module_code": "CAN310",
+  "offerings": [
+    {
+      "heading": "Signal Processing and Digital Filtering",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Signal Processing and Digital Filtering",
+        "module_code": "CAN310",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Signal Processing and Digital Filtering",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Signal Processing and Digital Filtering module provides students with essential skills in converting, analyzing, and designing analogue and digital signals. It covers sampling, quantization, Fourier transforms, and z-transforms, equipping students to tackle discrete-time system challenges. The module emphasizes FIR and IIR digital filter design and the evaluation of sampling methodologies. This foundational knowledge aligns with advanced studies in communications and wireless systems, preparing students for industry demands and technological advancements in signal processing.",
+        "Learning outcomes": "A. Convert between analogue and digital signals using sampling and quantization, and analyze the effects of these processes on signal quality. B. Apply Fourier transforms and z-transforms to solve problems in discrete-time system analysis and design. C. Analyze and design linear time-invariant circuits and systems, including both analogue and discrete-time (digital signal processing) systems. D. Analyze and design FIR digital filters using the window technique and IIR digital filters using z-transform, the bilinear transform, or other techniques. E. Evaluate and select appropriate sampling and filtering methodologies for different applications, and utilize mathematical concepts to explain the behavior of linear time-invariant digital systems and the operation of digital filters.",
+        "Method of teaching and learning": "The module utilizes diverse teaching and learning methods to achieve its learning outcomes. Interactive lectures introduce key concepts such as sampling, quantization, and Fourier transforms, providing a solid theoretical foundation. Practical MATLAB programming sessions allow students to apply these concepts in real-world scenarios. Literature reading fosters critical thinking and discussions on advanced topics. Independent lab projects enhance problem-solving skills in filter design and system analysis. Personalized support through Q&A sessions helps clarify complex topics, while independent study encourages exploration of academic resources. This comprehensive approach prepares students for success in the field of signal processing."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN310&psl_code=SEM2"
+    }
+  ]
+}

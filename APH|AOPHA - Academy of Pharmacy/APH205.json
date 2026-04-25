@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Epidemiology and Evidence-based Medicine",
+  "module_code": "APH205",
+  "offerings": [
+    {
+      "heading": "Epidemiology and Evidence-based Medicine",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Epidemiology and Evidence-based Medicine",
+        "module_code": "APH205",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Epidemiology and Evidence-based Medicine",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Epidemiology is the branch of medicine that deals with the incidence, distribution, and possible control of diseases and other factors relating to health. Evidence-based medicine is the process of systematically reviewing, appraising, and using clinical research findings to aid the delivery of optimum clinical care to patients. It is the largest area where biostatistics applies in medicine. The aim of this module is to provide students an opportunity to gain sufficient knowledge and practical skills on epidemiology and evidence-based medicine.",
+        "Learning outcomes": "A Demonstrate a critical understanding of the principles of epidemiology B Acquire a thorough knowledge on major methodologies of epidemiological studies C Understand the principles of evidence-based medicine D Be familiar with procedures of carrying out systematic reviews and meta-analyses E Apply statistical knowledge and skills for epidemiological studies and meta-analyses",
+        "Method of teaching and learning": "This module is delivered through formal lectures and seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH205&psl_code=SEM2"
+    }
+  ]
+}

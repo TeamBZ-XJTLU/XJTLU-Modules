@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Advanced Simulation of Sustainable Structural Systems",
+  "module_code": "CEN403",
+  "offerings": [
+    {
+      "heading": "Advanced Simulation of Sustainable Structural Systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Advanced Simulation of Sustainable Structural Systems",
+        "module_code": "CEN403",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Simulation of Sustainable Structural Systems",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module is to enable students to carry out structural design based on Building Information Modelling (BIM) including its interoperability with advanced three-dimensional Finite Element Analysis (FEA).",
+        "Learning outcomes": "A. Utilize advanced computing techniques and software for the design of complex/modern structures, and critically evaluate their efficiency and structural performance. B. Produce realistic visualisation and animation on computer and generate 3D architectural and structural models in Revit. C. Apply BIM software (Revit) and FEA software (ANSYS) in engineering knowledge for the development of designs and the solution of engineering problems. D. Apply ANSYS for linear and nonlinear analysis with enhanced skill and experience. E. Establish awareness of minimizing total construction materials while simultaneously making efficient/optimised use of structural members and systems as important methodologies towards sustainable structural design. F. Produce annotated drawings and digital representation of advanced designs and concepts.",
+        "Method of teaching and learning": "Lectures complemented by computing lab sessions where tutorial classes will also be taught concurrently to help with the understanding of the computer aided design and project work."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN403&psl_code=SEM2"
+    }
+  ]
+}

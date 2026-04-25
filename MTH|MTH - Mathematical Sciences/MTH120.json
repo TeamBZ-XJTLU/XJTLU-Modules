@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Theory of Interest",
+  "module_code": "MTH120",
+  "offerings": [
+    {
+      "heading": "Theory of Interest",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Theory of Interest",
+        "module_code": "MTH120",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Theory of Interest",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Students gain a thorough understanding of the quantitative applications of interest and related functions. Students are required to understand how to price various financial instruments for different interest.",
+        "Learning outcomes": "A. Classify and calculate all kind of rates of interest, find the future value and present value of a cash flow, and write the equation of value given a set of cash flows and an interest rate. B. Derive formulae for all kinds of annuities; classify the notation of annuities and formulas for the present value of financial derivatives C. Calculate the outstanding balance at any point in time D. Calculate a schedule of repayments under a loan and identify the interest and capital components in a given payment; Given the quantities, except one, in a sinking fund arrangement calculate the missing quantity; Calculate the present value of payments from a fixed interest security, bounds for the present value of a redeemable fixed interest security; E. Given the price, calculate the running yield and redemption yield from a fixed interest security F. Calculate the present value or real yield from an index-linked bond G. Calculate the price of, or yield from, a fixed interest security where the income tax and capital gains tax are implemented H. Calculate yield rate, the dollar-weighted and time weighted rate of return, the duration and convexity of a set of cash flows",
+        "Method of teaching and learning": "This module is delivered through formal lectures and lab/practicals."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH120&psl_code=SEM2"
+    }
+  ]
+}

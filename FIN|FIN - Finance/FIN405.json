@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FIN",
+    "domain_code": "FIN",
+    "full_name": "Finance"
+  },
+  "full_name": "Industry Research Project",
+  "module_code": "FIN405",
+  "offerings": [
+    {
+      "heading": "Industry Research Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FIN",
+        "full_name": "Industry Research Project",
+        "module_code": "FIN405",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Industry Research Project",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "As part of a group the student will undertake to research a financial market and how it is structured and regulated in a particular country/domestic market.",
+        "Learning outcomes": "Students completing the module successfully should have demonstrated: A. A systematic understanding of knowledge, and a critical awareness of current issues in the area of choice related to the financial markets B. Originality in the application of knowledge, together with a practical understanding of established, applied techniques of research and analysis as used to interpret knowledge and practice in the area C. Conceptual understanding that enables the student to evaluate methodologies and develop critiques of them and, where appropriate, propose new practices",
+        "Method of teaching and learning": "One 2 hour lecture to describe the project and process. Three follow-up sessions to provide interim feedback and further guidance. Informal group review meetings with the instructor."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN405&psl_code=SEM1"
+    }
+  ]
+}

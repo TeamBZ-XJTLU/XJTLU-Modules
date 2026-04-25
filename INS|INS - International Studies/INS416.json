@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "National Innovation Systems and Sustainable Development",
+  "module_code": "INS416",
+  "offerings": [
+    {
+      "heading": "National Innovation Systems and Sustainable Development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "National Innovation Systems and Sustainable Development",
+        "module_code": "INS416",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "National Innovation Systems and Sustainable Development",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The differences in technological performances across countries are largely determined by the characteristics of the institutional environments within which firms operate. This variation in institutional environments, which differs among countries and regions, is often referred to as National Innovation Systems (NIS). This module aims to introduce students to the concept of National Innovation Systems, examining its theoretical foundations and exploring how NIS has become integral to shaping public policies that effectively support innovation, economic growth, and sustainable development. In particular, the module analyzes, both theoretically and empirically, how various institutional configurations facilitate the collaborative efforts of the state, enterprises, and the scientific community in both developed and developing countries. This collaboration is crucial for effectively allocating innovation resources throughout the economy and society, which, in turn, influences how products are produced, innovations are generated and learning processes flow in the system. By fostering a critical understanding of how institutional environments impact innovation and sustainability, the module equips students to navigate and address the complex global dynamics influencing international business and development strategies in an increasingly interconnected world.",
+        "Learning outcomes": "A. Demonstrate a comprehensive understanding of the theory of National Innovation Systems (NIS), including its strengths and limitations; B. Utilize analytical concepts from National Innovation Systems (NIS) to critically assess the roles of government, market dynamics, and institutional frameworks in fostering technological innovation and sustainable economic growth; C. Apply skills in data collection and analysis to assess the outcome of various NIS; D. Investigate and explain the contribution of NIS to the emergence of specific technologies that enhance human well-being; E. Apply NIS frameworks to countries from both the Global North and South; F. Present findings in a coherent and logical structure that conforms to scholarly conventions in innovation studies;",
+        "Method of teaching and learning": "Students will engage in a variety of activities, including weekly lectures and seminars. Lectures are designed to systematically introduce students to key theories, debates, and concepts related to National Innovation Systems. Seminars will allow students to delve deeper into the teaching material, encouraging them to connect it with their own ideas, insights, and practical experiences. Additionally, students will have the opportunity for one-on-one tutorials, where they can seek further academic support from the instructor during office hours."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS416&psl_code=SEM1"
+    }
+  ]
+}

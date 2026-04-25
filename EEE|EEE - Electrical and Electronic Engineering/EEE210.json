@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Power Circuits And Transmission",
+  "module_code": "EEE210",
+  "offerings": [
+    {
+      "heading": "Power Circuits And Transmission",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Power Circuits And Transmission",
+        "module_code": "EEE210",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Power Circuits And Transmission",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to equip the students with the knowledge and understanding of power circuit fundamentals and power system components and their relationship with the energy conversion and delivery processes, as well as advanced principles and analyses including but not limited to power network topology, power transmission line model and analysis, sequence analysis, and nodal analysis. This module provides the foundational principles for understanding, designing, and operating the real-world electrical power systems that are at the core of the BEng Electrical Engineering.",
+        "Learning outcomes": "A. Explain the role of power systems in society, including their independent components and functions. B. Discuss the importance of alternative energy sources, including the conversion from the original form to electrical energy. C. Explain the application of machine, transformer and line equivalent circuits to power system analysis. D. Apply principles of circuit equivalence to derive a circuit description of a specified power system and perform related calculations. E. Analyse symmetric components for power systems and discuss their value in fault analysis.",
+        "Method of teaching and learning": "This module will be delivered through a combination of lectures and labs. Lectures will be designed to provide students with the necessary theoretical background and fundamental knowledge, as well as introducing key analytical tools and specific application examples. Labs provides a venue for students to simulate small power system components and understand the application of complex numbers in power system analysis."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE210&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Medicinal Chemistry",
+  "module_code": "APH204",
+  "offerings": [
+    {
+      "heading": "Medicinal Chemistry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Medicinal Chemistry",
+        "module_code": "APH204",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Medicinal Chemistry",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to introduce students to the fundamental principles that underpin modern medicinal chemistry, including an introduction to targets for drug action, methods of administration, qualitative and quantitative SAR, computer aided molecular design, solid phase chemistry /combinatorial chemistry. The course also aims to describe in detail the chemical mechanisms of few antitumour agents.",
+        "Learning outcomes": "A Understand the principle bonding interactions in drug receptor interactions. B Demonstrate an understanding of the significance of three phases in the drug discovery C Understand the basic concepts of structure activity relationships (SAR) and quantitative structure activity relationships (QSAR) D Acquire an in-depth knowledge of the different levels of protein structureE Understand the principles behind computer aided molecular design and 3-D QSAR F Design peptide synthesis, using protecting groups and combinatorial chemistry G Understand the chemical mechanisms of drugs that target DNA H Use medicinal chemistry concepts and principles to solve simple problems in the area",
+        "Method of teaching and learning": "This course will be taught by a series of lectures. Students will learn how to apply their knowledge by completing a series of related tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH204&psl_code=SEM1"
+    }
+  ]
+}

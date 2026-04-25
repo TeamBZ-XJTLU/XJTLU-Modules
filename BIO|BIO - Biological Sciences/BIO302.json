@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Biochemical Messengers",
+  "module_code": "BIO302",
+  "offerings": [
+    {
+      "heading": "Biochemical Messengers",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Biochemical Messengers",
+        "module_code": "BIO302",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Biochemical Messengers",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module will examine how cells and organisms respond to external signals and how signalling information is transferred within cells and organisms. The range of different strategies for dealing with signalling information will be investigated in detail. All the events involved in the transfer of signalling information from an occupied receptor on the cell surface to changes in gene expression in the cell nucleus and the outputs at the organism level will be discussed in detail.",
+        "Learning outcomes": "A. Define different mechanisms utilised for transfer of signalling information within eukaryotic cells B. Define the fundamental concepts and features underlying different signalling mechanisms C. Evaluate the contributions made by specific signalling mechanisms in different cellular and physiological responses D. Apply, critically evaluate and interpret this knowledge to solve complex problems in biology E. Dissect and review evidence to support conclusions",
+        "Method of teaching and learning": "Course content will be delivered primarily via standard lectures, that will be accompanied by suitable lecture handouts. Students will also be guided to sections of specific textbooks and/or reading of specific reviews."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO302&psl_code=SEM1"
+    }
+  ]
+}

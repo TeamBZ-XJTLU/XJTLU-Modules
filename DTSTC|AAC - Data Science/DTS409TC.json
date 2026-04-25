@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "Reinforcement Learning and its Applications",
+  "module_code": "DTS409TC",
+  "offerings": [
+    {
+      "heading": "Reinforcement Learning and its Applications",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DTSTC",
+        "full_name": "Reinforcement Learning and its Applications",
+        "module_code": "DTS409TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Reinforcement Learning and its Applications",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students an in-depth exploration of reinforcement learning (RL) techniques and their applications in various domains. By the end of this module, students will understand the foundations of much of modern RL techniques and be prepared to take more advanced courses or to apply AI tools and ideas to real-world problems. Reinforcement learning is a subfield of artificial intelligence that focuses on training agents to make sequential decisions in dynamic environments. Through a combination of theoretical foundations, algorithmic understanding, and practical applications, students will • understand how RL relates to and fits under the broader umbrella of machine learning, deep learning, supervised and unsupervised learning. • understand the space of RL algorithms (Temporal- Difference learning, Monte Carlo, SARSA, Q-learning, Policy Gradient, and more). • understand how to formalize your task as a RL problem, and how to begin implementing a solution. The tools learned in this module can be applied to game development (AI), customer interaction (how a website interacts with customers), smart assistants, recommender systems, supply chain, industrial control, finance, industrial control systems, and more.",
+        "Learning outcomes": "A Systematically understand the fundamental concepts and principles of reinforcement learning B Critically analyse real-life problem situations and expertly map them as reinforcement learning tasks C Comprehensively understand advanced reinforcement learning techniques D Develop the ability to design, implement and optimise reinforcement learning algorithms E Systematically apply RL techniques to solve complex problems in various domains, such as robotics, game playing, or autonomous systems",
+        "Method of teaching and learning": "The teaching philosophy of the module is based on Syntegrative Education, emphasizing industry collaboration and applied learning. This approach is also reflected in the assessment strategy, which reduces reliance on exams in favor of coursework, particularly problem-based assessments with a project focus. This structure allows students to engage deeply with their learning and allocate dedicated time during the semester to complete their assessments effectively. This module will be delivered through lectures and labs. Teaching will be conducted using problem-based learning, with problems embedded in the lectures. General transferable skills are developed through the presentation of written and oral reports."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS409TC&psl_code=SEM2"
+    }
+  ]
+}

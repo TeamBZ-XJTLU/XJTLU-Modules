@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Cultural Industries Research Project",
+  "module_code": "FTA444",
+  "offerings": [
+    {
+      "heading": "Cultural Industries Research Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Cultural Industries Research Project",
+        "module_code": "FTA444",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Cultural Industries Research Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: This module provides students with the opportunity to draw together and demonstrate the knowledge and skills acquired from other modules of the MSc programme in the creation, development and realisation of a negotiated, independent research project on a particular aspect of cultural industries. Objectives: Students will undertake the research project as a critique of the current state of their chosen field of interest with a strong industry and production focus. Topics and approaches of the research project will vary and depend on individuals skill-set and future career ambitions. Students will be guided and supported by an assigned project tutor who will offer formative feedback in the interim. Students will be assessed through the submission of a project work diary together with the research project outcome as the dissertation required by the masters.",
+        "Learning outcomes": "A Apply critically the analysis, research, creative and technical skills on a cultural research project, working on a collaborative or individual basis as appropriate to the project B Apply advanced specialist skill-set and a comprehensive understanding of the cultural industries within the project realisation C Demonstrate critical awareness of the social, political and economic contexts within which the cultural industries and economy operate in a local and global context D Analyse and synthesise critically the research rationales and practices in the cultural industries",
+        "Method of teaching and learning": "Teaching will comprise a series of lectures, seminars, workshops and tutorials. Throughout the project, students will be guided and supported by their project tutor at interim stages. Students will be required to work independently during and outside formal teaching sessions, and to make good use of the learning support system provided."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA444&psl_code=SEM2"
+    }
+  ]
+}

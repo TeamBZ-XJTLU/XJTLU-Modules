@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Corporate Social Responsibility",
+  "module_code": "SMO201",
+  "offerings": [
+    {
+      "heading": "Corporate Social Responsibility",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Corporate Social Responsibility",
+        "module_code": "SMO201",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Corporate Social Responsibility",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with a critical introduction to the institution of the corporation in its wider context. Key areas of study include corporate governance, the history of the corporation, corporate social responsibility, and business ethics. These issues are explored through the use of a range of theoretical perspectives alongside case-studies and scenarios.",
+        "Learning outcomes": "A. Understand the historical roots, definitions, and operationalisations of corporate social responsibility as part of the corporate agenda; B. Demonstrate an understanding of key ethical frameworks and ideas; C. Appreciate how frameworks and ideas can be used to develop ethical decision-making skills and reasoning; D. Understand the current ethical, social and environmental challenges facing managers and employees in organizations today; E. Develop an ability to apply CSR concepts to practical business strategies and for engaging stakeholders.",
+        "Method of teaching and learning": "The teaching and learning strategies employed include a combination of lectures (which teach basic concepts and principles), workshops (which are interactive and designed to enable students to apply and discuss their knowledge to analyse real-world problems, issues and case studies), and the university’s virtual learning environment (the ‘Interactive Communications Environment’ or ‘ICE’), which will be used for the dissemination of material, as well to provide feedback to students. Guest lectures and a company visit will also be used to complement learning and teaching."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO201&psl_code=SEM1"
+    }
+  ]
+}

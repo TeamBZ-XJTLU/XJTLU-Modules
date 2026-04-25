@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Information Theory and Data Communications",
+  "module_code": "CAN309",
+  "offerings": [
+    {
+      "heading": "Information Theory and Data Communications",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Information Theory and Data Communications",
+        "module_code": "CAN309",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Information Theory and Data Communications",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a good understanding of the fundamental theory of information and coding, and the ability to analyze and apply the theory in the context of data communications. The module enables the students to design coding algorithms to provide improved efficiency in data representation and to combat the noise with error detection and correction capabilities, equipping them with skills to design and critically evaluate encryption/decryption algorithms for improved information security and to develop routing algorithms in data communication networks. This module lays the methodological and analytical foundation of the students in their engineering professions and academic research.",
+        "Learning outcomes": "A. Critically evaluate and differentiate the nature of data and concepts in information theory and analyze and apply Shannon's Theorems to assess their significance in practical data communication scenarios. B. Design and evaluate source coding algorithms for efficient data compression in various contexts. C. Analyze the sources of noise in communication systems, determine its impact on channel capacity and mutual information, and compare various methods to mitigate the adverse effects of noise. D. Develop and critically assess channel coding strategies for error correction in complex data communication systems. E. Design and critically evaluate encryption/decryption algorithms to ensure information security, considering the holistic and proportionate approach to mitigating security risks. F. Critically examine the components of data communication networks and the standard protocol architecture, and develop and assess basic routing algorithms in data communication networks.",
+        "Method of teaching and learning": "This module is delivered through a combination of formal lectures and tutorials. Students engage in interactive lectures to introduce key concepts and theories. Personalized guidance is provided to students in the tutorial sessions. Independent study is emphasized, with students tasked to prepare for the tutorial session in a flipped class setting."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN309&psl_code=SEM1"
+    }
+  ]
+}

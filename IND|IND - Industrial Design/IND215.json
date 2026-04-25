@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IND",
+    "domain_code": "IND",
+    "full_name": "Industrial Design"
+  },
+  "full_name": "Introduction to Human Computer Interaction",
+  "module_code": "IND215",
+  "offerings": [
+    {
+      "heading": "Introduction to Human Computer Interaction",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IND",
+        "full_name": "Introduction to Human Computer Interaction",
+        "module_code": "IND215",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Introduction to Human Computer Interaction",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Interaction and Human Computer Interaction are essential characteristics of the Industrial Design product landscape. Increasingly manufacturers seek novel ways to engage the emotional responses of target users. Users, similarly, seek more meaningful engagements with the objects they purchase and use, beyond simply performative functionality. Interaction design serves both commercial and psychological imperatives. The module aims to introduce design students to the fundamental knowledge and practices of designing meaningful human-computer-interactions (HCI) in contemporary computing systems and mobile devices. They will consider a range of multi-disciplinary theories and best practice, and carry out exercises to experiment and apply those concepts in technology based application.",
+        "Learning outcomes": "A Demonstrate an understanding of the principles and tools interaction design and apply them. B Specify a range of user interface and functional requirements in a product - technology scenario. C Visualise and prototype product-interaction capabilities using a range of 2D and 3D methods. D Apply tools in user-testing to design proposals.",
+        "Method of teaching and learning": "Lectures in class room settings will introduce students to the academic content and theory. There will be a series of demonstrations in studios, laboratories and workshops to articulate practical skills which students need to rehearse. Group and individual tutorials allow students to receive feedback and guidance on the progress of homework exercises and assignments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IND215&psl_code=SEM2"
+    }
+  ]
+}

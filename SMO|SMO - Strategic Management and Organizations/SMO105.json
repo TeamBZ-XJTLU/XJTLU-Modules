@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Managing Across Borders",
+  "module_code": "SMO105",
+  "offerings": [
+    {
+      "heading": "Managing Across Borders",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Managing Across Borders",
+        "module_code": "SMO105",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Managing Across Borders",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "A. Discuss the key trends of international business, including: globalisation, the multinational enterprise and the internationalisation process B. Explain the key theories relating to international business including the political, legal, economic and technological environment C. Analyse the international sociocultural, ethical and ecological environment D. Discuss the issues and approaches relating to international strategy and international human resource management",
+        "Learning outcomes": "A. Understand the concept of globalization and the key players in the global economy. B. Explain the importance of cultural, political, economic and institutional environments within which business is conducted around the world. C. Identify and evaluate various international systems and the recent trends in international trading relations. D. Describe theories and frameworks of internationalization strategy and apply them to the management operations within multinational enterprises (MNEs). E. Understand the recent issues that MNEs face in their global operation.",
+        "Method of teaching and learning": "The key themes in the module are introduced in lectures, and followed up in seminars, videos and on-line facilities. Students are expected to undertake follow-up and background reading and to carry out independent research that evaluates in-depth one major issue in the management of the global economy. The module also introduces students to case study analysis, prescribed reading, and research informed teaching."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO105&psl_code=SEM1"
+    }
+  ]
+}

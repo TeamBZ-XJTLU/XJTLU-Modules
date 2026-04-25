@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Language and Society",
+  "module_code": "LNG106",
+  "offerings": [
+    {
+      "heading": "Language and Society",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Language and Society",
+        "module_code": "LNG106",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Language and Society",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is concerned with the intimate relationship between language and society. It serves as the introduction to the field of sociolinguistics. Exploring such a relationship is integral to the learning outcomes of the programmes for which this module is designed.",
+        "Learning outcomes": "A. Demonstrate the capacity to describe a wide range of linguistic, social and sociolinguistic concepts. B. Demonstrate the ability to account for sociolinguistic phenomena in empirical and theoretical terms. C. Develop the capacity for sociolinguistic research in contemporary society. D. Demonstrate critical awareness of recent developments in sociolinguistics.",
+        "Method of teaching and learning": "Teaching and learning will take place by means of lectures, seminars, fieldwork, and independent research."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG106&psl_code=SEM2"
+    }
+  ]
+}

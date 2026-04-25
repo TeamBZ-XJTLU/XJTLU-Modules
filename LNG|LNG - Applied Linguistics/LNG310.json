@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Language Education",
+  "module_code": "LNG310",
+  "offerings": [
+    {
+      "heading": "Language Education",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "LNG",
+        "full_name": "Language Education",
+        "module_code": "LNG310",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Language Education",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "1. Introduce students to core concepts, theories, and methodologies in applied linguistics, particularly in the context of language education. 2. Examine the role of linguistics in language teaching and curriculum design, language assessment, and policy. 3. Encourage critical reflection on language education practices through the lens of applied linguistics. 4. Develop skills for applying linguistic knowledge to solve practical issues in language learning and teaching environments.",
+        "Learning outcomes": "A. Analyze and critique key theories and approaches in applied linguistics as they relate to language education. B. Analyze and evaluate language teaching methods, materials, and curricula from a linguistics perspective. C. Assess the impact of linguistic diversity, sociocultural factors, and identity on language learning and teaching. D. Apply research methods in applied linguistics to investigate educational issues. E. Develop practical recommendations for language teaching based on linguistic theory and research findings.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (Lectures and Seminars/Tutorials). • Lectures contribute the main bulk of the learning and teaching activities. Lecturers will take a variety of approaches. In some lectures, the lecturer will focus on presenting module materials, often giving arguments and examples and adjusting the pace of the delivery to suit students' understanding. In other lecturers, the lecturer will expect students to have studied some relevant materials assigned beforehand, and will conduct the teaching in an interactive way (e.g. by including individual or group presentations, group discussions, etc.). • Seminars/tutorials are usually scheduled after the lectures. They provide typically more interactive learning and teaching modes, and may be divided into multiple sessions for modules with a large student number. Various individual and collaborative tasks can take place in the tutorials to further facilitate students’ learning and understanding of the module content. In addition, the module offers students the opportunity to conduct a (mini) research project in the form of a presentation and essay."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG310&psl_code=SEM2"
+    }
+  ]
+}

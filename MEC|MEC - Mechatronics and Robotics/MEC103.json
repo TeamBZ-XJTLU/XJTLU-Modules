@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MEC",
+    "domain_code": "MEC",
+    "full_name": "Mechatronics and Robotics"
+  },
+  "full_name": "Statics",
+  "module_code": "MEC103",
+  "offerings": [
+    {
+      "heading": "Statics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MEC",
+        "full_name": "Statics",
+        "module_code": "MEC103",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Statics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces the fundamental concepts used in engineering, including forces, moments, and the structural analysis of frames, devices, and machines. It aims to present the basic principles of statics and demonstrate their application in solving rigid-body mechanics problems.",
+        "Learning outcomes": "A Understand and apply the derivation of mathematical models for static analysis of rigid body mechanical systems. B Analyze beam cross sections to determine the centroid, moments of inertia. C Understand and apply equilibrium conditions to solve various statics problems. D Determine internal shear force and bending moment for various beams.",
+        "Method of teaching and learning": "This module will be delivered through lectures, tutorials, and supervised laboratory sessions. Lectures will introduce the key theoretical concepts, while tutorials will support discussion, problem-solving, and feedback. Laboratory sessions will give students the opportunity to apply theory in practice through hands-on experiments. This integrated approach encourages active learning and helps students develop both theoretical understanding and practical skills."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MEC103&psl_code=SEM2"
+    }
+  ]
+}

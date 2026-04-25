@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Physics for Life Sciences",
+  "module_code": "BIO110",
+  "offerings": [
+    {
+      "heading": "Physics for Life Sciences",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Physics for Life Sciences",
+        "module_code": "BIO110",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Physics for Life Sciences",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module bridges the gap between physics and biology/bioinformatics, providing students with a foundation in basic physics concepts essential for understanding molecular biology and modern biophysical techniques. The module addresses the growing need for interdisciplinary knowledge in bioinformatics, enabling students to extract meaningful insights from vast amounts of biological data. The curriculum encompasses a range of topics in biological physics, including: 1. Fundamentals of classical mechanics 2. Fundamentals of thermodynamics 3. Introduction to basic structure and dynamics of biological macromolecules 4. Fundamental principles behind modern biophysical techniques The course equips students with a deeper understanding of the physical principles governing the behavior of biomolecules.",
+        "Learning outcomes": "A. Define essential concepts in biological physics. B. Outline the importance of physical principles and explain their relevance in biological contexts. C. Understand and apply basic physics concepts, including classical mechanics and introductory thermodynamics, to biological systems and bioinformatics problems. D. Understand the basic structure and dynamics of biological macromolecules from a physical perspective. E. Develop quantitative skills and problem-solving abilities to understand the fundamental principles behind biophysical techniques at an introductory level.",
+        "Method of teaching and learning": "This module is designed to deliver its content through a formal approach, emphasizing the fundamental principles and concepts that will help to understand the behavior of biological systems from a physical perspective. The module will employ a combination of lectures and tutorials to provide students with a comprehensive learning experience. Lectures will cover basic physics concepts, such as classical mechanics, introductory thermodynamics, and their applications to biological systems. They will also introduce the structural organization of proteins and nucleic acids and the interaction between these macromolecules. Tutorials will serve as a platform for discussion, clarification of concepts, and problem-solving exercises. Students will work on guided exercises and case studies that demonstrate the application of physics principles to biological problems. Students will engage in independent study to reinforce their understanding of the course material, including reading scientific articles, completing problem sets, and preparing for assessments. The course will employ formative assessments (quizzes and problem sets) and summative assessments (assignments, presentations, and exams) to evaluate student achievement of the learning outcomes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO110&psl_code=SEM2"
+    }
+  ]
+}

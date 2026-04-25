@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MFETC",
+    "full_name": "Manufacturing Engineering"
+  },
+  "full_name": "Engineering Drawing",
+  "module_code": "MFE110TC",
+  "offerings": [
+    {
+      "heading": "Engineering Drawing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MFETC",
+        "full_name": "Engineering Drawing",
+        "module_code": "MFE110TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "Engineering Drawing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Engineering drawing is an application oriented subject that introduces the preparation, representation and reading of engineering drawings. It is an important document in industry for design, manufacture, utilization and service, often recognized as the graphical language of engineers; therefore, all engineers should know how to read, speak and write it. This module is introduced to provide the fundamentals of Engineering Drawing and the design process, including graphical theory, standards and conventions of drawing, computer aided tools for drawing and the use of drawings in electrical engineering applications.",
+        "Learning outcomes": "A. Apply standardized engineering drawing practices to produce technical documentation compliant with industry norms (e.g., ISO/ANSI standards). B. Construct and analyze multiview orthographic projections of engineering solids to interpret geometric and functional properties. C. Generate isometric representations of engineering components to communicate design intent and facilitate spatial understanding. D. Utilize spatial-visual reasoning and innovative thinking to solve design problems, optimize component layouts, and validate assembly feasibility.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. This module will be delivered through a combination of lectures, group discussions, case studies, and hands-on practical exercises etc. Lectures and group discussions are conducted using the Problem Based Learning paradigm focusing on student-centered learning, where they develop critical thinking and problem-solving skills to address open-ended problems that lacks a straightforward solution This module is taught with an emphasis on student learning through practice and by projects, facilitated by a module leader, and where appropriate, industrial mentors. Students can identify particular areas of learning needs or interests according to the available project(s). They will conduct independent research to gather information and resources to better define the problem. Progress towards the learning outcomes will be facilitated and monitored, where students are guided to progressively address the given problem through tasks. Independent learning will form an important aspect of the educational activities in this module. Case studies will be used to provide students with real-world examples of how the concepts and techniques covered in this module can be applied. Lab/Practical sessions will allow students to apply the techniques and tools acquired to solve real-world industry focused problems. AI tools and relevant technologies in Engineering Drawing will be introduced in this module to better solve the real-world industry focused problems. Assessed primarily by a project, students shall gain practical experience in undertaking independent study and research on industry focused real-world problems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MFE110TC&psl_code=SEM2"
+    }
+  ]
+}

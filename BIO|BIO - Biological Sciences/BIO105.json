@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Chemical Principles Of Life",
+  "module_code": "BIO105",
+  "offerings": [
+    {
+      "heading": "Chemical Principles Of Life",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Chemical Principles Of Life",
+        "module_code": "BIO105",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "Chemical Principles Of Life",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to introduce fundamental chemical principles within the broad spectrum of biological sciences, encompassing unicellular organisms to human physiology and medicine. By emphasizing the essential foundations of chemistry and physics, the module facilitates a profound understanding of chemical mechanisms applicable across diverse scales of life. The overarching goal is for students to establish a versatile and robust chemical foundation to foster innovation in current biological sciences.",
+        "Learning outcomes": "A. Explain the role of chemical structures and molecules in living systems, elucidating their involvement in vital biological processes and disorders. B. Define the mechanisms by which organisms obtain and process chemical energy to maintain and sustain life. C. Explain the physiological system, pharmacology, and pharmacokinetics by applying the concepts of chemical principles, highlighting their chemical significance in understanding human health and disease.",
+        "Method of teaching and learning": "The course content will be primarily delivered through standard lectures, complemented by corresponding lecture handouts accessible online. Additionally, students will receive guidance on relevant sections from specific textbooks, and if necessary, readings from reviews or source literature."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO105&psl_code=SEM1"
+    }
+  ]
+}

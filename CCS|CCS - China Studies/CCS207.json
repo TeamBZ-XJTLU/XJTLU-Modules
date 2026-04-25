@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "China: Entrepreneurship and Development",
+  "module_code": "CCS207",
+  "offerings": [
+    {
+      "heading": "China: Entrepreneurship and Development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "China: Entrepreneurship and Development",
+        "module_code": "CCS207",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "China: Entrepreneurship and Development",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides an introduction to enterprise and business development in China, and is designed to build a knowledge foundation in all the key entrepreneurial subject areas, with a particular focus on the Chinese context.",
+        "Learning outcomes": "A. Demonstrate understanding of the role of entrepreneurship and small business in China’s economic history. B. Show a thorough understanding of the theories, concepts and empirical works that underpin entrepreneurship and their applicability within Chinese society. C. Conduct a feasibility analysis and market research of entrepreneurial opportunities existing in China. D. Demonstrate a critical awareness of the multi-disciplinary aspects of entrepreneurship and enterprise development, as well as how these aspects potentially interact and grow. E. Analyse the problems in developing an enterprise, including the legal and political issues related to the larger social contexts of China. F. Demonstrate understanding of how to build capacity for private sector development in China. G. Use analytical skills to present arguments.",
+        "Method of teaching and learning": "Lectures, and seminars with case studies."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS207&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Analogue and Digital Communications I",
+  "module_code": "CAN202",
+  "offerings": [
+    {
+      "heading": "Analogue and Digital Communications I",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Analogue and Digital Communications I",
+        "module_code": "CAN202",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Analogue and Digital Communications I",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module equips students with foundational principles and analytical tools essential for understanding modern communication systems. Its primary aims are to develop students' ability to model, analyse, and critically evaluate analogue communication schemes while fostering a systems-level perspective on signal transmission. Students will gain proficiency in distinguishing between key modulation techniques, quantifying bandwidth consumptions, and applying multiplexing strategies to optimise spectral efficiency. The module further cultivates competency in mathematical modelling through Fourier analysis and stochastic noise evaluation, bridging theoretical concepts to practical engineering challenges. In addition, the module trains students programming skills to build and analyse analogue communication systems in a simulation environment, where students need to write up codes with reasonable parameters (as guided by relevant principles) to demonstrate functional communication systems.",
+        "Learning outcomes": "A. Illustrate and compare various analogue modulation schemes, including DSB-SC AM, AM, QAM, VSB AM, SSB-SC, FM, and PM. B. Interpret the concept of bandwidth in the context of communication engineering. Analyse and compare the bandwidth consumptions of various analogue modulation schemes. C. Describe and differentiate FDM and TDM. Illustrate the application of FDM in relation to various analogue modulation schemes and the application of TDM in relation to PCM. D. Analyse the effects of additive white Gaussian noise (AWGN) in communication systems. E. Model and analyse analogue communication systems by applying the principles of Fourier analysis (e.g., convolution theorem, sampling theorem).",
+        "Method of teaching and learning": "The module employs a blended pedagogical approach that integrates theoretical rigor, applied problem-solving, and computational experimentation to foster deep conceptual understanding and practical competency. Core concepts such as analogue modulation schemes, bandwidth analysis, noise modelling and its effects are introduced through lectures, where principles are contextualized using real-world communication systems. Guided tutorials provide a structured environment for students to dissect complex problems, aiming to deepen students' understanding of the relevant principles. Solutions of analytical questions will be demonstrated during tutorial sessions to guide students learning. Practical sessions anchors theoretical knowledge in digital computer practices, where instructors offer on-site help on programming-related issues and explain critical theories that bridges the modulation principles and digital realizations. Recorded lectures, supplementary videos, and scanned handouts will be provided to students to facilitate self-study."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN202&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Understanding Public Policy Process",
+  "module_code": "INS419",
+  "offerings": [
+    {
+      "heading": "Understanding Public Policy Process",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Understanding Public Policy Process",
+        "module_code": "INS419",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Understanding Public Policy Process",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "",
+        "Learning outcomes": "",
+        "Method of teaching and learning": ""
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS419&psl_code=SEM1"
+    }
+  ]
+}

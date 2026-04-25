@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Practical Bioinformatics",
+  "module_code": "BIO206",
+  "offerings": [
+    {
+      "heading": "Practical Bioinformatics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Practical Bioinformatics",
+        "module_code": "BIO206",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Practical Bioinformatics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The new module is designed for biology majors, with a heavy emphasis on the steps required to perform bioinformatics analysis to answer biological questions. The aim of this module is mainly to prepare our students with necessary conceptual and practical background in bioinformatics, help our students to realize the power of computational approaches and get familiar with statistics/modeling/algorithms in biology research.",
+        "Learning outcomes": "On successful completion of this module, students will be able to: A. Demonstrate a systematic knowledge and understanding of the application of informatics in life sciences B. Demonstrate information literacy skills in the discovery, evaluation and acquisition of data. C. Analyse datasets of broad biological relevance, using tasks and workflows that will prepare them for future research projects. D. Use local and web-based tools to conduct essential bioinformatics tasks, as required in research. E. Report their research findings in appropriate format.",
+        "Method of teaching and learning": "The course will be conducted as lectures and hands-on practice. Bioinformatics algorithms are conceptually delivered but not required. The students will use open source software tools to work with public datasets to solve various practical bioinformatics problems; and then prepare scientific essays to present their findings. Required materials will be made available on the VLE."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO206&psl_code=SEM2"
+    }
+  ]
+}

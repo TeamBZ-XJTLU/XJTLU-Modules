@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Teaching, Pedagogy, And Design",
+  "module_code": "EDS451",
+  "offerings": [
+    {
+      "heading": "Teaching, Pedagogy, And Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Teaching, Pedagogy, And Design",
+        "module_code": "EDS451",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Teaching, Pedagogy, And Design",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a solid grounding in the general principles of pedagogy from different theoretical perspectives. It will also explore key topics such as aspects of teaching, planning, assessment, policy, classroom management, special educational needs, learner motivation and learner autonomy, etc. Through guided reading, structured discussions, and practice-based field study, students are expected to deepen their understanding of learning and teaching subjects at K-15 school levels and further develop their educational practice, thus leading to critical reflections on themselves as educational practitioners.",
+        "Learning outcomes": "A Demonstrate knowledge of the key theories, concepts, principles, and practices relevant to teaching and pedagogy. B Design courses and related materials appropriate to students’ levels, interests, needs, backgrounds, and learning contexts. C Apply critical analysis and synthesis to the issues that reflect the complexity of pedagogical practice.",
+        "Method of teaching and learning": "The teaching sessions include both lectures and tutorials/workshops which work together to engage students with key conceptual, theoretical, and methodological insights, as well as dedicated opportunities for collaborative and individual practice, critical reflection, and iterative development of pedagogical projects."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS451&psl_code=SEM2"
+    }
+  ]
+}

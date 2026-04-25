@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Practical Pharmacology",
+  "module_code": "APH219",
+  "offerings": [
+    {
+      "heading": "Practical Pharmacology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Practical Pharmacology",
+        "module_code": "APH219",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Practical Pharmacology",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to develop in students the ability to: 1) measure the effects of drugs on isolated tissues and their use in the study of drug/receptor interactions and structure/activity relationships; 2) carry out quantitative analysis of drug antagonism and apply analytical techniques in the measurement of drug metabolism; 3) develop knowledge and understanding in pharmacology, and ability to apply, evaluate and interpret this knowledge to solve problems.",
+        "Learning outcomes": "A Demonstrate an understanding of the action of drugs and factors affecting the interactions of drugs with the human body, and the role of pharmacology in the study of disease. B Present, critically evaluate and interpret qualitative and quantitative data related to drug effects and record procedures and protocols C Demonstrate competence in practical skills in pharmacology and manage their time effectively; D Plan and execute a series of experiments, use laboratory equipment correctly and safely to generate data; E Analyse quantitative data, interpret its validity and apply statistical analyses F Problem solving/ critical thinking/ creativity analysing facts and situations and applying creative thinking to develop appropriate solutions.",
+        "Method of teaching and learning": "Students will attend a 1-hour lecture/week for 10 weeks, 1-hour tutorial/week for 10 weeks and 6-hour lab practical/week for 6 weeks. Ahead of each lab session, there will be lecture and tutorial, which will cover the concepts and theories of the module. Animations and/or videos will be shown for some of the topics. The lab practical component will be conducted in purpose-built teaching laboratories. The session will highlight critical parts of the practical where particular care is needed, both from a safety viewpoint and also to facilitate successful completion. In the laboratory session, students will work individually or in small groups. Lecture handouts and lab notes will complement the learning experience. Assessment facilitates evaluation of student learning and development, while the feedback helps deepening students’ understanding. The assessment incudes coursework and lab reports. A guideline on lab report will be provided to the students at the beginning of the semester. Each student will prepare his/her report independently, which is due in a week after the lab is completed. Timely, relevant and specific, constructive and actionable feedback will be provided to students in-class, on-paper and/or in-person on for each assignment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH219&psl_code=SEM2"
+    }
+  ]
+}

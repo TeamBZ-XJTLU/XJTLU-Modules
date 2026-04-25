@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Interactive Systems",
+  "module_code": "CPT405",
+  "offerings": [
+    {
+      "heading": "Interactive Systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Interactive Systems",
+        "module_code": "CPT405",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Interactive Systems",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module prepares and enables students to design, implement and evaluate computer interfaces to make them accessible, effective and easy to use. Students will acquire the skills needed for developing useful and usable user-centred interfaces through the systematic applications of models and techniques employed in human-computer interaction and closely related fields such as interaction design and ergonomics. A good understanding of the principles of human-computer interaction (HCI) is crucial for the successful development of interactive computer applications. This optional module provides the students with an opportunity to study and apply HCI knowledge and skills as part of their programme. The module is shared by MRes Computer Science, MSc Applied Informatics, MSc Social Computing, MSc Financial Computing and MSc Human-Computer Interaction.",
+        "Learning outcomes": "A. Analyze current research issues in the development of interactive systems, investigate and evaluate user capabilities and limitations, and apply advanced methodologies to design usable and effective human-computer interfaces. B. Design and justify key techniques and methods for interface design, evaluation, and analysis, demonstrating a systematic and evidence-based approach to problem-solving. C. Critically evaluate real-world interactive systems in practice, assessing their usability, performance, and broader environmental and societal impacts across the system life cycle, and propose strategies for improvement and sustainability. D. Conduct requirements analysis and independently design, develop, and evaluate a functional prototype of an interactive system that addresses identified user and contextual needs. E. Apply effective teamwork and leadership skills in a small-scale development project, and critically evaluate both individual and team performance to enhance collaborative effectiveness.",
+        "Method of teaching and learning": "The module adopts a combination of lectures, lab/practical sessions, and project-based learning to support students in achieving the learning outcomes. 1. Lectures introduce fundamental and advanced concepts in interface design, including key design techniques, evaluation methods, and usability assessment. Each lecture is structured in two parts: (a) delivery of theoretical knowledge and (b) discussion of advanced techniques and interface examples, enabling students to connect theory with practice. 2. Lab/practical sessions provide hands-on opportunities for students to apply the concepts learned in lectures to their group and individual projects. Students discuss design ideas, present initial plans, implement prototypes, demonstrate systems, and gather user feedback for iterative improvement. Basic programming environments such as Unity and HTML/JavaScript are introduced to support implementation. 3. Students are encouraged to experiment with AI technologies for system prototyping and enhancement, exploring how AI can be integrated into interactive systems. 4. Coursework activities (group and individual projects) include diverse deliverables such as written reports, videos, presentations, demonstrations, and functional prototypes, allowing students to demonstrate practical and reflective learning outcomes. 5. Peer review activities are integrated to enable students to apply effective teamwork and leadership skills, and to critically evaluate both individual and team performance in order to enhance collaborative effectiveness."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT405&psl_code=SEM1"
+    }
+  ]
+}

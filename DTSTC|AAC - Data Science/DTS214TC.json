@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "Networking and Distributed Computing",
+  "module_code": "DTS214TC",
+  "offerings": [
+    {
+      "heading": "Networking and Distributed Computing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DTSTC",
+        "full_name": "Networking and Distributed Computing",
+        "module_code": "DTS214TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Networking and Distributed Computing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The objective of this course is to equip students with fundamental concepts, architectural design, and core algorithms of distributed systems, enabling them to comprehend the principles and protocols of network communication. Furthermore, it aims to cultivate students' ability to solve problems related to distributed computing in big data processing. This course is tailored for students majoring in big data, as distributed systems constitute the core infrastructure for big data processing. Mastering their principles and design can significantly enhance the efficiency and scale of big data handling, meeting the industry's demand for highly skilled talents.",
+        "Learning outcomes": "A. Understand the basic concepts, models, and architectures of distributed computing; B. Acquire network communication principles and protocols, and understand inter-process communication; C. Acquire common distributed algorithms and analyze their performance and reliability; D. Conduct performance testing and tuning for distributed computing.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This philosophy is carried through in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The module will be delivered in a combination of lectures, seminars and labs. Lectures will introduce students to the academic content. Seminars and labs will be used to expand the students understanding of lecture materials. In addition, students will be expected to devote unsupervised time to private study. Private study will provide time for reflection and consideration of lecture material and background reading. This module will leverage generative AI to enhance course content and teaching methods in line with the learning outcomes. By integrating advanced AI technologies, we aim to improve the efficiency of teaching and interaction, while fostering greater student autonomy and flexibility in learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS214TC&psl_code=SEM1"
+    }
+  ]
+}

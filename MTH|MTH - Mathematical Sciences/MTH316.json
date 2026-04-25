@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Applied Multivariate Statistics",
+  "module_code": "MTH316",
+  "offerings": [
+    {
+      "heading": "Applied Multivariate Statistics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Applied Multivariate Statistics",
+        "module_code": "MTH316",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Applied Multivariate Statistics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide a good understanding of the principles of multivariate statistics and to equip students with techniques for multivariate data analysis.",
+        "Learning outcomes": "A Understand the main principles of Multivariate Statistics B Present the proof of the main theorems of Multivariate Statistics C Use appropriate multivariate techniques to summarize, analyze and interpret multivariate data D Use relevant computer packages for statistical analysis and for drawing appropriate conclusions",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH316&psl_code=SEM2"
+    }
+  ]
+}

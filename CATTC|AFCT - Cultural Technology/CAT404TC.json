@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "CATTC",
+    "full_name": "Cultural Technology"
+  },
+  "full_name": "Interactive Media Research Project",
+  "module_code": "CAT404TC",
+  "offerings": [
+    {
+      "heading": "Interactive Media Research Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CATTC",
+        "full_name": "Interactive Media Research Project",
+        "module_code": "CAT404TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Interactive Media Research Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: This module takes the research proposal developed in FTA429 forward to the execution stage. It commences at the beginning of the final semester and allows students to further develop and conclude the research as Practice as Research (PaR) in the form of a completed interactive project. Objectives: Students will undertake an independent research project. The project topics should be related to the interactive media pathway, and students will primarily utilise the subject knowledge covered in the learning, along with disciplinary aspects. Each student will work with a member of academic staff as the project advisor. In addition to the interactive project, students will also complete a final report that documents its development process and reflects on its potential further development. This report will be submitted as the dissertation required by the masters.",
+        "Learning outcomes": "A Apply critically the analysis, research, creative and technical skills on an individual interactive research project B Demonstrate autonomous development skills within the interactive project realisation C Demonstrate a critical understanding of markets, audiences and industrial contexts when producing content, documentation and completed artefacts for an interactive project D Critically evaluate and contextualise interactive work within appropriate theoretical contexts",
+        "Method of teaching and learning": "The module is research-led and practice-based in terms of developing a completed interactive project. Students will work independently and be supervised by an experienced academic staff throughout the project process. They will demonstrate the progress of their work through lectures, tutorials and labs."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAT404TC&psl_code=SEM2"
+    }
+  ]
+}

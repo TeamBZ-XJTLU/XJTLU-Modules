@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Cryptocurrencies, Blockchain, And The Future Of Money",
+  "module_code": "IFB414TC",
+  "offerings": [
+    {
+      "heading": "Cryptocurrencies, Blockchain, And The Future Of Money",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Cryptocurrencies, Blockchain, And The Future Of Money",
+        "module_code": "IFB414TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Cryptocurrencies, Blockchain, And The Future Of Money",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this course is to provide students with a comprehensive understanding of cryptocurrencies, blockchain technology, and their impact on the future of money and the global financial system. By exploring the technical, economic, and regulatory aspects of these technologies, students will develop the skills and knowledge necessary to critically evaluate and participate in the rapidly evolving digital currency landscape.",
+        "Learning outcomes": "A Critically evaluate the technical and economic underpinnings of cryptocurrencies. B Analyze and interpret the architecture and potential applications of blockchain across various sectors. C Analyze the transformative potential of these technologies on financial markets, business, and societal norms. D Critically assess the regulatory, ethical, and security challenges associated with the rise of decentralized systems.",
+        "Method of teaching and learning": "Based on the philosophy of Syntegrative Education, this module’s delivery pattern follows more intensive block teaching, and allows more meaningful contribution from industry partners. This delivery pattern provides space for students to concentrate on completing the problem-based and project-oriented assessments. This module will be delivered through a series of key lectures/seminars. In addition, students will be required to analyse a number of cases, determining what worked and why."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB414TC&psl_code=SEM2"
+    }
+  ]
+}

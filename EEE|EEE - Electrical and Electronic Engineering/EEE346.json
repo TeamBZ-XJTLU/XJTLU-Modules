@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Modern Power Systems Operation And Control",
+  "module_code": "EEE346",
+  "offerings": [
+    {
+      "heading": "Modern Power Systems Operation And Control",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Modern Power Systems Operation And Control",
+        "module_code": "EEE346",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Modern Power Systems Operation And Control",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module covers the designs associated with the modern power system operation, and the associated technical- and market-related problems and solutions. These may include generator’s automatic frequency control and automatic voltage regulation, transmission’s reactive power and voltage control, load flow analysis, stability modelling and control, optimal dispatch, as well as power system economics and markets. Advanced controls and operations are the fundamental technologies to support the development of a smarter power grid. The module will expose the students with the classical and future power system operation and controls which are increasingly affected by the gradual adoption of large-scale power electronic-based renewable energies.",
+        "Learning outcomes": "A. Analyze the role of modern electric power systems in achieving sustainable energy development goals. B. Critically evaluate the operational advantages and limitations of power electronic-based devices, distributed generations, and smart grid technologies. C. Analyze and critique the strategies for automatic generation control, reactive power and voltage control, and power electronic-based system controls. D. Design and assess optimal dispatch solution for a multi-area system. E. Relate power system economics and markets with modern power system operation.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures, tutorials and labs. Lectures will be designed to provide the background, the fundamental knowledge, analytical tools, and application examples. Tutorials provides an opportunity for students to apply and demonstrate the newly acquired knowledge. Labs provides a venue for students to learn and use power system software to solve small power system’s practical problems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE346&psl_code=SEM2"
+    }
+  ]
+}

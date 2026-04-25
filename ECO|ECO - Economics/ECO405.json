@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Economics for Managerial Decision Making",
+  "module_code": "ECO405",
+  "offerings": [
+    {
+      "heading": "Economics for Managerial Decision Making",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Economics for Managerial Decision Making",
+        "module_code": "ECO405",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Economics for Managerial Decision Making",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Firms operate in an increasingly complex environment: from, at the micro level, competitors, consumers and a diverse set of other stakeholders, to societal responsibilities as well as government regulation, to, at the macro level, global business cycles, macroeconomic as well as policy uncertainty. This module equips the students with key micro and macroeconomic tools to analyze this environment for effective managerial decision making.",
+        "Learning outcomes": "A. Distinguish and measure categories of benefits and costs, perform supply and demand analysis, and analyse the impact of economic events on markets and firms. B. Identify consumer behaviour and predict its interrelation with the firm, understand the effect of government intervention, and compare different market structures. C. Critically analyse economic arguments using microeconomic modelling. D. Identify the measures of GDP and analyse its components. E. Calculate, analyse and interpret different types of macroeconomic data to extract useful information for optimal decision-making. F. Understand, analyse and critically assess the interrelationships between different macroeconomic policies applicable in wider economic context.",
+        "Method of teaching and learning": "The module involves a blended teaching approach which combines in class lectures and seminars together with distance learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO405&psl_code=SEM2"
+    }
+  ]
+}

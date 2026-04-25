@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Introduction to Basic Science of Medicine",
+  "module_code": "APH002",
+  "offerings": [
+    {
+      "heading": "Introduction to Basic Science of Medicine",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Introduction to Basic Science of Medicine",
+        "module_code": "APH002",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Introduction to Basic Science of Medicine",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to delve into the fundamental principles of medical science to equip students of pharmacy-related majors with a solid foundation in the life sciences. This module starts with a basic exploration of general biology and human physiology, progresses to a more in-depth understanding of molecules in life and cell biology, and culminates with a brief study of biochemistry. This structured module will provide the necessary scientific foundation for more advanced studies in specialized areas of pharmacy. Moreover, the module highlights the importance of multidisciplinary approaches in the post-genomic research era, preparing students for the evolving landscape of medical science. Consequently, this module not only fits into the curriculum, but also provides tools for future studies and careers in the field of pharmacy.",
+        "Learning outcomes": "A. Understand basic concepts and principles in general biology B. Understand the foundational principles of human physiology C. Explain the chemical basis of life molecules D. Gain an understanding of cell biology and molecular biology E. Acquire a introductory understanding of biochemistry F. Apply the foundational knowledge from these areas to gain a preliminary understanding of the mechanisms of drug action and interaction within the human body",
+        "Method of teaching and learning": "Course content will be delivered primarily via standard lectures that will be accompanied by suitable lecture handouts (also available on LMO). Students will also be guided to sections of specific textbooks and if reading of specific reviews or source literature is required, then copies of these will be made available to the students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH002&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "The City in Films",
+  "module_code": "COM336",
+  "offerings": [
+    {
+      "heading": "The City in Films",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "The City in Films",
+        "module_code": "COM336",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "The City in Films",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to explore the complex relationship between film and urban space, using a diverse body of key texts and case studies, designed to illuminate the ways in which the city is mediated on film. The module will consider how the representation of the city in film can have different inflections according to genre, style and mode of filmmaking, and the case studies will range from film noir to road movies, mainstream to art cinema. The relationship between film and city will make the object of a philosophical questioning, that will address themes such as memory and trauma, marginality, queer and gendered spaces, posthuman dystopian landscapes, the city as a site of layered temporalities. The module asks students to reflect upon the thematic and aesthetic choices made by a variety of filmmakers in order to discuss and dissect the representation of diverse worlds on screen.",
+        "Learning outcomes": "A. Critically engage with a range of city films B. Reflect on the cinematic representation of various urban phenomena C. Demonstrate an in-depth understanding of the role of films as sites for the construction and contestation of ideologies D. Historically and theoretically contextualise the relationship between film and cinema",
+        "Method of teaching and learning": "Lectures Seminars Film screenings"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM336&psl_code=SEM2"
+    }
+  ]
+}

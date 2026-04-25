@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Spoken Language Processing",
+  "module_code": "INT403",
+  "offerings": [
+    {
+      "heading": "Spoken Language Processing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INT",
+        "full_name": "Spoken Language Processing",
+        "module_code": "INT403",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Spoken Language Processing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to let students understand spoken language processing and develop an understanding of the acoustic of speech; time domain audio and speech features; frequency domain audio and speech features; machine learning-based robust, scalable, and adaptive speech processing; various speech front-end processing techniques, such as speech separation and enhancement, speaker verification; automatic speech recognition and speech synthesis. This module also aims to let students get familiar with recent popular research outcomes of speech recognition and speech synthesis and prepare students to develop spoken language processing systems of practical use. In addition, it encourages students to consider the environmental and societal impacts of such systems across their lifecycle and adopt approaches that minimise adverse effects.",
+        "Learning outcomes": "A. Describe the physiological mechanisms of human speech production and the acoustic properties of speech signals. B. Analyze speech signals using time-domain and frequency-domain techniques, including feature extraction and signal transformation methods. C. Construct and evaluate components of spoken language processing systems such as speech enhancement and speaker verification.. D. Critically evaluate state-of-the-art methods and current research trends in automatic speech recognition (ASR) and speech synthesis technologies. E. Design, implement, and test a spoken language processing system using appropriate tools, models, and front-end processing techniques to solve a defined real-world problem.",
+        "Method of teaching and learning": "Spoken Language Processing utilizes a variety of teaching and learning strategies designed to help students develop both theoretical knowledge and practical skills in speech technology. Interactive lectures introduce key principles in acoustic phonetics, speech signal processing, and machine learning, while encouraging students to critically engage with contemporary challenges in spoken language systems. Practical lab sessions provide hands-on experience with tools and datasets used in speech recognition and synthesis, allowing students to experiment with techniques and consolidate their understanding through application. Seminars and tutorials support deeper exploration of core topics through structured discussions and guided problem-solving. Students receive individual academic support through regular office hours and are encouraged to take initiative in their learning by reviewing research literature, exploring software tools, and advancing their project work independently. All course content and supplementary materials are accessible through the University’s Learning Mall platform to facilitate continuous learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT403&psl_code=SEM1"
+    }
+  ]
+}

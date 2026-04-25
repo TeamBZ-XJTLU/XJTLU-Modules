@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Data Structures",
+  "module_code": "CPT102",
+  "offerings": [
+    {
+      "heading": "Data Structures",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Data Structures",
+        "module_code": "CPT102",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Data Structures",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Data Structures provides undergraduate students with a comprehensive understanding of data structures and related algorithms, eauipping them with the skills and abilities to design, implement, analyze, and evaluate data structures in problems solving. This module lays the foundation for computer science and computer systems students for their degree related further study and professional careers in the computer industry.",
+        "Learning outcomes": "A. Identify and describe the principles of common data structures (e.g., arrays, lists, stacks, queues, trees, and graphs) and demonstrate their design and implementation in a programming language. B. Explain and illustrate the use of algorithms to create/access/manage data structures and apply this knowledge to solve specific problems effectively. C. Conduct basic analyses on data structures related algorithm performance with reference to time and space complexity, and interpret the results. D. Select, implement, and justify the use of the most appropriate data structures for given problems, considering the efficiency of different algorithms.",
+        "Method of teaching and learning": "Lectures will be delivered to cover the basic concepts and knowledge in the data structures areas of study with good motivation, illustration and solid examples and usage scenario for the knowledge learnt. Program fragments (typically in Java, C, or Python) will be examined in nearly all sessions to showcase the design, implementation, and application details. Take-home exercises or self-study topics will be prescribed during lecture sessions for private study. Tutorials will be offered with a focus more on helping students to develop pratical data structures programming skills by covering solid details in design and implementation of programs solving data structures related problems. Labs will be delivered with solid program examples and templates for students to finetune or customize to develop prototypes in data structures. Students will be constantly encouraged and prompted for revisions and private study which will provide them time for reflection of lecture material and background reading. Continuous assessments will be used to test to what extent practical skills have been learnt, in particular, assessment tasks will be prescribed and need to be solved individually and each solution comprises the resolution, using sound programming techniques, of the given problems expressed in terms of a requirements statement."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT102&psl_code=SEM2"
+    }
+  ]
+}

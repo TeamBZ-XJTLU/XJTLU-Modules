@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Introduction to Environmental Chemistry and Monitoring",
+  "module_code": "ENV114",
+  "offerings": [
+    {
+      "heading": "Introduction to Environmental Chemistry and Monitoring",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Introduction to Environmental Chemistry and Monitoring",
+        "module_code": "ENV114",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Environmental Chemistry and Monitoring",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to: 1. To introduce students to the main pollution processes that are currently occurring in the Air, Water and Soil compartments of the environment. 2. To develop an overall understanding of the various ways that human beings have changed, and are changing the environment. 3. To provide a basic knowledge of the current status of environmental pollution in China and of up-to-date environmental quality standards and related pollutant control and emission standards. 4. To introduce the general procedures for measuring common pollution parameters from air, water and soil samples, including spatial variability and sampling approaches. 5. Provide students with the knowledge to make an informed decision to choose either the Environmental Pollution of the Ecology emphasis area in year 3 and 4.",
+        "Learning outcomes": "A illustrate the main pollution types affecting the atmosphere, water and soils B classify environmental pollution parameters and the methods used to measure them C summarize the process for sample collection, storage, transport, processing, qualitative or quantitative measurement and data processing D explain a range of common environmental pollutants and interpret pollutant data E conduct analyses and interpret environmental pollutant data using computational skills to propose solutions to solve a particular problem",
+        "Method of teaching and learning": "The Module is taught through traditional lectures, active participation in weekly tutorials and one field trip. The module is supported by projects, coursework and independent study. To complete this module, students are expected to attend all classes, complete coursework and projects assignments in a timely manner, and prepare adequately for the examination. *Should the University decide to cancel or postpone the field trip due to unforeseen environmental and/or political circumstances, the Department will either plan an appropriate substitute activity to meet the intended learning outcomes of the trip or make necessary arrangements to organize the trip at a later time, as appropriate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV114&psl_code=SEM2"
+    }
+  ]
+}

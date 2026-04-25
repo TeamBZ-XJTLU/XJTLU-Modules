@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Audit and Assurance",
+  "module_code": "ACC407",
+  "offerings": [
+    {
+      "heading": "Audit and Assurance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Audit and Assurance",
+        "module_code": "ACC407",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Audit and Assurance",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To develop understanding of the critical aspects of managing an assurance engagement (including audit engagements): acceptance, planning, managing, concluding and reporting.",
+        "Learning outcomes": "A understand and advise on the regulatory, professional and ethical issues relevant to those carrying out an assurance engagement. Analyse potential issues in such an engagement, and apply the relevant professional ethical knowledge to these issues. B understand the processes involved in accepting and managing assurance engagements. C understand how quality assurance processes mitigate risks, and interpret the significance of these processes in the context of an organization. D plan assurance engagements in accordance with the terms of the engagement and appropriate standards. E conclude and report on assurance engagements in accordance with the terms of the engagements and appropriate standards. F demonstrate a critical understanding of the theories and principles upon which modern auditing and assurance is based and resolve ethical problems through rational debate and analysis",
+        "Method of teaching and learning": "A range of teaching and learning methods will be utilized on this module. Core substantive knowledge will be delivered via a weekly 2-hour lecture, and the knowledge covered in lectures will be reinforced by practical student group work, culminating in participative tutorials of one-hour duration each week. Longer, case-based work will be delivered by means of two 2-hour seminars, which will again be participative in nature."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC407&psl_code=SEM1"
+    }
+  ]
+}

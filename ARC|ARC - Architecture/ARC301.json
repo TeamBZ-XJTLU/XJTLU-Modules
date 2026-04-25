@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "ARC",
+    "full_name": "Architecture"
+  },
+  "full_name": "Architectural Technology",
+  "module_code": "ARC301",
+  "offerings": [
+    {
+      "heading": "Architectural Technology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ARC",
+        "full_name": "Architectural Technology",
+        "module_code": "ARC301",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Architectural Technology",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module introduces students to architectural technology. Architectural Technology focuses on an exploration of various new materials, methods, engineering, technologies, functions and processes that will help to understand the next generation of buildings and future building performance requirements. It provides the link between design and production, research and development; design ambitions and technological expertise.",
+        "Learning outcomes": "A. Examine and understand the role of digital design and fabrication within architecture. B. Critique the fundamental scientific, technological and organisational principles underpinning architectural design and building performance. C. Formulate technological systems with knowledge of the, technical, social and economic contexts pertaining to the development, implementation and maintenance of buildings. D. Formulate and facilitate generative AI and digital collaborative strategies and practices. E. Implement the technological knowledge acquired in a design context. F. Analyse and critique the contemporary discourse of architectural technology.",
+        "Method of teaching and learning": "The module will be based on: Lectures: Case studies and examples; calculations, theories and data; Seminars: Discursive on readings, themed issues; design proposals and group engagement Workshop or practical design exercises: Lab/workshop research in controlled conditions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ARC301&psl_code=SEM1"
+    }
+  ]
+}

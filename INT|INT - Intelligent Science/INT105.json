@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "AI Fundamentals & Ethics",
+  "module_code": "INT105",
+  "offerings": [
+    {
+      "heading": "AI Fundamentals & Ethics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INT",
+        "full_name": "AI Fundamentals & Ethics",
+        "module_code": "INT105",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "AI Fundamentals & Ethics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with foundational knowledge in Artificial Intelligence (AI) and its ethical implications. This module is designed to fit into the broader programme by equipping students with essential skills and understanding that are critical for advanced studies in AI and related fields. Students will explore the basic principles of AI systems, probabilistic theory, and database design for AI tasks. Additionally, the module addresses ethical considerations, ensuring that students are aware of and can navigate the moral challenges posed by AI technologies. By the end of the module, students will be able to evaluate AI systems' performance and understand the diversity and bias issues that can arise in AI applications, preparing them for both academic and professional pursuits in the realm of AI.",
+        "Learning outcomes": "A Demonstrate an awareness of AI ethics issues B Design database for a dedicated AI task C Evaluate the performance of AI system D Demonstrate knowledge of probabilistic theory related to AI",
+        "Method of teaching and learning": "This module is delivered as a series of two-hour lectures and one-hour tutorial sessions, designed to provide a comprehensive understanding of the subject matter. The concepts introduced during the lectures are illustrated with practical case studies, relevant mathematics theories, and computer programs to help students grasp the material effectively. Each week, students are expected to solve a set of exercises, which reinforce the lecture content, and engage in self-study to review and deepen their understanding of the topics covered. This structured approach ensures that students can apply theoretical knowledge to real-world scenarios, enhancing their problem-solving skills and preparing them for advanced study or professional practice."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT105&psl_code=SEM1"
+    }
+  ]
+}

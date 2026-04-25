@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FIN",
+    "domain_code": "FIN",
+    "full_name": "Finance"
+  },
+  "full_name": "Financial Machine Learning",
+  "module_code": "FIN424",
+  "offerings": [
+    {
+      "heading": "Financial Machine Learning",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FIN",
+        "full_name": "Financial Machine Learning",
+        "module_code": "FIN424",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Financial Machine Learning",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide a complete and systematic treatment of machine learning methods specific for finance and business. It contains three primary parts: •Introduction to machine learning basics and essentials. •Data structure and feature for finance and business data. •Utilizing machine learning models to solve practical problems under finance and business context. On the finance side, this course will enable students to understand the structures of different financial and business data, transformation of raw data into informative signals and further into actual trading algorithms, the evaluation of machine learning models under various scenarios, and the economic mechanism of the model outcomes and results. On the technical side, it equips the student with capability to familiar with popular machine learning models, apply the appropriate machine learning methods on identifying common financial problems and discover the investment opportunity, and to use Python to implement the code and further deploy it into the production line.",
+        "Learning outcomes": "A. Apply the knowledge of financial theories and skills of pre-processing the financial / business data to develop useful features for machine learning methods; B. Explain the potential problems in applying machine learning models in finance and business, and be able to justify their impacts; C. Interpret state-of-the-art machine learning methods and assess their suitability given various context; D. Transform the raw financial and business data into the constructed features; E. Apply the appropriate machine learning models to develop investment / business strategies; F. Demonstrate the capability of evaluating the model performance, interpreting the results, and cooperating with risk management team with respect to the identification of potential risk;",
+        "Method of teaching and learning": "It consists of weekly lectures and computer labs with the application of specific cases. Students will learn basic concepts and highly practical skills from weekly two-hour lectures. During the weekly lab sessions, they will be able to practice the basic programing functions / toolbox / packages; be familiar with real financial and business data; apply the concepts to analyze practical problems. Lab sessions will be expected to take place in the IBSS trading floor to enhance students' practical experience, subject to the availability of the trading floor."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN424&psl_code=SEM2"
+    }
+  ]
+}

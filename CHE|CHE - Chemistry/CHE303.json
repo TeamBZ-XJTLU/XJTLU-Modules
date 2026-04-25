@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Advanced Organic Chemistry",
+  "module_code": "CHE303",
+  "offerings": [
+    {
+      "heading": "Advanced Organic Chemistry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Advanced Organic Chemistry",
+        "module_code": "CHE303",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Advanced Organic Chemistry",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the course is to consolidate and extend second year knowledge of synthetic and physical organic chemistry, and introduce some aspects of C-C formation catalyzed reactions.",
+        "Learning outcomes": "A have a good understanding of pericyclic reactions B understand radical reactions C understand how to control double bond geometry D be able to deduce mechanisms on the basis of kinetic and other evidence E understand catalyzed carbon-carbon bond formation",
+        "Method of teaching and learning": "Lectures and tutorials"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE303&psl_code=SEM1"
+    }
+  ]
+}

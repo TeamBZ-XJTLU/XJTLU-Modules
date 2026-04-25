@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "Security, Privacy and Ethics",
+  "module_code": "DTS306TC",
+  "offerings": [
+    {
+      "heading": "Security, Privacy and Ethics",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "DTSTC",
+        "full_name": "Security, Privacy and Ethics",
+        "module_code": "DTS306TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Security, Privacy and Ethics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to explore the ethical considerations and implications of big data technologies and Artificial Intelligence (AI) in our society. It focuses on the impact of big data and AI on security, privacy, ethics, and human rights, and aims to critically analyze and discuss various ethical issues arising from the use of big data and AI. This module is suitable for individuals interested in security and ethics. It is especially relevant for students studying AI, data science, computer science, or any other field where such technologies are being utilized.",
+        "Learning outcomes": "A. Demonstrate a comprehensive awareness of computer and data security issues, such as common vulnerabilities, threat models, and best practices for safeguarding information in digital environments. B. Evaluate the potential risks and benefits of AI technologies concerning privacy and personal data, assessing the implications of data collection, storage, and usage on individual rights and societal norms. C. Demonstrate an understanding of the importance of fairness in AI systems, analyzing how biases can arise in AI models and the implications these biases have on decision-making processes and societal equity.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. This module will be delivered by a combination of formal lectures, seminars, and tutorials. Lectures will introduce students to the academic content and practical skills. Seminars andf tutorials will be used to expand the students understanding of lecture materials.. In addition, students will be expected to devote unsupervised time to private study. Private study will provide time for reflection and consideration of lecture material and background reading."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS306TC&psl_code=SEM1"
+    }
+  ]
+}

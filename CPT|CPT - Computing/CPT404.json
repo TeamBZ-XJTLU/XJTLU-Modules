@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Technological Project Management",
+  "module_code": "CPT404",
+  "offerings": [
+    {
+      "heading": "Technological Project Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Technological Project Management",
+        "module_code": "CPT404",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Technological Project Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims This module aims to develop a critical understanding of project management principles and their application within technological and engineering contexts. Students will gain knowledge across key areas such as scope, time, cost, quality, risk, and stakeholder management, with emphasis on practical integration between these domains. Through the use of contemporary frameworks and tools, students will learn to plan, implement, and control projects effectively, evaluate alternative management approaches, and design strategies for risk mitigation and project success. Fit of Module As project management plays a vital role in modern technology development, this module is particularly relevant for students from Computer Science and related disciplines. It equips them with the skills to manage complex software and systems projects, bridging technical expertise with leadership and organisational capabilities. By aligning with industry standards such as PMBOK, PRINCE2, and Agile, the module ensures strong professional relevance and complements technical modules in software engineering, systems design, and innovation. It supports the university’s goal of producing adaptable, ethical, and industry-ready computing professionals capable of leading teams and delivering value in evolving technological environments.",
+        "Learning outcomes": "A. Demonstrate a critical understanding of project management principles, processes, and methodologies within technological and engineering contexts. B. Apply contemporary project management tools and techniques to plan, execute, and monitor projects in complex and dynamic environments. C. Critically evaluate and justify alternative project management strategies to determine the most appropriate approach for a given context. D. Design and implement a comprehensive risk management strategy to effectively respond to uncertainty and unforeseen challenges. E. Engage ethically and professionally within legal, social, and collaborative frameworks, contributing effectively as a member of a multidisciplinary development team.",
+        "Method of teaching and learning": "This module combines theoretical instruction with applied, collaborative learning to develop both critical understanding and practical competence in project management. Teaching consists of two hours of lectures and one hour of tutorials per week, integrating conceptual frameworks with active exploration and peer engagement. Lectures introduce key project management principles, processes, and methodologies, covering areas such as scope, time, cost, quality, risk, and stakeholder management. The module leader presents and critiques established frameworks — including Agile, PMBOK, and PRINCE2 — while encouraging students to relate theory to technological project contexts. Outside lectures, students work in small groups to investigate selected topics from the lecture content, using AI-generated content (AIGC) tools to design innovative project workflows or software-based management solutions. These exploratory activities promote creativity, critical thinking, and familiarity with emerging digital tools in project management. In weekly tutorials, groups present their findings and prototypes, engaging in peer discussion and receiving formative feedback from the module leader. Tutorials reinforce communication, reflection, and teamwork — essential professional skills for project environments. Assessment is based on three components: tutorial presentations and a two-part Project Management Report. The first part, written from the perspective of a project initiator, develops a formal project proposal; the second part, from the viewpoint of a project manager, delivers a complete project plan. Within the final report, each student also submits a short individual reflective statement (worth approximately 15% of the total mark) that demonstrates their personal learning, critical understanding, and ethical engagement in managing projects. This reflective element ensures individual accountability within group work while directly addressing the learning outcomes related to professional responsibility and critical evaluation (Outcomes A and E). Together, these components provide an integrated assessment of both strategic and operational dimensions of project management practice."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT404&psl_code=SEM2"
+    }
+  ]
+}

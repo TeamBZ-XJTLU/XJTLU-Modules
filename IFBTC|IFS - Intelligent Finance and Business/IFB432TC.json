@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Sustainable Supply Chain Management",
+  "module_code": "IFB432TC",
+  "offerings": [
+    {
+      "heading": "Sustainable Supply Chain Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Sustainable Supply Chain Management",
+        "module_code": "IFB432TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Sustainable Supply Chain Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Sustainability has become a strategic priority for global supply chains. This module aims to equip students with a critical understanding of how sustainability principles are integrated into modern supply chain strategies, operations, and technologies. It explores how ESG considerations shape global supply chain design, procurement practices, logistics, and supplier relationships. This course emphasizes the strategic importance of building supply chains that are not only efficient and resilient but also socially responsible and environmentally sustainable. This course introduces supply chain management topics including the concepts, insights, practices, and decision-making for the effective sustainable management of supply chains from product design and material sourcing to production and distribution. Students will also examine key frameworks such as circular economy, life cycle assessment, and sustainable sourcing, and learn how to apply them in real-world contexts. As part of the Intelligent ESG pathway, this module also explores how digital technologies—such as blockchain, AI, IoT, and data analytics—are transforming supply chain transparency, traceability, and performance. Students will gain hands-on experience in evaluating sustainability risks and opportunities in supply chain networks and learn to design responsible supply chain strategies that align with regulatory requirements, stakeholder expectations, and ESG goals.",
+        "Learning outcomes": "A. Critically evaluate the ESG challenges and opportunities associated with global supply chain management. B. Analyse the principles and practices of sustainable supply chain management. C. Apply sustainability frameworks and tools to identify risks, opportunities, and trade-offs in supply chain design, procurement, logistics, and supplier engagement. D. Assess the role of digital technologies (e.g., blockchain, AI, IoT, data analytics) in enhancing supply chain transparency, traceability, and sustainability. E. Develop responsible supply chain strategies that align with ESG goals, stakeholder expectations, and competitive advantage.",
+        "Method of teaching and learning": "The module is guided by the Syntegrative Education philosophy, using intensive block teaching to enable deeper engagement with industry partners and practical challenges. This format supports a shift away from traditional exams toward coursework-based assessment, with a strong focus on problem-based, project-oriented tasks. Teaching methods include a mix of lectures, seminars, and tutorials to develop an understanding of key concepts in sustainable supply chain management, along with the analytical tools and techniques needed to address real-world supply chain issues."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB432TC&psl_code=SEM2"
+    }
+  ]
+}

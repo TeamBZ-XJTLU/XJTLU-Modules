@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "APM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Deep Learning in Finance",
+  "module_code": "MTH447",
+  "offerings": [
+    {
+      "heading": "Deep Learning in Finance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Deep Learning in Finance",
+        "module_code": "MTH447",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Deep Learning in Finance",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module contain two sections: the deep learning and blockchain technologies in financial innovation, equipping students with a comprehensive skillset to critically understand and apply cutting-edge tools in FinTech. Students will gain hands-on experience in modelling real-world financial data, bridging advanced AI techniques with decentralized ledger systems. The first is module section introduces emerging deep learning models and their applications in financial markets. It aims to equip students with a comprehensive skillset, enabling them to demonstrate critical understanding of widely employed models and apply hands-on techniques to model real-world financial data of different modalities (e.g. time series, texts) . Students will develop a deep understanding of fundamental concepts, including neural networks, deep feed-forward neural networks, recurrent neural networks, Long Short-Term Memory, transformers, transfer learning, generative model, and topics of large language model (LLM). The module will also cover techniques for modelling financial data using cross-validation and ensemble methods, as well as state-of-the-art unsupervised learning methods like autoencoders, applied to company clustering and asset pricing. Additionally, students will explore the latest machine learning interpretability techniques and evaluate feature importance using various methods Complementing this, the blockchain segment introduces Bitcoin (BTC) basics, including cryptographic hash functions, data structures, protocols, implementations, networks, mining, forks, and anonymity. It then examines Ethereum (ETH) fundamentals, such as the differences between Proof-of-Work (PoW) and Proof-of-Stake (PoS), accounts, state trees, and smart contracts. Building on these, students will explore blockchain economics, stablecoins and their role in financial stability. By integrating AI-driven analytics with blockchain's secure, decentralized frameworks, this module prepares students to innovate in areas like predictive finance, smart contracts, and digital assets.",
+        "Learning outcomes": "A. Apply and demonstrate a critical understanding of algorithms and state-of-the-art neural network architectures, such as deep feed-forward neural networks, recurrent neural networks, and Long Short-Term Memory, for financial and macroeconomic data modelling. B. Demonstrate critical understanding of various types of financial data, their underlying characteristics and challenges, and develop potential solutions for modelling mixed-frequency financial and macroeconomic data, C. Apply techniques for modelling financial data using cross-validation and ensemble methods. Demonstrate a critical understanding of state-of-the-art unsupervised learning methods, such as autoencoders, and their application in company clustering and asset pricing. D. Evaluate and apply state-of-the-art machine learning interpretability techniques to assess feature importance through different methods. E. Apply and demonstrate critical understanding of Bitcoin (BTC) fundamentals, including cryptographic hash functions, data structures, protocols, implementations, networks, mining processes, forks, and anonymity features, for applications in decentralized financial systems. F. Demonstrate critical understanding of Ethereum (ETH) basics, such as the differences between Proof-of-Work (PoW) and Proof-of-Stake (PoS), accounts, state trees, and smart contracts, and apply these concepts to model secure and automated financial transactions. G. Evaluate and apply foundational knowledge of stablecoins, building on Bitcoin and Ethereum principles, to assess their mechanisms for maintaining value stability and their integration in broader FinTech ecosystems.",
+        "Method of teaching and learning": "This module is delivered through formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH447&psl_code=SEM2"
+    }
+  ]
+}

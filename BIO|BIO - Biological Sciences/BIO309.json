@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Molecular Immunology",
+  "module_code": "BIO309",
+  "offerings": [
+    {
+      "heading": "Molecular Immunology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Molecular Immunology",
+        "module_code": "BIO309",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Molecular Immunology",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with a basic and in-depth understanding of core concepts in modern molecular immunology.",
+        "Learning outcomes": "A. Define in detail the fundamental principles of modern immunology B. Define the molecules, pathways and cells involved in innate and adaptive immune responses, and how immune responses are regulated and co-ordinated. C. Explain and evaluate the current understanding of the mechanisms underlying some important immune disorders and inflammatory diseases",
+        "Method of teaching and learning": "The teaching strategy is a series of formal lectures."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO309&psl_code=SEM1"
+    }
+  ]
+}

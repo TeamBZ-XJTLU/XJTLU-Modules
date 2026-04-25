@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Principle of Chemical Engineering",
+  "module_code": "APH211",
+  "offerings": [
+    {
+      "heading": "Principle of Chemical Engineering",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Principle of Chemical Engineering",
+        "module_code": "APH211",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Principle of Chemical Engineering",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with a basic understanding of the principles of chemical engineering, including chemical unit operation process, the principles of momentum, heat and mass transfer, reactor design for chemical engineering and selection of reactor types to meet particular sets of process conditions.",
+        "Learning outcomes": "A. Understand the concepts and fundamental principles of chemical engineering B. Master the basic transfer theory of unit operations, the structural characteristics of the equipement, the selection and the design of equipment and the calculation of operation process C. Be able to design simple ideal reactors and reactor combinations, considering the technical, economic, safety and sustainability issues that can arise during reactor design D. Understand the interaction of transport phenomena with reactions in a chemical and biochemical reactors",
+        "Method of teaching and learning": "- The module will be delivered through standard 2-hour lectures, which will be accompanied by relevant lecture handouts. - Students will also be guided to sections of specific textbooks, and if reading of specific reviews or literature sources is required, then copies of these will be made available in the library for use by the students. - At intervals during the module, 1-hour tutorials will be held for the students to deeply understand the principle of this module. - Self-study activities will be extensions or consolidations of work carried out in the lecture and tutorial. - There will be field trips arranged for students to better understand the aims of the module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH211&psl_code=SEM2"
+    }
+  ]
+}

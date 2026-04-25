@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Python for AI",
+  "module_code": "INT101",
+  "offerings": [
+    {
+      "heading": "Python for AI",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INT",
+        "full_name": "Python for AI",
+        "module_code": "INT101",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Python for AI",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed for students with no prior knowledge of Python or deep learning programming platform. It aims to introduce basic programming concepts using Python, followed by an introduction to the programming framework for deep learning. The module serves as a foundational course in the broader curriculum, enabling students to acquire the necessary skills to tackle more advanced topics in programming for machine learning. The focus will be on learning Python programming techniques and using programming platform for machine learning tasks using python machine learning libraries without going into the details of machine learning algorithms, to solve machine learning problems.",
+        "Learning outcomes": "A Apply basic Python syntax and fundamental programming constructs (including variables, data types, conditionals, loops) accurately in code development tasks.​ B Describe and apply intermediate programming concepts (including functions, classes, and data structures) to Python programming exercises, building on the fundamentals covered in Outcome A.​ C Use specified Python data science libraries (e.g., NumPy, sklearn) to perform basic data processing or visualization tasks relevant to machine learning scenarios.​ D Apply acquired Python programming skills to solve basic machine learning problems using appropriate Python machine learning libraries.",
+        "Method of teaching and learning": "This module is delivered through a combination of weekly lectures and bi-weekly practical computer labs. Lectures will introduce students to the academic content and practical skills which are the subject of the module. Lab sessions allow students to apply those tools and practice the acquired techniques."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT101&psl_code=SEM2"
+    }
+  ]
+}

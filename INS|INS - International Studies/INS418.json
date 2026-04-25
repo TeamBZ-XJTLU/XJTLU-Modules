@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Global Finance",
+  "module_code": "INS418",
+  "offerings": [
+    {
+      "heading": "Global Finance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Global Finance",
+        "module_code": "INS418",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Global Finance",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "In this course, students will learn about the fundamental features of international finance—why it exists, how it impacts our lives at many levels: politically, socially, and even in our most intimate relations. We will begin by discussing the nature and history of money and debt—as we will see, they mean more than their most simple definitions. This will be followed by a discussion of the drivers and causes of global finance and include an analysis of the tight links between international finance and state power. Next, we will do a detailed exanimation of two international organizations, the International Monetary Fund and the World Bank, which have been among the most important financial actors in the post-WW2 era. After learning the foundations, students will be equipped to analyze more contemporary and salient aspects of international finance, including the 2008 global financial crisis, the decade-long Eurozone crisis, the rise of China and its growing financial influence, and the links between finance and international problems like pandemics and climate change. This course is intended for students who would like to deepen their knowledge of global finance and its relation to international politics. Specialized knowledge of financial concepts, economics, or international relations theory are not required.",
+        "Learning outcomes": "A. Demonstrate a multi-layered understanding of the complex nature of money and debt, including theoretical frameworks and practical implications. B. Analyze the interconnections between finance and contemporary global challenges through critical examination of relevant case studies and data. C. Critically evaluate and contribute to existing literature and knowledge in the fields of business, economics, and international institutions, fostering original insights and perspectives. D. Effectively articulate financial concepts and analyses confidently and persuasively through both written and oral communication, tailored to diverse audiences.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures and seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS418&psl_code=SEM2"
+    }
+  ]
+}

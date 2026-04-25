@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "APM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Scientific Computing",
+  "module_code": "MTH419",
+  "offerings": [
+    {
+      "heading": "Scientific Computing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Scientific Computing",
+        "module_code": "MTH419",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Scientific Computing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module of numerical analysis and scientific computing aims to introduce students to the mathematical and algorithmic basis of numerical simulation, including the rigorous mathematical analysis of numerical methods, which usually involves the problems of discretization, approximation, and convergence, as well as the efficiency of calculation cost and accuracy.",
+        "Learning outcomes": "A perform finite precision arithmetic and roundoff error analysis apply direct and iterative methods for solving large sparse system of linear equations B apply various numerical methods for solving large sparse matrix eigenvalue problems C Cultivate skills in developing numerical techniques to address challenges in numerical approximation, including the solution of nonlinear equations, numerical differentiation, and numerical integration. D Develop the ability to use high-order methods and multi-step approaches to solving ordinary differential equations.",
+        "Method of teaching and learning": "The delivery of the module consists of a series of lectures, tutorials and lab sessions. Lectures cover the theory and algorithms of numerical analysis and scientific computing, paying special attention to the development/construction of the algorithms and their analysis; a wide range of examples will also be demonstrated to validate the results of theoretical analysis. The lab sessions are intended to provide students with the opportunity to write their own computer code to implement the different algorithms learned in the lectures."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH419&psl_code=SEM2"
+    }
+  ]
+}

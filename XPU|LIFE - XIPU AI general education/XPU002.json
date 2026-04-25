@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LIFE",
+    "domain_code": "XPU",
+    "full_name": "XIPU AI general education"
+  },
+  "full_name": "Foundations of AI",
+  "module_code": "XPU002",
+  "offerings": [
+    {
+      "heading": "Foundations of AI",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "XPU",
+        "full_name": "Foundations of AI",
+        "module_code": "XPU002",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Foundations of AI",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Building upon the foundational knowledge acquired in the Semester 1 module XPU001 Essentials of AI, this mandatory Semester 2 module is designed to deepen students’ understanding and knowledge of artificial intelligence (AI) and its diverse applications. This module equips students with practical skills in implementing AI-driven solutions, while fostering critical and independent thinking through an exploration of AI’s ethical, societal, and academic implications. Additionally, the module encourages creativity and innovation by engaging students in the application of AI tools to address real-world problems.",
+        "Learning outcomes": "A Demonstrate an enhanced comprehension and knowledge of AI and its diverse applications, building on the foundational concepts taught on XPU001 Essentials of AI B Identify and appreciate practical skills in the application and implementation of AI-driven solutions. C Develop independent and critical thinking skills by analyzing and evaluating the ethical and societal impacts of AI, particularly in academic settings, and by proposing potential solutions or mitigations for relevant issues. D Comprehend how creativity and innovation is used with AI tools to address real-world problems, showcasing the ability to develop novel solutions through AI-driven approaches.",
+        "Method of teaching and learning": "This module is delivered in hybrid mode using both in-class and online methods. Lectures will introduce students to the academic content and practical skills which are the subject of the module. In addition to lectures, students will be expected to devote unsupervised time to complete the tasks and exercises assigned to them. Private study will provide time for students to reflect on and engage with the lecture material, and to undertake background reading and independent research using the resources provided to them via the Learning Mall Core as a starting point."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=XPU002&psl_code=SEM2"
+    }
+  ]
+}

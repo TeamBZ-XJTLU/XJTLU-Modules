@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Introduction to Creative Entrepreneurship",
+  "module_code": "FTA123",
+  "offerings": [
+    {
+      "heading": "Introduction to Creative Entrepreneurship",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Introduction to Creative Entrepreneurship",
+        "module_code": "FTA123",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Creative Entrepreneurship",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will teach future cultural and creator producers the key concepts, theories, and historical development of entrepreneurship and intraprenuership from a transcultural perspective. The purpose of this is to provide students with the requisite knowledge and skills they need to be able to ideate, innovate, and solve problems in a way that can be commericalised by themselves or adds value to a new/existing organisation in the cultural and creative industries (CCI). Throughout the semester, there will be regular discussion about collaborating with Ai and what is unique about human endeavour in CCI.",
+        "Learning outcomes": "A Demonstrate a systematic understanding of the theories, concepts, and practices that underpin entrepreneurship B Apply entrepreneurial thinking and problem-solving skills to develop and present ideas C Evaluate the role of entrepreneurship in addressing social, cultural, and economic challenges D Collaborate effectively in teams to design, develop and present entrepreneurial ideas and/or innovations E Demonstrate level-appropriate linguistic competence in listening, reading, speaking, and writing to produce and communicate well-structured, evidence-based academic work.",
+        "Method of teaching and learning": "The module will be delivered using a project/case study approach. Theories and concept explanation will be embedded in a 1-hour lecture, reinforced in 2-hour seminars with a focus on group discussions and engaging activities. Tutorials will be used further reinforce concepts and preview the following week's topic. Academic English skills and understanding of HeXie management theory will be embedded across all delivery modes. Current and past entrepreneurs will provide their lived experience to supplement the curriculum."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA123&psl_code=SEM2"
+    }
+  ]
+}

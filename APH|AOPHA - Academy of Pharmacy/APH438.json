@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Pharma Commercialization and Marketing",
+  "module_code": "APH438",
+  "offerings": [
+    {
+      "heading": "Pharma Commercialization and Marketing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Pharma Commercialization and Marketing",
+        "module_code": "APH438",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Pharma Commercialization and Marketing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with fundamental to advance commercialization and marketing principles in the pharmaceutical industry. This course will assist students interested in careers in pharmaceuticals, biotechnology, and healthcare, as well as management consulting and the financial industry, given the large and growing pharmaceutical industry.",
+        "Learning outcomes": "A. Apply cutting-edge marketing concepts and tools to the real-world intricacies of marketing a heavily regulated product whose success is determined not by the actual end-user, but by various industry stakeholders. B. Critically evaluate biopharmaceutical products to maximize market potential and accomplish brand objectives. C. Critically discuss the strategies for intellectual protections in the pharmaceutical industry D. Develop, implement, and audit a successful marketing strategy to manage a drug portfolio or price a particular product in the pharmaceutical industry.",
+        "Method of teaching and learning": "The module will be delivered with a combination of lectures, seminars and field trips to local pharmaceutical companies with a good record of pharma commercialization and marketing. Experts from industry will be invited to co-delivering the module. Students will have opportunity to work in groups through seminars and problem-based learning sessions in the seminars, while student-centred assignments will enable students to reinforce and expand their knowledge, and develop subject specific skills and competence. In addition, timely, relevant and specific, constructive and actionable formative feedback, as well as more evaluative, or summative feedback will be provided to students in-class, on-paper and/or in-person on for each assignment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH438&psl_code=SEM2"
+    }
+  ]
+}

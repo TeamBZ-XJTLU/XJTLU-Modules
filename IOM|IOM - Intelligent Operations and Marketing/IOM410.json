@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Strategic Purchasing Management",
+  "module_code": "IOM410",
+  "offerings": [
+    {
+      "heading": "Strategic Purchasing Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Strategic Purchasing Management",
+        "module_code": "IOM410",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Strategic Purchasing Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Purchasing has a critical role as a boundary-spanning function, through which it contributes to an organisation’s strategic success. The aim of this module is to provide an integrative understanding of the role and objectives of the purchasing function and its complex inter- and intra-organisational relationships that contribute to sustained commercial success and maximisation of competitive advantage. Specific topics include the critical evaluation of purchasing strategies, tools and constraints including sourcing, supplier development and supplier-client relationships. The module also explores issues relating to contracts, including tendering, bidding and order management processes, as well as the legal, commercial and socio-economic implications of purchasing strategies",
+        "Learning outcomes": "A. Define, describe and evaluate purchasing strategy options and the impact on total supply chain management and business strategy B. Demonstrate a critical understanding of the objectives of the purchasing function and its strategic relationships, both internal and external to the organisation. C. Assess and apply leading best practice purchasing techniques and strategies within different sectors D. Critically analyse key issues in international purchasing and sourcing in emerging economies, particularly China.",
+        "Method of teaching and learning": "Lectures and interactive workshops will introduce, explore and critique current theory and professional practice A wide range of textbooks are suggested as supplementary reading and video cases are used to support the lecture material. A range of journals, texts, online videos and opinion pieces will be used as a basis for further reading/study to extend application of theory to a range of sectors. References to new research will expose students to state-of-the-art contemporary research Workshops will develop students’ skills of critical analysis and strategic thinking. Workshops covering case studies, problem solving, group work and presentations will link theory and practice and develop students’ skills in collaborative teamwork and communication Guest lectures from industry will explore application and practice from a range of sectors"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM410&psl_code=SEM2"
+    }
+  ]
+}

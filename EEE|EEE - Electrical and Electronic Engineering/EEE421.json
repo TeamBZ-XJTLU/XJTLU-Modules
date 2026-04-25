@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Integration Of Energy Strategies In The Design Of Buildings",
+  "module_code": "EEE421",
+  "offerings": [
+    {
+      "heading": "Integration Of Energy Strategies In The Design Of Buildings",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Integration Of Energy Strategies In The Design Of Buildings",
+        "module_code": "EEE421",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Integration Of Energy Strategies In The Design Of Buildings",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide guidance and training in the knowledge and skills for the research of building energy strategies, alongside AI applications and their impact. It is an opportunity for students to attend a group work on investigating building energy consumption, corresponding energy systems with individual components, and significance towards climate change. Further, it will involve practice in designing strategies, including decision-making on both technical and economic sides.",
+        "Learning outcomes": "A. Critique the theoretical principles and practical challenges of integrating passive and active energy systems in buildings, and formulate effective, context-aware integration strategies. B. Evaluate the lifecycle impact of energy systems on buildings and appraise the role of AI-based tools in modelling and predicting building energy demand. C. Critically assess the impact of AI in integrating active energy systems into the reinforcement of existing buildings and the design of new buildings. D. Evaluate and select fundamental economic mechanisms and policies for reducing the carbon footprint of building energy systems, justifying their application based on considerations such as technical and financial feasibility. E. Communicate complex energy integration strategies and their rationale effectively to both specialist and non-specialist audiences, using appropriate technical language and visualisations.",
+        "Method of teaching and learning": "This module will be delivered through a combination of lectures and seminars. Lectures will be designed to provide students with the necessary theoretical background and fundamental knowledge, as well as introducing key analytical tools and specific application examples. Seminars involve idea exchanging, in-class practise of practise solutions for finding the integrated energy strategies for buildings."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE421&psl_code=SEM1"
+    }
+  ]
+}

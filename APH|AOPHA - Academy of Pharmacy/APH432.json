@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "AI In Pharmacy I",
+  "module_code": "APH432",
+  "offerings": [
+    {
+      "heading": "AI In Pharmacy I",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "AI In Pharmacy I",
+        "module_code": "APH432",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "AI In Pharmacy I",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module, AI in Pharmacy I, serves as the first half of the \"AI in Pharmacy\" series. This module aims:  to provide students with a strong foundation in Artificial Intelligence (AI), specifically focusing on its application in addressing biomedical and pharmaceutical challenges;  to equip master's students with a comprehensive understanding of key concepts in artificial intelligence, with a particular emphasis on machine learning  to empower students to effectively utilize machine learning algorithms for tasks such as biomarker and target identification, virtual screening of drugs, and drug repurposing;  to provide a solid foundation in the application of AI in various stages of the drug discovery and development process.",
+        "Learning outcomes": "A. Critically analyze fundamental concepts in AI and machine learning (ML) as they relate to biomedical and pharmaceutical applications B. Evaluate and select appropriate ML models and algorithms based on specific biomedical and pharmaceutical questions C. Apply supervised and unsupervised learning algorithms effectively to perform biomedical and pharmaceutical tasks D. Utilize programming languages and tools commonly used in ML E. Analyze and interpret the results obtained from applying ML techniques in the context of drug discovery and development F. Critically evaluate key concepts in deep learning (DL) and its application in the pharmaceutical field G. Communicate and present the concepts, methodologies, and findings related to AI in pharmacy effectively to both professional and non-professional audiences",
+        "Method of teaching and learning": "This module will be delivered intensively over a period of 6 weeks through a combination of formal lectures, computer lab exercises, and a research project. This approach aims to ensure a continuous and comprehensive acquisition of key knowledge and practical skills in the field of AI for biomedical and pharmaceutical tasks. in terms of assessments, #001 and #002 will take the form of an in-class lab report to assess students' proficiency in applying unsupervised and supervised learning methods in pharmaceutical sciences. Additionally, students will undertake a final research project based on a given scenario, and submit a research report (#004) while presenting their key findings to peers orally (#003)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH432&psl_code=SEM1"
+    }
+  ]
+}

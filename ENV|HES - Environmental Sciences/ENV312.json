@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Environmental Impact Assessment",
+  "module_code": "ENV312",
+  "offerings": [
+    {
+      "heading": "Environmental Impact Assessment",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Environmental Impact Assessment",
+        "module_code": "ENV312",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Environmental Impact Assessment",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Environmental Impact Assessment (EIA) should inform decision makers about the likely effects of specific activities or proposed developments on natural and man-made environments. It is designed to be a consultative and participatory process between scientists, environmental managers, developers, public bodies and government authorities, and it requires a wide range of skills and expertise to complete successfully. The goal of EIA is to identify likely impacts and possible measures to avoid, minimise or mitigate impacts at an early stage and thus improve the quality of both project planning and decision-making. This course will provide a background to the principles and practice of the EIA process and experience and skills training with realistic environmental impact scenarios.",
+        "Learning outcomes": "A Have an understanding of EIA legislation, regulation and applications in China and elsewhere, and be able to define EIA and describe the main stages of the traditional EIA process as well as emerging practices in EIA; B Critically analyse the linkages between material consumption, human activities, impact mechanisms and the eventual environmental impacts of human activities. C Apply a range of methods to various stages of the traditional EIA process and identify how impacts on specific environmental impacts may be assessed. D Perform Assessments of Alternatives from a good practice EM framework, including technico-feasibility analysis. E Apply EIA skills to the assessment of a proposed project, inclusive of all stages of the process and project management, and culminating in an EIA Report with conclusions and recommendations with reference to the proposed project.",
+        "Method of teaching and learning": "Lectures, tutorials and site visit. *Should the University decide to cancel or postpone the field trip due to unforeseen environmental and/or political circumstances, the Department will either plan an appropriate substitute activity to meet the intended learning outcomes of the trip or make necessary arrangements to organise the trip at a later time, as appropriate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV312&psl_code=SEM1"
+    }
+  ]
+}

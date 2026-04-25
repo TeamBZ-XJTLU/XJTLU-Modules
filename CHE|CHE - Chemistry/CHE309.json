@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Final Year Project",
+  "module_code": "CHE309",
+  "offerings": [
+    {
+      "heading": "Final Year Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Final Year Project",
+        "module_code": "CHE309",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "15",
+        "Module Level": "Level 3",
+        "Module Title": "Final Year Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are to provide students with hands-on, authentic research experience in the planning, design, and execution of an individual research project conducted on a defined topic through extended, supervised participation in either laboratory or field work. This capstone experience is integral to the BSc Applied Chemistry programme, bridging theoretical knowledge with practical applications. This module equips students with the research, analytical and communication skills and experience needed to be competitive for graduate school or post-graduation job opportunities.",
+        "Learning outcomes": "A. Plan and execute realistic research goals, demonstrating effective time management and adherence to safe practices. B. Generate reliable and reproducible data using appropriate methodologies. C. Critically analyze and evaluate data, drawing valid conclusions and designing follow-up investigations. D. Produce a well-structured and coherent written report, effectively communicating scientific findings. E. Deliver an oral presentation of project findings with appropriate content, structure, and visual aids. F. Design a poster presentation summarizing research findings clearly and concisely for a professional audience.",
+        "Method of teaching and learning": "This module emphasizes fostering independent learning under the guidance of a supervisor. Students are provided with an overview of staff research interests and are encouraged to discuss potential projects with staff members to identify a suitable supervisor. Supervisors may propose projects, but students can also suggest their own ideas, subject to supervisor approval. Once a project is agreed upon, students are responsible for undertaking the research, managing their time effectively, and meeting all deadlines. They will engage in regular meetings with their supervisor, during which they will receive feedback on their progress and guidance on how to overcome challenges. Supervisors will also provide support in refining research methodologies and interpreting data. Students will conduct research either in the laboratory, field, or computational settings, depending on the project requirements. Day-to-day supervision and technical advice may be provided by research/technical staff or postgraduate research students. Students will attend lectures on scientific writing and presentation skills, covering literature reviews, structuring arguments, and data visualization. Workshops will offer opportunities for peer feedback on draft reports, oral presentations, and posters. Purpose of Oral and Poster Presentations: The oral presentation provides an opportunity for students to effectively communicate their research findings, demonstrating their understanding and ability to respond to questions. The poster presentation focuses on summarizing the project concisely and clearly for a professional audience. By the end of the module, students are expected to independently produce a high-quality research report, present their findings, and demonstrate the ability to critically evaluate their work through written and oral communication."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE309&psl_code=SEM2"
+    }
+  ]
+}

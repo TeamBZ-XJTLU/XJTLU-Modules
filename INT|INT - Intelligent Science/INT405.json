@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Natural Language Processing",
+  "module_code": "INT405",
+  "offerings": [
+    {
+      "heading": "Natural Language Processing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INT",
+        "full_name": "Natural Language Processing",
+        "module_code": "INT405",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Natural Language Processing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to develop students' understanding of fundamental natural language processing (NLP) tasks, including mathematical, statistical, and engineering principles underpinning modern NLP systems. The course emphasizes neural network-based methods, covering essential modeling and learning algorithms. Students will gain practical skills in implementing NLP solutions while critically evaluating their limitations. Students will engage with technical literature, design original solutions, and communicate findings effectively to both technical and non-technical audiences. This module delivers the advanced neural and statistical modeling techniques essential for specialization in Machine Learning and Artificial Intelligence, providing a critical foundation for graduate research.",
+        "Learning outcomes": "A. Analyse the computational objectives and challenges of fundamental NLP tasks, including tokenization, part-of-speech tagging, and syntactic and semantic parsing. B. Evaluate the suitability of different inference methods (e.g., dynamic programming, sampling) for specific NLP tasks, considering trade-offs in computational complexity and accuracy. C. Design and implement NLP systems to solve complex real-world problems, justifying the architectures and methodologies employed. D. Critically evaluate NLP systems using technical literature and empirical evidence, making informed decisions about their suitability for specific domains and applications. E. Communicate complex technical concepts and results clearly through written reports and oral presentations, tailoring content for technical and non-technical audiences.",
+        "Method of teaching and learning": "This module employs a blended approach combining interactive lectures, tutorials, and practical labs to develop comprehensive NLP skills. Lectures establish fundamental concepts including neural networks, text processing, and modern NLP architectures. Tutorials provide focused support to master complex algorithms and theoretical principles through problem-solving exercises and discussions. Hands-on lab sessions enable students to implement NLP systems using contemporary tools and frameworks, bridging theory with practical application. The learning experience is further enhanced through collaborative projects and independent study, where students tackle real-world NLP challenges. Assessment incorporates coding assignments, theoretical analyses, and a culminating capstone project with presentation, evaluating technical proficiency, critical thinking, and communication skills essential for NLP practitioners."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT405&psl_code=SEM1"
+    }
+  ]
+}

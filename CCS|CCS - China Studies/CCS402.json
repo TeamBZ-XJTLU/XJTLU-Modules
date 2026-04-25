@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "Contemporary Chinese Literature and Film",
+  "module_code": "CCS402",
+  "offerings": [
+    {
+      "heading": "Contemporary Chinese Literature and Film",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "Contemporary Chinese Literature and Film",
+        "module_code": "CCS402",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Contemporary Chinese Literature and Film",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module offers a study of representative fictional and filmic works within the social, political and cultural context of the contemporary Chinese-speaking world. It traces significant cultural and artistic thoughts, genres and currents that respond to, represent and reflect on rapid social developments and changes in mainland China, Hong Kong and Taiwan from 1949 to the present. Representative literary and filmic works of “socialist realism”, “post-socialist realism”, “root-seeking”, “avant-gardism”, feminism, science fiction and so on, will be introduced and discussed. It aims to familiarise students with different artistic languages and aesthetics, and to help them develop a deep understanding of contemporary Chinese social and cultural history through its literature and cinema.",
+        "Learning outcomes": "A. Synthetise the evolution of Chinese literature and cinema in the contemporary Chinese-speaking world B. Critically examine multiple cultural visions, imaginations and aesthetics in literary writings and film-making C. Analyse the complex interactions between Chinese literature, cinema, politics, and social change D. Outline the diversity in Chinese-language literature and film, including works of Mainland Chinese minorities, overseas Chinese, Taiwanese and Hong Kong Chinese E. Undertake textual analysis of literary and filmic texts F. Demonstrate advanced skills in oral presentations and essay writing",
+        "Method of teaching and learning": "In the seminars students will able to have an in-depth discussion of weekly topics, and also to present their analysis of a specific topic from the syllabus. The essay plan and the essay will hone students’ analytical and writing abilities. Teaching and learning is through the medium of English."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS402&psl_code=SEM2"
+    }
+  ]
+}

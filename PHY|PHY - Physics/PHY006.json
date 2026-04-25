@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Physics II: Introduction to Electromagnetism",
+  "module_code": "PHY006",
+  "offerings": [
+    {
+      "heading": "Physics II: Introduction to Electromagnetism",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "PHY",
+        "full_name": "Physics II: Introduction to Electromagnetism",
+        "module_code": "PHY006",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Physics II: Introduction to Electromagnetism",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed for the students from CSSE (Computer Science and Software Engineering) as their requirement. This module aims to provide fundamental knowledge of Electromagnetics to CSSE students, and to provide an experimental foundation for the theoretical concepts introduced in the lectures, and to help students be familiar with the experimental apparatus of Electromagnetics, the scientific method and tools of experimental data analysis.",
+        "Learning outcomes": "A Solve problems in electrostatic, magnetostatic, and electromagnetic fields B State several laws and principles of electric, magnetic, and electromagnetic fields C Know the concept of Maxwell equations D Understand the circuit diagram E Describe the principles of operation of several electrical, magnetic, and electromagnetic devices",
+        "Method of teaching and learning": "There are 7 teaching weeks from Week 7 to Week 13. Students will be expected to attend four hours of formal lectures and class demonstrations in a typical week. Lectures will introduce students to the academic content and practical skills which are the subject of the module. In addition, students will be expected to devote six hours of unsupervised time to private study. Private study will provide time for reflection and consideration of lecture material and background reading. Students will be required to attend 2 sessions of the physics experiment. Pre-lab material will be delivered to the students beforehand which will contain a guide for the students to follow in the data acquisition process and in the subsequent data analysis. Students will be required to submit their work within two weeks from the completion of the experiment. Students are encouraged to utilize AI tools and to critically explore the strengths and limitations of employing generative AI for enhancing their learning and comprehension of physics concepts, including understanding when generative AI works effectively and when it does not."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY006&psl_code=SEM2"
+    }
+  ]
+}

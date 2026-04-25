@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Foundations Of Economic Analysis",
+  "module_code": "ECO110",
+  "offerings": [
+    {
+      "heading": "Foundations Of Economic Analysis",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Foundations Of Economic Analysis",
+        "module_code": "ECO110",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Foundations Of Economic Analysis",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The goal of this module is to familiarise students with the most fundamental theoretical models and methods employed in economics analysis. It is intended that students emerge with a solid preparation for further study in economics theory. The module will develop and apply basic techniques for economics analysis. The emphasis will be on the unifying structure of the theory with a systematic treatment of the mathematical techniques involved.",
+        "Learning outcomes": "A Be familiar with the fundamental knowledge of logics and proofs. B Apply the definition of a number of mathematical concepts central to economics analysis. C Describe the interpretation of convex concept in economics applications. D Understand the geometric meaning behind these mathematics concepts. E Understand some elementary probability theory in formal mathematical language.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures and tutorials. Lectures will be designed to provide essential information and introduce students to the basic tools and concepts of analysis. Tutorials will provide students with the opportunity to further develop their skills through the solution of various problems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO110&psl_code=SEM2"
+    }
+  ]
+}

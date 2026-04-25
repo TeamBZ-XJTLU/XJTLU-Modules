@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "MLC",
+    "domain_code": "SPA",
+    "full_name": "Spanish"
+  },
+  "full_name": "Spanish Language 5",
+  "module_code": "SPA005",
+  "offerings": [
+    {
+      "heading": "Spanish Language 5",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SPA",
+        "full_name": "Spanish Language 5",
+        "module_code": "SPA005",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Spanish Language 5",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module is intended for students who have some previous knowledge of the Spanish language (A2- or equivalent) and it will progress in the study the Spanish language and culture. The module will broadly achieve an outcome at level A2 of the Common European Framework of Reference for Languages. • To review, consolidate and further develop knowledge of main aspects of the Spanish language. • To enable students to improve their Spanish language skills effectively. • To enable students to communicate competently on a variety of general topics. • To foster an understanding of contemporary Spanish society and institutions. • To develop presentation skills in Spanish. • To develop essay writing. All the Spanish modules have been developed taking into account the QAA benchmark statements for a full or minor component in a language. QAA benchmark statements relate to the language component comprising at least one-third of the study total, resulting in students at the end of the relevant degree programme being at level C1. These Spanish modules make up less than one third of study and so the realistic minimum that would be achieved for a student starting at a beginner level in year 1 is CEFR B1, though students with some initial knowledge would be at B1+.",
+        "Learning outcomes": "A. Demonstrate comprehension of the main points of clear, standard spoken Spanish about familiar topics. B. Demonstrate an understanding of a range of short texts about familiar topics and locate the main ideas. C. Demonstrate level-appropriate spoken communications skills on topics which are familiar or of personal interest. D. Produce level-appropriate written texts on topics which are familiar or of personal interest. E. Demonstrate general knowledge and understanding of cultural and social aspects of Spanish speaking countries.",
+        "Method of teaching and learning": "• Core teaching takes place through Spanish language and study skills workshops with an emphasis on student-to-student interaction and all student participation. • In addition, there will be guided reading and directed study to enable students to prepare for and reinforce class input and develop autonomous learning strategies. Online resources will also be used to complement contact sessions and workshops whereby additional information and resources can be made available electronically and on-line discussions between students and tutors can be held."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SPA005&psl_code=SEM1"
+    },
+    {
+      "heading": "Spanish Language 5",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SPA",
+        "full_name": "Spanish Language 5",
+        "module_code": "SPA005",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Spanish Language 5",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module is intended for students who have some previous knowledge of the Spanish language (A2- or equivalent) and it will progress in the study the Spanish language and culture. The module will broadly achieve an outcome at level A2 of the Common European Framework of Reference for Languages. • To review, consolidate and further develop knowledge of main aspects of the Spanish language. • To enable students to improve their Spanish language skills effectively. • To enable students to communicate competently on a variety of general topics. • To foster an understanding of contemporary Spanish society and institutions. • To develop presentation skills in Spanish. • To develop essay writing. All the Spanish modules have been developed taking into account the QAA benchmark statements for a full or minor component in a language. QAA benchmark statements relate to the language component comprising at least one-third of the study total, resulting in students at the end of the relevant degree programme being at level C1. These Spanish modules make up less than one third of study and so the realistic minimum that would be achieved for a student starting at a beginner level in year 1 is CEFR B1, though students with some initial knowledge would be at B1+.",
+        "Learning outcomes": "A. Demonstrate comprehension of the main points of clear, standard spoken Spanish about familiar topics. B. Demonstrate an understanding of a range of short texts about familiar topics and locate the main ideas. C. Demonstrate level-appropriate spoken communications skills on topics which are familiar or of personal interest. D. Produce level-appropriate written texts on topics which are familiar or of personal interest. E. Demonstrate general knowledge and understanding of cultural and social aspects of Spanish speaking countries.",
+        "Method of teaching and learning": "• Core teaching takes place through Spanish language and study skills workshops with an emphasis on student-to-student interaction and all student participation. • In addition, there will be guided reading and directed study to enable students to prepare for and reinforce class input and develop autonomous learning strategies. Online resources will also be used to complement contact sessions and workshops whereby additional information and resources can be made available electronically and on-line discussions between students and tutors can be held."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SPA005&psl_code=SEM2"
+    }
+  ]
+}

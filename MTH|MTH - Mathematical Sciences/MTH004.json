@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Multivariable Calculus (Business and Arts)",
+  "module_code": "MTH004",
+  "offerings": [
+    {
+      "heading": "Multivariable Calculus (Business and Arts)",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Multivariable Calculus (Business and Arts)",
+        "module_code": "MTH004",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Multivariable Calculus (Business and Arts)",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To give students an education in calculus of multivariable functions, differential equation and infinite series, which includes the basic topics usually covered in an elementary course of multivariable calculus. To give students an appreciation of the application of mathematics to social sciences and others. To introduce the concept of modelling and various mathematical models in practical problems. To develop students' ability to work independently and to acquire the skill of problem solving.",
+        "Learning outcomes": "A. Have an initial understanding of: vectors, line, plane, surface in three space and their equations; B. Demonstrate an understanding of the concept of multivariable functions, their derivatives, and their applications in determining critical features of functions including extreme values; C. Calculate the multiple integrals in rectangular and polar coordinates, and apply the knowledge of multiple integration, including calculating the volume of solids; D. Have an initial understanding basic concepts of infinite series, convergence tests and power series; E. Have a good appreciation of the link between mathematics and other subjects; F. Be able to understand the mathematical models for simple practical problems.",
+        "Method of teaching and learning": "The module will be typically organized as a combination of lecturers and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH004&psl_code=SEM2"
+    }
+  ]
+}

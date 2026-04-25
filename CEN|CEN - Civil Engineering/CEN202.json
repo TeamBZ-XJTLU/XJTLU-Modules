@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Civil Engineering Project Management",
+  "module_code": "CEN202",
+  "offerings": [
+    {
+      "heading": "Civil Engineering Project Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Civil Engineering Project Management",
+        "module_code": "CEN202",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Civil Engineering Project Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The main aim of this module is to introduce the students to knowledge, techniques and tools required for management of civil engineering projects.",
+        "Learning outcomes": "A. Evaluate and analyze time constraints in projects and produce optimized crash costs for projects B. Apply Life Cycle Costing to civil engineering and construction projects with regard to Net Present Value (NPV) and Internal Rate of Return (IRR) C. Assess health/safety/security/ethical issues in the construction industry and appreciate ethical decision making processes D. Apply risk management process, tools and techniques to civil engineering and construction projects and appreciate different types of procurement systems in relation to risk management E. Evaluate civil engineering and construction project with respect to quality control and management. F. Demonstrate research skill and ability together with presentation of the research outcomes.",
+        "Method of teaching and learning": "The module is taught through formal lectures and class tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN202&psl_code=SEM1"
+    }
+  ]
+}

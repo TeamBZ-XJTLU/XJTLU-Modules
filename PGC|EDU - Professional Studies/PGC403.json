@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDU",
+    "domain_code": "PGC",
+    "full_name": "Professional Studies"
+  },
+  "full_name": "Teaching in Transnational Contexts",
+  "module_code": "PGC403",
+  "offerings": [
+    {
+      "heading": "Teaching in Transnational Contexts",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "PGC",
+        "full_name": "Teaching in Transnational Contexts",
+        "module_code": "PGC403",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Teaching in Transnational Contexts",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is part of a professional development programme for teaching staff at XJTLU and all the aims take into consideration the XJTLU context. Its aims are: • To raise awareness of participants of the concept of transnational education including the benefits and challenges as this relates to teaching. • To critically compare the benefits and drawbacks of quality assurance and enhancement in transnational education as it relates to teaching. . • To enable participants to critically evaluate their own teaching context at XJTLU taking into consideration different cultures and different styles of learning and teaching, and analysing options for change and improvement. • To enable participants to critically reflect on their own teaching at XJTLU in light of how continuing professional development enhances teaching. The aims of this module are aligned with the Professional Standards Framework 2023, which is mapped to Programme-level learning outcomes and module assessments. See Programme Specifications for details",
+        "Learning outcomes": "A. Critically reflect on and evidence a response to the wider context in which higher education operates, focusing on the concept of transnational education, including the benefits and challenges for your own practice. B. Critically reflect on the requirements for quality assurance and enhancement and the implications for your practice in the context of transnational education. C. Critically reflect on your successful engagement in continuing professional development in relation to your effective and inclusive teaching, learning and assessment and how this has enhanced learning and teaching practices in a transnational context. D. Review relevant literature and models for transnational education, and its application to a range of change and improvement within your own teaching context.",
+        "Method of teaching and learning": "• Teaching is through the delivery of a range of interactive workshops. • Participants will be expected to reflect upon their own practice and changes to their practice they have introduced as a result of their experience of the module and attendance at workshops. • Use of the wide variety of resources that are available via the institutional VLE Learning Mall Core, and the Higher Education Academy (www.heacademy.ac.uk). • Support from a mentor (normally a more senior colleague from the same discipline as the participant and/or a colleague with a Senior Fellowship of the HEA)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PGC403&psl_code=SEM1"
+    }
+  ]
+}

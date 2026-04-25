@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Human Physiology and Disease",
+  "module_code": "APH115",
+  "offerings": [
+    {
+      "heading": "Human Physiology and Disease",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Human Physiology and Disease",
+        "module_code": "APH115",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Human Physiology and Disease",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to 1) Enable students to deepen their understanding of principles of physiology; 2) Provide practical and theoretical experience in physiology; 3) Develop knowledge and understanding of disease pathogenesis, which is crucial in drug development. This module is designed to assist students to explore how major physiological systems maintain homeostasis and how their dysfunction leads to disease, linking normal physiological processes with key pathological mechanisms underlying common human diseases.",
+        "Learning outcomes": "A. Identify and describe normal physiological functions of major human organ systems and their regulatory mechanisms. B. Apply physiological measurement techniques and interpret experimental data to evaluate system function and dysfunction, linking practical observations to theoretical concepts. C. Integrate knowledge of physiology and pathology to interpret disease mechanisms at cellular, tissue, and systemic levels. D. Critically connect the disruption of normal physiological processes to the etiology and progression of disease, thereby establishing a scientific rationale for specific diagnostic and therapeutic interventions.",
+        "Method of teaching and learning": "The module content will be delivered through a blend of standard lectures, interactive tutorial sessions, and hands-on laboratory work. Prior to each lecture, all slides and essential reading materials will be made available on the Learning Mall. To facilitate understanding and engagement, a variety of resources—including animations, videos, and anatomical models—will be incorporated into the teaching. To support independent learning, ungraded quizzes with automated feedback will be provided on the Learning Mall for each topic. Furthermore, dedicated review sessions within tutorials and labs will offer opportunities to consolidate students’ knowledge and receive direct feedback from instructors."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH115&psl_code=SEM2"
+    }
+  ]
+}

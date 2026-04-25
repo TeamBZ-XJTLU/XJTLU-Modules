@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "China: Cultural Heritage Studies",
+  "module_code": "CCS311",
+  "offerings": [
+    {
+      "heading": "China: Cultural Heritage Studies",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "China: Cultural Heritage Studies",
+        "module_code": "CCS311",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "China: Cultural Heritage Studies",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the fundamental concepts, theories, and key debates within the global field of Cultural Heritage Studies, before applying them specifically to the Chinese context. It familiarises students with the immense diversity and complexity of China’s cultural heritage, encompassing both tangible and intangible forms. It guides students to analyse the political, social, and economic roles that cultural heritage plays in contemporary China, including its use in constructing national and local identities, fostering tourism and economic development, and facilitating international relations. Students are facilitated to critically examine the key issues and controversies surrounding cultural heritage in China, such as the tensions between preservation and modernization, state-led narratives versus local and community meanings, different powers and narratives in heritage-making, and the impact of UNESCO World Heritage designation. It aims to develop students’ ability to critically evaluate primary and secondary sources, engage with scholarly debates, and articulate sophisticated, evidence-based arguments in both written and oral forms on topics concerning Chinese cultural heritage.",
+        "Learning outcomes": "A Demonstrate a clear understanding of the fundamental concepts, theories, and key debates within the global field of Cultural Heritage Studies; B Identify and describe the defining characteristics of Chinese cultural heritage, including both tangible and intangible forms; C Evaluate the complex interplay between cultural heritage and contemporary political, economic, and social forces in China; D Critically engage with the key issues and challenges surrounding cultural heritage in China; E Articulate sophisticated, evidence-based arguments in both written and oral forms on topics concerning Chinese cultural heritage.",
+        "Method of teaching and learning": "Lectures and seminars for rehearsal of weekly topics. Teaching and learning is through the medium of English, and no knowledge of Chinese is required. In the seminars, students will be able to have an in-depth discussion of weekly topics and also share their analysis of topics, issues, and questions from the module. The coursework and the Final Project will hone students’ analytical and writing abilities."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS311&psl_code=SEM1"
+    }
+  ]
+}

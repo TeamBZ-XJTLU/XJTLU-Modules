@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "Modern Chinese in Socio-historical Perspective",
+  "module_code": "CCS112",
+  "offerings": [
+    {
+      "heading": "Modern Chinese in Socio-historical Perspective",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "Modern Chinese in Socio-historical Perspective",
+        "module_code": "CCS112",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Modern Chinese in Socio-historical Perspective",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module is designed as an introduction to the Chinese language as a field of academic enquiry. It adopts sociolinguistic and historical perspectives to explore the trajectories of the Chinese language evolution and its significance for the emergence of modern Chinese identity. The module will critically analyse the historical sources, linguistic characteristics, local variations, and socio-cultural adaptations of Modern Chinese. It will also highlight the socio-political implications of the modernisation and unification of language. It will equip students with knowledge about the emergence, development, and significance of Modern Chinese, and prepare them for an academic investigation into Chinese language.",
+        "Learning outcomes": "A Demonstrate knowledge of the historical development of Chinese language B Demonstrate understanding of the relationship between language and socio-political change C Show familiarity with the sociolinguistic aspects of the modernisation of Chinese language D Demonstrate awareness of the local variations in standardised Chinese and the influence of dialect E Show understanding of the significance of socio-historical perspectives on language development F Demonstrate academic skills in oral and written communication.",
+        "Method of teaching and learning": "Lectures will provide an overview of the weekly topic. Seminars will provide an opportunity for students to discuss concepts and their applicability, analyse the text and speech, and learn how to apply acquired skills for better reasoning and debate. The virtual learning environment will be used to help students to engage with module content."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS112&psl_code=SEM2"
+    }
+  ]
+}

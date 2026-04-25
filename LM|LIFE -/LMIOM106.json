@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LIFE",
+    "domain_code": "LM",
+    "full_name": ""
+  },
+  "full_name": "Principles of Operations",
+  "module_code": "LMIOM106",
+  "offerings": [
+    {
+      "heading": "Principles of Operations",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LM",
+        "full_name": "Principles of Operations",
+        "module_code": "LMIOM106",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Principles of Operations",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module is to provide students with an understanding of the key principles, systems and techniques used to assure effective operations management. The module covers an extensive range of subjects, including demand management, quality management, and production management. The module enables student to: (i) understand the role of operations management in manufacturing and service organisations, (ii) understand and apply a range of tools and techniques relevant to the effective management of operations, and (iii) gain an introductory understanding of the principles of operations management.",
+        "Learning outcomes": "A. Ability to use tools and techniques for inventory management B. Ability to use tools and techniques for scheduling and control C. Ability to use tools and techniques for demand management and forecasting. D. Ability to understand the practical implications and application of key operations management principles",
+        "Method of teaching and learning": "Formal lectures including the use of labs/tutorials to enable the appreciation of technical aspects of operations management and the ability to use the relevant numerical tools and analysis methods."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LMIOM106&psl_code=SEM2"
+    }
+  ]
+}

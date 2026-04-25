@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Measures And Integrals",
+  "module_code": "MTH420",
+  "offerings": [
+    {
+      "heading": "Measures And Integrals",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Measures And Integrals",
+        "module_code": "MTH420",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Measures And Integrals",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to provide students with essential mathematical foundations in set theory, measure theory and the Lebesgue theory of integration. It serves as the basis for further studies in functional analysis, probability theory, and stochastic processes, all of which have profound real-world applications in fields such as finance, engineering, and data science. After completing this module, students are expected to work confidently with the necessary theoretical tools and excel in subsequent modules.",
+        "Learning outcomes": "A Become familiar with basic results about sets and their countability. B Work effectively with the notions of measures, measurable functions, and Lebesgue integrals. C Demonstrate an understanding of the main properties of L^p spaces and work effectively with the function sequences in L^p. D Use the essential concepts and theorems of the measure theory to analyse certain applications.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH420&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Strategic Sourcing in a Digital World",
+  "module_code": "IFB419TC",
+  "offerings": [
+    {
+      "heading": "Strategic Sourcing in a Digital World",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Strategic Sourcing in a Digital World",
+        "module_code": "IFB419TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Strategic Sourcing in a Digital World",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Strategic sourcing is a business activity in which a tactical method is used to procure materials required for consistent, high-quality supply-chain management. In strategic sourcing, a business gathers market intelligence on how to obtain supplies from reliable vendors in a cost-effective manner. The information gathered is then used to develop long-term relationships with vendors for the purpose of ensuring a steady source of supplies. A strategic sourcing plan's goal is an on-time supply of materials to meet production demand without unplanned delays. Sourcing has a critical role as a boundary-spanning function, through which it contributes to an organisation’s strategic success. The aims of this module are to provide an integrative understanding of the role and objectives of the sourcing function and its complex inter- and intra-organisational relationships that contribute to sustained commercial success and maximisation of competitive advantage.",
+        "Learning outcomes": "A. Evaluate sourcing strategies and their impact on the business B. Appraise the objectives of the sourcing function and its strategic relationships internally and externally C. Assess and apply leading/best sourcing practice techniques and strategies within different sectors D. Evaluate critical issues in international sourcing in emerging economies, particularly China",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures, tutorials, and seminars. Lectures and interactive seminars will introduce, explore and critique current theory and professional practice. A wide range of textbooks are suggested as supplementary reading and video cases are used to support the lecture material. A range of journals, texts, online videos and opinion pieces will be used as a basis for further reading/study to extend the application of theory to a range of sectors. References to new research will expose students to state-of-the-art contemporary research. Seminars will develop students’ skills of critical analysis and strategic thinking. Seminars covering case studies, problem solving, group work and presentations will link theory and practice, and develop students’ skills in collaborative teamwork and communication. Guest lectures from industry will explore application and practice from a range of sectors."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB419TC&psl_code=SEM2"
+    }
+  ]
+}

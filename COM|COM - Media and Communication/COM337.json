@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Film, Philosophy, and Digital Technology",
+  "module_code": "COM337",
+  "offerings": [
+    {
+      "heading": "Film, Philosophy, and Digital Technology",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "COM",
+        "full_name": "Film, Philosophy, and Digital Technology",
+        "module_code": "COM337",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Film, Philosophy, and Digital Technology",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module explores the intersection of film, philosophy, and technology, particularly how the digital era has reshaped cinematic practices. Students will critically analyse the revolution in film production, distribution, and consumption brought about by digital technologies, alongside their impact on narrative and audience engagement. The course emphasizes theoretical exploration, practical exercises, and philosophical inquiry, allowing students to examine ethical, aesthetic, and existential questions within the realm of digital cinema. A significant aspect of this module is the opportunity for students to apply their insights through the creation of video essays. This practical project encourages the synthesis of theoretical knowledge and creative expression, focusing on the philosophical and technological dimensions of film. By the end of the module, students will have a deep understanding of the principles and potentials of digital cinema, equipped with a critical perspective on the challenges and opportunities it presents for filmmakers, audiences, and the industry. This course aims to provide both the intellectual framework and practical skills necessary for navigating and contributing to the evolving landscape of film.",
+        "Learning outcomes": "A. Evaluate the transformative effects of the digital era on film theory, criticism, and practice. B. Interpret film texts to explore broader implications for society and culture. C. Explore the ethical, aesthetic, and existential dimensions of digital advancements in cinema. D. Conceptualise, create, and present a video essay that critically examines film texts through the lens of contemporary technology and philosophy.",
+        "Method of teaching and learning": "Lectures Seminars Lab/Practicals"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM337&psl_code=SEM2"
+    }
+  ]
+}

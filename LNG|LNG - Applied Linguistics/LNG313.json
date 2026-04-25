@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Language and Consumer Behaviours",
+  "module_code": "LNG313",
+  "offerings": [
+    {
+      "heading": "Language and Consumer Behaviours",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "LNG",
+        "full_name": "Language and Consumer Behaviours",
+        "module_code": "LNG313",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Language and Consumer Behaviours",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to highlight the vital role of language and linguistic resources in influencing consumer engagement and behaviors, and is especially relevant to students in programs with an interdisciplinary orientation. It aims to provide students with the foundational knowledge in strategic and tactical communication targeting at engaging and influencing consumers, as well as to nurture an understanding of consumer behavior as a multifaceted concept through the lens of various scientific perspectives. The module seeks to cultivate a strong ability to apply knowledge and skills in tackling real-world challenges within professional settings that aim to shape consumer behaviors and foster positive consumer relations.",
+        "Learning outcomes": "A. Explain prominent messaging strategies and linguistic resources to enable analysis of strategic communication targeting at engaging consumers and influencing consumer behaviors; B. Apply key concepts of consumer behaviors and make use of their implications for message design through linguistic resources; C. Assess the impact of messaging strategies and features on consumer behavior-related outcomes; D. Apply linguistic and communication knowledge along with key consumer behavior concepts in real-world situations, such as designing effective message strategies to engage and influence consumer behaviors and developing consumer research projects in a corporate and professional setting.",
+        "Method of teaching and learning": "The module will combine lectures and tutorials. Lectures will offer information on key theories, concepts, and principles. Tutorials will provide plentiful opportunities for students to review, discuss, and apply their knowledge through in-class activities. Teaching will be built upon theories and research, with a strong emphasis on application and practicality. Drawing from theories and empirical research across various fields, the module will enable students to learn not only to assimilate this knowledge but also to enlist the insights and concepts they’ve learned to the real world to address specific issues. The module will be designed and delivered incorporating three main perspectives, guiding the topics for each session. The first is a sender’s perspective, which delves into strategic and tactical communication targeting at engaging consumers and influencing consumer behaviors, from the viewpoints of corporations, brands, as well as policy-makers and non-profit organizations. The sessions will discuss both macro-level communication strategies and micro-level message features and linguistic choices in line with sub-areas of linguistics and communication. The second perspective centers on receiver’s viewpoint, focusing on consumers as target audience of strategic communication. Drawing upon various fields, essential concepts and topics related to consumer behaviors and practical approaches for scrutinizing consumer behaviors will be discussed in detail. The third perspective interweaves both the sender and receiver, focusing on assessing the effects of sender’s communication and the impact of language on consumer behaviors. It will explore key barriers to message effectiveness and discuss a particularly challenging yet inevitable context, i.e., crisis scenarios."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG313&psl_code=SEM1"
+    }
+  ]
+}

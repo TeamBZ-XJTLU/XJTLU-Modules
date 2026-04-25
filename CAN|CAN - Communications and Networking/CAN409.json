@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Information Security",
+  "module_code": "CAN409",
+  "offerings": [
+    {
+      "heading": "Information Security",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Information Security",
+        "module_code": "CAN409",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Information Security",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide postgraduate students with a comprehensive understanding of information security, covering key principles such as confidentiality, integrity, and availability. It explores the principal methods and techniques involved in designing and implementing secure systems. Through studying these concepts, postgraduate students will gain the knowledge and skills necessary to critically evaluate the security aspects of computing systems, understand common security threats, and apply foundational security principles to protect data and resources. This module is integral to the programme of study, laying the essential theoretical and practical groundwork for more advanced modules in secure system design, network defense, or related project-based learning by equipping students with core information security competencies required in various technology roles.",
+        "Learning outcomes": "A. Critically evaluate and synthesize knowledge in information security to solve complex security challenges. B. Identify, analyze, and interpret current problems and emerging trends in information security, proposing innovative solutions. C. Design, implement, and critically assess secure methods for the transmission and storage of data, justifying design choices with sound theoretical and practical understanding.",
+        "Method of teaching and learning": "This module employs a variety of teaching and learning methods designed to facilitate student achievement of the learning outcomes and ensure comprehensive support. Formal lectures are used to introduce key concepts, principles, and theoretical foundations of information security. Practical lab work provides essential hands-on opportunities for students to apply theoretical knowledge, gain practical experience, and develop skills in designing and implementing secure systems within a supported environment. Postgraduate students are expected to engage in significant independent study, which includes background reading, reflection on lecture material, and preparation for assessment tasks; this unsupervised time is crucial for consolidating learning and developing deeper understanding. Furthermore, coursework assessment is specifically designed not only to evaluate student learning but also to provide a means to test and confirm the practical skills students have acquired throughout the module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN409&psl_code=SEM2"
+    }
+  ]
+}

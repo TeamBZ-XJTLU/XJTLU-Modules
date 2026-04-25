@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Project Management Essentials",
+  "module_code": "IOM206",
+  "offerings": [
+    {
+      "heading": "Project Management Essentials",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Project Management Essentials",
+        "module_code": "IOM206",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Project Management Essentials",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Capitalize on contemporary trend and needs. Retain talent at XJTLU student body and recruit for Master Programme. Currently students are lacking the option to study project management on this level, so the learning curve for the MSc is high. An initial tap into this very popular and contemporary topic would benefit all Stakeholders. The intended audience aims to work in a professional environment where PM knowledge is mandated, the students can use this module to acquire these skills. The university can market the programmes with this advantage better, we will get more UG students into these programmes and offer additional skills to other programmes’ students, should they decide to join – after any necessary changes on their side. The MSc in Project Management would benefit from more students recruited internally and with better prepared students from our UG programmes, the outcomes of their MSc experience would be better.",
+        "Learning outcomes": "A Being familiar with theoretical and practical project management. Acquire project management knowledge and skills in theory and practice. B Practically use acquired skills in contemporary context. C Pragmatically adapt acquired skills and knowledge. Cultivate a pragmatic utilisation and implementation of skills and knowledge. D Competently use Introduce and use project management software tools. E Understand the necessity and role of Contextualise project management within the business world. F Familiarise students themselves with leadership concepts in a project management context and practically employ them in teamwork situations.",
+        "Method of teaching and learning": "The module will utilize a combined and integrated approach of lectures, lab sessions and tutorials, based on the recommended book and additional content offered by the publisher. Students will be assigned a weekly workload (reading, cases etc.) and attend classes where part of this pre session work will make understanding easier. In the tutorials we will use case studies to work on real projects, offering our students real exposure to this part of PM, including working with software. To further enhance student experience two lab sessions are used to train them in Project Evaluation (Session1) as well as using PM Software (Session 2)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM206&psl_code=SEM2"
+    }
+  ]
+}

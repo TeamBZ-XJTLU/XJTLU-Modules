@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Dissertation",
+  "module_code": "LNG423",
+  "offerings": [
+    {
+      "heading": "Dissertation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Dissertation",
+        "module_code": "LNG423",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Dissertation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The main aims of the module are to provide students with a comprehensive understanding of the main concepts and ideas associated with multilingualism research, to improve critical awareness of research in multilingualism, to enable students to master relevant academic concepts of multilingualism, and to familiarize students with the conventions of rigorous academic writing practice.",
+        "Learning outcomes": "A Effectively evaluate key multilingualism-related research areas, theories and practices B Demonstrate knowledge of key elements of the applied linguistic, sociolinguistic and educational aspects of multilingual acquisition and multilingualism C Critically think about multilingualism as a field of research D Display familiarity with and understanding of the rigorous and disciplined academic writing process E Support claims and arguments using evidence and data, in keeping with academic conventions F Conduct an empirical study involving collecting, processing and analyzing data G Present research findings in an academic way",
+        "Method of teaching and learning": "Supervised study"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG423&psl_code=SEM1"
+    }
+  ]
+}

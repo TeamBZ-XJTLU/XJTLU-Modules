@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Macroeconomics I",
+  "module_code": "ECO213",
+  "offerings": [
+    {
+      "heading": "Macroeconomics I",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Macroeconomics I",
+        "module_code": "ECO213",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Macroeconomics I",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to extend the study of macroeconomic theory to the intermediate level. The module analyses the policy implications of the different macroeconomic models presented during the semester. The most relevant policy issues and controversies in the global macroeconomy are examined.",
+        "Learning outcomes": "A. understand how changes in fiscal and monetary policy affect the closed economy in the Keynesian model B. demonstrate an understanding of the derivation of IS and LM curves and what determines the slope of, and shifts in, the curves C. understand what determines the relative effectiveness of fiscal and monetary policy in the IS-LM model of a closed economy D. integrate an understanding of goods, money and labour markets for economic policy analysis E. construct and write answers to macroeconomic analytical questions F. understand, analyse and critically assess economic policy in alternative scenarios G. form an independent economic view on current macroeconomic problems",
+        "Method of teaching and learning": "The module-leader will provide 28 lectures which will introduce the topics as specified in the learning outcomes/ syllabus, explain their significance and relevance to an understanding of macroeconomics; reference will be made to the relevant chapters of the recommended text and other reading. To fulfil the requirements of the module students must attend all lectures and tutorials, do the specified reading and work through the tutorial exercises."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO213&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Curation Project",
+  "module_code": "FTA445",
+  "offerings": [
+    {
+      "heading": "Curation Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Curation Project",
+        "module_code": "FTA445",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Curation Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: This module is designed for students to draw up curation projects with clear goals and strategies to take the Master project outcome forward into the public and/or related industries. Students will consider not only the selection and display of objects, the handling of time and space or platform and modes of address, but also wider social implications of the project. By combining practical engagement with historical understanding, this module builds the skills students need for a successful career in curating events or exhibitions. Objectives: The learning objectives are centered around developing core skills in curatorial method, critical thinking, handing objects, audience engagement, budgeting and management. The student will work both independently and with the guidance of the Master project supervisor. At the end of the semester, in addition to documenting the curation plan, students will also present their individual or collaborative work at the graduate exhibition along with their research outcome to the panel within a professional environment. The panel may consist of potential stakeholders, partners, and target audience.",
+        "Learning outcomes": "A Demonstrate an understanding of curatorial practice, concepts and collections. B Articulate the position in respect of key curatorial debates and analyse curatorial methods used to reinterpret objects and practices. C Apply the knowledge and skills to develop and plan an event or exhibition.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures, seminars, tutorials and fieldwork. Lectures will be designed to provide essential information, knowledge and theories in curatorial practice; seminars will be based on case study and projects; tutorials will help the students to engage more actively with the module content and their subject-specific projects. The fieldwork will provide the opportunities for students to get a close insight of curating events and exhibitions, both physically and virtually."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA445&psl_code=SEM2"
+    }
+  ]
+}

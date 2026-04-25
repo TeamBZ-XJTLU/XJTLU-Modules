@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Applied Regression Analyses",
+  "module_code": "APH416",
+  "offerings": [
+    {
+      "heading": "Applied Regression Analyses",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Applied Regression Analyses",
+        "module_code": "APH416",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Applied Regression Analyses",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to offer a clear exposition of how regression methods for continuous data extend to include multiple continuous and categorical predictors and categorical response variables. This module also aims to provide an understanding of how regression models form the basis for the analysis of experimental and also observational studies. The emphasis is on APPLICATIONS.",
+        "Learning outcomes": "A Demonstrate understanding of the significance of linear regression models and ANOVA tables B Understand the rationale and assumptions of linear regression models. C Carry out and interpret linear regressions and analyses of variance, and derive basic theoretical results. D Understand the rationale and assumptions of generalized linear models. E Carry out and interpret analyses involving generalized linear models, and derive basic theoretical results. F Develop an appreciation of advanced regression techniques including Nonparametric Regression, Splines, Quantile Regression, and Ordinal Regression G Interpret the output from standard computer packages to draw statistical conclusions.",
+        "Method of teaching and learning": "The module is delivered through a combination of lectures and tutorials over a period of 13 weeks. In lectures, students are introduced to the core principles, major methodology, and common topics and issues in the area of regression analysis. Tutorials are given as a platform to address any specific question or issue from individual students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH416&psl_code=SEM1"
+    }
+  ]
+}

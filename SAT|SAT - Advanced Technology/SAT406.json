@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SAT",
+    "domain_code": "SAT",
+    "full_name": "Advanced Technology"
+  },
+  "full_name": "MSc Dissertation Project",
+  "module_code": "SAT406",
+  "offerings": [
+    {
+      "heading": "MSc Dissertation Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SAT",
+        "full_name": "MSc Dissertation Project",
+        "module_code": "SAT406",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "MSc Dissertation Project",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This project provides students with the opportunity to combine their knowledge of research methods and techniques with their technical and analytical skills in order to plan, execute, and critically evaluate outcomes of a substantial research project at the forefront of Advanced Technology. Through guided independent inquiry, students will deepen their mastery of domain-specific methodologies while developing crucial professional competencies such as project management, risk analysis, problem-solving, and evaluative judgement, with emphasis on ethical, sustainable, and user-centered approaches to innovation. Students will also develop and enhance their ability to articulate complex ideas through structured academic writing and technical presentations. This module aligns with programme learning outcomes by bridging theoretical concepts with complex practical applications in computing and engineering, fostering innovative solutions that balance technical rigour with societal and environmental considerations to extend the boundaries of knowledge. It consolidates students’ readiness for doctoral study or technical careers in industry, equipping them to address real-world challenges through strategically informed, ethically grounded innovation.",
+        "Learning outcomes": "A. Analyse and critically evaluate advanced scholarly and industrial literature to identify unresolved challenges and opportunities for innovative research within the field of Advanced Technology. B. Formulate novel and impactful research questions that address complex technical challenges aligned with emerging trends in industry or academia. C. Design and manage a research project across its full lifecycle, integrating legal, social, ethical and professional frameworks, risk mitigation strategies, and adaptive planning to address evolving technical or contextual challenges. D. Design and implement an innovative technical artefact (e.g., software, system, prototype) that advances computing and engineering knowledge or practice, employing appropriate methodologies to justify originality and feasibility. E. Critically evaluate the artefact’s performance, scalability, social and environmental impact, and ethical implications of its deployment, employing rigorous validation techniques to assess its alignment with user requirements and design goals. F. Communicate original findings to technical and non-technical audiences through formal presentations, contextualising research project outcomes within current trends in Advanced Technology. G. Structure and write an academic dissertation that systematically documents the research lifecycle, synthesising methodological choices, iterative refinements, and critical reflections.",
+        "Method of teaching and learning": "This module fosters independent learning and a spirit of academic inquiry through sustained personalised supervision. Students select a project and supervisor by mutual agreement based on their interests. Students’ self-directed learning is supported through regular meetings with their allocated academic and, for JITRI projects, industrial supervisor(s). Supervisors guide students through iterative cycles of planning, development, and critical evaluation, offering formative feedback tailored to the student’s specific project. This mentorship ensures students balance creativity with methodological rigour. Supervisors also provide targeted advice and guidance on synthesising research findings, structuring arguments, and presenting technical outcomes with clarity, ensuring students develop the skills necessary to communicate effectively on complex technical matters across written, visual, and oral formats with a variety of audiences."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SAT406&psl_code=SEM1"
+    }
+  ]
+}

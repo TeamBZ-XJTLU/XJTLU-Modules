@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Process Management",
+  "module_code": "IFB205TC",
+  "offerings": [
+    {
+      "heading": "Process Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Process Management",
+        "module_code": "IFB205TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Process Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Process management is a discipline in operations management in which people use various methods to discover, model, analyze, measure, improve, optimize, and automate business processes. Processes can be structured and repeatable or unstructured and variable. The aim of the module is to provide students with an understanding of the key principles, systems and techniques used to assure effective operations management. The module enables student to: (i) understand the role of process management in manufacturing and service organisations, (ii) adopt industry best practices for efficiency or pursue competitive differentiation, and (iii) manages the lifecycle of improvement and optimization, in a way that translates directly to operation. In that this is an optional module, to well utilise the university resource, the module delivery is subject to meeting a minimum number of students (10).",
+        "Learning outcomes": "A. show knowledge of performing the values of calculations, d and collecting the information along the way making agile course corrections B. employ Six Sigma quality and reduce cumulative costs across the value chain C. Pursue strategic initiatives with confidence, including mergers, consolidation, alliances, acquisitions, outsourcing and global expansion.",
+        "Method of teaching and learning": "Formal lectures including the use of labs/tutorials to enable the appreciation of technical aspects of operations management and the ability to use the relevant numerical tools and analysis methods. In that this is an optional module, to well utilise the university resource, the module delivery is subject to meeting a minimum number of students (10)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB205TC&psl_code=SEM1"
+    }
+  ]
+}

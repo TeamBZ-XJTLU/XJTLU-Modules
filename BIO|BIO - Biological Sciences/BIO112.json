@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Developmental Biology",
+  "module_code": "BIO112",
+  "offerings": [
+    {
+      "heading": "Developmental Biology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Developmental Biology",
+        "module_code": "BIO112",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Developmental Biology",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The Developmental Biology module aims to provide students with a deep understanding of how multicellular organisms develop. It focuses on exploring the cellular and molecular mechanisms involved in tissue and organ development, studying model organisms, understanding the link between genetics and development, and applying developmental biology principles to biomedical research. This module complements the BSc Biomedical Sciences programme by providing foundational knowledge essential for advanced studies, integrating with other core components of the programme, enhancing research skills, and offering career-relevant preparation for roles in biomedical research, clinical settings, and biotechnology.",
+        "Learning outcomes": "A. Demonstrate a comprehensive understanding of the fundamental principles of developmental biology, including the stages of development, cell differentiation, and organogenesis. B. Identify and describe the molecular pathways and genetic mechanisms that regulate development, such as signal transduction pathways, transcriptional regulation, and epigenetic modifications. C. Apply various experimental techniques used in developmental biology research, such as in situ hybridization, gene knockout models, and CRISPR/Cas9 gene editing. D. Critically assess current literature and research in developmental biology, identifying strengths, limitations, and potential implications for the field. E. Effectively communicate complex scientific ideas and research findings related to developmental biology in both written and oral formats.",
+        "Method of teaching and learning": "Approach to Learning and Teaching Interactive Learning: Engage students through case studies and problem-based learning to promote critical thinking and application of theoretical concepts to real-world situations. Integrative Modules: Integrate various aspects of developmental biology, including genetic, molecular, and cellular mechanisms, emphasizing their interactions during development. Research Integration: Incorporate recent research findings and emerging trends in developmental biology to maintain relevance and currency. Collaborative Learning: Foster collaboration and problem-solving skills through group projects, peer discussions, and presentations. Assessment Variety: Evaluate students' understanding and skills using a mix of assessment methods, including reports, presentations, and written exams. Mode of Delivery Lectures: Provide foundational knowledge and theoretical concepts through lectures, supported by visual aids and interactive components. Tutorials: Tutorials will be delivered through in-class discussions, Q&A sessions, and office hour meetings. Introduced in Week 3, the courseworks require students to: Deliver an 8-minute oral presentation (+2-minute Q&A) analyzing one key figure from a provided landmark paper, covering experimental rationale, methods, and interpretation;Submit a 1,000-word written report systematically explaining the figure's conceptual basis, technical approach, results, and significance."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO112&psl_code=SEM1"
+    }
+  ]
+}

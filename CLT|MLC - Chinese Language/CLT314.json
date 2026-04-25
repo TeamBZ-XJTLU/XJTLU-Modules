@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "MLC",
+    "domain_code": "CLT",
+    "full_name": "Chinese Language"
+  },
+  "full_name": "Chinese Writing",
+  "module_code": "CLT314",
+  "offerings": [
+    {
+      "heading": "Chinese Writing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CLT",
+        "full_name": "Chinese Writing",
+        "module_code": "CLT314",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Chinese Writing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module offers a comprehensive overview of key aspects of Chinese writing. The module aims to equip students with advanced skills in comprehending and producing Chinese texts across various genres. The module emphasizes textual analysis, writing techniques, and oral presentation. It also serves as a crucial stepping stone for those intending to specialize in teaching Chinese writing. Students will gain theoretical insights and practical strategies that can be effectively applied in educational contexts. This module is designed for native speakers of the Chinese language or non-native speakers who have attained a proficiency level corresponding to the HSK 5 standard.",
+        "Learning outcomes": "A. Identify and analyze key themes, rhetorical devices, and genre-specific features in diverse Chinese written texts. B. Apply effective Chinese writing techniques in professional and academic settings. C. Deliver presentation or speech fluently, accurately, and appropriately, employing public speaking strategies. D. Demonstrate critical thinking abilities through analytical and reflective activities.",
+        "Method of teaching and learning": "This module adopts a blended approach, combining seminars, tutorials, in-class activities, and collaborative group work to create an interactive and immersive learning environment. Seminars will offer an in-depth exploration of key concepts, focusing on genre-specific writing techniques and textual analysis. Interactive discussions will encourage students to critically engage with Chinese texts, deepening their understanding of both form and content. Tutorials provide personalized feedback and peer review opportunities, enabling students to refine their writing skills. These sessions will address individual challenges in both writing and speaking, helping students apply theoretical concepts to their work. Practical, hands-on activities and collaborative projects will be integrated into both seminars and tutorials, making the learning process more dynamic and intuitive."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CLT314&psl_code=SEM1"
+    },
+    {
+      "heading": "Chinese Writing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CLT",
+        "full_name": "Chinese Writing",
+        "module_code": "CLT314",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Chinese Writing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module offers a comprehensive overview of key aspects of Chinese writing. The module aims to equip students with advanced skills in comprehending and producing Chinese texts across various genres. The module emphasizes textual analysis, writing techniques, and oral presentation. It also serves as a crucial stepping stone for those intending to specialize in teaching Chinese writing. Students will gain theoretical insights and practical strategies that can be effectively applied in educational contexts. This module is designed for native speakers of the Chinese language or non-native speakers who have attained a proficiency level corresponding to the HSK 5 standard.",
+        "Learning outcomes": "A. Identify and analyze key themes, rhetorical devices, and genre-specific features in diverse Chinese written texts. B. Apply effective Chinese writing techniques in professional and academic settings. C. Deliver presentation or speech fluently, accurately, and appropriately, employing public speaking strategies. D. Demonstrate critical thinking abilities through analytical and reflective activities.",
+        "Method of teaching and learning": "This module adopts a blended approach, combining seminars, tutorials, in-class activities, and collaborative group work to create an interactive and immersive learning environment. Seminars will offer an in-depth exploration of key concepts, focusing on genre-specific writing techniques and textual analysis. Interactive discussions will encourage students to critically engage with Chinese texts, deepening their understanding of both form and content. Tutorials provide personalized feedback and peer review opportunities, enabling students to refine their writing skills. These sessions will address individual challenges in both writing and speaking, helping students apply theoretical concepts to their work. Practical, hands-on activities and collaborative projects will be integrated into both seminars and tutorials, making the learning process more dynamic and intuitive."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CLT314&psl_code=SEM2"
+    }
+  ]
+}

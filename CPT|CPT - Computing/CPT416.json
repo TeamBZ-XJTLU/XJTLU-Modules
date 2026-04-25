@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Animation Technology for Games and Interactive Media",
+  "module_code": "CPT416",
+  "offerings": [
+    {
+      "heading": "Animation Technology for Games and Interactive Media",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Animation Technology for Games and Interactive Media",
+        "module_code": "CPT416",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Animation Technology for Games and Interactive Media",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Computer animation is an important branch of computer science. It studies the laws of various dynamic phenomena in nature and daily life, and builds computer-based simulations of them. It serves as a key supporting technology in fields such as digital entertainment, industrial simulation, human-computer interaction, Metaverse, and artificial intelligence. This module aims to provide students with a comprehensive understanding of the fundamental concepts, principles, and techniques of computer animation. It equips students with both theoretical knowledge and practical skills, enabling them to analyse the laws of typical animation phenomena, conduct theoretical modeling, and develop simulation programs. Through hands-on projects and case studies, students will gain a strong foundation to apply animation techniques in both academic research and industry practice. As a PG module, it builds on students’ prior knowledge of programming and computer graphics, and prepares them for advanced study or professional work in animation-related fields. It also serves as a foundation for modules that explore more specialized or applied topics in visual computing, interactive media, and intelligent systems.",
+        "Learning outcomes": "A Critically examine the core mathematical principles, algorithms, and theoretical frameworks underpinning computer animation. B Analyze and model animation phenomena from the physical world, evaluating their application to digital animation systems. C Design and implement advanced computer animation techniques to address complex practical challenges in animation production. D Evaluate existing animation models and algorithms, proposing innovative adaptations or hybrid approaches to optimize performance.",
+        "Method of teaching and learning": "The module will be delivered through a combination of lectures and lab sessions. Students are required to attend a two-hour lecture and participate in a two-hour lab each week. The lectures and lab sessions will introduce students to the theoretical knowledge and practical skills relevant to the subject of the module. Students are required to apply the knowledge and skills they have learned to analyse and evaluate cases in industry and to complete the coursework task. The theoretical insights are reinforced through guided practice in simulated lab environments, where students apply learned techniques to build and refine animation systems. Continuous academic support, formative feedback, and access to relevant learning resources help ensure that students remain actively engaged and well-supported as they work toward the module’s learning outcomes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT416&psl_code=SEM2"
+    }
+  ]
+}

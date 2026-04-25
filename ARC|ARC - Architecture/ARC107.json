@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "ARC",
+    "full_name": "Architecture"
+  },
+  "full_name": "History of Western Architecture",
+  "module_code": "ARC107",
+  "offerings": [
+    {
+      "heading": "History of Western Architecture",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ARC",
+        "full_name": "History of Western Architecture",
+        "module_code": "ARC107",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "History of Western Architecture",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are to introduce students to the history of architecture, and to engage them in a critical reading of buildings and urban settings. The module is taught with a focus on the history of Western Architecture, covering key moments from ancient times to the twenty-first century.",
+        "Learning outcomes": "A. Recognise major periods of Western architecture and urbanism, identifying their key stylistic and constructional features. B. Identify and discuss the relationship between the social and cultural context in which buildings are created and used and their physical form. C. Critically compare architectural precedents from different historical periods, including the present day, by utilising traditional methods and AI-driven research assistants, in analysing data. D. Discuss topics in architectural history through writing.",
+        "Method of teaching and learning": "The module uses lectures and readings to introduce key moments in Western architectural history. Drawing and written exercises help students to analyze and understand architectural examples and to connect them to their own designing and design thinking. A short research essay requires students to conduct independent research and to make an argument about a specific building. Some sessions on this module with be delivered by Language Centre tutors, with the aim of assisting students with language/study skills requirements for the module. Students will also be provided with online language/study skills support to help them engage with module content."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ARC107&psl_code=SEM1"
+    }
+  ]
+}

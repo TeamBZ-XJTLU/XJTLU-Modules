@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IRE",
+    "domain_code": "RBETC",
+    "full_name": "Robotics"
+  },
+  "full_name": "Intelligent Robotics and Applications",
+  "module_code": "RBE403TC",
+  "offerings": [
+    {
+      "heading": "Intelligent Robotics and Applications",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "RBETC",
+        "full_name": "Intelligent Robotics and Applications",
+        "module_code": "RBE403TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Intelligent Robotics and Applications",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide an overview of contemporary intelligent robotics systems deployed in various sectors and industries. It is tailored to provide the students with a comprehensive understanding of the principles, theories, and practical applications of intelligent robotics with respect to both hardware and software elements.",
+        "Learning outcomes": "A Demonstrate the understanding of types and classifications of contemporary intelligent robotics systems B Identify key components and articulate their functionality in contemporary intelligent robotics systems C Analyse the kinematics, dynamics as well as various control schemes for different for robot configurations. D Demonstrate knowledge in mobile robotics including kinematic, sensors, actuators, vehicle localization, mapping building, robotics programing with ROS, as well as robotics simulation on modeling and controlling on mobile robotics E Demonstrate knowledge of important cutting-edge technologies that emerges in the field of contemporary intelligent robotics engineering and applications",
+        "Method of teaching and learning": "The teaching philosophy of the module adopts the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially the use of problem-based assessment which is project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. This module will be delivered through lectures, seminars, tutorials, and lab practice. Teaching will be conducted using problem-based learning, with problems, approaches, guided and unguided practices embedded in the sessions. General transferable skills are developed through the presentation of written and oral reports."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=RBE403TC&psl_code=SEM1"
+    }
+  ]
+}

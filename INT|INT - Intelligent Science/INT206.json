@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Deep Learning",
+  "module_code": "INT206",
+  "offerings": [
+    {
+      "heading": "Deep Learning",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INT",
+        "full_name": "Deep Learning",
+        "module_code": "INT206",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Deep Learning",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Recent developments in neural network approaches (“deep learning”) have greatly advanced the performance of artificial intelligence systems. This course focuses on the details of these deep learning architectures, including image/audio classification and detection. During this course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in deep learning applications. The deep learning module is a foundational module that will help students understand the capabilities, challenges, and consequences of deep learning and prepare students to participate in the development of leading-edge AI technology.",
+        "Learning outcomes": "A Demonstrate expert knowledge to offer critical insight into the current state-of-the-art deep learning technologies. B Demonstrate practical skills, including the creation of neural networks, and the ability to analyse deep learning algorithm performance. C Critically analyse real-world computer vision problems and design suitable solutions based on available technologies. D Understand and participate in the legal, social, ethical and professional framework in systems, software or information engineering. E Demonstrate the ability to work effectively as a member of a development team, recognizing the different roles within the team and the various ways teams can be organized.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures and lab sessions. The lab experiments will be performed using PYTHON or other software tools for deep learning. For each lab a report shall be prepared, two of these will count towards the summative assessment for the module. A final examination consisting of a number of problem/design based questions as well as questions aimed at examining the students grasp of the subject theory will form the remainder of the summative assessment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT206&psl_code=SEM2"
+    }
+  ]
+}

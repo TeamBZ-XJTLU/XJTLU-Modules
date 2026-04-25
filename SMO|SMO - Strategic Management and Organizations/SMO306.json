@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Business Strategy",
+  "module_code": "SMO306",
+  "offerings": [
+    {
+      "heading": "Business Strategy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Business Strategy",
+        "module_code": "SMO306",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Business Strategy",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to provide students with an understanding of how businesses develop and implement strategy.",
+        "Learning outcomes": "A. identify and analyse the consequences of a business's current objectives, market position and direction B. evaluate the likely consequences of strategic choices and recommend strategies to meet the objectives of a business C. recommend appropriate methods of implementing strategies and demonstrate how management information can be used subsequently to measure and monitor strategic performance D. Present the lessons learned from the business simulation game exercise",
+        "Method of teaching and learning": "1. Lectures - covering key theory and strategic models and practical application of business strategy and planning to enable analysis and comparison. 2. Tutorials - providing students with a learning opportunity designed to extend the material introduced in the lectures through case studies and presentations. 3. Business simulation game – providing students with simulated business scenarios to make strategic analysis and decisions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO306&psl_code=SEM2"
+    }
+  ]
+}

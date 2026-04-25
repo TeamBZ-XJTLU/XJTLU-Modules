@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Internationalization and Chinese Education Context",
+  "module_code": "EDS439",
+  "offerings": [
+    {
+      "heading": "Internationalization and Chinese Education Context",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Internationalization and Chinese Education Context",
+        "module_code": "EDS439",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Internationalization and Chinese Education Context",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to enhance in-depth understanding and explore multiple perspectives of international education and internationalization of education at pre-tertiary level. It will enable students to critically think of the practices of K-12 internationalized education at the national, institutional and personal level under Chinese education context, and to develop educational practices with solid theoretical backbones and analysis of their specific contexts.",
+        "Learning outcomes": "A Identify and develop educational practices that align with the concept of international education and internalization of education in their specific context B Critically reflect the impact that internationalization of education has on institutional and personal level practices C Critically analyze the concepts of international education and internationalization",
+        "Method of teaching and learning": "This module will be delivered via a combination of lectures and tutorials. Lectures will be designed to provide essential information and tutorials for reflection on and practice of the information. Lectures and tutorials will be scheduled in a blended learning format, including but not limited to asynchronous online sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS439&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Social and Affective Development of Gifted Students",
+  "module_code": "EDS448",
+  "offerings": [
+    {
+      "heading": "Social and Affective Development of Gifted Students",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Social and Affective Development of Gifted Students",
+        "module_code": "EDS448",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Social and Affective Development of Gifted Students",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will focus on the social and emotional development of gifted and talented students and introduce key knowledge and skills needed to effectively support the healthy psychosocial development of gifted students. Students will gain an overview of the characteristics and needs of gifted and talented students, such as diversity issues, family/parenting concerns, current educational approaches, and counseling interventions. Students will also be able to apply different social and affective strategies to promote social-emotional well-being among gifted and talented students.",
+        "Learning outcomes": "A. Demonstrate knowledge of major theories of social-emotional, identity, and career development for gifted and talented students B. Analyze, synthesize, and evaluate current research literature on the social and affective characteristics and needs of gifted and talented students C. Apply critical and inventive thinking skills in evaluating information and generating ideas that address the needs of gifted and talented students D. Communicate ideas to specific audiences clearly, coherently, and persuasively in oral and written formats",
+        "Method of teaching and learning": "The teaching sessions include both lectures and tutorials/workshops which work together to provide students with key conceptual and theoretical insights, as well as dedicated opportunities to put them into practice through collaborative and individual work, critical reflection, and iterative development of guided discussion plans."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS448&psl_code=SEM1"
+    }
+  ]
+}

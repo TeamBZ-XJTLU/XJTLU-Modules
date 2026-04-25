@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Inserts Production",
+  "module_code": "FTA127",
+  "offerings": [
+    {
+      "heading": "Inserts Production",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Inserts Production",
+        "module_code": "FTA127",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "Inserts Production",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to help students understand the nature of inserts and practically produce them so that they can be used in a variety of studio programmes.",
+        "Learning outcomes": "A. Demonstrate their knowledge of research and directing techniques in relation to the creation of inserts B. Demonstrate an understanding of the narrative structure of an insert C. Demonstrate an understanding of how to design the interview questions for the production of the insert D. Demonstrate an understanding of different insert formats in relation to various TV programmes",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (lectures and Seminars). The lectures will introduce students to inserts- How they are produced, how to come up with an idea for the top of an insert, how to format an insert, the different inserts of different TV programmes, how to develop an interview for the specific inserts, develop their critical understanding of what particular inserts might mean in the context of a TV programme. The seminars will encourage students to develop the corresponding part they learned from the lectures each week, such as developing the narrative for different formats of insert, developing the research plan for a specific topic, developing the interview plan and question for the specific format, etc. Students will work independently or in small crews to develop their ideas and produce their inserts."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA127&psl_code=SEM1"
+    }
+  ]
+}

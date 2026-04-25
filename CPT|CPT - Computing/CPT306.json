@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Game Design Theory and Practice",
+  "module_code": "CPT306",
+  "offerings": [
+    {
+      "heading": "Game Design Theory and Practice",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Game Design Theory and Practice",
+        "module_code": "CPT306",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Game Design Theory and Practice",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The main aim of this module is to equip students with a solid foundation in computer game design and implementation, focusing on key areas such as computer graphics, gameplay mechanics, game AI and physics, and procedural content generation. Through a combination of theoretical study and hands-on practice, students will develop the skills and knowledge needed to conceptualize, design, and build interactive games using a professional game engine. The module emphasizes both creative and technical competencies, fostering critical thinking, problem-solving, and collaborative development skills essential for game production.",
+        "Learning outcomes": "A. Identify and critically analyze design issues in computer game development, including principles of game design, graphics, gameplay mechanics, game structure, and game engine implementation. B. Implement industry-standard techniques and best practices throughout the game development cycle and justify their selection and application. C. Design and develop games and related systems using a commercial game engine. D. Identify and address key legal, social, ethical, and professional issues in video game development, including intellectual property rights and industry regulations.",
+        "Method of teaching and learning": "This module employs a diverse range of teaching and learning methods to help students master advanced game design concepts and development skills. These include formal lectures and hands-on lab sessions. The formal lectures deliver core concepts and methodologies covered in the module. These will also include seminars and guest talks. The lab sessions provide hands-on experience through practical exercises, offering opportunities for immediate feedback. They also create a supportive environment for students to complete assignments and projects successfully. The assessments evaluate students’ acquisition of knowledge and practical skills. The individual assignment and group project allow students to demonstrate their understanding of computer game design principles by systematically evaluating and applying these principles. While using a game engine to develop a functional game, students are also expected to critically assess legal, social, ethical, and professional issues (LSEPI) in a game development cycle. The end-of-semester closed-book exam tests theoretical knowledge and the practical application of concepts covered in lectures, labs, and assignments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT306&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Principles of Mathematical Economics",
+  "module_code": "ECO114",
+  "offerings": [
+    {
+      "heading": "Principles of Mathematical Economics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Principles of Mathematical Economics",
+        "module_code": "ECO114",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Principles of Mathematical Economics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module facilitates a rigorous introduction to the application of mathematical techniques within the field of economics. The curriculum is specifically designed to demonstrate how quantitative methods provide a foundational framework for analyzing market dynamics, conducting investment appraisals, and modeling agent optimization, including the formalization of consumer utility and firm profit maximization. By addressing the diverse mathematical backgrounds of the cohort, the module ensures a standardized level of competency necessary for the analytical demands of subsequent intermediate and advanced modules. The module acts as a critical bridge, equipping students with the formal tools required to navigate the increasingly technical nature of second and third-year courses.",
+        "Learning outcomes": "A. Apply fundamental mathematical techniques to the formal analysis and manipulation of supply and demand frameworks, including the determination of market equilibria. B. Demonstrate a comprehensive proficiency in the techniques of differential calculus and their specific applications to economic modeling and marginal analysis. C. Demonstrate a rigorous working knowledge of the mathematical principles of finance, specifically regarding the valuation of future cash flows and the mechanics of investment appraisal.",
+        "Method of teaching and learning": "The pedagogical delivery of this module consists of a strategic integration of formal lectures and interactive tutorials. Lectures serve as the primary vehicle for disseminating theoretical foundations, where students are introduced to essential mathematical tools and the core conceptual frameworks of economic analysis. These sessions are designed to establish the analytical rigor required for the discipline. Complementing the lectures, the tutorials offer a structured environment for students to transition from theoretical understanding to practical application. During these sessions, students refine their technical proficiency by engaging with complex problem sets, fostering a deeper mastery of the quantitative methods through guided problem-solving."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO114&psl_code=SEM2"
+    }
+  ]
+}

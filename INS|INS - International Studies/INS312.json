@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "International Communications",
+  "module_code": "INS312",
+  "offerings": [
+    {
+      "heading": "International Communications",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "International Communications",
+        "module_code": "INS312",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "International Communications",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This inter-disciplinary module will equip students with concise knowledge of what to pay attention to when communicating internationally, be it in writing, speaking face-to-face or using new media. It will also analyse how governments communicate with their people in the 21st century and how national branding and geopolitics are being applied nationally and internationally. An important part of the module is devoted to exploration of international business etiquette and its up-to-date practices as a means of increasing employability of students in the international labour market and international companies in China after graduation.",
+        "Learning outcomes": "A. Demonstrate a sophisticated and critically informed understanding of how cultural memory is reproduced and circulated through international communication. B. Acquire theoretical understanding and practical skills of contemporary international business etiquette and its national variations, including such countries and regions as the US, Western Europe, Japan, Korea and Russia. C. Analyse media usage in international communication D. Critically reflect on the role played by identities and lifestyles when involved in intercultural exchanges E. Employ analyses of contemporary media experiences through advanced research methodologies and critical vocabularies F. Acquire practical skills useful for searching jobs in international companies.",
+        "Method of teaching and learning": "Seminar Discussions, Presentations, Role play, film and textual analyses."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS312&psl_code=SEM2"
+    }
+  ]
+}

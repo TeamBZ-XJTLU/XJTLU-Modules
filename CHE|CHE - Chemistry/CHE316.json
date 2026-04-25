@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Nanotechnology and Advanced Materials",
+  "module_code": "CHE316",
+  "offerings": [
+    {
+      "heading": "Nanotechnology and Advanced Materials",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Nanotechnology and Advanced Materials",
+        "module_code": "CHE316",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Nanotechnology and Advanced Materials",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with the skills necessary to understand and analyse contemporary trends in the field of nanotechnology and nanomaterials including synthesis, characterization and applications.",
+        "Learning outcomes": "A. explain the principles of nanoscience and nanotechnology. B. assess different synthetic approaches of nanomaterials. C. appraise the basics of nanomaterials characterisation. D. analyze the structure, processes, dynamics and functionality of surfaces, and how these determine chemical and physical properties. E. argue the current state of development of nanomaterials and their important role in achieving desirable functionality in disparate applications.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures and tutorials. Lectures will be designed to provide essential information and introduce students to the basic tools of analysis, including some basic practice in applying the techniques. Tutorials will be based around exercise sheets, the completion of which and their discussion in workshops will provide students with a learning opportunity designed to extend the material introduced in the lectures. The assessment consists of 2 coursework that assess different learning outcomes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE316&psl_code=SEM1"
+    }
+  ]
+}

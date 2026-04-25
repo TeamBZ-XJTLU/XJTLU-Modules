@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "Object-Oriented Programming",
+  "module_code": "DTS108TC",
+  "offerings": [
+    {
+      "heading": "Object-Oriented Programming",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DTSTC",
+        "full_name": "Object-Oriented Programming",
+        "module_code": "DTS108TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Object-Oriented Programming",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a solid understanding of object-oriented programming (OOP) principles and techniques, enabling them to design, implement, and maintain robust, secure, and maintainable software applications. By covering core OOP concepts like abstraction, polymorphism, encapsulation, and inheritance, along with practical skills such as using an integrated development environment (IDE), UML for documentation, and implementing user interfaces and file I/O, students will be prepared for real-world software development challenges. The module is foundational for further study in software engineering and system design, equipping students with essential skills for modules and professional work in fields such as software engineering, AI projects, and game development.",
+        "Learning outcomes": "A Understand and appreciate the principles of using object-oriented programming techniques for the construction of professional robust, maintainable programs deployed to meet real world goals. B Design, write, compile, test, debug and execute object-oriented programs using an integrated development environment (IDE); C Implement object-oriented programming to represent, display, and manipulate data while mitigating security risks; D Make use of the Unified Modeling Language (UML) diagrams and other tools to document and test code.",
+        "Method of teaching and learning": "The students are assisted during the practical laboratory classes by demonstrators. The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This philosophy is carried through also in terms of assessment, with a reduction in the use of exams and an increase in coursework, especially problem-based assessments that are project-focused. This module will be delivered through a combination of lectures, group discussions, case studies, hands-on practical exercises, etc. Lectures and group discussions are conducted using the Problem-Based Learning paradigm focusing on student-centred learning, where students develop critical thinking and problem-solving skills to address open-ended problems that lack a straightforward solution. This module is taught with an emphasis on student learning through practice and by projects, facilitated by a module leader, and where appropriate, industrial mentors. Students can identify particular areas of learning needs or interests according to the available project(s). They will conduct independent research to gather information and resources to better define the problem. Progress towards the learning outcomes will be facilitated and monitored, where students are guided to progressively address the given problem through tasks. Independent learning will form an important aspect of the educational activities in this module. Assessed by a project, students shall gain practical experience in undertaking independent study and research on industry-focused real-world problems. The concepts introduced during the lecture are illustrated using step-by-step analysis of example code, complete case studies and live programming tutorials. Each week the students have to solve a set of exercises during the laboratory classes and submit the completed work electronically. This module will leverage generative AI to enhance course content and teaching methods in line with the learning outcomes. By integrating advanced AI technologies, we aim to improve the efficiency of teaching and interaction, while fostering greater student autonomy and flexibility in learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS108TC&psl_code=SEM1"
+    }
+  ]
+}

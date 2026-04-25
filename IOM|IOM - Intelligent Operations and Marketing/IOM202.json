@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Digital Marketing",
+  "module_code": "IOM202",
+  "offerings": [
+    {
+      "heading": "Digital Marketing",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "IOM",
+        "full_name": "Digital Marketing",
+        "module_code": "IOM202",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Digital Marketing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Digital marketing has transformed how businesses and other organisations communicate with their audiences. This module aims to provide students with a comprehensive guide to the concepts, techniques, and best practices to support all the digital marketing processes.",
+        "Learning outcomes": "A. Demonstrate comprehension and application of the theories, principles and practices of marketing in a virtual environment. B. Plan a digital marketing strategy. C. Research methodically and effectively recent developments in the field of digital marketing, and use and present the results persuasively to make a business case for change. D. Demonstrate the practical skills (e.g. group work, oral and written communication) to facilitate interventions in decision-making situations.",
+        "Method of teaching and learning": "The key themes in the module are introduced in lectures, and followed up in seminars. These will be supported by identified chapters from texts in addition to selected readings provided with the lecture notes. Discussions on the application of these theories are followed up in the tutorials. Students are also expected to undertake follow-up through independent research that evaluates the themes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM202&psl_code=SEM2"
+    }
+  ]
+}

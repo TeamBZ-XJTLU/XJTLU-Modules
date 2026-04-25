@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Wireless systems",
+  "module_code": "CAN308",
+  "offerings": [
+    {
+      "heading": "Wireless systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Wireless systems",
+        "module_code": "CAN308",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Wireless systems",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Wireless Systems module equips students with essential skills in analyzing noise effects on radio performance, developing propagation models, and implementing mitigation techniques for wireless communication challenges. It emphasizes the trade-offs in cellular system design and evaluates multiple access technologies across generations. This module aligns with the curriculum by bridging theory and practice, preparing students for advanced studies and professional roles in the dynamic field of wireless communications.",
+        "Learning outcomes": "A. Analyze the effects of noise on radio system performance and quantify its impact using relevant metrics. B. Evaluate the characteristics of wireless propagation and develop propagation models for various environmental scenarios. C. Design and implement techniques to mitigate adverse effects of wireless propagation in communication systems. D. Assess fundamental trade-offs in cellular communication system design, and critically evaluate radio transceiver performance to predict coverage for cellular radio systems. E. Compare and contrast multiple access technologies across different cellular generations (2nd to 5th) and critically evaluate their effectiveness in mitigating signal distortions due to wireless propagation. Design and propose improvements for cellular engineering practices.",
+        "Method of teaching and learning": "Wireless Systems module employs a variety of teaching and learning methods to facilitate student engagement and mastery of key concepts. Interactive lectures will introduce fundamental principles of wireless communication, noise analysis, and propagation models, fostering a solid theoretical foundation. MATLAB programming sessions will provide hands-on experience in designing mitigation techniques and evaluating system performance. In addition, literature reading will encourage critical discussions on multiple access technologies and their effectiveness across cellular generations, promoting collaborative learning and peer feedback. Students will also participate in independent study tasks that simulate real systems, enhancing their problem-solving skills. Personalized support will be available through tutorials, where students can seek guidance on their projects and deepen their understanding of complex topics."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN308&psl_code=SEM2"
+    }
+  ]
+}

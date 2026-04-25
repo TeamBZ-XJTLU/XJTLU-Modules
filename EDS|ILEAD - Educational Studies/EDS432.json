@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Education in a Digital Society",
+  "module_code": "EDS432",
+  "offerings": [
+    {
+      "heading": "Education in a Digital Society",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Education in a Digital Society",
+        "module_code": "EDS432",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Education in a Digital Society",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module examines the sociological aspects of digital education. The module conceptualizes education as a social construct/endeavour. Students will learn how this relates to the use of digital means for educational development so as to develop more inclusive viewpoints on educational practice and distribution (e.g. open educational resources, open licensing, or digital scholarship) and its significance to the changing society. Students will look at changes in online culture and ideologies under the influence of governments, corporations and society at large, the role of data analytics and educational organisations in those developments, and the potential for digital education to help learners negotiate the emerging social and political landscape of the online world. Students will be encouraged to consider the broader social and political implications of the online environment, and how digital education can prepare us all for the ‘information society’.",
+        "Learning outcomes": "A Critically understand the distinctive social and political features of the online environment, including its historical and ideological underpinnings; B Analyse and assess the role of educational organisations in the development of the online environment; C Examine and explore of the social and political contexts and implications of digital education using data analytics D Synthesise the theories and practices on how change is negotiated in the online world and how online skills prepare us for reacting to these and/or participating in these negotiations and changes.",
+        "Method of teaching and learning": "The teaching sessions are interactive and divided into two components: lectures and seminars. The lectures will introduce the key concepts, the seminars will build on the materials and skills/technologies covered in the lectures through group discussion and course activities. One or more methods will be used in teaching and learning such as online and onsite blended learning, e-learning, flipped classroom, project-based learning with technology. Both formative assessment and summative assessment will be applied, such as oral and written feedback and peer feedback and evaluation."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS432&psl_code=SEM1"
+    }
+  ]
+}

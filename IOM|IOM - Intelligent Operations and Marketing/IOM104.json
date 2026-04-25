@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Integrated Marketing Communications",
+  "module_code": "IOM104",
+  "offerings": [
+    {
+      "heading": "Integrated Marketing Communications",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Integrated Marketing Communications",
+        "module_code": "IOM104",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Integrated Marketing Communications",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To develop student comprehension of the formulation and implementation of integrated marketing communication plans To enable students to appreciate marketing communications managerial decision making within a variety of contexts To nurture student awareness of the inter-dependence of different elements of the communications mix",
+        "Learning outcomes": "On successful completion of this module, the student will be able to: (a) Appreciate the importance of an integrated approach to the management of marketing communications (assessed through coursework and examination) (b) Understand how the communications mix can be managed to meet the needs of identified market segments, appreciating its use as both a strategic and tactical instrument in a competitive environment (assessed through coursework) (c) Demonstrate the ability to identify the practical application of a range of theoretical frameworks and concepts appropriate to marketing communications management (assessed through coursework and examination) (d) Effectively justify and communicate a range of communications initiatives designed to overcome specified marketing problems (assessed through coursework and e xamination) (e) Employ interpretive strategies to conceive of advertisements and other marketing communications in terms of their strategic rationale regarding segmentation, targeting, and positioning (assessed through coursework) (f) Demonstrate an appreciation of the complex task of communications planning and the role played by consumer research in creative advertising (assessed through examination)",
+        "Method of teaching and learning": "The module involves a range of teaching strategies including lectures, student-led seminars, case studies and guest lectures. Additional material will be in the form of web-based reading and research, selected texts, journal articles and contemporary magazine and press articles. Independent research and study will be encouraged throughout to complement group work activities. Student-led seminars will facilitate the sharing of knowledge and experiences of cohort members."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM104&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "AI and Entrepreneurial Innovation",
+  "module_code": "DTS003",
+  "offerings": [
+    {
+      "heading": "AI and Entrepreneurial Innovation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DTSTC",
+        "full_name": "AI and Entrepreneurial Innovation",
+        "module_code": "DTS003",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "AI and Entrepreneurial Innovation",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course aims to introduce fundamental AI concepts and explore key applications. Students will identify AI-driven opportunities and develop an initial product idea. The module also sought to provide a broad grasp of Syntegrative Education and how it benefits students. Under this framework, students can also explore various industries and discover their interests. This module promotes student-directed learning and facilitates the transfer from high school to international universities such as XJTLU Entrepreneur College. Additional objectives include encouraging students' curiosity and interest rather than enforcing the nuances of each discipline.",
+        "Learning outcomes": "A Understand basic AI concepts and identify opportunities in an AI domain for product development. B Demonstrate foundational awareness of Syntegrative Education by articulating key concepts of integrating diverse technologies and applying Object-based learning tools (e.g., mobile phones) and Problem-based learning methods to practical examples.",
+        "Method of teaching and learning": "The module is delivered over four days and takes place entirely at the XJTLU Entrepreneur College (XEC) in Taicang. Students who enroll in each module offered by each school will attend seminars at all the schools in a rotational manner. A \"tool\" such as a mobile phone will enable students to integrate various technologies by applying object-based learning tools (e.g., mobile phones) and problem-based learning approaches to real-world situations. This enables students to understand the application and benefits of Syntegrative Education. Real-world demonstrations of equipment, teaching facilities, simulations, visualizations, and other elements are provided. The module will take an engaging, interactive approach, with certain seminars co-taught by industry partners or guest speakers who may include activities pertinent to the module's topic. Technology will play a significant role in the module, with materials made available prior to each session and student discussion groups made digitally available following each seminar to ensure an ongoing learning experience."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS003&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Culture And Learning",
+  "module_code": "EDS407",
+  "offerings": [
+    {
+      "heading": "Culture And Learning",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Culture And Learning",
+        "module_code": "EDS407",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Culture And Learning",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "• Understand the concept of culture from a socio-cultural perspective • Articulate the relationship between learning and culture • Appreciate the relationship between culture and education development. • Provide students with the skills to critically analyze and reflect on the role culture plays in global education policy development and practice.",
+        "Learning outcomes": "A. Critically understand and analyze key influences on theoretical and practical concepts on learning B. Critically analyze the role and importance of culture in developing learning in globalized education contexts C. Reflect on theories from a socio-cultural perspective, drawing on own experiences.",
+        "Method of teaching and learning": "The teaching sessions are interactive and designed using a project-based approach where appropriate. They are divided into two components, lectures and tutorials/workshops."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS407&psl_code=SEM1"
+    }
+  ]
+}

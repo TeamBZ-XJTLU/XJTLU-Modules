@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Genome Expression and Maintenance",
+  "module_code": "BIO201",
+  "offerings": [
+    {
+      "heading": "Genome Expression and Maintenance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Genome Expression and Maintenance",
+        "module_code": "BIO201",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Genome Expression and Maintenance",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide you with an understanding of the fundamentally important processes involved in the gene expression and maintenance in eukaryotes. It also introduces you to the range of biological mechanisms that control the structure and stability of genetic material, DNA, particularly in the context of eukaryotic model systems. It builds on the principles of Molecular Biology, and Genetics, with the intention of preparing you for Honours schools.",
+        "Learning outcomes": "A. Describe the role of RNA products in humans, including their significance in disease processes, and explain the components and steps involved in transcription in humans. B. Understand techniques for observing transcription levels, transgene engineering, and cell transfection, as well as describe generalized transcription factors and comprehend DNA-protein interactions, including gel mobility shift assays. C. Explain the processing of mRNA and other RNA types in humans, and describe the process of protein synthesis, including initiation, elongation, and termination. D. Understand the regulation of gene expression during red blood cell differentiation, including its relation to thalassemia and sickle cell anemia, and explain the concept of multiple replicons, eukaryotic DNA replication steps, and Okazaki fragment maturation. E. Understand genetic recombination in eukaryotes, antibody diversity in the immune system, and diverse mechanisms for repairing DNA damage. F. Understand the structure, distribution, and regulation of genetic elements such as transposons and plasmids, including their replication, transposition, and stability, and their impact on genetic transfer and stability within microbial populations.",
+        "Method of teaching and learning": "The course content will primarily be presented through standard lectures, accompanied by appropriate lecture handouts. Additionally, students will be directed to relevant sections of specific textbooks, and if specific reviews or literature sources need to be read, copies will be made available in the library for student use. Throughout the module, periodic revision lectures and exercises (up to 3 per module) will enable students to self-assess their understanding of the course."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO201&psl_code=SEM1"
+    }
+  ]
+}

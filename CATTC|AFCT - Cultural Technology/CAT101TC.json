@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "CATTC",
+    "full_name": "Cultural Technology"
+  },
+  "full_name": "Digital Tools For XR",
+  "module_code": "CAT101TC",
+  "offerings": [
+    {
+      "heading": "Digital Tools For XR",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CATTC",
+        "full_name": "Digital Tools For XR",
+        "module_code": "CAT101TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "Digital Tools For XR",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to: • Enable students to develop an understanding of different technical aspects and use cases of XR technologies • Enable students to appropriately choose and use digital tools for XR production",
+        "Learning outcomes": "A. Demonstrate an understanding of XR technologies, and how to exploit techniques for different use cases. B. Demonstrate the capability of appropriately choosing and using tools for XR in accomplishing a practical task.",
+        "Method of teaching and learning": "The teaching sessions are divided into three components (Lectures, seminars and labs). Lectures will focus on theorical aspects of XR and tools for XR production. Seminars will allow a more interactive approach to XR technologies and tools, favouring discussions and case studies. An intensive series of practical workshops will equip the students with the technical skills and understanding of digital tools for XR. Within lab work the emphasis will be given to the study of different tools for XR, for example existing XR apps, development frameworks, web-based environments, tools for VR 360 recording, stitching and manipulation, etc. In that this is an optional module, to well utilise the university resource, the module delivery is subject to meeting a minimum number of students (10)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAT101TC&psl_code=SEM2"
+    }
+  ]
+}

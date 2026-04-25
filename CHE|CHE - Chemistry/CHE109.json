@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Introductory Inorganic Chemistry for Non-Chemists",
+  "module_code": "CHE109",
+  "offerings": [
+    {
+      "heading": "Introductory Inorganic Chemistry for Non-Chemists",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Introductory Inorganic Chemistry for Non-Chemists",
+        "module_code": "CHE109",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "Introductory Inorganic Chemistry for Non-Chemists",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to give students an understanding of the underlying principles of the chemistry of the main-group elements and to give them an appreciation of the importance of inorganic chemistry in everyday life.",
+        "Learning outcomes": "A discuss the principle of atomic and molecular electronic structure, and the three-dimensional shape of molecules B show understanding of acid-base theories and redox equilibria C discuss the chemistry of main group elements and compounds, including oxides, hydroxides, halides, and hydrides D describe the structures of simple solids E demonstrate basic knowledge of the structure and reactivity of organometallic compounds of the main group elements",
+        "Method of teaching and learning": "Lectures and tutorials"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE109&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IND",
+    "domain_code": "IND",
+    "full_name": "Industrial Design"
+  },
+  "full_name": "Design For Social Innovation",
+  "module_code": "IND403",
+  "offerings": [
+    {
+      "heading": "Design For Social Innovation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IND",
+        "full_name": "Design For Social Innovation",
+        "module_code": "IND403",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Design For Social Innovation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module addresses design principles and methodologies for preparing designers to deliver projects for Social Innovation. The topics of this module include social innovation theories, holistic design approaches, transformative value systems, and transition design mechanisms for social-economical innovation. The module will use both project-based and case-study approaches to learning. The objectives of this module are to provide students with: 1) An overview of the principles and design methodologies that can be deployed for engaging with groups and communities in the activation of participatory and collaborative design; 2) Social engagement methods to enable citizens, communities, enterprises and social actors to trigger and manage innovation processes aiming at regenerative, sustainable and collaborative systems of living and doing; 3) The application of technological, social and cultural change to enable students to position their postgraduate work in a social innovation context; 4) Experience experimental design research processes and tools for innovation that can nudge behavioural change, alternative and sustainable economic systems through innovation; 5) Design skills to think critically about the applicability, adoption, and adaptation of multidisciplinary design and technologies to create social value; 6) An interactive environment in which social and industrial issues around design for social innovation can be raised and discussed to develop a new design mindset.",
+        "Learning outcomes": "A Understand key theories and design approaches to social innovation and processes, through case studies B Apply social innovation methods and tools to answer to the needs of communities or enterprises through design briefs C Criticise & Analyse research and model social-technological change within an industry and/or organisation D Assess the current status of a product or service and propose scenarios for its contribution to social innovation",
+        "Method of teaching and learning": "This module is delivered in a combination of lectures, seminars, exercises and design briefs. Lecture sessions will cover fundamental aspects of social innovation, sustainable socio-economic collaborative systems and utopian projects towards new social futures. Seminars will provide knowledge and technical skills on areas of expertise ranging from community engagement to entrepreneurship to foster interdisciplinary approaches to social innovation. This module includes experimental design research exercises among design briefs in which students would apply the provided knowledge gained through the above learning deliveries."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IND403&psl_code=SEM1"
+    }
+  ]
+}

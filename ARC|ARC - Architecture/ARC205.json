@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "ARC",
+    "full_name": "Architecture"
+  },
+  "full_name": "Design and Building Typology",
+  "module_code": "ARC205",
+  "offerings": [
+    {
+      "heading": "Design and Building Typology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ARC",
+        "full_name": "Design and Building Typology",
+        "module_code": "ARC205",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 2",
+        "Module Title": "Design and Building Typology",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module introduces students to the concept of typology as an instrument for architectural design. It aims to further the students’ abilities to respond to site and context sensibly, to integrate technical requirements in their design proposals, and to present proposals efficiently.",
+        "Learning outcomes": "A Apply a critical and conceptual approach in response to an architectural brief. B Demonstrate careful consideration of the variables of a given site, and of typological options. C Present a coherent account of a design development process. D Show awareness of basic building regulations. E Identify appropriate structural and material options and apply them to a design proposal. F Use a variety of communication methods to present and argue architectural ideas clearly.",
+        "Method of teaching and learning": "Project work developed through group and individual tutorials and presented for public discussion. Additional tutorials by structure, building fabric environmental and acoustic experts. Architects in practice are invited to participate in the final critique of the project. The studio programme is complemented by a series of building studies lectures by the module leader in accordance with the design stages."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ARC205&psl_code=SEM1"
+    }
+  ]
+}

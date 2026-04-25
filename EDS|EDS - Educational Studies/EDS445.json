@@ -1,0 +1,80 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Conducting Qualitative Research",
+  "module_code": "EDS445",
+  "offerings": [
+    {
+      "heading": "Conducting Qualitative Research",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Conducting Qualitative Research",
+        "module_code": "EDS445",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Conducting Qualitative Research",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module is aimed at developing students’ understanding of, and abilities to apply, core methods of qualitative research, together with deepening their ability to analyse and operate within related epistemological and ontological frameworks. Students will learn to rigorously select and implement appropriate methods for qualitative data collection, data analysis techniques (including the use of software packages such as NVIVO, MAXQDA, ATLAS.ti, and relevant Artificial Intelligence-based options), interpretation of qualitative data, and how to report their findings to different audiences, including publishing in peer-reviewed journals or presenting to relevant academic and practitioner conferences in their field. Finally, this module aims to create a platform for students to reflect on the challenges and opportunities of their qualitative research experiences and share these critical reflections with peers and faculty. Building on insights acquired in EDS441 (Engaging with Educational Literature) and EDS442 (Educational Research: Theory and Practice) in Year 1 of the EdD programme, this module aims to deepen students’ ability to understand, critique, and utilise qualitative approaches across different environments, and also help students develop a wider range of skills for undertaking qualitative research and analysing its results. The critical reflections developed in this module will prepare students for further honing their skills and understandings in EDS445 (Advanced Educational Research Studies) in Year 3 of the EdD programme, developing and conducting their thesis in Year 4 of the programme, and evaluating how they will become contributors to research and scholarship in their area of educational focus.",
+        "Learning outcomes": "A. Explain the philosophical frameworks and types of qualitative research. B. Apply theory and practice in the design and preparation of a qualitative research paper. C. Justify and apply appropriate techniques for collecting, analysing, and reporting qualitative research, including evaluation of ethical implications of educational research. D. Evaluate and reflect on the challenges of conducting high-quality and ethically sound qualitative research.",
+        "Method of teaching and learning": "This module employs a variety of teaching methods, including lectures, tutorials, guest speakers, consultations, and independent learning. Online-onsite blended teaching and learning are used to enrich student learning experiences by enabling students to apply their growing research skills to their daily practice via action research or observations. Delivery strategies focus on student-centred interactive activities and, where possible, integrating technology to facilitate learning. Lectures focus on expanding students’ awareness of how their ideas fit into existing theories, and provide skills development in critically engaging with that literature to create their own frameworks, including for their thesis. Tutorials focus on activities that enable students to interrogate their ideas and practices with peers and faculty to improve their ability to reflect on their work and create improved versions of research and scholarship through a peer and expert review process. Students are guided to integrate the lectures and tutorials with real-life problems in their professional workplaces by designing action research, observational research, or participatory research using appropriate research methods. These practices build students’ skills for engaging successfully in the constant improvement process of writing their EdD thesis as well as preparing them for presenting to practitioner and research audiences and publishing both research and scholarship."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS445&psl_code=ACYR"
+    },
+    {
+      "heading": "Conducting Qualitative Research",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Conducting Qualitative Research",
+        "module_code": "EDS445",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Conducting Qualitative Research",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module is aimed at developing students’ understanding of, and abilities to apply, core methods of qualitative research, together with deepening their ability to analyse and operate within related epistemological and ontological frameworks. Students will learn to rigorously select and implement appropriate methods for qualitative data collection, data analysis techniques (including the use of software packages such as NVIVO, MAXQDA, ATLAS.ti, and relevant Artificial Intelligence-based options), interpretation of qualitative data, and how to report their findings to different audiences, including publishing in peer-reviewed journals or presenting to relevant academic and practitioner conferences in their field. Finally, this module aims to create a platform for students to reflect on the challenges and opportunities of their qualitative research experiences and share these critical reflections with peers and faculty. Building on insights acquired in EDS441 (Engaging with Educational Literature) and EDS442 (Educational Research: Theory and Practice) in Year 1 of the EdD programme, this module aims to deepen students’ ability to understand, critique, and utilise qualitative approaches across different environments, and also help students develop a wider range of skills for undertaking qualitative research and analysing its results. The critical reflections developed in this module will prepare students for further honing their skills and understandings in EDS445 (Advanced Educational Research Studies) in Year 3 of the EdD programme, developing and conducting their thesis in Year 4 of the programme, and evaluating how they will become contributors to research and scholarship in their area of educational focus.",
+        "Learning outcomes": "A. Explain the philosophical frameworks and types of qualitative research. B. Apply theory and practice in the design and preparation of a qualitative research paper. C. Justify and apply appropriate techniques for collecting, analysing, and reporting qualitative research, including evaluation of ethical implications of educational research. D. Evaluate and reflect on the challenges of conducting high-quality and ethically sound qualitative research.",
+        "Method of teaching and learning": "This module employs a variety of teaching methods, including lectures, tutorials, guest speakers, consultations, and independent learning. Online-onsite blended teaching and learning are used to enrich student learning experiences by enabling students to apply their growing research skills to their daily practice via action research or observations. Delivery strategies focus on student-centred interactive activities and, where possible, integrating technology to facilitate learning. Lectures focus on expanding students’ awareness of how their ideas fit into existing theories, and provide skills development in critically engaging with that literature to create their own frameworks, including for their thesis. Tutorials focus on activities that enable students to interrogate their ideas and practices with peers and faculty to improve their ability to reflect on their work and create improved versions of research and scholarship through a peer and expert review process. Students are guided to integrate the lectures and tutorials with real-life problems in their professional workplaces by designing action research, observational research, or participatory research using appropriate research methods. These practices build students’ skills for engaging successfully in the constant improvement process of writing their EdD thesis as well as preparing them for presenting to practitioner and research audiences and publishing both research and scholarship."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS445&psl_code=SEM1"
+    },
+    {
+      "heading": "Conducting Qualitative Research",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Conducting Qualitative Research",
+        "module_code": "EDS445",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Conducting Qualitative Research",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module is aimed at developing students’ understanding of, and abilities to apply, core methods of qualitative research, together with deepening their ability to analyse and operate within related epistemological and ontological frameworks. Students will learn to rigorously select and implement appropriate methods for qualitative data collection, data analysis techniques (including the use of software packages such as NVIVO, MAXQDA, ATLAS.ti, and relevant Artificial Intelligence-based options), interpretation of qualitative data, and how to report their findings to different audiences, including publishing in peer-reviewed journals or presenting to relevant academic and practitioner conferences in their field. Finally, this module aims to create a platform for students to reflect on the challenges and opportunities of their qualitative research experiences and share these critical reflections with peers and faculty. Building on insights acquired in EDS441 (Engaging with Educational Literature) and EDS442 (Educational Research: Theory and Practice) in Year 1 of the EdD programme, this module aims to deepen students’ ability to understand, critique, and utilise qualitative approaches across different environments, and also help students develop a wider range of skills for undertaking qualitative research and analysing its results. The critical reflections developed in this module will prepare students for further honing their skills and understandings in EDS445 (Advanced Educational Research Studies) in Year 3 of the EdD programme, developing and conducting their thesis in Year 4 of the programme, and evaluating how they will become contributors to research and scholarship in their area of educational focus.",
+        "Learning outcomes": "A. Explain the philosophical frameworks and types of qualitative research. B. Apply theory and practice in the design and preparation of a qualitative research paper. C. Justify and apply appropriate techniques for collecting, analysing, and reporting qualitative research, including evaluation of ethical implications of educational research. D. Evaluate and reflect on the challenges of conducting high-quality and ethically sound qualitative research.",
+        "Method of teaching and learning": "This module employs a variety of teaching methods, including lectures, tutorials, guest speakers, consultations, and independent learning. Online-onsite blended teaching and learning are used to enrich student learning experiences by enabling students to apply their growing research skills to their daily practice via action research or observations. Delivery strategies focus on student-centred interactive activities and, where possible, integrating technology to facilitate learning. Lectures focus on expanding students’ awareness of how their ideas fit into existing theories, and provide skills development in critically engaging with that literature to create their own frameworks, including for their thesis. Tutorials focus on activities that enable students to interrogate their ideas and practices with peers and faculty to improve their ability to reflect on their work and create improved versions of research and scholarship through a peer and expert review process. Students are guided to integrate the lectures and tutorials with real-life problems in their professional workplaces by designing action research, observational research, or participatory research using appropriate research methods. These practices build students’ skills for engaging successfully in the constant improvement process of writing their EdD thesis as well as preparing them for presenting to practitioner and research audiences and publishing both research and scholarship."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS445&psl_code=SEM2"
+    }
+  ]
+}

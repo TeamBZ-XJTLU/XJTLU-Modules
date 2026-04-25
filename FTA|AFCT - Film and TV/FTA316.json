@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Social Media And Video",
+  "module_code": "FTA316",
+  "offerings": [
+    {
+      "heading": "Social Media And Video",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Social Media And Video",
+        "module_code": "FTA316",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Social Media And Video",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to introduce students to theories, debates, and concepts of social media, influencers, and short form video social media applications such as TikTok, Douyin, and Instagram. The module builds on the module China and the Digital Revolution to examine the revolutionary social media short form video and utilizes the production skills learnt across the programme.",
+        "Learning outcomes": "A Demonstrate the critical understanding of the key debates, concepts and theories of short form video social media applications. B Develop arguments by drawing on pertinent evidence and engaging with academic literature. C Deliver a professional level of technical competence in the completion of a project",
+        "Method of teaching and learning": "The teaching sessions are divided into three components (lectures, seminars, and tutorials). Lectures will engage students with syllabus topics. Seminars will be student-led and peer-to-peer learning based. Tutorials will be for presenting and discussing the assessments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA316&psl_code=SEM1"
+    }
+  ]
+}

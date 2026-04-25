@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Biotechnological Pharmaceutics",
+  "module_code": "APH303",
+  "offerings": [
+    {
+      "heading": "Biotechnological Pharmaceutics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Biotechnological Pharmaceutics",
+        "module_code": "APH303",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Biotechnological Pharmaceutics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module covers key aspects of biotechnology as it relates to the development of medicines for human use. The aims of this module is to teach the students about classification and characteristics of biotechnology drugs, familiar with the tasks of biotechnology pharmaceuticals and the application of biotechnology drugs in prevention, diagnosis and treatment of diseases. Discussion will also cover regulatory issues, including biosimilars and biobetters.",
+        "Learning outcomes": "A Explain the basics of molecular biology and its application to pharmaceutical biotechnology B Review the techniques for processing and purification of biopharmaceuticals C Master the basic methods, manufacturing processes and control principles of preparation and production of biotechnology drug D Understand the quality control of biotechnology drugs E Demonstrate a critical awareness and understanding of new developments in biotechnology pharmaceuticals",
+        "Method of teaching and learning": "This course will be taught by a series of lectures. Students will learn how to apply their knowledge by completing a series of related tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH303&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEH",
+    "domain_code": "ENT",
+    "full_name": "Entrepreneurship"
+  },
+  "full_name": "Venture Funding & Growth Capital",
+  "module_code": "ENT420TC",
+  "offerings": [
+    {
+      "heading": "Venture Funding & Growth Capital",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENT",
+        "full_name": "Venture Funding & Growth Capital",
+        "module_code": "ENT420TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Venture Funding & Growth Capital",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides comprehensive baseline knowledge of venture capital in all major forms and functions. That includes different types of funds, stages of investments, due diligence, valuation, deal flows and structuring, term-sheets, fund formations, portfolio management, and governance. Students will explore the impact and development of technologies that have both historically and by current trends been point of influence in this sector, along with the advent of specialisation, sectoral focus, and syndication among different players in the venture capital and private equity space. Learnings from this module can be applied for wide ranging interest, whether as aspiring entrepreneurs, venture capitalists, teams of corporate or institutional investors, fund managers, large number of startup incubators / accelerators, and many connected government initiatives, that have all become part of mainstream activity worldwide. The VC space evolved through few cycles of highs and lows leading to current stage of maturity that is vital for students to learn and demonstrate via syntegrative project-based structure of curriculum and assessments. The module will discuss developments in the China ecosystem as well as global markets, to gain well-rounded sense of career considerations ahead.",
+        "Learning outcomes": "A Understand the major forms and functions of venture capital amid present trends B Evaluate funding / investment opportunities, run due diligence, role of ecosystem C Analyze investment strategies from an investor's perspective, focusing on sectoral trends, syndication practices, portfolio diversification, and fund growth D Apply entrepreneurial perspectives to negotiate term sheets, structure deals, and design strategic funding approaches E Demonstrate functional grasp of investment cycles, funding allocation, governance",
+        "Method of teaching and learning": "This module is led mainly by practice-based teaching with the aim for students to ‘learn-by-doing’. Therefore, highly applied knowledge that cuts across the different facets of entrepreneurship, business, and technology - remains at the core of curriculum and assessment for this module, to achieve syntegrative learning, which students can apply towards their professional and personal interest in variety of fields, and career path ahead. Ultimately this module should develop a future workforce, far more prepared to solve challenges and opportunities, for business and society, in this case using current and well-rounded understanding of the venture capital sector, and connected developments. The module will use actual deal-flows to illustrate topics and guide classroom learning, along with skill-specific workshops, plus industry partner project to make learning outcomes more real. Students will participate in group activity plus individually assigned work on-campus or field-study, to solve given task in way that develops their knowledge as well as ability to demonstrate practical learning. Furthermore, the module would also interface with X3 CoVentures, the XEC Innovation Factory, and other such industry associations that provide students additional exposure to ecosystem."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENT420TC&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MFETC",
+    "full_name": "Manufacturing Engineering"
+  },
+  "full_name": "Big Data Analysis for Manufacturing",
+  "module_code": "MFE411TC",
+  "offerings": [
+    {
+      "heading": "Big Data Analysis for Manufacturing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MFETC",
+        "full_name": "Big Data Analysis for Manufacturing",
+        "module_code": "MFE411TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Big Data Analysis for Manufacturing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to address the challenges and opportunities of data mining and big data analytics in the context of engineering and intelligent manufacturing. It will introduce fundamental concepts, algorithms, and methodologies of big data analytics and data mining, with a strong emphasis on applications in industrial and manufacturing systems. Students will learn about a range of technologies, tools, and platforms used to design, implement, and deploy big data solutions to tackle real-world problems in modern manufacturing environments. The module will cover techniques and algorithms for effectively processing large-scale structured and unstructured data without compromising performance, reliability, security, or privacy. Special attention will be given to data streams from industrial Internet of Things (IoT) devices, sensors, and cyber-physical systems. Students will explore how to identify, collect, and preprocess useful datasets, followed by the application of advanced analytics and machine learning techniques to enable data-driven decision-making in areas such as production optimization, predictive maintenance, quality monitoring, and supply chain management. Throughout the module, heterogeneous datasets will be introduced, including industrial sensor data, machine logs, quality control records, and other publicly available numerical, textual, audiovisual, and social media datasets, to illustrate practical applications of big data mining in manufacturing.",
+        "Learning outcomes": "A Critically explain general concepts, processes, algorithms and methodologies in data mining and big data analytics. B Determine appropriate platforms, architectures, algorithms, and techniques to design and implement data-driven solutions to real-world manufacturing and engineering problems. C Develop practical skills in using advanced data mining and analytics tools for diverse tasks, including data exploration, machine learning, visualization, and predictive modeling in industrial contexts. D Elaborate on the awareness of privacy, security, reliability, and ethical issues in managing and deploying big data solutions in industrial environments. E Critically identify challenges and opportunities in intelligent manufacturing and recommend appropriate big data solutions to improve efficiency, quality, and decision-making.",
+        "Method of teaching and learning": "The module adopts the philosophy of Syntegrative Education, delivered through an intensive block-teaching format that enables meaningful engagement with industry partners. Assessment is centred on coursework and project-based problem-solving, with reduced reliance on examinations. This approach not only reflects real-world practice but also provides students with dedicated time during the semester to focus on assessments and industry-informed projects. Teaching will combine lectures, labs, seminars, and tutorials. Lectures introduce key concepts and methods; labs and tutorials provide hands-on practice with tools and techniques commonly used in data mining and big data analytics; seminars incorporate problem-based learning and case studies, many drawn from engineering and manufacturing contexts. This integrated approach ensures students develop both technical competence and transferable skills, equipping them to confidently undertake individual projects in big data analytics and present their outcomes in both written and oral formats."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MFE411TC&psl_code=SEM2"
+    }
+  ]
+}

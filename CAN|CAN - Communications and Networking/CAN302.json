@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Technologies for E-Commerce",
+  "module_code": "CAN302",
+  "offerings": [
+    {
+      "heading": "Technologies for E-Commerce",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Technologies for E-Commerce",
+        "module_code": "CAN302",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Technologies for E-Commerce",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a comprehensive understanding of the technological foundations and socio-environmental context of e-commerce systems. It covers the design, implementation, and evaluation of e-commerce solutions using modern web technologies, while also addressing critical issues such as security, privacy, ethics, and digital governance. The module fits within the Digital Media Technology, Information and Computing Science, and Information Management and Information Systems programmes by equipping students with the practical skills and critical awareness needed to develop secure, ethical, and effective e-commerce systems in real-world business environments.",
+        "Learning outcomes": "A. Design and implement e-commerce solutions using basic web technologies. B. Evaluate traditional e-commerce technology, advanced web technologies and marketing based on real-world business cases. C. Analyze and address security vulnerabilities in e-commerce transactions by applying industry-standard security measures and protocols. D. Examine and integrate key legal, social, and ethical considerations into the design and operation of e-commerce systems, ensuring compliance and socially responsible practices.",
+        "Method of teaching and learning": "This module adopts a structured and progressive teaching approach that integrates lectures with labs to support student learning. Lectures provide the theoretical foundation and introduce core concepts, technologies, and frameworks relevant to e-commerce systems. Lab sessions offer hands-on opportunities to apply these concepts through practical exercises and activities, enabling students to strengthen their technical and problem-solving skills. Outside scheduled sessions, students are encouraged to undertake independent study and practice, including background reading and code implementation, to consolidate their understanding and prepare for assessments. Regular formative feedback and instructor guidance throughout the module will support student learning and progression."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN302&psl_code=SEM2"
+    }
+  ]
+}

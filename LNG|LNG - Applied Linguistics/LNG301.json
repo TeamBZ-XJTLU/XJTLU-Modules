@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Stylistics",
+  "module_code": "LNG301",
+  "offerings": [
+    {
+      "heading": "Stylistics",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "LNG",
+        "full_name": "Stylistics",
+        "module_code": "LNG301",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Stylistics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "• To introduce students to three major perspectives to text analysis: Clause relations, Systemic Functional Grammar, Genre Analysis • To introduce analytical methods associated with these three perspectives • To provide practice in clause, text, and genre analysis",
+        "Learning outcomes": "At the conclusion of this module, students should: A. Demonstrate an understanding of major perspectives to text analysis: Clause relations, Systemic Functional Grammar, Genre Analysis B. Be able to combine and draw parallels between the perspectives to text analysis presented in the module C. be able to discuss text organization and their main forms of realization in text as clause relations D. Show an understanding of how clauses are analyzed in Systemic Functional Grammar E. be able to apply the concepts of genre and genre analysis to the classification and analysis of text exemplars",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (Lectures and Tutorials/workshops). Lectures Tutorials/ workshops"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG301&psl_code=SEM1"
+    }
+  ]
+}

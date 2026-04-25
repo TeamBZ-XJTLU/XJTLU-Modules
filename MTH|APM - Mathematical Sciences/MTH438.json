@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "APM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Corporate Finance for Insurance",
+  "module_code": "MTH438",
+  "offerings": [
+    {
+      "heading": "Corporate Finance for Insurance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Corporate Finance for Insurance",
+        "module_code": "MTH438",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Corporate Finance for Insurance",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is concerned with financial management and accounting. It stresses the modern fundamentals of corporate financial decision making with special reference to investment, financing and dividend distribution in the insurance market. While building upon knowledge in accounting, economics and quantitative analysis, the course develops distinctive conceptual frameworks and specialised tools for solving real world financial problems at both the individual and corporate level. The course is a blend of theory and practice. While diligent practice will make you competent in financial techniques, a good grasp of theory will help students to think systematically about ways to solve a problem for which no existing technique is suitable or available.",
+        "Learning outcomes": "A. Illustrate the management and structure of companies in insurance and finance industry. B. Classify the accounts and financial statements of companies, financial institutions and insurance companies. C. Suggest appropriate financing methods for different types of companies. D. Evaluate and make decisions on investment projects. E. Critically apply appropriate techniques to assess investment and corporate-restructuring opportunities, taking into consideration factors affecting investment and corporate-restructuring decisions of a company. F. Analyse and provide solutions to practical corporate finance problems in the insurance industry.",
+        "Method of teaching and learning": "This module is delivered through formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH438&psl_code=SEM2"
+    }
+  ]
+}

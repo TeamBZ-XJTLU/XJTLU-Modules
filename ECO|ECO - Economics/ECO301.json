@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Financial Econometrics",
+  "module_code": "ECO301",
+  "offerings": [
+    {
+      "heading": "Financial Econometrics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Financial Econometrics",
+        "module_code": "ECO301",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Financial Econometrics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module equips students with the theoretical foundations and practical skills of financial data analysis. Students will gain expertise in applying econometric models to solve real-world problems in the financial realm. The curriculum emphasizes the implementation of relevant time series methods and the critical evaluation of empirical findings.",
+        "Learning outcomes": "A. Grasping the theoretical foundations of financial econometrics B. Applying appropriate econometric methodologies to analyze financial data C. Utilizing econometric techniques to tackle real-world problems in the financial realm D. Developing proficiency in utilizing econometric software for empirical analysis",
+        "Method of teaching and learning": "This module will be delivered through lectures, which will equip students with a solid theoretical foundation in financial econometrics, and tutorials, in which students will gain practical experience in conducting empirical analyses."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO301&psl_code=SEM1"
+    }
+  ]
+}

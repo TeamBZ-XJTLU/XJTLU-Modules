@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Advanced Chemistry for Pharmacy",
+  "module_code": "APH224",
+  "offerings": [
+    {
+      "heading": "Advanced Chemistry for Pharmacy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Advanced Chemistry for Pharmacy",
+        "module_code": "APH224",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Advanced Chemistry for Pharmacy",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to deepen students' understanding of advanced chemical principles and their applications in the pharmaceutical sciences. It focuses on applying chemistry to real-world problems, integrating interdisciplinary approaches with biology and pharmacology. By developing practical laboratory skills, critical thinking, and problem-solving abilities, the module prepares students for professional roles in pharmacy and pharmaceutical research. It serves as a core component of the pharmacy curriculum, enhancing other subjects such as organic chemistry, pharmacology and biochemistry, and aligning with industry trends in drug discovery and formulation development. This module not only equips students with essential chemical knowledge but also supports their readiness for further study in pharmacy or related fields, ultimately ensuring they are well-prepared for the challenges of the pharmaceutical industry and healthcare.",
+        "Learning outcomes": "A. Demonstrate a comprehensive understanding of advanced chemical principles and their relevance to pharmaceutical sciences, applying these concepts to real-world scenarios. B. Integrate knowledge from chemistry, biology, and pharmacology to assess drug mechanisms and interactions within biological systems. C. Employ critical thinking and problem-solving skills to address complex pharmaceutical challenges, including drug development and regulatory considerations. D. Effectively communicate scientific information and findings related to advanced chemistry to various audiences, including peers and professionals in the field. E. Critically evaluate and interpret chemical data from experimental results, drawing conclusions that inform pharmaceutical applications and practices. F. Execute advanced laboratory techniques and methodologies for the synthesis, characterization, and analysis of pharmaceutical compounds.",
+        "Method of teaching and learning": "The module contains lectures, tutorials, laboratory practice. Timely, relevant and specific, constructive and actionable feedback will be provided to students in-class, on-paper and/or in-person on for each assignment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH224&psl_code=SEM1"
+    }
+  ]
+}

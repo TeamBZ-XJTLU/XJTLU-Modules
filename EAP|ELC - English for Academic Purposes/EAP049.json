@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ELC",
+    "domain_code": "EAP",
+    "full_name": "English for Academic Purposes"
+  },
+  "full_name": "Essential Skills for Academic Argument and Debate",
+  "module_code": "EAP049",
+  "offerings": [
+    {
+      "heading": "Essential Skills for Academic Argument and Debate",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EAP",
+        "full_name": "Essential Skills for Academic Argument and Debate",
+        "module_code": "EAP049",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Essential Skills for Academic Argument and Debate",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to further develop students’ English language and academic skills, with an emphasis on evaluating source material and arguments, and providing written and oral responses to these arguments. A key focus of the module is to teach and develop students’ key academic skills of argumentation and seminar interaction. This optional module is primarily designed for students progressing from EAP048.",
+        "Learning outcomes": "A. Demonstrate a range of academic reading and writing skills in order to produce well-structured and convincing written tasks. B. Demonstrate a range of communication skills in an academic context including reception, production, and interaction during spoken tasks. C. Demonstrate comprehension of logic and criticality taught in the course",
+        "Method of teaching and learning": "Students will have four hours of classroom contact time (seminars) and approximately 8 hours of self-study per week. The seminars will be conducted using various EAP teaching approaches and methodologies that encourage communication, collaboration, and autonomous learning. All relevant EAP skills will be taught on the module, including sufficient linguistic input to maintain and/or increase students’ CEFR B2+ level. Students will also be given guidance on, and opportunities to, practice the various skills mentioned in the learning outcomes. The self-study activities will be extensions and/or consolidation of work carried out in the seminars. No more than two classes per semester (four hours) will be replaced with one-on-one or group tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EAP049&psl_code=SEM2"
+    }
+  ]
+}

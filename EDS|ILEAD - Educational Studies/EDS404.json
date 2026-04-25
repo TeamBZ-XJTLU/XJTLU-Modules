@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "The School of Tomorrow: Managing Change in Global Education",
+  "module_code": "EDS404",
+  "offerings": [
+    {
+      "heading": "The School of Tomorrow: Managing Change in Global Education",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "The School of Tomorrow: Managing Change in Global Education",
+        "module_code": "EDS404",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "The School of Tomorrow: Managing Change in Global Education",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are to: • Introduce students to the challenges, debates and discussions that are taking place concerning the future of higher education, and by default the future of global higher education. • Provide students with examples and case studies to enable them to assess issues including: how global higher education leaders need to critically evaluate their strategies; how these leaders can meet the future challenges; and how they can ensure that their individual institutions continue to be relevant.",
+        "Learning outcomes": "A. Analyze and explain the challenges facing global education in the 21st century B. Demonstrate critical awareness of approaches to managing change C. Examine the complex relationship between globalization, education and Industry, and the convergence and divergence of this relationship across states D. Critically assess future models for international education.",
+        "Method of teaching and learning": "The teaching sessions are interactive and divided into three components: lectures, tutorials/workshops and a fieldtrip. The tutorials/workshops will build on the material covered in the lectures. The fieldtrip will be a visit to an innovative educational institution or site within China or the region. Case studies using a project-based approach will be used where appropriate throughout the teaching."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS404&psl_code=SEM2"
+    }
+  ]
+}

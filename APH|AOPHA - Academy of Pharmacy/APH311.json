@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Pharmaceutical Equipment and Engineering Design",
+  "module_code": "APH311",
+  "offerings": [
+    {
+      "heading": "Pharmaceutical Equipment and Engineering Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Pharmaceutical Equipment and Engineering Design",
+        "module_code": "APH311",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Pharmaceutical Equipment and Engineering Design",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide an understanding of the key equipment and unit operations essential to pharmaceutical manufacturing, which covers the design and application of the equipment and units used in bioreactors, sterilization techniques, extraction technologies and purification operations, as well as the associated topics, such as process engineering, automation, and quality by design, etc. This module also equips the students with basic skills of engineering drawing.",
+        "Learning outcomes": "A Understand industry biotechnology unit operations such as fermentation, cell culture, bioreactor design, production and purification process development, scale-up, and manufacturing. B Demonstrate a good understanding of bioproduction process design, optimization and process control fundamentals when applied to bacterial fermentation in bioreactors. C. Acquire knowledge of upstream bioprocessing equipment, including sterilization systems, batch, fed-batch, and continuous bioreactors in pharmaceutical manufacturing. D. Acquire knowledge of downstream equipment for extraction, separation, and purification processes, including extraction tanks, centrifuges, filters, and ion exchange fixed beds, to optimize pharmaceutical product recovery. E Demonstrate the ability to work as part of a design team for the development of pharmaceutical production process.",
+        "Method of teaching and learning": "The module will be delivered through standard lectures and dry lab sessions, which will be accompanied by relevant lecture handouts. Students will also be guided to sections of specific textbooks, and if reading of specific reviews or literature sources is required, then copies of these will be made available in the library for use by the students. At intervals during the module, tutorials will be held for the students to deeply understand the principle of this module. Students will also be given guidance and opportunities to practice the various skills mentioned in the specifications. Self-study activities will be extensions or consolidations of work carried out in the lecture, dry lab sessions, and tutorial. Assessment components of this module will include: 1) questions or tests in lectures or tutorials; 2) coursework to review the topics; 3) AutoCAD drawing; 4) Essay to comprehensively apply the knowledge. The feedback will help improve the teaching quality and ensure the quality of summative assessment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH311&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "The Student Experience In Global Education",
+  "module_code": "EDS410",
+  "offerings": [
+    {
+      "heading": "The Student Experience In Global Education",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "The Student Experience In Global Education",
+        "module_code": "EDS410",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "The Student Experience In Global Education",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are to: • Develop understanding of the impact that globalization has on the student experience • Highlight the complexity of managing the student experience in the international university • Analyze approaches to internationalization and the need for comprehensive approaches to the student experience",
+        "Learning outcomes": "A. Critically assess the international student experience, identifying key issues in the student journey B. Evaluate the impact that the curriculum has on the international student experience C. Understand the complexities of managing expectations of students and staff in international education D. Critically assess education policy in relation to international student experiences",
+        "Method of teaching and learning": "The teaching sessions are interactive and divided into two components: lectures and tutorials/workshops. The tutorials/workshops will build on the material covered in the lectures. In EDS410, we adopt “E-portfolio”, an innovative form as the assessment for the module. This assessment will offer a multitude of advantages that enhance both students’ learning experience and the demonstration of critical thinking, analytical and digital skills. An e-portfolio will allow for a dynamic presentation of student learning journey, enabling them to incorporate various types of documents, which can richly showcase their understanding and reflections on global education. This flexibility also supports diverse learning styles and creative expression, making their learning process more engaging and personalized. Additionally, an e-portfolio facilitates a reflective learning process, encouraging students to think critically about their experiences and learning outcomes, leading to deeper understanding and self-awareness. It also serves as a powerful tool for personal branding, allowing students to curate a professional analytical and digital presence that showcases their skills and achievements to potential employers or educational institutions. By engaging with this assessment form, students will not only demonstrate mastery of the module's content but also acquire valuable digital literacy skills that are increasingly important in today’s global and digitalized world. The three tasks within this e-portfolio assessment are intricately linked to providing a comprehensive evaluation of engagement with global education experiences. The task 1 asks to prepare a proposal for a project-based case study of student experiences. The task 2 expands on this by asking students to create a shared experience webpage that reflects on their academic achievements and experiences during their master's program, showcasing their ability to document and critically analyze their learning journey. Finally, the task 3 involves writing a complete project-based case study of real student experiences in global education. This sequence encourages a deep engagement with the material, fostering a reflective and analytical approach to understanding the impact of global education experiences on student development as well as suggesting a stage-by-stage development of meaningful evidence-based projects with a possibility of publishing."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS410&psl_code=SEM2"
+    }
+  ]
+}

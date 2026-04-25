@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "China in the World",
+  "module_code": "INS404",
+  "offerings": [
+    {
+      "heading": "China in the World",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "China in the World",
+        "module_code": "INS404",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "China in the World",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module examines the current position of China in the international arena. It focuses on a variety of key aspects related to China’s growth and development, China’s foreign policy and China’s new role in multilateral organisations. The module explores elements of domestic politics and Chinese society which are relevant for understanding Beijing’s and other actors’ foreign policy and international initiatives. Through a critical understanding of analytical and interpretative research tools adopted from a different range of disciplines, this module will provide students with the skills of interpreting Chinese foreign policy actions and agenda, and understanding China’s evolving position in the world.",
+        "Learning outcomes": "A Summarise and interpret the main drivers and dimensions of China’s global engagement since 1978 to date. B Explain the factors affecting China’s foreign policy in the contemporary era. C Summarise and critically reflect on the key debates in the academic literature on China’s foreign policy and China’s new position in the world. D Apply international relations and social sciences theories to critically evaluate China’s foreign policy and international initiatives. E Collect, organize and evaluate pertinent data and information from a variety of primary and secondary sources. F Demonstrate high level of communication skills.",
+        "Method of teaching and learning": "The module will be informed by interactive and reflective teaching methods. It will consist of seminars that include mini-lectures and independent study and research. In the seminars, students will be able to conduct in-depth discussions of weekly topics, and also present their analysis of a specific topic from the syllabus. The essay will hone students’ analytical and writing abilities."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS404&psl_code=SEM2"
+    }
+  ]
+}

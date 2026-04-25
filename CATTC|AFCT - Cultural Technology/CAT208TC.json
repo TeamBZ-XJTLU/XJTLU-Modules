@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "CATTC",
+    "full_name": "Cultural Technology"
+  },
+  "full_name": "Advanced Game Audio and Immersive Soundscape",
+  "module_code": "CAT208TC",
+  "offerings": [
+    {
+      "heading": "Advanced Game Audio and Immersive Soundscape",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CATTC",
+        "full_name": "Advanced Game Audio and Immersive Soundscape",
+        "module_code": "CAT208TC",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Advanced Game Audio and Immersive Soundscape",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module explores the process of sound design in multimedia, focusing on the game and film industries. Through the analysis of commercial projects, students will develop sound design techniques, engage in hands-on practice with Wwise, and work on personal projects. The course integrates critical and practical aspects of audio production, emphasizing its role in both artistic and technological practices.",
+        "Learning outcomes": "A Creatively design a soundscape project based on practical examples. B Demonstrate understanding of the conventions and practical techniques of audio sound recording for arts technology production. C Demonstrate understanding of principles and practices of working with hardware and software in the production of immersive interactive sound design. D Undertake a sound design within an arts technology practical project.",
+        "Method of teaching and learning": "The teaching method are categorized into lectures, tutorials, and practical sessions. A series of lectures will equip students with knowledge and understanding of immersive sound design techniques and the development pipeline of interactive audio systems for various media. Tutorial and practical sessions will concentrate on developing audio content for an arts technology project."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAT208TC&psl_code=ACYR"
+    }
+  ]
+}

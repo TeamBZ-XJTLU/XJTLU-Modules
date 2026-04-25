@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MAT",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Partial Differential Equations",
+  "module_code": "MTH210",
+  "offerings": [
+    {
+      "heading": "Partial Differential Equations",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Partial Differential Equations",
+        "module_code": "MTH210",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Partial Differential Equations",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To familiarize students with basic properties of partial differential equations of the first and second order. To illustrate the breadth of applications of PDEs and fundamental importance of related concepts.",
+        "Learning outcomes": "A. Use elementary techniques for the solution of certain first order PDEs. B. Classify second order PDEs. C. Solve canonical linear PDEs of first and second order in one dimension. D. Solve elementary boundary and initial value problems.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH210&psl_code=SEM2"
+    }
+  ]
+}

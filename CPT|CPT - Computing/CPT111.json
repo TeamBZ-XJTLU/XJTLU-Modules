@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Java Programming",
+  "module_code": "CPT111",
+  "offerings": [
+    {
+      "heading": "Java Programming",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Java Programming",
+        "module_code": "CPT111",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Java Programming",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a comprehensive introduction to problem-solving, algorithm design, and software implementation using a modern, high-level, object-oriented programming language. Students will gain extensive practical experience by designing, writing, testing, and debugging programs in Java. This hands-on work will be conducted using a professional Integrated Development Environment (IDE), familiarising students with standard industry tools. A central goal is to introduce the core principles of object-oriented programming, enabling students to represent and manipulate complex data as objects and build reliable, robust, and maintainable software. As a foundational module, it provides the essential programming competency and conceptual (OOP) framework required across the BEng Computer Science and Technology, BEng Digital Media Technology, and BSc Information and Computing Science programmes. The skills acquired here are a prerequisite for progression to more advanced modules in areas such as data structures, software engineering, and application development. .",
+        "Learning outcomes": "A. Design, implement, test, and debug object-oriented programs in Java that solve defined problems by correctly applying core language features, including data types, control flow, methods, arrays, and basic collections within an Integrated Development Environment (IDE) and AI-enhanced tools. B. Apply key object-oriented design principles to model real-world problems, creating software solutions that are robust, maintainable, and clearly documented using standard conventions. C. Collaborate effectively as a member of a programming team, contributing to the design, implementation, and management of a shared software project. D. Explain the fundamental principles of object-oriented programming (including encapsulation, inheritance, polymorphism, and abstraction) and articulate how these principles contribute to creating modular, reusable, and maintainable code. E. Discuss the key legal, social, ethical, diversity, and commercial issues inherent in software development, including considerations for intellectual property, data security, professional conduct, and ethical issues in AI.",
+        "Method of teaching and learning": "Students will be expected to attend two hours of formal lectures as well as to participate in two hours of supervised practical sessions in a computer lab in a typical week. Lectures will introduce students to the academic content and practical skills which are the subject of the module, while practical sessions will allow students to practice those skills. In addition, students will be expected to devote time to solve continuous assessment tasks, and also engage in private study. Private study will provide time for reflection and consideration of lecture material and background reading. Continuous assessment will be used to test to what extent practical skills have been learnt—in particular, assessment tasks will be solved individually and each solution comprises the resolution, using sound software engineering techniques, of the given problems expressed in terms of a requirements statement."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT111&psl_code=SEM1"
+    }
+  ]
+}

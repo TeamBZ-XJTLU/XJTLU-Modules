@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Achievement, Motivation, And Support",
+  "module_code": "EDS453",
+  "offerings": [
+    {
+      "heading": "Achievement, Motivation, And Support",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Achievement, Motivation, And Support",
+        "module_code": "EDS453",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Achievement, Motivation, And Support",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will provide an in-depth look at achievement motivation in educational settings. It will introduce major theories of achievement motivation (e.g., expectancy-value theory, attribution theory, self-determination theory), the development of achievement motivation, methods for assessing student motivation, and various factors at the individual, social, and cultural level that may influence achievement motivation. Students will also learn about strategies to foster adaptive forms of achievement motivation.",
+        "Learning outcomes": "A Demonstrate knowledge in major theories of achievement motivation B Understand internal and external factors associated with achievement motivation C Critically analyze how ways of teaching and learning practices may facilitate or impede optimal student motivation in educational contexts D Apply motivation principles to classroom contexts and other relevant contexts",
+        "Method of teaching and learning": "The teaching sessions include both lectures and tutorials/workshops which work together to engage students with key conceptual, theoretical, and methodological insights, as well as dedicated opportunities for collaborative and individual practice, critical reflection, and iterative development of achievement motivation projects."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS453&psl_code=SEM1"
+    }
+  ]
+}

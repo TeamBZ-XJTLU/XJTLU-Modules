@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Teaching, Learning And Assessment",
+  "module_code": "EDS428",
+  "offerings": [
+    {
+      "heading": "Teaching, Learning And Assessment",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Teaching, Learning And Assessment",
+        "module_code": "EDS428",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Teaching, Learning And Assessment",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with core concepts and ideas about teaching and learning and equip students with the ability to support the learning of individuals from diverse backgrounds. Students, with our without prior teaching experience, will both enhance their knowledge and skills for teaching, learning and assessment after taking this module.",
+        "Learning outcomes": "A Reflect on different conceptions of learning, teaching and assessment across cultures critically B Apply a range of teaching methodologies to enhance students’ learning C Design appropriate learning assessments to measure the learning outcomes",
+        "Method of teaching and learning": "In this module, project-based learning will be incorporated in the teaching practices. Since this module is focused on the practical aspects of teaching, learning, and assessments. Students will be assigned to work in groups to complete projects like designing lessons, curriculum, assessments, etc."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS428&psl_code=SEM2"
+    }
+  ]
+}

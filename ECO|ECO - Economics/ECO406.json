@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "International Finance and Economics",
+  "module_code": "ECO406",
+  "offerings": [
+    {
+      "heading": "International Finance and Economics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "International Finance and Economics",
+        "module_code": "ECO406",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "International Finance and Economics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module explains to students the theories of exchange rate determination, balance-of-payment adjustments, macroeconomic policy in an open economy, issues of cross-border portfolio and direct investments, international debt/currency crisis and contagion, and the management of currency risks. Thus, the module will enable students to analyze the effects of macroeconomic policies on key variables of importance to cross-border investments. It also teaches students how to discern, estimate, and manage risks for an international firm.",
+        "Learning outcomes": "A) Demonstrate knowledge of the foreign exchange market and exchange rate determination B) Demonstrate understanding of the role of macroeconomic policy in an open economy C) Explain the causes of debt/currency crisis and international financial contagion D) Analyze balance-of-payments adjustments in the short run and the long run E) Analyze the determinants of international portfolio and direct investment flows F) Analyze the financing and risk management of multinational enterprises",
+        "Method of teaching and learning": "The module is delivered through a combination of lectures and tutorials. Students are expected to devote at least 8 to 9 hours of private study time per week for studying this module"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO406&psl_code=SEM2"
+    }
+  ]
+}

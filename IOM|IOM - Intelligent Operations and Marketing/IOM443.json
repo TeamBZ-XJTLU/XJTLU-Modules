@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Qualitative Methods",
+  "module_code": "IOM443",
+  "offerings": [
+    {
+      "heading": "Qualitative Methods",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Qualitative Methods",
+        "module_code": "IOM443",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Qualitative Methods",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to a broad range of qualitative research theories and methods for business and management research. Beyond a sound and critical appreciation of the methods available and their application (especially in an Asian context), students will also acquire practical experience with evaluating and implementing qualitative research. Attention will also be drawn to ethical concerns in the context of qualitative research.",
+        "Learning outcomes": "A Identify the dichotomy between qualitative and quantitative methods and select the most appropriate for their research project. B Critically evaluate the main methods available for conducting qualitative research. C Critically assess previous qualitative studies from a methodological perspective. D Have practical experience of data collection in the field, of coding and of analyzing qualitative data.",
+        "Method of teaching and learning": "Methods of teaching and learning will be by weekly lectures and fortnightly tutorials. In addition to the concepts explained in the textbook, students will also be required to read up to two (theoretical or methodological) papers prior to every lecture. The second half of each lecture will consists of a student-led discussion on the connection between the week’s lecture and the papers read. Tutorials, on the other hand, focus on implementation and practical know-how. Again, students will be required to read one (applied) paper and discuss it in the tutorial. The tutorials are geared towards preparing students for the coursework essays."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM443&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "Natural Language Processing",
+  "module_code": "DTS406TC",
+  "offerings": [
+    {
+      "heading": "Natural Language Processing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DTSTC",
+        "full_name": "Natural Language Processing",
+        "module_code": "DTS406TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Natural Language Processing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a comprehensive understanding of Natural Language Processing (NLP) techniques, algorithms, and applications. Students will explore the fundamental concepts and advanced techniques used in NLP, enabling them to design and develop NLP systems for a wide range of real-world applications. The module will emphasize both theoretical foundations and practical implementation aspects, equipping students with the necessary skills to tackle challenges in language processing and understanding.",
+        "Learning outcomes": "A Systematically comprehend the theoretical foundations of Natural Language Processing B Apply statistical and machine learning techniques to process and analyse natural language data C Implement and evaluate different NLP algorithms and models based on performance metrics and real-world application requirements D Critically review advanced topics in NLP, such as prompt learning, language generation, and natural language understanding E Demonstrate a strong capability for undertaking individual research on NLP problems",
+        "Method of teaching and learning": "The module follows the principles of Syntegrative Education, with emphasis on industry engagement, reduced reliance on examinations, and greater focus on coursework and project-based assessments. Delivery is arranged over a 13-week semester, with one two-hour lecture and one two-hour lab each week. Lectures introduce the core syllabus content and provide students with a solid foundation in image processing and computer vision. Labs offer hands-on experience, enabling students to develop practical programming skills and apply algorithms in practice. Tutorial-style discussions may be incorporated within lectures or labs to encourage critical thinking and analysis of research developments. In addition to contact hours, students are expected to engage in private study for reflection, background reading, and preparation of assessments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS406TC&psl_code=SEM2"
+    }
+  ]
+}

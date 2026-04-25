@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SCI",
+    "domain_code": "SCI",
+    "full_name": "Science"
+  },
+  "full_name": "Fundamentals of AI in Science",
+  "module_code": "SCI404",
+  "offerings": [
+    {
+      "heading": "Fundamentals of AI in Science",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SCI",
+        "full_name": "Fundamentals of AI in Science",
+        "module_code": "SCI404",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Fundamentals of AI in Science",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the Fundamentals of Artificial Intelligence (AI) in Science module is to provide students with a solid foundation in the core concepts and techniques of AI. The module will cover a range of topics, including the historical development of AI, theoretical frameworks, basic architecture, and modern applications. A special focus will be placed on the use of Python programming for AI-related tasks, preparing students to apply these methods in their respective scientific disciplines. This module offers students the tools needed to incorporate AI technologies into scientific research. It provides a strong theoretical background while also equipping students with practical skills in AI that can be used to address complex scientific problems across various fields. Upon completion of this module, students will gain valuable insights into AI techniques and machine learning, ultimately laying a solid foundation for further study and research in AI. Students will learn to apply AI algorithms to solve complex problems, which can be beneficial not only in AI-related roles but also in problem-solving across different domains, such as healthcare. This fosters interdisciplinary skills and prepares students for a wide range of applications. The module includes hands-on projects, allowing students to gain practical experience in developing AI applications and building a portfolio of projects to showcase for future career development.",
+        "Learning outcomes": "A. Understand the core concepts, history, and applications of AI, and differentiate it from related fields like Machine Learning. B. Apply AI frameworks to solve real-world problems by identifying inputs, outputs, and constraints for effective problem-solving. C. Implement and evaluate search algorithms, constraint satisfaction methods, and probabilistic reasoning to address uncertainty in AI systems. D. Describe fundamental Machine Learning concepts and apply basic algorithms for classification, regression, and decision-making tasks. E. Combine AI techniques to solve complex problems and critically assess the ethical and societal impacts of AI technologies.",
+        "Method of teaching and learning": "After covering the theoretical foundations of AI, each lecture is designed to be followed by illustrative examples and selected Python demonstrations. This approach allows students to anchor the theoretical concepts in practical scenarios, using the programming language Python to explore AI applications. Throughout the module, students will engage with a range of case studies and examples highlighting AI and machine learning techniques in biomedical analysis, such as clinical image classification and biomarker identification. These examples aim to provide insights into the transformative impact of AI on the field of science. By the end of the module, students will have a strong theoretical grounding in A I, enabling them to appreciate the far-reaching implications of AI on society and scientific discovery. This comprehensive understanding will prepare students to further apply AI principles in their research or future specialized courses."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SCI404&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Computer-assisted Drug Development",
+  "module_code": "APH408",
+  "offerings": [
+    {
+      "heading": "Computer-assisted Drug Development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Computer-assisted Drug Development",
+        "module_code": "APH408",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Computer-assisted Drug Development",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to equip students with solid foundations in structure-based drug design, providing them with an overview on modern methods in molecular simulations used in computational drug discovery. This module will introduce some advanced molecular simulation methods, elements of thermodynamics and statistical mechanics, and modern quantum mechanics calculations. Students will also be able to master some key techniques used in molecular simulations of drug-protein complexes, target identification and validation and in structure-based ligand design. The skills and knowledge gained in this module will be used in students’ second year research projects.",
+        "Learning outcomes": "A. Demonstrate an understanding of academic research in the field of computer-assisted drug design and critically analyze its application in drug development (from traditional small molecules to large molecules such as proteins and antibodies) B. Critically evaluate the results of computer simulation C. Show understanding of drug targets, drug design, drug dynamic structure, complexation choice and intensity of ligands and receptors D. Analyze the results of computer simulation using different computing methods and techniques (by using a variety of existing software) E. Organize, write and deliver technical and research reports and communicate effectively with researchers in various fields of drug development F. Understand, consider and apply research ethics and health and safety regulations to prioritize, arrange and organize lab work",
+        "Method of teaching and learning": "The course contains lectures, computer lab practicals and a computational research project that could act as a pre-project for students’ thesis research project."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH408&psl_code=SEM2"
+    }
+  ]
+}

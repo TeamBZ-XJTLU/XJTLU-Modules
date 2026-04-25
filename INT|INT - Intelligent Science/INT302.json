@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Image Processing",
+  "module_code": "INT302",
+  "offerings": [
+    {
+      "heading": "Image Processing",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "INT",
+        "full_name": "Image Processing",
+        "module_code": "INT302",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Image Processing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To introduce the basic concepts of digital image processing and pattern recognition.",
+        "Learning outcomes": "A. Critically evaluate the basic principles of digital image processing B. Critically evaluate the techniques used in digital image processing. C. Analyze the areas of applications for various image processing techniques, e.g., image enhancement, image transform, image compression and morphological operations. D. Implement relevant image processing techniques to a given problem. E. Formulate basic skills to develop image processing software.",
+        "Method of teaching and learning": "The module will be delivered via lectures and supervised laboratory sessions, which will include demonstrations of image"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT302&psl_code=SEM2"
+    }
+  ]
+}

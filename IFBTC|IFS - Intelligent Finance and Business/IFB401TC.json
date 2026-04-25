@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Enterprise Resource Planning",
+  "module_code": "IFB401TC",
+  "offerings": [
+    {
+      "heading": "Enterprise Resource Planning",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Enterprise Resource Planning",
+        "module_code": "IFB401TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Enterprise Resource Planning",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims of this module are that ERP is usually referred to as a category of business-management software — typically a suite of integrated applications—that an organization can use to collect, store, manage, and interpret data from these many business activities. The aim of the module is to provide students an integrated and continuously updated view of core business processes using common databases maintained by a database management system. The module enables student to: (i) understand ERP fundamentals - Planning, purchasing, production scheduling, inventory management, customer order commitments, finance and HR through ERP; (ii) understand business processes in ERP which facilitate information flow between all business functions and manages connections to inside & outside stakeholders; (iii) understand the important points of ERP software selection when shortlisting and purchasing an ERP, the approaches taken in ERP implementation. (iv) understand the best practices in ERP implementation and the future directions in ERP.",
+        "Learning outcomes": "A. Demonstrate an in-depth understanding of essential ERP functions, encompassing planning, purchasing, production scheduling, inventory management, customer order commitments, finance, and HR integration. B. Analyze the role of ERP systems in facilitating seamless information flow across all business functions and in establishing connections with both internal and external stakeholders. C. Critically evaluate strategies for the selection and acquisition of ERP software, as well as the methodologies employed during ERP implementation. D. Explore industry best practices in ERP implementation and examine emerging trends and future prospects within the dynamic ERP landscape.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern allows more meaningful contribution from industry best practices, industry speakers and industry onsite tour. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. This module will be co-designed with industry partners and delivered by a combination of lectures, tutorials and labs. Lectures will be designed to introduce, explore and critique current theory and industrial practice about ERP. Tutorials will be based around exercise sheets, the completion of which and their discussion in workshops will provide students with a learning opportunity designed to extend the material introduced in the lectures. Labs will be designed to introduce Students the usage of functions of ERP software. Students will also be given practical exposures, such as industry cases’ study, software demonstration, guest speaker lecturing and ERP supplier on-site tour."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB401TC&psl_code=SEM1"
+    }
+  ]
+}

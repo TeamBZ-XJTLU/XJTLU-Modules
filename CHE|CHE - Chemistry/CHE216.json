@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Inorganic Applications of Group Theory",
+  "module_code": "CHE216",
+  "offerings": [
+    {
+      "heading": "Inorganic Applications of Group Theory",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Inorganic Applications of Group Theory",
+        "module_code": "CHE216",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Inorganic Applications of Group Theory",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to demonstrate the underlying importance of symmetry throughout Chemistry, with particular applications to spectroscopic selection rules and bonding in inorganic chemistry.",
+        "Learning outcomes": "A analyze the symmetry properties of molecules and assign molecules to their correct point groups B predict and relate aspects of molecular/ complex structure and bonding C critically discuss the fundamental role of molecular symmetry in determining molecular/complex properties and reactivity D use character tables to solve a variety of problems in spectroscopy",
+        "Method of teaching and learning": "Lectures and tutorials"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE216&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IND",
+    "domain_code": "IND",
+    "full_name": "Industrial Design"
+  },
+  "full_name": "Body, Space And Machine",
+  "module_code": "IND406",
+  "offerings": [
+    {
+      "heading": "Body, Space And Machine",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IND",
+        "full_name": "Body, Space And Machine",
+        "module_code": "IND406",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Body, Space And Machine",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "In relation to the new structure of the MDes Industrial Design programme over 2 years, this module introduces the skills and project challenges through interaction design processes for tangible products and interactive spaces, exploring different levels of awareness and coupling between human action and the immediate spatial context. This module is also an opportunity for the levelling up period for student's knowledge and experience about Interaction and Digital Design in Masters Y1, that will contribute to their ‘Track’ choice for Y2 for their IND402 Design Research Project. Set within a contemporary framework, changes in lifestyle, working occupations, travel and mobility, health care, education and social entertainment, provide many opportunities for the way design interprets human needs and desires. As a structured module, Interaction Design questions how these day-to-day activities connect the body, space and machine through dynamic tangible interaction concepts within signature spaces. Initially, design processes and skills include workshops in visual perception and sensing, the aesthetics of form, colour and materials, spatial proxemics, and mapping research to evaluate design scenarios. Then this is taken forward through design development stages to construct interactive prototypes to demonstrate new experiences and environments. This is supported by recent technology paradigms and systems that provide innovative trends in new consumer products and future living spaces. The continuing development of ubiquitous computing intelligence and HCI systems, connected with lightspeed data transmissions to human actuators and receptors, offers a new creative playground for this portfolio of interaction design projects. The learning objectives of this module are to provide students with the innovative skills and project experience to produce user research for an inclusive user group, evaluate, design and prototype interaction experiences, that 'couple and connect' human actions within a spatial context, as an integrated system. Students participating in this module will learn the design processes to build interactive demonstrators for both physical and digital contexts, using advanced tools and methods to exhibit and communicate their final learning outcomes.",
+        "Learning outcomes": "A. Explain the principles of visual perception, tangible sensing and actions, describing how this couples human experience between interactive product and spatial contexts B. Conduct user research probes to collect observations for specific user contexts, evaluated and visualized as user-scenarios C. Develop interactive design concepts and product models with tangible action-based user experiences D. Apply advanced digital tools and coding to support physical actuator and sensing systems, coupled with 2D digital visualisation processes E. Build tangible interaction prototypes with embodied digital systems",
+        "Method of teaching and learning": "This module is taught through a combination of lectures and tutorials, within a design studio environment. Certain specialist Interaction Design skills are delivered through talks and practical sessions in the making workshop, or computer studios for coding work and actuator systems prototype constructions. ('Arduino' or similar micro-systems) Students will undertake interaction design projects with critical evaluation and revised development prototypes to improve their understanding, knowledge and experience. This will include both individual work and group work, that will contribute towards their final presentations of interaction design prototypes and demonstrators."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IND406&psl_code=SEM2"
+    }
+  ]
+}

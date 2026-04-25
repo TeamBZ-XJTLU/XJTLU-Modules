@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Research Plan",
+  "module_code": "ENV402",
+  "offerings": [
+    {
+      "heading": "Research Plan",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Research Plan",
+        "module_code": "ENV402",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Research Plan",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim is to provide students an opportunity to gain proper trainings and generate a research plan for the research project in their second year of study under the supervision of qualified academic staff.",
+        "Learning outcomes": "A. Demonstrate critical awareness of relevant literature B. Obtain necessary technical, lab and/or field trainings relevant to the project C. Critically evaluate the validity research methods after trial studies and make corrections/improvements if applicable D. Produce a written research report using an appropriate academic style and structure E. Demonstrate the ability to deliver formal oral presentations to a scientific audience",
+        "Method of teaching and learning": "Weekly seminars will be provided to the students to present their progress and to discuss issues during project implementation with academic staff. Additional technical, lab and/or field trainings will be provided by their supervisors, technicians, or experienced PhD students if necessary."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV402&psl_code=SEM2"
+    }
+  ]
+}

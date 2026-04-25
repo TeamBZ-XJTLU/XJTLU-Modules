@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Development And Educational Psychology Across The Lifespan",
+  "module_code": "EDS425",
+  "offerings": [
+    {
+      "heading": "Development And Educational Psychology Across The Lifespan",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Development And Educational Psychology Across The Lifespan",
+        "module_code": "EDS425",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Development And Educational Psychology Across The Lifespan",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will introduce key concepts and current research in developmental psychology and educational psychology. Students will learn about cognitive, language, and social-emotional development across the life span, as well as a wide range of topics related to learning and teaching in schools (e.g., individual difference, learning motivation, effective teaching, and teaching evaluation). Students will explore how psychological concepts can be used as a basis for supporting individual development and learning.",
+        "Learning outcomes": "A. Demonstrate knowledge of individual development across the life span in key developmental domains (e.g., cognitive, language, and social-emotional development) B. Demonstrate understanding of the core concepts of psychology in education and schools regarding learning and teaching C. Critically evaluate and reflect on practical and empirical perspectives in developmental/educational psychology. D. Demonstrate analytical knowledge about different strategies to support individual development and learning in various settings (e.g., family, school)",
+        "Method of teaching and learning": "The module integrates Research-Led Project-Based Learning (RLPBL) to provide a dynamic and applied exploration of developmental and educational psychology. Through a combination of lectures and tutorials, students engage with key conceptual and theoretical insights while delving into real-world issues. This approach offers students ample opportunities to critically reflect on how the knowledge gained can be applied in real-world settings, effectively bridging theory with practical application."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS425&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "China in Global Governance",
+  "module_code": "CCS414",
+  "offerings": [
+    {
+      "heading": "China in Global Governance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "China in Global Governance",
+        "module_code": "CCS414",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "China in Global Governance",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module examines China’s evolving role in global governance and its implications. By exploring China’s approaches to and interactions with various global governance structures and mechanisms, and the multidimensional impacts of its engagements across key institutions and issue areas, the course aims to enable students to: • Critically assess China’s engagement with multilateral frameworks of global governance. • Examine the trends in China’s relationship with key global and regional powers that shape international environment and global order. • Develop students’ ability to grasp the evolving modalities and trends in China’s relationship with global governance based on the up-to-date knowledge and understanding of relevant empirical facts. • Enable students to critically reflect on the debates about whether and how China’s rise and its global engagements reinforce, reshape, challenge and innovate the existing global governance frameworks. By bridging China studies and international relations, the module aims to deepen students’ understanding of China in a global context, discussing its foreign policy and objectives in relation to its domestic context and developments. By integrating context-specific empirical knowledge and examination of concrete issues shaping contemporary debates about China’s role in global governance with academic theory and policy analysis, the module aims to equip students with skills in both academic and policy analysis. It is a good fit for graduate students in China Studies, International Relations, and related fields who aim to embark on careers in foreign policy and diplomacy, international organizations, international business and other fields both in China and internationally where expertise in China’s evolving relations with the world is increasingly in demand, as well as those preparing to pursue PhD degree and career in academia in these disciplines.",
+        "Learning outcomes": "A. Demonstrate understanding of intellectual and historical origins of China’s approach to global governance and relevant theoretical perspectives. B. Critically assess the main trends and trajectory in China’s engagement with global governance in the key areas, such as global economic governance, global and regional security, international development and more. C. Critically assess China’s engagement with key actors in global governance such as international institutions and other major powers. D. Conduct research using multiple type of resources and data and apply it effectively in various oral and written forms, including real life-inspired scenarios and exercises.",
+        "Method of teaching and learning": "Lectures will introduce students to crucial skills and content in a dialogic manner, facilitated by Generative AI use. In the seminars, students will engage in-depth discussion of weekly topics. The module will also feature asynchronous online activities in the digital environment on LMO. Generative AI use will be integrated into the learning and teaching process, as well as in assessment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS414&psl_code=SEM2"
+    }
+  ]
+}

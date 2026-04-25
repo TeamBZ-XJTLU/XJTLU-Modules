@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Data-Driven Marketing",
+  "module_code": "IOM214",
+  "offerings": [
+    {
+      "heading": "Data-Driven Marketing",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "IOM",
+        "full_name": "Data-Driven Marketing",
+        "module_code": "IOM214",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Data-Driven Marketing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Data-Driven Marketing aims to employ econometrics methods to analyze real-world marketing problems. This module introduces the subject by focusing on the principles of data and measurement, Ordinary Least Squares regression analysis, and the application of econometrics in marketing analysis.",
+        "Learning outcomes": "A Understand the fundamentals of the data and measurement in econometrics. B Understand the nature and classical methodology of econometrics. C Develop and estimate econometric models using data analysis software. D Appropriately interpret model results to support decision-making in marketing environment. E Apply econometrics methods to solve marketing problems.",
+        "Method of teaching and learning": "The module will be taught using a combination of lectures, tutorials, and directed study. The lectures are intended to provide an introduction to the topics covered in the syllabus. The module will provide some practical experience using econometrics models in tutorials and the regular completion of structured exercises."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM214&psl_code=SEM2"
+    }
+  ]
+}

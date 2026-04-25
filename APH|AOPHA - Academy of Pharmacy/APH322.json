@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Cell and Gene Therapy",
+  "module_code": "APH322",
+  "offerings": [
+    {
+      "heading": "Cell and Gene Therapy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Cell and Gene Therapy",
+        "module_code": "APH322",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Cell and Gene Therapy",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to develop final-year undergraduate students’ critical thinking and research literacy in early-stage cell and gene therapy (CGT) discovery，with a core focus on analyzing and debating peer-reviewed published literature. It centers on key early CGT research themes—target identification, delivery system optimization, gene editing tool development, and preclinical validation—using landmark and cutting-edge journal articles as the primary teaching medium. Students will learn to dissect research design, interpret experimental data, evaluate methodological strengths/limitations, and connect literature findings to broader CGT discovery challenges (e.g., improving gene editing specificity, enhancing CAR-T target selectivity). By the end of the module, students will be able to independently assess CGT research papers and propose evidence-based follow-up studies.",
+        "Learning outcomes": "A Analyze the scientific rationale, experimental design, and key findings of early CGT research papers (e.g., studies on novel CAR-T targets or AAV vector screening) by linking them to core CGT principles. B Critically evaluate data and conclusions in CGT literature—e.g., assessing gene editing efficiency claims, identifying gaps in preclinical validation, or questioning the generalizability of study results. C Synthesize findings across multiple early CGT papers (from the 7-week theme sequence) to compare technologies (e.g., base editors vs. prime editors) or resolve contradictory results. D Propose evidence-based follow-up research designs to address limitations identified in published CGT literature.",
+        "Method of teaching and learning": "The module follows a weekly 3-hour block structure (1h Lecture + 2h Student Literature Presentations) across 7 weeks, with all activities centered on peer-reviewed CGT literature and designed for skill progression: 1. Pre-Week Preparation: Literature Assignment & Guided Reading • Literature Curation: Before the module starts, the instructor provides a themed 7-week literature list (1–2 key papers per week, total 10 papers from journals like Nature Biotechnology, Science Translational Medicine), sorted by early CGT topics (e.g., Week 1: CGT Target Discovery; Week 2: Viral Delivery Systems). • Student Grouping: Students are divided into 5–6 groups (3–4 students/group) and assigned 1 paper per group (each week 1–2 groups present, ensuring all students present at least once across 7 weeks). • Guided Reading Worksheet: For each assigned paper, groups receive a structured worksheet to guide pre-work: (1) What research gap did the study address? (2) What key methods were used (e.g., CRISPR gRNA design, CAR-T manufacturing protocol)? (3) What are the 2 most important results (with data references, e.g., Figure 2A)? (4) What is 1 major limitation of the study? 2. Weekly 1-Hour Lecture: Literature Anchoring & Core Principles Each lecture directly ties to the week’s literature theme, serving as a “bridge” between foundational knowledge and the student presentations. 3. Weekly 2-Hour Student Literature Presentations: Structured Delivery & Interactive Discussion This is the core of the module, with a standardized format to ensure depth and consistency across groups: Presentation Delivery (40 minutes/group, 1–2 groups/week)，Peer & Instructor Feedback (20 minutes/group)。 4. Literature Support Resources • Weekly Paper Packets: Each week’s paper is shared 7 days in advance, with annotations for complex methods (e.g., “T7 Endonuclease Assay: Used to detect CRISPR off-targets—see Lecture 2 for details”). • Literature Skill Snippets: Short 5-minute pre-recorded videos (shared weekly) on skills like “Reading Flow Cytometry Plots in CAR-T Papers” or “Interpreting Gene Editing Efficiency Graphs”—to support students before presentations. • 1:1 Check-Ins: Groups can book a 15-minute slot with the instructor 3 days before their presentation to review draft slides or clarify paper questions. 5. Self-Directed Learning (54 hours) Independent study focuses on case studies and literature research."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH322&psl_code=SEM2"
+    }
+  ]
+}

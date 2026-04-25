@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Introductory Mathematical Modelling",
+  "module_code": "MTH020",
+  "offerings": [
+    {
+      "heading": "Introductory Mathematical Modelling",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Introductory Mathematical Modelling",
+        "module_code": "MTH020",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Introductory Mathematical Modelling",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is an optional module open to all Year 1 students in S1. It is designed to familiarise students with concepts in mathematical modelling, as well as related applied techniques in solving real-world problems. The aim of the module is to develop mathematical thinking and logical discursion abilities for students from all backgrounds.",
+        "Learning outcomes": "A Demonstrate understanding of the concepts of discrete and continuous mathematical models. B Demonstrate practical skills in applying the essential mathematical methods discussed in each topic of the module. C Develop understanding of the general procedure of mathematical modelling. D Establish mathematical models to solve practical problems. E Use software to implement the mathematical models covered in the module.",
+        "Method of teaching and learning": "Students will be expected to attend 2 hours of formal lectures on a weekly basis, and supervised tutorial sessions to have the opportunity to make use of software to practice. Lectures will mainly introduce ideas and techniques of important models, tutorials or lab sessions mainly on practices of problem solving. Students will be trained to write academic reports in group work to show how they use the learned techniques in the module to solve real problems. Opportunities will be given to present their work in the module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH020&psl_code=SEM1"
+    }
+  ]
+}

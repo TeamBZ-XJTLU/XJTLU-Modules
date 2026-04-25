@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Principles of Translational Science in Medicine",
+  "module_code": "APH436",
+  "offerings": [
+    {
+      "heading": "Principles of Translational Science in Medicine",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Principles of Translational Science in Medicine",
+        "module_code": "APH436",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Principles of Translational Science in Medicine",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The mission of translational science is to bring predictivity and efficiency to the development and dissemination of interventions that improve human health. This module aims to introduce the principles and processes that are involved in preclinical and clinical stages of drug development, from drug candidate discovery to clinical trials, and help the students to understand the relationship between basic science discoveries and clinical practice. The knowledge gained in this module will be helpful for the students to learn how to encourage and promote multi-disciplinary collaboration among laboratory and clinical researchers and how to incorporate the desires of the general public, with communities being engaged to determine their needs for health innovation.",
+        "Learning outcomes": "A Categorise and evaluate drug target identification and validation processes B Critically evaluate the processes and methods that can be applied for biomarker development C Critically appraise the roles of toxicology in drug development D Apply clinical trial design and biostatistics in translational science E Evaluate intellectual property and innovation in translational medicine F Analyse, evaluate and critically appraise the new technologies in translational medicine, including vaccines, ADCs and cell/gene therapy.",
+        "Method of teaching and learning": "Instruction for this course will be divided into lectures and tutorials as shown below: LECTURES (2 hours per week): Lectures are designed to familiarize students with the concepts, theories and practical applications covered by the module. Students will receive PPT handouts prior to their lectures and can also access them on LMO. Animations and videos will be integrated into the lectures on certain topics, providing visual and interactive elements to support learning. TUTORIALS (1 hour per week) The aim of the tutorials is to deepen students' comprehension and engagement with the topics introduced in the lectures. Tutorials will adopt the format of group discussions and activities on review, reflection, and critical analysis. This approach ensures that students not only grasp the theoretical aspects but also appreciate their practical implications and applications. ASSESSMENT STRATEGY: Assessment will be designed to challenge students intellectually while providing them with practical skills and knowledge that can be applied in a real-world scenario. Examples of assessment/coursework include: Coursework 1: Students will be asked to create a hypothetical translational research plan for a specific medical condition, incorporating the principles of drug target identification and validation, biomarker development and pharmacology and toxicology in drug development. Coursework 2: Students will be tasked with an assignment on the topic of “translational science in the pharmaceutical industry”, by writing a critical analysis of the current landscape of translational science within the pharmaceutical industry in China, analyze real-world case studies where translational science principles have been applied in the medical field. In both coursework, students will be assessed on their depth of understanding and application of the principles covered in the module, quality and feasibility of the proposed translational research plan, use of relevant scientific literature to support the plan and clarity and structure of the written report."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH436&psl_code=SEM2"
+    }
+  ]
+}

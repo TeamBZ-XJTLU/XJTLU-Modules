@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Biological Chemistry",
+  "module_code": "CHE214",
+  "offerings": [
+    {
+      "heading": "Biological Chemistry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Biological Chemistry",
+        "module_code": "CHE214",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Biological Chemistry",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with detailed knowledge of the organic chemistry of biological systems. The module will provide insights into important metabolic pathways.",
+        "Learning outcomes": "A. Characterize different organic compounds using different spectroscopic techniques (MS, IR, UV-Vis, and NMR) B. Understand and discuss common mechanisms in Biological Chemistry C. Understand and explain the structures and reactions of biomolecules from a chemical point of view D. Understand chemical mechanisms of enzymes-catalyzed reactions E. Solve simple theoretical problems in Biological Chemistry",
+        "Method of teaching and learning": "Lectures, and coursework"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE214&psl_code=SEM2"
+    }
+  ]
+}

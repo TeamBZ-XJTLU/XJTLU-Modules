@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Start Digital Media Arts",
+  "module_code": "FTA002",
+  "offerings": [
+    {
+      "heading": "Start Digital Media Arts",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Start Digital Media Arts",
+        "module_code": "FTA002",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Start Digital Media Arts",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this Year 1 module is to prepare students for study on the BA Digital Media Arts programme. The module teaches students, at the fundamental level, the digital creation and manipulation of visual media, including graphics and images.",
+        "Learning outcomes": "A.Understand basic operation of equipment linked to camera & lighting, sound, editing and graphics B.Generate simple expressive graphics and images with digital tools C.Demonstrate team working skills",
+        "Method of teaching and learning": "Altogether there are seven weeks of instruction. Each week will consist of a full day of instruction. There are six lectures and six lab/ practical workshops associated with this module. Then , the seventh and final week will be dedicated to group work. Each lecture will be introductory to a subject area within the field. This will be followed by five hours of practical instruction and practice. Typically, there will be introductory sessions dedicated to the following elements: • camera & lighting • sound • editing • on screen/printed graphics • Ideas and ideas generation • Working in groups and group team building exercises • Preparation for assessment; module evaluation feedback Usually, the last two weeks will comprise of small and large group work that will culminate in the delivery of a group project."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA002&psl_code=SEM2"
+    }
+  ]
+}

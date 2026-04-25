@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Database Management",
+  "module_code": "MTH412",
+  "offerings": [
+    {
+      "heading": "Database Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Database Management",
+        "module_code": "MTH412",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Database Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with practical skills in designing and managing databases to solve real-world problems. By introducing application scenarios in different fields, such as finance, biomedical science, computer science, the module covers a comprehensive range of techniques concerning the construction and utilization of database management systems (DBMS), as well as the associated implementation principles in the context of big data",
+        "Learning outcomes": "A. Demonstrate critical understanding on conceptual data modeling and its application in relational database systems. B. Apply SQL for the construction and implementation of relational databases. C. Comprehensively understand different types of database systems and their operating principles. D. Apply database skills to design, access and manage databases.",
+        "Method of teaching and learning": "Students are expected to attend two hours of formal lectures and two hours of supervised computer labs on a weekly basis."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH412&psl_code=SEM1"
+    }
+  ]
+}

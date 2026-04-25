@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Internet of Things and Artificial Intelligence in Built Environment",
+  "module_code": "CEN107",
+  "offerings": [
+    {
+      "heading": "Internet of Things and Artificial Intelligence in Built Environment",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Internet of Things and Artificial Intelligence in Built Environment",
+        "module_code": "CEN107",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Internet of Things and Artificial Intelligence in Built Environment",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to explore the integration of Internet of Things (IoT) and Artificial Intelligence (AI) technologies in various aspects of built environment. Students will learn about the fundamentals of IoT systems, AI algorithms, and their applications in the design, construction, and maintenance of built environment.",
+        "Learning outcomes": "A. Understand the principles of IoT and AI technologies. B. Understand the integration of IoT devices in infrastructure. C. Analyze the application of AI algorithms in built environment tasks. D. Evaluate the benefits and challenges of implementing IoT and AI in built environment. E. Develop skills in designing IoT systems and AI solutions for infrastructure applications with hands-on projects.",
+        "Method of teaching and learning": "The module is delivered through formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN107&psl_code=SEM2"
+    }
+  ]
+}

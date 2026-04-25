@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ELC",
+    "domain_code": "LAN",
+    "full_name": "Comprehensive Use of Language"
+  },
+  "full_name": "Introduction to Intercultural Communication",
+  "module_code": "LAN010",
+  "offerings": [
+    {
+      "heading": "Introduction to Intercultural Communication",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LAN",
+        "full_name": "Introduction to Intercultural Communication",
+        "module_code": "LAN010",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Introduction to Intercultural Communication",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is offered in both semesters as a Y1 Optional Module. The aim of this module is to help students become aware of some of the theoretical issues that are involved in intercultural communication and apply these to practical, real-world situations related to studying at an international university. This will allow students to achieve the overarching aim of improving their intercultural awareness and reflective skills when engaging in interactions, either in groups or one-on-one, with culturally diverse students and faculty. In addition, the module aims to improve students’ English language skills by focusing on a range of new vocabulary and allowing personal reflection through classroom discussions and other tasks. The module will also help students to develop the study skills necessary for becoming active participants in seminars and tutorials in their future studies.",
+        "Learning outcomes": "A. Demonstrate a basic understanding of key concepts and issues related to intercultural communication. B. Demonstrate the skills and knowledge necessary to successfully engage in intercultural experiences. C. Communicate effectively on different topics related to intercultural issues.",
+        "Method of teaching and learning": "- Students will have 4 hours of classroom contact time (seminars) and approximately 8 hours of self-study per week. The seminars will be conducted using various teaching approaches and methods that encourage students to discover meaning and knowledge independently and through working with peers. These methods will include a mixture of mini-lectures, group activities, ‘flipped-classroom’ pre-lesson readings and videos, workshops, online activities, etc. - The module is aimed at encouraging higher-order thinking skills. This will be done through a number of activities that allow students to discover the nature of intercultural interaction and how this relates to their own learning contexts. - The module will encourage experiential learning by requiring students to participate in a cross-cultural activity and then reflect on this experience. - There will be a focus on critically reflective learning that requires students to challenge cultural assumptions and understand more about the role of self-awareness in intercultural communication. - Students will also be given guidance on and opportunities to practice the various skills referred to in the learning outcomes. The self-study activities will extend and/or consolidate work carried out in the seminars. - In-class sessions can be partially replaced by online teaching provision, when external circumstances require so or when deemed useful and appropriate for didactic purposes. - The speaking assessment will typically take place in a teaching week."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LAN010&psl_code=SEM1"
+    }
+  ]
+}

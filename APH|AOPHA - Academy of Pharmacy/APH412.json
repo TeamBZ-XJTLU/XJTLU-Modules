@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Probability",
+  "module_code": "APH412",
+  "offerings": [
+    {
+      "heading": "Probability",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Probability",
+        "module_code": "APH412",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Probability",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to offer a clear exposition of modern probability theory and of the interplay between the properties of metric spaces and probability measures. This module introduces probability based on measure theory, including laws of large numbers, ergodic theorems, the central limit theorem, conditional expectations and martingale's convergence. A chapter on stochastic processes introduces Brownian motion and the Brownian bridge.",
+        "Learning outcomes": "A. Independently give an account of the foundations of probability theory from a measure-theoretic perspective B. Thoroughly explain, define and relate different types of convergences of distributions and probability measures C. Thoroughly explain important results and properties for expectation D. Thoroughly describe theory for conditional distributions and expectation from a measure-theoretic perspective",
+        "Method of teaching and learning": "The module is delivered through a combination of lectures and tutorials over a period of 13 weeks. In lectures, students are introduced to the core principles, major methodology, and common topics and issues in the area of probability and statistics. Tutorials are given as a platform to address any specific question or issue from individual students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH412&psl_code=SEM1"
+    }
+  ]
+}

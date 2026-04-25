@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "The Chinese Economy",
+  "module_code": "ECO306",
+  "offerings": [
+    {
+      "heading": "The Chinese Economy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "The Chinese Economy",
+        "module_code": "ECO306",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "The Chinese Economy",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this course is to provide an overview of the Chinese economy and discuss the current issues of the Chinese economy.",
+        "Learning outcomes": "A. Demonstrate a sound understanding of the historical development of the Chinese economy. B. Demonstrate knowledge of the processes by which China transitioned to a market economy. C. Comprehend key trends and processes of economic development in China. D. Critically analyse current major economic problems in China and to propose potential solutions. E. Understand the current debates of economic policy in China and be able to derive policy solutions to these debates.",
+        "Method of teaching and learning": "The lectures will be delivered by a combination of lectures, and tutorials. Lectures will be designed to provide essential information and introduce students to the basic tools and concepts of time series analysis and related issues. Tutorials will provide students with the opportunity to further develop their learning through the exploration of theoretical and empirical studies and data"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO306&psl_code=SEM2"
+    }
+  ]
+}

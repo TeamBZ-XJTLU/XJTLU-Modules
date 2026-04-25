@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Biodiversity Of Animals, Plants And Microbes",
+  "module_code": "BIO101",
+  "offerings": [
+    {
+      "heading": "Biodiversity Of Animals, Plants And Microbes",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Biodiversity Of Animals, Plants And Microbes",
+        "module_code": "BIO101",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Biodiversity Of Animals, Plants And Microbes",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module tackles the subject of biological diversity by combining systematic and functional analysis of the major groups of organisms responsible for sustaining life on earth. The origins of life, evolution of the major domains and an examination of microbial diversity lead into studies on plant communities, their underlying biology and exploitation by man. This module also enables students to gain an understanding of the structure and function of the basic body plan of three groups of animals. These all hold key positions in the evolutionary development of animal life. The three groups are: Echinoderms, which have embryological affinities with the vertebrates; Insects, which are numerically and economically the most varied and important group of invertebrates; and mammals, which are considered to be the most advanced, and the most intelligent of the vertebrate groups.",
+        "Learning outcomes": "A. Explain the hypotheses for life's origins and evolution that defines biodiversity. B. Define the environmental importance of microorganisms and plants, and how they impinge upon man's activities. C. Acquire knowledge on the biological function in relation to the evolution of species. D. Outline the structure and function of basic body plans of selected simple organisms. E. Illustrate the structure and function of the basic body plan of insects and their importance both ecologically and economically. F. Explain the structure and function of the basic body plan of mammals and how the plans have led to the diversity within this group.",
+        "Method of teaching and learning": "Course content will be delivered primarily via standard lectures and the handouts will be made available to students on VLE. Animations and/or Videos will be shown for some of the topics. Review sessions will be arranged towards end of the semester and the students will have opportunities to self-assess their understanding of the course."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO101&psl_code=SEM1"
+    }
+  ]
+}

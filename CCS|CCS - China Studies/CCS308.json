@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "China: The Public Sector",
+  "module_code": "CCS308",
+  "offerings": [
+    {
+      "heading": "China: The Public Sector",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "China: The Public Sector",
+        "module_code": "CCS308",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "China: The Public Sector",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide students with knowledge of China’s public sector and its reforms.",
+        "Learning outcomes": "A. Demonstrate understanding of ‘state capitalism’ in the Chinese context. B. Assess the way in which social, political and economic variables change the public sector in China. C. Analyse the strategic economic purpose of State-Owned Enterprises (SOEs) in the economic development of China. D. Identify the impacts of the public sector reforms on citizens' everyday lives. E. Identify and analyse the changes in governance and human resources that have occurred in China. F. Structure and sustain an argument through critical thinking and a systematized assessment of data from different sources.",
+        "Method of teaching and learning": "Lectures and seminars"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS308&psl_code=SEM2"
+    }
+  ]
+}

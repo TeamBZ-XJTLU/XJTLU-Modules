@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MAT",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Introduction to Insurance",
+  "module_code": "MTH012",
+  "offerings": [
+    {
+      "heading": "Introduction to Insurance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Introduction to Insurance",
+        "module_code": "MTH012",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Introduction to Insurance",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduce students to the background of insurance and relevant risk management techniques. Students are taught to understand the risk and insurance, risk measuring, insurance mechanism and coverage for insurance contracts. Students are also taught to understand insurance market operations and analysis of insurance coverage for life and non-life insurance contracts. This module aims to provide students with a solid background knowledge in insurance.",
+        "Learning outcomes": "A. Understand risk and risk management; B. Understand insurance industry; C. Understand the insurance regulations, operation and legal aspects of insurance contracts; D. Understand and analyze insurance contracts coverage; E. Understand and analyze life and non-life insurance contracts; F. Understand and apply fundamental mathematical techniques in actuarial science.",
+        "Method of teaching and learning": "This module is delivered through formal lectures and tutorial classes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH012&psl_code=SEM2"
+    }
+  ]
+}

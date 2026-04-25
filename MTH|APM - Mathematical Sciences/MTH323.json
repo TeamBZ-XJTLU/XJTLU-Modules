@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "APM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Topology",
+  "module_code": "MTH323",
+  "offerings": [
+    {
+      "heading": "Topology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Topology",
+        "module_code": "MTH323",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Topology",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To introduce and illustrate the main ideas of topology by primarily building on material seen in MTH224 Metric Spaces as well as enhancing students’ understanding of mathematics seen elsewhere (such as real and complex analysis, abstract algebra etc.) and providing a foundation to study further in the areas of geometry and topology.",
+        "Learning outcomes": "A. Apply a variety of different techniques in point set, geometric and algebraic topology. B. Recognize a wide variety of topological spaces and their properties such as compactness and connectedness. C. Prove, or give counter-examples to, simple statements about topological spaces and continuous maps. D. Explain how to construct spaces by gluing and to prove in certain cases that the result is homeomorphic to a standard space. E. Distinguish topological spaces by means of invariants such as the fundamental group. F. Calculate the Euler characteristic of a triangulated surface and identify it with one listed in the classification theorem.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH323&psl_code=SEM1"
+    }
+  ]
+}

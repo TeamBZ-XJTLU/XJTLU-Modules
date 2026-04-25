@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Child and Adolescent Mental Health",
+  "module_code": "EDS417",
+  "offerings": [
+    {
+      "heading": "Child and Adolescent Mental Health",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Child and Adolescent Mental Health",
+        "module_code": "EDS417",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Child and Adolescent Mental Health",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to develop students’ knowledge of how mental health can be defined, identified, and how schools, families and peers can best support the psychological wellbeing of children and adolescents. This module will set a solid background for students’ understanding of the risk and protective factors for a variety of mental health problems that onset during infancy, childhood and adolescence. Some basic mental regulation and intervention strategies will be introduced. It will also encourage students to engage in a wide range of academic research, policy and practice in different educational contexts.",
+        "Learning outcomes": "A Discuss how “mental health” of young people can be defined from the perspective of biology, sociology, psychology and other disciplines thoroughly B Identify the potential risk and protective factors for a variety of mental health problems of children and adolescents C Recognize the approaches and their limitations to examine mental health for children and adolescents D Critically analyze the way theoretical and empirical research can inform the practice to support children and adolescents’ psychological wellbeing in different educational contexts",
+        "Method of teaching and learning": "The teaching sessions include both lectures and tutorials/workshops which work together to provide students with key conceptual, theoretical, and methodological insights, as well as dedicated opportunities for critical reflection. Students will also engage in collaborative and individual practice, and iterative development of resources to address issues of mental-health in schools and other educational settings."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS417&psl_code=SEM1"
+    }
+  ]
+}

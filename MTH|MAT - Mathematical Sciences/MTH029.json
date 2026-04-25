@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MAT",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Calculus (Mathematical Sciences)",
+  "module_code": "MTH029",
+  "offerings": [
+    {
+      "heading": "Calculus (Mathematical Sciences)",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Calculus (Mathematical Sciences)",
+        "module_code": "MTH029",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Calculus (Mathematical Sciences)",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To give students a broad education in calculus, which include the topics usually covered in a course on single-variable calculus; To give students a solid mathematical foundation for the modules in year two and above; To give students an appreciation of the applications of calculus in other fields of science; To develop the students' ability to work independently and to acquire the skill of problem solving.",
+        "Learning outcomes": "A Have a good mathematical understanding of the basic concepts of calculus. B Have a good understanding of the application of calculus in other fields of science. C Solve problems by calculation. D Establish mathematical models for simple practical problems.",
+        "Method of teaching and learning": "Students will be expected to attend 3 hours of lectures and 1hour of tutorial in a typical week. In lectures, students will learn the concepts, theories and calculation skills of calculus. In tutorials, students can practice these skills. In addition to the lectures and tutorials, students will be expected to devote the unsupervised time to private study. Private study will provide time for reflection and consideration of lecture material and background reading. Online resources will be provided to the students to support their active learning. Continuous assessment including home assignments and online exercises will be used to assess the learning outcomes. Written examination in the middle and at the end of the semester constitutes the major part of the assessment of the academic achievement of students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH029&psl_code=SEM1"
+    }
+  ]
+}

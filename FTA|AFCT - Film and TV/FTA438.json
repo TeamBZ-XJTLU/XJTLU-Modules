@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Creative Industries Research Project",
+  "module_code": "FTA438",
+  "offerings": [
+    {
+      "heading": "Creative Industries Research Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Creative Industries Research Project",
+        "module_code": "FTA438",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Creative Industries Research Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: This module takes the research proposal developed in FTA429 forward to execution stage. It commences at the beginning of the final semester and allows students to further develop and conclude the research in the form of a completed creative project. Objectives: Students can undertake an independent research project. The project topics should be related to the creative industries pathway; students will primarily utilise the subject knowledge covered in the learning, along with disciplinary aspects. Each student will work with a member of academic staff as the project supervisor. In addition to the commercialisation project, students will also complete a final report that documents its development process and reflects on its potential further development. This report will be submitted as the dissertation required by the masters.",
+        "Learning outcomes": "A Apply critically the analysis, research, creative and technical skills on a creative design project, working on a collaborative or individual basis as appropriate to the project B Demonstrate autonomous design and development skills within the project realisation C Demonstrate a critical understanding of markets, audiences and industrial contexts when producing assets, documentation and deliverables for a creative project D Critically evaluate and contextualise their creative design work within appropriate theoretical contexts",
+        "Method of teaching and learning": "The module incorporates research-driven and self-learning methods with the supervision support. Students will work independently and be supervised by an experienced academic staff throughout the project process. They will demonstrate the progress of their work through lectures, tutorials and labs."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA438&psl_code=SEM2"
+    }
+  ]
+}

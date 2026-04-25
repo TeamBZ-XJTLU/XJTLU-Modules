@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Computer-Based Trading In Financial Markets",
+  "module_code": "IOM301",
+  "offerings": [
+    {
+      "heading": "Computer-Based Trading In Financial Markets",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Computer-Based Trading In Financial Markets",
+        "module_code": "IOM301",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Computer-Based Trading In Financial Markets",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to develop in-depth understandings of computer-based trading in financial markets by 1) providing an overview of the range of different computer-based trading applications and techniques, 2) introducing the key issues with using historical high-frequency financial data for developing computer-based trading strategies, 3) providing an overview of statistical and computational methods for the design of trading strategies and their risk management, and 4) developing a practical understanding of the design, implementation, evaluation, and deployment of trading strategies.",
+        "Learning outcomes": "A. Have an understanding of market microstructure and its impact on trading. B. Understand the spectrum of computer-based trading applications and techniques, from profit-seeking trading strategies to execution algorithms. C. Be able to design trading strategies using AI tools, and evaluate critically the strategies' historical performance and robustness. D. Understand the common pitfalls in developing trading strategies with historical data. E. Understand the benchmarks used to evaluate execution algorithms.",
+        "Method of teaching and learning": ""
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM301&psl_code=SEM2"
+    }
+  ]
+}

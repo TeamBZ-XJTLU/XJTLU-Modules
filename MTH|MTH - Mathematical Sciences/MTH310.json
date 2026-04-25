@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Functional Analysis",
+  "module_code": "MTH310",
+  "offerings": [
+    {
+      "heading": "Functional Analysis",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Functional Analysis",
+        "module_code": "MTH310",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Functional Analysis",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To introduce the theory of infinite-dimensional normed vector spaces, the linear mappings between them.",
+        "Learning outcomes": "A. Work effectively with the notions of metric, normed and inner product spaces. B. State and prove theorems about Banach spaces and Hilbert spaces. C. State and prove fundamental results about bounded linear operators and self-adjoint operators. D. Apply the essential concepts and theorems of functional analysis to simple examples.",
+        "Method of teaching and learning": "This module will be delivered using formal lectures."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH310&psl_code=SEM2"
+    }
+  ]
+}

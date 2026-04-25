@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Econometrics: Theory and Applications",
+  "module_code": "ECO203",
+  "offerings": [
+    {
+      "heading": "Econometrics: Theory and Applications",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Econometrics: Theory and Applications",
+        "module_code": "ECO203",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Econometrics: Theory and Applications",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Econometrics combines economics, mathematics, and statistics. This course is an introductory course in econometrics at the undergraduate level. It combines econometric theory with practice by demonstrating its use with the software package. The emphasis is on understanding how to select the right method of analysis for a given situation, and how to actually apply the theoretical methods in the right way. It also includes interpreting and critically evaluating applied work and econometric findings. Applications are related to real-world economic problems using data.",
+        "Learning outcomes": "A. Explain core concepts and techniques in econometrics B. Understand the assumptions upon which different econometric methods are based and their implications C. Use statistical software to implement appropriate techniques to analyse real-world data D. Demonstrate ability to analyse, interpret and critically evaluate empirical results",
+        "Method of teaching and learning": "Lectures will cover econometric theory as well as examples of how these theories are commonly applied in the field of economics and finance. Tutorials will then provide students with further time and opportunities to discuss and deepen their understandings of econometric theory by solving additional problem sets. The solutions will then be discussed and explained during tutorials. Tutorials also include computer laboratory studies with the application of associated software package."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO203&psl_code=SEM2"
+    }
+  ]
+}

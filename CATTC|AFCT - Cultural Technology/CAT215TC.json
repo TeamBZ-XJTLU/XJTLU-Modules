@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "CATTC",
+    "full_name": "Cultural Technology"
+  },
+  "full_name": "Post Production",
+  "module_code": "CAT215TC",
+  "offerings": [
+    {
+      "heading": "Post Production",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CATTC",
+        "full_name": "Post Production",
+        "module_code": "CAT215TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Post Production",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to: •​Enable students to develop an understanding of the video editing process and the basic skills to edit a short project from start to finish •​Understand and actively manage digital workflow from knowledge and concepts to practice In that this is an optional module, to well utilise the university resource, the module delivery is subject to meeting a minimum number of students (10).",
+        "Learning outcomes": "A Demonstrate comprehension of post-production editing software through basic timeline phases. B Demonstrate a practical knowledge of editing a short sequence and managing workflow. C Demonstrate comprehension of cinematic language and filmmaking postproduction techniques. D Demonstrate comprehension of standard industry workflows and protocols.",
+        "Method of teaching and learning": "The teaching sessions are divided into three components (Lectures, labs and private study). Lectures will focus on editing techniques and basic craft rules. An intensive series of practical workshops will equip the students with the technical skills and understanding of post-production and post-production software. Within lab work, the emphasis will shift to the manipulation of video and audio using software techniques and practical troubleshooting of equipment use."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAT215TC&psl_code=SEM2"
+    }
+  ]
+}

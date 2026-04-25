@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "AI in Smart Cities",
+  "module_code": "DTS312TC",
+  "offerings": [
+    {
+      "heading": "AI in Smart Cities",
+      "listing": {
+        "academic_year": "2028/29",
+        "domain_code": "DTSTC",
+        "full_name": "AI in Smart Cities",
+        "module_code": "DTS312TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2028/29",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "AI in Smart Cities",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to explore the next level digital transformation of the urban where we live. It focuses on core concept of smart cities, the key artificial intelligence (AI) technologies that formulate the development of smart cities, as well as important data privacy and policy implications. This module is suitable for individual interested in the application of AI techniques for better humanhood. It is especially relevant for students studying different data science, computer science or any other AI-related field where such technologies can be applied.",
+        "Learning outcomes": "A Demonstrate understanding about the concept of smart cities in the context of AI technologies implementation B Apply state-of-art AI analysis methods and models to complex urban ecosystems and sustainability. C Describe the challenges and solutions to implement the next level digital urban transformation such as public security, surveillance, living and infrastructure. D Analyse the importance of AI privacy and ethics for transparent urban digital transformation",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This philosophy is carried through in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. This module will be delivered through a combination of lectures, group discussions, case studies, and hands-on practical exercises etc. Lectures and group discussions are conducted using the Problem Based Learning paradigm focusing on student-centered learning, where they develop critical thinking and problem-solving skills to address open-ended problems that lacks a straightforward solution This module is taught with an emphasis on student learning through practice and by projects, facilitated by a module leader, and where appropriate, industrial mentors. Students can identify particular areas of learning needs or interests according to the available project(s). They will conduct independent research to gather information and resources to better define the problem. Progress towards the learning outcomes will be facilitated and monitored, where students are guided to progressively address the given problem through tasks. Independent learning will form an important aspect of the educational activities in this module. Case studies will be used to provide students with real-world examples of how the concepts and techniques covered in this module can be applied. Lab/Practical sessions will allow students to apply the techniques and tools acquired to solve real-world industry focused problems. Assessed primarily by a project, students shall gain practical experience in undertaking independent study and research on industry focused real-world problems. This module will leverage generative AI to enhance course content and teaching methods in line with the learning outcomes. By integrating advanced AI technologies, we aim to improve the efficiency of teaching and interaction, while fostering greater student autonomy and flexibility in learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS312TC&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "CATTC",
+    "full_name": "Cultural Technology"
+  },
+  "full_name": "Game Industry and Culture",
+  "module_code": "CAT402TC",
+  "offerings": [
+    {
+      "heading": "Game Industry and Culture",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CATTC",
+        "full_name": "Game Industry and Culture",
+        "module_code": "CAT402TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Game Industry and Culture",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module explores the gaming concept and how it has originated and evolved to be one of the significant activities for our leisure consumption. It reviews the techniques of the past that have influenced the gaming industry and its artists today. Students will gain a broader insight into the history, concept, art, storytelling and aesthetic of gameplay, methodologies and the principles of practice across a number of sub-genres to allow a deep understanding of where the techniques for game development used today derived.",
+        "Learning outcomes": "A Demonstrate a critical understanding of the historical practices and innovations that have informed the development of gameplay as a global phenomenon B Identify and explain contemporary technology used in gaming formats and platforms C Contextualise gaming experience and its related applications in both research and industrial environments D Formulate and execute a small-scale research project in the areas of game industries and culture",
+        "Method of teaching and learning": "The module is taught using a range of methods. Readings, viewings and discussions of pertinent texts addressing key themes from the module are introduced in the lectures before going into more details in the seminars; assessment of visual case study materials and creative processes, group discussions, oral presentations also take place, with students having the opportunity for individual discussion in regular seminars.."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAT402TC&psl_code=SEM2"
+    }
+  ]
+}

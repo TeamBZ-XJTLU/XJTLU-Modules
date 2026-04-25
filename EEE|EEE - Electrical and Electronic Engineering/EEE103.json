@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Electrical Circuits I",
+  "module_code": "EEE103",
+  "offerings": [
+    {
+      "heading": "Electrical Circuits I",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Electrical Circuits I",
+        "module_code": "EEE103",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Electrical Circuits I",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with the ability to relate the electric circuit behavior to the principles of physics, to possess basic circuit analytical skills and approaches in analyzing and solving steady-state and transient DC and AC circuits, and to interpret electric circuits in time-, frequency-, and s-domains.",
+        "Learning outcomes": "A. Interpret the laws and theorems in electric circuit analysis, including the advantages and limitations of time-, frequency-, and s-domain analyses. B. Apply steady-state and transient analysis of DC and AC circuits. C. Conduct circuit analysis for operational amplifier circuits. D. Describe the principles of physics to electric circuit phenomena (e.g., AC steady state, the influence of a capacitor and an inductor) in theoretical and/or actual circuits. E. Apply circuit analysis for switched circuits, in both source-free and driven conditions. F. Solve for the forced responses of general circuit problems using the Laplace transform.",
+        "Method of teaching and learning": "This module will be delivered through formal lectures, tutorials, in-class quizzes, and supervised laboratory sessions. Students will be exposed to circuit theories and a wide range of circuit analytical tools in the time and frequency domains. The tutorial sessions are designed to provide students with small classes to work on circuit problems related to the content delivered during the formal lecture in the same week. In-class quizzes offer timely feedback to students on their learning progress in different stages of the semester. The supervised laboratory sessions expose students to circuits and instrumentation in typical electrical and electronic domain experiments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE103&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Nutrition and Metabolism",
+  "module_code": "BIO219",
+  "offerings": [
+    {
+      "heading": "Nutrition and Metabolism",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Nutrition and Metabolism",
+        "module_code": "BIO219",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Nutrition and Metabolism",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Introduce students to human metabolism, including general concepts and key principles; Develop understanding of metabolic regulation at a cellular level; Develop understanding of how different metabolic pathways integrate to meet overall needs; Develop critical awareness of the impact of metabolic abnormalities on health and disease, as well as the impact of in-born errors of metabolism; Gain experience in interpreting and evaluating clinical data in the diagnosis and management of disease.",
+        "Learning outcomes": "A) Explain the key mechanisms & pathways of metabolic regulation B) Analyse the key principles of homeostatic control of metabolism C) Explain the key metabolic abnormalities and in-born errors of metabolism D) Critically discuss the impact of metabolic abnormalities on health and disease E) Interpret and evaluate clinical data in the diagnosis and management of disease related to metabolic abnormalities",
+        "Method of teaching and learning": "This module is taught via 10 formal lectures in 10 weeks, 1 week literature reading/workshop, and 1 week field practical demonstrations. Workshops and practical sessions will be used to expand on theoretical principles and material covered by lectures and in the prerequisite modules. Practical elements will incorporate laboratory and/or field-based work as appropriate. You will be expected to actively engage with and contribute to these sessions. Oral presentation will be performed in Topic 9/Week 9: literature reading/oral presentation, 1 week literature reading/workshop, and oral presentation will be given in Week 9 and evaluated individually. If the student number is high, they will be asked to submit their video recording via learning mall system, and evaluated individually. Field-based trip will be conducted in Topic 11/Week 11: Field investigations in different zoos or aquariums. A group report will be submitted. An in-class quiz will be conducted in week 7 or week 8 for 30 mins (the last 30 mins of the class time). The in-class quiz will be performed via learning mall system, and each student will be evaluated individually. The mark will be evaluated shortly after the quiz via Learning mall system."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO219&psl_code=SEM1"
+    }
+  ]
+}

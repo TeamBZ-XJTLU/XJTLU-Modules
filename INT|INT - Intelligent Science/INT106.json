@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Maths for Machine Learning",
+  "module_code": "INT106",
+  "offerings": [
+    {
+      "heading": "Maths for Machine Learning",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INT",
+        "full_name": "Maths for Machine Learning",
+        "module_code": "INT106",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Maths for Machine Learning",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces key mathematical foundations for machine learning, focusing on essential concepts, operations, and structures in linear algebra, as well as fundamental principles in optimization theory. Students will develop the ability to apply these mathematical tools to formulate and solve quantitative problems that arise in machine learning contexts, supported by both conceptual explanation and guided practice.",
+        "Learning outcomes": "A Describe key concepts, operations, and structures in linear algebra that support the representation and manipulation of data in machine learning. B Describe fundamental principles of optimization theory relevant to machine learning. C Apply linear algebra and optimization methods to solve mathematical problems that arise in machine learning contexts. D Analyse the performance of simple machine learning tasks and algorithms through the application of appropriate mathematical techniques.",
+        "Method of teaching and learning": "This module will be delivered through a combination of two-hour formal lectures and two-hour supervised tutorials. Lectures will introduce students to the academic content and practical skills that are the subject of the module, while tutorials will allow students to practice those skills. In addition, students are expected to engage in private study to preview and review lecture material and to complete practice exercises. Two coursework assessments will be used to evaluate the development of practical skills, while a written examination at the end of the module will assess the academic achievement of students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT106&psl_code=SEM2"
+    }
+  ]
+}

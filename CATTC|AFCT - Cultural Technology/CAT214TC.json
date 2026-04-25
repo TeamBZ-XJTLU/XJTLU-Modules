@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "CATTC",
+    "full_name": "Cultural Technology"
+  },
+  "full_name": "Directing For Live Action And Animation",
+  "module_code": "CAT214TC",
+  "offerings": [
+    {
+      "heading": "Directing For Live Action And Animation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CATTC",
+        "full_name": "Directing For Live Action And Animation",
+        "module_code": "CAT214TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 2",
+        "Module Title": "Directing For Live Action And Animation",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to: Enable students to understand the process from script to screen and use animation and/or live-action techniques to realize a short-directed sequence. Enable students to demonstrate the ability to collaborate with other professionals such as for example other filmmakers and animators, sound engineers, musicians, actors, stage designers, researchers, or potential funders for the realization of a short animation or live-action film. Enable students to demonstrate the ability to critically reflect on their decision-making and position it within a greater scope of artistic creation In that this is an optional module, to well utilise the university resource, the module delivery is subject to meeting a minimum number of students (10).",
+        "Learning outcomes": "A Demonstrate understanding of the role of the director in the production process and within the realization of a given scene/project B Demonstrate the practical skills to produce a short film or animation C Demonstrate the ability to work both autonomously and collaboratively in a project-based activity D Inform practice by placing it in a contextual and conceptual framework",
+        "Method of teaching and learning": "The teaching sessions are divided into three components (Lectures, seminars and labs). Lectures will focus on audiovisual experimentation and the work of practitioners within the field. An intensive series of practical workshops will equip the students with the technical skills and critical understanding in the context of moving image. Students will be required to demonstrate collaboration either by working with other student sin group or by collaborating with external professionals. The project parameters will be outlined in a project brief In that this is an optional module, to well utilise the university resource, the module delivery is subject to meeting a minimum number of students (10)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAT214TC&psl_code=SEM2"
+    }
+  ]
+}

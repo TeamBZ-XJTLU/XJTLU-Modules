@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FIN",
+    "domain_code": "FIN",
+    "full_name": "Finance"
+  },
+  "full_name": "Financial Strategy",
+  "module_code": "FIN407",
+  "offerings": [
+    {
+      "heading": "Financial Strategy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FIN",
+        "full_name": "Financial Strategy",
+        "module_code": "FIN407",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 4",
+        "Module Title": "Financial Strategy",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "1. To identify capital requirements of businesses and recommend relevant means of financing those requirements 2. To recognise and manage financial risks 3. To analysis investment choices and make appropriate investment decisions.",
+        "Learning outcomes": "CODE OUTCOME A identify capital requirements of businesses, assess financing options and recommend relevant methods of financing B identify the financial risks facing a business and the principal methods of managing those risks C apply appropriate investment appraisal techniques taking into account the various factors affecting investment decisions and critically evaluate the appropriateness of various techniques for a range of organisational situations D evaluate the ethical implications of an entity’s financial strategy (including those bearing upon the organisation, individuals and other stakeholders) and suggest appropriate courses of action to resolve ethical dilemmas that may arise E demonstrate a critical understanding of the basic underlying theories/literature and principles upon which modern financial strategy is based",
+        "Method of teaching and learning": "A range of teaching and learning methods will be utilized on this module. Core substantive knowledge will be delivered via a weekly 2-hour lecture, and the knowledge covered in lectures will be reinforced by practical student group work, culminating in participative tutorials of one-hour duration each week. Longer, case-based work will be delivered by means of two 2-hour seminars, which will again be participative in nature."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN407&psl_code=SEM1"
+    }
+  ]
+}

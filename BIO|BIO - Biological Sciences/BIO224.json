@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Human Anatomy and Physiology II",
+  "module_code": "BIO224",
+  "offerings": [
+    {
+      "heading": "Human Anatomy and Physiology II",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Human Anatomy and Physiology II",
+        "module_code": "BIO224",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Human Anatomy and Physiology II",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this Human Anatomy and Physiology course is to provide fundamental knowledge and understanding of the structures and functions of major organs in the human body. Specifically, the course content provides an overview of the cellular and tissue levels of human body organization, the musculoskeletal anatomy and physiology, the integumentary system, the central and peripheral nervous systems, the cardiovascular and lymphatic systems, the respiratory system, the digestive system, the urinary and reproductive systems, the endocrine system, and immunity. Additionally, students will be provided with unique learning approaches in theoretical background knowledge through lectures and online multimedia resources, laboratory hands-on practical experiences on physiological experiments, and identifying specific major structures of the human body using 3D anatomical models or virtual dissection table and apps for classroom to help students quickly construct the knowledge system. Interactive tutorial classes will be conducted according to the problem-based learning method to discuss the relevant clinical knowledge covering all the major human organ systems. The main objective of this course is to prepare students with basic knowledge and skills for future healthcare and biomedical research related careers.",
+        "Learning outcomes": "(A) Identify and describe the basic anatomy of major structures of the human body. (B) Describe the basic physiological functions of major organ systems in the human body. (C) Explain the basic biological processes and the maintenance of homeostasis of human organ systems. (D) Apply and synthesize the knowledge of structural organization and physiological functions of major human organ systems in relation to disease. (E) Apply and explain the experimental measures of physiological functions for electrocardiograms, heart sound, blood pressure, lung function test, and special senses.",
+        "Method of teaching and learning": "The Human Anatomy and Physiology course content will be delivered through innovative methods of standard lectures, interactive tutorial problem-based learning sessions, and hands on practical classes. The lectures will be delivered twice a month, while the tutorial and/or practical classes will be conducted once a month, respectively. The relevant handouts will be made available to students on e-Bridge online system. Animations, videos, anatomical models, and interactive human anatomy models and diagrams will be shown for some of the topics. Review sessions will be arranged during the tutorial and practical classes and the students will have opportunities to self-assess their understanding of the subjects and obtain spontaneous feedbacks from their teachers."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO224&psl_code=SEM2"
+    }
+  ]
+}

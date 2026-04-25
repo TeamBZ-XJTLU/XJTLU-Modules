@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "MTS",
+    "full_name": "Material Science"
+  },
+  "full_name": "Final Year Project",
+  "module_code": "MTS302",
+  "offerings": [
+    {
+      "heading": "Final Year Project",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "MTS",
+        "full_name": "Final Year Project",
+        "module_code": "MTS302",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "15",
+        "Module Level": "Level 3",
+        "Module Title": "Final Year Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are to provide students with hands-on, authentic research experience in the planning, design, and execution of an individual research project conducted on a defined topic through extended, supervised participation in either laboratory or field work. This capstone experience is integral to the BEng Materials Science and Engineering, bridging theoretical knowledge with practical applications. This module equips students with the research, analytical and communication skills and experience needed to be competitive for graduate school or post-graduation job opportunities. Students select from a variety of topics and plan, execute and report at the end of the project. Projects will be available in a wide range of topics including synthetic (organic, inorganic, ceramics, metals), physical (catalysis, electrochemistry, surface science, modeling, nanoparticles), nanotechnology, biochemistry or interdisciplinary theme, according to staff own interests and abilities. The general aims of this module are: - To expose the students to contemporary research in materials science and engineering. - To enable students to plan, execute and report on a project of their own design. - To learn the use of appropriate characterization techniques for the topic taken. - To acquire the ability to analyze experimental and computer-simulation data and have some understanding of the outcomes. - To develop an ability to work independently and be self-critical in the evaluation of risks, experimental procedures and creative thinking skills. - To learn the use of the library and other information resources as research tools or more generic tools for the appropriation of information. - To enable students to apply skills in report writing and presentation to an extended project.",
+        "Learning outcomes": "Students completing the module successfully should be able to: A. Plan and execute realistic research goals and demonstrate effective time management. B. Generate reliable and reproducible data using appropriate methodologies. C. Critically analyze/evaluate data, drawing valid conclusions and designing follow-up investigations. D. Provide a well-structured and coherent written report of project outcomes, effectively communicating scientific findings. E. Deliver an oral presentation of project findings with appropriate content, structure, and visual aids. F. Design a poster presentation summarizing research findings clearly and concisely for a professional audience.",
+        "Method of teaching and learning": "This module consists of an extended project and conducts over two semesters, and emphasizes fostering independent learning under the guidance of a supervisor. Students are provided with an overview of staff research interests and are encouraged to discuss potential projects with staff members to identify a suitable supervisor. Supervisors may propose projects, but students can also suggest their own ideas, subject to supervisor approval. Once a project is agreed upon, students are responsible for undertaking the research, managing their time effectively, and meeting all deadlines. They will engage in regular meetings with their supervisor, during which they will receive feedback on their progress and guidance on how to overcome challenges. Supervisors will also provide support in refining research methodologies and interpreting data. Day-to-day supervision and technical advice may be provided by research/technical staff or postgraduate research students. Students will attend lectures on scientific writing and presentation skills, covering literature reviews, structuring arguments, and data visualization. Students take the major responsibility for their learning in the module. The supervisor (s) gives guidance on practical work as necessary, whilst encouraging the student to be as independent as possible. The module coordinator gives health and safety training, general guidance on writing the preliminary report and dissertation, and giving poster or oral presentations with more specific guidance being provided by the supervisor (s). The Practical work will be conducted by performing experiments in the designated laboratory, or computer simulation works for a theory group, depending upon topic. After completion of the literature review, students are required to prepare a preliminary report (minimum 6 A4 pages in length, and include introduction, background with a critical literature review and project outline). At the beginning of semester 2, students will be required to have a poster presentation to show the experimental results from semester 1. At the end of semester 2, students are required to prepare a final dissertation and give an oral presentation. By the end of the module, students are expected to independently produce a high-quality research report, present their findings, and demonstrate the ability to critically evaluate their work through written and oral communication. The written report should be minimum 6000 words in length (minimum 15 A4 pages), and include a table of contents, introduction and background with a critical literature review, results and discussion, conclusions, following a general scientific paper format. The report should cite relevant contemporary literature. Progress will be assessed by regular discussions of assigned supervisors with students, by evaluation of laboratory practical skills and where appropriate the quality and quantity of their data and samples, by their results as reported in the written report, and by their ability to work independently."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTS302&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Introduction To Biochemistry",
+  "module_code": "BIO107",
+  "offerings": [
+    {
+      "heading": "Introduction To Biochemistry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Introduction To Biochemistry",
+        "module_code": "BIO107",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction To Biochemistry",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide a basic understanding of Biochemistry. The importance of life-related matters will be highlighted. Understanding of molecule structure of different types of bioorganic molecules, and metabolism/bioenergetics will be addressed",
+        "Learning outcomes": "A. Define essential concepts of biochemistry B. Outline the importance of amino acids/ proteins/ lipids/ carbohydrates/ enzymes C. Explain the principles and application of chemical reactions in life processes D. Develop laboratory skills that will aid in understanding biochemical principles E. Apply, evaluate and interpret this knowledge to solve problems in biochemistry",
+        "Method of teaching and learning": "Course content will be delivered primarily via standard lectures. Training in lab skills will be provided in the practical sessions. Lecture handouts/ lab notes/ and reports will complement the learning experience. Students will also be guided to sections of specific textbooks or other materials which will be made available on the Learning Mall Online."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO107&psl_code=SEM1"
+    }
+  ]
+}

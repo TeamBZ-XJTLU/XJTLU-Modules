@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Artificial Intelligence in Healthcare & Pharmaceutical Research",
+  "module_code": "APH113",
+  "offerings": [
+    {
+      "heading": "Artificial Intelligence in Healthcare & Pharmaceutical Research",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Artificial Intelligence in Healthcare & Pharmaceutical Research",
+        "module_code": "APH113",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Artificial Intelligence in Healthcare & Pharmaceutical Research",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will explore the integration of artificial intelligence (AI) in healthcare and pharmaceutical research. It will focus on how AI is transforming clinical trials, drug discovery, personalized medicine, diagnostics, and patient care. The module will also delve into ethical considerations, data privacy, and regulatory frameworks relevant to the use of AI in these sectors. Real-world case studies will be incorporated to enhance understanding of ethical, regulatory, and data privacy challenges.",
+        "Learning outcomes": "A．Understand the foundational principles of AI technologies and their application in healthcare and pharmaceuticals. B. Identify AI applications in drug discovery, diagnostics, and clinical trials. C. Recognize the ethical, regulatory, and data privacy challenges in AI healthcare and pharmaceutical research. D. Apply basic user-friendly AI tools/platforms to solve simple biomedical and pharmaceutical problems.",
+        "Method of teaching and learning": "The module content will be delivered through lectures, tutorials, and online placement activities, tailored for a large cohort of beginner-level students. Lectures will introduce foundational AI concepts and applications in healthcare and pharmaceuticals, supported by interactive tools and digital resources. Tutorials will provide small-group sessions for problem-solving, ethical debates, and self-assessment, ensuring personalized engagement. For placement activities, students will complete online courses like the AI in Healthcare Specialization (Coursera) and participate in virtual simulations to gain practical insights into real-world AI applications. This approach balances theoretical learning with scalable, hands-on experiences."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH113&psl_code=SEM1"
+    }
+  ]
+}

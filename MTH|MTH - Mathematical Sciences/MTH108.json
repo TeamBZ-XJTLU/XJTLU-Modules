@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Dynamic Modelling",
+  "module_code": "MTH108",
+  "offerings": [
+    {
+      "heading": "Dynamic Modelling",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Dynamic Modelling",
+        "module_code": "MTH108",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Dynamic Modelling",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To help students develop a systematic approach to problem-solving.; To give students experience of working effectively in small groups. To develop students' written presentation skills. To provide a further understanding of the techniques used in constructing, analyzing, evaluating and interpreting mathematical models. To do this in the context of population dynamics",
+        "Learning outcomes": "A. Analyse a simple problem and set about solving it. B. Make wider use of basic mathematics. C. Make simple mathematical models and critically evaluate the simplifying assumptions. D. Use techniques from elementary differential equations in tackling problems in population dynamics. E. Apply mathematical modelling methodology to problems in ecology and other settings. F. Work effectively in collaboration with others.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures, tutorials, and a couple of workshops. Students will be expected to attend formal lectures as well as to participate in supervised workshop. Lectures will introduce students to the academic content and practical skills which are the subject of the module, while the workshops will allow students to practice those skills. Students will be expected to work in a small group on a particular problem that will be assessed by a submitted report."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH108&psl_code=SEM2"
+    }
+  ]
+}

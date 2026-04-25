@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Hollywood Cinema",
+  "module_code": "COM267",
+  "offerings": [
+    {
+      "heading": "Hollywood Cinema",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Hollywood Cinema",
+        "module_code": "COM267",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Hollywood Cinema",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to provide students with an overview of the development of Hollywood cinema from a historical, industrial and formal perspective. It will equip students with an understanding of how Hollywood as an industry has adapted to technological advances and has responded to changing political, social and cultural circumstances, from the establishment and consolidation of the studio system in the classical period to New Hollywood, Indiewood and Global Hollywood. It will also consider Hollywood cinema as a highly influential set of conventions and practices and will examine its contribution to the development of popular genres and the star system, as well as discuss some of the key auteurs to have emerged from Hollywood. In the process of exploring issues of genre, stardom and authorship in Hollywood, the module will also address questions pertaining to the ideological underpinnings of popular cinema.",
+        "Learning outcomes": "A. Identify the stages of the organisation and operation of the Hollywood film industry B. Locate Hollywood films in their production, distribution and reception context C. Examine major Hollywood genres through representative films D. Apply genre theories to demonstrate the politics, ideology, and values of Hollywood films E. Engage with critical arguments on Hollywood production practices, directors or film stars",
+        "Method of teaching and learning": "Lectures Seminars Film screenings"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM267&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Principles of Toxicology",
+  "module_code": "APH423",
+  "offerings": [
+    {
+      "heading": "Principles of Toxicology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Principles of Toxicology",
+        "module_code": "APH423",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Principles of Toxicology",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduces students to the fundamental principles of toxicology, which covers the history and scope of the field; classification, absorption and distribution, metabolism and elimination of toxicants; target organ toxicity; mechanisms of toxic action; carcinogenesis; pharmaceutical toxicology as well as human and ecological risk assessment.",
+        "Learning outcomes": "A Demonstrate an in-depth understanding and critical awareness of the concepts and fundamental principles of toxicology, in particular the key roles of absorption, distribution, metabolism and excretion as determinants of toxicity. B Critically review a series of inter-related scientific principles, such as pharmacokinetic and pharmacodynamic principles, synthesise information and explain how and why toxicological processes and events occur. C Critically evaluate the complexity of toxicological issues and gain insight into the full breadth of the field of toxicology. D Demonstrate an in-depth understanding of the therapeutic and adverse effects of selected drugs, supplements, and environmental toxins. E Critically analyse and identify health conditions linked to selected toxic exposures from food, lifestyle, environment, workplace and home.",
+        "Method of teaching and learning": "The module will be delivered with a combination of lectures, tutorials and field trips. Experts from industry will be invited to co-delivering the module. Students will have opportunity to work in groups through seminars and problem-based learning sessions, while student-centred assignments will enable students to reinforce and expand their knowledge, and develop subject specific skills and competence. In addition, timely, relevant and specific, constructive and actionable feedback will be provided to students in-class, on-paper and/or in-person on for each assignment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH423&psl_code=SEM1"
+    }
+  ]
+}

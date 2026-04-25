@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Remote Sensing of the Environment",
+  "module_code": "ENV204",
+  "offerings": [
+    {
+      "heading": "Remote Sensing of the Environment",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Remote Sensing of the Environment",
+        "module_code": "ENV204",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Remote Sensing of the Environment",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will give students the opportunity to apply the key remote sensing principles and techniques that are used in environmental science in practical situations such as those used in spatial ecology, and environmental management.",
+        "Learning outcomes": "A. demonstrate an understanding of the basics of remote sensing and image processing techniques. B. comprehend common image classification methods C. assess the accuracy of image processing results D. demonstrate an understand the advanced image analysis skills, such as time series analysis, image fusion and hyperspectral analysis E. select and apply a range of remote sensing techniques to examine environmental science problems",
+        "Method of teaching and learning": "Lectures will introduce students to core remote sensing concepts. Practical skills will be developed through a series of well documented practical computer sessions, guided by lecturers. Skills re-enforcement and personal development will be via independent work. The practical exercises take longer than the time span of the practical session and there is a requirement for further work before and after the lecturer-led session. *Should the University decide to cancel or postpone the field trip due to unforeseen environmental and/or political circumstances, the Department will either plan an appropriate substitute activity to meet the intended learning outcomes of the trip or make necessary arrangements to organize the trip at a later time, as appropriate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV204&psl_code=SEM1"
+    }
+  ]
+}

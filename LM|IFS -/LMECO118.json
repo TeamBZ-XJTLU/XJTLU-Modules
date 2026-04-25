@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "LM",
+    "full_name": ""
+  },
+  "full_name": "Maths for Economics and Business",
+  "module_code": "LMECO118",
+  "offerings": [
+    {
+      "heading": "Maths for Economics and Business",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LM",
+        "full_name": "Maths for Economics and Business",
+        "module_code": "LMECO118",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Maths for Economics and Business",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the application of mathematics to economics, management and accounting. The material will show how mathematical methods can be applied to problems in market analysis, compound interest, investment appraisal and agent optimisation (eg consumer utility maximisation and firm profit maximisation). The module design takes account of students' differing mathematical backgrounds in conjunction with the need to prepare all students for second and third year courses.",
+        "Learning outcomes": "A. apply basic mathematical techniques in the study of supply and demand curves. B. demonstrate familiarity with the basic techniques of calculus and their applications to economics. C. demonstrate a working knowledge of the basic mathematics of finance.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures and tutorials. Lectures will be designed to provide essential information and introduce students to the basic tools and concepts of analysis. Tutorials will provide students with the opportunity to further develop their skills through the solution of various problems. Case study will be applied in lectures and tutorials replacing the coursework."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LMECO118&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "C/C++ Programming",
+  "module_code": "CPT112",
+  "offerings": [
+    {
+      "heading": "C/C++ Programming",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "C/C++ Programming",
+        "module_code": "CPT112",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "C/C++ Programming",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "C and C++ are popular, powerful and versatile programming languages that continue to be widely used in both academia and industry. They are high-level programming languages that allow for efficient development of complex programs and algorithms. Their high efficiency and fast execution time make them crucial for AI research, embedded systems and software applications that require real-time processing. This module aims to enable students to learn and use the C/C++ programming languages to develop algorithms and solve real engineering problems.",
+        "Learning outcomes": "A Demonstrate knowledge and understanding of the fundamental principles of the C/C++ programming languages; B Analyse, design, code, debug, test, and document computer programs in C/C++ to meet requirements supplied in a specification; C Use and build abstractions to solve problems effectively; D Analyze, understand and modify existing code written in C/C++.",
+        "Method of teaching and learning": "This module is delivered as a two-hour lecture and two-hour practical session in the computer laboratory each week. The concepts introduced during the lecture are illustrated using step-by-step analysis of example code, complete case studies and live programming tutorials. Each week the students should solve a set of exercises during the laboratory session and complete several online exercises after class. Demonstrators assist the students during the practical laboratory classes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT112&psl_code=SEM1"
+    }
+  ]
+}

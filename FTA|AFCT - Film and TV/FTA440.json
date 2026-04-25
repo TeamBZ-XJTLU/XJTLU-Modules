@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Commercialisation Project",
+  "module_code": "FTA440",
+  "offerings": [
+    {
+      "heading": "Commercialisation Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Commercialisation Project",
+        "module_code": "FTA440",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Commercialisation Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: This module is designed for those who need an understanding of the concepts of successful commercialisation of technology or innovation. With the methodology and useful knowledge of commercialisation strategies, tools and activities, the student is expected to present a practical graduate work responding to the framework of a changing world with innovative and reflective societies. Objectives: Students will apply the commercialisation concepts to draw up a commercialisation plan for taking ideally the Master project outcome forward into the industries. Students will have a sound understanding of the processes, benefits and outcomes of commercializing innovations in a commercial environment. At the end of the semester, in addition to documenting the commercialisation plan, students will present their individual or collaborative work at the graduate exhibition along with their research outcome to the panel within a professional environment. The panel may consist of potential stakeholders, partners, and target audience.",
+        "Learning outcomes": "A Examine critically the core topics of commercialisation, opportunity, starting a company and building an effective team. B Apply critically intellectual property, including patents, trademarks, copyrights, trade secrets and licensing of IP to develop a commercialisation strategy. C Evaluate critically the aspects of strategy, from product development to market entry strategies, technology adoption patterns and their associated marketing strategies. D Demonstrate the systematic understanding of financial strategy, funding of technology start-ups, funding of growing technology companies and technology valuation",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures and workshops. Lectures will be designed to provide essential information and introduce students to the basic tools of analysis, including some basic practice in applying the techniques. Tutorials will be based around exercise sheets, the completion of which and their discussion in workshops will provide students with a learning opportunity designed to extend the material introduced in the lectures. The assessments include commercialisation project proposal and pitch presentation. In the proposal, the students will describe how to put Master project outcome forward into the industries and the pitch presentation will describe the proposal."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA440&psl_code=SEM2"
+    }
+  ]
+}

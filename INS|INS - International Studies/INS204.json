@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Regional Integration: The Case Of Europe",
+  "module_code": "INS204",
+  "offerings": [
+    {
+      "heading": "Regional Integration: The Case Of Europe",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Regional Integration: The Case Of Europe",
+        "module_code": "INS204",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Regional Integration: The Case Of Europe",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module concentrates on regional integration in Europe, with a special emphasis on the creation of the European Union, the most advanced project of regional integration worldwide. The module will allow students to reflect on the question of regional integration and ponder whether and how the experiment of the EU can be applied in other regions of the world.",
+        "Learning outcomes": "A. Demonstrate knowledge of the basics of European history and politics after World War 2. B. Understand the European Union’s institutional nature and structure and how the EU makes policies and takes decisions. C. Reflect on why nation-states in Europe created the EU by exploring theories of regional integration. D. Distinguish other schemes of regional integration in Europe (NATO, Council of Europe) and know how they are related to the EU. E. Develop basic research skills and critical capacity towards empirical facts and events F. Enhance communication especially public speaking skills",
+        "Method of teaching and learning": "Lectures and seminars for rehearsal of topics"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS204&psl_code=SEM1"
+    }
+  ]
+}

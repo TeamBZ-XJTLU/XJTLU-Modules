@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LTS",
+    "domain_code": "TRI",
+    "full_name": "Translation and Interpreting"
+  },
+  "full_name": "Technology-Enhanced Audiovisual Translation",
+  "module_code": "TRI302",
+  "offerings": [
+    {
+      "heading": "Technology-Enhanced Audiovisual Translation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "TRI",
+        "full_name": "Technology-Enhanced Audiovisual Translation",
+        "module_code": "TRI302",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Technology-Enhanced Audiovisual Translation",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This is a specialised module that aims to introduce students to the translation of audiovisual texts. It illustrates the past and present technological development of audiovisual translation. It familiarises students with the various existing forms of audiovisual translation, such as subtitling, surtitling, impact captioning, dubbing, voiceover, audio description, and subtitling for the deaf and hard-of-hearing. It equips students with the basic knowledge of diverse practices of audiovisual translation, including the use of audiovisual translation technology. It also gives students some theoretical tools to develop critical examinations of audiovisual translation.",
+        "Learning outcomes": "A. Demonstrate basic knowledge of the history of audiovisual translation, particularly its technological enhancements; B. Identify the various forms of audiovisual translation, including their characteristics, professional norms, and technologies; C. Understand the complexity of multimodal meaning-making in audiovisual texts; D. Display proficiency in audiovisual translation, particularly in utilizing lab-equipped audiovisual translation technologies; E. Apply theoretical and ethical approaches to audiovisual translation.",
+        "Method of teaching and learning": "The teaching sessions are structured to include lectures and lab sessions. Lectures offer historical information about and theoretical insights into the field of audiovisual translation. Lab sessions provide instructions for practising audiovisual translation and give students the chance to use advanced audiovisual translation technologies. This integrated approach ensures that students not only comprehend the theoretical frameworks of audiovisual translation but also gain practical experience in audiovisual translation."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=TRI302&psl_code=SEM2"
+    }
+  ]
+}

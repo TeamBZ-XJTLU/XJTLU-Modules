@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Explore Creativity in Digital Media Arts",
+  "module_code": "FTA003",
+  "offerings": [
+    {
+      "heading": "Explore Creativity in Digital Media Arts",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Explore Creativity in Digital Media Arts",
+        "module_code": "FTA003",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Explore Creativity in Digital Media Arts",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module delivered in the first semester of Year 1 is to enable students to engage with the subject matter of Digital Media Art offered by the School of Film and Television Arts and to stimulate their interest in expressing themselves creatively. It will help students to understand that creativity is a ‘learned process’ that they can carry forward in everything they do.",
+        "Learning outcomes": "A Demonstrate a familiarity with the creative process inherent in Digital Media Art B Understand the design principle in Digital Media Art Programme",
+        "Method of teaching and learning": "The module is delivered through six two-hour long sessions, taught by subject specialists in Digital Media Art. Each session will be a mix of formal lecture, screenings and creative activity were students are encouraged to explore specific topics/ specific ideas within Digital Media Art."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA003&psl_code=SEM1"
+    }
+  ]
+}

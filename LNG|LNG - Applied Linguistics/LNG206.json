@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Cognitive Linguistics",
+  "module_code": "LNG206",
+  "offerings": [
+    {
+      "heading": "Cognitive Linguistics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Cognitive Linguistics",
+        "module_code": "LNG206",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Cognitive Linguistics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To give students an understanding of cognitive approaches to linguistics, including cognitive categorisation and embodiment. To introduce students to the major works in cognitive grammar, semantics, phonology and metaphor study. To provide the opportunity for students to analyse linguistic examples in terms of the theoretical perspectives introduced on the module. To encourage students to debate some of the contentious issues within cognitive linguistics, including the interaction of culture and cognition.",
+        "Learning outcomes": "A Discuss the interaction between Language, language function, and the mind. B Critically evaluate the work of a range of cognitive theorists. C Analyse linguistic problems from a cognitive perspective. D Debate the issue of universalism vs. cultural conceptualisation.",
+        "Method of teaching and learning": "Teaching will include interactive lectures and seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG206&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Computer Systems Security",
+  "module_code": "CAN304",
+  "offerings": [
+    {
+      "heading": "Computer Systems Security",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Computer Systems Security",
+        "module_code": "CAN304",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Computer Systems Security",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The Computer Systems Security module is designed to equip students with a robust understanding of the fundamental principles and practical techniques required to secure computer systems effectively. Students will gain in-depth various cyber threats, vulnerabilities, and attack vectors, alongside the skills necessary to implement, manage, and evaluate security measures to mitigate these risks.",
+        "Learning outcomes": "A. Critically analyze and evaluate a range of problems in computer security, including the assessment of different security threats and the effectiveness of existing solutions. B. Apply advanced theoretical and practical knowledge to design, implement, and critically analyze secure methods for addressing complex computer security challenges.",
+        "Method of teaching and learning": "This module employs a variety of teaching and learning methods designed to foster a deep understanding of both theoretical and practical aspects of computer systems security. Lectures provide a foundation in key concepts, exploring the intricacies of computer security threats, vulnerabilities, and countermeasures. Labs reinforce theoretical knowledge through practical application, allowing students to develop essential technical skills in a controlled environment. To support individual learning, tutorials offer personalized guidance, allowing students to address specific challenges and refine their understanding of complex security topics. Independent study is a crucial component, with students expected to conduct extensive research and analyze case studies to deepen their expertise."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN304&psl_code=SEM2"
+    }
+  ]
+}

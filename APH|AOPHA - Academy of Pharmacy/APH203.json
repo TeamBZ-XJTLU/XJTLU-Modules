@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Statistics Forecast and Decision Making",
+  "module_code": "APH203",
+  "offerings": [
+    {
+      "heading": "Statistics Forecast and Decision Making",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Statistics Forecast and Decision Making",
+        "module_code": "APH203",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Statistics Forecast and Decision Making",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce to students with basic time series models, including AR, MA, ARMA, ARIMA and GARCH models. This module will also train students to do model building from model specification, parameter estimation to diagnostic, forecasting and decision-making. This data analysis techniques will be crucial for statistics application",
+        "Learning outcomes": "A Demonstrate an understanding of time series analysis and related models B Acquire an in-depth knowledge of the statistical theories of basic time series model such as AR, MA, ARMA and ARIMA models C Detect and handle heteroscedasticity in modelling such as ARCH and GARCH models D Demonstrate an understanding of advanced models for forecasting and decision making E Be familiar with core applications in forecasting and decision making F Use programming tools to solve problems related to forecasting and decision making",
+        "Method of teaching and learning": "Course content will be delivered primarily via standard lectures that will be accompanied by suitable lecture handouts (also available on LMO). Students will also be guided to sections of specific textbooks and if reading of specific reviews or source literature is required, then copies of these will be made available to the students. Tutorials will be given as a platform to address any specific question or issue from individual students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH203&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MLC",
+    "domain_code": "CLT",
+    "full_name": "Chinese Language"
+  },
+  "full_name": "PG Chinese Language 1",
+  "module_code": "CLT401",
+  "offerings": [
+    {
+      "heading": "PG Chinese Language 1",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CLT",
+        "full_name": "PG Chinese Language 1",
+        "module_code": "CLT401",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "PG Chinese Language 1",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to help students with no prior Chinese knowledge to establish a solid foundation in their Chinese study, bringing their Chinese language proficiency to a level equivalent to CEFR A1.",
+        "Learning outcomes": "A Demonstrate understanding of basic words and phrases when spoken in Chinese B Demonstrate recognition of familiar words, phrases and simple sentences in written Chinese texts C Deliver personal information and interact orally in Chinese D Write about personal information using short sentences in Chinese E Identify very basic aspects of Chinese cultures and societies",
+        "Method of teaching and learning": "Communicative language teaching involves a high level of interaction between teacher and students. Teaching and assessment will revolve around the setting and completion of specified language tasks. Students will have 4 hours per week of integrated skills class, covering reading, writing, listening and speaking skills."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CLT401&psl_code=SEM1"
+    }
+  ]
+}

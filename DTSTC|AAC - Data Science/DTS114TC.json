@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "AI software engineering",
+  "module_code": "DTS114TC",
+  "offerings": [
+    {
+      "heading": "AI software engineering",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DTSTC",
+        "full_name": "AI software engineering",
+        "module_code": "DTS114TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "AI software engineering",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The goal of this module is to develop a comprehensive understanding of both traditional Software Engineering (SE) and AI Software Engineering (AI SE). By integrating fundamental SE principles with specialized AI practices, the course prepares students to tackle the complexities of modern software development. Key areas of focus include using Unified Modeling Language (UML) for documentation, understanding AI-specific design, and mastering deployment techniques such as Docker and CI/CD. This ensures students not only learn theoretical concepts but also gain hands-on skills necessary for building and managing advanced software systems. This module fits well within the broader educational framework, bridging the gap between academic concepts and practical application. It equips students to adapt to the evolving demands of the software industry, where traditional development methods meet innovative AI technologies. By covering ethical considerations and advanced documentation strategies, the course also teaches students to approach software development with integrity and thoroughness, preparing them for leadership roles in the field.",
+        "Learning outcomes": "A Demonstrate understanding of the core principles of Software Engineering and AI Software Engineering B Demonstrate the ability to select and apply appropriate software development methodologies C Design and Model Software Systems using UML and AI-Specific Tools D Implement and Evaluate Testing and Deployment Strategies E Address Ethical Considerations and Ensure Rigorous Documentation",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This philosophy is carried through in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The module will be delivered in a combination of lectures, seminars and labs. Lectures and group discussions are conducted using the Problem Based Learning paradigm focusing on student-centered learning, where they develop critical thinking and problem-solving skills to address open-ended problems that lacks a straightforward solution This module is taught with an emphasis on student learning through practice and by projects, facilitated by a module leader, and where appropriate, industrial mentors. Students can identify particular areas of learning needs or interests according to the available project(s). They will conduct independent research to gather information and resources to better define the problem. Progress towards the learning outcomes will be facilitated and monitored, where students are guided to progressively address the given problem through tasks. Independent learning will form an important aspect of the educational activities in this module. Case studies will be used to provide students with real-world examples of how the concepts and techniques covered in this module can be applied. Lab/Practical sessions will allow students to apply the techniques and tools acquired to solve real-world industry focused problems. This module will leverage generative AI to enhance course content and teaching methods in line with the learning outcomes. By integrating advanced AI technologies, we aim to improve the efficiency of teaching and interaction, while fostering greater student autonomy and flexibility in learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS114TC&psl_code=SEM2"
+    }
+  ]
+}

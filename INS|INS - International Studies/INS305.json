@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Country Study",
+  "module_code": "INS305",
+  "offerings": [
+    {
+      "heading": "Country Study",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Country Study",
+        "module_code": "INS305",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Country Study",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module enables BA IR students who are unable to join the International Relations Study Abroad module (INS301) to undertake alternative study to learn about another country’s culture, politics and society. It provides skills and theoretical knowledge that enables students to complete an assessment about another country.",
+        "Learning outcomes": "A Show awareness of debates within Area Studies. B Understand the social, economic, cultural and political characteristics of another country. C Develop cross-cultural awareness. D Use secondary and primary sources to offer insights into a specific country’s politics, society or history in essay form. E Develop and deliver presentation materials appropriate to a specific audience and purpose.",
+        "Method of teaching and learning": "This module will be delivered in 3 hour workshops that combine lectures, seminars, group work and work-in-progress sessions. Lectures will be designed to provide essential information and introduce students to the basic tools required to conduct Area Studies research. Seminars will be based on student-led learning activities and discussion to provide a learning opportunity designed to clarify, extend and deepen the material introduced in the lectures. Work-in-Progress sessions will enable students to work on their independent research in a workshop setting. Students are also required to engage in extensive independent learning including weekly required readings to deepen knowledge and understanding of academic scholarship and theoretical debate about Area Studies. Across the module students will be required to connect general learning to their specific country study."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS305&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Survival Analyses",
+  "module_code": "APH415",
+  "offerings": [
+    {
+      "heading": "Survival Analyses",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Survival Analyses",
+        "module_code": "APH415",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Survival Analyses",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce basic concepts and various methods of survival analysis, including modelling time-to-event data, non-parametric, semi-parametric and parametric models. SAS will be used in this module to analyze the survival data.",
+        "Learning outcomes": "A. Summarize the characteristics of survival data and different types of censorings. B. Demonstrate a thorough understanding of the basic concepts of non-parametric model. C. Demonstrate a thorough understanding of the assumptions for different survival models (parametric, semi-parametric or non-parametric methods), and be able to apply the proper method in analyzing time-to-event data. D. Perform survival analysis using a statistical software, and be able to interpret the result.",
+        "Method of teaching and learning": "The module is delivered through a combination of lectures and tutorials over a period of 13 weeks. In lectures, students are introduced to the core principles, major methodology, and common topics and issues in the area of survival analysis. Tutorials are given as a platform to address any specific question or issue from individual students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH415&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHE",
+    "domain_code": "LM",
+    "full_name": ""
+  },
+  "full_name": "Trends in Management",
+  "module_code": "LMSMO008",
+  "offerings": [
+    {
+      "heading": "Trends in Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LM",
+        "full_name": "Trends in Management",
+        "module_code": "LMSMO008",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Trends in Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This Year 1 module aims to provide students with a comprehensive foundation to the study of Management by considering the key theories, current trends and issues of relevance to their intended future study. Students are encouraged to reflect on how they will apply their learning both to their personal careers and to practical business cases. After completion of this module, students should be prepared for the following undergraduate degree programmes: BA Business Administration, BA International Business with a Language, and BA Human Resource Management. This module prepares students for both study and the workplace, by requiring them to: (1) consider key management theory, (2) analyse contemporary trends and issues, and (3) understand how theories can be applied to industry cases.",
+        "Learning outcomes": "A.Understand key management theories B.Examine current trends and issues relating to international business C.Understand how theories can be applied to business case scenarios",
+        "Method of teaching and learning": "A variety of teaching and learning techniques will be employed in the delivery of the course with aim of creating an interactive learning environment. Some seminars may be co-taught by staff from the English Language Centre, who will use activities to further develop the English language skills of students within the context of Business Administration, International Business with a Language, and Human Resource Management. Students may also be provided with online language/study skills support from the English Language Centre (ELC) to help them engage with module content."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LMSMO008&psl_code=SEM2"
+    }
+  ]
+}

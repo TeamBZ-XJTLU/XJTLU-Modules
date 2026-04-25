@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Artificial Intelligence and Big Data in Society",
+  "module_code": "COM333",
+  "offerings": [
+    {
+      "heading": "Artificial Intelligence and Big Data in Society",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Artificial Intelligence and Big Data in Society",
+        "module_code": "COM333",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Artificial Intelligence and Big Data in Society",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will explore the differences but also the interconnections between Artificial Intelligence (AI) and big data and their uses in contemporary societies. It will equip students with a historical and theoretical understanding of the ways in which AI and big data technologies have transformed various areas of human activity and social organisation. It will examine the social ramifications of some of the most popular and widely used AI applications, including machine learning-powered content curation and moderation, and prediction and influence through algorithms and chatbots. Students will be encouraged to reflect on the effects of AI and big data on privacy, labour and governance. Students will also be expected to consolidate their research skills and creative thinking by engaging with big data and AI-related issues.",
+        "Learning outcomes": "A Demonstrate a historical understanding of AI and big data development B Identify and interpret the core concepts, theories and debates related to emerging AI and big data technologies and their role in changing digital media industries, communication processes, and cultural and political life C Investigate the applications of AI and big data in digital media and communication D Critically evaluate the issues affecting consumers, citizens and governments brought about by the use and development of AI and big data in digital media and communication processes",
+        "Method of teaching and learning": "Lectures Seminars"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM333&psl_code=SEM2"
+    }
+  ]
+}

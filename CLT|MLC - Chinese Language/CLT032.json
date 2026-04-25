@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MLC",
+    "domain_code": "CLT",
+    "full_name": "Chinese Language"
+  },
+  "full_name": "Practical Chinese for Everyday Life 2",
+  "module_code": "CLT032",
+  "offerings": [
+    {
+      "heading": "Practical Chinese for Everyday Life 2",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CLT",
+        "full_name": "Practical Chinese for Everyday Life 2",
+        "module_code": "CLT032",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Practical Chinese for Everyday Life 2",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to help students with no prior Chinese knowledge to establish a foundation in their Chinese study so that they will be able to meet the basic requirements for daily social communication. This module will mainly focus on the training of listening and speaking skills, and will help to bring these skills to a level equivalent to CEFR A1. There will also be a focus on helping students to read some Chinese characters that they will regularly encounter in daily life. This module is available to all exchange students.",
+        "Learning outcomes": "A Demonstrate understanding of simple everyday topics when spoken in Chinese slowly and clearly B Demonstrate understanding of very short, simple texts in Chinese when allowed to read slowly C Provide simple information orally, ask and answer simple questions on very familiar topics in Chinese D Identify very basic aspects of Chinese cultures and societies",
+        "Method of teaching and learning": "This module takes a communicative approach to language teaching, and involves a high level of interaction between teacher and students. Teaching and assessment will revolve around the setting and completion of specified language tasks. This module includes 2*2 hours seminars plus 1 hour lecture per week. Students will have 4 hours per week of integrated skills class, covering listening and speaking skills, as well as some reading skills and the Pinyin Romanization system. The lecture, which is a large group practice and review session, will be designed to support student learning in and after class."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CLT032&psl_code=SEM2"
+    }
+  ]
+}

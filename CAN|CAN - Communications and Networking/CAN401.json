@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Cloud Computing",
+  "module_code": "CAN401",
+  "offerings": [
+    {
+      "heading": "Cloud Computing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Cloud Computing",
+        "module_code": "CAN401",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Cloud Computing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides students with a comprehensive exploration of the fundamental principles, enabling technologies, architectural models, and practical applications of Cloud Computing. Students will gain in-depth knowledge of core concepts such as virtualization, containerization, distributed data storage, resource management, and key service/delivery models (IaaS, PaaS, SaaS). The curriculum equips learners to analyze cloud system design—including scalability, reliability, and workload balancing—and evaluate the benefits and challenges associated with cloud adoption. Furthermore, the module examines advanced topics such as cloud-enabled IoT platforms, edge computing paradigms, and the role of cloud infrastructure in supporting emerging fields such as digital twins. The module fits into the broader curriculum by establishing a solid foundation in cloud technologies and distributed systems architecture. It prepares students for professional roles in cloud architecture, distributed systems development, and IT solution design, enabling them to contribute effectively in a rapidly evolving technological landscape.",
+        "Learning outcomes": "A. Analyze core cloud computing concepts, models, and technologies, and evaluate their application in contemporary practices. B. Critically evaluate different cloud service and deployment models, differentiating their architectural mechanisms, and comparing their strengths and weaknesses for given scenarios. C. Design and develop cloud-based solutions to real-world problems by adapting and integrating appropriate cloud technologies and design patterns, justifying the approach taken.",
+        "Method of teaching and learning": "Students will be expected to attend two hours of a formal lecture and two hours for either a tutorial or a lab section in a typical week. Lectures will introduce students to the academic content. Tutorials will be used to expand the students understanding of lecture materials. In addition, students will be expected to devote unsupervised time to private study. Private study will provide time for reflection and consideration of lecture material and background reading."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN401&psl_code=SEM1"
+    }
+  ]
+}

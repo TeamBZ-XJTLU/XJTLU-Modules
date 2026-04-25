@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MLC",
+    "domain_code": "CLT",
+    "full_name": "Chinese Language"
+  },
+  "full_name": "Chinese Language 10",
+  "module_code": "CLT010",
+  "offerings": [
+    {
+      "heading": "Chinese Language 10",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CLT",
+        "full_name": "Chinese Language 10",
+        "module_code": "CLT010",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Chinese Language 10",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module is intended for students who have previous knowledge of the Chinese language (B1+ or equivalent) and it will progress in their Chinese proficiency to a level of equivalent to CEFR B2. • To consolidate and widen further the knowledge of the Chinese language, including grammar and lexis. • To enhance communicative proficiency in Chinese, in both writing and oral (presentation and interaction). • To develop further listening and reading skills. • To broaden the knowledge of contemporary China • To develop intercultural awareness of China and Chinese speaking cultures. All the Chinese language modules have been developed taking into account the QAA benchmark statements for a full or minor component in a language. QAA benchmark statements relate to the language component comprising at least one-third of the study total, resulting in students at the end of the relevant degree programme being at level C1. These Chinese modules make up less than one third of study and so the realistic minimum that would be achieved for a student starting at a beginner level in year 1 is CEFR B1+, though students with some initial knowledge would be at B2+.",
+        "Learning outcomes": "A. Demonstrate understanding of the main points of complex speech on concrete and abstract topics within a field of interest. B. Demonstrate clear understanding of the main points of complex texts in different writing styles within a field of interest. C. Address a topical issue in a critical manner in the context of either an oral presentation or a discussion. D. Write clear, well-structured texts in a field of interest and explain a viewpoint on a topical issue. E. Demonstrate deep knowledge and understanding of Chinese cultures and societies",
+        "Method of teaching and learning": "This module places emphasis on a task-based teaching philosophy, with tasks provided throughout the teaching process. It advocates allowing students to learn and grasp the knowledge and skills of the language through the completion of assignments, and to improve their communication and comprehensive language abilities. All the seminars and lectures are delivered in Chinese. The lecture, which is a large group practice and review session, will be designed to support student learning in and after class."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CLT010&psl_code=SEM2"
+    }
+  ]
+}

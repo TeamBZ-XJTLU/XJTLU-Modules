@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Business Ethics and Responsibility",
+  "module_code": "SMO422",
+  "offerings": [
+    {
+      "heading": "Business Ethics and Responsibility",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Business Ethics and Responsibility",
+        "module_code": "SMO422",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 4",
+        "Module Title": "Business Ethics and Responsibility",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This is an optional module for the IMBA programme. The module will introduce you to concepts of corporate responsibility and business ethics and their importance for contemporary business. It investigates the relationship between organisations and their stakeholder groups, and the main responsibilities that a corporation holds towards different stakeholders, as well as how ethical issues influence corporate reputation and long-term performance.",
+        "Learning outcomes": "A. Understand the main theories of corporate responsibility and business ethics. B. Analyse the impact of corporate responsibility and business ethics issues on stakeholder relationships and business performance. C. Assess the wider influence of corporate responsibility and business ethics on corporate reputation and the relationship between business and society. D. Reflect on the role of responsible and ethical leadership in organisations. E. Analyze the ethical issues emerging from the use of AI in business contexts and propose potential mitigation solutions.",
+        "Method of teaching and learning": "Seminars Case Study Group Discussion"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO422&psl_code=SEM2"
+    }
+  ]
+}

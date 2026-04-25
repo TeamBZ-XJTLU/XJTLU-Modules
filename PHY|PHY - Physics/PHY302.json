@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Relativity",
+  "module_code": "PHY302",
+  "offerings": [
+    {
+      "heading": "Relativity",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "PHY",
+        "full_name": "Relativity",
+        "module_code": "PHY302",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Relativity",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To impart (i) a firm grasp of the physical principles behind Special and General Relativity; (ii) technical competence in the mathematical framework of the subjects - Lorentz transformation, coordinate transformations, geodesics, and tensors in Riemannian geometries; (iii) knowledge of some of the classical tests of General Relativity, such as the precession of the perihelion and gravitational deflection of light; (iv) basic concepts of black holes.",
+        "Learning outcomes": "A. Interpret geometrical aspects of flat and curved spacetimes and quantities defined in these spaces. B. Perform calculations involving Lorentz transformations, energy-momentum conservation, and the Christoffel symbols proficiently. C. Derive and solve geodesic equations for objects in curved geometries. D. Interpret physical and mathematical components pertaining to Einstein’s field equations. E. Analyze the Schwarzschild solution and evaluate the motion of particles and light in its geometry.",
+        "Method of teaching and learning": "This module will be delivered using formal lectures."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY302&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "International Business Law",
+  "module_code": "SMO204",
+  "offerings": [
+    {
+      "heading": "International Business Law",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "International Business Law",
+        "module_code": "SMO204",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "International Business Law",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides students with a general, non-specialist introduction to the areas of international business law, to give them a general understanding of the principal areas of law that may be encountered in future professional practices.",
+        "Learning outcomes": "A. Understand the characteristics, sources, and effectiveness of international law. B. Compare and contrast the key features of different legal systems. C. Demonstrate a broad and general understanding of international business law, including the United Nations Convention on Contracts for the International Sale of Goods, WTO law, and international labor protection. D. Evaluate the advantages and limitations of different dispute resolution mechanisms in international business.",
+        "Method of teaching and learning": "The module will be delivered through a combination of lectures and tutorials. The lectures will provide a basic guide and introduction to a particular issue. The small group tutorials will enable students to clarify their understanding of the information delivered in the lecture, and will enable them to explore each topic in more detail through discussion and debate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO204&psl_code=SEM1"
+    }
+  ]
+}

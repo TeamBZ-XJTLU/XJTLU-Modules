@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Antennas",
+  "module_code": "CAN305",
+  "offerings": [
+    {
+      "heading": "Antennas",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Antennas",
+        "module_code": "CAN305",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Antennas",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To introduce fundamental antenna principles and concepts based on the underlying electromagnetic theory.",
+        "Learning outcomes": "A. Demonstrate understanding of antenna fundamental concepts such as near and far fields and their distribution, radiation resistance and its calculation, radiation patterns and their relationship to antenna gain and directivity. B. Use Maxwell's equations to solve problems related to antenna and use specialised software to analyse and design antenna. C. Demonstrate knowledge and understanding of electromagnetic propagation in various scenarios and media. D. Demonstrate their ability to analyse and design simple antenna systems. E. Apply their theoretical knowledge to design and evaluate simple antenna systems.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures, tutorials sessions and seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN305&psl_code=SEM1"
+    }
+  ]
+}

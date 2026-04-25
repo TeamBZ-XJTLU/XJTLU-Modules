@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Molecular Biology Techniques",
+  "module_code": "BIO113",
+  "offerings": [
+    {
+      "heading": "Molecular Biology Techniques",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Molecular Biology Techniques",
+        "module_code": "BIO113",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Molecular Biology Techniques",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce the concepts and principles of molecular biology techniques used to manipulate and analyse genes, as well as how these techniques can be used to further our understanding of normal cell function and human disease processes. It also provides practical experience in many of the key techniques currently used in molecular biology. As such, it provides a foundation for more advanced practicals in later years.",
+        "Learning outcomes": "A Acquire knowledge of the concepts and principles of the basic technologies used to isolate and characterize nucleic acids, and to clone and study genes. B Acquire practical experience of the techniques used to clone and study genes. C Understand how molecular biology technologies can be applied to understand many problems in biology and medicine.",
+        "Method of teaching and learning": "The contents of the lecture component of the module will be delivered using standard lecture formats, and will be accompanied by suitable lecture hand-outs (also available online). Students will also be guided to sections of specific textbooks, reviews or source literature. The practical component will be conducted in the Teaching Laboratories in Biological Sciences. Each practical will be preceded by a review session to remind students of the underlying concepts and anticipated learning outcomes. The session will also highlight critical parts of the practical where particular care is needed, both from a safety viewpoint and also to facilitate successful completion. In the laboratory session, students will work individually or within small groups and receive help in the planning, execution and interpretation of the experiments from academic staff and demonstrators. Course manuals will provide theoretical background, detailed protocols & procedures and, where appropriate, example of worked data."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO113&psl_code=SEM2"
+    }
+  ]
+}

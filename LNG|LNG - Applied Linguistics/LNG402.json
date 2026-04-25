@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Language Testing and Assessment",
+  "module_code": "LNG402",
+  "offerings": [
+    {
+      "heading": "Language Testing and Assessment",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Language Testing and Assessment",
+        "module_code": "LNG402",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Language Testing and Assessment",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The main aims of the module are: To introduce students to the most relevant literature in language assessment, including the concepts of validity and reliability of language tests. • To familiarize students with some common types of test items and alternative assessment tools. • To provide students with skills of designing language tests both in paper and in computer mode. • To provide students with relevant knowledge to critically evaluate language tests and assessment tools.",
+        "Learning outcomes": "Students completing the module successfully should: CODE OUTCOME A describe the purposes and uses of language assessment B evaluate critically some current popular types of language assessment C design language assessment tailored for specific purposes and for students of different levels D understand testing terminology required to read key literature on language assessment",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: lectures and tutorials/workshops."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG402&psl_code=SEM2"
+    }
+  ]
+}

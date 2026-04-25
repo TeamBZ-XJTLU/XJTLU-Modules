@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Fundamentals of Machine Learning",
+  "module_code": "INT401",
+  "offerings": [
+    {
+      "heading": "Fundamentals of Machine Learning",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INT",
+        "full_name": "Fundamentals of Machine Learning",
+        "module_code": "INT401",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Fundamentals of Machine Learning",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a foundation in machine learning (ML), covering core principles, algorithms, and practical applications. By the end of the module, students will be able to analyze, implement, and optimize machine learning models to solve real-world problems, thus combining theoretical knowledge with practical skills. This module integrates with students' broader studies in fields such as computer science, data science, or artificial intelligence. It helps students strengthen their knowledge and skills in programming, statistics, or algorithms, and prepares them for advanced topics such as intelligent systems, data analysis, and research.",
+        "Learning outcomes": "A. Critically analyse the theoretical foundations of machine learning, including the formalisation of learning problems and the limitations of different algorithmic approaches. B. Systematically evaluate and compare the properties of machine learning algorithms (such as computational complexity, scalability, and generalisation performance) to determine their suitability for given contexts. C. Design and implement machine learning algorithms to solve practical learning problems, employing appropriate data preprocessing and model selection techniques. D. Optimise the performance of machine learning models by customising features and tuning hyperparameters, justifying design choices made.",
+        "Method of teaching and learning": "This module adopts an integrated learning approach, combining lectures, hands-on labs, and coursework to ensure a balance between theoretical understanding and practical application. Key content includes: Lectures: Covers fundamental machine learning concepts, algorithms, and theoretical foundations (e.g., bias-variance tradeoff, generalization, and optimization). Interactive labs: Provides hands-on experience using machine learning tools (e.g., Python, NumPy, Scipy) to implement and experiment with algorithms. Coursework (CW1, CW2, CW3): Structured assignments that progressively assess theoretical understanding, critical analysis, and practical application. Self-study: External reading and online resources are used to reinforce key concepts."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT401&psl_code=SEM1"
+    }
+  ]
+}

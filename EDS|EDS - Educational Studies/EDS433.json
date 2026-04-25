@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Syntegrative Project: Digital Education",
+  "module_code": "EDS433",
+  "offerings": [
+    {
+      "heading": "Syntegrative Project: Digital Education",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Syntegrative Project: Digital Education",
+        "module_code": "EDS433",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Syntegrative Project: Digital Education",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module focuses on the understanding and application of various design approaches, methods of digital education, and quality practice in digital pedagogy, with a particular focus on how digital data and emerging technologies such as AI are shaping pedagogical decisions. It will help learners adopt a design-led and research-informed mindset on the development and creation of online or digitally-mediated modules, programmes or other technology products, projects, or services in a range of settings-including formal, informal, workplace and other learning contexts. It will also explore the benefits and challenges associated with digital practice in contemporary, complex teaching and learning situations. In EDS 431, students focused on design on a curriculum level and learned how to design programmes that thoughtfully incorporate digital means and strategies. Built upon EDS 431’s knowledge and skills on curriculum design in digital education, in EDS 433, students will continue to develop and practice the skills for designing educational activities and tasks in a broader and deeper scope to address real-world educational issues, using digital means as a response to changing educational scenarios.",
+        "Learning outcomes": "A. Demonstrate and share systematic and comprehensive knowledge of the key designing approaches and techniques of digital education B. Apply theories and concepts of digital educational design and future-oriented thinking in creating technologies or tools to respond to real-world specific educational aims and issues. C. Critically evaluate the benefits and challenges associated with the creation and/or use of digital education tools based on solid data and well-designed methodologies, and make recommendations on implementing new designs in real-world educational sectors.",
+        "Method of teaching and learning": "The teaching sessions are interactive, delivered online-onsite blended, and composed of three components: Lectures, Lab/Practicals, and Fieldwork/Placements. Multiple learning and teaching approaches will be utilized, such as e-learning, flipped classrooms, and project-based learning with technology. Both formative and summative assessments will be applied, including oral and written feedback from faculty and peers. The module provides students with hands-on experiences to design and implement digital education tools and practices. These experiences include Fieldwork/Placements that provide opportunties for students to test their solutions and designs with real-world users and collect data for further reflection and iteration."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS433&psl_code=SEM2"
+    }
+  ]
+}

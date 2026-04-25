@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Globalization And Education: Critical Perspectives",
+  "module_code": "EDS401",
+  "offerings": [
+    {
+      "heading": "Globalization And Education: Critical Perspectives",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Globalization And Education: Critical Perspectives",
+        "module_code": "EDS401",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Globalization And Education: Critical Perspectives",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The main aims of this module are: 1. To promote students' understanding and critical analysis of the interrelationships between international education and globalization 2. To promote the concepts of international education and globalization, especially how they are contested at a conceptual, ideological and philosophical level 3. To stimulate debate relating to the concept of international education and its relevance to educational initials within China 4. To recognize issues which are of particular relevance to the development of international education, especially in higher education 5. To encourage participants’ reflection upon their own experiences, professional practice and how it may be improved through greater understanding of the above mentioned issues.",
+        "Learning outcomes": "A. Demonstrate a critical understanding of the relationship between globalization and education B. Understand and evaluate issues relevant to students and academic staff in the context of global education within all levels of education and education situations, especially within China C. Relate their own experiences to understanding of issues within a global context, enabling improvement of their own practice",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: lectures and tutorials/workshops. The mode of delivery can be online, offline, or blended learning. The tutorials/workshop component will be interactive, using a project-based approach where appropriate. The tutorials/workshops will build on the material covered in the lectures."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS401&psl_code=SEM1"
+    }
+  ]
+}

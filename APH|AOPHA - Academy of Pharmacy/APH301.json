@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Final Year Project",
+  "module_code": "APH301",
+  "offerings": [
+    {
+      "heading": "Final Year Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Final Year Project",
+        "module_code": "APH301",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 3",
+        "Module Title": "Final Year Project",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "FYP of BSc Applied Statistics programme aims to provide students with experience in the planning, design and execution of a research project in the field of biostatistics which may provide information for evidence-based decision making in medical or pharmaceutical research and appreciate the use of biostatistical methodology as a tool in medical and pharmaceutical advancement. FYP also aims to provide students with experience of carrying out a large piece of individual work and in producing a dissertation, and to enhance their oral and written communication skills.",
+        "Learning outcomes": "A Specify a real-world problem, acquire a comprehensive understanding of the background, principles and theories, methodologies and techniques needed to solve the problem B Design and conduct a substantial research project C Locate or generate reliable data/information relevant to their projects D Come to a solution to a substantial problem E Critically analyze and evaluate data/information, methodologies, results and conclusions F Interpret the results and try to place them in the context of related field G Compose a written report of their project outcomes in an appropriate style H Prepare and deliver a formal presentation I Demonstrate time-management skills",
+        "Method of teaching and learning": "Students will mainly study and research under supervision. Two introductory seminars will be given by the module coordinator to provide students with essential health and safety training, general guidance on writing the preliminary report and dissertation, and giving poster or oral presentations."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH301&psl_code=ACYR"
+    }
+  ]
+}

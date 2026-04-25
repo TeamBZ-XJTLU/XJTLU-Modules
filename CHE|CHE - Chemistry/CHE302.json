@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Advanced Physical Chemistry",
+  "module_code": "CHE302",
+  "offerings": [
+    {
+      "heading": "Advanced Physical Chemistry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Advanced Physical Chemistry",
+        "module_code": "CHE302",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Advanced Physical Chemistry",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to extend student's knowledge of Physical Chemistry to include specialised topical area including 1. Fundamental of Statistical Thermodynamics. 2. Surface chemistry and Colloidal chemistry. 3. Physical Chemistry of condensed matter and electrochemistry of fuel cell.",
+        "Learning outcomes": "By the end of the module, students should be able to A/ Evaluate macro-thermodynamic information from the statistical micro-thermodynamics point of view. B/ Critically discuss the relationship between reaction equilibrium and molecular partition function. C/ Evaluate surface phenomena and the properties of colloids, micelle and membrane. D/ Critically discuss the physical chemistry of fuel cells. E/ Apply equations relating to the physical chemistry of the condensed state covered in the lectures and to use these in problem solving.",
+        "Method of teaching and learning": "Lectures will be used to provide the background knowledge necessary for students to succeed in this module. The lectures will be supported by tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE302&psl_code=SEM1"
+    }
+  ]
+}

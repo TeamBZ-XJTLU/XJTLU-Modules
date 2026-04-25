@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Quality Assurance For Drugs and Biologics",
+  "module_code": "APH430",
+  "offerings": [
+    {
+      "heading": "Quality Assurance For Drugs and Biologics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Quality Assurance For Drugs and Biologics",
+        "module_code": "APH430",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Quality Assurance For Drugs and Biologics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "• Understand the basic Quality Assurance (QA) and regulations for drugs and biologics • Introduction of CMC manufacturing processes, control strategies, analytical methods and specifications to meet the regulatory regulations • Understand the regulatory risk assessments, audits, and inspections",
+        "Learning outcomes": "By the end of this module, students will be able to: A. Understand the procedures of quality assurance for drugs and biologics and internal audits and regulatory inspections B. Understand the different perspectives between drugs and biologics in regulation C. Design control strategies and specifications to meet regulatory standards for specific pharmaceutical products.",
+        "Method of teaching and learning": "• Lectures on key topics • Tutorials with quizzes and case studies • Field trips to learn about real-world implementation of quality assurance strategies • Individual reports to critically appraise the given case studies"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH430&psl_code=SEM2"
+    }
+  ]
+}

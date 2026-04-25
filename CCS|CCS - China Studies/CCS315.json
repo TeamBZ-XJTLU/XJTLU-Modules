@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "China’s Art History: Approaches to Visual and Material Culture",
+  "module_code": "CCS315",
+  "offerings": [
+    {
+      "heading": "China’s Art History: Approaches to Visual and Material Culture",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "China’s Art History: Approaches to Visual and Material Culture",
+        "module_code": "CCS315",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "China’s Art History: Approaches to Visual and Material Culture",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with essential skills for analyzing visual and material cultures through a range of case studies in Chinese art history, spanning different historical periods as well as contemporary China. It also seeks to guide students in understanding the mutual constitution of Chinese art and broader social, political, and cultural histories, both within China and in a global context.",
+        "Learning outcomes": "A. Demonstrate knowledge of various visual art and material artefacts and styles throughout China’s history. B. Engage critically with the concept of ‘art’ in a Chinese context. C. Explain the intertwined history of art, culture, politics and society, as well as the role that plays in artistic changes across time and space. D. Demonstrate nuanced analysis of visual and material culture. E. Critically position art as active agents in Chinese and global history. F. Explain art from the perspective of global history.",
+        "Method of teaching and learning": "Lectures will provide an overview of the weekly topic. Seminars will provide an opportunity for students to discuss concepts and their applicability, analyse the visual and material resources, and learn how to apply acquired skills for better reasoning and debate. The virtual learning environment will be used to help students to engage with module content."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS315&psl_code=SEM2"
+    }
+  ]
+}

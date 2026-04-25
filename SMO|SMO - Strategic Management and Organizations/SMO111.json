@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Quantitative Research Methods in Management Research",
+  "module_code": "SMO111",
+  "offerings": [
+    {
+      "heading": "Quantitative Research Methods in Management Research",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Quantitative Research Methods in Management Research",
+        "module_code": "SMO111",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Quantitative Research Methods in Management Research",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the foundational principles and basic quantitative research methods relevant to management studies. It focuses on core concepts of research design, common methods of data collection, descriptive and introductory data analysis, and cultivates students’ ability to understand and interpret quantitative evidence in management research. The module also emphasizes ethical considerations in quantitative research and equips students with essential methodological literacy, establishing a solid foundation for subsequent advanced research modules and their final year project.",
+        "Learning outcomes": "A. Understand the basic concepts and processes of quantitative research and distinguish it from qualitative research. B. Demonstrate an ability to formulate research questions for introductory quantitative studies. C. Demonstrate understanding of common data collection methods and basic analytical approaches. D. Demonstrate an ability to interpret simple quantitative results. E. Demonstrate an awareness of ethical issues in quantitative research.",
+        "Method of teaching and learning": "This module is delivered through both lecture and tutorial sessions. Lectures will cover key research concepts and methodologies, providing a theoretical foundation. Tutorials will focus on practical application, using real data for analysis and reporting. These sessions will include group discussions, analysis of quantitative research papers, and problem-solving exercises to reinforce the concepts introduced in lectures. Additional material will be in the form of web-based reading and research, selected texts, journal articles and contemporary magazine and press articles."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO111&psl_code=SEM1"
+    }
+  ]
+}

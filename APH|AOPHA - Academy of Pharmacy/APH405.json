@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Modern Separation Techniques and Applications",
+  "module_code": "APH405",
+  "offerings": [
+    {
+      "heading": "Modern Separation Techniques and Applications",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Modern Separation Techniques and Applications",
+        "module_code": "APH405",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Modern Separation Techniques and Applications",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with the key concepts and principles, explore the wide range of separation phenomena, and review the varied aspects of separation techniques for dealing with problems encountered by professionals in this rapidly expanding field. It focuses on selected separation technologies and their applications, especially in pharmaceutical industry at an advanced level.",
+        "Learning outcomes": "A understand the importance of modern separation techniques and their applications in industries, especially in pharmaceutical industry B demonstrate good understanding of the basic concepts of the separation techniques C demonstrate good understanding of the instrumental configurations and the principles D critically evaluate the advantages and disadvantages of different techniques used in biochemical and pharmaceutical fields E understand the differences between ‘limitations of a technology’ and ‘machine limitation’ F develop method(s) for certain applications G operate the instruments independently H Understand, consider and apply research ethics and health and safety regulations to prioritize, arrange and organize lab work",
+        "Method of teaching and learning": "Lectures, tutorials and lab practicals."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH405&psl_code=SEM2"
+    }
+  ]
+}

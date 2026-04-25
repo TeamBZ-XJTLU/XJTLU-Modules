@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Multimedia PR Campaigns",
+  "module_code": "COM241",
+  "offerings": [
+    {
+      "heading": "Multimedia PR Campaigns",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Multimedia PR Campaigns",
+        "module_code": "COM241",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Multimedia PR Campaigns",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to introduce students to the fundamentals of Public Relations (PR) with a specific focus on multimedia PR campaigns. It combines theoretical learning and practical exercises to help students develop a campaign plan that includes multimedia content. Students will learn about key roles and stages in the PR campaign planning process, including background research, audience analysis, and media channel selection. Through hands-on-experiences, they will also gain the skills to formulate realistic PR objectives and translate them into actionable communication strategies. By the end of the module, students will have a clear understanding of how to analyse, plan, create, and reflect on multimedia PR campaigns that effectively reach their target audience.",
+        "Learning outcomes": "A. Demonstrate an understanding of the principles and practices of public relations B. Critically analyse and evaluate the effectiveness of existing PR campaigns C. Reflect upon different communication strategies used in a PR campaign D. Research and analyse information to understand organisational goals, audience, and media channels E. Develop multimedia content to communicate the key messages of a PR campaign",
+        "Method of teaching and learning": "Lectures Lab/Practicals Video shoots"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM241&psl_code=SEM1"
+    }
+  ]
+}

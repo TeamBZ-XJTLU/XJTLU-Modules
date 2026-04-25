@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Internship I: Problem Context Understanding",
+  "module_code": "IOM444",
+  "offerings": [
+    {
+      "heading": "Internship I: Problem Context Understanding",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Internship I: Problem Context Understanding",
+        "module_code": "IOM444",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 4",
+        "Module Title": "Internship I: Problem Context Understanding",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module is to introduce students to the company’s operations and the specific challenges the company faces due to the identified problem. The focus will be on understanding the company culture, operations, and key stakeholders, as well as exploring the consequences of the problem within the company.",
+        "Learning outcomes": "A. Demonstrate a comprehensive understanding of the company’s business model, departments, and workflows. B. Identify the key stakeholders involved in the project and understand their roles. C. Investigate how the identified problem impacts various aspects of the company (e.g., production, efficiency, customer satisfaction). D. Understand the broader consequences of the problem, including financial, operational, and reputational effects. E. Develop relationships with key stakeholders, such as managers, team members, and clients, to better understand their perspectives on the problem. F. Propose new perspective to the decision-making processes within the company.",
+        "Method of teaching and learning": "• Site Visits and Tours: Students will tour the company to see the operations firsthand and observe how different departments are affected by the problem. • Interviews and Observations: Students will conduct interviews with stakeholders, such as managers and employees, and observe daily operations to gain insights into the challenges faced. • Discussions and Debriefs: Regular discussions with faculty and industry professionals to reflect on observations and experiences. • Shadowing and Team Participation: Students will have the opportunity to shadow team members and participate in day-to-day activities to gain an understanding of the company’s operations and culture."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM444&psl_code=SEM2"
+    }
+  ]
+}

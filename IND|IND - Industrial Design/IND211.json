@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IND",
+    "domain_code": "IND",
+    "full_name": "Industrial Design"
+  },
+  "full_name": "Electronics For Industrial Design",
+  "module_code": "IND211",
+  "offerings": [
+    {
+      "heading": "Electronics For Industrial Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IND",
+        "full_name": "Electronics For Industrial Design",
+        "module_code": "IND211",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Electronics For Industrial Design",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Many of the objects of mass industrial mass production contain or relate to electrical and electronic componentry. As such, industrial designers are continuously called upon to specify functionality which relies on understanding the contribution of electronics to that object. This module introduces student industrial designers to the cultural and commercial contexts and issues which pertain to the design and production electrical products. More specifically students will learn about about the basic technical and engineering parameters and requirements for designing for electrical arrangements. They will learn about how to consider power, safety, functionality, interaction, controls for inputs, outputs, internal arrangements, product volumes and envelopes. Students will be taught specific visualization technqiues for communicating the electrical specifications of products.",
+        "Learning outcomes": "A. Identify and describe fundamental types and principles of electrical/electronic components. B. Illustrate electrical/electronics product functionalities using a range of 2D and 3D visualization techniques. C. Assemble and disassemble consumer electrical/electronic components as part of prototyping and testing. D. Successfully integrate a range of electrical/electronic components for the achievement of specific products functionalities. E. Apply electrical/electronic components and knowledge to the development of interactive design applications.",
+        "Method of teaching and learning": "This module will be delivered through briefing lectures followed by demonstrations in dedicated studios, workshops and labs. Additionally students will receive group and individual tutorials and set exercises, which they will complete in their self-directed learning time."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IND211&psl_code=SEM1"
+    }
+  ]
+}

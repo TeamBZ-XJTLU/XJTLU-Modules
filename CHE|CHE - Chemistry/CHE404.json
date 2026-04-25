@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Electronic Structure Theory With Associated Numerical Methods And Computing",
+  "module_code": "CHE404",
+  "offerings": [
+    {
+      "heading": "Electronic Structure Theory With Associated Numerical Methods And Computing",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "CHE",
+        "full_name": "Electronic Structure Theory With Associated Numerical Methods And Computing",
+        "module_code": "CHE404",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Electronic Structure Theory With Associated Numerical Methods And Computing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with a comprehensive understanding of (a) electronic structure theory and (b) how this is implemented on a computer, The Electronic Structure Theory part of this module supplies the basic foundations on which Computational chemistry rests. For this reason, it should be taught in Semester 1 ahead of the other modules on this pathway which build on these foundations. The material taught on this module will enable the student to answer for themselves questions like: Why is approximation needed What are the different levels of approximations, what are the justifications for using them, and what are their advantages and disadvantages How is an atom approximated computationally How are molecules approximated from the approximated atoms How can negative issues associated with the approximations be reduced The numerical Methods part of the module is intended to equip the student with a good appreciation of how the approximations are implemented on a computer, how computer algorithms solve mathematical equations relevant to molecular modelling, etc. With this understanding of the principles, the student will be able to better resolve issues with their computational simulations when things do not go as expected, be able to implement more computationally efficient strategies to solve their problem of interest, etc THis emester 1 module sets the foundation for the remainder of the pathway. This is beacuse the three Semester2 modules on this pathway build on the principles taught in this module.",
+        "Learning outcomes": "A Understand the Hartree-Fock method: including the generalized molecular Hamiltonian, the Born-Oppenheimer approximation, wave-functions as Slater determinants, basis-set representation of atomic orbitals, the LCAO approach, the variational principle and the SCF method, B Have an appreciation of post-HF treatment of electron correlations: including time-dependent perturbation theory, configuration interaction, and couple-cluster methods, C Understand the Density Functional Method: including H-K and K-S DFT, exchange functionals (LD(S)A, GGA, meta-GGA, HF-DFT hybrids, Long-range corrected methods), Correlation functionals (VWN, LYP), D Write simple code that used numerical methods to implement some of the elements used in computational chemistry packages including: power series solution of differential equations, numerical integration, minimization and eigenvalue problems.",
+        "Method of teaching and learning": "26 one-hour lectures and 8 two-hour problem classes"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE404&psl_code=SEM1"
+    }
+  ]
+}

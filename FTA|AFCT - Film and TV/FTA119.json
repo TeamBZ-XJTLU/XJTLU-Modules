@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Tv Graphic Design And Special Effects",
+  "module_code": "FTA119",
+  "offerings": [
+    {
+      "heading": "Tv Graphic Design And Special Effects",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Tv Graphic Design And Special Effects",
+        "module_code": "FTA119",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "Tv Graphic Design And Special Effects",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to: Enable students to understand the graphic system for the TV program, especially in a TV studio context, and basic graphic design skills including graphic design software and the idea of a graphic rebranding system. Enable students to understand what a particular graphic item might mean in the context of a TV program. Students will work independently to develop their ideas and produce their graphic system.",
+        "Learning outcomes": "A Demonstrate their knowledge of the TV program’s rebranding graphic system. B Preliminarily understand the different effects of different parts of the graphic system in the context of a TV program. C Demonstrate the capabilities of creating graphic work with the specified graphic system, such as 3dmax, After Effect, Vizrt, etc.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: lectures and practical workshops."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA119&psl_code=SEM1"
+    }
+  ]
+}

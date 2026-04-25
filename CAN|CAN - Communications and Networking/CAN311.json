@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Wireless Sensor Networks-based IoT",
+  "module_code": "CAN311",
+  "offerings": [
+    {
+      "heading": "Wireless Sensor Networks-based IoT",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Wireless Sensor Networks-based IoT",
+        "module_code": "CAN311",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Wireless Sensor Networks-based IoT",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to the basic concepts and structures of wireless sensor networks-based Internet of Things. Students will learn some well-known and representative protocols in the data link layer and network layer, as well as the physical characteristics of various types of sensors, which are essential for understanding the technologies of wireless networks and mobile communications. The wireless sensor network-based Internet of Things can be applied to many aspects of life and production, including smart cities, intelligent transportation, smart home, environmental monitoring, disaster rescue, and other fields.",
+        "Learning outcomes": "CODE A Demonstrate an understanding of the structure of wireless sensor networks, the ad hoc communication pattern, and the protocol stack of wireless sensor networks. B Describe the function of the Medium Access Control (MAC) mechanism and the category of MAC protocols. Evaluate some well-known MAC protocols under each category and their representative mechanisms C Present the strong mobility of nodes, and the challenges it brings to the design of MAC protocols. Analyze some well-known mobility-aware MAC protocols and their working mechanisms. D Summarize the function, objective, and structure of network layer routing protocols in wireless sensor networks, and the corresponding classification. E Compare some representative localization techniques, which act as the foundation of the design of routing layer protocols F Analyze some popular flat and hierarchical routing protocols and their representative design ideas",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and problem-solving tutorial classes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN311&psl_code=SEM1"
+    }
+  ]
+}

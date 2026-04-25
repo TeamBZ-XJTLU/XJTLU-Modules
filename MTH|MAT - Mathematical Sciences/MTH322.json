@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MAT",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Probability Measures And Asset Pricing",
+  "module_code": "MTH322",
+  "offerings": [
+    {
+      "heading": "Probability Measures And Asset Pricing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Probability Measures And Asset Pricing",
+        "module_code": "MTH322",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Probability Measures And Asset Pricing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims and Fit of Module This module aims to provide a solid foundation in the theories of probability measures and risk-neutral asset evaluation, both of which constitute an essential part of modern mathematical finance. It establishes a comprehensive and theoretical framework to integrate probability measures and asset pricing in the context of risk-neutral pricing of derivative securities. The analytical skills are further developed/implemented, associated with financial applications.",
+        "Learning outcomes": "Learning Outcomes A Demonstrate and explain basic concepts/theories of probability measures. B Apply theories of risk-neutral asset pricing in discrete/continuous time. C Conduct quantitative analysis on risk-neutral pricing of options in binomial model. D Apply theories of numéraire under specific risk-neutral measures. E Conduct theoretical analysis on option valuation in Black-Scholes-Merton model.",
+        "Method of teaching and learning": "Method of Teaching and Learning This module is organised as a combination of formal lectures and tutorial classes. Students are also expected to devote sufficient unsupervised time to study."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH322&psl_code=SEM2"
+    }
+  ]
+}

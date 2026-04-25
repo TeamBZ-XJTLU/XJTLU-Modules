@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "APM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Statistical Methods in Finance",
+  "module_code": "MTH404",
+  "offerings": [
+    {
+      "heading": "Statistical Methods in Finance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Statistical Methods in Finance",
+        "module_code": "MTH404",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Statistical Methods in Finance",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the course is train students with advanced statistical techniques required by modern finance, with focus on data analysis and interpretation of quantitative results of statistical models and inferences.",
+        "Learning outcomes": "On the successful completion of the module the students should be able to: 1. Understand, analyze, and apply advanced statistical techniques. 2. Summarize, analyze and interpret multivariate data, they will have a clear understanding of the logical link between multivariate techniques and corresponding univariate techniques, where appropriate. 3. Use multivariate techniques appropriately and use statistical techniques of multivariate analysis to summarize, analyze, and interpret complex sets of data. 4. Undertake standard multivariate hypothesis tests, analyze and draw appropriate conclusions. 5. Improve their key skills in written communication, numeracy, problem solving and information technology.",
+        "Method of teaching and learning": "Lectures and tutorials"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH404&psl_code=SEM2"
+    }
+  ]
+}

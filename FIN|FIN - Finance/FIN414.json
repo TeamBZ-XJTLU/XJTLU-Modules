@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FIN",
+    "domain_code": "FIN",
+    "full_name": "Finance"
+  },
+  "full_name": "Empirical Methods In Finance",
+  "module_code": "FIN414",
+  "offerings": [
+    {
+      "heading": "Empirical Methods In Finance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FIN",
+        "full_name": "Empirical Methods In Finance",
+        "module_code": "FIN414",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Empirical Methods In Finance",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module concentrates on three core areas of Finance, each of which is currently delivered in a single module under MSc Finance programme. In addition, it employs the methods/models taught in the module called Econometrics for Finance, and aims at providing students with practical applications in Finance research and preparing them to undertake the dissertation research in semester 3.",
+        "Learning outcomes": "A. Critically evaluate academic literature in areas such as corporate finance, asset pricing, and financial markets. B. Apply empirical methods and methodology to undertake finance research. C. Gain a solid understanding of theoretical knowledge and practical skills in the research methods and methodological issues in financial topics such as corporate finance, asset pricing, and financial markets. D. Articulate the core components of the research project in a logical, structured, and well-supported written format.",
+        "Method of teaching and learning": "The module will be taught using a combination of lectures, seminars and computer applications."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN414&psl_code=SEM2"
+    }
+  ]
+}

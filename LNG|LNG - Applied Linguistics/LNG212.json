@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Morphology",
+  "module_code": "LNG212",
+  "offerings": [
+    {
+      "heading": "Morphology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Morphology",
+        "module_code": "LNG212",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Morphology",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "• To enable students to discover how words are constructed in languages such as English, Chinese, and other Indo-European and non-Indo-European languages. • To develop students’ skills in recognizing and classifying morphemes in many human languages • To make students understand how morphology interacts with other linguistic disciplines such as syntax, phonology, semantics, pragmatics, historical linguistics, and psycholinguistics • To raise students’ awareness of morphological similarities and differences between English and Chinese • To make students understand and evaluate morphological theories such as rule-based theories and Optimality Theory so that they could use these frameworks to do some research",
+        "Learning outcomes": "A. make morphological analyses based on notions such as morpheme, affix, root, and stem B. analyze phenomena about word formation in languages such as English, Chinese, and other Indo-European and non-Indo-European languages C. understand distinctions between inflectional and derivational morphology D. demonstrate knowledge of morphological productivity and the mental lexicon E. analyze phenomena about the interaction of morphology with other linguistic disciplines such as phonology, syntax, semantics, pragmatics, historical linguistics, and psycholinguistics F. understand and evaluate morphological theories such as rule-based theories and Optimality Theory",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: lectures and tutorials. Students need to attend lectures, tutorials and a final exam and finish required readings and coursework."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG212&psl_code=SEM1"
+    }
+  ]
+}

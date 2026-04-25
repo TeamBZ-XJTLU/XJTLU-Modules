@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Operations Management And Strategy",
+  "module_code": "IOM428",
+  "offerings": [
+    {
+      "heading": "Operations Management And Strategy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Operations Management And Strategy",
+        "module_code": "IOM428",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Operations Management And Strategy",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to develop students the ability to explore and evaluate how a corporate can achieve their performance objectives through operations management decisions, and how operations management decisions can reflect corporate’s operations strategy at a higher level, by exploring and examining a series of specific topics including:. 1)the examination of different performance objectives (Quality, speed, flexibility and cost)and operations decisions (Capacity, process, production and inventory etc.), 2)the achievement of the corporate’s competitive advantage through operations management and strategy, 3)supply chains management and network design, and 4) organizational development and product development. Leading-edge operational practice is analysed within each topic covered. Extensive case studies are used to reinforce students’ understanding of the various operations management theories and practice",
+        "Learning outcomes": "Students completing the module successfully should be able to: A Demonstrate a critical understanding of the principles in achieving corporate strategy through operations management B Identify and evaluate different perspectives on operations strategy based on markets requirement, operations resources and corporate high-level strategy and day-to-day activities. C Critically interpret operations success and business performance using a range of operations management decisions and performance objectives. D Identify, analyse and critically reflect upon a range of operations and supply chain management initiatives and approaches that can shape the development of operations strategies.",
+        "Method of teaching and learning": "• Teaching will be in a 3 hour seminar which will incorporate lecture and review, case studies and discussion. • A game to simulate supply chain operations and strategic aspects of supply chain performance (the supply chain co-ordination game), will be run during two of the sessions. • Although taking the form of a traditional lecture programme, the module will be primarily case-based. • Textbooks covering the basic material and others which can be used for further reading. • References to journal articles will expose students to state-of-the-art studies. • Use of best practice web-sites will be utilised to further expose students to practical case studies. • For case study assessment purposes, each assessment will examine specific issues as covered in the syllabus."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM428&psl_code=SEM2"
+    }
+  ]
+}

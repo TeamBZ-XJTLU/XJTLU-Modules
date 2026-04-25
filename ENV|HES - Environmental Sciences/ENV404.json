@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Research Project",
+  "module_code": "ENV404",
+  "offerings": [
+    {
+      "heading": "Research Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Research Project",
+        "module_code": "ENV404",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "40",
+        "Module Level": "Level 4",
+        "Module Title": "Research Project",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim is to provide students an opportunity to carry out an in-depth and independent research project based on the research plan proposed in ENV402 under the supervision of qualified academic staff.",
+        "Learning outcomes": "A Demonstrate in-depth understanding and critical awareness of relevant literature B Conduct the project independently following ethics, health, and safety protocols C Demonstrate time- and project-management skills D Compose a scientific report, manuscript, or thesis in appropriate academic style and structure E Demonstrate the ability to do a public presentation about a research project, in an appropriate academic style and structure",
+        "Method of teaching and learning": "Weekly seminars will be provided to the students to present their progress and to discuss issues during project conduction and management with academic staff. Additional technical, lab and/or field trainings will be provided by their supervisors, technicians, or experienced PhD students if necessary."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV404&psl_code=ACYR"
+    }
+  ]
+}

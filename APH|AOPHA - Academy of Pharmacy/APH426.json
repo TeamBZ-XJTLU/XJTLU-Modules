@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Chemistry Manufacturing & Controls",
+  "module_code": "APH426",
+  "offerings": [
+    {
+      "heading": "Chemistry Manufacturing & Controls",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Chemistry Manufacturing & Controls",
+        "module_code": "APH426",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Chemistry Manufacturing & Controls",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will provide students with a fundamental knowledge of Chemistry, Manufacturing, and Controls (CMC) section, an integral part of drug development cycle. This includes complete characterization of drug substance and drug product; the manufacturing process involved, stability packaging, and the respective controls to ensure product quality and stability. Additional topics about the \"Quality\" section in Common Technical Document (ICH M4Q) provide students with a comprehensive knowledge and tips of how to draft and review the CMC section in various applications submitted for regulatory approvals, such as investigational new drug application (IND), and new drug application (NDA).",
+        "Learning outcomes": "A. Identify the critical roles and features of CMC section throughout the drug development lifecycle. B. Summarize and arrange the contents, timelines and resources required to achieve high-quality transformation of innovative drugs quickly from laboratory to commercialization. C. Critically evaluate the principles and practices related to drug development, quality assurance, and regulatory compliance. D. Interpret and apply relevant regulations, guidelines, and standards (such as Good Manufacturing Practices, FDA requirements, and ICH guidelines) to ensure compliance throughout the drug development lifecycle. E. Design and evaluate strategies and procedures for manufacturing of chemical drugs in laboratory practice.",
+        "Method of teaching and learning": "The module will be delivered with a combination of lectures, tutorial sessions (including small group discussion) and laboratory practices. Students will attend two hours of lectures weekly and one-hour tutorial sessions every two weeks. These lectures will cover essential theoretical concepts related to Chemistry, Manufacturing and Controls. Students can share their perspectives, ask questions, and engage in meaningful small group discussions in tutorial. Four laboratory practices are designed to provide practical experiences of drug substance development and its quality control."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH426&psl_code=SEM1"
+    }
+  ]
+}

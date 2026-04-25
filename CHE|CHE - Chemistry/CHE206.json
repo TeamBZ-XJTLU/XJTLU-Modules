@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Measurements in Chemistry",
+  "module_code": "CHE206",
+  "offerings": [
+    {
+      "heading": "Measurements in Chemistry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Measurements in Chemistry",
+        "module_code": "CHE206",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Measurements in Chemistry",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are to offer students essential training in methods and instrumentations for measurement, to critical analyze and evaluate experimental data, and apply these measurement techniques to the study of chemical phenomena.",
+        "Learning outcomes": "A To use a wide range of experimental techniques to measure physicochemical properties. B To use a combination of analytical and spectroscopic techiniques to measure various physical parameters. C Assess the risks involved in handling instruments in a safe manner. D Process and analyze experimental data using appropriate methods. E Assess the accuracy and significance of experimental results. F Apply the results of physical measurement to the interpretation of chemical phenomena.",
+        "Method of teaching and learning": "Tutorials and laboratory sessions"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE206&psl_code=SEM2"
+    }
+  ]
+}

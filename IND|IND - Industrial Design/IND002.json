@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IND",
+    "domain_code": "IND",
+    "full_name": "Industrial Design"
+  },
+  "full_name": "Introduction To Industrial Design",
+  "module_code": "IND002",
+  "offerings": [
+    {
+      "heading": "Introduction To Industrial Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IND",
+        "full_name": "Introduction To Industrial Design",
+        "module_code": "IND002",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Introduction To Industrial Design",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this Year 1 module is to prepare students for the Industrial Design programme and in particular for IND101 Studio 1: Design Principles. Through a series of foundational exercises, students learn about the multi-disciplinary nature of the industrial design profession. The carry out basic visual research, drawing and product analysis exercises to equip them with skill sets they will need during various phases of the design programme. In addition they will learn about the idea that design is a human centered activity. They will begin to learn various methods for identifying human needs in relation to product scenarios.",
+        "Learning outcomes": "A. Visualize and communicate design ideas and concepts using a range of techniques. B. Apply basic knowledge of human centered design to visual concepts. C. Produce concepts which integrate technology into formal design proposals. D. Construct models and prototypes to communicate design concepts.",
+        "Method of teaching and learning": "The module is delivered in a studio and workshop environment through a series of introductory lectures and skills demonstrations, designed to allow students their own opportunities to embed basic skills and knowledge. Where appropriate, there will group and individual tutorials to support learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IND002&psl_code=SEM2"
+    }
+  ]
+}

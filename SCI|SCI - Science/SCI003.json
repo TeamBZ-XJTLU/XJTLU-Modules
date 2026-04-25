@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SCI",
+    "domain_code": "SCI",
+    "full_name": "Science"
+  },
+  "full_name": "Scientific Communication and Integrity",
+  "module_code": "SCI003",
+  "offerings": [
+    {
+      "heading": "Scientific Communication and Integrity",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SCI",
+        "full_name": "Scientific Communication and Integrity",
+        "module_code": "SCI003",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Scientific Communication and Integrity",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide a practiced understanding of important critical thinking concepts like experimental design, scientific communication, ethics, and integrity. A panel of academic staff with expertise in different areas such as AI, biology, chemistry, environmental sciences, and public health will each give lectures about contemporary topics in their areas of expertise, showcasing some of the unique challenges, considerations, and opportunities of their area. The lecture materials will then be used by students to engage in group activities to practice the use of critical thinking skills such as data analysis. Both the coursework and final exam will focus on assessing student competence on the skills practiced in class.",
+        "Learning outcomes": "A. Demonstrate an understanding of critical thinking concepts commonly applied in science B. Learn and practice important terminology used in science to describe and discuss experimental designs C. Be introduced to the common formats of scientific communication D. Learn about the importance of research ethics and integrity in a topic-specific manner",
+        "Method of teaching and learning": "Course content will be delivered using alternating sessions of lecture and in-class group activity, each lasting for two hours. Lectures and their corresponding activity sessions will always be delivered in sequence, with the lecture for a given topic delivered on one week and the corresponding group activities delivered the following week."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SCI003&psl_code=SEM2"
+    }
+  ]
+}

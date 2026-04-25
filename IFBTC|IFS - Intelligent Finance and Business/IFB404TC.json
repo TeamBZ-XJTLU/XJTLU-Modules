@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Digital Marketing",
+  "module_code": "IFB404TC",
+  "offerings": [
+    {
+      "heading": "Digital Marketing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Digital Marketing",
+        "module_code": "IFB404TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Digital Marketing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Digital Marketing is pervasive in the modern business, and the demand for knowledgeable and skilled marketing professionals has never been higher. From the rise of online advertising and the advent of social media, to the increasing importance of video, this constantly changing landscape presents marketers with both challenges and opportunities. The module is designed for students who want to develop a deeper understanding of the digital tools and techniques available to marketers today. You will examine the evolution of the discipline from its e-commerce origins to the current AI-driven paradigm. Moving beyond foundational tools, the module focuses on the leading edge where data, automation, and intelligent algorithms are reshaping every function. You will critically explore how AI-augmented digital marketing integrates with and influences core business disciplines, including strategic management, traditional marketing communications, international business, and corporate governance. The aim is to cultivate strategic leaders capable of leveraging AI for competitive advantage while navigating its profound ethical, operational, and strategic implications.",
+        "Learning outcomes": "A Critically assess business issues related to digital marketing. B Select and apply tools and techniques used in digital marketing for approaching a particular problem. C Critically evaluate a wide range of analysis techniques for the appropriate application D Demonstrate mastery in both the technical and analytical facets of digital marketing.",
+        "Method of teaching and learning": "Based on the philosophy of Syntegrative Education, this module’s delivery pattern follows more intensive block teaching, and allows more meaningful contribution from industry partners. This delivery pattern provides space for students to concentrate on completing the problem-based and project-oriented assessments. This module will be delivered through a series of key lectures/seminars. In addition, students will be required to analyse a number of cases, determining what worked and why."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB404TC&psl_code=SEM1"
+    }
+  ]
+}

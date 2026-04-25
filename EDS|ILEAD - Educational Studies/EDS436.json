@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Syntegrative Learning",
+  "module_code": "EDS436",
+  "offerings": [
+    {
+      "heading": "Syntegrative Learning",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Syntegrative Learning",
+        "module_code": "EDS436",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Syntegrative Learning",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module is to allow students to understand and build on the theories, ideas and concepts of the programme in real-world situations. The students also have the opportunity to gauge the working environments connected to digital education. Students will experience the ideas of the MSc Digital Education programme in the workplace and be involved in syntegrative learning by experiencing ideas in practice. The module provides opportunities for students to undertake different given learning pathways in digital technology industries or to find their own under consultation with the module leader: 1) Application of digital pedagogy; 2) Application of digital data and data analysis; 3) Digital education development and distribution, including with open education practices; 4) Student-defined pathway.",
+        "Learning outcomes": "A Understand and evaluate practices of digital education in educational industries B Utilize valid digital data to conduct rigorous data analytics to respond to real-world educational problems C Reflect critically on the application of digital education technologies in different contexts D Analyse the status and the potential opportunities of digital education in practice",
+        "Method of teaching and learning": "Students will be placed in industry-specific workplaces and supervised by experts from the workplace as well as XJTLU. There will be some additional XJTLU seminars focus on technologies, XR used in education, and the development of an online Community of Practice for students to report their experiences and share with other students. One or more methods will be used in teaching and learning such as online and onsite blended learning, e-learning, flipped classroom, project-based learning with technology. Both formative assessment and summative assessment will be applied, such as oral and written feedback and peer feedback and evaluation."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS436&psl_code=SEM1"
+    }
+  ]
+}

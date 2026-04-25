@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Language Documentation",
+  "module_code": "LNG210",
+  "offerings": [
+    {
+      "heading": "Language Documentation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Language Documentation",
+        "module_code": "LNG210",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Language Documentation",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "• To provide students with the basic concepts and knowledge inherent in Language Documentation and Field Linguistics. • To train students in the methods and techniques of Language Documentation and Language Description. • To enable students to collect, through a sound established approach, lexical lists from undocumented and/or endangered languages and to draft simple sketch grammars. • To help the student understand, through the application of field methods, the relevance of local oral traditions, stories, legends, myths, and intangible heritage in general for the documentation and preservation of undocumented and endangered languages.",
+        "Learning outcomes": "A. Master basic techniques and methods in Language Documentation and Field Linguistics, both at the level of collection and cataloguing of data and at the level of interpretation and analysis. B. Collect lexical lists from undocumented languages through direct interaction with speakers and, where possible, compare cognates from different, but possibly related, endangered languages from a specific area. C. Comprehensively record, collect, transcribe, document, and analyze local oral traditions, stories, myths, legends, and tales from aboriginal / indigenous native speakers. D. Draft a basic dictionary and/or a sketch grammar of an endangered and/or undocumented language. E. Be trained on and able to deal with topics and issues involving the interaction with local aboriginal and/or indigenous people, e.g., ethics.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: Lectures and Tutorials. Students need to attend both Lectures and Tutorials and to successfully clear the assessment components of the Course. Teaching is organized through sessions inherent in theoretical aspects of the module, i.e., field techniques and methods in Language Documentation and analysis of examples provided class-by-class from well documented linguistic areas (Lectures) which were, once, endangered, and applied / practical sessions in which students are trained by working on actual endangered languages. This will happen both at the level of documentation per se (transcription of recordings and related linguistic analysis; collection and transcription of oral traditional materials, with the connected interpretation; development of lexical lists and basic dictionaries of endangered and/or undocumented languages; typological analysis of sample sentences from endangered and/or undocumented languages; elaboration of a very simple sketch grammar for an endangered and/or undocumented language) and at the level of interaction with native speakers and local aboriginal and/or indigenous populations, by studying and dealing with topics involving ethics. The Course, therefore, associates a theoretical component with a highly applied component and aims at providing the students with a basic, but solid knowledge inherent in Language Documentation and Field Linguistics. Ideally, after completion of the Course, students will have gained enough knowledge to be able to explore, even at the Graduate level, Courses and Projects in Language Documentation and, ultimately, if that will be their choice, to become, in their future academic career, Field Linguists and/or Language Documentarists. Being this Course an Undergraduate module running during the regular semester, interviews and activities with our aboriginal and/or indigenous consultants (e.g., Abui, Kula, and Sawila, from Alor Island, Southeast Indonesia, Timor area, Alor-Pantar archipelago; Daba and Dongba from Northwest China, at the border between Sichuan and Yunnan Provinces) will be prevalently online. A pool of aboriginal and indigenous native speakers is already available, and they are all already trained and willing to cooperate and to help young students to work on Language Documentation, according to an educational model already experimented and successfully developed in other Field Linguistics’ contexts. In case circumstances will permit, some native speakers may be invited to the University, to spend some time with the Professor and the students, specifically to participate to our Tutorials (in a selected week, for example), to allow our students to perform Language Documentation interviews, data collection, recordings, transcriptions, and analysis in person."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG210&psl_code=SEM2"
+    }
+  ]
+}

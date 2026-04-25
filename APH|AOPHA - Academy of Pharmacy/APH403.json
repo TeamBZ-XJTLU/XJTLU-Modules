@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Advanced Organic Chemistry",
+  "module_code": "APH403",
+  "offerings": [
+    {
+      "heading": "Advanced Organic Chemistry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Advanced Organic Chemistry",
+        "module_code": "APH403",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Organic Chemistry",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce the chemical bond theory and help the students to understand the relationship between structure and chemical properties of organic molecules. Students will also be able to master the mechanism of typical organic reactions and deeply understand the drug degradation and metabolism in biological bodies. The knowledge gained in this module will be helpful for the students to study drug design and synthesis.",
+        "Learning outcomes": "A. Demonstrate an understanding of the structure and bonding in a range of molecules, from simple organics to larger biologically relevant structures B. Outline the relationship between reaction structure and reactivity in selected organic transformations and understand the mechanism (including degradation) of drug molecules transformation in organisms C. Demonstrate an understanding of the significant role of stereochemistry and conformation in a pharmacological setting D. Apply organic chemistry concepts and principles to process and solve unseen organic chemistry problems in drug research, development and clinical use E. Provide synthetic plans for the preparation of complex compounds, bioactive molecules, and intermediates of drug design, optimization and production process",
+        "Method of teaching and learning": "Lectures and tutorials"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH403&psl_code=SEM1"
+    }
+  ]
+}

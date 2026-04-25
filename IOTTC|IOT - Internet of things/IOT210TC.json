@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOT",
+    "domain_code": "IOTTC",
+    "full_name": "Internet of things"
+  },
+  "full_name": "Computer Architecture and Operating Systems",
+  "module_code": "IOT210TC",
+  "offerings": [
+    {
+      "heading": "Computer Architecture and Operating Systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOTTC",
+        "full_name": "Computer Architecture and Operating Systems",
+        "module_code": "IOT210TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Computer Architecture and Operating Systems",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to introduce how computers function at the instruction operation level, and the relationships between the instruction operation level and both the higher (software) and lower (hardware) levels. It introduces students to the structure and functionality of modern operating systems, and explains how the principal components of computer-based systems perform their functions and how they interact with each other.",
+        "Learning outcomes": "A Describe the structure and operation of computer hardware at the register transfer level. B Implement simple algorithms at the level of machine code. C Describe the overall structure and functionality of a modern operating system and its interactions with computer hardware and user processes. D Construct programs that involve the management of concurrent processes.",
+        "Method of teaching and learning": "The module follows Syntegrative Education principles through intensive block teaching, enabling concentrated learning and meaningful industry engagement. Assessment emphasizes coursework and problem-based projects over traditional exams, allowing students to focus on completing assessments during the delivery period. Delivery combines lectures (introducing concepts and methods with practical industrial illustrations), seminars (guided problem-solving and discussion of complex industry-related topics), lab/practicals (supervised hands-on industrial problems with immediate feedback), and private study (for reflection, reading, and assessment completion). This module integrates AI tools providing 24/7 personalized learning support across all delivery modes, including conversational AI tutoring for on-demand concept explanation and AI-assisted code development for debugging and real-time programming support."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOT210TC&psl_code=SEM1"
+    }
+  ]
+}

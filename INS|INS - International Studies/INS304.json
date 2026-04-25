@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Sino-European Relations: A Critical Approach",
+  "module_code": "INS304",
+  "offerings": [
+    {
+      "heading": "Sino-European Relations: A Critical Approach",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Sino-European Relations: A Critical Approach",
+        "module_code": "INS304",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Sino-European Relations: A Critical Approach",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module looks at Sino-European relations from a critical perspective, asking students to think beyond mainstream IR theories. Students will initially explore historical narratives to understand the way Sino-European relations are framed. The module then focuses on EU-China relations, critically reflecting on converging and diverging interests, policies and political outcomes and instruments within the framework of the EU-China strategic partnership. Finally, students will ponder the future of Sino-European relations.",
+        "Learning outcomes": "A Identify the main historical events that have shaped Sino-European relations B Understand the points of convergence and divergence between China and the EU and its member-states C Critically assess the EU-China strategic partnership D Combine different theoretical approaches, both mainstream and non-mainstream, to better understand Sino-European relations E Assess and critique the different historical narratives in the Sino-European relationship F Use appropriate research skills G Produce academic writing which is appropriate for the discipline",
+        "Method of teaching and learning": "The module is based on a combination of lectures, seminars, and private study with the potential of fieldtrips to major Chinese cities such as Shanghai and Beijing."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS304&psl_code=SEM2"
+    }
+  ]
+}

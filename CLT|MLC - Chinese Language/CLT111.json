@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MLC",
+    "domain_code": "CLT",
+    "full_name": "Chinese Language"
+  },
+  "full_name": "Classical Chinese 1",
+  "module_code": "CLT111",
+  "offerings": [
+    {
+      "heading": "Classical Chinese 1",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CLT",
+        "full_name": "Classical Chinese 1",
+        "module_code": "CLT111",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Classical Chinese 1",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to enable students and readers get familiar with ancient Chinese language step by step by learning and reading classical Chinese, learn some necessary knowledge and skills favorable for reading ancient Chinese, and understand the development of Chinese language, literature and philosophy in the past two thousand years from the historical perspective and their influence on contemporary society.",
+        "Learning outcomes": "A Read and understand the Chinese classical literature of Pre-qin Dynasty B Master basic grammar of classical Chinese C Understand the cultural background behind classical Chinese",
+        "Method of teaching and learning": "The method of teaching and learning of this module is to develop students’ interest on classical Chinese on the basis of understanding these literatures, to encourage students think independently and explore by themselves afterwards. The students are also encouraged to study and apply creatively and avoid learning by rote; guide them to grasp basic knowledge of ancient Chinese and can understand and appreciate the contents and culture behind the classics."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CLT111&psl_code=SEM2"
+    }
+  ]
+}

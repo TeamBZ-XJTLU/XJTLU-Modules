@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Mobile Computing",
+  "module_code": "CAN301",
+  "offerings": [
+    {
+      "heading": "Mobile Computing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Mobile Computing",
+        "module_code": "CAN301",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Mobile Computing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to teach students the guidelines, design principles, and practical skills for developing applications on mobile devices, including understanding context and location-aware services, and exploring interaction modalities and interface design. It also introduces wireless communication and networking principles, and the social and ethical issues in mobile computing.",
+        "Learning outcomes": "A. Critically analyze the characteristics and limitations of various mobile hardware devices, including an in-depth examination of their user-interface modalities. B. Design, develop, and implement mobile applications tailored to specific devices, demonstrating advanced and current industry practices in mobile computing. C. Develop, analyze, and critically evaluate context-aware applications, demonstrating the ability to create adaptive and intelligent solutions for mobile devices. D. Assess and address professional, legal, social, and ethical issues in the field of mobile computing, with a particular focus on the security and privacy of user data and behavior.",
+        "Method of teaching and learning": "The module uses a mix of teaching methods to help students achieve the learning outcomes. Interactive lectures introduce theoretical concepts related to mobile device application development. Hands-on lab sessions let students apply lecture knowledge by designing and implementing applications, and seeing their deployment. Tutorials offer personalized guidance and a space for discussing complex topics. Independent study is encouraged, with students reviewing literature and exploring emerging trends. This comprehensive approach provides students with the support needed to meet the module's goals."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN301&psl_code=SEM1"
+    }
+  ]
+}

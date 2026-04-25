@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Environmental Engineering and Management Practice",
+  "module_code": "CEN404",
+  "offerings": [
+    {
+      "heading": "Environmental Engineering and Management Practice",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Environmental Engineering and Management Practice",
+        "module_code": "CEN404",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Environmental Engineering and Management Practice",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module is enhance critical assessment of the environmental impacts associated with industrial projects, through the principles of sustainable/low cost wastewater treatment, solid waste management, air pollution control, soil and groundwater contamination control and management as well as through policy and legal aspects.",
+        "Learning outcomes": "A. Be able to identify and assess the environmental impacts of Civil Engineering projects and recognise the practical requirements for wastewater and solid waste management, soil and groundwater contamination control and air quality monitoring. B. Be able to assess and manage the health issues and environmental impacts related to wastewater re-use including for agriculture C. Be able to apply common analytical techniques used in air quality monitoring and appraise the impact and implications of air pollution from industrial processes. D. Be able to firmly understand the processes associated with solid waste management and appraise the impacts related to landfilling and incineration E. Be able to evaluate land remediation technologies and appraise the impacts of groundwater contaminant transport F. Be able to conform to the legal aspects and policies related to the assessment of environmental impacts.",
+        "Method of teaching and learning": "The module is delivered through formal lectures and seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN404&psl_code=SEM2"
+    }
+  ]
+}

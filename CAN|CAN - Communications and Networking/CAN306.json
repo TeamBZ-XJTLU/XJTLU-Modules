@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Photonics and Optical Communication Systems",
+  "module_code": "CAN306",
+  "offerings": [
+    {
+      "heading": "Photonics and Optical Communication Systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Photonics and Optical Communication Systems",
+        "module_code": "CAN306",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Photonics and Optical Communication Systems",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides students with a comprehensive understanding of photonics and optical communication systems, from fundamental wave-particle duality principles to practical system design. It bridges theoretical concepts in quantum mechanics and electromagnetics with real-world applications in fiber optics and photonic devices. The module fits within Electrical Engineering, and Telecommunications fields by developing analytical and design skills essential for careers in telecommunications, photonics industries, and advanced research.",
+        "Learning outcomes": "A. Evaluate dispersion, attenuation, and nonlinear effects in optical fibers and their impact on communication system performance. B. Analyze photonic components including LEDs, laser diodes, photo detectors and optical amplifiers for specific applications. C. Develop complete optical communication systems incorporating transmitters, optical fibers, receivers, amplifiers and wavelength division multiplexing architectures.",
+        "Method of teaching and learning": "This module employs a structured and progressive teaching approach that integrates lectures with tutorials to support student learning. The methodology varies across the three main module components to optimize understanding and application: For the Optical Fibers component, tutorials are used proactively to discuss and establish prerequisite knowledge and fundamental concepts, preparing students for more effective engagement in subsequent lectures. This flipped approach ensures students have the necessary foundation before advanced topics are introduced in lectures. For the Photonics Components section, content is delivered entirely through lectures, providing comprehensive coverage of semiconductor devices, LEDs, laser diodes, optical amplifiers, transmitters, and receivers. This concentrated lecture format allows for efficient delivery of core technical knowledge. For the Optical Communication Systems topics, tutorials serve as review and application sessions where students reinforce and apply lecture content through problem-solving exercises, system design tasks, and performance analysis. This varied approach ensures students develop both theoretical knowledge and practical application skills across all module components."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN306&psl_code=SEM2"
+    }
+  ]
+}

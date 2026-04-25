@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Mobile Communications",
+  "module_code": "CAN407",
+  "offerings": [
+    {
+      "heading": "Mobile Communications",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Mobile Communications",
+        "module_code": "CAN407",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Mobile Communications",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides a comprehensive foundation in wireless and mobile communication systems, covering key principles, technologies, and protocols. Students will develop both theoretical knowledge and practical insights into modern telecommunications, including wireless transmission, medium access control, cellular and satellite systems, wireless LANs, and mobility support in networking.This module equips students with the core concepts and practical skills needed for careers in network design, wireless communications, and emerging IoT/mobility technologies.",
+        "Learning outcomes": "A. Analyze the fundamental principles of mobile communication systems, including technical literature, customer and industry needs, and relevant technologies. Comunicate effectively on mobile communication system matters. B. Evaluate mobile communication systems through the application of key analysis and design principles. C. Assess and quantify critical parameters affecting the performance of mobile communication systems. D. Design conceptual models for radio communication systems, with an emphasis on technologies and methodologies.",
+        "Method of teaching and learning": "The Mobile Communications module adopts an integrated approach to ensure students develop both theoretical knowledge and practical skills in wireless and mobile technologies. Core principles, system architectures, and emerging trends are introduced through structured lectures, where theoretical concepts are reinforced with case studies. To enhance analytical and problem-solving abilities, students engage in laboratory sessions, working with simulation tools to model wireless networks, analyze signal propagation, and evaluate protocol performance. Collaborative learning is fostered through student-led presentations, where individuals or groups assess research papers, compare communication standards, or propose solutions to challenges in mobile systems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN407&psl_code=SEM2"
+    }
+  ]
+}

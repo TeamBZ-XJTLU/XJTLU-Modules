@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IND",
+    "domain_code": "IND",
+    "full_name": "Industrial Design"
+  },
+  "full_name": "Design For Manufacturability & Assembly",
+  "module_code": "IND212",
+  "offerings": [
+    {
+      "heading": "Design For Manufacturability & Assembly",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IND",
+        "full_name": "Design For Manufacturability & Assembly",
+        "module_code": "IND212",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Design For Manufacturability & Assembly",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course covers the fundamentals of manufacturing processes through introducing the student to modern manufacturing with two areas of emphasis: the physics of manufacturing processes and design for manufacturability. In doing so this course will emphasize the interrelationships between part design and manufacturing process design. The student will learn major manufacturing processes including machining, injection molding, forming, casting, assembly, and rapid prototyping. The student will learn recommendations to make product designs more economical, to simplify production processes, and to minimize energy use and environmental impact. A project is an integral part of this course and exposes the student to various manufacturing processes and practices.",
+        "Learning outcomes": "A. Describe, relate and explain materials and manufacturing processes and choices. B. Identify cost and apply value engineering considerations a within the context of design for production. C. Within a project proposal, explain manufacturing methods, materials choices, their limits, possibilities and environmental impacts. D. Identify the basic mechanisms that affect quality, production rate, cost, and flexibility for major manufacturing processes. E. Improve or redesign an existing product for the ease of manufacture (use of DFM/DFA), also manual and/or automatic assembly.",
+        "Method of teaching and learning": "The material in this module is delivered through a combination of formal lectures, tutorials and supervised practical sessions. General transferable skills are developed through the presentation of written and oral reports."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IND212&psl_code=SEM2"
+    }
+  ]
+}

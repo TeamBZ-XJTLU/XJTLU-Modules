@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LTS",
+    "domain_code": "LIT",
+    "full_name": "Literature"
+  },
+  "full_name": "Utopia: The History of an Idea",
+  "module_code": "LIT309",
+  "offerings": [
+    {
+      "heading": "Utopia: The History of an Idea",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "LIT",
+        "full_name": "Utopia: The History of an Idea",
+        "module_code": "LIT309",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Utopia: The History of an Idea",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Can we make a better world? Can we plan a society, as perfect as a poem, for people to be happy in? And at what kind of cost? In the end, says the Controller in Aldous Huxley’s dystopia Brave New World, ‘you’ve got to choose between happiness and art’. But the history of Utopia is also the history of major world thinkers, going back to Plato and Thomas More, past Ernst Bloch and Marx and Percy Shelley, for many of whom there was no contradiction, only a strenuous challenge: to reimagine and remake the world for poetry, philosophy and art. For Shelley, famously, true art was visionary architecture, whatever the artist intended, or whether any other living person knew it or not: ‘Poets are the unacknowledged legislators of the world’. And in the present-day, sci-fi writers like China Miéville set out to oppose ‘post-modern’, ‘end-of-history’ weariness with a sense that utopianism isn’t just ‘hope’ or mere ‘optimism’. It is, says Miéville, ‘need, and it is desire […] for betterness … [f]or alterity, something other than the exhausting social lie’, for those times like today ‘when the cracks in history open wide enough …. We can’t do without Utopia.’ This interdisciplinary module offers students of the humanities and social sciences a chance to decide on these ideas for themselves, and to draw together the skills and knowledge-sets gained across their degree, in a richly imaginative as well as socially and vocationally relevant context. Considering Utopia in global intercultural perspective, and moving in and out of discourses of philosophy, literary and cultural criticism, social history and international relations, students will think through ideas and issues of social progress and social organism, statism, libertarianism and anarchism, technological determinism, climate crisis and disaster capitalism, modernity, gender and the ‘human’ or ‘post-human’ condition. Students will encounter texts in a range of media, and from a range of cultures and historical periods, and will be challenged to develop and present their own utopian vision",
+        "Learning outcomes": "A Produce independent literary-critical and philosophical accounts of utopia B Evaluate some of the main strands in utopian thought and practice, in contemporary, historical and comparative points of view C Synthesize or create an independent utopian vision, and communicate it to others in a chosen medium or set of media D Work collaboratively and make a distinctive individual contribution to group work",
+        "Method of teaching and learning": "The module will be delivered through a combination of lectures and seminars, plus a significant amount of self-study utilizing the facilities of the Learning Mall Online. The module adopts a mixed ‘problem based learning’ approach, with the main core of the module being a flexible semester-long task to design, instantiate and commentate upon a form of utopian community – informed by lectures which cover the rich and varied history of Utopia as a concept, looking at cases in literary culture, international relations, media and communication, and other perspectives within the arts, humanities and social sciences. Seminars will provide students with opportunities to work on their projects and will also provide a forum for continuous guidance on the use and abuse of generative AI in the production of coursework assessments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LIT309&psl_code=SEM1"
+    }
+  ]
+}

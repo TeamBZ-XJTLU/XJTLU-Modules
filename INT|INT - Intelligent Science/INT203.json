@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Principles of Machine Learning",
+  "module_code": "INT203",
+  "offerings": [
+    {
+      "heading": "Principles of Machine Learning",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INT",
+        "full_name": "Principles of Machine Learning",
+        "module_code": "INT203",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Principles of Machine Learning",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Machine learning is a set of techniques that allow machines to learn from data and experience, rather than requiring humans to specify the desired behaviour by hand. Over the past two decades, machine learning techniques have become increasingly central both in AI as an academic field, and in the technology industry. This course provides a broad introduction to some of the most commonly used ML algorithms. It also serves to introduce key algorithmic principles which will serve as a foundation for more advanced courses, such as deep learning.",
+        "Learning outcomes": "A Demonstrate a solid understanding of theoretical issues addressed by machine learning algorithms. B Assess the properties and performance of various machine learning algorithms. C Apply machine learning algorithms on suitable platforms to solve problems arising from practical application D Identify and customize aspects of machine learning algorithms to meet specific needs and optimize performance.",
+        "Method of teaching and learning": "Students are required to attend two hours of lectures each week, focusing on theoretical concepts and foundational knowledge. Additionally, students will take part in two hours of supervised lab sessions in week 5 and week 10, offering hands-on experience and real-world applications of the lecture topics. Students are also encouraged to dedicate eight to nine hours per week to independent study. This time should be spent reflecting on lecture content, conducting extensive research, and reading broadly on the subject. Whenever possible, students should integrate insights and experiences from their work placements or real-world cases into their studies to enhance their understanding and practical application of data engineering principles."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT203&psl_code=SEM1"
+    }
+  ]
+}

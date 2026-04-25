@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "C Programming and Software Engineering",
+  "module_code": "CPT109",
+  "offerings": [
+    {
+      "heading": "C Programming and Software Engineering",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "C Programming and Software Engineering",
+        "module_code": "CPT109",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "C Programming and Software Engineering",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "C remains one of the most influential and widely used programming languages, serving as the foundation of modern computing. It supports critical infrastructure, including operating systems, microcontrollers, and performance-sensitive applications across various industries, such as telecommunications and automotive systems. A thorough understanding of C is essential for computing graduates who aim to pursue careers in systems programming, embedded engineering, or any field that requires close-to-hardware control and optimal performance. This module aims to provide students with both foundational and advanced knowledge in procedural and structured programming using the C language, as well as the use of AI tools for programming. Through hands-on projects and a comprehensive exploration of memory management, pointers, and data structures, students will gain proficiency in designing and implementing efficient and reliable software. The curriculum combines essential theoretical concepts with practical applications, allowing students to master the complete C development lifecycle—from algorithm design and coding to testing and debugging.",
+        "Learning outcomes": "A. Understand and apply the basic principles of the C programming language; B. Demonstrate knowledge and understanding of the software development process; C. Apply the C programming language to design, code, debug, test and document computer programs to solve practical problems; D. Understand and apply the top-down function-oriented approach to design modular programs; E. Analyse, evaluate and modify existing code written in the C programming language;",
+        "Method of teaching and learning": "This module is delivered as a two hour lecture and two hour practical session in the computer laboratory, each week. The concepts introduced during the lecture are illustrated using step-by-step analysis of example code, complete case studies and live programming tutorials. Each week the students have to solve a set of exercises during the laboratory classes and submit the completed work electronically. The students are assisted during the practical laboratory classes by demonstrators."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT109&psl_code=SEM1"
+    }
+  ]
+}

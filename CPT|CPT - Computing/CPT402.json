@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Software Architectures",
+  "module_code": "CPT402",
+  "offerings": [
+    {
+      "heading": "Software Architectures",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Software Architectures",
+        "module_code": "CPT402",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Software Architectures",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to train students on the principles of software architectures based on distributed computing technologies, design of complex applications and deployment techniques. This ranges from conventional techniques such as Java RMI to Web-based middleware techniques such as Web services, and enterprise computing technologies. The module equips students with experiences and skills of applying these techniques to complex distributed system development. It enables students to understand the influence of artificial intelligence techniques and evaluate their environmental and societal impact on the solutions to sophisticated distributed systems. It is a compulsory module for MSc Applied Informatics and MSc Financial Computing.",
+        "Learning outcomes": "A. Analyse and synthesise in-depth knowledge of various software architectures for complex applications, contextualising them through real-world examples and case studies; B. Design and implement a distributed computing system with good software architecture design practice to given specifications with teamwork, demonstrating creativity and coherence; C. Critically evaluate software architectures using relevant technologies, presenting a comprehensive analysis using specific metrics or benchmarks; D. Analyse and solve both practical and theoretical problems in distributed computing systems, employing appropriate methodologies and tools; E. Assess and interpret legal, social, ethical, environmental and professional issues involved in the development of distributed computing systems with artificial intelligence techniques.",
+        "Method of teaching and learning": "This module fosters both independent learning and team working, within a framework that includes a series of formal lectures, seminars and computer labs. Formal lectures: Students are expected to attend two hours of formal lectures and seminars in a typical week during Semester 2. Seminars: These allow students to familiarise themselves with recent publications relevant to the lectures. Students will discuss and report their findings. Some seminars will invite experts in areas relevant to the module for guest lectures. Computer labs: The supervised lab sessions allow students to undertake practical exercises with immediate support and feedback. Private study: In a typical week, students are expected to devote around 10 hours of unsupervised time to private study. This typically includes 4 hours for lecture materials, background reading, reflection and group discussions, and 6 hours for completion of the assessment tasks."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT402&psl_code=SEM2"
+    }
+  ]
+}

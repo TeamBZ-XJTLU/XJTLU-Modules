@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "China’s History: Late Imperial and the Twentieth Century",
+  "module_code": "CCS401",
+  "offerings": [
+    {
+      "heading": "China’s History: Late Imperial and the Twentieth Century",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "China’s History: Late Imperial and the Twentieth Century",
+        "module_code": "CCS401",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "China’s History: Late Imperial and the Twentieth Century",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to give students a deeper understanding of Chinese history from late imperial to modern China and introduce scholarly debates, materials and important methodologies of studying Chinese history. The module highlights a cultural approach to understand Chinese history and it guides students to understand Chinese history within a global context.",
+        "Learning outcomes": "A. Describe and evaluate different approaches to late imperial and modern Chinese history. B. Critically evaluate the historical transformations and continuities from late imperial to modern China. C. Apply a variety of theoretical frameworks to study Chinese history within a global context. D. Demonstrate critical understanding of the creation/recreation of tradition and history in modern China. E. Compile and evaluate primary and secondary sources on Chinese history. F. Apply interdisciplinary methodologies for the studies of Chinese history.",
+        "Method of teaching and learning": "In the seminars students will able to have an in-depth discussion of weekly topics, and also to present their analysis of a specific topic from the syllabus. The essay will hone students’ analytical and writing abilities."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS401&psl_code=SEM1"
+    }
+  ]
+}

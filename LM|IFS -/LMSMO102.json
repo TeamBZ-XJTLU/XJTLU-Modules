@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "LM",
+    "full_name": ""
+  },
+  "full_name": "Introduction to Human Resource Management",
+  "module_code": "LMSMO102",
+  "offerings": [
+    {
+      "heading": "Introduction to Human Resource Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LM",
+        "full_name": "Introduction to Human Resource Management",
+        "module_code": "LMSMO102",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Human Resource Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to develop students’ appreciation of the roles, perspectives and functions associated with Human Resource Management in contemporary organisations.",
+        "Learning outcomes": "A. Explain the theories and concepts of Human Resource Management (HRM) and the strategic role played by HRM in the global context B. Discuss the role of HRM relating to the recruitment and selection of staff, employee performance and engagement, organizational change and development, learning and development C. Outline the objectives and features of employee relations, equal opportunities and diversity, employee rewards, incentives, pensions and benefits D. Discuss the implications to HRM of ethics and reputation management, health, well-being and managing expatriates",
+        "Method of teaching and learning": "This module will use multiple approaches to teaching including formal lectures, tutorial discussions, and case studies. Additionally, students will be encouraged to engage with HRM as it is perceived and applied in the world outside of the classroom, including reflections on their own experience of work and organisations."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LMSMO102&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Key Skills for Life Scientists",
+  "module_code": "BIO006",
+  "offerings": [
+    {
+      "heading": "Key Skills for Life Scientists",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Key Skills for Life Scientists",
+        "module_code": "BIO006",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Key Skills for Life Scientists",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module is to help students develop skills that should allow them thrive during their UG studies, and as well later during their professional career. Students will be introduced to general transferable skills, general scientific skills and biology-related skills.",
+        "Learning outcomes": "A. Define the basic principles of the scientific method and the basic principles of biology B. Present and make us of scientific information to appropriate standards C. Retrieve, understand and manage web based biological knowledge and information D. Perform a basic set of calculations and appropriately analyse data E. Use appropriate software for macromolecular visualization F. Build up a visible professional profile G. Understand the basics of computer language",
+        "Method of teaching and learning": "The theoretical aspects of this module will be delivered through lectures that will be supported with course work consisting of tasks. The course work will be summative assessments that could include problem solving exercises and quizzes that students will need to complete at home, or in class. The module will be delivered as well through computer practicals to allow students to gain hands-on experience and practice with specific bioinformatics tools and software. The learning outcomes associated to these practicals will assessed with summative assessment tasks. Students will also be provided with online language/study skills support to help them engage with the module content. The module will use a co-delivery teaching pattern where Language Centre staff is expected to support and assess students learning outcomes with language/study skills requirements and staff of department of Biology will assess the remaining learning outcomes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO006&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MLC",
+    "domain_code": "JPL",
+    "full_name": "Japanese Language"
+  },
+  "full_name": "Japan through Anime",
+  "module_code": "JPL009",
+  "offerings": [
+    {
+      "heading": "Japan through Anime",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "JPL",
+        "full_name": "Japan through Anime",
+        "module_code": "JPL009",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Japan through Anime",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module offers a comprehensible introduction to Japanese culture and society, using Anime as a lens to explore various themes. As a popular and representative art form frequently associated with Japanese culture, Anime serves as an effective tool for cultural examination because it reflects key aspects of Japanese life, including traditions, social norms, and values. Through engaging discussions and interactive activities, students will analyse essential features of Japanese culture and society, such as geography, cuisine, education, and both traditional and contemporary cultural practices that are presented in Anime. In addition, the module also aims to foster students’ cross-cultural understanding and critical thinking, and enhance their appreciation of their own culture through comparison. This module is ideal for students interested in broadening their understanding of Japan, fostering intercultural awareness, and enhancing their appreciation of the similarities and differences between Japan, China and/or their own cultures, ultimately enriching their own cultural identity.",
+        "Learning outcomes": "A Identify key elements of Japanese culture and society, including those represented in Anime, and recognise their meaning in contemporary Japanese society. B Explain cultural practices in Japan, describing their meanings and implications within both historical and modern contexts. C Analyse aspects of Japanese culture and society in relation to students’ own cultures, highlighting similarities and differences from their own experiences, and develop a deeper global cultural understanding through reflection.",
+        "Method of teaching and learning": "The module employs various approaches to foster an engaging and interactive environment, encouraging students to reflect on their own experiences while critically analysing Japanese culture and society. Students participate in a 1.5*2 hours seminar each week, where they explore various topics related to Japanese culture and society, utilising Anime as a lens for their exploration. A wide range of anime, varying in themes, genres, historical and social settings, art styles, and characterizations, are used as course material. In addition to Anime, authentic materials, such as manga, videos, and numerical data, are provided as real-world examples for students to analyse cultural practices in Japan and their implications. The module incorporates a variety of learning activities, including lectures and collaborative group work. Students are invited to explore and discover new information about Japanese culture, particularly through the lens of Anime, analyse cultural examples from Japan, and interpret their meanings. They will also reflect on their own cultural experiences to compare with different aspects of Japanese culture, give presentations, and engage in self-reflection. By actively participating in these diverse learning activities, students not only gain insights into Japanese culture and society but also deepen their understanding of their own culture. Additionally, they develop important skills such as critical thinking, presentation, communication, and self-reflection, as well as building confidence and intercultural awareness."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=JPL009&psl_code=SEM1"
+    }
+  ]
+}

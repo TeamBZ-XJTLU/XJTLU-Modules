@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Physical Chemistry for Pharmacy",
+  "module_code": "APH112",
+  "offerings": [
+    {
+      "heading": "Physical Chemistry for Pharmacy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Physical Chemistry for Pharmacy",
+        "module_code": "APH112",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Physical Chemistry for Pharmacy",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with a foundational understanding of key principles in thermodynamics, kinetics, solution chemistry, electrochemistry, surface chemistry, and colloid chemistry, in the context of pharmaceutical sciences.",
+        "Learning outcomes": "A. demonstrate a comprehensive understanding of the fundamental concepts and principles of physical chemistry, specifically in relation to pharmaceutical sciences and technologies. B. connect physical chemistry theories with their practical applications in pharmaceutical sciences, thereby nurturing critical thinking skills for solving real-world pharmacological challenges. C. utilize the concepts and principles of thermodynamics and kinetics to analyze and predict the feasibility, spontaneity, mechanisms, and rates of biochemical reactions and processes in the realm of pharmaceutical sciences. D. exhibit a clear understanding of the importance of solution chemistry, electrochemistry, surface chemistry and colloid chemistry in pharmacological processes.",
+        "Method of teaching and learning": "Students will attend a 2-hour lecture and a 2-hour tutorial per week. Course content will be delivered primarily via standard lectures, supported by Learning Mall Online (LMO) materials and other web-based resources. Handouts will be made available to students in classrooms and on LMO. Animations and/or videos will be shown for some of the topics. Review sessions will be arranged towards the end of the semester, and the students will have opportunities to self-assess their understanding of the course. Timely, relevant and specific, constructive and actionable feedback will be provided to students in class, on paper and/or in person for each assignment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH112&psl_code=SEM2"
+    }
+  ]
+}

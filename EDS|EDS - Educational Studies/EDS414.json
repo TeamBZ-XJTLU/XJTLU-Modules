@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Counselling in Child and Family Education: Practice and Skills",
+  "module_code": "EDS414",
+  "offerings": [
+    {
+      "heading": "Counselling in Child and Family Education: Practice and Skills",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Counselling in Child and Family Education: Practice and Skills",
+        "module_code": "EDS414",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Counselling in Child and Family Education: Practice and Skills",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will introduce the key terms and techniques in counselling for children and their family. It will critically approach children and parents from different types of families who might need additional support. Students will be introduced with the key principles, theories and safeguarding policy in working with children and their family. Students will also acquire skills to guide children’s behavior, skills to communicate with parents, and strategies to support them.",
+        "Learning outcomes": "A Clearly demonstrate the application of counselling based on the principles of diversity, equality and social inclusion expertly. B Skillfully apply different theoretical and practical approaches to work therapeutically with children and their caregivers C Critically evaluate the ethical, safeguarding and legal contractual frameworks in counselling and therapy works, particularly with young kids D Analyze practice-based research in the field of childhood/family education",
+        "Method of teaching and learning": "The teaching sessions include both lectures and practicals/tutorials which work together to provide students with key conceptual, theoretical, and methodological insights, as well as dedicated opportunities for critical reflection. Students will also engage in collaborative and individual practice, and iterative development of resources to support children’s development in familial and other social settings."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS414&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Microbial Ecology",
+  "module_code": "ENV216",
+  "offerings": [
+    {
+      "heading": "Microbial Ecology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Microbial Ecology",
+        "module_code": "ENV216",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Microbial Ecology",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Microorganisms live everywhere, and have transformed the Earth from a barren ball of rock to the current oxygen-rich environment with a large biodiversity. In this module, we will introduce microbial ecology – the interaction between microbes and their environment. Microbes are key to understand the functioning of the Planet Earth. This module provides an introduction to microbial mediated processes in natural environments, such as, carbon and nutrient cycling in terrestrial ecosystems and in the ocean, the role of microbes in ecosystems, and the interaction between microbes, minerals and plants. Furthermore, the advanced biotechnology in understanding the microbial diversity and functions will be included.",
+        "Learning outcomes": "A understand microbial diversity and phylogenetic relationships among microbes B elucidate the role of microbes in biogeochemical cycles and in biosphere-climate feedback mechanisms C understand and analyze the physical-chemical environment for various microbial communities D evaluate the contribution made by modern molecular techniques in determining phylogenies and the composition of microbial communities; E practice microorganism cultivation and isolation in labs",
+        "Method of teaching and learning": "The module is lecture based with integrated tutorials and lab work. Students will develop and perform an example experiment and these data will be related to suitable habitats of microbes visited during a field trip. Parts of the tutorials and lectures may be delivered as flipped classroom. The lectures will be given with photos and videos to help the students grasp the existence and behaviors of invisible microorganisms."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV216&psl_code=SEM2"
+    }
+  ]
+}

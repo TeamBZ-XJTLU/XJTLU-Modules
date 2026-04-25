@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Stochastic Modelling in Actuarial Science",
+  "module_code": "MTH435",
+  "offerings": [
+    {
+      "heading": "Stochastic Modelling in Actuarial Science",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Stochastic Modelling in Actuarial Science",
+        "module_code": "MTH435",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Stochastic Modelling in Actuarial Science",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Random variables and stochastic processes are the most important theoretical tools for stochastic modeling in actuarial science and financial mathematics. This module will equip students with the theoretical knowledge and practical skills necessary for stochastic modeling in insurance and finance. Students will learn the concepts of the theory of probability and stochastic processes and the most important types of random variables and random processes at various levels. Students will also examine the various properties and characteristics underlying these random variables and processes.",
+        "Learning outcomes": "A. Explain and calculate probability, expectation, variance and standard deviation for discrete and continuous univariate random variables. B. Explain and calculate probability, expectation, variance and covariance for discrete and continuous multivariate random variables C. Define and make use of the Poisson process and its extension. D. Illustrate and apply discrete-time Markov chains. E. Formulate the appropriate random variables and processes for modelling in insurance and finance.",
+        "Method of teaching and learning": "This module is delivered through formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH435&psl_code=SEM1"
+    }
+  ]
+}

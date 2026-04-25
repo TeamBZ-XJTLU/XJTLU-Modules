@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MAT",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Computational Geometry",
+  "module_code": "MTH445",
+  "offerings": [
+    {
+      "heading": "Computational Geometry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Computational Geometry",
+        "module_code": "MTH445",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Computational Geometry",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Computational geometry is the study of the techniques and algorithms for solving mathematical problems that are geometrical in nature. Such problems appear, for example, in the generation of suitable meshes for numerical approximation of solutions of partial differential equations or the determination of an optimal route through a series of obstacles. The computational methods introduced in the module have application to problems arising in areas such as robotics, medical imaging, computer graphics, geographical information systems, molecular modeling and astronomy.",
+        "Learning outcomes": "A Model real-world problems in geometrical terms. B Work effectively with triangulations, as representations of geometrical objects. C Apply algorithmic methods to solve geometrical problems. D Implement geometric algorithms computationally.",
+        "Method of teaching and learning": "The module is taught using a combination of lectures and computer labs. Geometrical topics and concepts are introduced in lectures, and computational techniques are demonstrated and practiced during the lab sessions. Students will further develop practical computational skills through their work on an assessed project."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH445&psl_code=SEM2"
+    }
+  ]
+}

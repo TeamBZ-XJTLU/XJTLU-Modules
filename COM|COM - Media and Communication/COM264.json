@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Digital Media Law and Ethics",
+  "module_code": "COM264",
+  "offerings": [
+    {
+      "heading": "Digital Media Law and Ethics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Digital Media Law and Ethics",
+        "module_code": "COM264",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Digital Media Law and Ethics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module critically analyses the ways in which the law and various regulatory frameworks respond to, establish standards for, and promote emerging technologies in the digital media and communication sectors. It examines concepts such as ‘online defamation’ and the range of practices and offences they cover. The students are expected to engage with different forms of government oversight over the media. The module also explores contemporary approaches to core ethical issues pertaining to media digitalisation and the legal problems that media professionals, users and society face as a result of this phenomenon, equipping students with the analytical tools required to critically evaluate these legal and ethical problems. It also develops students’ problem solving and critical thinking skills and gives them the opportunity to practise effective communication through written work and seminar discussions.",
+        "Learning outcomes": "A Identify different values and modes of regulatory regime B Demonstrate critical awareness of what constitutes legal and ethical behaviour in the digital media and communication sectors in different jurisdictions C Critically analyse legal and ethical dilemmas related to digital media and communication in different legal systems D Propose a range of responses to legal and ethical dilemmas in the digital media and communication sectors",
+        "Method of teaching and learning": "Lectures Seminars"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM264&psl_code=SEM1"
+    }
+  ]
+}

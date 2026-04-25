@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Complexity of Algorithms",
+  "module_code": "INT202",
+  "offerings": [
+    {
+      "heading": "Complexity of Algorithms",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INT",
+        "full_name": "Complexity of Algorithms",
+        "module_code": "INT202",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Complexity of Algorithms",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module equips students with a robust theoretical and practical understanding of algorithm design, analysis, and application across diverse computational domains. Students will develop proficiency in evaluating algorithmic efficiency through formal complexity measures, mastering fundamental data structures and algorithmic techniques essential for solving real-world problems. The module also introduces strategies for tackling computationally intractable problems, fostering critical thinking about trade-offs between optimality and feasibility. By integrating theoretical principles with practical problem-solving, it prepares students for advanced study in computer science and related fields, reinforcing core concepts from earlier programming and mathematics modules while laying the groundwork for subsequent courses in artificial intelligence, optimization, and systems design. The skills gained—analytical reasoning, algorithmic creativity, and complexity-aware design—are vital for both academic research and industry practice, ensuring students can navigate the challenges of modern computing with rigor and innovation.",
+        "Learning outcomes": "A. Identify and analyze the contributions and impact of various different algorithms to different computational fields. B. Implement and manipulate basic data structures such as queues, stacks, trees, and graphs for solving classical algorithmic problems, including searching and sorting. C. Explain and apply the concepts of NP-completeness and other formal theories to demonstrate the intractability of significant computational problems. D. Design and evaluate data structures and algorithms to address specified computational problems, with consideration for security and safety issues in computing systems.",
+        "Method of teaching and learning": "This module employs an active learning approach that blends theoretical instruction with hands-on problem-solving to develop students' algorithmic thinking and analytical skills. Core concepts and techniques are introduced through interactive lectures, which emphasize both foundational principles and real-world applications, encouraging students to critically engage with algorithmic challenges. Structured problem-solving sessions provide a collaborative environment where students apply theoretical knowledge to practical exercises, refining their ability to design, analyze, and optimize algorithms. Independent learning is integral to the process, with students expected to deepen their understanding through guided self-study, exploration of case studies, and iterative practice on algorithmic problems. Continuous feedback during supervised sessions helps students identify strengths and areas for improvement, fostering a growth mindset and adaptability in tackling complex computational problems. The module cultivates a supportive learning environment where students are encouraged to experiment, discuss trade-offs, and develop systematic problem-solving strategies that extend beyond the classroom."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT202&psl_code=SEM2"
+    }
+  ]
+}

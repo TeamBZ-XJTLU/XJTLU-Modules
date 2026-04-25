@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Bilingual and Multilingual Development",
+  "module_code": "LNG202",
+  "offerings": [
+    {
+      "heading": "Bilingual and Multilingual Development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Bilingual and Multilingual Development",
+        "module_code": "LNG202",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Bilingual and Multilingual Development",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "• to introduce students to a wide range of phenomena related to bilingualism and multilingualism at both global and local levels; • to introduce students to some key conceptual and theoretical resources useful for analysing these phenomena; • to equip students with an understanding of the research methods frequently employed in studies of bilingualism, multilingualism, and beyond; and • to enable students to apply some of these methods to exploring some aspect of bilingualism and multilingualism",
+        "Learning outcomes": "A Analyze the concept of bilingualism and multilingualism and the various theoretical issues surrounding these topics B Demonstrate a good knowledge of a wide range of phenomena related to bilingualism and multilingualism at both global and local levels C Identify some of the major historical, psycholinguistic, and/or sociolinguistic issues related to bilingualism and multilingualism, especially those concerning China and/or professional communication and translation D Conduct a meaningful discussion about policies and practices relevant to bilingualism and multilingualism in the education sector E Apply the various methodologies employed in researching bilingualism and multilingualism F Design and implement a small-scale research study to explore bilingualism and multilingualism",
+        "Method of teaching and learning": "Lectures and tutorials"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG202&psl_code=SEM2"
+    }
+  ]
+}

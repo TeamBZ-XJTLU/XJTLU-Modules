@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "Twentieth Century China",
+  "module_code": "CCS105",
+  "offerings": [
+    {
+      "heading": "Twentieth Century China",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "Twentieth Century China",
+        "module_code": "CCS105",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Twentieth Century China",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides an introduction to the history of twentieth century China. The aim is to provide a foundation of historical and background information to modules in the BA in China Studies.",
+        "Learning outcomes": "A. Demonstrate a sound knowledge and understanding of the history of twentieth century China, and the international literature on these topics. B. Show an understanding of the historical determinants of social, political and economic change in China. C. Demonstrate awareness of the principle debates in the academic literature about twentieth century China. D. Critically and creatively engage with different types of sources and perspectives on historical understanding.",
+        "Method of teaching and learning": "Lectures and seminars for rehearsal of weekly topics"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS105&psl_code=SEM1"
+    }
+  ]
+}

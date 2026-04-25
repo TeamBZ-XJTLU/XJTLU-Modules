@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "UPD",
+    "full_name": "Urban Planning and Design"
+  },
+  "full_name": "Contemporary Planning Practice in Western Europe and the North America",
+  "module_code": "UPD102",
+  "offerings": [
+    {
+      "heading": "Contemporary Planning Practice in Western Europe and the North America",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "Contemporary Planning Practice in Western Europe and the North America",
+        "module_code": "UPD102",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Contemporary Planning Practice in Western Europe and the North America",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to make students conversant with the West European, UK and US contemporary planning systems and their historical developments.",
+        "Learning outcomes": "A. Describe the key elements of contemporary planning systems in West Europe, UK, and the US. B. Explain the chronological growth and development of Western planning, with a focus on town planning in the UK; C. Discuss issues, challenges, operations and policy options of contemporary Western Planning. D. Demonstrate a critical approach to Western planning practices and the capability to compare cases from different socio-institutional and economic contexts",
+        "Method of teaching and learning": "The module seeks to provide a varied learning experience, combining lectures, tutorials and discussion. Their delivery is designed to provide experiences of current issues and practices, and stimulate a comparative approach through lectures, discussions and presentation."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD102&psl_code=SEM1"
+    }
+  ]
+}

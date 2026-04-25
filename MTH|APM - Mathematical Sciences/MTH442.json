@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "APM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Quantitative Risk Management",
+  "module_code": "MTH442",
+  "offerings": [
+    {
+      "heading": "Quantitative Risk Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Quantitative Risk Management",
+        "module_code": "MTH442",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Quantitative Risk Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides advanced tools to seek an entrance to the area of quantitative risk management. It will equip students with relevant probabilistic and statistical details of quantitative risk modelling and will highlight selected applications of the models to finance and insurance. The module will cover the fundamentals, including basic concepts in risk management, fundamentals of univariate extreme value theory, pertinent models for univariate extremes, Financial Time series, Copulas and Dependence, Aggregate risks, Financial risk measures and their estimation, and explore topics such as bivariate extreme value theory, Multivariate Models, applications of the models to finance and insurance, and some other topics at a somewhat technical level.",
+        "Learning outcomes": "A. Explain the framework of Quantitative Risk Management. B. Apply the probabilistic fundamentals of univariate and bivariate extreme value theory. C. Choose and fit appropriate extreme value models for given data (univariate and bivariate). D. Calculate probabilities associated with the aggregate loss and the maximum/minimum loss. E. Construct the dependent risks model and measuring extreme dependences. F. Evaluate financial risk measures and its estimations. G. Fit data to dependence models, e.g., copulas, time series (GARCH) models. H. Apply methods of modeling and managing to exemplary extreme risks, e.g., credit risk, operational risk, systemic risk, and selected other scenarios.",
+        "Method of teaching and learning": "This module is delivered through formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH442&psl_code=SEM2"
+    }
+  ]
+}

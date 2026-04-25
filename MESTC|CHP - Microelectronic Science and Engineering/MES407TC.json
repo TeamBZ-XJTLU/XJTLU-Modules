@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHP",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "Additive Manufacturing for Micro Devices",
+  "module_code": "MES407TC",
+  "offerings": [
+    {
+      "heading": "Additive Manufacturing for Micro Devices",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Additive Manufacturing for Micro Devices",
+        "module_code": "MES407TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Additive Manufacturing for Micro Devices",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide students with the ability to: • Develop an understanding of additive manufacturing. • Design and fabricate 3D objects using CAD and 3D printing technologies. • Develop a comprehensive understanding of recent advances in the AM of micro/nano functional devices, micro/nano AM techniques, as well as fabricated micro/nano functional devices.",
+        "Learning outcomes": "A Gain the knowledge of fundamental additive manufacturing and 3D printing approaches, including extrusion-based deposition, stereolithography, powder bed-based melting, and inkjet-based deposition. B Develop additive manufacturing skillset for CAD and CAM methodologies to produce successful 3D prints. C Gain the ability to fabricate 3D objects using a variety of 3D printing technologies. D Demonstrate understanding of the latest micro/nano additive manufacturing processes, functional materials, and applications of micro/nano functional devices. E Develop the ability to design and conduct experiments, analyse and interpret data, as well as present the results.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures, tutorials, and both supervised and unsupervised laboratory sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES407TC&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "China and Asia",
+  "module_code": "CCS202",
+  "offerings": [
+    {
+      "heading": "China and Asia",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "China and Asia",
+        "module_code": "CCS202",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "China and Asia",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course surveys the security challenges and cooperation in the broader Indo-Pacific Region against the background of a rising China. In particular, it provides students with an understanding of how China’s rise both affects and is affected by regional geo-strategic alignments, economic interdependence, and growing multilateral institutions, and aims to develop an ability to apply this knowledge to analyzing and evaluating the related issues and trends.",
+        "Learning outcomes": "A. Demonstrate ability to critically evaluate key issues and trends in China’s bilateral and multilateral engagements in the Asian context in both historical context and contemporary settings. B. Demonstrate ability to interpret China’s relations with Asia in the context of international relations theory and in a global context. C. Demonstrate ability to critically assess the domestic context of China’s policy toward Asia, and how culture, history, key stakeholders, and policy-making processes influence the formulation and implementation of Chinese policies and inform its negotiating strategies. D. Conduct basic research using multiple search applications/tools in English/Chinese-source data environments. E. Effectively structure and present critical analysis of China’s foreign relations in the Asian context in various written and oral forms",
+        "Method of teaching and learning": "Lectures and seminars for rehearsal of weekly topics."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS202&psl_code=SEM2"
+    }
+  ]
+}

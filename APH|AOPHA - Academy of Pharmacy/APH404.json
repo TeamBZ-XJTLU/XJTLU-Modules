@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Modern Pharmaceutical Activity Screening",
+  "module_code": "APH404",
+  "offerings": [
+    {
+      "heading": "Modern Pharmaceutical Activity Screening",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Modern Pharmaceutical Activity Screening",
+        "module_code": "APH404",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Modern Pharmaceutical Activity Screening",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will provide students with a fundamental knowledge of drug discovery and development with a preclinical focus. This includes both conventional, historical and contemporary approaches to sourcing and developing new drugs, from natural sources through to rational drug design, lead optimisation and both in vitro and in vivo screening approaches for drug efficacy and safety, including pharmacogenomic and pharmacokinetic considerations. Additional topics in commercialisation from industry and academic perspectives provide students with a comprehensive knowledge of how new drugs are sourced, developed and evaluated for effectiveness and safety prior to clinical testing.",
+        "Learning outcomes": "A. Understand common natural sources of drugs and contemporary approaches to drug design and development B. Demonstrate an understanding of the timelines and resources required to discover and develop new drugs in a preclinical setting C. Demonstrate an understanding of the critical features of each stage of the preclinical drug development process D. Utilize in silico approaches to critically evaluate the pharmacophore for ligand-protein binding E. Work in small groups to design a novel drug binding to a protein target at a molecular level F. Demonstrate an understanding of the environment and drivers of drug discovery and commercialization of research G. Understand, consider and apply research ethics and health and safety regulations to prioritize, arrange and organize lab work",
+        "Method of teaching and learning": "Lectures, tutorial sessions, small group discussion, and computer-assisted lab sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH404&psl_code=SEM1"
+    }
+  ]
+}

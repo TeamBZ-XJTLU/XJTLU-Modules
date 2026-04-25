@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "APM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Mathematical Risk Theory",
+  "module_code": "MTH325",
+  "offerings": [
+    {
+      "heading": "Mathematical Risk Theory",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Mathematical Risk Theory",
+        "module_code": "MTH325",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Mathematical Risk Theory",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module provides mathematical, probabilistic and statistical techniques to construct and assess the risk models for the insurers. The students are required to be familiar with severity, frequency, aggregate risk, and measures of risk. The students are also expected to know the steps in the modeling processes, understand the assumptions in each family of models, construct risk models given a business application, and appropriately adjust the models for insurance coverage modifications.",
+        "Learning outcomes": "A Understand the characteristics and uses of commonly used severity, frequency, and aggregate models. B Interpret and perform calculations with commonly used severity distributions C Perform calculations with respect to coverage modifications. D Perform calculations with aggregate models. E Evaluate the impact of policy adjustments on loss frequency and severity for different insurance policies F Calculate Value at Risk and Tail Value at Risk and determine whether a given risk measure has certain desirable properties",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorial sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH325&psl_code=SEM1"
+    }
+  ]
+}

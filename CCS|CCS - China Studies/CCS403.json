@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "China’s Social Governance",
+  "module_code": "CCS403",
+  "offerings": [
+    {
+      "heading": "China’s Social Governance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "China’s Social Governance",
+        "module_code": "CCS403",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "China’s Social Governance",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides an introduction to governance mechanisms and innovations in the People’s Republic of China for master’s students. This module also aims to provide students with a comprehensive understanding of social science literature and its application to the study of Chinese society. The module highlights the complex and important interactions between the state, market and society in shaping individuals’ life chances and state-society relations in general.",
+        "Learning outcomes": "A. Describe and summarize the actors, structures and mechanisms of social governance in the PRC B. Apply a body of social sciences theory to comprehensively evaluate the governance designs, practices and innovations in the PRC C. Identify and evaluate key literature on sociology, political sciences, public policy, political economy and international relations in and of the PRC D. Synthetize and evaluate the PRC social governance process E. Analyze and evaluate the impact of social changes in major social governance areas",
+        "Method of teaching and learning": "Lectures will introduce students to crucial skills and content in a dialogic manner, facilitated by Generative AI use. In the seminars, students will engage in-depth discussion of weekly topics, and also to present their analysis of a specific topic from the syllabus. The group case study will help the students to connect theories with practice, as well as to deploy social science research methods. The essay will hone students’ analytical and writing abilities. Generative AI will be integrated into learning and teaching, as well as in the assessment process."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS403&psl_code=SEM1"
+    }
+  ]
+}

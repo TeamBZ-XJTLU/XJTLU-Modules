@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "MTS",
+    "full_name": "Material Science"
+  },
+  "full_name": "Semiconductor Materials",
+  "module_code": "MTS303",
+  "offerings": [
+    {
+      "heading": "Semiconductor Materials",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "MTS",
+        "full_name": "Semiconductor Materials",
+        "module_code": "MTS303",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Semiconductor Materials",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Students who successfully complete this module will be able to: - Understand the mathematical models describing the device operations - Discuss the physics of semiconductor devices and architecture - Develop analytical approaches to understanding complex physical systems - Understand device performance under different operating environment - Understand the operation of semiconductor physics for electronic, optoelectronic and ionic device applications - Explain the properties of conductors, insulators and semiconductors",
+        "Learning outcomes": "A. Explain the physics behind semiconductor material's properties B. Understand how the semiconductors are manufactured for engineering purpose C. Explain the operation of semiconductor diode and transistor D. Analyse charge carrier dynamics in semiconductors by implementing the equations of state E. Relate the operation of semiconductor device building blocks (the diode and transistor) to the charge carrier action. F. Identify and critically evaluate current developments and emerging trends in semiconductor technologies",
+        "Method of teaching and learning": "The content in this module is delivered through a combination of formal lectures and tutorials. Students will also have allocated private studytime for additional learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTS303&psl_code=SEM1"
+    }
+  ]
+}

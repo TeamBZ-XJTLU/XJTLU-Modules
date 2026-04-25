@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Epidemiology",
+  "module_code": "BIO221",
+  "offerings": [
+    {
+      "heading": "Epidemiology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Epidemiology",
+        "module_code": "BIO221",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Epidemiology",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to introduce students to the fundamental concepts and techniques of epidemiology. It covers the principles and methods of epidemiologic investigation, including describing the distribution of disease in populations and the use of research designs for investigating the etiology of disease.",
+        "Learning outcomes": "A Understand the application of the basic principles of epidemiology B Discuss and apply the methods of epidemiology, including disease (outcome) measures, measures of association, study designs, bias, confounding and interaction. C Describe the application of descriptive and analytic epidemiologic techniques to conditions affecting the health of populations. D Interpret the contribution of epidemiologic information to the improvement of health of populations.",
+        "Method of teaching and learning": "The course content will be delivered via standard lectures that will be accompanied by suitable tutorial sessions. Students will be expected to access and digest learning materials – lectures and readings – prior to the tutorial sessions, where the focus will be in the application of the learned material in the form of group activities and guided exercises. Each session will end with a summative assessment task."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO221&psl_code=SEM2"
+    }
+  ]
+}

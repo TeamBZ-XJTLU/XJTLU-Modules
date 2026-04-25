@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Research Methods",
+  "module_code": "CPT401",
+  "offerings": [
+    {
+      "heading": "Research Methods",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Research Methods",
+        "module_code": "CPT401",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Research Methods",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides guidance and training in the skills required for computing-related research in the modern, AI-augmented landscape. Students will carry out a guided but independent investigation of a computing problem, making appropriate use of both traditional research methodologies and contemporary AI-assisted techniques.",
+        "Learning outcomes": "A. Systematically critique scholarly work, including its own, in terms of its rigour, significance, and contribution to computer science. B. Design, conduct, and critically analyse experimental work, employing appropriate methods and tools for data collection and interpretation. C. Critically evaluate the legal, social, ethical, and professional implications of computing research. D. Structure, write, and deliver formal technical presentations and reports to a professional standard. E. Critically assess and responsibly utilise Generative AI tools to support various stages of the research process, while understanding their limitations and ethical constraints.",
+        "Method of teaching and learning": "In this module we wish to foster independent and critical learning, within a framework that includes a series of lectures, seminars, tutorials, and labs. Formal lectures and tutorials: To convey the concepts and methods covered in this module, students will be expected to attend two to three hours of formal lectures or seminars in a typical week. Tutorials will support students in applying these concepts. Seminars: These are intended to allow students to familiarise themselves with current research and report their analyses. Computer labs: These are practical sessions where students will gain hands-on experience with supporting technologies and AI-powered research tools (e.g., for data analysis, code generation, literature mapping) and learn to assess their outputs critically. Immediate feedback will be provided on both the process and the results. Private study: In a typical week, students will be expected to devote 10 hours of unsupervised time to private study. This will include time for reflection on lecture material, background reading, and completion of assessment tasks."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT401&psl_code=SEM1"
+    }
+  ]
+}

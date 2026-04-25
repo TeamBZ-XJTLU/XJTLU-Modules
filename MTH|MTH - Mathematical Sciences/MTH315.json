@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Geometry of Curves and Surfaces",
+  "module_code": "MTH315",
+  "offerings": [
+    {
+      "heading": "Geometry of Curves and Surfaces",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Geometry of Curves and Surfaces",
+        "module_code": "MTH315",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Geometry of Curves and Surfaces",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "• To introduce the ideas and methods of the classical differential geometry of curves and surfaces in three dimensional Euclidean space. • To translate intuitive geometrical ideas into mathematical concepts that allow for quantitative study. • To illustrate geometrical concepts through examples. This module builds on concepts introduced in vector analysis, and has a wide range of applications in science and technology. It provides a foundation for further study of topics such as Riemannian geometry, continuum mechanics and general relativity.",
+        "Learning outcomes": "A Apply techniques from calculus and linear algebra with confidence to the study of geometrical objects B Define and interpret the meaning of core concepts in the differential geometry of curves and surfaces in 3-dimensional space C Calculate various quantities (e.g. length, curvature, torsion; fundamental forms, area) for given examples and interpret their geometrical significance D Discriminate between intrinsic and extrinsic geometrical properties",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH315&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "Cities in Chinese History",
+  "module_code": "CCS312",
+  "offerings": [
+    {
+      "heading": "Cities in Chinese History",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "Cities in Chinese History",
+        "module_code": "CCS312",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Cities in Chinese History",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to key issues in the emergence, development and transformation of Chinese cities. It will cover the imperial, modern and contemporary periods of Chinese history. Specific themes will include gender, the relationship between cities and the state, the relationship between ‘insiders’ and ‘outsiders’, and the impact of city location on their place in history. Key cities such as Chang’an (Xi’an), Suzhou, Beijing and Shanghai will be studied at important moments in their history.",
+        "Learning outcomes": "CODE A Demonstrate understanding of the development and transformation of Chinese cities over time B Analyse the principal debates in academic literature on Chinese cities C Analyse the impact of international and domestic influences on Chinese urbanisation D Interrogate the relationship between state-building and transformation of the urban landscape of China E Demonstrate advanced academic skills in oral and written communication.",
+        "Method of teaching and learning": "Lectures will provide an overview of the weekly topic. Seminars will provide an opportunity for students to discuss concepts and their applicability, analyse the text and speech, and learn how to apply acquired skills for better reasoning and debate. The virtual learning environment will be used to students to engage with module content."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS312&psl_code=SEM2"
+    }
+  ]
+}

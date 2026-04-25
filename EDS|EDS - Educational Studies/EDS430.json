@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Administration And Organization In Higher Education",
+  "module_code": "EDS430",
+  "offerings": [
+    {
+      "heading": "Administration And Organization In Higher Education",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Administration And Organization In Higher Education",
+        "module_code": "EDS430",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Administration And Organization In Higher Education",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to: • Build a foundational knowledge of organizational theories and key concepts related to administration and organization in higher education. • Foster appreciation for the key roles and functions of higher education organizations from a global perspective. • Develop the ability to analyze and synthesize literature on higher education organization and administration issues and challenges, and articulate them in a succinct and professional manner. • Develop research capacities to deepen understanding of the complexities of higher education administration and organization.",
+        "Learning outcomes": "A. Explain the key concepts and theories in higher education administration and organization. B. Demonstrate a critical understanding of higher education organizational functions, governance and administrative roles. C. Assess the changes and challenges in higher education leadership, administration and organization from a global perspective. D. Apply theory to research in practical university administrative and organizational settings.",
+        "Method of teaching and learning": "The teaching sessions are interactive and split into two components: lectures and tutorials/field trips. The tutorials/field trips—tied to lecture topics—adopt a Research-Led Project-Based Learning approach. Students will be guided to identify real-world issues in the field of higher education administration and asked to develop practical solutions through their projects."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS430&psl_code=SEM2"
+    }
+  ]
+}

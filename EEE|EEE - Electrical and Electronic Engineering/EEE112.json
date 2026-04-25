@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Integrated Electronics and Design",
+  "module_code": "EEE112",
+  "offerings": [
+    {
+      "heading": "Integrated Electronics and Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Integrated Electronics and Design",
+        "module_code": "EEE112",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "Integrated Electronics and Design",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To equip students with the knowledge and understanding of the semiconductor physics and the basic principles of silicon microelectronics design, as well as the confidence and practical skills in handling and doing measurement of the semiconductor components and materials.",
+        "Learning outcomes": "A. Understand physical laws of semiconductor and mapping to diodes & transistors. B. Understand why certain electronic materials are used in devices. C. Get familiar with common designs of electronic devices, and simple MOS circuits. D. Design a simple MOS circuit including tolerance and feature sizes. E. Acquire independent learning and design skills coupled with problem solving skills.",
+        "Method of teaching and learning": "This module is delivered through a combination of formal lectures, tutorials, design exercises and supervised laboratory sessions. There is a particular emphasis on developing design skills alongside problems solving."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE112&psl_code=SEM2"
+    }
+  ]
+}

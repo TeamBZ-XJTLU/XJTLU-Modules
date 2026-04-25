@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Academic Writing",
+  "module_code": "IOM438",
+  "offerings": [
+    {
+      "heading": "Academic Writing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Academic Writing",
+        "module_code": "IOM438",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Academic Writing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to be taught in semester 2 of the MRes Management degree and follows the teaching of three modules, taught in semester 1, which cover the research process, qualitative methods, and quantitative methods. Although these semester 1 modules place an emphasis on developing an understanding and skills necessary to undertake a dissertation, a student will also require an understanding of how to write a thesis. The aim of this module, therefore, is to equip students with the knowledge and practical skills required to develop and write the MRes Management dissertation.",
+        "Learning outcomes": "A) Demonstrate comprehension of academic texts and research theses, with an emphasis on critical analysis. B) Comprehend the structure of research theses and academic texts, based on a knowledge of the research process. C) Plan, structure, and produce the individual sections of an MRes thesis, which together form a coherent dissertation.",
+        "Method of teaching and learning": "Lecture and discussions: Description: Each session will involve periods of lecturing from the module leader. Purpose: To impart foundational knowledge to the students. Writing exercises Description: Students will practice writing sections/elements of a thesis. Purpose: For developing their understanding of the individual sections, which form a thesis/manuscripts, and to develop their writing skills. Analysis Exercises Description: Students will analyse existing manuscripts. Purpose: To provide illustrative examples of how to write the individual sections of a thesis."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM438&psl_code=SEM2"
+    }
+  ]
+}

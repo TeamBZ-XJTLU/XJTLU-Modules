@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Topics in Advanced Organic Chemistry",
+  "module_code": "CHE405",
+  "offerings": [
+    {
+      "heading": "Topics in Advanced Organic Chemistry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Topics in Advanced Organic Chemistry",
+        "module_code": "CHE405",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Topics in Advanced Organic Chemistry",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are to provide students with knowledge of protecting groups, the principles of using protecting groups in organic synthesis, with emphasis on the synthesis of peptides, and oligosaccharides. Specifically, students will learn the concepts that allow orthogonal protection and manipulation of multiple functional groups usually present in complex organic structures.",
+        "Learning outcomes": "A. Critically evaluate protecting groups and the concept of orthogonal protection B. Appreciate the concept of using protecting groups in organic synthesis C. Appraise the principles of chemistry behind solid phase synthesis D. Design the synthesis of peptides and oligosaccharides E. Combine peptide and carbohydrate synthetic strategies towards complex organic structures",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures and tutorials. Lectures will be designed to provide essential information and introduce students to the basic tools of analysis, including some basic practice applying in the design of synthetic strategies. Tutorials will be based around problem solving, the completion of which and their discussion will provide students with a learning opportunity designed to extend the material introduced in the lectures. The coursework will be based on problem-solving, as well as the study and presentation of the most recent research findings of applications of the use of protecting groups in organic synthesis"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE405&psl_code=SEM1"
+    }
+  ]
+}

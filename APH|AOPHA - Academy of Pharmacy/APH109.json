@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Introduction to Physiology and Pharmacology",
+  "module_code": "APH109",
+  "offerings": [
+    {
+      "heading": "Introduction to Physiology and Pharmacology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Introduction to Physiology and Pharmacology",
+        "module_code": "APH109",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Physiology and Pharmacology",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to: 1. Provide students with a solid foundation in the concepts and principles of physiology; 2. Familiarise students with the fundamental interactions of pharmacological agents and other external substances on biological processes, with an emphasis on physiological contexts; 3. Develop knowledge and understanding of physiology and pharmacology, and the ability to apply, evaluate, and interpret this knowledge to address problems in these disciplines, with a stronger focus on physiological applications.",
+        "Learning outcomes": "A. Analyze the principle of homeostasis and its role in maintaining physiological balance in the human body. B. Describe the structure and function of major organ systems, emphasizing their physiological roles and interdependence in maintaining overall health. C. Explain the foundational principles of pharmacology and analyze how pharmacological agents affect physiological systems. D. Communicate physiological and pharmacological concepts effectively using appropriate scientific terminology, demonstrating critical interpretation and synthesis of information.",
+        "Method of teaching and learning": "The module content will be delivered primarily through standard lectures, supplemented by tutorial sessions aimed at deepening the students' understanding of the module's principles. To better assist students, lecture slides and supplementary reading materials will be uploaded to the Learning Mall prior to each lecture by the module leader. Specific sections of textbooks that students need to read will be listed in the syllabus as \"pre-reading\", guiding students to deepen their understanding of the module content. Animations and/or videos will be utilised for certain topics to enhance understanding and engagement. Review sessions will be arranged towards the end of the semester, providing students with opportunities to self-assess their understanding of the module content. The assessment components of this module will include practice questions posed during lectures or tutorials. These questions are intended to stimulate understanding and application of the module content, but will not contribute to the students' module marks. Furthermore, students will undertake two courseworks (20% of the module mark each) in the format of in-class quizzes. These quizzes will mimic the format of the final exam (60% of the module mark), providing students with valuable preparation for their final assessment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH109&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Research Methods in Post-Genomic Biology",
+  "module_code": "BIO403",
+  "offerings": [
+    {
+      "heading": "Research Methods in Post-Genomic Biology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Research Methods in Post-Genomic Biology",
+        "module_code": "BIO403",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Research Methods in Post-Genomic Biology",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide students wit h theoretical knowledge and lab-based training in genome characterization, transcriptome and proteome analysis, and bio-imaging.",
+        "Learning outcomes": "CODE OUTCOME A Appraise the key techniques and lab skills necessary for conducting a research project associated with post-genomic biology, and effectively interrogate, analyse and evaluate datasets. B Critically evaluate the approaches used for the large-scale analysis of DNA, RNA, proteins, apply appropriate bio-imaging techniques to study protein localisation and function. C Synthesise information, critically review evidence to support conclusions, and define complex problems in molecular biosciences, by applying appropriate knowledge and skills. D Critical appraise of the literature relevant to the appropriate technologies",
+        "Method of teaching and learning": "1 week lectures, 1 week tutorials, and 2 week practicals/ poster presentation"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO403&psl_code=SEM1"
+    }
+  ]
+}

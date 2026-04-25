@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Data Engineering",
+  "module_code": "INT204",
+  "offerings": [
+    {
+      "heading": "Data Engineering",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INT",
+        "full_name": "Data Engineering",
+        "module_code": "INT204",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Data Engineering",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides an in-depth understanding of data engineering principles and practices. It covers the foundational aspects of data engineering, including data modeling, data warehousing, ETL processes, data integration, and data pipeline design. Students will learn how to design, build, and maintain robust data architectures to support data-driven decision-making in organizations.",
+        "Learning outcomes": "A Understand and apply data modeling techniques to create effective data schemas. B Design and implement ETL (Extract, Transform, Load) processes. C Integrate and transform data from various sources into a unified format. D Design and implement data pipelines to ensure data quality and integrity. E Utilize modern data engineering tools and frameworks. F Analyze and optimize data workflows for performance and scalability.",
+        "Method of teaching and learning": "Students will be expected to attend two hours of formal lectures each week, which will cover theoretical aspects and foundational knowledge. In addition, students will participate in two hours of supervised practical sessions (lab) bi-weekly, conducted in collaboration with industry partners. These practical sessions will provide hands-on experience and real-world applications of the concepts discussed in lectures. At the end of the semester, a seminar will be organized in collaboration with industry partners to offer additional practical insights. Furthermore, students will be encouraged to devote eight hours of independent study each week. This time should be used for reflection and deeper consideration of the lecture material, extensive research, and reading widely on the subject. Where possible, students are encouraged to integrate insights and experiences from their work placements or industry interactions into their studies, enhancing their understanding and practical application of data engineering principles."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT204&psl_code=SEM1"
+    }
+  ]
+}

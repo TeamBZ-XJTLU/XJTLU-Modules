@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IRE",
+    "domain_code": "RBETC",
+    "full_name": "Robotics"
+  },
+  "full_name": "Work Integrated Learning Project",
+  "module_code": "RBE412TC",
+  "offerings": [
+    {
+      "heading": "Work Integrated Learning Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "RBETC",
+        "full_name": "Work Integrated Learning Project",
+        "module_code": "RBE412TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Work Integrated Learning Project",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This capstone module enables students to apply advanced robotics knowledge to address real-world challenges relevant to their chosen pathway. Students will execute an applied project over six months that demonstrates expertise in their specialization. Those in the Advanced Robotics Technologies pathway can opt to improve an existing system, implement an emerging technology, or solve a complex technical problem. The Technopreneurship pathway allows developing a robotics-based business plan, prototype, or IP. Applied Robotics Technologies students can focus on optimizing manufacturing or automation. Finally, the Leadership pathway enables implementing change management, team development, or other leadership initiatives within a robotics organization. Under broad supervision, students will exhibit independent investigation and problem-solving aligned to their pathway. Guidance from academic and industry advisors provides insights tailored to the project. This module culminates learning from the program, empowering students to drive impact through applied robotics innovations relevant to their specialization. Graduates will be fully equipped to meet diverse leadership demands in the evolving robotics landscape.",
+        "Learning outcomes": "A. Apply their academic knowledge and technical skills to successfully execute a practical robotics-pathway themed based project within a professional work environment. B. Demonstrate the ability to plan and execute a project, integrating theoretical concepts learned during their academic studies with hands-on practical experience. C. Analyze project outcomes and the project execution process to identify areas for improvement, fostering their professional growth and development. D. Exhibit effective communication skills, efficient project management techniques, and a strong commitment to professional ethics while undertaking the project. E. Clearly articulate the project's objectives, activities, outcomes, and key insights in a comprehensive report, showcasing a high level of professionalism in documenting and presenting their work",
+        "Method of teaching and learning": "The module aims to cultivate a culture of self-directed learning, with support and guidance provided by both the industrial supervisor and the academic supervisor from the university. The location of the project may be either on-campus or at a company, depending on the nature of the project, the facilities in the company, and the need of the students. A periodic review process is implemented to facilitate progress monitoring and offer valuable formative feedback. The supervisors, representing both the academic and industrial domains, maintain consistent communication with the students during the project to provide necessary guidance, direction, and expert advice as required."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=RBE412TC&psl_code=SEM1"
+    }
+  ]
+}

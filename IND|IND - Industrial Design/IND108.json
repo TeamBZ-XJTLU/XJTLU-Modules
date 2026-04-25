@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IND",
+    "domain_code": "IND",
+    "full_name": "Industrial Design"
+  },
+  "full_name": "Materials For Design",
+  "module_code": "IND108",
+  "offerings": [
+    {
+      "heading": "Materials For Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IND",
+        "full_name": "Materials For Design",
+        "module_code": "IND108",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Materials For Design",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Industrial Designers need to be able to understand the full range of materials and production techniques which are likely to be used to deliver their concepts into the market place. Firstly, using a combination of engineering and technical data students will learn how to evaluate the empirical physical properties of materials including strength, resistance and plasticity. Secondly students will learn through hands-on activities, how to observe, experiment with and apply this first set of knowledge. Students will adopt hand and machined-based techniques to evaluate how materials can be shaped formally and visually to achieve a range of aesthetic and functional treatments. A series of bespoke exercises in laboratories and workshops, extends student knowledge of the potential and parameters which the key materials offer.",
+        "Learning outcomes": "A. Identify and describe the key physical characteristics of the materials used in the production of batch and mass produced objects. B. Describe the main batch and mass production techniques and machine tools available for industrial production. C. Apply an experimental and hands-on approach to evaluate the potential and parameters of a range of materials and production techniques. D. Combine technical and qualitative data of materials and production in the selection and specification of a designed artifact . E. Apply visualization and communication techniques appropriate to the presentation of key material processes.",
+        "Method of teaching and learning": "The content in this module is delivered through a combination of formal lectures, group tutorials and practical sessions. In addition which are delivered in the studios, break-out spaces, workshops and laboratories. Some field trips to manufacturing companies might be organized."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IND108&psl_code=SEM1"
+    }
+  ]
+}

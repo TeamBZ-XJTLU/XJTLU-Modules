@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Music Studies in the Digital Age",
+  "module_code": "COM233",
+  "offerings": [
+    {
+      "heading": "Music Studies in the Digital Age",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Music Studies in the Digital Age",
+        "module_code": "COM233",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Music Studies in the Digital Age",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will equip students with an understanding of music studies in the digital age. It will familiarise students with the interplay between music and technology throughout history, to contextualise current and emerging ways in which music is produced, circulated and consumed. By using a variety of conceptual frameworks linked to culture, technology and music, students will investigate music consumption practices enabled by digital media. Music as audiovisual texts will be analysed, with students exploring formats such as films, TV shows, music videos, games and advertising. In addition, students will critically interrogate music as part of the creative industries with regard to topics such as the power of conglomerates and cultural policy.",
+        "Learning outcomes": "A Demonstrate an understanding of the impact of technology on music production, consumption and distribution over time. B Investigate the role of music as part of culture from a theoretical perspective. C Analyse music texts in different contexts and formats D Critically interrogate the role and place of music within cultural and creative industries",
+        "Method of teaching and learning": "This module will be delivered through a combination of lectures and seminars. Lectures will introduce theoretical knowledge, including relevant concepts and analysis methods. Seminars may include discussions, quizzes and mini presentations, which will provide students with opportunities to demonstrate and apply their understanding of lecture content and media texts."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM233&psl_code=SEM2"
+    }
+  ]
+}

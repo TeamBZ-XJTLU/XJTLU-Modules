@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "CATTC",
+    "full_name": "Cultural Technology"
+  },
+  "full_name": "Prototyping Experiences For Electronic Arts",
+  "module_code": "CAT202TC",
+  "offerings": [
+    {
+      "heading": "Prototyping Experiences For Electronic Arts",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CATTC",
+        "full_name": "Prototyping Experiences For Electronic Arts",
+        "module_code": "CAT202TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Prototyping Experiences For Electronic Arts",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will introduce students to tools for creating tangible interactive artistic experiences in relation to art, technology and entertainment. The module will explore theory and practical content relevant to the conceptualisation of interactive experiences within a variety of everyday settings (i.e. domestic, gallery, theatre, museum, indoor, outdoor, etc.). On completion of the module, students will have a developed ability to communicate and create technology-enhanced experiences across fields of art and design. Focusing on two particular realms of interactive art, spatial and object, students will create experimental works to enhance their comprehension through the application of the theoretical and practical tools introduced in the module.",
+        "Learning outcomes": "A. Demonstrate comprehension of the historical and contemporary relationship between humans and digital technologies for artistic practice B. Produce informed interactive technology-driven experiences for a human audience and/or user(s). C. Appraise and implement appropriate uses of electronic technologies within the creative process.",
+        "Method of teaching and learning": "This module will be delivered through a combination of lectures and studio activities. Lectures will be designed to provide essential information and introduce students to the theories and practices for the conceptualisation, design, and production of responsive experiences. Studios will be based on practical learning of tools for creating interactive responsive experiences. Studio will also provide supervised support for the development of applications of the theories and practical tools introduced resulting in an experiential prototype of project outcomes. The module will also focus on developing students' critical thinking and professional practice within their own creative practice through traditional presentations of work-in-progress and exhibition of outcomes. In that this is an optional module, to well utilise the university resource, the module delivery is subject to meeting a minimum number of students (10)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAT202TC&psl_code=SEM1"
+    }
+  ]
+}

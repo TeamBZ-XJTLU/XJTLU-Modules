@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "LIFE",
+    "domain_code": "IET",
+    "full_name": "Industry and Enterprise Tailored Education"
+  },
+  "full_name": "Exploring Enterprises and Organisations",
+  "module_code": "IET106",
+  "offerings": [
+    {
+      "heading": "Exploring Enterprises and Organisations",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IET",
+        "full_name": "Exploring Enterprises and Organisations",
+        "module_code": "IET106",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Exploring Enterprises and Organisations",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to guide students to explore specific enterprises or organizations in industries relevant to students’current or intended career goals. They will consider how the enterprise/organization relate to and position themselves within their particular industry and the trends within the context of the industry’s development. Students will learn about the enterprises/organizations from multiple perspectives, considering contextually appropriate areas, such as logistics, marketing, communication, manufacturing and strategy. Students will focus on a particular aspect to conduct a problem-solving project based on issues, and/or in collaboration with people from, and organization relevant to students’ current or intended career goals.",
+        "Learning outcomes": "A. Develop understanding of selected enterprises or organizations, including the status quo and developmental potential. B. Identify the challenges or opportunities faced by an enterprise or organization by analyzing the particular social, cultural, and environmental conditions it faces. C. Propose potential responses that the enterprise or organization may adopt to address the challenges or opportunities.",
+        "Method of teaching and learning": "Classroom and online teaching, interaction analysis, case study, group exercises and enterprise-based on-site practices"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IET106&psl_code=SEM2"
+    },
+    {
+      "heading": "Exploring Enterprises and Organisations",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IET",
+        "full_name": "Exploring Enterprises and Organisations",
+        "module_code": "IET106",
+        "semester": "SEMS"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Exploring Enterprises and Organisations",
+        "Semester": "SEMS"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to guide students to explore specific enterprises or organizations in industries relevant to students’current or intended career goals. They will consider how the enterprise/organization relate to and position themselves within their particular industry and the trends within the context of the industry’s development. Students will learn about the enterprises/organizations from multiple perspectives, considering contextually appropriate areas, such as logistics, marketing, communication, manufacturing and strategy. Students will focus on a particular aspect to conduct a problem-solving project based on issues, and/or in collaboration with people from, and organization relevant to students’ current or intended career goals.",
+        "Learning outcomes": "A. Develop understanding of selected enterprises or organizations, including the status quo and developmental potential. B. Identify the challenges or opportunities faced by an enterprise or organization by analyzing the particular social, cultural, and environmental conditions it faces. C. Propose potential responses that the enterprise or organization may adopt to address the challenges or opportunities.",
+        "Method of teaching and learning": "Classroom and online teaching, interaction analysis, case study, group exercises and enterprise-based on-site practices"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IET106&psl_code=SEMS"
+    }
+  ]
+}

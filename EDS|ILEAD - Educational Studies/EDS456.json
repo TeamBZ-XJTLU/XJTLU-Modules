@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Introduction to Research Methods",
+  "module_code": "EDS456",
+  "offerings": [
+    {
+      "heading": "Introduction to Research Methods",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Introduction to Research Methods",
+        "module_code": "EDS456",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Introduction to Research Methods",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed for MSc Digital Education (DE) students at the beginning of their programme to: -Engage students in real-world research practices through project-based learning; -Provide practical exposure to a variety of research methods in digital education contexts; -Cultivate critical thinking about method selection, data collection and analysis, as well as research ethics and academic integrity; -Help students begin envisioning their capstone, long-term research project in a digital education context; -Encourage students to consider how research (methodology) relates to the digital education research field, their own areas of interest, and their career development. The module lays a foundation for all DE modules, especially EDS436 Syntegrative Learning and Research Project.",
+        "Learning outcomes": "A Apply basic research methods to short-term digital education projects. B Critically reflect on the strengths and limitations of different research approaches. C Articulate a preliminary research proposal for a long-term digital education project. D Critically select and justify research methods suited to specific educational and professional contexts. E Demonstrate ethical awareness and academic integrity in digital education research.",
+        "Method of teaching and learning": "This module follows the principles of project-based learning and is delivered through a combination of lectures, labs, seminars, and private study. The lectures introduce students to the topic of research methods and bridge the methodological, conceptual, and theoretical dimensions of digital education research in educational contexts and professions. The labs offer opportunities for hands-on experimentation with and application of research methods. The seminars create a space and time for collaborative discussion about and peer feedback on the emerging research projects. The scaffolded private study forms a crucial part of the educational experience, including but not limited to project planning, reading, exercises, and reflective thinking and writing."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS456&psl_code=SEM1"
+    }
+  ]
+}

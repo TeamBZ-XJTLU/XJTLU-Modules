@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Introduction to Networking",
+  "module_code": "CAN201",
+  "offerings": [
+    {
+      "heading": "Introduction to Networking",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Introduction to Networking",
+        "module_code": "CAN201",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Introduction to Networking",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims:​​ The principal aim of this module is to introduce the fundamental concepts and architectures of networked computer systems. It examines the design principles and operational mechanisms that enable reliable communication, with detailed study of the protocols that constitute the core of modern network infrastructures. ​​Fit within the Programme:​​ This module establishes a core competency that is vital for the wider degree programme. Proficiency in networking principles is a prerequisite for engaging with advanced subjects (e.g., network security, distributed algorithms, cloud architecture) and is indispensable for a career in software engineering, systems design, or IT infrastructure.",
+        "Learning outcomes": "A. Calculate fundamental network performance statistics (e.g., average throughput) based on given network configurations and parameters. B. Apply standard network algorithms (e.g., distance vector, ARP discovery, virtual circuit setup) to solve defined problems, demonstrating both intermediate and final states. C. Analyze and implement simplified versions of standard network protocols. D. Design and develop protocols that meet specified network parameters and address specific performance goals. E. Identify potential security risks and select appropriate network security protocols for a given problem.",
+        "Method of teaching and learning": "This module uses an integrated approach that combines lectures, laboratory work, and independent study to help students build both theoretical understanding and practical skills in computer networking. The aim is to ensure that students can explain how networks operate, analyse communication processes, and implement effective and secure networked systems. Lectures (2 hours per week) provide the main theoretical framework of the module. They introduce and explain the core ideas of network architecture, communication models, and protocol mechanisms that support reliable data exchange. Tutorial and laboratory practicals (2 hours per week) give students the opportunity to apply and test what they have learned in lectures. In these sessions, students use network simulation and analysis tools to build and evaluate network configurations. Practicals are designed to develop confidence with real tools and to encourage teamwork and peer learning through small group tasks. Feedback is provided during lab sessions to support improvement in coding, design, and problem-solving skills. Independent study allows students to review lecture material, complete continuous assessment tasks, and carry out additional reading. Independent learning helps students reflect on what they have learned and prepare for practical and project work. Assessments support ongoing learning and includes an in-class test and a networking project: - The in-class test focuses on conceptual understanding and analytical skills, assessing students’ ability to calculate network performance measures and apply standard network algorithms . - The networking project builds on laboratory activities and requires students to work collaboratively to design and evaluate a small-scale network solution that meets defined performance and security goals. It assesses applied understanding and problem-solving skills developed across the module. - A final written examination assesses comprehensive understanding of all module content and covers all learning outcomes. The exam requires students to analyse network scenarios, design appropriate protocol solutions, and demonstrate critical understanding of performance and security considerations. Together, the assessments provide a balanced and coherent measure of both theoretical knowledge and practical competence."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN201&psl_code=SEM1"
+    }
+  ]
+}

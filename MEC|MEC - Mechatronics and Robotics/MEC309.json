@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MEC",
+    "domain_code": "MEC",
+    "full_name": "Mechatronics and Robotics"
+  },
+  "full_name": "Professional Practice",
+  "module_code": "MEC309",
+  "offerings": [
+    {
+      "heading": "Professional Practice",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MEC",
+        "full_name": "Professional Practice",
+        "module_code": "MEC309",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Professional Practice",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed for students to achieve two aims: 1) How to become a professional and 2) How to conduct professional work These two aims will be achieved via promoting awareness of personal strengths and the latest developments in mechatronics and robotics, following codes of conduct, and reaching required standards of engineering professionals. Lectures, tutorials, invited seminars, field trips to professional organizations, and group work will be organized to improve students’ competence, knowledge, and skills for continuous professional development.",
+        "Learning outcomes": "A. Evaluate personal competencies and emerging developments in mechatronics and robotics to guide professional conduct and lifelong learning. B. Analyse risks and ethical concerns associated with complex projects, proposing justified mitigation strategies in response. C. Demonstrate effective teamwork, leadership, and project management, adhering to professional standards to deliver collaborative outcomes in a diverse and inclusive environment. D. Communicate complex engineering concepts and findings effectively to both technical and non-technical audiences, employing a range of professional formats. E. Develop a viable business case for a technological innovation, synthesizing market analysis, idea development, and a robust business model.",
+        "Method of teaching and learning": "Lectures will provide students with the fundamental knowledge of how to maintain professional standards while conducting work in an engineering context. Fundamental engineering methods such as Waterfall will be introduced to students. Methodologies and practices of generating good project ideas will be shared with student by using personal successful research projects. This will inspire students to generate some innovative projects. Efforts will be placed on the specification of project requirements and risk management processes, ensuring that students are given clear tasks and are able to take appropriate measures to ensure all tasks are completed successfully. Students' project ideas will be implemented by groups of 4 to 6 students, allowing them to train their teamwork and leadership abilities. During the projects' implementation, knowledge about ethics of professional engineering and standards of engineering work will be shared with students. Students will be taught methods of project evaluation, assessment of technology-readiness levels, and report writing skills, allowing them to complete their projects and reports successfully. In addition, in order to support the dissemination of the professional engineering work, students will be asked to produce a short video to introduce their project, describe the methodologies applied in the project and share the project outcomes. Besides lectures and practical group work, tutorials will be arranged to share with students the fundamental and the state-of-the-art knowledge in mechatronics and robotics. Efforts will be placed on robotics owing to high demand of professional engineering talents. Seminars from researchers on the frontiers of other professional domains will be arranged to enhance the awareness of the latest subject developments so as to support students' continuous professional development. At the same time, fieldtrips will be arranged for students to visit relevant world-leading companies in order to gain first-hand experience and learn from experts in the field."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MEC309&psl_code=SEM1"
+    }
+  ]
+}

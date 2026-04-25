@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Corporate Communication",
+  "module_code": "IOM307",
+  "offerings": [
+    {
+      "heading": "Corporate Communication",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Corporate Communication",
+        "module_code": "IOM307",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Corporate Communication",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to: 1. Increase awareness of the importance of language and communication in the business and management contexts; 2. To develop an in-depth understanding of internal communication systems (interpersonal and cross-cultural communications) and of external communication systems (public relations, marketing, political communication and the media); 3. Explore the importance of integrated marketing and corporate communications; 4. Broaden the understanding of communications within the theory of stakeholder management; 5. Apply core communication and sociolinguistic theory to the business environment in order to increase awareness of the importance of language and communication in the business and management contexts; 6. Develop an in-depth understanding of internal communication systems (interpersonal and cross-cultural communications) and of external communication systems (public relations, marketing, political communication and the media).",
+        "Learning outcomes": "By the end of the module students should be able to: A. Understand the function of corporate communications; B. Demonstrate an appreciation of the key issues and problems associated with corporate communications; C. Explore methods of evaluating corporate communications, including corporate image; D. Understand corporate communications within the stakeholder management framework; E. Demonstrate an ability to analyse critically, to write concise reports and opinions, and to communicate ideas effectively; F. demonstrate an ability to work as part of a team.",
+        "Method of teaching and learning": "The course will involve a combination of lectures and tutorials. Videos, on-line facilities and other teaching methods may be used. Students are expected to participate actively in sessions, and student presentations form an integral part of the module. There will be the opportunity for students to ask questions and gain feedback. Guidance will be provided on study skills such as writing reports, presenting work orally and working as part of a team. Students will be provided with reading lists and handouts where appropriate to support their individual and team learning. Students will be expected to exploit the resources posted on VITAL as well as undertake background and follow-up reading."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM307&psl_code=SEM1"
+    }
+  ]
+}

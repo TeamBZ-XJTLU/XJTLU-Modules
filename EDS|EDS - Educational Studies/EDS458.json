@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Designing Educational Games",
+  "module_code": "EDS458",
+  "offerings": [
+    {
+      "heading": "Designing Educational Games",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Designing Educational Games",
+        "module_code": "EDS458",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Designing Educational Games",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with the knowledge and skills to identify, analyze, and address real-world learning challenges through the principled design of game-based learning experiences. Students will learn to apply relevant theories (e.g., play theories, motivational theories, instructional design principles) to create engaging solutions for specific educational problems. The module aims to develop students’ understanding of how games can support learning, motivation, and engagement across diverse educational contexts, while emphasizing the alignment of game mechanics with pedagogical objectives and the assessment of impact through user experience, engagement, and learning outcomes. Fitting within the MSc Digital Education programme, the module bridges theory and practice by combining learning theory with creative design processes, encourages innovation in the use of emerging digital pedagogies, and prepares students to apply game-based learning strategies in professional contexts such as instructional design, curriculum development, and educational technology, without requiring prior programming expertise.",
+        "Learning outcomes": "A. Identify and critically analyze a real-world learning problem to define the core needs and motivations of a specific learner group. B. Critically evaluate theories of learning, motivation, and engagement in relation to the identified learning problems and proposed game-based solution. C. Synthesize and apply principles of game design and instructional design to create purposeful, learner-centred educational game concept. D. Design, prototype, and iteratively refine an educational game that aligns game mechanics with defined learning objectives and demonstrates originality and creativity.",
+        "Method of teaching and learning": "The module adopts a research-led,studio-based, and project-based learning and teaching approach, enabling students to engage critically with current scholarship on game-based learning while applying theory to practice through the iterative design of an educational game. Students are encouraged to draw on contemporary research in learning theory, motivation, and game design to inform their creative decisions, ensuring that their projects are underpinned by robust academic foundations. Through hands-on, project-based activities, learners will prototype, test, and refine their games in response to feedback and evidence, mirroring authentic design processes used in professional contexts. Students will undertake the core game design project in small groups, facilitating collaborative ideation, prototyping, and playtesting. Assessment includes both group and individual components. The mid-term oral presentation (Design Pitch) may be delivered as a group or may focus on the group’s shared concept, while the final Reflective Design Portfolio is an individual submission. This portfolio must document and critically reflect upon the collaborative design process, demonstrating how learning theories and instructional principles informed design choices. Students must clearly articulate their individual role, contributions, and how they translated theoretical understanding into game mechanics to facilitate learning. This approach fosters independent inquiry, critical reflection, and collaborative exchange(e.g., peer critique, playtesting), while supporting the development of advanced skills in designing, evaluating, and communicating innovative educational solutions. No prerequisites, but an interest in digital game design is beneficial."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS458&psl_code=SEM2"
+    }
+  ]
+}

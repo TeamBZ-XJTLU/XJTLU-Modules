@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "Developing Social Infrastructures of Consumption in China",
+  "module_code": "CCS411",
+  "offerings": [
+    {
+      "heading": "Developing Social Infrastructures of Consumption in China",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "Developing Social Infrastructures of Consumption in China",
+        "module_code": "CCS411",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Developing Social Infrastructures of Consumption in China",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module examines the infrastructures—material, social, and cultural—that underpin consumption in contemporary cities. It critically examines China’s national development strategy in China of stimulating consumption, aiming to understand the emerging Chinese consumer society alongside international comparative case studies. The module particularly emphasizes how consumption drives urban development, shapes social relations, and produces new cultural forms, while also deepening inequalities and exclusions. Students are expected to develop knowledge grounded in the context of Chinese society, with particular attention to the recent national development strategy of ‘stimulating consumption’, and will have onsite learning experiences about creative industries. This expertise will provide valuable foundations for future career development in areas such as public policy, marketing, and industry.",
+        "Learning outcomes": "A. Analyse the historical development of consumer society in China and its relationship to urban form. B. Critically evaluate key theoretical perspectives on consumption, space, and culture. C. Identify and examine the various social and material infrastructures that facilitate and govern consumption in contemporary cities. D. Synthesise theoretical concepts with empirical case studies to explain how consumption drives urban development, gentrification, and social exclusion.",
+        "Method of teaching and learning": "The module combines lectures, seminars, and fieldwork to create a dynamic learning environment. Each week consists of a lecture that introduces key theories, concepts, and case studies, followed by a seminar where students engage in critical discussion, debate, and close reading of texts. In addition, the module incorporates one fieldwork activity, enabling students to observe and analyze everyday practices of consumption in situ. This blended approach encourages students to connect abstract theories with lived experiences, fostering analytical, critical, and reflexive understandings of consumption in contemporary society. Generative AI will be integrated into both the learning and teaching process, and into assessments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS411&psl_code=SEM1"
+    }
+  ]
+}

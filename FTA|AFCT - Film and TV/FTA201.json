@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Adaptation Across the Media",
+  "module_code": "FTA201",
+  "offerings": [
+    {
+      "heading": "Adaptation Across the Media",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Adaptation Across the Media",
+        "module_code": "FTA201",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Adaptation Across the Media",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This is a practical module that aims to give students a chance to adapt. It will examine the field of adaptation studies to see how issues like staying faithful to the original, or the different affordances that different media provide impact upon the actual act of adapting texts into screenplays.",
+        "Learning outcomes": "A. Understand the basic theoretical underpinnings of adaptation studies in order to see how they can be applied in practice. B. Be critically cognizant of the affordances of different media, inter-textuality and inter-cultural practices in adaptation studies. C. Deploy their insights about the mechanisms of adaptation by creating adapted screenplay(s).",
+        "Method of teaching and learning": "Lectures Seminars Film Screenings"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA201&psl_code=SEM1"
+    }
+  ]
+}

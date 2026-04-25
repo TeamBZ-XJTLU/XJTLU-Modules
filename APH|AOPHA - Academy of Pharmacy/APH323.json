@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Processes in Biopharmaceutical Manufacturing and Control",
+  "module_code": "APH323",
+  "offerings": [
+    {
+      "heading": "Processes in Biopharmaceutical Manufacturing and Control",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Processes in Biopharmaceutical Manufacturing and Control",
+        "module_code": "APH323",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Processes in Biopharmaceutical Manufacturing and Control",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module investigates the manufacturing processes and quality control of biopharmaceuticals, with an emphasis on protein-based, nucleic acid-based, cell-based, and virus-based therapeutics. Students will critically analyze upstream and downstream production workflows, encompassing cell culture, purification, formulation, scale-up, analytical testing, contamination prevention, and stability assessment. The aims are to cultivate advanced competencies in evaluating manufacturing challenges, optimizing processes for enhanced safety and efficacy, and applying these concepts to disease prevention, diagnosis, and treatment via in-depth case studies and practical scenarios. Building on prerequisites in molecular biology, genetic engineering, fermentation technology, and biochemistry, it bridges foundational biotechnology principles with industrial applications, equipping students in pharmaceutical biotechnology or bioprocess engineering for advanced studies in drug development, and professional roles in biopharma production, quality assurance, or personalized medicine.",
+        "Learning outcomes": "A: Critically review the techniques for processing and purification of biopharmaceuticals B: Master the basic methods, manufacturing processes and control principles of preparation and production of biotechnology drug C: Understand the quality control of biotechnology drugs D: Demonstrate a critical awareness and understanding of new developments in biotechnology pharmaceuticals",
+        "Method of teaching and learning": "This course will be taught by a series of lectures. Students will learn how to apply their knowledge by completing a series of related tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH323&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Game Theory",
+  "module_code": "ECO309",
+  "offerings": [
+    {
+      "heading": "Game Theory",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Game Theory",
+        "module_code": "ECO309",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Game Theory",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module equips students with game theoretical techniques that are useful for investigating important problems in business and economics. Students will learn to formulate games (which are simple representations of real-world strategic interactions) and apply suitable solution concepts to analyzing these games. Such game theoretical analyses reveal rationales behind observed behaviors, and guide decision makers towards optimal outcomes.",
+        "Learning outcomes": "A. Formulate and solve games of complete information. B. Formulate and solve games of incomplete information. C. Apply game theoretical techniques to investigating a real-world problem in business and economics.",
+        "Method of teaching and learning": "This module will be delivered via a combination of lectures and tutorials. Each lecture will introduce new concepts and techniques. Each tutorial will demonstrate how to apply these concepts and techniques to solving various problems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO309&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Personal and Employability Skills",
+  "module_code": "SMO430",
+  "offerings": [
+    {
+      "heading": "Personal and Employability Skills",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Personal and Employability Skills",
+        "module_code": "SMO430",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Personal and Employability Skills",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to support students in developing transferable skills for their desired industry by providing both theoretical knowledge and practical techniques. It focuses on enhancing employer-desired skills based on job market trends and recent research, while also facilitating students' reflection on their experiences to identify developmental needs, improve their employability plans, and foster an awareness of lifelong learning. The module combines both practical and theoretical aspects centered around the concept of student employability development, and equips students with the qualities and personal attributes needed to build a competitive edge against workplace challenges, prepare for the transition from campus to career, and achieve ongoing development in their chosen occupations.",
+        "Learning outcomes": "A Demonstrate a deeper understanding of employer talent demands in the current economic climate. B Understand theories and techniques of learning and development in the context of lifelong development goals, whilst ensuring alignment with evolving job-market demands. C Understand the desired transferable skills and the best practices to demonstrate them to employers. D Demonstrate awareness and self-management skills that facilitate lifelong learning.",
+        "Method of teaching and learning": "On-site lecture and seminar-based classroom interactions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO430&psl_code=SEM2"
+    }
+  ]
+}

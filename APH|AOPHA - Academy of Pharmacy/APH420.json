@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Generalized Linear Models",
+  "module_code": "APH420",
+  "offerings": [
+    {
+      "heading": "Generalized Linear Models",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Generalized Linear Models",
+        "module_code": "APH420",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Generalized Linear Models",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to offer a clear exposition of how regression methods for continuous data extend to include multiple continuous and categorical predictors and categorical response variables. This module also aims to provide students with a thorough understanding of the model diagnostics and building, and to develop familiarity with the computer package.",
+        "Learning outcomes": "A Understand the rationale and assumptions of linear regression and analysis of variance B Understand the rationale and assumptions of generalized linear models C Recognize the correct analysis for a given data D Carry out and interpret linear regressions and analyses of variance, and derive appropriate theoretical results E Carry out and interpret analyses involving generalized linear models, and derive appropriate theoretical results F Perform linear regression, analysis of variance and generalized linear model analysis using computer package, and explain its outputs correctly",
+        "Method of teaching and learning": "The module is delivered through a combination of lectures and tutorials over a period of 13 weeks. In lectures, students are introduced to the core principles, major methodology, and common topics and issues in the area of generalized linear models. Tutorials are given as a platform to address any specific question or issue from individual students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH420&psl_code=SEM2"
+    }
+  ]
+}

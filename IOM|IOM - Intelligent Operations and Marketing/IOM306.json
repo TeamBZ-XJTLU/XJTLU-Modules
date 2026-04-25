@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Marketing Strategy",
+  "module_code": "IOM306",
+  "offerings": [
+    {
+      "heading": "Marketing Strategy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Marketing Strategy",
+        "module_code": "IOM306",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Marketing Strategy",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To develop an understanding of the theoretical and practical models used in the creation of marketing strategies. To enable students to justify their strategic decisions and recommendations. To develop an awareness of the influences of the 'new economy' on organization's marketing strategies. To critically evaluate internal marketing strategies. To develop a sound theoretical and practical understanding of marketing planning and control, and an understanding of the barriers that exist to effective implementation of strategy.",
+        "Learning outcomes": "On successful completion of the module, students will be able to: (A) Understand and critically appraise a wide variety of strategic marketing concepts and models. (B) Compare, contrast and evaluate the strategic options open to organisations in the contemporary world. (C) Specify a clear rationale when choosing between strategic alternatives, and demonstrate the elements that can be used to create sustainable competitive advantage. (D) Evaluate a range of methods for facilitating innovation in organisations. (E) Conduct and evaluate a marketing audit, and prepare effective and efficient marketing plans.",
+        "Method of teaching and learning": "The module involves a range of teaching strategies including lectures, case studies, simulations, and guest lectures. Additional material will be in the form of web-based reading and research, selected texts, journal articles and contemporary magazine and press articles. Independent research and study will be encouraged throughout to complement group work activities. Students will be exposed to case studies on a range of organizations, and will apply the learning to the evaluation of the organizations, including the application of theory to practice, and recommendations of strategic directions. Simulations will provide the students an opportunity to make decisions and apply what they have been learning into simulated business practice."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM306&psl_code=SEM2"
+    }
+  ]
+}

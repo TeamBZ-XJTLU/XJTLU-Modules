@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Advanced Methods in Biostatistics",
+  "module_code": "APH413",
+  "offerings": [
+    {
+      "heading": "Advanced Methods in Biostatistics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Advanced Methods in Biostatistics",
+        "module_code": "APH413",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Methods in Biostatistics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with advanced knowledge of biostatistics in pharmacy. Modern methods of model selection/multi-model inference and relevant study design questions are emphasized across all topics. Students will be enabled to intelligently follow the statistical analysis in a seminar or a scientific paper.",
+        "Learning outcomes": "A. Identify and summarize statistical results as presented in peer reviewed articles B. Compare and contrast the outputs of model selection processes C. Conduct model-based analyses in clinical practice and pharmaceutical care D. Utilize statistical results to support a conclusion E. Evaluate the presentation of statistical results in written and verbal form",
+        "Method of teaching and learning": "The module is delivered through a series of lectures and practicals. The lectures provide statistical theories and case studies in pharmacy. The practices use problem-oriented exercises, group work on case studies, discussions, and presentations. Students apply the knowledge learnt in the lectures and practicals to the assignments and staff provide feedback to improve students’ understanding and applications of statistical theories in clinical practice and pharmaceutical care."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH413&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "Data Modelling Techniques",
+  "module_code": "DTS112TC",
+  "offerings": [
+    {
+      "heading": "Data Modelling Techniques",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DTSTC",
+        "full_name": "Data Modelling Techniques",
+        "module_code": "DTS112TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "Data Modelling Techniques",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The Data Modelling and Analysis module aims to equip students with essential skills in designing and managing both relational and non-relational databases, along with data analytics techniques vital for modern enterprise applications. Through practical coursework, students will gain hands-on experience with database management systems and an understanding of data-driven and AI-driven systems.",
+        "Learning outcomes": "A Design relational database applications through E-R, relational data modelling and SQL using a relational database system B Demonstrate mastery in dealing with non-relational data modelling using NoSQL and other non-relational database management systems C Explain and assess the architecture of data and AI-driven enterprise systems commonly utilized in modern organizations.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This philosophy is carried through in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The module will be delivered in a combination of lectures, seminars and labs. Lectures will introduce students to the academic content. Seminars and labs will be used to expand the students understanding of lecture materials. In addition, students will be expected to devote unsupervised time to private study. Private study will provide time for reflection and consideration of lecture material and background reading. This module will leverage generative AI to enhance course content and teaching methods in line with the learning outcomes. By integrating advanced AI technologies, we aim to improve the efficiency of teaching and interaction, while fostering greater student autonomy and flexibility in learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS112TC&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "The Cultural History of West China",
+  "module_code": "CCS303",
+  "offerings": [
+    {
+      "heading": "The Cultural History of West China",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "The Cultural History of West China",
+        "module_code": "CCS303",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "The Cultural History of West China",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a detailed and deep understanding of the cultures and anthropology pertaining West China through interdisciplinary approaches. The Module aims to introduce major debates on west China in academic fields of anthropology, history and cultural studies.",
+        "Learning outcomes": "A. Describe and evaluate different approaches to late imperial and modern Chinese history. B. Critically evaluate the historical transformations and continuities from late imperial to modern China. C. Situate west China in a global context D. Critically analyse the historical development of west China E. Articulate the complexity of interactions between West China and other areas F. Utilise cultural materials in order to enhance understanding and analysis of west China G. Demonstrate engagement with the major debates on west China in academic fields of anthropology, history and cultural studies.",
+        "Method of teaching and learning": "This module is taught across the semester through lectures for rehearsals of weekly topics and seminars for presentation and group discussions. The module now includes a more focused series of tasks including class participation, essay preparation, seminar presentation and research essay."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS303&psl_code=SEM1"
+    }
+  ]
+}

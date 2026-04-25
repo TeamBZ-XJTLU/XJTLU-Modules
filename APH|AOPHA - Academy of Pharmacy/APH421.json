@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Analysis of Longitudinal Data",
+  "module_code": "APH421",
+  "offerings": [
+    {
+      "heading": "Analysis of Longitudinal Data",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Analysis of Longitudinal Data",
+        "module_code": "APH421",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Analysis of Longitudinal Data",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce an overview of basic concepts and methods for the analysis of longitudinal data. Statistical software such as SAS/R will be used in this module. Upon completion of the module, students are expected to have a comprehensive understanding of the longitudinal data and be able to use the appropriate statistical models to carry out and interpret analyses.",
+        "Learning outcomes": "A Summarize the characteristics of longitudinal data. B Apply linear models to analyze longitudinal data and clear the model assumptions. C Apply generalized linear models for the analysis of longitudinal data. D Be proficient in SAS, R or other software to perform appropriate longitudinal analyses of data and able to interpret and clear the clinical/scientific meaning of the results.",
+        "Method of teaching and learning": "The module is delivered through a combination of lectures and tutorials over a period of 13 weeks. In lectures, students are introduced to the core principles, major methodology, and common topics and issues in the area of longitudinal data analysis. Tutorials are given as a platform to address any specific question or issue from individual students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH421&psl_code=SEM2"
+    }
+  ]
+}

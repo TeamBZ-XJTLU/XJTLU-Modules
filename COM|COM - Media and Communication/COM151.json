@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Global Media Industries",
+  "module_code": "COM151",
+  "offerings": [
+    {
+      "heading": "Global Media Industries",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Global Media Industries",
+        "module_code": "COM151",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Global Media Industries",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the history and study of global media industries. It will provide them with the basic critical concepts to analyse the legal, technological, economic, organisational, and labour aspects of key media industries and to examine their development in interrelated global and national contexts. It will prepare students for the continued study of commercial media in later modules. The reading quizzes aim to develop students’ reading comprehension and understanding of academic discourse. The case study aims to develop students’ research and writing skills.",
+        "Learning outcomes": "A. Recall key developments in the study of media industries B. Identify the debates over globalisation and global media flows C. Contrast media industries theories D. Select and summarise relevant research E. Apply media industry concepts F. Analyse a global media industry practice or regulation",
+        "Method of teaching and learning": "Lectures Seminars"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM151&psl_code=SEM1"
+    }
+  ]
+}

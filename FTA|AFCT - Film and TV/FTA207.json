@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "The Music Promo",
+  "module_code": "FTA207",
+  "offerings": [
+    {
+      "heading": "The Music Promo",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "The Music Promo",
+        "module_code": "FTA207",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "The Music Promo",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "In this module students will engage in a critical study of moments in music promo history. Students will also participate in practical projects that will explore some key approaches to music promo creation and the practitioners involved. In groups they will conceive, plan, develop and edit a music promo for a local band, and be encouraged to develop their ideas in conjunction with practical support. Students will be exposed to a range of promo approaches through a series of screenings and discussions, which will inform the critical and theoretical backdrop to this module.",
+        "Learning outcomes": "A Evidence knowledge of key theories and debates relating to contemporary practices in music promo production and viewing habits B Evidence knowledge of the historical development of the music promo C Demonstrate an ability to use and explore the available technology so that they can plan, film and edit a short music promo D Demonstrate the ability to articulate aesthetic ideas and conceptual skills necessary within production practice E Demonstrate an ability to critically evaluate their production within theories and debates related to music promo production",
+        "Method of teaching and learning": "Screenings & discussions, lectures, workshops, and hands-on individual and group project work."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA207&psl_code=SEM2"
+    }
+  ]
+}

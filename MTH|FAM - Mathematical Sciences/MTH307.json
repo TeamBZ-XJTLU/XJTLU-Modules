@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FAM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Population Dynamics",
+  "module_code": "MTH307",
+  "offerings": [
+    {
+      "heading": "Population Dynamics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Population Dynamics",
+        "module_code": "MTH307",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Population Dynamics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide a theoretical basis for the understanding of population ecology. To develop mathematical models to simulate and predict the behaviour of biological ecosystems involving (i) a single species, (ii) several interacting species",
+        "Learning outcomes": "A. Interpret the biological significance of the terms and parameters in a variety of population models of one species or several interacting species. B. Analyse discrete-time and continuous-time dynamical models in order to predict future changes in an ecosystem. C. Analyse how the behaviour of solutions of a model change as parameters are varied.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH307&psl_code=SEM1"
+    }
+  ]
+}

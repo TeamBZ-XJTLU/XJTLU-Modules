@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "MTS",
+    "full_name": "Material Science"
+  },
+  "full_name": "Energy Materials",
+  "module_code": "MTS304",
+  "offerings": [
+    {
+      "heading": "Energy Materials",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "MTS",
+        "full_name": "Energy Materials",
+        "module_code": "MTS304",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Energy Materials",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "1. To understand the relations of fundamental physics and chemical knowledges of materials properties with the functionality and performance qualities of modern energy technology, such as Li-ion batteries, solar cells, photocatalysts, photocatalysts, thermoelectricity, etc. 2. To obtain insight of directions of energy materials engineering by utilizing the knowledge of materials processing, measurements, and computations in fuel cells, catalysts, battery, and solar cells considering the manufacturing costs and environmental issue.",
+        "Learning outcomes": "A. understand account for the role of materials science for the development of sustainable energy. B. assess and summarise for an overview of state-of-the-art functional materials in energy technology, such as solar cells, batteries, fuel cells, hydrogen storage, photoanode materials C. explain how functionality of energy materials is linked to materials composition, structure and morphology, dimensionality/nanoscale. D. assess new technologies and research results with respect to requirements on the materials' properties as set by the demands of the final functional device, such as efficiency, weight, thermodynamic stability, lifetime and cost. E. devise strategies for the development of new materials with better performance.",
+        "Method of teaching and learning": "Lecture, tutorial and labs."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTS304&psl_code=SEM1"
+    }
+  ]
+}

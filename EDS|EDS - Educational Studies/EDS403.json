@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Principles, Policies and Practices of Global Education",
+  "module_code": "EDS403",
+  "offerings": [
+    {
+      "heading": "Principles, Policies and Practices of Global Education",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Principles, Policies and Practices of Global Education",
+        "module_code": "EDS403",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Principles, Policies and Practices of Global Education",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are to: • Explore different approaches to educational planning and policy issues. • Consider the implications associated with designing and implementing educational reform, especially in a global context. • Consider the influence and impact of international, national and provincial agendas at the local level. • Analyze case studies and discuss issues related to language policies within global education institutions. • Evaluate the impact of English as a Medium of Instruction (EMI) on the internationalization of education.",
+        "Learning outcomes": "A. Critically examine approaches to educational planning and policy issues B. Critically understand issues regarding language policies and Globalization C. Demonstrate a critical understanding of the importance of educational reforms D. Demonstrate the ability to critically engage with regional, national and international education policy documents",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: lectures and tutorials/workshops. The mode of delivery can be online, offline, or blended learning. All delivery modes will be interactive, using a project-based approach where appropriate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS403&psl_code=SEM1"
+    }
+  ]
+}

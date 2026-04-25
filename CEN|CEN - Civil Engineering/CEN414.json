@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Research Plan",
+  "module_code": "CEN414",
+  "offerings": [
+    {
+      "heading": "Research Plan",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Research Plan",
+        "module_code": "CEN414",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Research Plan",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to establish the framework, and theoretical and practical background required for the main part of the research project. This full semester module will be based upon the selected research project and primarily focus on the development of the literature review, knowledge gap and research question identification, methodological approaches, project planning, implementation and deliverables, experimental/numerical procedure calibration, and validation studies. The module is also intended to serve as the main feedback mechanism related to the elements of novelty and feasibility of the project, relevance of selected techniques, and adequacy in meeting the project’s deliverables.",
+        "Learning outcomes": "A Formulate critical questions that build a solid base for the development of the research dissertation and critically assess the significance of the research problem. B Identify knowledge gaps and research methodology through a comprehensive reading and analysis of existing literature in the chosen field of study. C Formulate and develop research questions, research objectives, and hypotheses. D Plan and schedule the project’s activities for the research stage with clear deliverables. E Analytically present orally and in writing the research methodology (i.e. experimental, computational or both) and skill development training undertaken including material synthesis, sample preparation, instrumentation calibration, computational model validation studies.",
+        "Method of teaching and learning": "The module is delivered through regular meetings/consultations with supervisor; laboratory and other investigative work under direct/indirect supervision (as appropriate); regular formative feedback sessions to ensure progress is as expected; preparation of final proposal and reports, and oral presentation."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN414&psl_code=SEM2"
+    }
+  ]
+}

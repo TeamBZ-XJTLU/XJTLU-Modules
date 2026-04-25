@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IRE",
+    "domain_code": "RBETC",
+    "full_name": "Robotics"
+  },
+  "full_name": "Advanced Computer Vision",
+  "module_code": "RBE406TC",
+  "offerings": [
+    {
+      "heading": "Advanced Computer Vision",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "RBETC",
+        "full_name": "Advanced Computer Vision",
+        "module_code": "RBE406TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Computer Vision",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "In the field of robotics, computer vision powered by deep neural networks plays a vital role in enabling intelligent systems to perceive and interpret their surroundings with precision and reliability. This module aims to provide an integrated understanding of how deep learning models support perception and decision-making in robotic systems. It introduces key theoretical concepts, architectures, and practical design principles that underpin modern vision-based robotics, with particular attention to emerging large-scale vision–language models such as CLIP, LLaVA, and LoRA. The module further aims to situate these developments within the broader evolution of multimodal and generative AI, strengthening students’ ability to critically engage with current and future trends in the field. Enhanced supervised lab sessions will offer guided, hands-on opportunities to apply these methods in realistic robotics contexts, including recent advances in robot learning and embodied AI—such as reinforcement and imitation learning, diffusion-based policy generation, and robotic foundation models. More specifically, this module shall enable students to: 1. Understand how computer vision contributes to autonomous perception, learning, and control in robotics. 2. Appreciate the relationships between classical deep learning architectures (e.g., CNNs, RNNs, ViTs, GANs, VAEs, and Diffusion Models) and their applications in intelligent and embodied robotic systems. 3. Engage critically with emerging multimodal, vision–language, and robotic foundation models to recognize their significance and implications for future robotics and AI development.",
+        "Learning outcomes": "A. Configure and operate remote Linux/Ubuntu GPU environments and build reproducible PyTorch pipelines with environment management, SSH/terminal, scripting, distributed and mixed precision, as well as version control, etc. B. Analyze image formation (lighting, color, sampling/scale) and design filtering/enhancement for downstream vision tasks. C. Formulate vision problems and design trainable models with appropriate losses, optimization, and regularization; implement reliable training workflows. D. Build, fine-tune, and evaluate CNN- and Vision Transformer–based systems for classification, detection, and segmentation, comparing accuracy–efficiency trade-offs. E. Train or adapt generative models (VAE, GAN, diffusion) for restoration/synthesis; evaluate with standard metrics for generative vision models; explain foundations and common architectures of vision–language models (e.g., CLIP) and their limitations. F. Understand the basics of robot learning: the perception–action loop, core approaches (reinforcement learning, imitation learning, model-based planning), sim-to-real challenges, and the role of emerging robotic foundation models.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. This module is delivered with a combination of delivery in lectures, laboratory exercise, tutorials and a seminar at the end of the delivery. The concepts introduced during the lecture are illustrated using step-by-step analysis of practical training, complete case studies and live programming tutorials. In the laboratory practice, students will have opportunities to solve a set of exercises during the laboratories under the supervision of the lecturer and the teaching assistant. At the end of each week, there will be a tutorial to emphasize keynotes that have been discussed in lectures and laboratory practice during that week. At the end of the delivery, there will be a seminar to review the whole module delivery."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=RBE406TC&psl_code=SEM2"
+    }
+  ]
+}

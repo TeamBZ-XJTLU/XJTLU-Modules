@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Intelligent Logistics",
+  "module_code": "IFB417TC",
+  "offerings": [
+    {
+      "heading": "Intelligent Logistics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Intelligent Logistics",
+        "module_code": "IFB417TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Intelligent Logistics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module is intended to provide students with a thorough and up-to-date understanding of the major trends transforming the logistics industry by applying them to practical cases. It also presents students a vision of how logistics will develop in the coming years and how businesses can thrive with the help of intelligent logistics. Students will understand the role and importance of intelligent logistics in competitive business performance and be able to apply key methods and techniques for improving logistics efficiency in a fast-changing business environment. The module will provide insights on the latest innovations in logistics and distribution including Internet of Things, Big Data, artificial intelligence, autonomous vehicles and delivery robots, along with how these will impact the future of logistics and transportation. This is an optional module for the MSc Digital Business Digital Supply Chain pathway.",
+        "Learning outcomes": "A Demonstrate comprehensive knowledge and understanding of the role and importance of intelligent logistics in competitive business performance. B Demonstrate an in-depth understanding of the various modern logistics models. C Appraise new technology development and adoption as well as digitalization in logistics industry. D Demonstrate an in-depth understanding of innovative green logistics and the impact to the environment and business sustainability. E Evaluate and apply innovative methods and techniques for improving logistics efficiency.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures and seminars, while integrating interactive teaching methods such as case studies and educational games. Lectures will be designed to provide essential information and introduce students to the basic concepts and techniques relevant to intelligent logistics, including some basic practice in applying the techniques. Seminars will be based around case studies and educational games, the completion of which and their discussion in workshops will provide students with a learning opportunity designed to extend the material introduced in the lectures."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB417TC&psl_code=SEM2"
+    }
+  ]
+}

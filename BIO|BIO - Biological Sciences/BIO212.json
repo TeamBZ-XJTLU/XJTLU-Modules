@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Structure and Dynamics of Biomolecules",
+  "module_code": "BIO212",
+  "offerings": [
+    {
+      "heading": "Structure and Dynamics of Biomolecules",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Structure and Dynamics of Biomolecules",
+        "module_code": "BIO212",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Structure and Dynamics of Biomolecules",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Biomolecules are naturally occurring molecules such as nucleic acids, lipids, sugars and proteins that are essential for normal cellular function. Understanding how these molecules work in terms of their individual architecture and how they interact in cells to form macromolecular ‘machines’ is important to medicine, drug design and bio- and nano-technology. This module aims to provide an introduction to the detailed structure of biomolecules (particularly nucleic acids and proteins), the different techniques used to determine this structure and how structural features define biological function. It will in particular introduce cutting-edge technologies used to investigate protein structure and behaviour from actually visualising molecules using cryo-electron microscopy and X-ray crystallography to determining how molecules move and interact using nuclear magnetic resonance (NMR). The uses, advantages and limitations of these techniques will be illustrated using case studies of specific macromolecular complexes, for example ribosome and ion channels.",
+        "Learning outcomes": "A. Explain the key chemical and structural features of proteins and describe how these features relate to biological function B. Discuss how knowledge of biomolecular structure relates to applications in medicine, the pharmaceutical industry and bio- and nano-technology C. Describe techniques used to determine protein structure and dynamics and discuss the advantages and limitations of each technique D. Discuss the chemical and structural basis of some central biological processes by describing the structure and function of enzymes, membrane proteins and macromolecular complexes of biomolecules E. Discuss the latest ideas on the evolution of protein function F. Describe the principles of structural biology, and how this knowledge has been applied to solve fundamental biological questions",
+        "Method of teaching and learning": "Module content will be delivered by a combination of lectures and workshops. The contents of lectures (PDF files) are also available on Web. For workshops, each student will need a lap top computer with internet connection."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO212&psl_code=SEM2"
+    }
+  ]
+}

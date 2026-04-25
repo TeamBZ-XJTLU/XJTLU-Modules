@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "MTS",
+    "full_name": "Material Science"
+  },
+  "full_name": "Functional Materials",
+  "module_code": "MTS204",
+  "offerings": [
+    {
+      "heading": "Functional Materials",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTS",
+        "full_name": "Functional Materials",
+        "module_code": "MTS204",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Functional Materials",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course introduces the subject of surfaces, including surface thermodynamics and kinetics, surface phenomena in the overall behavior of a material. It also enables students to gain an understanding of the principles underlying the properties of functional of materials.",
+        "Learning outcomes": "A) Analyze the structure, processes, dynamics, and functionality of surfaces, and how these determine chemical and physical properties. B) Master basic concepts of fundamental surface thermodynamics and kinetics. C) Evaluate surface phenomena and understand the physics and chemistry behind surface phenomena. D) Appraise the fundamental of functional materials including classification, types of materials. E) Qualitatively analyze the electric, optical and magnetic properties of materials. F) Understand the relationship between specific material properties and their function in applications using electric, optical and/or magnetic materials.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures, tutorials and labs. Lectures will be designed to provide essential information and introduce students to the basic tools of analysis, including some basic practice in applying the techniques. Tutorials will be based around exercise sheets, the completion of which and their discussion in workshops will provide students with a learning opportunity designed to extend the material introduced in the lectures. Labs will provide students with hands-on experience in functional materials and techniques. The assessment consists of 2 coursework and a final exam that assesses different learning outcomes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTS204&psl_code=SEM2"
+    }
+  ]
+}

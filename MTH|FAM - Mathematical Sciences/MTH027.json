@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FAM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Introductory Calculus I",
+  "module_code": "MTH027",
+  "offerings": [
+    {
+      "heading": "Introductory Calculus I",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Introductory Calculus I",
+        "module_code": "MTH027",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Introductory Calculus I",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module runs from Week 7 until Week 14 and is designed for non-local students who have completed MTH021 in the first half of semester 1. It introduces the basics of differential and integral calculus The aims of the module are to: 1. Develop an understanding and intuition for the concepts of limits, differentiation and integration; 2. Develop ability and build confidence in evaluating derivatives and integrals of polynomial, exponential and logarithmic functions (trigonometric functions are not included); 3. Promote students’ ability to work independently and acquire problem solving skills.",
+        "Learning outcomes": "A Demonstrate an understanding of the concepts of limits, continuity, the derivative of a function, and the integral of a function (definite and indefinite); B Calculate the limit, derivative and integral (definite and indefinite) of polynomial, exponential and logarithmic functions using a range of techniques and interpret the results; C Apply their knowledge of differentiation and integration to determine the critical features of functions including critical points and concavity, and calculate the areas bounded by one or multiple functions.",
+        "Method of teaching and learning": "Students are expected to attend about 7 hours of formal lectures and supervised problem classes or 1 hour tutorial in a typical week. Lectures and tutorials will introduce students to the academic content and practical skills which are the subject of the module, while tutorials and problem classes will allow students to practice those skills. In addition to the time of classes, students will be expected to devote the unsupervised time to private study. Private study will provide time for reflection and consideration of lecture material and background reading. Continuous assessment, including home assignment marking, will be used to test to what extent practical skills have been learnt. Written examination at the end of the semester constitutes the major part of assessment of the academic achievement."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH027&psl_code=SEM1"
+    }
+  ]
+}

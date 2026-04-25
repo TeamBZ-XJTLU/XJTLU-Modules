@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "CATTC",
+    "full_name": "Cultural Technology"
+  },
+  "full_name": "Foundation in Creative Technology",
+  "module_code": "CAT407TC",
+  "offerings": [
+    {
+      "heading": "Foundation in Creative Technology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CATTC",
+        "full_name": "Foundation in Creative Technology",
+        "module_code": "CAT407TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Foundation in Creative Technology",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to the core principles and emerging trends in creative technologies, with a focus on immersive media, interactive design, and advanced audio. By exploring the intersection of technology and creativity within the context of the digital economy and Industry 4.0, students will develop a foundational understanding of how these technologies are shaping the entertainment and cultural industries. The module will provide both theoretical knowledge and practical skills, preparing students for further study and future careers in the rapidly evolving field of creative technology.",
+        "Learning outcomes": "A Demonstrate understanding of core principles and current trends in creative technologies, particularly in immersive media, interactive design, and advanced audio. B Apply basic practical skills in using creative technologies to develop simple prototypes or concepts. C Analyze the impact of creative technologies on the entertainment and cultural industries within the context of the digital economy. D Demonstrate the ability to work both independently and collaboratively on creative technology projects. E Critically evaluate the potential applications and limitations of various creative technologies in entrepreneurial contexts.",
+        "Method of teaching and learning": "• Lectures will provide theoretical foundations and explore current trends in creative technologies. • Seminars will facilitate discussions on case studies and the impact of creative technologies on various industries. • Practical workshops will allow students to gain hands-on experience with different creative technologies and tools. • Group projects will encourage collaborative work and the application of learned concepts to real-world scenarios."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAT407TC&psl_code=SEM1"
+    }
+  ]
+}

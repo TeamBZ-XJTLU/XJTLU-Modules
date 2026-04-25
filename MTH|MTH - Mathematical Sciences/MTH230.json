@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Symmetries In Geometry",
+  "module_code": "MTH230",
+  "offerings": [
+    {
+      "heading": "Symmetries In Geometry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Symmetries In Geometry",
+        "module_code": "MTH230",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Symmetries In Geometry",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is a mathematical treatment of symmetries as the transformation groups of geometric spaces. This will provide students a geometric viewpoint for algebraic concepts such as group theory. Students will become familiarised with interesting non-Euclidean geometries such as spherical, hyperbolic, affine, and projective geometry. Furthermore, students will gain proficiency in using transformation groups to simplify problems in geometry. This module synergises well with metric spaces and provides a foundation for further study in topology, differential geometry, and algebra.",
+        "Learning outcomes": "A. Recognise the similarities and differences between Euclidean and non-Euclidean geometries. B. Work effectively with explicit models of the hyperbolic plane to perform calculations. C. Solve problems using isometries of Euclidean, spherical, or hyperbolic space. D. Apply knowledge of linear algebra and group theory to problems arising in geometry.",
+        "Method of teaching and learning": "This module will be delivered mainly through a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH230&psl_code=SEM2"
+    }
+  ]
+}

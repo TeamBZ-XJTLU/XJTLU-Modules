@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ELC",
+    "domain_code": "LM",
+    "full_name": ""
+  },
+  "full_name": "Introduction to Organisation and Management",
+  "module_code": "LMSMO103",
+  "offerings": [
+    {
+      "heading": "Introduction to Organisation and Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LM",
+        "full_name": "Introduction to Organisation and Management",
+        "module_code": "LMSMO103",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Organisation and Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with a comprehensive foundation to the study of Organisational Behaviour and its practical applications in order to improve their understanding and management of people at work. The module considers the conceptual frameworks relevant to the behaviour of individuals and groups in organisations, and the issues which are raised in their management.",
+        "Learning outcomes": "A. Interpret key concepts and theories with regard to individual differences and apply these appropriately to specific situations. B. Examine the role and functions of groups and teams in organisations. C. Identify characteristics of organisations in terms of structure, change and culture. D. Explain how organisational performance can be improved through the effective use of human resources.",
+        "Method of teaching and learning": "This is a lecture based module supported by tutorials and private study"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LMSMO103&psl_code=SEM1"
+    }
+  ]
+}

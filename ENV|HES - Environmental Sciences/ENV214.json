@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Aquatic Ecology",
+  "module_code": "ENV214",
+  "offerings": [
+    {
+      "heading": "Aquatic Ecology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Aquatic Ecology",
+        "module_code": "ENV214",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Aquatic Ecology",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aquatic ecosystems include all environments where water is a dominant physical and chemical factor affecting plant and animal survival. With the rapid economic development and population increase, aquatic ecosystems are increasingly affected by human induced stressors. Understanding the structure, functions and processes of aquatic ecosystems, and developing effective plans for their management, are crucial to our society. This module will provide a critical insight into the major components of aquatic ecosystems, paying particular attention to geomorphic, hydrologic, and ecosystem processes, and human influences and management based on a catchment scale.",
+        "Learning outcomes": "A identify stream orders and watershed boundaries and understand the components of a catchment. B quantify the habitat quality and physicochemical parameters. C assess water quality based on physicochemical and biological characteristics. D interpret and present ecological data analysis by analyzing environmental and experimental data. E apply acquired knowledge for river basin management.",
+        "Method of teaching and learning": "Lectures, tutorials, field excursion and lab/practicals are integrated, i.e. each lecture contains new theoretical topics, worked examples and opportunities for students to solve problems. Some lectures are used as pure tutorials. Coursework, which enable students to use the acquired knowledge in an integrated manner, is given in essential parts of the syllabus. During the lectures, we will acquire the theories via lectures, analyze scientific papers by seminars, understand the relationships between aquatic organisms and environmental variables, do field excursion and laboratory measurement via practicals. *Should the University decide to cancel or postpone the field trip due to unforeseen environmental and/or political circumstances, the Department will either plan an appropriate substitute activity to meet the intended learning outcomes of the trip or make necessary arrangements to organize the trip at a later time, as appropriate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV214&psl_code=SEM1"
+    }
+  ]
+}

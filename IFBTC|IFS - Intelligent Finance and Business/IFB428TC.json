@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Applied Investment Strategies",
+  "module_code": "IFB428TC",
+  "offerings": [
+    {
+      "heading": "Applied Investment Strategies",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Applied Investment Strategies",
+        "module_code": "IFB428TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Applied Investment Strategies",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with practical and theoretical expertise in designing, implementing, and evaluating investment strategies within the context of digital finance. It bridges academic theory with real-world digital tools to address modern investment challenges. Key aims include: • Developing a critical understanding of traditional and digital-native investment strategies. • Building proficiency in using digital tools and data analytics to optimize portfolio performance, manage risk, and adapt to market volatility. • Cultivating the ability to assess the ethical, regulatory, and technological risks associated with digital investment strategies. The module supports the MSc Digital Business’s goal of producing analytics-ready graduates by framing programming not as a technical skill in isolation, but as a tool to solve business problems, aligning with employer demands for analysts who can “code, analyze, and communicate.",
+        "Learning outcomes": "A. Critically evaluate the impact of digital technologies on the design and execution of investment strategies. B. Critically assess the performance of traditional and digital investment strategies and develop evidence-based arguments to justify investment decisions. C. Construct and manage a digital investment portfolio that integrates traditional assets and digital asset, adhering to risk management best practices. D. Adapt to rapid technological changes in the finance industry by updating strategy frameworks and tool proficiency.",
+        "Method of teaching and learning": "The module employs a blended approach to teaching and learning. Lectures are used to introduce core concepts and theoretical frameworks. Seminars facilitate interactive discussions on real-world digital marketing campaigns, challenges, and emerging industry trends, with case studies to provide hands-on experience. Group projects encourage collaborative strategy development, enabling students to design integrated digital marketing plans and refine them through peer feedback. Independent study complements structured sessions, allowing students to conduct research, engage with online resources, and prepare for assessments through self-directed learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB428TC&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Geographic Information Systems",
+  "module_code": "ENV101",
+  "offerings": [
+    {
+      "heading": "Geographic Information Systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Geographic Information Systems",
+        "module_code": "ENV101",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Geographic Information Systems",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module will introduce the basic concepts of Geographical Information Systems (GIS) and the GIS spatial analysis techniques in the context of Environmental Sciences.",
+        "Learning outcomes": "A. understand basic concepts related to Global Positioning System (GPS) and GIS B. familiarize common spatial analysis tools C. construct geospatial data using proper mapping tools D. apply GIS to solve simple real-world problems E. identify the limitations of spatial analysis",
+        "Method of teaching and learning": "The module is delivered primarily through lectures and in labs. The lecture series will introduce the basics of GPS and GIS, followed by practical exercises. There are two types of assessments: formative and summative. Formative assessments consist of several lab practicals. The summative assessments include an oral presentation in the field of GPS or Global Navigation Satellite System (GNSS) applications and a project report for a real-world problem. Students need to achieve an average of 70 for the formative assessments in order to have their project report marked . *Should the University decide to cancel or postpone the field trip due to unforeseen environmental and/or political circumstances, the Department will either plan an appropriate substitute activity to meet the intended learning outcomes of the trip or make necessary arrangements to organize the trip at a later time, as appropriate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV101&psl_code=SEM2"
+    }
+  ]
+}

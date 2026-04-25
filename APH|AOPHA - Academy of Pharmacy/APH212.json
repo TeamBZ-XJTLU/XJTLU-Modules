@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Biopharmaceutics and Biopharmaceutical Technology",
+  "module_code": "APH212",
+  "offerings": [
+    {
+      "heading": "Biopharmaceutics and Biopharmaceutical Technology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Biopharmaceutics and Biopharmaceutical Technology",
+        "module_code": "APH212",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Biopharmaceutics and Biopharmaceutical Technology",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "1. To familiarize the students with the concept and relationship between biopharmaceutics and biopharmaceuticals. 2. To develop in the students an understanding of the physical pharmacy, formulation principles, and pharmacodynamics of biopharmaceutics 3. To develop in the students’ knowledge and deep understanding of biopharmaceutical technologies and ability to apply, critically evaluate and interpret this knowledge to solve complex problems",
+        "Learning outcomes": "A Outline the main biopharmaceutical technologies and the characteristic and classification of biopharmaceuticals B Deeply understand the concept, classification and principle of genetic engineering technologies C Deeply understand the technology and processing of recombinant monoclonal antibodies and the principle of protein purification technologies D Acquire knowledge of 1) physical-chemical principles and 2)formulation principles of biopharmaceutics E Understand pharmacokinetic principles of biopharmaceutics F Develop planning and time-management skills",
+        "Method of teaching and learning": "Course content will be delivered primarily via standard lectures, which suitable lecture handouts will accompany. Students will also be guided to sections of specific textbooks. If the reading of specific reviews or literature sources is required, then copies of these will be made available in the library for use by the students. At intervals during the module, tutorials will be delivered for the students to deeply understand the principle of this module. Timely, relevant and specific, constructive and actionable feedback will be provided to students in class, on paper or in person for each assignment. Animations and/or videos will be shown for some of the topics. Review sessions will be arranged towards the end of the semester, and the students will have opportunities to self-assess their understanding of the course. Students will attend a 3-hour lecture, and a 2-hour tutorial per week. Students will also be given guidance and opportunities to practice the various skills mentioned in the specifications. Self-study activities will be extensions or consolidations of work carried out in the lecture and tutorial. Assessment components of this module will include: 1) questions or tests in lectures or tutorials; 2) coursework to review the topics; and 3) group discussion or report of topics related to the module. The feedback will help improve the teaching quality and ensure the quality of summative assessment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH212&psl_code=SEM2"
+    }
+  ]
+}

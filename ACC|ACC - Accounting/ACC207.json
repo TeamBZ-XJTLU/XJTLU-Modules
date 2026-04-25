@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Econometrics In Accounting And Finance",
+  "module_code": "ACC207",
+  "offerings": [
+    {
+      "heading": "Econometrics In Accounting And Finance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Econometrics In Accounting And Finance",
+        "module_code": "ACC207",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Econometrics In Accounting And Finance",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to expand students’ practical experience via lab sessions in analyzing real-world financial data using econometric techniques and models. The module further develops students’ mathematical, quantitative, programming and statistical skills as required for the study of accounting, finance and economics as well as industry careers.",
+        "Learning outcomes": "A Understand and apply basic Econometrics models in analyzing real-world financial data via software B Estimate and interpret the results arising from a range of regression models using software C Conduct hypothesis testing and use the results to inform decision making",
+        "Method of teaching and learning": "This module will be delivered using a combination of lectures, computer labs and self-directed study. The lectures are intended to provide conceptual details and empirical application to the topics. This will be built upon by completion of structured lectures and practical experience using econometric models in the lab sessions. Materials is placed in a broad business and financial context and the links between accounting and finance as well as economics and broader business"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC207&psl_code=SEM2"
+    }
+  ]
+}

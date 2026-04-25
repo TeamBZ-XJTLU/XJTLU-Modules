@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Digital Media and Information Literacy",
+  "module_code": "EDS434",
+  "offerings": [
+    {
+      "heading": "Digital Media and Information Literacy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Digital Media and Information Literacy",
+        "module_code": "EDS434",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Digital Media and Information Literacy",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to deepen learners’ understanding of digital media and information literacy in education through critical exploration and evaluation of latest trends, perspectives, techniques, and implementations of multimedia technologies, ethical issues, and pedagogical theories. It will also help learners to develop and improve their own information literacies to critically reflect on the development of the digital media and information practices.",
+        "Learning outcomes": "A Demonstrate a systematic and comprehensive understanding of the key concepts and issues of digital media and information literacy in education from critical and ethical perspectives B Appraise and reflect upon the development their own digital media and information practices in the light of current critical debates C Critically evaluate the existing digital media and information with future-oriented thinking and make sound judgement in the effective and valid information using appropriate methodology",
+        "Method of teaching and learning": "The teaching sessions are interactive and divided into two components: lectures and tutorials. The tutorials will build on the materials covered in the lectures. One or more methods will be used in teaching and learning such as online and onsite blended learning, e-learning, flipped classroom, project-based learning with technology. Both formative assessment and summative assessment will be applied, such as oral and written feedback and peer feedback and evaluation. Labs will provide students with hands-on experiences to design and implement digital education tools and practices."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS434&psl_code=SEM2"
+    }
+  ]
+}

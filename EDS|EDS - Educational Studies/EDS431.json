@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Designing Digital Education Curriculum",
+  "module_code": "EDS431",
+  "offerings": [
+    {
+      "heading": "Designing Digital Education Curriculum",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Designing Digital Education Curriculum",
+        "module_code": "EDS431",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Designing Digital Education Curriculum",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module adopts a Research-Led Project-Based Learning (RLPBL) approach and takes a design-led perspective on the creation of online or digitally-mediated courses in a range of settings – including formal, informal, workplace, and other learning contexts. Also addressed are alternative models of curriculum and accreditation (e.g. micro-credentials, digital badges, etc.). Through engaging with real-world design challenges, students will collaboratively explore how to approach course design in a deeply-theorised and critical way to investigate pressing educational issues (e.g. learner engagement, digital equity, AI-integrated assessment) and propose research-informed, context-sensitive course design solutions. There will be opportunities to understand and analyse a range of design approaches and contemporary design challenges, discuss and question what makes a course and what makes it “digital”, as well as explore their own design needs and aspirations and those of their learners, colleagues, or other participants. This module integrates Generative AI and emerging digital tools, while focusing on the curriculum level, and aims to enable students to design programmes that incorporate digital approaches and strategies. Students will critically examine how AI/GAI can enhance (and/or complicate) pedagogy, curriculum, and learner experience, while reflecting on associated ethical, practical, and pedagogical implications.",
+        "Learning outcomes": "A. Investigate and apply a range of approaches to the design of online and offline courses through the lens of real-world educational challenges using Research-Led Project-Based Learning methods. B. Critically evaluate these approaches based on an understanding of their philosophical bases, theoretical bases, and practice-based perspectives. C. Select, design, and share media, learning activities and assessment tasks appropriate to each approach D. Design and build course components appropriate to their own institutional and educational context.",
+        "Method of teaching and learning": "Students will engage in iterative inquiry cycles throughout their lectures, tutorials and practicals: identifying issues, designing and testing solutions, and reflecting on their processes and outcomes. Multiple methods will be used for learning and teaching such as online and onsite blended learning, e-learning, flipped classrooms, project-based learning with technology, and different sizes of group work. Both formative and summative assessments will be utilized; all assessments will include feedback from faculty and/or peers."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS431&psl_code=SEM1"
+    }
+  ]
+}

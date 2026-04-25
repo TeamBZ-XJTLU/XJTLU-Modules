@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Ordinary Differential Equations and Control",
+  "module_code": "MTH212",
+  "offerings": [
+    {
+      "heading": "Ordinary Differential Equations and Control",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Ordinary Differential Equations and Control",
+        "module_code": "MTH212",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Ordinary Differential Equations and Control",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Solving systems of linear autonomous differential equations. Based on this material an accessible introduction to the ideas of mathematical control theory is given. The emphasis here will be on the stability and stabilization of feedback. Phase plane techniques will be introduced.",
+        "Learning outcomes": "A. Make use of the basic ideas in the theory of linear autonomous differential equations. B. Employ Laplace transform and matrix methods to the solution of differential equations. C. Recognise and work with elementary concepts from control theory, such as stability, stabilization by feedback and controllability. D. Solve simple control problems. E. Carry out simple phase plane analysis.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH212&psl_code=SEM1"
+    }
+  ]
+}

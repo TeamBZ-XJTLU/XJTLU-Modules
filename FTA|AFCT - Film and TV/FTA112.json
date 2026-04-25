@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Introduction to Production",
+  "module_code": "FTA112",
+  "offerings": [
+    {
+      "heading": "Introduction to Production",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Introduction to Production",
+        "module_code": "FTA112",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Production",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to: Provide a comprehensive grounding in the techniques used by the production department when undertaking the production of a short film Introduce students to the production processes and paperwork used in the management of a short production",
+        "Learning outcomes": "A Understand the creative role of a producer in a short film, whether documentary or fiction B Anticipate and react to production challenges in order to effectively contribute as part of a production department C Apply the theoretical knowledge gained during the course to create production paperwork",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (Lectures and seminars). A series of lectures will equip the students with the knowledge and understanding of production and the production processes. Seminars will focus on case study work and production management."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA112&psl_code=SEM1"
+    },
+    {
+      "heading": "Introduction to Production",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Introduction to Production",
+        "module_code": "FTA112",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Production",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to: Provide a comprehensive grounding in the techniques used by the production department when undertaking the production of a short film Introduce students to the production processes and paperwork used in the management of a short production",
+        "Learning outcomes": "A Understand the creative role of a producer in a short film, whether documentary or fiction B Anticipate and react to production challenges in order to effectively contribute as part of a production department C Apply the theoretical knowledge gained during the course to create production paperwork",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (Lectures and seminars). A series of lectures will equip the students with the knowledge and understanding of production and the production processes. Seminars will focus on case study work and production management."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA112&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Foundational Research Skills for Environmental Scientists",
+  "module_code": "ENV117",
+  "offerings": [
+    {
+      "heading": "Foundational Research Skills for Environmental Scientists",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Foundational Research Skills for Environmental Scientists",
+        "module_code": "ENV117",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Foundational Research Skills for Environmental Scientists",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the scientific method approach, specifically some of the principles that scientists follow to produce and debate scientific knowledge in different environmental research areas. Emphasis will be placed on how to structure scientific enquiry, hypothesis formulation and testing, and using argumentation based on empirical evidence. Research ethics will be introduced and various issues of scientific misconduct will be examined. Finally, the module also will focus on effective science communication by emphasizing how to structure visual representations such as diagrams, graphs and tables.",
+        "Learning outcomes": "A. interpret and present data and concepts effectively in visual ways B. apply real practices of scientific research mainly develop scientific enquiry, hypothesis testing and evaluate research outcomes validity C. use arguments based on empirical evidence to sustain a claim D. analyse what constitutes scientific misconduct E. recognize ethical standards of human, vertebrate and other research practices E. present data in written scientific reports and deliver oral presentation",
+        "Method of teaching and learning": "This module integrates weekly Lectures, introducing core research principles and skills sequentially, with hands-on Labs focused on immediate practical application using relevant software. Learning is centered around a semester-long, student-chosen Mini-Research Project, allowing contextual skill application. Typically, the 2-hour lecture and 2-hour lab session for each week are scheduled as separate sessions within the same week. This structure allows focused engagement with theoretical concepts during lectures and dedicated time for practical application and skill development during labs. Lab sessions are designed to be interactive and benefit from spaces suitable for computer work and potentially group discussion. The assessments, including the Mini-Research Report, Poster & Oral Presentation, and Project Development & Engagement components, are primarily based on individual student work, reflecting their personal development and application of foundational research skills throughout the semester."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV117&psl_code=SEM1"
+    }
+  ]
+}

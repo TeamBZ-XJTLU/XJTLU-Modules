@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Corporate Reporting, Data and Assurance",
+  "module_code": "ACC420",
+  "offerings": [
+    {
+      "heading": "Corporate Reporting, Data and Assurance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Corporate Reporting, Data and Assurance",
+        "module_code": "ACC420",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Corporate Reporting, Data and Assurance",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To enable students to prepare consolidated financial statements, and extracts from single entity and group financial statements, covering a wide range of IFRS® Accounting Standards. To enable students to explain the application of IFRS® Accounting Standards to specified single entity and group scenarios. To develop students’ understanding of the critical aspects of managing an assurance engagement (including audit engagements): planning, performing, concluding and reporting. To enable students to use their data analytic skills to interrogate the data and identify areas of concern or items which warrant further investigation. To enable students to understand and advise on professional and ethical issues relevant to corporate reporting, data and assurance.",
+        "Learning outcomes": "A. identify the circumstances in which entities are required to present consolidated financial statements; B. prepare and present consolidated financial statements in conformity with IFRS® Accounting Standards; C. explain the application of IFRS® Accounting Standards and IFRS® Sustainability Standards to specified single entity and group scenarios; D. analyse and interpret financial and nonfinancial information to identify significant features, inconsistencies, limitations and draw conclusions; E. advise on the legal, professional and ethical issues relevant to those preparing financial statements and/or carrying out an assurance engagement; F. plan and perform assurance engagements in accordance with international auditing and assurance pronouncements; G. conclude and report on assurance engagements in accordance with international auditing and assurance pronouncements.",
+        "Method of teaching and learning": "A range of teaching and learning methods will be utilized on this module. Core substantive knowledge will be delivered via lectures, and the knowledge covered in lectures will be reinforced by practical student group work, culminating in participative tutorials. Longer, case-based work will be delivered by means of seminars, which will again be participative in nature."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC420&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Supply Chain Operations Management",
+  "module_code": "IFB111TC",
+  "offerings": [
+    {
+      "heading": "Supply Chain Operations Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Supply Chain Operations Management",
+        "module_code": "IFB111TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Supply Chain Operations Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The management of supply chains is key to the operations of modern organisations. The need to be competitive, in terms of reaching new markets, sourcing new goods and raw materials as well as globalizing have all been key contributors to the development of supply chains as a function. It has become clear that competitive advantage and customer satisfaction can be gained if all organisations in the chain work together to improve service and reduce cost. The module provides the student with comprehensive understanding of key principles and techniques to assure effective supply chain management (SCM). The aims of this module are to enable students to: (1) Understand the principles and role of SCM in organisations. (2) Be able to assess the effectiveness of supply chain strategic and operational decisions. (3) Understand and apply a range of tools and techniques relevant to the optimisation of supply chains.",
+        "Learning outcomes": "A. Assess and map the operations of supply chains in various sectors both nationally and globally. B. Analyse and evaluate the factors that impact on the performance across a supply chain. C. Demonstrate an in-depth understanding of how to apply supply chain management and optimisation tools and techniques in sectors.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. The module is delivered through series of lectures, seminars, tutorials, labs and simulation games. Both international and Chinese supply chain management case study materials will be utilized to further expose students to practical applications of the principles. Four exercises will be scheduled to cover different topics of semiconductor and electronics supply chain management. Two of these will be game based exercises and the remainder will be based on case study materials and application optimisation tools and techniques used in supply chain management."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB111TC&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Environmental Instrumental Analysis",
+  "module_code": "ENV215",
+  "offerings": [
+    {
+      "heading": "Environmental Instrumental Analysis",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Environmental Instrumental Analysis",
+        "module_code": "ENV215",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Environmental Instrumental Analysis",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce the working principal, structure and basic setting of several commonly used environmental analysis instruments. By using hands-on experiments this module will enhance students understanding of the use of these instruments and guide students in how to choose which analysis instrument to use for different environmental samples. Lastly, this module also introduces several fast analysis technologies.",
+        "Learning outcomes": "A understand the working principles of several major environmental instruments; B understand the structure and major components of several major environmental instruments; C demonstrate which analysis using which environmental instrument is appropriate for different types of environmental samples; D use common procedures to analyze common environmental samples on several commonly used environmental instruments; E explain the advantages of using fast analysis technology.",
+        "Method of teaching and learning": "Several complementary teaching methods will be used in this module, including lectures, tutorials and hand-on lab experiments. Students will observe the operation of commonly used environmental instruments in the real lab environment. Students will perform several experiments using instruments and present their results in posters."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV215&psl_code=SEM2"
+    }
+  ]
+}

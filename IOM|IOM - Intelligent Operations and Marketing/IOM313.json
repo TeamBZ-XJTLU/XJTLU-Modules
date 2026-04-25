@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Marketing Intelligence and Applications",
+  "module_code": "IOM313",
+  "offerings": [
+    {
+      "heading": "Marketing Intelligence and Applications",
+      "listing": {
+        "academic_year": "2028/29",
+        "domain_code": "IOM",
+        "full_name": "Marketing Intelligence and Applications",
+        "module_code": "IOM313",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2028/29",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Marketing Intelligence and Applications",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Marketing Intelligence and Applications aims to employ machine learning methods and causal inference approaches to solve real-world marketing problems. This module introduces the subject by focusing on the principles of supervised learning, unsupervised learning, causal inference approaches and marketing mix modeling.",
+        "Learning outcomes": "A Understand and explain the principles of machine learning methods and causal inference approaches. B Understand the strengths and weaknesses of different methods and choose the appropriate methods for data analyses. C Apply classical supervised and unsupervised learning methods to solve marketing problems. D Apply modern causal inference methods to explain interesting marketing phenomenon.",
+        "Method of teaching and learning": "The module will be taught using a combination of lectures, tutorials and directed study. The lectures are intended to provide an introduction to the topics covered in the syllabus. The module will provide some practical experience using econometrics models in tutorials and the regular completion of structured exercises."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM313&psl_code=SEM2"
+    }
+  ]
+}

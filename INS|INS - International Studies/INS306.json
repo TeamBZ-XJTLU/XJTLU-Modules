@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "US Intelligence and Foreign Policy",
+  "module_code": "INS306",
+  "offerings": [
+    {
+      "heading": "US Intelligence and Foreign Policy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "US Intelligence and Foreign Policy",
+        "module_code": "INS306",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "US Intelligence and Foreign Policy",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module explores the unique place and role of the Central Intelligence Agency (CIA) in the making and implementation of US foreign policy ever since the Agency was established in 1947. It identifies the core roles of a modern intelligence agency and examines the key activities of the CIA in executing US foreign policy since the late 1940s. It scrutinises key themes and issues that have dominated the CIA’s history, such as institutional marginalisation, abuses of power, the politicisation of intelligence, exaggerated notions of CIA power and influence, plausible deniability, and the concept of speaking truth to power. The module also engages with key debates within the historiography of US intelligence history and US foreign policy. Finally, it places emphasis on the conduct of primary research in investigating the key events and issues within the CIA’s history since its creation.",
+        "Learning outcomes": "A Understand the various roles of a modern intelligence agency B Display sound and critical understanding of some of the key events and issues that have shaped the CIA during its history C Appreciate the shifting role and influence of the CIA within US foreign policy D Use appropriate research skills E Produce academic writing which is appropriate for the discipline",
+        "Method of teaching and learning": "Lectures, seminars and private study"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS306&psl_code=SEM2"
+    }
+  ]
+}

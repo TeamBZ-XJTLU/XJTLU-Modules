@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Video Production For The Web",
+  "module_code": "COM408",
+  "offerings": [
+    {
+      "heading": "Video Production For The Web",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Video Production For The Web",
+        "module_code": "COM408",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Video Production For The Web",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims and fit of the module: The module aims to introduce and help students develop practical skills in proposing and producing videos for the web. Students have the opportunity to develop production skills such as planning, organisation, production management, camera, lighting, sound and postproduction techniques. Students work in a small group when developing a proposal and subsequently producing a video. An individual reflection helps students develop critical abilities as to assessing and improving their work processes and choices. The module fits the professional orientation of the programme in that it helps student develop production skills, teamwork abilities, and to critically reflect on work practices.",
+        "Learning outcomes": "Learning outcomes: A Research, write and pitch a persuasive proposal for a web video B Work constructively and efficiently in a group C Research and produce a professional web video D Critically reflect on production processes and choices",
+        "Method of teaching and learning": "Methods of teaching and learning: The seminars are for the lecturer to explain theories and concepts, the use of equipment, and so on. In the practicals students attempt to apply the knowledge transferred in the seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM408&psl_code=SEM2"
+    }
+  ]
+}

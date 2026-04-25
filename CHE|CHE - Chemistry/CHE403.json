@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Nanotechnology and Advanced Materials",
+  "module_code": "CHE403",
+  "offerings": [
+    {
+      "heading": "Nanotechnology and Advanced Materials",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Nanotechnology and Advanced Materials",
+        "module_code": "CHE403",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Nanotechnology and Advanced Materials",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with the skills necessary to understand and analyse contemporary trends in the field of nanotechnology and nanomaterials including synthesis, characterization and applications. Specifically: 1. To introduce the basic chemistry and physics principles of nanotechnology. 2. To introduce the fundamental concepts of surfaces, and the chemical and physical properties of surfaces. 3. To assess different synthetic approaches of nanomaterials. 4. To convey an understanding of important experimental and analytical techniques in nanotechnology. 5. To explore the research applications of advanced materials.",
+        "Learning outcomes": "A. Demonstrate understanding of the principles of nanoscience and nanotechnology. B. Demonstrate understanding of synthetic approaches of nanomaterials. C. Investigate the basics of nanomaterials characterisation. D. Analyse the structure, processes, dynamics and functionality of surfaces, and how these determine chemical and physical properties. E. Investigate the current state of development of nanomaterials and their important role in achieving desirable functionality in disparate applications.",
+        "Method of teaching and learning": "Lectures and tutorials"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE403&psl_code=SEM1"
+    }
+  ]
+}

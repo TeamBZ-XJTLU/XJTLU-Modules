@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "Pattern Recognition and Computer Vision",
+  "module_code": "DTS201TC",
+  "offerings": [
+    {
+      "heading": "Pattern Recognition and Computer Vision",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DTSTC",
+        "full_name": "Pattern Recognition and Computer Vision",
+        "module_code": "DTS201TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Pattern Recognition and Computer Vision",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide an understanding of 1) the design and construction of a pattern recognition system 2) the major approaches in statistical and syntactic pattern recognition. The student should also have some exposure to the theoretical issues involved in pattern recognition system design such as the curse of dimensionality. Finally, the student will have a clear working knowledge of implementing pattern recognition techniques and the scientific Python computing environment. These goals are evaluated through the course project, coursework, and exams.",
+        "Learning outcomes": "A. demonstrate understanding of foundations of pattern recognition algorithms and machines, including statistical, structural and neural methods; B. demonstrate understanding of data structures for pattern representation, feature discovery and selection; C. Carry out classification vs. description, parametric and nonparametric classification, supervised and unsupervised learning; D. Utilise of contextual evidence, clustering, recognition with strings, and small sample-size problems.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. This module will be delivered by a combination of formal lectures, seminars and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS201TC&psl_code=SEM1"
+    },
+    {
+      "heading": "Pattern Recognition and Computer Vision",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DTSTC",
+        "full_name": "Pattern Recognition and Computer Vision",
+        "module_code": "DTS201TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Pattern Recognition and Computer Vision",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the fundamental concepts and principles of computer vision and pattern recognition, emphasizing practical applications for real-world problems. Students will study, low-level image processing, and mid-level scene representation, along with pattern recognition techniques like feature extraction and object classification. By the end, they will proficiently implement these techniques using the scientific Python computing environment, preparing them for practical challenges in the field.",
+        "Learning outcomes": "A. Demonstrate understanding of the basic concepts and techniques of computer vision and pattern recognition B. Develop insight into the problems involved in applying a variety of computer vision and pattern recognition techniques to deal with practical scenarios; C. Analyse and compare the strengths and weaknesses of popular approaches; D. Implement various algorithms in a range of applications through Python programming environments.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. The module will be delivered in a combination of lectures, seminars and labs. Lectures will introduce students to the academic content. Seminars and labs will be used to expand the students understanding of lecture materials. In addition, students will be expected to devote unsupervised time to private study. Private study will provide time for reflection and consideration of lecture material and background reading. This module will leverage generative AI to enhance course content and teaching methods in line with the learning outcomes. By integrating advanced AI technologies, we aim to improve the efficiency of teaching and interaction, while fostering greater student autonomy and flexibility in learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS201TC&psl_code=SEM2"
+    }
+  ]
+}

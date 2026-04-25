@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Linear Statistical Models",
+  "module_code": "MTH303",
+  "offerings": [
+    {
+      "heading": "Linear Statistical Models",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Linear Statistical Models",
+        "module_code": "MTH303",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Linear Statistical Models",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To understand how regression methods for continuous data extend to include multiple continuous and categorical predictors and categorical response variables. To gain a thorough understanding of the model diagnostics and building. To develop familiarity with the computer package.",
+        "Learning outcomes": "A. Produce simple visualizations and statistics from a data set. B. Understand the rationale and assumptions of linear regression and analysis of variance. C. Carry out and interpret linear regressions and analyses of variance, and derive appropriate theoretical results. D. Know the commonly used techniques for model diagnostics and variable selection. E. Understand the rationale and assumptions of generalized linear models. F. Carry out and interpret analyses involving generalized linear models, and derive appropriate theoretical results. G. Perform linear regression and generalized linear models analysis using computer package or its outputs.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH303&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Political Economy Of Foreign Aid",
+  "module_code": "INS307",
+  "offerings": [
+    {
+      "heading": "Political Economy Of Foreign Aid",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Political Economy Of Foreign Aid",
+        "module_code": "INS307",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Political Economy Of Foreign Aid",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to introduce students to the causes and consequences of foreign aid for donor countries (aid-givers) and recipient countries (aid-receivers). In this module, students will look into the dynamics of foreign aid, focusing on how political actors (e.g., governments, parties, politicians, NGOs, IOs, general public, etc.) and their aid preferences interact with and influence political processes and institutions domestically and internationally, and how these affect aid outcomes. Throughout the module, students will also work to understand how we can (or can’t) methodologically make sure ‘X causes y’ through the case of foreign aid. The module explores foreign aid issues and practices with data-driven methods which engages the tools of analysis and visualization.",
+        "Learning outcomes": "A. Critically understand the causes and effects of foreign aid. B. Demonstrate understanding of the role of individual actors and institutions in the political and economic processes of foreign aid. C. Critically engage with discussions and demonstrate their ability to formulate ideas based on assigned readings. D. Identify a problem and find a policy solution concerning a country’s poverty reduction and socioeconomic development in relation to foreign aid. E. Apply their knowledge of causal inference and methodological skillsets to designing their own research and finding evidence for their arguments.",
+        "Method of teaching and learning": "Each class will be composed of two parts. 1. Substantive discussion (2hrs): We will discuss the substantive topic of the readings assigned for each week. One or two students will be assigned to lead each week’s discussion as seminar leader(s). 2. Methods workshop (1hr): The instructor will give a very brief lecture on the methodology used in the readings of the week, and then we will move on to a lab session where students will be provided with hands-on tutorials coupled with statistical tool(s). Students select a recipient country and aim to be an expert of the country throughout the module. As the final outcome of this module, students are expected to write a country report as their final paper that proposes a development plan in association with foreign aid for the country of their choice. This research report will take a hypothesis-testing paper format in which students will be asked to provide empirical evidence for their argument using statistical tools. As a formative process of this final project, students will be asked to write a research proposal with which they will have a chance to talk about the topic of their choice with the instructor. No previous programming experience is required, but students must be willing to acquire new technical skills."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS307&psl_code=SEM1"
+    }
+  ]
+}

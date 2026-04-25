@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "International Employment Relations",
+  "module_code": "SMO206",
+  "offerings": [
+    {
+      "heading": "International Employment Relations",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "International Employment Relations",
+        "module_code": "SMO206",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "International Employment Relations",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce key concepts concerning employment relations at an international level. Through understanding how external and internal environments influence employment relations and its impact on organizational performance, students will be able to analyse the complex nature of managing employee relations across border and explain how multinational corporations (MNCs) can effectively manage their employee relations.",
+        "Learning outcomes": "A. Understand key concepts of international employee relations B. Apply key concepts to explain issues on international employment relations C. Explain the impact of managing employment relations on Multinational Corporations (MNCs) D. Critically analyse impact of political, economic and social phenomena on managing employment relations cross borders E. Conduct data search, consolidation and analysis of relevant topics",
+        "Method of teaching and learning": "This module will be delivered in lecture and seminar mode. Teaching will be organized beginning by in-class activities and mini presentations followed by a lecture highlighting key learning points of the week."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO206&psl_code=SEM2"
+    }
+  ]
+}

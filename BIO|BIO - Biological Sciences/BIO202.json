@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Biochemical Methods",
+  "module_code": "BIO202",
+  "offerings": [
+    {
+      "heading": "Biochemical Methods",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Biochemical Methods",
+        "module_code": "BIO202",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Biochemical Methods",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims at: Providing practical experience in advanced biochemical techniques. This will include introduction to the skills and techniques necessary to separate protein mixtures using ion-exchange chromatography and gel filtration, to analyse protein using SDS-PAGE and western-blotting and to design experiment to address enzyme activity and stability.",
+        "Learning outcomes": "A. Acquire technical experience in protein purification and analysis using column chromatography and gel electrophoresis B. Determine and analyze enzyme activity and stability C. Present, critically evaluate and interpret qualitative and quantitative data, and record procedures and protocols D. Interpret data using basic theory and concepts E. Develop team-working and individual skills and also implement proper time management F. Plan and execute a series of experiments, using proper laboratory equipment safely to generate data G. Analyse data, interpret validity and apply statistical analyses",
+        "Method of teaching and learning": "This practical course will be conducted in Biological Sciences laboratories. Each session will be preceded by a lecture session to provide background in theory and procedures, and followed by a lecture/workshop session to discuss learning outcomes. In the laboratory session students will work individually or within small groups and receive help in the planning, execution and interpretation of the experiments from demonstrators."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO202&psl_code=SEM1"
+    }
+  ]
+}

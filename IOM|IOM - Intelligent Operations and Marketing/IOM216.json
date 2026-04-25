@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Project Management for Information Systems",
+  "module_code": "IOM216",
+  "offerings": [
+    {
+      "heading": "Project Management for Information Systems",
+      "listing": {
+        "academic_year": "2028/29",
+        "domain_code": "IOM",
+        "full_name": "Project Management for Information Systems",
+        "module_code": "IOM216",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2028/29",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Project Management for Information Systems",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with both theory and skills to manage Information Systems (IS) projects by understanding fundamental project management components, methodologies, and standards. The module will cover both predictive and adaptive approaches of project management used in contemporary organisations and will give students an exposure on fundamental components and plans for projects. The module will also enable students to use various practical tools for planning, risk management, collaboration, and ethical decision-making, preparing them for roles in IS project management.",
+        "Learning outcomes": "A. Identify and explain key components, methodologies, and standards in Information System project management. B. Analyse challenges related to change management in Information System projects and formulate evidence-based recommendations. C. Demonstrate effective collaboration in cross-functional Information System project teams, using digital tools to support communication and decision-making. D. Evaluate ethical, legal and governance considerations in Information System project management.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures and labs. Lectures will introduce the designated topics in the syllabus, ranging from key aspects of Information System project management. Labs will facilitate students to gain adequate hands-on experience and practical proficiency of using the chosen tools and technologies."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM216&psl_code=SEM2"
+    }
+  ]
+}

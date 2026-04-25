@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Supporting Students with Special Learning Needs",
+  "module_code": "EDS455",
+  "offerings": [
+    {
+      "heading": "Supporting Students with Special Learning Needs",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Supporting Students with Special Learning Needs",
+        "module_code": "EDS455",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Supporting Students with Special Learning Needs",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to examine a number of contemporary issues and controversies associated with the complex construct of learning disorders and other special educational needs. Different issues related to children exceptionalities will be discussed with reference to recent advances in research, assessment, and instructional interventions. The adjustment of students with learning difficulties in regular schools and the counselling and guidance approaches in support of inclusive education will also be discussed. Issues on professionalism and ethics will also be explored",
+        "Learning outcomes": "A Develop an understanding of the complexity of supporting the development of children with learning difficulties. B Assess and analyze the strengths and weaknesses of the children with special needs in learning and adjustment to school life. C Identify useful adaptive and supportive programs for children with special needs at home and in school with a focus on counselling. D Critically reflect on current research studies and popular practices related to supporting the development of children with learning difficulties.",
+        "Method of teaching and learning": "The teaching sessions include both lectures and seminars which work together to engage students with key conceptual, theoretical, and methodological insights, as well as dedicated opportunities for critical reflection. Students will also engage in collaborative and individual practice, and iterative development of resources and strategies that could be used for children with special needs at home or in educational settings."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS455&psl_code=SEM2"
+    }
+  ]
+}

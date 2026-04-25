@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LTS",
+    "domain_code": "TRI",
+    "full_name": "Translation and Interpreting"
+  },
+  "full_name": "Translation and Journalism",
+  "module_code": "TRI208",
+  "offerings": [
+    {
+      "heading": "Translation and Journalism",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "TRI",
+        "full_name": "Translation and Journalism",
+        "module_code": "TRI208",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Translation and Journalism",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with knowledge of the key theoretical perspectives, principles, and practices in journalistic translation. The focus of the module is on developing students’ linguistic and translation skills in translating journalistic texts of various topics. The module also helps students to develop a critical awareness of the professional practice. Through interactive lectures, workshops and regular learning reports, students registered for this module will be equipped with background knowledge across different journalism genres and news topics. They will be able to undertake and evaluate a journalistic translation project, tackle real-life translation and editing problems, and reflect on learning.",
+        "Learning outcomes": "A Demonstrate familiarity with different genres and styles of journalistic translation, especially in the reportage and trans-editing of global news; B Analyse the linguistic, textual, cultural and institutional features of the source text; C Apply translation theories and techniques to trans-editing practices and resolve translation problems; D Reflect critically on one’s own and others’ translation practices, and develop an awareness of professional norms and standards in international media organisations; E Demonstrate a broad understanding of background knowledge in different areas of journalism.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: lectures and tutorials/workshops. Lectures provide students with theories, principles and subject area knowledge related to journalism translation; tutorials/workshops are conducted for students to discuss with peers about problems and corresponding strategies in the given translation exercises. Active participation is essential in both forms of teaching."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=TRI208&psl_code=SEM2"
+    }
+  ]
+}

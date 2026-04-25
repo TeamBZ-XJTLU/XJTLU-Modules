@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHP",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "Electromagnetism and Electromechanics",
+  "module_code": "MES209TC",
+  "offerings": [
+    {
+      "heading": "Electromagnetism and Electromechanics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Electromagnetism and Electromechanics",
+        "module_code": "MES209TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Electromagnetism and Electromechanics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide the student with a fundamental knowledge of electromagnetics and the principles and construction of DC and AC machines, transformers and linear actuators.",
+        "Learning outcomes": "A. understand the basic principles of charge, electric field strength, Gauss’s Law and its engineering applications; B. understand the basic principles of currents and the engineering applications of magnetic effects of currents, the fundamentals of current flow into inductors and capacitors, why certain materials are used in electromechanical devices; C. understand the basic principles of how the physical laws of electromagnetism and mechanics apply to practical motors, transformers and actuators; D. understand the basic principles of the behaviour and factors relating to the performance of common electrical devices, such as series and shunt DC motors, alternators, solenoids and transformers; E. determine the magnetic effects of electrical currents in practical circuits, analyse a simple electromechanical system in order to predict its characteristics; F. prepare an initial design for an electromechanical device from a specification; G. have an ability to use specific instrumentation to perform simple electro-mechanical tests on an electrical machine to evaluate its performance; H. demonstrate independent learning, and problem solving and design skills.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures, tutorials and supervised laboratory sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES209TC&psl_code=SEM1"
+    }
+  ]
+}

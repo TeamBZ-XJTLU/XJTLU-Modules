@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "European Cinema",
+  "module_code": "COM309",
+  "offerings": [
+    {
+      "heading": "European Cinema",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "European Cinema",
+        "module_code": "COM309",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "European Cinema",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module will introduce specialized knowledge on an area with a rich and diverse tradition in filmmaking. It will explore European cinema through a range of phenomena and case studies: the emergence and development of several film movements and ‘waves’, auteur cinema and the art house approach, the concept of national cinema and of pan-European productions, the representation of borders and of post-1989 political reconfigurations in Europe, the different understandings of realism in European cinema. The module will also address questions of national and cultural identity and will pay attention to the intersections of class, gender and ethnicity in a selected number of films.",
+        "Learning outcomes": "A. Demonstrate an informed understanding of the varied film cultures pertaining to European cinema B.Critically examine the interrelationship between film and history, film and society in the European context C. Analyse individual films using the set of conceptual and critical tools introduced by the module D. Gain critical insight into issues of national and transnational film movements and ‘waves’ in Europe",
+        "Method of teaching and learning": "Lectures Tutorials Screenings"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM309&psl_code=SEM1"
+    }
+  ]
+}

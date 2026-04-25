@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Computational Linguistics",
+  "module_code": "LNG216",
+  "offerings": [
+    {
+      "heading": "Computational Linguistics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Computational Linguistics",
+        "module_code": "LNG216",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Computational Linguistics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to the core concepts, methodologies, and applications of computational linguistics. It will provide a theoretical foundation in language processing, computational models, and linguistic data analysis, as well as practical experience in using tools and programming languages for linguistic tasks. Students will also explore ethical and societal implications of computational technologies.",
+        "Learning outcomes": "A. Understand the key concepts and challenges in computational linguistics. B. Apply computational tools and methods to analyze linguistic data. C. Develop basic programming skills for natural language processing (NLP). D. Critically evaluate the use of computational linguistics in real-world applications, including machine translation, text classification, sentiment analysis, and language modeling. E. Analyze the ethical and societal implications of computational approaches to language.",
+        "Method of teaching and learning": "Interactive lectures and seminars, introducing concepts, methodologies, and providing practical workshops during seminar times."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG216&psl_code=SEM2"
+    }
+  ]
+}

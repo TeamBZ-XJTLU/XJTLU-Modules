@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCTC",
+    "domain_code": "CCT",
+    "full_name": "Chinese Culture"
+  },
+  "full_name": "Introduction to National Security",
+  "module_code": "CCT013",
+  "offerings": [
+    {
+      "heading": "Introduction to National Security",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCT",
+        "full_name": "Introduction to National Security",
+        "module_code": "CCT013",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "1",
+        "Module Level": "Level 0",
+        "Module Title": "Introduction to National Security",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The “Introduction to National Security” course is designed as a general education for university students, focusing on national security. It strives to avoid overly specialized discussions, emphasizing the establishment of general concepts to help form a cognitive framework for national security issues. Through learning and reflection, students are expected to develop a sense of responsibility embodied in the saying “Every citizen has a role in the rise and fall of the nation,” as well as cultivate rational patriotism and behavioral awareness. 《国家安全概论》课程定位于大学生国家安全通识教育，尽量避免使用过度专业的论述，强调通识概念的建立，进而形成对国家安全问题的思维架构。通过学习与思考，使学生具有“国家兴亡，匹夫有责”的责任感和理性爱国的行为素养。",
+        "Learning outcomes": "A Recognize a comprehensive national security perspective and cultivate a broad international vision. 塑造总体国家安全观，培育宏观国际视野。 B Demonstrate national awareness of potential crises and a spirit of patriotism. 激发国家忧患意识，淬炼爱国主义情操。 C Appreciate safety-driven development concepts and contribute to building comprehensive national security. 树立安全发展理念，构筑国家整体安全。 D Understand emergency response mechanisms and contribute to laying a solid foundation for social safety. 熟悉安全应变机制，奠定社会安全基础。",
+        "Method of teaching and learning": "This course is conducted online through the MOOC platform and is a premium course recorded by teachers from Xi’an Jiaotong University. It is suitable for various learning needs and time schedules. Students are required to complete all online courses (40% of final score) by the end of the semester and take the online final exam (with two attempts, the higher score will be recorded, 60% of final score) to assess their learning outcomes. The aim of this course is to provide general education on national security for first-year undergraduate students at XJTLU in mainland China, to establish the concept of “comprehensive security,” and to enhance national security awareness. 该课程通过中国大学MOOC平台线上进行，是由西安交通大学教师录制的精品课程，适合各类学习需求和时间安排。学生需在学期结束前完成所有线上课程学习（占总成绩的40%），并进行线上期末考试（两次机会，取高分进行记分，占总成绩的60%），以检验学习效果。本课程旨在为西浦大陆本科一年级大学生提供国家安全通识教育，树立“大安全”理念，增强国家安全意识。"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCT013&psl_code=SEM2"
+    }
+  ]
+}

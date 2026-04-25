@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Research Project Design",
+  "module_code": "CHE406",
+  "offerings": [
+    {
+      "heading": "Research Project Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Research Project Design",
+        "module_code": "CHE406",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Research Project Design",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim is to provide students an opportunity to design and plan an in-depth an independent research project engaging in a selected research project which involves 1. Various technical training specific to the nature of research project 2. Lab safety 3. Project management skills 4. Report writing skills 5. Presentation skills 6. Time management skills",
+        "Learning outcomes": "A demonstrate a critical awareness and understanding of the relevant scientific literature associated with their project. B plan a piece of scientific research, formulate a hypothesis and design a set of experiments to test this hypothesis. C understand research ethics and safety. D work independently in the lab with the essential technical skills acquired. E maintain an accurate, comprehensive and intelligible record of methods and experimental findings. F compose a project report in the format of a scientific manuscript or dissertation. G present their work to a scientific audience in the form of an oral and poster presentations.",
+        "Method of teaching and learning": "This module involves tutorials to help students on literature survey, presentation, report writing, lab safety, and project planning. Students are required to attend departmental seminars to increase their general knowledge. Specific technical training will be given by supervisor and technical supporting staffs. Students have to participate in a specified research project and to complete a thesis."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE406&psl_code=SEM2"
+    }
+  ]
+}

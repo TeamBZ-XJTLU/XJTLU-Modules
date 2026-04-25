@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Quantitative Methods",
+  "module_code": "SMO421",
+  "offerings": [
+    {
+      "heading": "Quantitative Methods",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Quantitative Methods",
+        "module_code": "SMO421",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Quantitative Methods",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the general principles of quantitative research design, statistical methods, and analyses of numerical data in the field of business and management studies. The student will be expected both to critically evaluate existing quantitative studies and to develop their own quantitative analysis skills as evidenced by a small research project designed for hands-on skills development.",
+        "Learning outcomes": "A. Critically appraise the principles of quantitative research. B. Formulate and operationalise research questions and hypotheses. C. Demonstrate a critical awareness of the assumptions, bias, validity, reliability and generalisability of quantitative research techniques. D. Critically evaluate research publications from a methodological and statistical perspective. E. Develop a quantitative research design and conduct quantitative research. F. Use statistical software packages for quantitative data analysis. G. Report quantitative research findings with accurate interpretation of the results.",
+        "Method of teaching and learning": "Core principles will be taught and discussed in seminar classes, while the use and application of statistical software packages will be taught using labs and practicals."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO421&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "China's Economy",
+  "module_code": "CCS407",
+  "offerings": [
+    {
+      "heading": "China's Economy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "China's Economy",
+        "module_code": "CCS407",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "China's Economy",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide an overview of the history of China’s economic development since 1949, with a particular focus on the political economy of transition since 1978. It sets out to introduce the students to the path of institutional reforms by emphasising the role played by the state in key economic sectors. The economic development strategies and related social outcomes of the reform process will also be discussed to provide a more comprehensive understanding of China’s structural transformation.",
+        "Learning outcomes": "A Summarise key events in the trajectory of Chinese economic development since 1949 B Compare and contrast continuity and changes of key development strategies over time. C Synthetise and explain the impact of social, political and legal factors on China’s economic policies D Synthetise the processes and outcomes of economic institutional reforms E Analyse the challenges and performance of market development across sectors F Analyse China’s economic policies from an interdisciplinary perspective",
+        "Method of teaching and learning": "In the seminars students will able to have an in-depth discussion of weekly topics, and also to present their analysis of a specific topic from the syllabus. The essay plan and the essay will hone students’ analytical and writing abilities."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS407&psl_code=SEM1"
+    }
+  ]
+}

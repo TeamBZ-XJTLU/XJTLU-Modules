@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DES",
+    "domain_code": "DES",
+    "full_name": "Design"
+  },
+  "full_name": "Principle of Integrated Design Studio",
+  "module_code": "DES202",
+  "offerings": [
+    {
+      "heading": "Principle of Integrated Design Studio",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DES",
+        "full_name": "Principle of Integrated Design Studio",
+        "module_code": "DES202",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 2",
+        "Module Title": "Principle of Integrated Design Studio",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "DES202 Principle of Integrated Design Studio is an interdisciplinary design studio that brings together students from Architecture, Urban Planning and Design, and Industrial Design to explore design as an integrative and collaborative practice. The module introduces students to the principles of integrated design, positioning different disciplinary perspectives as complementary components within a shared design process. The studio operates at the intersection of objects, buildings, and urban envionmet inclduing rural contexts, encouraging students to understand how design decisions at different scales are interconnected and mutually influential. Through thematic design scenarios, students are guided to position their work within broader social, cultural, vernacular, technological, and environmental contexts. The module aims to: • Develop students’ ability to work across disciplinary boundaries, integrating perspectives, methods, and forms of knowledge within a coherent design approach. • Introduce design as a structured yet exploratory process, in which observation, interpretation, testing, and creation are understood as interconnected phases rather than linear steps. • Cultivate an understanding of integration across scales, showing how design interventions at one scale inform and are informed by others. • Encourage the generation of design proposals that emerge from the intentional interaction of different forms of expertise, rather than from a single disciplinary logic. • Strengthen students’ capacity to navigate complex and layered design challenges, developing critical judgement, conceptual clarity, and collaborative design agency. DES203 occupies a strategic position within the programme by acting as a shared foundational studio for all pathways, while simultaneously introducing students to their first focused thematic design experience. In doing so, the module prepares students for more specialised and advanced design studios in subsequent stages of the programme, while maintaining a strong integrative and interdisciplinary ethos.",
+        "Learning outcomes": "A. Apply an integrated design approach to generate design proposals that synthesise perspectives, scales, and forms of knowledge in response to a defined brief. B. Analyse and interpret site and contextual conditions across multiple scales, considering social, cultural, vernacular, environmental, and technological factors to inform coherent design strategies. C. Develop and communicate a structured design process, documenting the evolution of a project through phases of observation, interpretation, testing, and implementation. D. Demonstrate awareness of broader contextual and scalar frameworks, integrating them as active parameters that shape design decisions and outcomes. E. Identify and apply material, spatial, and constructive strategies that express principles of integration and support the coherence of the overall design proposal. F. Communicate integrated design ideas clearly and critically using a range of visual, physical, and verbal methods, addressing diverse audiences and disciplinary perspectives. G. Experiment with digital and AI-supported tools as assistive instruments to support analysis, synthesis, and informed decision-making within integrated design processes.",
+        "Method of teaching and learning": "The module is delivered as an interdisciplinary, studio-based learning experience, designed to bring together students from Architecture, Urban Planning and Design, and Industrial Design within a shared design environment. Teaching and learning activities are structured to support integration as a pedagogical principle, enabling students to work across disciplinary perspectives while developing a coherent and reflective design approach. Learning is organised through a combination of studio tutorials, thematic lectures, collaborative workshops, and guided independent study. Short lectures introduce conceptual frameworks, methods, and references related to integrated and multi-scalar design, while studio sessions provide continuous opportunities for dialogue, testing, and collective critique. The studio adopts a multi-agent learning model, in which design development is supported through the interaction of different forms of intelligence and modes of practice. Students work across analytical observation, conceptual reasoning, physical drawing and modelling, digital tools, and collaborative exchange, learning to synthesise diverse inputs into coherent design strategies. Design is approached as an iterative and integrative process, where ideas are progressively refined through cycles of observation, interpretation, testing, and implementation. Emphasis is placed on informed decision-making, critical judgement, and the ability to manage relationships between scales, disciplines, and contextual constraints. Collaboration is central to the studio’s pedagogy. Students engage in individual and group work, peer learning, and interdisciplinary dialogue, developing the capacity to negotiate different viewpoints and to operate within shared design processes. Digital tools and AI-supported resources are introduced as assistive instruments to support research, synthesis, and exploration. These tools are framed as contributors to understanding complexity and supporting integrative thinking, reinforcing critical engagement rather than automation. Through sustained studio engagement, DES203 enables students to consolidate foundational skills while experiencing their first focused thematic studio, preparing them for more specialised and advanced design pathways in subsequent stages of the programme"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DES202&psl_code=SEM2"
+    }
+  ]
+}

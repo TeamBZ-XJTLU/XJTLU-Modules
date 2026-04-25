@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Advanced Visual Storytelling Techniques",
+  "module_code": "FTA433",
+  "offerings": [
+    {
+      "heading": "Advanced Visual Storytelling Techniques",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Advanced Visual Storytelling Techniques",
+        "module_code": "FTA433",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Visual Storytelling Techniques",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: This module is a compulsory part of the Content Producing Pathway. The aim of the module is to provide students with understandings of advanced visual aesthetics of media texts and practical experience in the production of visual storytelling. Objectives: Students will learn visual storytelling techniques at an advanced level with a critical understanding of cinematic aesthetics.",
+        "Learning outcomes": "A Demonstrate a critical understanding of visual aesthetics of film and media B Apply advanced concepts and techniques of visual aesthetics in a visual storytelling project C Analyse critically the visual aesthetics of media D Develop original media pre-production material for visual storytelling",
+        "Method of teaching and learning": "The teaching sessions will be divided into two components (lectures and seminars/screenings). Lectures will compliment readings on topics such as visual aesthetics of cinema, visual storytelling media production. Seminars/screenings will focus on screening seminal media texts and provide time for unstructured discussion and classwork."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA433&psl_code=SEM1"
+    }
+  ]
+}

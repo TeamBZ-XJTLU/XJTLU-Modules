@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FIN",
+    "domain_code": "FIN",
+    "full_name": "Finance"
+  },
+  "full_name": "Corporate Financial Strategy",
+  "module_code": "FIN433",
+  "offerings": [
+    {
+      "heading": "Corporate Financial Strategy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FIN",
+        "full_name": "Corporate Financial Strategy",
+        "module_code": "FIN433",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Corporate Financial Strategy",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To enable students to recommend appropriate financial strategies for a business, including: investment, financing and distribution decisions; managing financial risks; and business valuation. 1. To identify capital requirements of businesses and recommend relevant means of financing those requirements 2. To recognise and manage financial risks 3. To analysis investment choices and make appropriate investment decisions.",
+        "Learning outcomes": "A. Understand and apply alternative strategies to finance a business, appropriate to its circumstances and requirements B. Evaluate and explain the financial risks and opportunities for a business and develop financial strategies to manage risks and exploit opportunities; C. Apply appropriate investment appraisal techniques, taking into account risks in accordance with the wider financial strategy; D. Evaluate and explain the short-term liquidity and treasury requirements of a business and provide appropriate advice; E. Determine and explain the distribution policy for a business and provide appropriate recommendations consistent with the wider financial strategy; F. Determine and explain the valuation of shares and businesses, providing appropriate recommendations.",
+        "Method of teaching and learning": "A range of teaching and learning methods will be utilized on this module. Core substantive knowledge will be delivered via a weekly lecture, and the knowledge covered in lectures will be reinforced by practical student group work, culminating in participative tutorials of one-hour duration each week. Longer, case-based work will be delivered via seminars, which will again be participative in nature."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN433&psl_code=SEM2"
+    }
+  ]
+}

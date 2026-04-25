@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IND",
+    "domain_code": "IND",
+    "full_name": "Industrial Design"
+  },
+  "full_name": "Studio 4: Live Projects And Competitions",
+  "module_code": "IND206",
+  "offerings": [
+    {
+      "heading": "Studio 4: Live Projects And Competitions",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IND",
+        "full_name": "Studio 4: Live Projects And Competitions",
+        "module_code": "IND206",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "7.5",
+        "Module Level": "Level 2",
+        "Module Title": "Studio 4: Live Projects And Competitions",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The education and employability of design students increasingly requires them to have a strong sense of real life practice and professionalism. This module aims to offer students opportunities to extend their professional skills in real world (or simulated) settings. Using live projects and competition briefs as the basis for teach and learning, students will carry out projects which meet the needs of stakeholders and the academic curriculum. Students will experience the differences of working toward academic and real world briefs, how to talk to stakeholders, how to manage their time, and how to present externally. The module also exposes students to the range of activities which can be considered as part of the design profession and helps to orient their career and further education choices.",
+        "Learning outcomes": "A. Apply an integrated design process and tools to the development of a design proposal for an external stakeholder. B. Carry out competitor and market research and analysis relevant to the external or live brief. C. Develop effective professional communication and negotiation with stakeholders and assimilate feedback into concept proposals . D. Use prototyping, simulation and testing of design proposals. Apply feedback into concept development . E. Present a visually creative and compelling narrative to explain ideas to external stakeholders. F. Write, structure and present technical reports and product specifications to a professional standard.",
+        "Method of teaching and learning": "The approach of this module will be PBL (Project Based Learning). Using the direction of a live brief or a competition brief, and with the guidance of academic and external stakeholders, students respond through the proposal of appropriate professional standard proposals. Teaching will include project briefings, group and individual tutorials, contextual lectures and workshop activities to acquire the skills of working with key tools and materials. Students will work mostly in a studio, break-out spaces, and dedicated workshops with key equipment and material resources. Activities will be driven by the module leader, external contacts and additional academic staff. Workshops activities will be supported by trained technical staff."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IND206&psl_code=SEM2"
+    }
+  ]
+}

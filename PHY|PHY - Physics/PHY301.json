@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Quantum Mechanics",
+  "module_code": "PHY301",
+  "offerings": [
+    {
+      "heading": "Quantum Mechanics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "PHY",
+        "full_name": "Quantum Mechanics",
+        "module_code": "PHY301",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Quantum Mechanics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Quantum mechanics is a description of matter at atomic scales. It is one of the most far-reaching innovations of the last century and has elucidated the structure of molecules and the nature of light. Many high technology products, such as electronic devices, lasers and nanomaterials, have been developed using quantum concepts. Quantum mechanics makes use of a probabilistic description of matter at small scales in place of the deterministic description of classical mechanics. The relevant mathematical framework represents physical quantities as operators on Hilbert spaces, which involves techniques from analysis and linear algebra.",
+        "Learning outcomes": "A. Solve the Schroedinger equation for simple systems and interpret the solution probabilistically. B. Use Hilbert space setting to represent the state of a quantum system and represent physical quantities by operators. C. Estimate the order of magnitude of quantum effects, and critically assess the limitations of classical mechanics. D. Construct simple quantitative models of technological applications of quantum mechanics.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY301&psl_code=SEM1"
+    }
+  ]
+}

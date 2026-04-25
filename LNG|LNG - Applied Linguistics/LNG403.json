@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Artificial Intelligence (AI) Technologies for Language Education",
+  "module_code": "LNG403",
+  "offerings": [
+    {
+      "heading": "Artificial Intelligence (AI) Technologies for Language Education",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Artificial Intelligence (AI) Technologies for Language Education",
+        "module_code": "LNG403",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Artificial Intelligence (AI) Technologies for Language Education",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course integrates teaching theories, practices and research in the field of AI for language education. The main aims of the module are: • To acquaint students with fundamental concepts, principles, research and theories of using Artificial intelligence (AI) technologies in language teaching and learning • To develop an awareness of innovation in the use of emerging AI in language teaching and learning • To develop students’ skills and advanced knowledge to use a range of AI technologies in language teaching and assessment •To develop students’ skills in critical evaluation of the potential and AI application in practice",
+        "Learning outcomes": "Upon completion of this module, students should be able to: A. Demostrate understanding of the impact of Artificial intelligence (AI) technologies on language education • B. Demostrate understanding of understand technology theoretical approaches, materials and tools C. Create practical tasks and learning activities in using a range of AI tools for language teaching D. Critically analyze and discuss research into AI technology and language teaching and learning",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: lectures and tutorials/seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG403&psl_code=SEM1"
+    }
+  ]
+}

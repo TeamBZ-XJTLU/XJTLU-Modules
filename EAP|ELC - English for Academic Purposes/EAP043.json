@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ELC",
+    "domain_code": "EAP",
+    "full_name": "English for Academic Purposes"
+  },
+  "full_name": "Intermediate English for Academic Purposes A",
+  "module_code": "EAP043",
+  "offerings": [
+    {
+      "heading": "Intermediate English for Academic Purposes A",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EAP",
+        "full_name": "Intermediate English for Academic Purposes A",
+        "module_code": "EAP043",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 0",
+        "Module Title": "Intermediate English for Academic Purposes A",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module is designed for students demonstrating an approximate CEFR B1+ English language proficiency upon entry to XJTLU. These students require 200-300 hours of guided tuition in order to meet the Year 1 exit level of CEFR B2 and to develop academic skills for Year 2 studies. The module will therefore focus primarily on the development of the three language systems (grammar, lexis, pronunciation) and four language skills (listening, reading, speaking, writing). Assessments are weighted towards the end of the academic year so that students are able to develop sufficient linguistic proficiency to demonstrate CEFR B2. Pastoral skills are also included in the module to enable students to become active and self-directed learners of English. Academic skills are included towards the end of the module as a medium for assessing linguistic development. These skills are also a fundamental aspect of Year 1 provision so that students are adequately prepared for the rigours of study in Year 2.",
+        "Learning outcomes": "A Employ a range of level-appropriate listening strategies in order to extract meaning from graded, non-academic and academic listening materials, and from verbal interactions B Employ a range of level-appropriate reading strategies in order to extract meaning from graded, non-academic, and academic reading materials C Communicate spoken ideas on a range of non-academic and academic topics, and in non-academic and academic situations, with level-appropriate fluency, complexity, and accuracy D Produce written responses to non-academic and academic tasks with level-appropriate coherence, complexity, and accuracy E Demonstrate awareness and understanding of level-appropriate linguistic forms F Demonstrate awareness of and ability to utilise a range of academic skills and conventions",
+        "Method of teaching and learning": "Students will have 10 hours of guided tuition per week. This time is split into two categories: • Seminars (3 x 2 hours per week) are used for teaching a range of level-appropriate language and academic skills • Tutorials (live / asynchronous / flipped) (4 hours per week) are used for focused homework and/or asynchronous activities and student-centred academic learning activities Students entering the university with a CEFR B1+ level of linguistic proficiency require focused and concerted linguistic input so that academic tasks may be satisfactorily completed. Teaching and learning therefore focuses on increasing linguistic input both inside and outside the classroom. The use of both seminars and tutorials permits different teaching methods to be utilised during the course to ensure students are given sufficient guidance and opportunities to practice the various skills mentioned in the learning outcomes and syllabus. The guided self-study activities will be extensions and/or consolidation of work carried out in the seminars and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EAP043&psl_code=ACYR"
+    }
+  ]
+}

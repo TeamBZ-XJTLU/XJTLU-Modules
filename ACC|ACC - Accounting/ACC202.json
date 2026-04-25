@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Accounting Theory",
+  "module_code": "ACC202",
+  "offerings": [
+    {
+      "heading": "Accounting Theory",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Accounting Theory",
+        "module_code": "ACC202",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Accounting Theory",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to increase students' knowledge of the theory of accounting and its relevance to the study of accounting practice. The module builds on study of accounting in year one and, in particular, provides an introduction to, and a complement to, the material covered in the financial reporting modules. In addition, some of the theoretical material covered in Accounting Theory will provide links to modules in management accounting. More particularly Accounting Theory will examine the market for accounting information; processes and effects of regulating accounting reporting; the incentives which drive managers' choices of alternative accounting policies; the market impact of accounting information; and consider selected issues in financial reporting.",
+        "Learning outcomes": "By the end of a successful completion of the module students should: A. possess knowledge of a range of theoretical models useful in understanding and explaining current accounting practice and its regulation. B. be aware of the literature relating to these theoretical models C. be able to use theory to understand and evaluate the regulatory institutions of financial reporting in the UK and other countries, the regulations applied to financial reporting in the UK, and the incentives driving managers in their choice of accounting policies within those regulations. D. be able to make links between financial reporting and other aspects of accounting.",
+        "Method of teaching and learning": "This module is taught by using a combination of lectures and tutorials. Some case studies will be used."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC202&psl_code=SEM2"
+    }
+  ]
+}

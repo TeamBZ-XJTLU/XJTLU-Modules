@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Drug Action",
+  "module_code": "APH216",
+  "offerings": [
+    {
+      "heading": "Drug Action",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Drug Action",
+        "module_code": "APH216",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Drug Action",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Enable students to develop their understanding of the cardiovascular, endocrine and central nervous systems and the mechanisms by which drugs interact with physiological processes operating within each of these systems; Provide an insight into the mechanisms of immune function and dysfunction, and the actions of drugs that target the immune system; Give students a grounding in the principles of signal transduction from metabotropic receptors, and their significance for drug action; Overview of the overall drug development process, with a focus on the safety and efficacy tests applied during clinical trials, and the value-for-money tests applied during NICE approval; Develop knowledge and understanding in pharmacology, and ability to apply, evaluate and interpret this knowledge to solve problems.",
+        "Learning outcomes": "A Identify the effects of drugs on the CNS and demonstrate an understanding of how drugs may be used to treat neurological and neuropsychiatric disorders B Describe the action of drugs in the cardiovascular system and their role in the treatment of cardiovascular disease C Compare the effects of drugs on the kidney, the endocrine system and the gastrointestinal tract D Describe the principles underlying the effects of drugs on the immune system and the treatment of autoimmune disease E Apply knowledge how the signal transduction pathways can be modulated to enhance cancer therapy F Apply the knowledge of the regulatory framework underlying the testing and approval of drugs",
+        "Method of teaching and learning": "Course content will be delivered primarily via standard lectures, supported by materials on LMO and other web-based resources. Handouts will be made available to students in classrooms and on LMO. Animations and/or videos will be shown for some of the topics. Review sessions will be arranged towards end of the semester and the students will have opportunities to self-assess their understanding of the course. Timely, relevant and specific, constructive and actionable feedback will be provided to students in-class, on-paper and/or in-person on for each assignment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH216&psl_code=SEM2"
+    }
+  ]
+}

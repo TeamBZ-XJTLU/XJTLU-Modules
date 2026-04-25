@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "International Management",
+  "module_code": "SMO205",
+  "offerings": [
+    {
+      "heading": "International Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "International Management",
+        "module_code": "SMO205",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "International Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to introduce students to key issues in international business and management from the perspective of the multinational enterprise and to compare different national traditions of corporate organisation and governance.",
+        "Learning outcomes": "A. Understand the nature of multinational enterprise (MNEs), the growth of the multinational enterprise in a globalizing economy, and the cultural and institutional context of MNEs; B. Analyze key issues in the decision-making processes of MNEs, evaluate the major considerations to be taken into account in MNEs strategic formulation; C. Analyze the strategy implementation process, and evaluate systems of organisations and management for MNEs",
+        "Method of teaching and learning": "The module involves a range of teaching strategies including lectures, weekly seminars and case studies. Independent research and study will be encouraged throughout to complement group work activities. Student-led case analysis will facilitate the sharing of knowledge and experiences of cohort members. Additional material will be in the form of web-based reading and research, selected texts, journal articles and contemporary magazine and press articles."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO205&psl_code=SEM1"
+    }
+  ]
+}

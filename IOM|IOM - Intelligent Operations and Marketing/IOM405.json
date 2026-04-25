@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Social Media Marketing",
+  "module_code": "IOM405",
+  "offerings": [
+    {
+      "heading": "Social Media Marketing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Social Media Marketing",
+        "module_code": "IOM405",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Social Media Marketing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to provide students with an understanding of social media marketing in terms of contemporary online technology, theoretical, conceptual and practical applications, and develop skills applicable to managing social consumer and a wide-ranging analysis of the issues involved in social media marketing.",
+        "Learning outcomes": "A. Identify and take account of key developments in the internet marketing environment and the impact of social media marketing on the marketing activities of organisations. B. Comprehend, interpret and reflect upon current and practitioner issues in social media marketing. C. Identify and apply the key theories of social media marketing. D. Appreciate the competitive advantages of understanding the buying behaviour of social consumers. E. Critically evaluate the marketing mix decisions that need to be taken to support social media marketing activity as an individual, and as a member or leader of a team.",
+        "Method of teaching and learning": "• The module involves a range of teaching strategies including lectures, student-led seminars, case studies (including video case studies), guest lectures and corporate visits. • Additional material will be in the form of web-based reading and research, selected texts, journal articles and contemporary magazines and press articles. • Independent research and study will be encouraged throughout to complement group work activities. • Students will be exposed to case studies on a range of organisations. • Student-led seminars will facilitate the sharing of knowledge and experiences of cohort members."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM405&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "MTS",
+    "full_name": "Material Science"
+  },
+  "full_name": "Polymer Materials",
+  "module_code": "MTS205",
+  "offerings": [
+    {
+      "heading": "Polymer Materials",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTS",
+        "full_name": "Polymer Materials",
+        "module_code": "MTS205",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Polymer Materials",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to the fundamental chemistry, physics, and engineering of polymer materials, develop understanding of structure–property–processing relationships in polymers and prepare students to select and design polymer materials for engineering applications.",
+        "Learning outcomes": "A. Understand polymer molecular structures, polymerisation mechanisms, and classification of polymers B. Understand thermal, mechanical, rheological, and viscoelastic behaviour of polymers C. Discuss the influence of molecular and micro structure on the properties of polymers D. Discuss the different methods available for characterizing polymer properties E. Select appropriate polymer materials based on engineering requirements",
+        "Method of teaching and learning": "Lectures, tutorials and labs."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTS205&psl_code=SEM1"
+    }
+  ]
+}

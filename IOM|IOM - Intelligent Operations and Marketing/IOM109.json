@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Database Systems",
+  "module_code": "IOM109",
+  "offerings": [
+    {
+      "heading": "Database Systems",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "IOM",
+        "full_name": "Database Systems",
+        "module_code": "IOM109",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Database Systems",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to establish an understanding of database systems , to encourage the appropriate and efficient design and usage of database systems, to provide insight into the design process and social implications of database systems, and to enable the use of database systems in a business environment.",
+        "Learning outcomes": "A. Describe the methods and issues involved in the design and deployment of database systems to meet business goals. B. Show a fundamental grounding in the operation and usage of database management systems, including \"hands-on\" experience of a basic database management system. C. Demonstrate basic knowledge of the database language, SQL. D. Demonstrate an understanding of the processes and legal, social, ethical, and professional implications of creating and maintaining information systems. E. Recall risks or safety aspects that may be involved in the operation of database systems.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. Students will be expected to attend formal lectures, seminars, as well as to participate in practicals in a computer lab. Lectures will introduce students to the academic content and practical skills that are the subject of the module, while the computer practical will allow students to practice those skills. Case studies are presented illustrating the effective use and design of databases. This philosophy is also carried through in terms of assessment, with a reduction in the use of exams and an increase in coursework, especially problem-based assessments that are project-focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM109&psl_code=SEM1"
+    }
+  ]
+}

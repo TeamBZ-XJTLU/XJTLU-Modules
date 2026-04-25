@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Complex Functions",
+  "module_code": "MTH219",
+  "offerings": [
+    {
+      "heading": "Complex Functions",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Complex Functions",
+        "module_code": "MTH219",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Complex Functions",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To introduce the student to a theory having intimate connections with other areas of mathematics and physical sciences, for instance, ordinary and partial differential equations and potential theory.",
+        "Learning outcomes": "A. Appreciate the central role of complex numbers in mathematics. B. Be familiar with classical holomorphic functions. C. Compute Taylor and Laurent series of such functions. D. Understand the content and relevance of relevant Cauchy formulae and theorems. E. Be familiar with the reduction of real definite integrals to contour integrals.",
+        "Method of teaching and learning": "Students will be expected to attend formal lectures and supervised tutorials in a typical week."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH219&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "The Biology Of Microbes",
+  "module_code": "BIO106",
+  "offerings": [
+    {
+      "heading": "The Biology Of Microbes",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "The Biology Of Microbes",
+        "module_code": "BIO106",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "The Biology Of Microbes",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Microbes are by far the majority of life-forms on this planet. This module is designed as an introduction to the diverse and unique activities of microorganisms. It will cover aspects of microbial physiology, genetics, biotechnology, ecology, infection and immunity, and form a basis for more detailed study in future years. The module will also provide training in some key practical skills. Many of these are not only relevant to microbiology but are also used in other types of lab-based activities.",
+        "Learning outcomes": "A. Understand the basic biochemistry, physiology, and genetics of microbes. B. Appreciate the roles that microbes play in nutrient and biomass recycling. C. Understand the importance of microbes to human life through relevant examples, e.g. water treatment, food preservation, and food-borne disease. D. Appreciate and understand the fundamental principles of infection and immunity. E. Acquire skills in key experimental techniques used in microbiology. F. Apply, evaluate, and interpret acquired knowledge and skills to solve problems in microbiology.",
+        "Method of teaching and learning": "The course content will be delivered primarily via standard lectures, which will be accompanied by suitable lecture handouts (also available on the Learning Mall Core), as well as via lab practicals. Students will also be guided to sections of specific textbooks and, if reading of specific reviews or source literature is required, then copies of these will be made available to students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO106&psl_code=SEM2"
+    }
+  ]
+}

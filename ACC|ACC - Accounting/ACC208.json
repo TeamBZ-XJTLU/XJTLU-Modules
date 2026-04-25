@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Financial Management For Accounting",
+  "module_code": "ACC208",
+  "offerings": [
+    {
+      "heading": "Financial Management For Accounting",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Financial Management For Accounting",
+        "module_code": "ACC208",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Financial Management For Accounting",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The course aims to introduce students to the modern theory of finance. It examines decision rules for financial decisions in firms and the capital market context in which these decisions are made. The topics covered are the capital budgeting, corporate long-term financing, cost of capital, capital structure, business valuation, corporate dividend policy, efficient markets, working capital management, and risk management.",
+        "Learning outcomes": "Student completing the module successfully should: A. understand the main themes of modern financial management; B. be able to apply the tools and techniques of financial management; C. be able to interpret and critically examine financial management issues and controversies.",
+        "Method of teaching and learning": "The module will be taught using a combination of lectures and tutorials. For international students who cannot participate the onsite learning, recorded onsite lectures and tutorials will be uploaded to the Learning Mall Online for you to watch."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC208&psl_code=SEM2"
+    }
+  ]
+}

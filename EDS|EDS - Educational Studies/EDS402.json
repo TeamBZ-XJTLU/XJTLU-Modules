@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Entrepreneurship, Educational Innovation and International Education",
+  "module_code": "EDS402",
+  "offerings": [
+    {
+      "heading": "Entrepreneurship, Educational Innovation and International Education",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Entrepreneurship, Educational Innovation and International Education",
+        "module_code": "EDS402",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Entrepreneurship, Educational Innovation and International Education",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are to: • Highlight the increasing importance and support of international entrepreneurship, and its role that it plays in innovation in education. • Recognize that there are differences amongst national and cultural contexts, which create specific types of entrepreneurial opportunities. • Examine the international aspects of entrepreneurial activity, and how it functions within a rapidly changing and increasingly competitive global socioeconomic and political context. Although there is a focus on China, and the Asia-Pacific region, the module recognizes that entrepreneurial opportunities and innovations can emerge at any time in any regions.",
+        "Learning outcomes": "A. Critically understand environmental factors (global and national) influencing international entrepreneurship B. Critically interpret the evolution of enterprise development in Chinese education in recent decades. C. Evaluate and analyze the institutional and associational role of the state in international educational development. D. Analyze and explain the role(s) of private enterprises and private entrepreneurialism in international education. E. Understand and apply appropriate theoretical concepts, models, tools and techniques which facilitate international entrepreneurship.",
+        "Method of teaching and learning": "The teaching sessions are interactive and divided into two components: lectures and tutorials/workshops. The tutorials/workshops will build on the material covered in the lectures using a research-led project-based learning (RLPBL) approach where appropriate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS402&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Media, Entertainment And Cultural Industry",
+  "module_code": "FTA311",
+  "offerings": [
+    {
+      "heading": "Media, Entertainment And Cultural Industry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Media, Entertainment And Cultural Industry",
+        "module_code": "FTA311",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Media, Entertainment And Cultural Industry",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to help students understand the status quo and development trends of domestic and international media, entertainment and cultural industry, examine the ways in which media content circulate within a global culture of commerce, and to understand the impact of technological progress and social development on the media, entertainment and cultural industry.",
+        "Learning outcomes": "A. Demonstrate a critical awareness of the reasons behind the development trends of media, entertainment and cultural industry B. Demonstrate a critical awareness of the ways in which sociocultural, economic and industrial factors shape media content C. Demonstrate an ability to analyse media content and identify their commercial imperatives",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: lectures and seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA311&psl_code=SEM2"
+    }
+  ]
+}

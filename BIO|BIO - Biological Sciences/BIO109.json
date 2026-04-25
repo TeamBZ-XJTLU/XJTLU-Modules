@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Introduction to Evolution and Genetics",
+  "module_code": "BIO109",
+  "offerings": [
+    {
+      "heading": "Introduction to Evolution and Genetics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Introduction to Evolution and Genetics",
+        "module_code": "BIO109",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Evolution and Genetics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will introduce students to the fundamental concepts and principles of evolution and genetics. Lecture contents will cover the Darwinian theory of evolution and the theory of natural selection along with the molecular contribution of genetics to these processes. Furthermore, processes that occur to produce variations in the offspring, interpretation of patterns of inheritance and the identification and explanation of non-Mendelian patterns of inheritance-mutation and pathway analysis will be covered.",
+        "Learning outcomes": "A. Articulate and apply Mendelian principles of genetics B. Apply genetic mapping and pedigrees to solve genetics problems C. Describe and apply the molecular mechanisms that dictate inheritance and mutation D. Understand and apply non-Mendelian principles of inheritance E. Understand and interpret data derived from genetics experiments F. Understand and apply principles involved in population genetics",
+        "Method of teaching and learning": "This module will focus on developing critical thinking, problem solving, and experiment interpretation skills in genetics contexts to give students an applied understanding of inheritance. A flipped, active learning approach will be used, with most in-class time spent working in groups to solve assigned problems and only minimal lecture content delivered to confirm proper understanding of key concepts and appropriate problem-solving methods."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO109&psl_code=SEM2"
+    }
+  ]
+}

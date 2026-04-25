@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Managed ecosystems",
+  "module_code": "ENV314",
+  "offerings": [
+    {
+      "heading": "Managed ecosystems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Managed ecosystems",
+        "module_code": "ENV314",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Managed ecosystems",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Our Earth is shaped by human beings. Managed ecosystems have become a part of the Earth. This module provides insights into the characteristics and consequences of human modified ecosystems. In particular, the module provides knowledge about ecological principles and how agricultural and urban ecosystem work in accordance with them. Students will understand principles of ecosystem design, and identify pathways towards sustainability in production systems.",
+        "Learning outcomes": "A describe and critically evaluate characteristics and consequences of human modified ecosystem by focusing on agriculture and urban B apply ecological theories and principles in a critical review of the managed ecosystem in achieving sustainability C describe and evaluate the impact of environmental change on biodiversity and ecosystem functioning D conduct a computer-based laboratory analysis to quantify the impact of changing landscapes and draw valid conclusions E apply interdisciplinary approaches for studying managed ecosystems",
+        "Method of teaching and learning": "Students will learn from lectures, seminars and practical work. Key topics will be introduced by lectures. Students will discuss case studies in seminar. In the field work, students will visit a study site or conduct some mini project about this topic. *Should the University decide to cancel or postpone the field trip due to unforeseen environmental and/or political circumstances, the Department will either plan an appropriate substitute activity to meet the intended learning outcomes of the trip or make necessary arrangements to organize the trip at a later time, as appropriate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV314&psl_code=SEM1"
+    }
+  ]
+}

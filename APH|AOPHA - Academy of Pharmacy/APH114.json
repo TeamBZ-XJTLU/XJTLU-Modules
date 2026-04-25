@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Pharmaceutical Leadership: From Concept to Market",
+  "module_code": "APH114",
+  "offerings": [
+    {
+      "heading": "Pharmaceutical Leadership: From Concept to Market",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Pharmaceutical Leadership: From Concept to Market",
+        "module_code": "APH114",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Pharmaceutical Leadership: From Concept to Market",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module bridges pharmaceutical sciences with business and innovation, preparing students for careers in drug development, biotech entrepreneurship, or pharmaceutical management. It fits into the programme by: • Building knowledge (e.g., drug discovery, pharmacology, or lab skills) while introducing business and commercialization concepts. • Complementing modules (e.g., advanced pharmaceutics, clinical trials, or industry placements) by providing early exposure to industry challenges. • Aligning with employability goals, as graduates increasingly need entrepreneurial skills in academia, startups, and corporate pharma. • Encouraging interdisciplinary learning, linking science with law (IP/patents), economics (market analysis), and ethics (regulatory compliance).",
+        "Learning outcomes": "A. Understand and explain drug development, from discovery to commercialization B. Apply business-related analytical methods, including competitive landscape analysis, patent analysis, and business model evaluation C. Communicate effectively with key stakeholders in written and spoken English",
+        "Method of teaching and learning": "A blended model will be used, combining structured instruction with hands-on, collaborative project work. The program emphasizes active participation, critical thinking, and real-world application. Students will study in a small-group format, with discussion and task-completion being the principal focus. Students will develop their understanding and critical analysis of the topics and knowledge introduced in the lectures. They will also engage in the development of assessment related skills, including their overarching project."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH114&psl_code=SEM2"
+    }
+  ]
+}

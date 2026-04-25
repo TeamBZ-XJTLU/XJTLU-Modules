@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "Introduction to AI",
+  "module_code": "DTS004",
+  "offerings": [
+    {
+      "heading": "Introduction to AI",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DTSTC",
+        "full_name": "Introduction to AI",
+        "module_code": "DTS004",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Introduction to AI",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides a foundational understanding of Artificial Intelligence, designed for undergraduate students in the BEng AI programme. It aims to introduce key concepts, techniques, and applications of AI, fostering a solid grounding for further study in the field. By integrating theoretical knowledge with practical skills, this module prepares students to engage with more advanced AI topics and real-world challenges.",
+        "Learning outcomes": "A Demonstrate a comprehensive understanding of fundamental AI concepts. B Utilize AI techniques and algorithms to solve real-world problems, demonstrating proficiency in programming languages and tools commonly used in AI development. C Analyse the performance and limitations of AI systems and algorithms, applying appropriate metrics and methods to assess their effectiveness and efficiency. D Identify and discuss the ethical, legal, and social issues associated with AI, incorporating these considerations into the design and implementation of AI systems.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This philosophy is carried through in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. This module will be delivered by a combination of formal lectures, seminars, and computer labs. The lectures cover the content outlined in the syllabus, introducing fundamental AI topics. Labs are designed to equip students with essential programming and hands on skills in module-related areas. Through individual project, students gain practical experience in implementing and experimenting with AI and undertaking independent study and research on industry focused real-world problems. Case studies will be used to provide students with real-world examples of how the concepts and techniques covered in this module can be applied. Lab/Practical sessions will allow students to apply the techniques, data analytics tools to solve real-world industry focused problems and conduct market and industry analysis. This module will leverage generative AI to enhance course content and teaching methods in line with the learning outcomes. By integrating advanced AI technologies, we aim to improve the efficiency of teaching and interaction, while fostering greater student autonomy and flexibility in learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS004&psl_code=SEM2"
+    }
+  ]
+}

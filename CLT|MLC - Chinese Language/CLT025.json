@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "MLC",
+    "domain_code": "CLT",
+    "full_name": "Chinese Language"
+  },
+  "full_name": "Intensive Chinese Language 5&6",
+  "module_code": "CLT025",
+  "offerings": [
+    {
+      "heading": "Intensive Chinese Language 5&6",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CLT",
+        "full_name": "Intensive Chinese Language 5&6",
+        "module_code": "CLT025",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 0",
+        "Module Title": "Intensive Chinese Language 5&6",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module is intended for students who have some previous knowledge of the Chinese language (A2 or equivalent) and it will progress in the study the Chinese language and culture. The module will broadly achieve an outcome at level B1- of the Common European Framework of Reference for Languages. • To consolidate and widen further the knowledge of the Chinese language, including grammar and lexis. • • To enhance communicative proficiency in Chinese, in both writing and oral (presentation and interaction). • To develop further listening and reading skills. • To broaden the knowledge of contemporary China • To develop intercultural awareness of China and Chinese speaking cultures. All the Chinese language modules have been developed taking into account the QAA benchmark statements for a full or minor component in a language. QAA benchmark statements relate to the language component comprising at least one-third of the study total, resulting in students at the end of the relevant degree programme being at level C1.These Chinese modules make up less than one third of study and so the realistic minimum that would be achieved for a student starting at a beginner level in year 1 is CEFR B1+, though students with some initial knowledge would be at B2+.",
+        "Learning outcomes": "A. Demonstrate understanding of straightforward factual information spoken clearly in Chinese B. Demonstrate a general understanding of the main points in texts on subjects of personal interest in Chinese C. Deliver an oral presentation on experiences and events, and exchange information in the context of a discussion in Chinese D. Write comprehensible connected texts on familiar topics in Chinese E. Demonstrate general understanding of Chinese cultures and societies.",
+        "Method of teaching and learning": "Communicative language teaching involves a high level of interaction between teacher and students. Teaching and assessment will revolve around the setting and completion of specified language tasks. This module includes 2*4 hours seminars per week. Students will have 8 hours per week of integrated skills class, covering reading, writing, listening and speaking skills. The lecture, which is a large group practice and review session, will be designed to support student learning in and after class."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CLT025&psl_code=SEM1"
+    },
+    {
+      "heading": "Intensive Chinese Language 5&6",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CLT",
+        "full_name": "Intensive Chinese Language 5&6",
+        "module_code": "CLT025",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 0",
+        "Module Title": "Intensive Chinese Language 5&6",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module is intended for students who have some previous knowledge of the Chinese language (A2 or equivalent) and it will progress in the study the Chinese language and culture. The module will broadly achieve an outcome at level B1- of the Common European Framework of Reference for Languages. • To consolidate and widen further the knowledge of the Chinese language, including grammar and lexis. • • To enhance communicative proficiency in Chinese, in both writing and oral (presentation and interaction). • To develop further listening and reading skills. • To broaden the knowledge of contemporary China • To develop intercultural awareness of China and Chinese speaking cultures. All the Chinese language modules have been developed taking into account the QAA benchmark statements for a full or minor component in a language. QAA benchmark statements relate to the language component comprising at least one-third of the study total, resulting in students at the end of the relevant degree programme being at level C1.These Chinese modules make up less than one third of study and so the realistic minimum that would be achieved for a student starting at a beginner level in year 1 is CEFR B1+, though students with some initial knowledge would be at B2+.",
+        "Learning outcomes": "A. Demonstrate understanding of straightforward factual information spoken clearly in Chinese B. Demonstrate a general understanding of the main points in texts on subjects of personal interest in Chinese C. Deliver an oral presentation on experiences and events, and exchange information in the context of a discussion in Chinese D. Write comprehensible connected texts on familiar topics in Chinese E. Demonstrate general understanding of Chinese cultures and societies.",
+        "Method of teaching and learning": "Communicative language teaching involves a high level of interaction between teacher and students. Teaching and assessment will revolve around the setting and completion of specified language tasks. This module includes 2*4 hours seminars per week. Students will have 8 hours per week of integrated skills class, covering reading, writing, listening and speaking skills. The lecture, which is a large group practice and review session, will be designed to support student learning in and after class."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CLT025&psl_code=SEM2"
+    }
+  ]
+}

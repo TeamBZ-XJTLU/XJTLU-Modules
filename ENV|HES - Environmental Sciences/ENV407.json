@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Frontiers In Environmental Sciences",
+  "module_code": "ENV407",
+  "offerings": [
+    {
+      "heading": "Frontiers In Environmental Sciences",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Frontiers In Environmental Sciences",
+        "module_code": "ENV407",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Frontiers In Environmental Sciences",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim is to introduce basic concepts and emerging topics in environmental sciences to students by putting emphasis on understanding and critically evaluating research articles.",
+        "Learning outcomes": "A Demonstrate an understanding of basic concepts in environmental sciences B Demonstrate an understanding of a topic in the frontiers of environmental sciences and propose new research directions C Contribute to a productive discussion of research papers and manuscripts D Identify common pitfalls in research E Compose a paper critique of research papers F Demonstrate an understanding of the manuscript review system, and being able to write a constructive review of manuscripts",
+        "Method of teaching and learning": "The module will be delivered by self-study and seminars, including activities as follows • Self-study – reading papers & manuscripts • Self-study - writing paper/manuscript reviews and critiques • Seminars - Class paper/manuscript discussions"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV407&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FAM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Dissertation",
+  "module_code": "MTH446",
+  "offerings": [
+    {
+      "heading": "Dissertation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Dissertation",
+        "module_code": "MTH446",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Dissertation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the dissertation is to train students to explore in depth a valid topic in the field of the whole program leading to the MSc degree, to facilitate students in developing independent research and presenting skills in scientific project that could be essential for their career.",
+        "Learning outcomes": "A Demonstrate research skills, such as the ability to evaluate theories, paradigms, principles, and concepts, and to apply existing knowledge to further research in the field of Applied mathematics. B Demonstrate the ability to plan and manage research projects and to rationally evaluate and synthesize available or readily accessible information, data, and materials into a defensible thesis that leads to a meaningful result. C Demonstrate communication skills and effectively communicate ideas and arguments in writing and oral presentations.",
+        "Method of teaching and learning": "Seminars are conducted between the supervisor and students, occurring regularly (weekly or biweekly), and typically take the following forms: Proposal Seminar: Students present their thesis research proposal, including the research problem, objectives, theoretical framework, methods, and expected outcomes. The supervisor provides feedback to help students optimize their research plans. Progress Seminar: Students regularly report their research progress to the supervisor and the relevant academic community to receive valuable mid-term feedback, ensuring the research direction is correct, and adjusting methodologies as needed. Results Seminar: As the thesis nears completion, students present their findings, including data analysis, discussion of the research discoveries, and the potential impact of the study. Special Topics Seminar: Held irregularly, these seminars aim to delve deeper into specific mathematical models, algorithms, or application areas. Organized by the supervisor, they give students the opportunity to interact with external experts, gaining insights into industry trends or the latest research developments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH446&psl_code=SEM1"
+    }
+  ]
+}

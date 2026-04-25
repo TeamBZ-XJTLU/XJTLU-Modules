@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Dissertation",
+  "module_code": "EDS411",
+  "offerings": [
+    {
+      "heading": "Dissertation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Dissertation",
+        "module_code": "EDS411",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Dissertation",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with the opportunity to produce a piece of independent research, either theory-focused or practice-based, that examines a specific and substantial theoretical and/or practical issue in depth, and that makes use of appropriate theoretical and/or practical approaches, techniques, perspectives, and methodologies. Enhance students' readiness for independent study and research by integrating the fieldwork/placement (Co-Curricular Activities) into their learning experience before the start of the dissertation. These activities will foster the development of practical, collaborative, and problem-solving skills in real-world contexts, thereby enriching the research/investigative processes and outcomes.",
+        "Learning outcomes": "A. Identify a particular topic that focuses on a theoretical or practical issue and produce a research plan and/or plan of action to address that issue B. Identify, analyze, and evaluate the literature relevant to the Research Dissertation/Dissertation in Practice C. Understand the value of library research, fieldwork, and practical experience in the study of theoretical/practical issues D. Critically evaluate one’s own written work and place it in the context of the secondary literature E. Adopt research methods independently, effectively and critically F. Develop a critical perspective on the selected topic and present research results in a clear academic style, both orally and in written form G. Apply practical, collaborative, and problem-solving skills developed through fieldwork/placement (Co-Curricular Activities) to enhance the research process and outcomes, demonstrating readiness for independent research and investigation.",
+        "Method of teaching and learning": "Work with a supervisor to develop a theoretical or practice-based project; undertake a research project based on library work, fieldwork, and/or internship; write and present a research outline/project plan, interim report, and dissertation. Students are required to complete the Fieldwork/Placement before starting Assessment 001 Dissertation."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS411&psl_code=ACYR"
+    },
+    {
+      "heading": "Dissertation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Dissertation",
+        "module_code": "EDS411",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Dissertation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with the opportunity to produce a piece of independent research, either theory-focused or practice-based, that examines a specific and substantial theoretical and/or practical issue in depth, and that makes use of appropriate theoretical and/or practical approaches, techniques, perspectives, and methodologies. Enhance students' readiness for independent study and research by integrating the fieldwork/placement (Co-Curricular Activities) into their learning experience before the start of the dissertation. These activities will foster the development of practical, collaborative, and problem-solving skills in real-world contexts, thereby enriching the research/investigative processes and outcomes.",
+        "Learning outcomes": "A. Identify a particular topic that focuses on a theoretical or practical issue and produce a research plan and/or plan of action to address that issue B. Identify, analyze, and evaluate the literature relevant to the Research Dissertation/Dissertation in Practice C. Understand the value of library research, fieldwork, and practical experience in the study of theoretical/practical issues D. Critically evaluate one’s own written work and place it in the context of the secondary literature E. Adopt research methods independently, effectively and critically F. Develop a critical perspective on the selected topic and present research results in a clear academic style, both orally and in written form G. Apply practical, collaborative, and problem-solving skills developed through fieldwork/placement (Co-Curricular Activities) to enhance the research process and outcomes, demonstrating readiness for independent research and investigation.",
+        "Method of teaching and learning": "Work with a supervisor to develop a theoretical or practice-based project; undertake a research project based on library work, fieldwork, and/or internship; write and present a research outline/project plan, interim report, and dissertation. Students are required to complete the Fieldwork/Placement before starting Assessment 001 Dissertation."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS411&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Principles And Practices Of Administration Of K-12 Schools",
+  "module_code": "EDS422",
+  "offerings": [
+    {
+      "heading": "Principles And Practices Of Administration Of K-12 Schools",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Principles And Practices Of Administration Of K-12 Schools",
+        "module_code": "EDS422",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Principles And Practices Of Administration Of K-12 Schools",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to: • Connect principles with the practices of school administration in global education context. • Critique the current research and practices of K-12 administration internationally and locally. • Develop students’ understanding of the important aspects of K-12 administration in multiple settings • Engage students in research on K-12 administration in global education context",
+        "Learning outcomes": "A. Understand the key principles, goals, and demands of administrators in K-12 schools in different contexts. B. Critically evaluate current practices of K-12 administration based on empirical evidence. C. Synthesize and interpret research into K-12 administration’s current and potential future impacts D. Synthesize empirical data and theory to develop deeper understanding of current issues and plans to improve the practice of K-12 administration locally and internationally",
+        "Method of teaching and learning": "The teaching sessions are interactive and divided into two components: lectures and tutorials/workshops. The tutorials/workshops will build on the material covered in the lectures."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS422&psl_code=SEM1"
+    }
+  ]
+}

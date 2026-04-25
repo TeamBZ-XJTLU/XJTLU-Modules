@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHP",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "Introduction to Emerging Devices and Technology",
+  "module_code": "MES405TC",
+  "offerings": [
+    {
+      "heading": "Introduction to Emerging Devices and Technology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Introduction to Emerging Devices and Technology",
+        "module_code": "MES405TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Introduction to Emerging Devices and Technology",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module focuses on the future direction of semiconductor technology and emerging devices. Students will study the working principle, fabrication process and performance of emerging devices, including semiconductor memory, micro-energy devices, radio frequency devices, integrated passive devices and organic semiconductor devices that have been widely used in information communication, energy environment, biomedicine and other fields. Students will also study the emerging nanoscale device technology. This module aims to train students to master the basic theory, optimization methods, and testing techniques of emerging electronic devices. Students will understand the development status and future challenges of the microelectronics industry.",
+        "Learning outcomes": "A Develop a thorough understanding of baseline memory technologies, the classification of memory, and essential physics of charge-based memory B Gain comprehensive knowledge about nanoelectronics, their applications, and the difference between nanoelectronics and microelectronics C Acquire the knowledge about the working principle of RF devices, IPD, OFET D Achieve a comprehensive understanding of latest techniques about the emerging devices and applications",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures, tutorials and both supervised and unsupervised laboratory sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES405TC&psl_code=SEM2"
+    }
+  ]
+}

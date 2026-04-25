@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LTS",
+    "domain_code": "TRI",
+    "full_name": "Translation and Interpreting"
+  },
+  "full_name": "Translation and Computation",
+  "module_code": "TRI210",
+  "offerings": [
+    {
+      "heading": "Translation and Computation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "TRI",
+        "full_name": "Translation and Computation",
+        "module_code": "TRI210",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Translation and Computation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module explores key issues concerning the nature of translation from the perspective of computational thinking. The lectures introduce computation in different stages of translation activities and in human’s daily life dealing with language barriers. In the tutorials students are required to practice multi-lingual and multi-modal processing in order to hone their logic and thinking in translation matters. The topics typically include switching figures in different languages; how to translate when you do not know the source language, a quick identification for symbols, intersemiotic translation; language contact and translation; and computation in historical linguistics. Most of the texts used in lectures and tutorials are bilingual or multi-lingual, including Chinese/English, and an unknown language. By examining a wide range of computational topics in human translation, this module aims to equip students with fundamental knowledge of translation in different languages, and the ways in which computation may help translators to approach and reflect on their translations. In doing so students will cultivate an awareness of computational thinking about translation. Through translation practice, students will develop advanced skills in translation, post-editing, communication and language technology.",
+        "Learning outcomes": "A Display knowledge of major translation activities, forms and text types; B Apply computational thinking in translation and language contact; C Demonstrate basic knowledge of machine translation and translation technology; D Practice translation with computation to develop their own translation strategies, methods and skills, and produce their own translation product; E Develop computational ability to translation in (very) low-resourced or unknown language translations.",
+        "Method of teaching and learning": "The teaching is divided into lectures and tutorials. Lectures are designed to equip students with a comprehensive understanding of major translation text types and their representative translations, and to provide computational thinking in translation activities. Tutorials intend to offer students a space to practice translation with computation of different text types, and to present their translations and reflections on individual or group bases so as to encourage discussion and debate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=TRI210&psl_code=SEM1"
+    }
+  ]
+}

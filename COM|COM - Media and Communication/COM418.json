@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Global Journalism",
+  "module_code": "COM418",
+  "offerings": [
+    {
+      "heading": "Global Journalism",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Global Journalism",
+        "module_code": "COM418",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Global Journalism",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims and fit of the module: This module discusses the comparative study of journalism, highlighting the different systems and practices across the globe, and paying particular attention to the demographics, education, socialization, professional attitudes and working conditions of journalists in various countries, including China, closely looking at the many societal and organisational constraints in which journalists operate today. The module examines the impact and consequences of technological change on the practice of global journalism on print, broadcast and online. The module fits in the track Global Media and China because it discusses global news media and China’s position in that ecosystem. The module asks students to conduct original research and thereby prepares them for the dissertation module.",
+        "Learning outcomes": "Learning outcomes: A. critically assess the work practices and professional values of journalists around the world B. demonstrate critical understanding of the various factors and institutions that influence global media content, including technologies, news agencies, and digital networks in the global media market place C. critically analyze changes and trends in news production and news media consumption around the globe D. conduct original research into global media E. apply an academic referencing style correctly and consistently F. research and produce an academic video essay",
+        "Method of teaching and learning": "Methods of teaching and learning: The lectures explain and contextualize the module readings and key concepts and theories. In the seminars, the students get the opportunity to engage more deeply with the material. In the lab sessions, students acquire skills in producing an academic video essay."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM418&psl_code=SEM2"
+    }
+  ]
+}

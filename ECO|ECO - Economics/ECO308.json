@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Financial Economics",
+  "module_code": "ECO308",
+  "offerings": [
+    {
+      "heading": "Financial Economics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Financial Economics",
+        "module_code": "ECO308",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Financial Economics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to give students a comprehensive and coherent view of the theory and practice in the financial market. The module will cover the theory of interest, payment systems, the bond market, the stock market, commercial banks, and nonbank financial institutions. Students should be able to understand the role of technology and financial regulation in shaping the financial market and risk management practices. Students should also be able to use AI to access financial data and put theory into practice through coursework projects.",
+        "Learning outcomes": "A. Show an understanding of the interest rate determination B. Demonstrate an understanding of asset pricing in a general equilibrium framework C. Apply the mutual fund theorem. Know how to use the WindPy API to make financial analysis with the assistance of AI. D. Possess an in-depth understanding of the role of payment systems in the financial market. E. Show an understanding of the banking balance sheet management.",
+        "Method of teaching and learning": "The module will be delivered through a combination of lectures and seminars. Lectures will be used to introduce key theories, concepts and economic models. In tutorials, the student will have the opportunity to learn how to use Application Programming Interfaces to access financial data, solve financial problems and numerical exercises, analyze case studies, or make presentations of research."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO308&psl_code=SEM2"
+    }
+  ]
+}

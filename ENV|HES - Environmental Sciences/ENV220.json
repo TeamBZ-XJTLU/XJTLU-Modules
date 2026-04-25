@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Sustainable Energy",
+  "module_code": "ENV220",
+  "offerings": [
+    {
+      "heading": "Sustainable Energy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Sustainable Energy",
+        "module_code": "ENV220",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Sustainable Energy",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide the students with a broad understanding of sustainable energy in the context of environmental management. It will cover the fundamentals of renewable energy technologies, their environmental implications, and the management strategies for integrating these technologies into existing systems. The module will also explore the social and governance aspects, preparing students to engage with the multifaceted challenges of sustainable energy deployment.",
+        "Learning outcomes": "A: Understand the principles of sustainable energy technologies and their environmental benefits and challenges. B: Assess the environmental impact of renewable energy technologies and develop management strategies for mitigation. C: Evaluate the social implications of sustainable energy projects, including community engagement and equity. D: Comprehend the governance and policy frameworks that support or hinder the adoption of sustainable energy technologies. E: Apply economic analysis to sustainable energy projects, with an emphasis on cost-benefit analysis and long-term sustainability.",
+        "Method of teaching and learning": "The module will be delivered in lectures, seminars and field trips. The lectures will provide an overview of sustainable energy concepts, environmental management strategies, and policy frameworks. The seminars will explore case studies on the integration of sustainable energy in different environmental and social contexts, and will also include the students' own presentations. The field trip will show students real world examples and help them to better understand the concepts."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV220&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Mathematical Reasoning",
+  "module_code": "MTH024",
+  "offerings": [
+    {
+      "heading": "Mathematical Reasoning",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Mathematical Reasoning",
+        "module_code": "MTH024",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Mathematical Reasoning",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to prepare students for undergraduate study in mathematics. There is quite a gap between high-school and university-level mathematics, which this module hopes to bridge, preparing students for abstract modules in analysis and algebra. The module will explore the power, beauty, and fun of mathematics (in a less formulaic way than, say, calculus) while teaching the art of mathematical proof and writing through simple examples.",
+        "Learning outcomes": "A Demonstrate a foundational understanding of standard notation, logic and reasoning for university-level mathematics. B Interpret and manipulate foundational mathematical objects (such as sets and functions) and processes. C Construct and show understanding of simple proofs by, for example, induction, contradiction etc. D Express mathematical ideas in a clear and concise manner.",
+        "Method of teaching and learning": "The module will be taught through lectures and tutorials with (almost) weekly quizzes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH024&psl_code=SEM2"
+    }
+  ]
+}

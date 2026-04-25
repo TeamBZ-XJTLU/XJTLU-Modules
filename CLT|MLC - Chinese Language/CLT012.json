@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MLC",
+    "domain_code": "CLT",
+    "full_name": "Chinese Language"
+  },
+  "full_name": "Chinese Language 12",
+  "module_code": "CLT012",
+  "offerings": [
+    {
+      "heading": "Chinese Language 12",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CLT",
+        "full_name": "Chinese Language 12",
+        "module_code": "CLT012",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Chinese Language 12",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module is intended for students who have previous knowledge of the Chinese language (B2 or equivalent) and it will progress in their Chinese proficiency to a level of equivalent to CEFR B2+. All the Chinese language modules have been developed taking into account the QAA benchmark statements for a full or minor component in a language. QAA benchmark statements relate to the language component comprising at least one-third of the study total, resulting in students at the end of the relevant degree programme being at level C1. These Chinese modules make up less than one third of study and so the realistic minimum that would be achieved for a student starting at a beginner level in year 1 is CEFR B1+, though students with some initial knowledge would be at B2+.",
+        "Learning outcomes": "A. Demonstrate understanding of the main points and specific details of complex speech on concrete and abstract topics within a field of interest B. Demonstrate clear understanding of the main points and specific details of complex texts in different writing styles within a field of interest C. Address a topical issue in a critical manner with supporting details in the context of either an oral presentation or a discussion D. Write clear, well-structured texts with appropriate highlighting of significant points and relevant supporting details E. Demonstrate deep knowledge and understanding of Chinese cultures and societies",
+        "Method of teaching and learning": "The topics typically include: Economic Development • Localization of Foreign Brands in China • Electronic Commerce • Property Market in China • Dialectical Relationship between Imitation and Creativity Global Challenges • Environmental Pollution and Protection • Animal Protection"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CLT012&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Research Plan",
+  "module_code": "BIO408",
+  "offerings": [
+    {
+      "heading": "Research Plan",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Research Plan",
+        "module_code": "BIO408",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Research Plan",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to equip students with essential research training while guiding them through the initial phase of their research project, as outlined in BIO404. Under the supervision of experienced academic staff at XJTLU, students will: Develop foundational research skills through structured training. Execute the preliminary stage of their proposed study, including literature review, methodology design, and data collection (if applicable). Gain hands-on experience in academic research within a supported learning environment. By the end of this module, students will have established a clear research direction and produced a viable Research Plan to inform their subsequent work in BIO404 Research Project.",
+        "Learning outcomes": "A. Demonstrate a critical understanding of relevant scientific literature and techniques applicable to the research project. B. Plan a scientific research to formulate, evaluate or criticize a hypothesis and challenge or defend the hypothesis. C. Understand, consider, and apply research ethics and health and safety regulations to effectively prioritize, arrange, and organize research work. D. Write and defend a research project plan that includes the relevant background information, the hypothesis to be tested (if applicable), a detailed plan of work, an anticipated timetable, and preliminary results (if applicable). E. Develop and deliver a formal oral presentation of a research project plan to scientific audience.",
+        "Method of teaching and learning": "Students will choose a research project with a nominated supervisor at the end of semester 1. Assessors will be appointed to provide appropriate support and to appraise the research project plan. At a designated time (typically two months) after starting the research project, students will be required to write and defend a research project plan describing the relevant background information, the hypothesis to be tested (where relevant), a plan of work and an anticipated timetable. The module includes tutorials to guide students on conducting a literature survey, and on making presentations, report writing, data safety, and project management. Students can draft their research project plan and obtain feedback from their supervisor(s) before submission. Two internal examiners will be appointed to conduct a Viva with the student. Additional technical training in Linux system operation, bioinformatics tool usage, and database management, will be provided by supervisors, technicians, or experienced PhD students, as needed."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO408&psl_code=SEM2"
+    }
+  ]
+}

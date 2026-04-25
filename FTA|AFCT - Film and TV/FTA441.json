@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Event Management And Curation",
+  "module_code": "FTA441",
+  "offerings": [
+    {
+      "heading": "Event Management And Curation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Event Management And Curation",
+        "module_code": "FTA441",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Event Management And Curation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: This module is designed to equip students with the necessary knowledge and skills required to successfully plan, organise and manage events, exhibitions or festivals. The focus is on understanding the workflows involved in event and exhibition management, analysing the needs of audiences, and delivering high-quality events, exhibitions or festivals. Objectives: The learning objectives are centered around developing core skills in market analysis, event planning, management, and promotion. Students will also learn how to avoid risks and ensure that events and exhibitions adhere to professional standards.",
+        "Learning outcomes": "A Demonstrate an understanding on events, exhibitions and festivals planning, management and promotion B Analyse the market critically and appropriately for events, exhibitions or festivals C Apply the knowledge and skills to develop a proposal for an event, exhibition or festival",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures, seminars, and fieldworks. Lectures will be designed to provide essential information, knowledge and theories in event management and curation. Seminars will be based on the case study and projects. Tutorials will be provided for students to discuss the materials for completion of their coursework. The filed works will provide the opportunity for students to experience the event, exhibition or festival in place (or virtually) for their projects."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA441&psl_code=SEM1"
+    }
+  ]
+}

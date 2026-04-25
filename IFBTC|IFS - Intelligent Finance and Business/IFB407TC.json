@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Consumer Behavior In A Digital World",
+  "module_code": "IFB407TC",
+  "offerings": [
+    {
+      "heading": "Consumer Behavior In A Digital World",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Consumer Behavior In A Digital World",
+        "module_code": "IFB407TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Consumer Behavior In A Digital World",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "An essential component of marketing is understanding consumer behavior. The course provides an overview of fundamental concepts of consumer behavior from the view of consumers living in a digital world. The course examines the decisions consumers make, the processes underlying these decisions, and the psychological and sociological factors that influence buying behavior. The students will learn about various external and internal influences affecting the field of consumer behavior considering the impact of social media, online communities, and always-on mobile connectivity. The course also examines the impact of digital marketing on society, both domestic and global. The students are expected to learn to think critically with respect to a full range of organizational situations in the digital world. Marketing situations and strategies for generating consumer response will be discussed and critically evaluated by students.",
+        "Learning outcomes": "An essential component of marketing is understanding consumer behavior. The course provides an overview of fundamental concepts of consumer behavior from the view of consumers living in a digital world. The course examines the decisions consumers make, the processes underlying these decisions, and the psychological and sociological factors that influence buying behavior. The students will learn about various external and internal influences affecting the field of consumer behavior considering the impact of social media, online communities, and always-on mobile connectivity. The course also examines the impact of digital marketing on society, both domestic and global. The students are expected to learn to think critically with respect to a full range of organizational situations in the digital world. Marketing situations and strategies for generating consumer response will be discussed and critically evaluated by students.",
+        "Method of teaching and learning": "Based on the philosophy of Syntegrative Education, this module’s delivery pattern follows more intensive block teaching, and allows more meaningful contribution from industry partners. This delivery pattern provides space for students to concentrate on completing the problem-based and project-oriented assessments. This module will be delivered through a series of key lectures/seminars. In addition, students will be required to analysis a number of cases, determining what worked and why."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB407TC&psl_code=SEM1"
+    }
+  ]
+}

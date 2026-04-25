@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Studio Practice",
+  "module_code": "FTA205",
+  "offerings": [
+    {
+      "heading": "Studio Practice",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Studio Practice",
+        "module_code": "FTA205",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Studio Practice",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module builds on the introductory skills, knowledge and understanding learnt in level 1. Working in groups, students will plan, script, produce and crew a studio production of their own devising employing the more sophisticated production skills they learn during their studio contact hours. This may take the form of an entertainment or magazine programme or a drama production.",
+        "Learning outcomes": "A Plan and develop a TV Show proposal. B Contribute to various aspects of TV show projects by applying relevant theoretical knowledge and transforming it into high-quality project. C Analyse, contextualise and apply theory in order to critique a production process.",
+        "Method of teaching and learning": "Practical hands-on workshops, group seminars and production tutorials, practical group project work, written analysis and reflection."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA205&psl_code=ACYR"
+    },
+    {
+      "heading": "Studio Practice",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Studio Practice",
+        "module_code": "FTA205",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Studio Practice",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module builds on the introductory skills, knowledge and understanding learnt in level 1. Working in groups, students will plan, script, produce and crew a studio production of their own devising employing the more sophisticated production skills they learn during their studio contact hours. This may take the form of an entertainment or magazine programme or a drama production.",
+        "Learning outcomes": "A Plan and develop a TV Show proposal. B Contribute to various aspects of TV show projects by applying relevant theoretical knowledge and transforming it into high-quality project. C Analyse, contextualise and apply theory in order to critique a production process.",
+        "Method of teaching and learning": "Practical hands-on workshops, group seminars and production tutorials, practical group project work, written analysis and reflection."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA205&psl_code=SEM2"
+    }
+  ]
+}

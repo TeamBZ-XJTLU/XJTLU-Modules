@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Documentary Production",
+  "module_code": "FTA223",
+  "offerings": [
+    {
+      "heading": "Documentary Production",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Documentary Production",
+        "module_code": "FTA223",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Documentary Production",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module builds on the students’ skills and knowledge of digital media and TV production established at Level 1 and aims to develop their critical understanding of documentary production. The module emphasises the relationship between theory and practice by exploring the documentary form through existing concepts such as audience, representation, and reportage. Production work is single-camera based and students are encouraged to shoot on location. Students will develop production skills such as planning, organisation, production management, camera, lighting, sound and post production techniques. As part of a small production team, students devise, research, schedule, script, shoot and edit a documentary video of 5 to 10 minutes duration. Through lectures, screenings, workshops and exercises, the module aims to develop students’ critical awareness and understanding of conceptual and contextual issues of the documentary form and how these relate to their practical work.",
+        "Learning outcomes": "A Analyse the development of documentary forms and functions. B Demonstrate a clear understanding of the character of the debates about ‘truthfulness’ and ‘the real’ which have surrounded documentary work in relation to a short documentary project. C Develop the knowledge of research and production techniques in relation to documentary production work. D Demonstrate an understanding of the nature of pre-production, production, and post-production work in relation to documentary production.",
+        "Method of teaching and learning": "The teaching sessions are divided into three components (lectures, seminars and tutorials). NB During the second half of the semester, students will undertake directed study during some of the lecture times, using the time to develop and produce their documentary production project. Lecturers will provide support in the workshop sessions or by appointment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA223&psl_code=SEM2"
+    }
+  ]
+}

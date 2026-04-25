@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Advanced OO Programming",
+  "module_code": "CPT204",
+  "offerings": [
+    {
+      "heading": "Advanced OO Programming",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Advanced OO Programming",
+        "module_code": "CPT204",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Advanced OO Programming",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to introduce key data structures and advanced object-oriented programming features in Java. It develops students’ ability to apply these concepts intelligently to design and implement algorithms effectively, supported by worked examples and problem-solving activities. The module also builds confidence in using advanced language features to produce clear, efficient, and reliable code in contemporary programming contexts. As a Stage 3 / Level 5 module, it builds on the introductory programming and OOP knowledge from Level 4 and strengthens students’ readiness for more advanced study at Level 6. It forms an essential part of the Computer Science curriculum by developing intelligent application of programming concepts, preparing students for modules and projects that require strong coding proficiency and algorithmic thinking.",
+        "Learning outcomes": "A. Critically analyze and evaluate data structures and advanced object-oriented programming concepts to devise effective solutions for computational challenges. B. Design and implement sophisticated programming techniques to develop robust software artifacts tailored to solve complex realworld problems. C. Develop advanced software components as a member or a leader of a software development team, incorporating AI-assisted features. D. Adopt an inclusive approach and recognise the responsibilities, benefits and importance of supporting equality, diversity and inclusion in object-oriented programming. E. Plan and record self-learning and development as the foundation for lifelong learning in object-oriented programming.",
+        "Method of teaching and learning": "Students will be expected to attend two hours of formal lectures as well as to participate in supervised practicals in a computer lab in a typical week. Lectures will introduce students to the academic content and practical skills which are the subject of the module, while computer practicals will allow students to practice those skills. In addition, students will be expected to devote approximately eight hours of unsupervised time to solving continuous assessment tasks and private study. Private study will provide time for reflection and consideration of lecture material and background reading. Continuous assessment and regular in-class coding assignments will be used to monitor progress and support the development of advanced programming skills."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT204&psl_code=SEM2"
+    }
+  ]
+}

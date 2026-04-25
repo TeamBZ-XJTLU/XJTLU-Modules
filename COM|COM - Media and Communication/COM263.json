@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "European Cinema",
+  "module_code": "COM263",
+  "offerings": [
+    {
+      "heading": "European Cinema",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "European Cinema",
+        "module_code": "COM263",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "European Cinema",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module will introduce students to a wide range of national cinemas and film industries, subsumed under the term ‘European Cinema’, at the same time as it will question the notion of ‘national cinema’ by discussing supranational film institutions and transnational models of production, financing and circulation. It will be structured around several themes that span several periods and national contexts, such as different understandings of realism, different modes of cinematic modernism, auteurist experimentations with popular genres, the cinematic response to various events and political reconfigurations in Europe, such as the two World Wars, the fall of the communist regimes, the aftereffects of the colonial past. It will enable students to reflect on how cinema can articulate but also challenge notions of European identity.",
+        "Learning outcomes": "A. Demonstrate an informed understanding of the sociocultural context of European cinema B. Critically engage with European cinema scholarship C. Analyse individual films using the conceptual and critical tools introduced by the module D. Critically appraise the aesthetic, cultural, ideological and industrial implications of European film movements and ‘waves’",
+        "Method of teaching and learning": "Lectures Seminars Film screenings"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM263&psl_code=SEM1"
+    }
+  ]
+}

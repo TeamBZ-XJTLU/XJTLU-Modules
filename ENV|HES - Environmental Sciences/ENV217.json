@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Water and the Environment",
+  "module_code": "ENV217",
+  "offerings": [
+    {
+      "heading": "Water and the Environment",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Water and the Environment",
+        "module_code": "ENV217",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Water and the Environment",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Water is one of the most important substances on earth and is crucial for the survival of living organisms. A large part of the human activities depends on water. However, at the same time, these activities may deeply pollute the water resources. Through this module students will learn the water cycle, its different components and pollutions caused by human disturbances. During the lectures, the students will acquire the theory and take the opportunity of the practicals to apply our knowledge. We will analyze scientific papers and we will do some calculations and simulations based on different examples.",
+        "Learning outcomes": "A illustrate the global water situation and water cycle. B interpret the main water pollution sources and their fates. C analyze the main remediation measures and global water framework directives. D analyze environmental data, interpret and present results and write scientific reports. E apply acquired knowledge in providing reasoned suggestion, judgements, and possible solutions to particular environmental problems.",
+        "Method of teaching and learning": "Lectures, seminars, practical and field work are integrated, i.e. each lecture contains new theoretical topics, worked examples and opportunities for students to solve problems. Some lectures are used as pure tutorials. Coursework, which enables students to use the acquired knowledge in an integrated manner, is given in essential parts of the syllabus. During the lectures, we will acquire the theories via lectures, analyze scientific papers by seminars, understand the relationships between aquatic organisms and environmental variables, do field excursion and laboratory measurement via practical. *Should the University decide to cancel or postpone the field trip due to unforeseen environmental and/or political circumstances, the Department will either plan an appropriate substitute activity to meet the intended learning outcomes of the trip or make necessary arrangements to organize the trip at a later time, as appropriate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV217&psl_code=SEM1"
+    }
+  ]
+}

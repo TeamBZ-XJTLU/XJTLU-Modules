@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Advanced Medicinal Chemistry",
+  "module_code": "APH401",
+  "offerings": [
+    {
+      "heading": "Advanced Medicinal Chemistry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Advanced Medicinal Chemistry",
+        "module_code": "APH401",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Medicinal Chemistry",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module builds upon the knowledge and understanding of the principles of drug design, drug discovery and structure-activity relationship to consider more advanced aspects of human health and disease. This module aims to introduce the students to the modern methods in drug discovery and their application in development of new therapeutic molecules. The students will deepen their understanding of the complexity and intertwined nature of some common diseases like diabetes, cancer, obesity and aging and appreciate how the complex disease require multi directional therapeutic approaches. It will provide comprehensive guidance and training for students in drug design and synthesis which are essential skills in drug discovery research and process.",
+        "Learning outcomes": "A. Demonstrate an understanding of the chemical and macromolecular complexity of common diseases such diabetes, cancer and neurodegeneration B. Competently apply the principles and methods in the modern drug discovery processes C. Apply medicinal chemistry knowledge to suggest alternative molecules for structure-activity relationships research with improved potency or altered pharmacokinetics D. Show a critical awareness of the natural function of major drug targets and the action of drugs upon them at the molecular level E. Critically evaluate the late-stage drug development steps and advise on the related formulations and process chemistry F. Design and industrialize the synthesis routes of some important drug molecules G. Review, critically evaluate and present material from current topics in medicinal chemistry",
+        "Method of teaching and learning": "This course will be taught by a series of lectures. Students will learn how to apply their knowledge by completing a series of related tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH401&psl_code=SEM1"
+    }
+  ]
+}

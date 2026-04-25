@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Pharmacokinetics and Pharmacodynamics",
+  "module_code": "APH207",
+  "offerings": [
+    {
+      "heading": "Pharmacokinetics and Pharmacodynamics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Pharmacokinetics and Pharmacodynamics",
+        "module_code": "APH207",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Pharmacokinetics and Pharmacodynamics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with fundamental knowledge in pharmacology, and particularly from a qualitative and quantitative standpoint, all the processes and factors affecting a drug in order to optimize its bioavailability. It will equip students with the basic pharmacokinetics and pharmacodynamics (PKPD) principles and concepts, as well as a thorough knowledge about mathematical models and statistical analyses related to PKPD.",
+        "Learning outcomes": "A Understand the common terms and fundamentals of pharmacology B Evaluate potential druggable candidates’ pharmacokinetics and pharmacodynamics (PKPD) properties C Demonstrate an understanding of the process about the drug’s absorption, distribution, metabolism and excretion (ADME) pattern. D Demonstrate an understanding of the interrelationship of the physicochemical properties of a drug in dosage form and the pharmacology, toxicology and clinical response after administration. E Demonstrate an understanding of the time relation of drug action both mathematically and descriptively. F Apply PKPD models to predict the evolution of the drug in the body and to establish appropriate dosing regimens.",
+        "Method of teaching and learning": "This course will be taught by a series of lectures. Students will learn how to apply their knowledge by completing a series of related tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH207&psl_code=SEM1"
+    }
+  ]
+}

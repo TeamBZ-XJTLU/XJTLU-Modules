@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "Final Year Project",
+  "module_code": "DTS311TC",
+  "offerings": [
+    {
+      "heading": "Final Year Project",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "DTSTC",
+        "full_name": "Final Year Project",
+        "module_code": "DTS311TC",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "10",
+        "Module Level": "Level 3",
+        "Module Title": "Final Year Project",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to give students the opportunity to work in a guided but independent fashion to explore a substantial problem in depth, making practical use of principles, techniques and methodologies acquired elsewhere in the course. It also gives experience of carrying out a large piece of individual work and in producing a dissertation. It finally enhances communication skills, both oral and written.",
+        "Learning outcomes": "After completing the module students should be able: A. specify a substantial problem, and produce a plan to address the problem B. manage their time effectively so as to carry out their plan C. locate and make use of information relevant to their project D. design a solution to a substantial problem E. implement and test their solution F. evaluate in a critical fashion the work they have done, and to place it in the context of related work G. prepare and deliver a formal presentation H. structure and write a dissertation describing their projects.",
+        "Method of teaching and learning": "Students and their supervisors can decide delivery pattern. Some academic supervisors have a group meeting and the other may have one-by one meeting with students. The time schedule is slightly different from one individual academic staff to another. Usually there is weekly meeting for all supervisors for his/her students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS311TC&psl_code=ACYR"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "Large Model Techniques",
+  "module_code": "DTS407TC",
+  "offerings": [
+    {
+      "heading": "Large Model Techniques",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DTSTC",
+        "full_name": "Large Model Techniques",
+        "module_code": "DTS407TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Large Model Techniques",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides an in-depth exploration of Large Model Techniques in the fields of Natural Language Processing (NLP) and Computer Vision (CV). Students will gain a comprehensive understanding of state-of-the-art large models such as ChatGPT, AutoGPT, DALL·E, Vision Transformers (ViTs), Segment Anything, and other relevant models. The module covers the underlying principles, architectures, and training methodologies of these models, along with their applications in NLP and CV tasks. Through hands-on projects and practical exercises, students will develop the skills necessary to effectively utilize and adapt large models in real-world scenarios. This module is suitable for students pursuing advanced studies or research in the fields of AI, as well as professionals interested in leveraging large models for practical applications. Students specializing in AI, machine learning, or computer vision will benefit from this module by acquiring cutting-edge knowledge and skills in Large Model Techniques for NLP and CV. Students aiming to enhance their understanding of AI and explore the latest advancements in large model techniques will find this module valuable for their career growth.",
+        "Learning outcomes": "A Demonstrate a thorough understanding of the theoretical foundations and concepts behind large model techniques used in different tasks. B Critically review the application of large models, including language understanding and generation, image recognition, object detection, and image generation. C Determine comprehensively how to evaluate and measure the performance of large models in natural language processing and computer vision tasks using appropriate metrics and benchmarks. D Exhibit proficiency in the practical skills required for implementing and deploying large models, including data preprocessing, model training, fine-tuning, and result interpretation. E Acquire a thorough knowledge and heightened awareness of the ethical and societal implications linked to large model techniques, addressing biases, fairness, privacy issues, and associated risks.",
+        "Method of teaching and learning": "The module follows the philosophy of Syntegrative Education, emphasising industry engagement, practical learning, and project-based assessment. The approach focuses on reducing reliance on examinations and enhancing coursework through problem-based and applied projects. Teaching is delivered over a 13-week semester through a combination of lectures and labs. Lectures introduce key concepts, theories, and techniques related to large model technologies, supported by real-world examples and case studies to strengthen understanding. Lab sessions provide hands-on experience, allowing students to implement and experiment with large model techniques in Natural Language Processing (NLP) and Computer Vision (CV). These sessions reinforce theoretical knowledge and cultivate technical and problem-solving skills. Students will also engage in group projects that apply large model techniques to practical tasks, promoting collaboration, critical thinking, and integration of knowledge across module components. In addition to scheduled activities, students are expected to dedicate time to private study for reflection, reading, and preparation of assessments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS407TC&psl_code=SEM2"
+    }
+  ]
+}

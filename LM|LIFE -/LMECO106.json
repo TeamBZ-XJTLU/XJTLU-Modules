@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LIFE",
+    "domain_code": "LM",
+    "full_name": ""
+  },
+  "full_name": "Essentials Of Economics",
+  "module_code": "LMECO106",
+  "offerings": [
+    {
+      "heading": "Essentials Of Economics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LM",
+        "full_name": "Essentials Of Economics",
+        "module_code": "LMECO106",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Essentials Of Economics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to basic economic models and techniques, which illuminate the functioning of markets and economies, the effects of government policies, and rationales behind firms’ decisions.",
+        "Learning outcomes": "A. Apply basic microeconomic theory to explaining the functioning of markets, evaluating government policies, and evaluating firms’ decisions. B. Apply basic macroeconomic theory to explaining the functioning of an economy, and evaluating macroeconomic policies.",
+        "Method of teaching and learning": "This module will be delivered via a combination of lectures and tutorials. Each lecture will introduce new economic models and techniques, whereas each tutorial will demonstrate how to apply these models and techniques to a series of economic settings."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LMECO106&psl_code=SEM2"
+    }
+  ]
+}

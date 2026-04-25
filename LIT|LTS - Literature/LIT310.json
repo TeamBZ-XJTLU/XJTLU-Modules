@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LTS",
+    "domain_code": "LIT",
+    "full_name": "Literature"
+  },
+  "full_name": "Literature of Modernity (1900-1940)",
+  "module_code": "LIT310",
+  "offerings": [
+    {
+      "heading": "Literature of Modernity (1900-1940)",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LIT",
+        "full_name": "Literature of Modernity (1900-1940)",
+        "module_code": "LIT310",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Literature of Modernity (1900-1940)",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with an overview of the literary aspects of the cultural phenomenon known as ‘modernism.’ Through close readings of a range of texts, it aims to contextualize this movement as an artistic response to a period of unprecedented change, connecting the radical stylistic experimentation that characterizes much modernist writing with the technological advances, political movements (mass democracy, women’s liberation), and seismic events (Great War, Spanish influenza) that transformed European society in the early-20th century.",
+        "Learning outcomes": "A read and work critically with literary texts in English and in translation, reflecting the diversity of ‘modernist’ literature produced between 1900 and 1940 B relate the effects of the texts on the reader to the techniques used by the author, and in reference to the seismic social changes of the early-twentieth century C reflect critically upon the methodologies and terminology used in appraising these texts D structure a coherent, critically informed, and theoretically reflective analysis of selected texts and specific passages",
+        "Method of teaching and learning": "The teaching sessions divide into lectures and seminars. Lectures offer content on texts and contexts, and provide examples of how texts can be read and understood in globalized and postcolonial contexts. Seminars require students to present and interrogate ideas, to develop critical positions in detail, and to explore literary, contextual, and secondary/critical reading materials in depth."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LIT310&psl_code=SEM1"
+    }
+  ]
+}

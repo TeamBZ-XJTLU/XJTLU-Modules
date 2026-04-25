@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Research Design",
+  "module_code": "ENV201",
+  "offerings": [
+    {
+      "heading": "Research Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Research Design",
+        "module_code": "ENV201",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Research Design",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The overall aim of this module is to give a sound foundation in the design of environmental experiments and research approaches so that students are adequately equipped to complete individual research projects. More specifically, this module aims to: •Train students how to formulate sound research questions and hypotheses. •Provide students with training in different research methods relevant to Environmental Sciences •Train students how to design an experiment properly •Introduce students to write a research proposal",
+        "Learning outcomes": "A. identify a research problem, formulate sound research questions and hypotheses B. illustrate the significance of methods and study designs in qualitative and quantitative research C. apply consolidated theories and methods to conduct rigorous research D. write a proposal with an appropriate research design strategy E.deliver an oral presentation about a study design or project proposal to a small group",
+        "Method of teaching and learning": "The module will be delivered via lectures, seminars and computer lab practice. In the seminar, students will be involved in designing a research project and participate in discussions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV201&psl_code=SEM2"
+    }
+  ]
+}

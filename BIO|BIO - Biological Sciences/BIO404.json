@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Research Project",
+  "module_code": "BIO404",
+  "offerings": [
+    {
+      "heading": "Research Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Research Project",
+        "module_code": "BIO404",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "40",
+        "Module Level": "Level 4",
+        "Module Title": "Research Project",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module enables students to undertake an independent, in-depth research project within the field of bioinformatics, guided by an experienced academic supervisor. Key objectives include: Conduct original research on a well-defined topic, applying advanced bioinformatics methodologies. Develop critical research skills, including experimental design, data analysis, and interpretation of results. Engage with the university’s bioinformatics research infrastructure, utilizing specialized lab facilities and computing resources. Produce scholarly outputs (e.g., thesis, report, or presentation) that demonstrate research competence and contribute to the field. By completing this project, students will gain hands-on experience in academic research, preparing them for future scientific endeavors or professional roles in bioinformatics.",
+        "Learning outcomes": "A. Execute a research project, demonstrating a systematic understanding of knowledge and critical awareness of current problems or new insights at the forefront of the academic discipline. B. Demonstrate a comprehensive understanding of scientific literature and techniques relevant to the research project, integrate this knowledge with the project’s arguments and justifications, and demonstrating originality in the application of knowledge. C. Exhibit self-direction and originality in tackling and solving problems, acting autonomously in planning and implementing tasks. D. Write a final project report in dissertation or manuscript format, critically evaluating, contrasting, and discussing the experimental outcomes of the research project and their scientific implications and significance. E. Develop and deliver a clear, concise, and well-structured oral or poster presentation of a research project and its findings, demonstrating effective communication skills, practical understanding of research techniques, and the ability to engage and inform an academic audience.",
+        "Method of teaching and learning": "Weekly group meetings will be arranged by the academic supervisor, allowing students to present their progress and discuss issues related to project implementation. Additional technical training, such as Linux system operation, bioinformatics tool usage, and database installation, will be provided by supervisors, technicians, or experienced PhD students as needed."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO404&psl_code=ACYR"
+    }
+  ]
+}

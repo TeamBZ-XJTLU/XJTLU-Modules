@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IRE",
+    "domain_code": "RBETC",
+    "full_name": "Robotics"
+  },
+  "full_name": "Computer Vision and Deep Learning",
+  "module_code": "RBE306TC",
+  "offerings": [
+    {
+      "heading": "Computer Vision and Deep Learning",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "RBETC",
+        "full_name": "Computer Vision and Deep Learning",
+        "module_code": "RBE306TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Computer Vision and Deep Learning",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "In the field of robotics, deep neural networks play a crucial role in computer vision systems. By using convolutional neural networks and other advanced techniques, robots can recognize and classify objects, track movements, and navigate through complex environments. In recent years, large-scale vision–language models such as CLIP and LLaVA have further expanded the capabilities of robotic perception, enabling multimodal understanding and interaction between visual input and language instructions. Therefore, students studying robotics must have a solid understanding of deep neural networks and large-scale vision–language models in computer vision systems to design and develop advanced robotic systems that can perceive and interpret the world around them with greater accuracy and reliability. Learning about these models will equip students with the knowledge and skills needed to train, optimize, and apply them to real-world robotics applications. Furthermore, as the use of robotics and automation continues to expand across various industries, the demand for skilled professionals with expertise in deep neural networks, vision–language models, and computer vision systems will only continue to grow. This module aims to enable students to: 1. Understand computer vision principles and techniques in robotics industries. 2. Explore deep learning and large-scale vision–language algorithms for computer vision in robotics. 3. Apply computer vision, deep learning, and vision–language models to robotics.",
+        "Learning outcomes": "A. Configure and operate a remote Linux/Ubuntu GPU environment, and develop reproducible PyTorch programs with virtual environments, SSH/terminal, and remote debugging. B. Analyze image formation (pixels, sampling/scale, light/color) and apply fixed filtering operations for image processing tasks. C. Design, implement, and evaluate convolutional neural networks for typical tasks such as classification, detection, and segmentation, etc. D. Implement and fine-tune Vision Transformers; explain self-attention, multi-head attention, and positional encoding; compare accuracy/efficiency trade-offs with CNNs. E. Train or adapt generative models (VAE, GAN, diffusion) for synthesis/augmentation and evaluate their outputs with standard metrics. F. Understand and describe foundations of Vision Language Models, common architectures (e.g., CLIP), key limitations, and possible applications.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. This module is delivered with a combination of delivery in lectures, laboratory exercise, tutorials and a seminar at the end of the delivery. The concepts introduced during the lecture are illustrated using step-by-step analysis of practical training, complete case studies and live programming tutorials. In the laboratory practice, students will have opportunities to solve a set of exercises during the laboratories under the supervision of the lecturer and the teaching assistant. At the end of each week, there will be a tutorial to emphasize keynotes that have been discussed in lectures and laboratory practice during that week. At the end of the delivery, there will be a seminar to review the whole module delivery."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=RBE306TC&psl_code=SEM1"
+    }
+  ]
+}

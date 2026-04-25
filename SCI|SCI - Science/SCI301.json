@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SCI",
+    "domain_code": "SCI",
+    "full_name": "Science"
+  },
+  "full_name": "Critical Thinking and Applied Skills in Science Research",
+  "module_code": "SCI301",
+  "offerings": [
+    {
+      "heading": "Critical Thinking and Applied Skills in Science Research",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SCI",
+        "full_name": "Critical Thinking and Applied Skills in Science Research",
+        "module_code": "SCI301",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Critical Thinking and Applied Skills in Science Research",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to introduce students to and help them practice the evaluation and synthesis of two of the most important products in science: written research proposals and orally delivered research presentations. Both are essential modes of communication in science, especially critical for success in academic research. Given that over 90% of students in the School of Science go on to conduct graduate studies, the development of these skills is essential, irrespective of discipline. Written proposals and oral presentation will be based on work conducted with specific experimental or computational methodologies in a chosen laboratory directed by one of the faculty members.",
+        "Learning outcomes": "A. Evaluate written research proposals using a detailed rubric. B. Evaluate orally delivered research presentations using a detailed rubric. C. Synthesize a written research proposal using a detailed rubric. D. Synthesize and deliver an oral research presentation using a detailed rubric.",
+        "Method of teaching and learning": "The first six weeks of the module will involve a series of sandboxed group activities (tutorials) through which students learn about and practice using detailed rubrics to evaluate the quality of a selection of research proposals and research presentations provided by instructors. With this experience, students will then be assigned into working groups and collaboratively apply their understanding during Weeks 7-8 to develop their own individual research proposal. The research proposal will be based on work carried on in a chosen laboratory directed by a faculty member and employ specific experimental or computational methodologies. During Weeks 9-10, students will peer-evaluate the proposals of students from other groups formatively using the rubrics they practiced. This peer-evaluation will occur in two separate rounds (practicals) to help improve and finalize each student’s proposal for submission at the end of Week 10. During Week 11, each student will prepare a presentation based on their submitted proposal in accordance with the rubric they practiced. Week 12 will again have students peer-evaluating each other’s presentations formatively before each student delivers their presentation to a random group of peers during Week 13. The students in each group will peer-evaluate each other’s presentation during two separate two-hour sessions (seminars) using the rubrics they practiced."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SCI301&psl_code=SEM1"
+    }
+  ]
+}

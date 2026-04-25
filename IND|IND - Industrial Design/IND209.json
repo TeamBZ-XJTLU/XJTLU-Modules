@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IND",
+    "domain_code": "IND",
+    "full_name": "Industrial Design"
+  },
+  "full_name": "Studio 2: Concepts And Interactions",
+  "module_code": "IND209",
+  "offerings": [
+    {
+      "heading": "Studio 2: Concepts And Interactions",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IND",
+        "full_name": "Studio 2: Concepts And Interactions",
+        "module_code": "IND209",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Studio 2: Concepts And Interactions",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip the students with an understanding of theories and methods of conceptual design and which will aid them to creatively develop interaction designs or product-Thservice concepts. Students will use hands-on technologies, such as sketching, computer-aided-design, prototyping or model making to visualize their concept(s). They will be able to characterize the performance of their concepts and justify their selection of solution through modeling, testing, and/or analysis.",
+        "Learning outcomes": "A. Select and apply methods to generate design concepts. B. Produce innovative design concepts and solutions. C. Select among design concepts based on user, technical, aesthetic considerations. D. Illustrate and prototype design processes and solutions.",
+        "Method of teaching and learning": "The module is taught through studio with a small lecture component to teach theories related to conceptual and interaction design. Students will work in groups and individually. Building on the lectures, students will undertake several exercises and reflect on their learning and the application of the methods. Students will develop a design project for which they generate and select design concepts. They will develop a portfolio of design concepts resulting from the generation process and a user interface prototype(s) that construct an interactive experience for the targeted users."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IND209&psl_code=SEM2"
+    }
+  ]
+}

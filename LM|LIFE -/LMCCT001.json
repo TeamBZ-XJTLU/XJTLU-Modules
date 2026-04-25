@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LIFE",
+    "domain_code": "LM",
+    "full_name": ""
+  },
+  "full_name": "The Basic Principles of Marxism",
+  "module_code": "LMCCT001",
+  "offerings": [
+    {
+      "heading": "The Basic Principles of Marxism",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LM",
+        "full_name": "The Basic Principles of Marxism",
+        "module_code": "LMCCT001",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2",
+        "Module Level": "Level 0",
+        "Module Title": "The Basic Principles of Marxism",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module systematically introduces the basic theory of Marxism which covers Marxist philosophy, Marxist political economy and scientific socialism theory. It can help students establish a scientifically grounded worldview and views of life, cultivate and improve students' ability to analyze and solve real issues with Marxist theory. 《马克思主义基本原理概论》从马克思主义整体性出发，系统讲述了马克思主义的基本理论，内容涵盖了马克思主义哲学、马克思主义政治经济学与科学社会主义理论。 通过理论教学与实践教学相结合的环节，坚定学生的马克思主义立场、观点和方法，树立正确的世界观、人生观和价值观，培养和提高学生运用马克思主义理论分析和解决实际问题的能力，为实现中国梦而努力奋斗。",
+        "Learning outcomes": "A.Understand the basic principles of Marxist materialistic dialectics, historical materialism, the essentials of capitalism and scientific socialism. 掌握马克思主义唯物辩证法与历史唯物主义基本原理，准确认识资本主义的本质和规律，把握科学社会主义的基本原则。 B.Analyze and solve real issues by using Marxist philosophy, Marxist political economics and the theory of scientific socialism. 能够运用马克思主义哲学、马克思主义政治经济学与科学社会主义理论等知识分析和解决实际问题。",
+        "Method of teaching and learning": "Lectures are delivered on a weekly basis, with the use of case studies to illustrate and exemplify the main ideas. The University’s virtual learning environment (including Learning Mall Online & Utalk) will be used for online discussion, as well to provide feedback to students. In class quizzes will be carried out to evaluate students’ progress and achievement of the learning outcomes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LMCCT001&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "China: Family and society",
+  "module_code": "CCS204",
+  "offerings": [
+    {
+      "heading": "China: Family and society",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "China: Family and society",
+        "module_code": "CCS204",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "China: Family and society",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To understand the evolution of the Chinese family and the dimensions of its future development",
+        "Learning outcomes": "A. Demonstrate understanding of the complexities related to models of the “Chinese family” and how these are linked to larger social, political and economic processes in China. B. Critically assess strategies and ideologies related to the family and household practices. C. Demonstrate understanding of the implications of the household registration system and its relationship to rural and urban migration. D. Critically evaluate the implications of family planning policies on 21st century China. E. Demonstrate understanding of the contemporary challenges to China’s families and society, such as the ageing population. F. Use analytical skills to present arguments.",
+        "Method of teaching and learning": "Lectures and seminars for rehearsal of weekly topics"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS204&psl_code=SEM1"
+    }
+  ]
+}

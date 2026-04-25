@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOT",
+    "domain_code": "IOTTC",
+    "full_name": "Internet of things"
+  },
+  "full_name": "Machine Learning for IoT",
+  "module_code": "IOT215TC",
+  "offerings": [
+    {
+      "heading": "Machine Learning for IoT",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOTTC",
+        "full_name": "Machine Learning for IoT",
+        "module_code": "IOT215TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Machine Learning for IoT",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to equip students with expertise in the basic principles, techniques and algorithms of Machine Learning (ML) along with their implementation and applications to problems related to IoT.",
+        "Learning outcomes": "A. Demonstrate a good understanding of the theoretical issues related to problems that ML algorithms try to address. B. Demonstrate understanding of the properties of existing and new ML algorithms. C. Learn current methods in ML and apply them to various problems. D. Demonstrate proficiency in identifying and customising aspects on ML algorithms to meet particular needs.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This means that the delivery pattern follows intensive block teaching approach, which allows for meaningful contributions from a practical perspective. This philosophy is emphasised within the design of module assessments, with a reduction in the use of exams and an increase in coursework, with a particular emphasis on problem-based, task-based and/or project focused assessments. The delivery pattern provides space in the semester for students to concentrate on completing their assessments by using Python. Students will be expected to attend formal lectures, tutorials and lab sessions. In addition, students will be expected to devote unsupervised time to private study. Private study will provide time for reflection and consideration of lecture material and background reading. The assessments will evaluate how well students keep up with the material presented in the lectures."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOT215TC&psl_code=SEM2"
+    }
+  ]
+}

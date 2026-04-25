@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "History of the Americas",
+  "module_code": "INS104",
+  "offerings": [
+    {
+      "heading": "History of the Americas",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "History of the Americas",
+        "module_code": "INS104",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "History of the Americas",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the history of the Americas from Native American settlements and early European contact through to the present day. The module examines key aspects of political, economic, cultural and foreign relations between and within the countries in North and South America with a particular thematic focus on conflict, resistance and change. Through this approach, the module highlights areas both of common and conflicting interest across the region and especially between North and South America.",
+        "Learning outcomes": "A. Be familiar with and understand some of the major historical events in the history of the Americas from contact to the present day. B. Identify key areas of conflict, resistance and change within the Americas through a historical understanding of important political, economic, cultural and foreign policy developments in the region. C. Identify areas both of common and conflicting interest within and across the Americas from political, economic, cultural and foreign policy viewpoints. D. Identify important theoretical debates and perspectives related to understanding the history of the Americas. E. Demonstrate an ability to use appropriate research skills F. Produce academic writing which is appropriate for the discipline",
+        "Method of teaching and learning": "Lectures, seminars and private study"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS104&psl_code=SEM2"
+    }
+  ]
+}

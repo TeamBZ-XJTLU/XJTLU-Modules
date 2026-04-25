@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MAT",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Fluid Mechanics and Vector Fields for Engineering",
+  "module_code": "MTH227",
+  "offerings": [
+    {
+      "heading": "Fluid Mechanics and Vector Fields for Engineering",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Fluid Mechanics and Vector Fields for Engineering",
+        "module_code": "MTH227",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Fluid Mechanics and Vector Fields for Engineering",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To introduce the fundamental principles of fluid mechanics and to lay a solid foundation for subsequent work involving mechanical and mechatronic engineering.",
+        "Learning outcomes": "Students completing the module successfully should be able to: A. Apply methods from the theory of vector fields to the study of fluid flows. B. Use mathematical techniques to analyse and solve basic engineering problems in fluid mechanics. C. Recognise and analyse different types of flows appearing in robotic and mechatronic systems. D. Demonstrate independent learning, problem solving and design skills.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures, and tutorials. An In-Class test will be provided in Week 5 and a continuous assessment will be provided in Week 10."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH227&psl_code=SEM1"
+    }
+  ]
+}

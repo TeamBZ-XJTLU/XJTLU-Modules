@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LIFE",
+    "domain_code": "IET",
+    "full_name": "Industry and Enterprise Tailored Education"
+  },
+  "full_name": "Professional Skills for the workplace",
+  "module_code": "IET202",
+  "offerings": [
+    {
+      "heading": "Professional Skills for the workplace",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IET",
+        "full_name": "Professional Skills for the workplace",
+        "module_code": "IET202",
+        "semester": "SEMS"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Professional Skills for the workplace",
+        "Semester": "SEMS"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a theoretical knowledge and practical understanding of workplace skills, such as: • leadership • teamwork • interpersonal communication • self-management • self-reflection These generic skills play crucial roles in professional performance and career success across industries and through in-company/organization experiential learning, students will be able to practice these skills in a real-world context. The awareness and implementation of these skills will also be beneficial for students’ understanding of organizational cultural and how to fit into a professional environment.",
+        "Learning outcomes": "A. Discuss managerial, leadership, and analytical skills relevant to the workplace B. Recognise the important role of effective working relations and how positive teamwork dynamics can develop and maintain working relationships. C. Discover effective interpersonal and communication skills relevant to their professional setting(s). D. Develop capabilities in self-management and self-reflection.",
+        "Method of teaching and learning": "Classroom teaching, situational teaching, case study analysis, and seminar-based class discussion."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IET202&psl_code=SEMS"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Multimedia Information Retrieval and Technology",
+  "module_code": "INT309",
+  "offerings": [
+    {
+      "heading": "Multimedia Information Retrieval and Technology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INT",
+        "full_name": "Multimedia Information Retrieval and Technology",
+        "module_code": "INT309",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Multimedia Information Retrieval and Technology",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to present the basic and advanced techniques for text-based information systems: efficient text indexing; Boolean and vector space retrieval models; evaluation and interface issues; text/Web clustering, classification; text mining. The module also covers the fundamentals of multimedia, including image, audio and digital video. The module covers content-based operations such as indexing, retrieval, filtering, summarization, and information extraction and is applied to text, image, spoken audio and digital video information. Students learn modern methods for the capture, encoding, storage, transmission and presentation of digital multimedia information including both the underlying information theory and media specific techniques for perceptual coding.",
+        "Learning outcomes": "A. Analyse the fundamental principles underlying information retrieval and multimedia systems, as well as information theory. B. Apply appropriate information retrieval and multimedia processing techniques to practical problems, and evaluate system performance using standard metrics. C. Analyse and specify user and system requirements for multimedia information retrieval applications, and design appropriate solutions. D. Analyse theoretical aspects of coding and apply suitable compression techniques to multimedia data in real-world contexts. E. Design and evaluate coding algorithms for diverse applications in multimedia and information retrieval.",
+        "Method of teaching and learning": "This module integrates theoretical lectures with problem-solving tutorials and practical lab sessions in order to cover the key principles and techniques of information retrieval and coding. Through the combination of theoretical understand with practical application, it enables students to analyse, design and evaluate systems for efficient information storage and retrieval"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT309&psl_code=SEM1"
+    }
+  ]
+}

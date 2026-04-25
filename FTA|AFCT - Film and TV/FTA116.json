@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Development and Pre-production for TV",
+  "module_code": "FTA116",
+  "offerings": [
+    {
+      "heading": "Development and Pre-production for TV",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Development and Pre-production for TV",
+        "module_code": "FTA116",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Development and Pre-production for TV",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to enable students to develop programme ideas for a television audience and make them aware of the industry standard requirements in pre-production. It will establish the fundamental requirements of developing and preparing ideas across a range of genres in studio and on location. The module also aims to give students the opportunity to work at junior levels on a live studio production and on an outside broadcast insert in the same production.",
+        "Learning outcomes": "A Develop a short form programme idea B Conduct basic research, development and programme planning to take their idea up to the production phase C Contribute to the production of a show.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (lectures and seminars). The lectures will introduce students to the notion that development is a creative phase in TV production; that to create successful TV projects, the development phase involves a substantial amount of ideation and that the development phase is only successful if there is a clear path to pre-production. The seminars will involve participatory workshops, working in the studio and working together in small groups as well as individually. Thus, students will be taught through: Lectures Participatory workshops Individual and small group work Practical sessions and Self directed learning"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA116&psl_code=SEM2"
+    }
+  ]
+}

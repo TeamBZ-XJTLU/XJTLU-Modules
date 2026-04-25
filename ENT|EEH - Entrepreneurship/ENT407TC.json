@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEH",
+    "domain_code": "ENT",
+    "full_name": "Entrepreneurship"
+  },
+  "full_name": "Consulting Project",
+  "module_code": "ENT407TC",
+  "offerings": [
+    {
+      "heading": "Consulting Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENT",
+        "full_name": "Consulting Project",
+        "module_code": "ENT407TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Consulting Project",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This is a semester long group-based consultancy project undertaken for a real client. The client can be related to previous work placements. This is an important element of the second year for students who are following the Intrapreneur track of the programme. It gives students the opportunity to apply the programme material to the solution of a real business problem, and to gain valuable consulting experience. The consultancy project will be in one of the pathways that the student has chosen to follow: Smart Cities, Business; Circular Economy; Creative Technology; Technology Transfer Management; and Enterprise Governance, Innovation, and Succession.",
+        "Learning outcomes": "A Demonstrate the ability to link theory to practice in a consultancy capacity, showing how theory informs practice, and the impact on problem-solving. B Develop key skills including individual, team-working, problem-solving and analytical skills C Apply a critical understanding of the organization in which the consulting project is based upon",
+        "Method of teaching and learning": "The module focuses on challenges faced by companies such as implementing a new strategy, strategic management, company’s transformation, how to diversify by innovation. Working in groups, and guided by an industry and an academic mentor, students will be involved in Project(s) to solve complex business issues where collective cooperation will enable them to co-build solutions to solve the case."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENT407TC&psl_code=SEM1"
+    }
+  ]
+}

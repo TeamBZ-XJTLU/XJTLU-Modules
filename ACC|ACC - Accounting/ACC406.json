@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Corporate Reporting and Auditing I",
+  "module_code": "ACC406",
+  "offerings": [
+    {
+      "heading": "Corporate Reporting and Auditing I",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Corporate Reporting and Auditing I",
+        "module_code": "ACC406",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Corporate Reporting and Auditing I",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To enable students to apply technical knowledge, analytical techniques and professional skills to resolve compliance and business issues that arise in the context of the preparation and evaluation of corporate reports and from providing audit services. To require students to use technical knowledge and professional judgement to identify, explain and evaluate alternatives and to determine the appropriate solutions to compliance issues, giving due consideration to the needs of clients and other stakeholders. The commercial context and impact of recommendations and ethical issues will also need to be considered in making such judgements.",
+        "Learning outcomes": "A. evaluate corporate reporting policies and assess whether they are in compliance with related reporting standards B. evaluate the audit process and assess whether they appropriate in the context of audit objectives C. apply technical knowledge and professional skills to complex scenarios and recommend and justify appropriate actions",
+        "Method of teaching and learning": "A range of teaching and learning methods will be utilized on this module. Core substantive knowledge will be delivered in weekly seminars. Interactive questions will be discussed in the seminars after each topic. Homework will be assigned to reinforce the knowledge. Comprehensive cases will be discussed from time to time to demonstrate complex scenarios."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC406&psl_code=SEM2"
+    }
+  ]
+}

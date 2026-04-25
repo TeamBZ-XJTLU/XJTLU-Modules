@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Research Project Design And Management",
+  "module_code": "ENV401",
+  "offerings": [
+    {
+      "heading": "Research Project Design And Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Research Project Design And Management",
+        "module_code": "ENV401",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Research Project Design And Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim is to train students in designing research projects, by identifying a research topic, formulating research questions and hypotheses and evaluating different approaches to examine hypotheses. Based on this research design the second aim is to train students on how to execute and manage a research project from the start to the end.",
+        "Learning outcomes": "A Identify a research topic that is valuable, interesting, and novel. B Demonstrate the ability to identify the research gap after critically reviewing relevant literature of the topic C Develop research questions and formulate testable hypotheses D Formulate a research plan to test the hypotheses with in-depth understanding on the principles of sampling strategy, experiment/questionnaire design, and data analysis methods E Develop timelines and milestones after considering the feasibility of time, space, labor, ethics, and safety management F Understand the principles of project management",
+        "Method of teaching and learning": "The module will be delivered by lectures, seminars and discussions. Each student will first need to confirm a supervisory team after discussing with academic staff and then design his/her own future research project starting from a general interest idea into formulating a concrete action plan. Each week there will be a general introduction, followed by each student further developing their research proposal under the guidance of the supervisory team, followed by a class discussion of the strengths and weaknesses of each proposal. Finally, students will revise each proposal section and do a final presentation in class."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV401&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CIEHX",
+    "domain_code": "ENT",
+    "full_name": "Entrepreneurship"
+  },
+  "full_name": "HR Digital Transformation and Implementation Strategy",
+  "module_code": "HXA407TC",
+  "offerings": [
+    {
+      "heading": "HR Digital Transformation and Implementation Strategy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENT",
+        "full_name": "HR Digital Transformation and Implementation Strategy",
+        "module_code": "HXA407TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "HR Digital Transformation and Implementation Strategy",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module examines what digital transformation in human resources (HR) means, what it entails, and the challenges organisations face in enabling it. It prepares students to lead and participate in implementation and to adopt AI-empowered HR digital transformation where appropriate in a context-sensitive and evidence-based manner. By studying this module, students will understand the benefits of HR digital transformation and the latest technologies applied to management practice, such as AI, machine learning and people analytics. Students will explore how to develop and implement data-driven and AI-empowered HR strategies for both established organisations and entrepreneurial firms, gaining a deep understanding of how to initiate, execute and sustain critical HR digital transformation projects.",
+        "Learning outcomes": "A. Demonstrate a critical understanding of how to utilise data analytics, including data sources and collection methods, as well as a range of HR technologies (conventional, AI-empowered, and other emerging technologies) to support digital HR transformation and make informed talent and business decisions. B. Understand representative approaches to identifying and solving business challenges related to digital HRM in various organisational contexts. C. Apply emerging tools required to support the digital transformation of HR practices at the organisational, functional and individual levels.",
+        "Method of teaching and learning": "Based on the philosophy of Syntegrative Education, this module’s delivery pattern follows more intensive block teaching, and allows more meaningful contribution from industry partners. This delivery pattern provides space for students to concentrate on completing the problem-based and project-oriented assessments. This module will be delivered through a series of key lectures/seminars. This module provides in-depth overviews of the key trends, issues, and methods involved in strategically implementing digital HR. Drawing on real-world case studies and recent research, student will discover effective digital HR adoption strategies and develop the technological capabilities needed to enhance employee management and productivity."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=HXA407TC&psl_code=SEM2"
+    }
+  ]
+}

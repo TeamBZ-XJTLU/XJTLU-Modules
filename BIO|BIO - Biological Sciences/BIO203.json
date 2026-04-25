@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Medical Microbiology and Virology",
+  "module_code": "BIO203",
+  "offerings": [
+    {
+      "heading": "Medical Microbiology and Virology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Medical Microbiology and Virology",
+        "module_code": "BIO203",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Medical Microbiology and Virology",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide a comprehensive introduction to the diverse range of pathogenic microbes that infect humans, focusing on the molecular interactions that enable these organisms to cause disease and evade host defenses. By adopting a thematic approach, the module explores the interplay between pathogens and microbiologists, utilizing case studies to examine exemplar groups of pathogens in depth. In addition, the module offers a dedicated section on Virology, covering essential topics such as the basic properties of viruses, their classification, genetics, structure, and replication strategies. Students will gain fundamental knowledge in virus cultivation and assay techniques. The course also introduces various viral diseases, along with their control measures and treatment options.",
+        "Learning outcomes": "A. Describe the fundamental concepts, structures, and replication cycles of bacterial, fungal, and viral pathogens, and outline the standard laboratory techniques used to identify and characterize them. B. Identify and explain the primary routes of microbial transmission and the key components of host defense mechanisms involved in human disease processes. C. Understand the role of virulence factors and how they enable pathogens to evade the host immune system, contributing to infection and disease progression. D. Evaluate the effectiveness and limitations of chemotherapy and immunization in the control of infectious diseases, and explore the therapeutic and research applications of viruses in medicine and molecular biology. E. Demonstrate the ability to present scientific findings effectively, apply critical thinking, and utilize scientific writing skills to address problems related to microbial pathogenesis and host-pathogen interactions.",
+        "Method of teaching and learning": "Course content will be delivered primarily through standard lectures, accompanied by suitable handouts that will also be available on the Learning Mall (LMO). Students will be directed to relevant sections of specific textbooks and provided with access to essential literature, including reviews and other sources. Revision lectures and exercises will be incorporated to help students self-assess their understanding of the material."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO203&psl_code=SEM1"
+    }
+  ]
+}

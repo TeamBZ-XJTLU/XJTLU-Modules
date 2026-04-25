@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LIFE",
+    "domain_code": "IET",
+    "full_name": "Industry and Enterprise Tailored Education"
+  },
+  "full_name": "Industry-Based Project",
+  "module_code": "IET203",
+  "offerings": [
+    {
+      "heading": "Industry-Based Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IET",
+        "full_name": "Industry-Based Project",
+        "module_code": "IET203",
+        "semester": "SEMS"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Industry-Based Project",
+        "Semester": "SEMS"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this industry based project is to provide students with the opportunity to undertake independent PRACTICAL research in the field of industry. To successfully complete this module, students should identify, evaluate, and apply knowledge to investigate a particular issue or problem and propose recommendations and solutions. The module provides students with opportunities to: (i) apply their learning from their Bachelor’s programme of study to analyse contemporary and ‘cutting edge’ problems and issues of relevance to practitioners; (ii) develop an ability to integrate concepts, theories and ideas from business or management literatures; (iii) build knowledge and understanding of a particular topic of interest to them and/or their host organisation; (iv) produce a piece of work from conception through to a final report; (v) develop independent research, analysis, problem definition, information collection, and report writing skills; (vi) enhance their intellectual, transferable and employability skills and, it follows, their career prospects, and (vii) build capacity for individual initiative and judgement. To successfully complete this module, students should identify, evaluate, and apply knowledge to investigate a particular management issue or problem and propose recommendations and solutions.",
+        "Learning outcomes": "A Comment upon theory and practice that is of relevance to the research topic. B Develop an ability to collect, evaluate and analyse a range of data and sources of information, and to use that research for evidence-based decision-making. C Show an ability to investigate issues, questions and problems through the design and implementation of a research project and methodology appropriate for the research topic. D Acquire capabilities in the acquisition, organisation, analysis and presentation of conceptual and empirical materials obtained from primary and/or secondary sources E Demonstrate skills in reflection on the relationship between theory and professional practice.",
+        "Method of teaching and learning": "Classroom teaching, interaction analysis, case study, group exercises and enterprise-based on-site practices."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IET203&psl_code=SEMS"
+    }
+  ]
+}

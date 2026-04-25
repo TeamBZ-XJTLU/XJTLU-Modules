@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Management of Change, Innovation and Entrepreneurship",
+  "module_code": "IOM426",
+  "offerings": [
+    {
+      "heading": "Management of Change, Innovation and Entrepreneurship",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Management of Change, Innovation and Entrepreneurship",
+        "module_code": "IOM426",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Management of Change, Innovation and Entrepreneurship",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module addresses some of the most important topics that will increasingly occupy students time as they progress in their careers and are called up on to respond to the challenges posed by uncertain, complex and dynamic business environments. This course is therefore designed to have an integrative role across the MSc Project Management programme, creating systemic bridges to other mission critical models. Equipping Managers to adopt change management practices will engage them in a learning experience that will explore and develop the competencies and capabilities managers need to demonstrate including Visioning, Developing teams and developing leadership. It will adopt a strategic approach to change incorporating elements of leadership and learning in addition to tried and tested change models.",
+        "Learning outcomes": "A. Enable students to acquire knowledge and understanding of theoretical and practical aspects of business and management in relations to managing strategic change. B. Discuss the problems faced in an organization when leading and managing change, and remedies to the problems. C. Demonstrate the opportunities and challenges presented by innovation, creativity, and entrepreneurship. D. Demonstrate the importance of learning in an organization for overall development and change. E. Show the importance of practical judgement and choice in creatively addressing the opportunities and challenges presented by innovation and creativity. F. Provide the factors that influence the adoption, acceleration, and resistance to change. The importance of leading personal transformation so as organizational transformation can be possible.",
+        "Method of teaching and learning": "The learning strategy that underpins the above learning outcomes is founded on a series of pedagogical principles that promote the integration of theory and practice, the importance of critical thinking, prudence and practical judgement and effective and efficient action. A variety of teaching and learning techniques that will be employed in the delivery of the course, including guest speakers, intensive tuition and case analysis."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM426&psl_code=SEM2"
+    }
+  ]
+}

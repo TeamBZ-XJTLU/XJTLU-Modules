@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Integrated Case Study",
+  "module_code": "ACC411",
+  "offerings": [
+    {
+      "heading": "Integrated Case Study",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Integrated Case Study",
+        "module_code": "ACC411",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Integrated Case Study",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of the module are to develop analytical, problem solving and communication skills, in respect of complex business issues, in the context of being a professional accountant. The module will assess the completion of these objectives through the completion of a scholarly business report based on a strategic management case for a particular company, which will use information and data available in the public domain. The level of skills requirements for this module will comprise – but not strictly refer to – the skills requirements stated by ICAEW - Case Study module – Advanced Level. N.B: in some cases and when this is possible, proprietary information provided by the company under study might also be used.",
+        "Learning outcomes": "a. Assimilate and using information from various sources which may conflict or interact b. Structure problems and solutions relating to a complex and extended scenario c. Apply judgement including on business ethical issues, recommend and justify actions when ethical issues arise d. Formulate conclusions, recommendations and communicating results in the form of a written report as well as in the form of an oral presentation e. Demonstrate integrative and multidisciplinary skills, including technical knowledge and analytical, evaluative and integration skills from Corporate Reporting and Strategic Business Management, as well as advisory, judgmental and communication skills acquired through practical work experience that the students may have gained throughout the programme f. Demonstrate good research skills i.e. including use information technology efficiently and effectively, reading difficult texts, data collection and organisation, and apply critical reflection in using data.",
+        "Method of teaching and learning": "The module is mainly composed of seminars, lectures, and lab sessions delivered throughout the semester to equip students with the skills needed to write a scholarly business report. Practical Lab will aim to provide a range of tools and simulation cases to help students review their progress and benchmark their work. It will involve group activities and discussions"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC411&psl_code=SEM1"
+    }
+  ]
+}

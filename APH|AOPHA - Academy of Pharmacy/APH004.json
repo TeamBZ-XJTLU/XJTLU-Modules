@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "From Ancient Remedies to Modern Breakthroughs",
+  "module_code": "APH004",
+  "offerings": [
+    {
+      "heading": "From Ancient Remedies to Modern Breakthroughs",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "From Ancient Remedies to Modern Breakthroughs",
+        "module_code": "APH004",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "From Ancient Remedies to Modern Breakthroughs",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Drug discovery is the process of identifying new chemical compounds or biological entities that have the potential to be developed into safe and effective treatments for various diseases. The history of drug discovery dates back thousands of years, with early civilizations using natural substances to treat illnesses. Also, drug discovery at presence using the advanced tools, such as computational and high-throughput screening methods will be discussed. The module will provide Year 1 students who are interested in medical sciences a broad coverage of drug discovery from ancient civilization to the modern high-tech approaches.",
+        "Learning outcomes": "A. Demonstrate understanding of the historical context of drug/medicine development in different cultures. B. Show familiarity with the key milestones of drug discovery, such as the discovery of penicillin and its impact on the society. C. Show familiarity with some advanced techniques applied in drug discovery, such as computational tools, high-throughput screening methods",
+        "Method of teaching and learning": "Course content will be delivered primarily via standard lectures that will be accompanied by suitable lecture handouts (also available on LMO). Tutorials will be given as a platform to address any specific question or issue from students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH004&psl_code=SEM2"
+    }
+  ]
+}

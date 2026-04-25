@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Teaching and Learning for Children with Special Needs",
+  "module_code": "EDS421",
+  "offerings": [
+    {
+      "heading": "Teaching and Learning for Children with Special Needs",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Teaching and Learning for Children with Special Needs",
+        "module_code": "EDS421",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Teaching and Learning for Children with Special Needs",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module focuses on quality practice in pedagogy, particularly for special educational needs (SEN) students. We will explore how teachers can equip learners with special needs for life and engage them with valued forms of mainstream learning; how they can promote the active engagement of the SEN learner, assess their needs, and recognize the significance of mainstream, informal, and teacher learning. We will also introduce key psychological ideas that have been applied to teaching SEN students in schools and how teachers can work with parents and caregivers to meet the needs of SEN students",
+        "Learning outcomes": "A. Develop applications of the key pedagogical ideas and practice-based issues regarding teaching SEN students in schools and other alternative teaching settings B. Demonstrate awareness of theoretical frameworks and relevant research findings regarding teaching SEN students in schools and other alternative practice-based settings C. Differentiate and apply theories, principles, methodologies, strategies, techniques, materials, and research findings to enhance teaching practice for SEN students D. Design courses and related materials appropriate to student’s level, interests, need, background and learning context",
+        "Method of teaching and learning": "This module employs a blended delivery format combining lectures and tutorials, centered on Research-Led Project-Based Learning (RLPBL). Through these sessions, students gain essential conceptual, theoretical, and methodological knowledge while engaging in collaborative and individual work, critical reflection, and iterative development of curriculum design projects."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS421&psl_code=SEM1"
+    }
+  ]
+}

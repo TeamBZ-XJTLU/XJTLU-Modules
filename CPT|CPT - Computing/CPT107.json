@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Discrete Mathematics and Statistics",
+  "module_code": "CPT107",
+  "offerings": [
+    {
+      "heading": "Discrete Mathematics and Statistics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Discrete Mathematics and Statistics",
+        "module_code": "CPT107",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Discrete Mathematics and Statistics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims are: 1. To introduce the fundamental notation, terminology, and techniques of Theoretical Computer Science. 2. To provide the necessary mathematical foundations used in Computer Science and for understanding computation. 3. To introduce key proof techniques for reasoning about data and computation. 4. To introduce the essential mathematical tools needed for specifying requirements and programs, and for analysing algorithms. Discrete Mathematics provides the essential logical and mathematical foundation for information and computing science. Its topics—including logic, set theory, relations, and proof techniques—are directly applied in the design of algorithms, data structures, and database systems. Mastering these concepts is therefore critical for success in all subsequent areas of a computer science degree.",
+        "Learning outcomes": "A. Apply proof techniques to solve problems, demonstrating logical reasoning and critical thinking. B. Perform operations on sets by applying suitable concepts and notation from set theory. C. Manipulate and reason about unary relations, binary relations, and functions. D. Represent statements and analyse formulas in propositional logic and first-order predicate logic. E. Apply fundamental counting and enumeration methods as these arise in analysing permutations and combinations. F. Perform calculations involving discrete probability and statistics.",
+        "Method of teaching and learning": "Lectures: Students will be expected to attend formal lectures in a typical week. Formal lectures will be used to introduce students to the concepts and methods covered by the module. Tutorials: Supporting tutorials are held each week in which students work under staff guidance on problem sets designed to reinforce understanding of the lecture material with the possibility of immediate feedback. Private study: In a typical week students will be expected to devote approximately 6 hours of unsupervised time to private study; private study will provide time for reflection and understanding of lecture materials, background reading and completion of the assessment tasks. Assessment: Continuous assessment will be used to test to the extent of theorectieal ideas grasped. A final examination at the end of the module will assess the academic achievement of students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT107&psl_code=SEM1"
+    }
+  ]
+}

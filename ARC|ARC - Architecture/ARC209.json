@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "ARC",
+    "full_name": "Architecture"
+  },
+  "full_name": "Generative Design Studio",
+  "module_code": "ARC209",
+  "offerings": [
+    {
+      "heading": "Generative Design Studio",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ARC",
+        "full_name": "Generative Design Studio",
+        "module_code": "ARC209",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Generative Design Studio",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "ARC209 Generative Design Studio is an intensive design studio that introduces students to architectural design as a generative and process-driven practice, where form emerges through iteration, transformation, and strategic decision-making rather than predefined solutions. The module focuses on design as an active and adaptive process, encouraging students to explore how spatial and material configurations are shaped by relationships, constraints, and contextual conditions. Emphasis is placed on understanding form as dynamic and relational, capable of evolving across scales in response to environmental, programmatic, and constructive parameters. Grounded within the architectural discipline and aligned with the programme’s emphasis on design intelligence, adaptability, and creative agency, the studio supports students in linking conceptual thinking with making, testing, and representation. Through intensive studio-based work, students develop confidence in navigating complexity and uncertainty as productive drivers of design. ARC209 occupies a strategic position within the programme structure, consolidating foundational design competencies while preparing students for more advanced design studios and methodologies in subsequent levels, including intelligent, computational, and adaptive design approaches.",
+        "Learning outcomes": "A. Apply a generative and process-driven design approach to develop design proposals in response to a defined brief and a set of contextual conditions. B. Explore and manipulate spatial, formal, and material relationships through iterative processes of transformation, variation, and adaptation. C. Develop and communicate a coherent design process, clearly articulating the evolution of ideas from initial concept to spatial and material configuration. D. Identify and integrate external constraints and conditions—such as context, material behaviour, fabrication logic, and basic feasibility considerations—as active drivers of design decisions. E. Use making, prototyping, and testing as tools for design exploration, supporting the translation of abstract ideas into tangible and spatial outcomes. F. Communicate design intentions clearly and critically using a range of visual, physical, and digital methods, appropriate to different stages of design development. G. Experiment with digital and intelligent design tools, including AI-assisted processes where appropriate, as exploratory supports for iteration, evaluation, and informed design decision-making.",
+        "Method of teaching and learning": "Project The module is delivered as an intensive, studio-based learning experience, structured around weekly sessions combining short lectures, design workshops, and small-group tutorials. Teaching activities support iterative exploration, critical reflection, and continuous formative feedback within an active and collaborative studio environment. Learning is organised around the interaction of three complementary design agents, which operate in parallel throughout the studio: • Crafted physical drawing and modelling, enabling direct engagement with form, materiality, and scale; • Digital tools and fabrication processes, supporting iterative testing, variation, and feasibility-driven development; • AI-supported design workflows, introduced as exploratory tools to assist ideation, iteration, comparison, and informed design decision-making. Lectures provide conceptual frameworks, references, and operative strategies related to generative and process-driven design. Studio tutorials focus on the progressive development of individual projects through dialogue, testing, and refinement. Students are expected to undertake independent research and design development outside scheduled contact hours. The intensive nature of the studio encourages deep engagement with learning through making, fostering autonomy, critical judgement, and creative agency across physical, digital, and intelligent design environments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ARC209&psl_code=SEM1"
+    }
+  ]
+}

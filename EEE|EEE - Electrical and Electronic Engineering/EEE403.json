@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Power System Network and Smart Grid",
+  "module_code": "EEE403",
+  "offerings": [
+    {
+      "heading": "Power System Network and Smart Grid",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Power System Network and Smart Grid",
+        "module_code": "EEE403",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Power System Network and Smart Grid",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Power System Network and Smart Grid provides postgraduate students with a comprehensive understanding of power system network modelling, analysis and planning under both steady state and faulted conditions, equipping them with the skills to model, analyse, design and plan modern smart grid systems. It trains postgraduate students to handle both qualitative and quantitative research methodologies in academic professional contexts and to present research outputs within limited time. This module prepares postgraduate students for the final year project, laying the methodological and analytical foundation necessary for conducting rigorous and impactful research.",
+        "Learning outcomes": "A. Analyse power system operation under steady-state conditions, employing techniques such as load flow analysis and state estimation integrated with Phasor Measurement Units (PMUs). B. Evaluate power system security, stability, and market fundamentals to propose designs for electricity markets that support smart grid integration. C. Select and apply optimisation theories and techniques for the economic operation of power systems, justifying the chosen approach based on problem characteristics and operational constraints. D. Analyse power system fault conditions using symmetrical components and design appropriate protective schemes. E. Design and critically assess smart grid architectures, evaluating their performance and resilience with high penetration of renewable energy sources.",
+        "Method of teaching and learning": "The module employs a diverse range of teaching and learning methods to support students in mastering advanced research skills. These include interactive lectures to introduce key concepts and theories, lab sessions for practising modelling, designing, planning and analysis techniques of smart grid systems. Meanwhile, students are encouraged to present research findings on certain selected topics during the presentation sessions. Independent study is emphasised, with students tasked to review literatures, write academic reports and utilise commercial software for data processing and analysis."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE403&psl_code=SEM1"
+    }
+  ]
+}

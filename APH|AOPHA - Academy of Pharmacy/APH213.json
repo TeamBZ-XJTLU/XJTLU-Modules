@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Pharmaceutics",
+  "module_code": "APH213",
+  "offerings": [
+    {
+      "heading": "Pharmaceutics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Pharmaceutics",
+        "module_code": "APH213",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Pharmaceutics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "At the end of the module, the students will be able to: - understand of the principles and practice of a variety of dosage forms, regulatory and pharmacopoeial requirements associated with the development of medicines - understand biopharmaceutical factors affecting manufacturing, stability and storage of medicines for liquid and solid dosage forms. - determine suitable sterilization process, packaging systems and storage condition for different active pharmaceutical ingredients (API). - develop knowledge and practical skills required for the preparation of medicines on a small scale",
+        "Learning outcomes": "A Design drug formulations for a variety of solid and liquid dosage forms, understand the excipients used and calculate their relative proportions B Demonstrate procedures in the preparation of selected drug dosage forms; perform small scale manufacturing operation C Discuss the relationship between formulation, drug delivery and therapeutic effectiveness D Determine suitable manufacturing process, packaging materials and storage condition required for different dosage forms E Perform quality control tests according to designed specification F Work within Good Laboratory Practice and Good Pharmaceutical Manufacturing Practice guidelines.",
+        "Method of teaching and learning": "The contents of the lecture component of the module will be delivered using standard lectures accompanied by hand-outs (online and in classroom). Experts from the industry will be invited to co-deliver the module. The practical component will be conducted in purpose-built teaching laboratories. The session will highlight critical parts of the practical where particular care is needed, both from a safety viewpoint and also to facilitate successful completion. In the laboratory session, students will work individually or in small groups. Lecture handouts and lab notes will complement the learning experience. Students will attend a 2-hour lecture per week and 4-hour lab practicals for 8 weeks. Students will also be given guidance and opportunities to practice the various skills mentioned in the specifications. Self-study activities will be extensions or consolidations of work carried out in the lecture. Assessment components of this module will include: 1) questions or tests in lectures or lab practicals; 2) coursework to review the topics; 3) group discussion or report of the lab practicals and topics; and 4) presentation of a critique of the teaching topics. The feedback will help improve the teaching quality and ensure the quality of summative assessment. Timely, relevant and specific, constructive and actionable feedback will be provided to students in-class, on-paper and/or in-person on for each assignment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH213&psl_code=SEM1"
+    }
+  ]
+}

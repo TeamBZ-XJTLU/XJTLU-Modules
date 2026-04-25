@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Advanced Semiconductor Materials And Devices For Efficient Power Conversion",
+  "module_code": "EEE417",
+  "offerings": [
+    {
+      "heading": "Advanced Semiconductor Materials And Devices For Efficient Power Conversion",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Advanced Semiconductor Materials And Devices For Efficient Power Conversion",
+        "module_code": "EEE417",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Semiconductor Materials And Devices For Efficient Power Conversion",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The power electronics and semiconductor devices have increasingly been vital for efficient power conversion. The main contributions in this growth have come from the rapid development of advanced semiconductor materials, packaging structures and functionality integration concepts. In that, various generations of semiconductor devices have evolved and been widely applied to power generation systems. To this end, this module is prepared to introduce various state-of-the-art semiconductor devices for efficient power conversion.",
+        "Learning outcomes": "A. Understand the physical structure and electrical properties of semiconductor materials. B. Describe semiconductor junctions and structures using the fundamental concepts and equations of semiconductor device analysis. C. Understand how the terminal characteristics of junction diodes, bipolar transistors, and field-effect transistors derive from device structure and material properties. D. Understand the fabrication process of semiconductor devices.",
+        "Method of teaching and learning": "This module will be delivered as a combination of formal seminars, tutorials, and supervised laboratory sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE417&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Advanced Statistics In Environmental Sciences",
+  "module_code": "ENV405",
+  "offerings": [
+    {
+      "heading": "Advanced Statistics In Environmental Sciences",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Advanced Statistics In Environmental Sciences",
+        "module_code": "ENV405",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Statistics In Environmental Sciences",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides students with a comprehensive understanding of statistical theories and methods relevant to environmental sciences, with a particular emphasis on the application of R, a powerful statistical programming language, and state-of-the-art AI tools to enhance statistical analysis and environmental research.",
+        "Learning outcomes": "A. Demonstrate a deep understanding of statistical theories and methodology in peer-reviewed articles with the assistance of the R language and AI tools. B. Apply statistical methods to analyze environmental data, leveraging R's analytical capabilities and AI assistance to improve accuracy and efficiency. C. Interpret statistical results to draw conclusions and present these findings using R's visualization tools and AI-assisted data storytelling. D. Present statistical works in written and verbal forms effectively, integrating R-based analyses and AI-generated insights.",
+        "Method of teaching and learning": "The module is delivered through a series of lectures, seminars, and AI-integrated computer-based practicals. AI-assisted lectures introduce statistical theories and models specific to environmental sciences and demonstrate their implementation with the R language. Practicals provide hands-on experience with R and AI tools for data analysis. Seminars encourage students to apply these models and tools to real-world environmental problems, using R and AI tools for data manipulation, analysis, and visualization."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV405&psl_code=SEM1"
+    }
+  ]
+}

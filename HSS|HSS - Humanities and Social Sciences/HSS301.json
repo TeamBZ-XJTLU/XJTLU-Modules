@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HSS",
+    "domain_code": "HSS",
+    "full_name": "Humanities and Social Sciences"
+  },
+  "full_name": "Health Humanities",
+  "module_code": "HSS301",
+  "offerings": [
+    {
+      "heading": "Health Humanities",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "HSS",
+        "full_name": "Health Humanities",
+        "module_code": "HSS301",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Health Humanities",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to key themes and issues in the interdisciplinary field of health humanities. The aim of the module is to develop students’ understanding of key themes and issues in medical humanities, including representations of illness, disability, and care in literary and other texts, the semiotics of health and illness, the language of health and illness, and the interaction between health, gender, ethics, society, culture, history, and religion, and enable students to become aware of a variety of approaches to health humanities. The module aims to be of interest too students with both a Humanities and Science background.",
+        "Learning outcomes": "A. Demonstrate knowledge of key themes and issues in health humanities. B. Work with and think critically about texts from a variety of genres, disciplines, and/or historical periods. C. Structure a coherent and critically informed analysis of texts (in the broad sense of ‘cultural texts’) D. Discuss the relationship between health, medicine, culture, and mind",
+        "Method of teaching and learning": "The teaching sessions are divided into two components. Lectures introduce students to relevant knowledge of key themes and issues in medical humanities and a variety of approaches to it. Seminars develop critical discussions about the topic."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=HSS301&psl_code=SEM1"
+    }
+  ]
+}

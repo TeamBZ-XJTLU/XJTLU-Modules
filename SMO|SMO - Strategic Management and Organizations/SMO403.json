@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Strategic Organisational Design",
+  "module_code": "SMO403",
+  "offerings": [
+    {
+      "heading": "Strategic Organisational Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Strategic Organisational Design",
+        "module_code": "SMO403",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Strategic Organisational Design",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module relates organizational theory to corporate strategy and strategic design and explores how both connect. It aims at developing students’ ability to analyze and evaluate the possible ways of an organization to shape, arrange and change itself as a system in the pursuit of its business purpose and goals in a changing environment. The module examines leading-edge theories and practice of aligning strategy and operating context with organization design, business and group processes for corporate performance.",
+        "Learning outcomes": "A. Explain why organization design is a strategic management imperative integral to performance in and of organizations B. Elaborate on the theoretical and practical linkages between organizations and environmental factors, corporate strategy and performance C. Identify the dynamics that shape organizational form, structure and conduct in contemporary business environments D. Describe and critically evaluate classic and contemporary theories about organizational design E. Diagnose organizational situations and processes in order to appreciate alternative choices and approaches for improving organization performance",
+        "Method of teaching and learning": "This module will be delivered through a combination of key seminars delivered in weekly sessions through to week 10 of the semester. In addition, students will be required to work within study groups, which will operate through LM (the university’s virtual learning environment). During weeks 11 to 14 of the semester, students will focus on completing the assessed coursework with the support and guidance of the module leader."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO403&psl_code=SEM1"
+    }
+  ]
+}

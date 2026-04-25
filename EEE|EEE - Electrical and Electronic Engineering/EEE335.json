@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Electrical Machines And Power Systems",
+  "module_code": "EEE335",
+  "offerings": [
+    {
+      "heading": "Electrical Machines And Power Systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Electrical Machines And Power Systems",
+        "module_code": "EEE335",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Electrical Machines And Power Systems",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To equip students with the electrical system’s fundamental concepts related to electrical machines and power systems, which include but not limited to rotating magnetic fields, co-energy, machine equivalent circuits, power generation, transmission, and distribution, as well as the relevant analytical methods such as machine performance prediction, steady-state and transient analyses, and power flow study.",
+        "Learning outcomes": "A. Interpret the physical laws of electromagnetism and mechanics in electrical machines to evaluate their performance and characteristics, as well as the physical rules in power generation, transmission, and distribution. B. Synthesize theoretical and practical solutions for electrical machines and power system issues by applying classical methodologies, such as equivalent circuits, phasor analysis, and rotating magnetic fields. C. Formulate and solve the problems related to power flows, dynamics, generator synchronization in power systems. D. Develop and implement a holistic and proportionate approach to the mitigation of security risks of power systems.",
+        "Method of teaching and learning": "The teaching methods of this module utilize a wide and rich variety of teaching approaches to support students in mastering the complex and advanced techniques of electrical machine principles and power system analysis. This includes formal yet lively teaching lectures that focus on introducing important concepts, principles, and analytical methods; the operation, verification, and analysis of phenomena of electrical machines based on advanced experimental equipment; analysis and exploration in combination with cutting-edge technologies such as artificial intelligence; and targeted and challenging tutorials. In addition, students are also required to conduct targeted independent self-learning in combination with the current mainstream technical directions such as smart grids and renewable energy."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE335&psl_code=SEM1"
+    }
+  ]
+}

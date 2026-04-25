@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "UPD",
+    "full_name": "Urban Planning and Design"
+  },
+  "full_name": "Neighborhood Planning",
+  "module_code": "UPD110",
+  "offerings": [
+    {
+      "heading": "Neighborhood Planning",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "Neighborhood Planning",
+        "module_code": "UPD110",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Neighborhood Planning",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To equip students with theories and knowledge required to address important issues in neighbourhood planning • To develop a student’s appreciation of the importance of planning at the neighbourhood scale for a diverse society • To enable students to employ basic research and planning methods at the neighborhood scale",
+        "Learning outcomes": "A. critically discuss issues of neighbourhood planning B. understand the importance of planning at the neighbourhood scale for a diverse society C. utilize methods learned in this course to identify local neighbourhood needs D. demonstrate relevant skills in neighbourhood planning",
+        "Method of teaching and learning": "The module comprises lectures, tutorials and workshops."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD110&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Intermediate Physical Chemistry",
+  "module_code": "CHE202",
+  "offerings": [
+    {
+      "heading": "Intermediate Physical Chemistry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Intermediate Physical Chemistry",
+        "module_code": "CHE202",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Intermediate Physical Chemistry",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module covers several subject areas of physical chemistry: thermodynamics, kinetics, quantum mechanics, spectroscopy, and photochemistry. The aims are to 1. revised and extend the study of the 1st and 2nd laws of thermodynamics to chemical reactions, 2. study the basic ideas and factors affecting the rates of chemical reactions. 3. give an more advanced coverage in quantum mechanics. 4. reinforce some aspects of molecular spectroscopy.",
+        "Learning outcomes": "By the end of the module, students should be able to: A. effectively apply thermodynamic principles to predict phase equilibria of mixtures and ionic solutions. B. discuss the rate of reaction and reaction mechanisms through studying kinetics of reactions. C. demonstrate an understanding of the basic concepts of quantum mechanics. D. apply Schrödinger equation to for translational, vibrational, and rotational motions. E. apply quantum mechanical wavefunction to describe molecular orbital (MO) and make predictions of the bonding in molecules. F. discuss spectroscopy as the result of energy transitions between atomic/molecular energy levels and decay mechanisms.",
+        "Method of teaching and learning": "The material presented at the lectures and its application for solving problems is supported by work in small group tutorials and interactive events. Students are expected to prepare the answers to tutorial problem questions and submit them before tutorials. Discussions during tutorials will focus on problems caused the most difficulties. Two summative tests will be introduced to monitor continuously student’s learning progress."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE202&psl_code=SEM2"
+    }
+  ]
+}

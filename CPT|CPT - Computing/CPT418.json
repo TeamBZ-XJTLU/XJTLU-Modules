@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Human-AI Interaction",
+  "module_code": "CPT418",
+  "offerings": [
+    {
+      "heading": "Human-AI Interaction",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Human-AI Interaction",
+        "module_code": "CPT418",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Human-AI Interaction",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with a critical understanding of how humans interact with artificial intelligence systems across various contexts. It explores key theories, methods, and design principles that guide the development of effective, trustworthy, and human-centred AI systems. Through interdisciplinary perspectives, the module encourages students to examine both the opportunities and challenges that arise in human-AI collaboration, including issues of transparency, agency, ethics, and usability. This module fits within the MSc Human-Computer Interaction programme. It builds foundational knowledge and practical skills necessary for designing and evaluating AI systems that align with human values and cognitive capabilities. By bridging HCI principles with emerging AI technologies, the module prepares students to contribute meaningfully to the development of collaborative, adaptive, and responsible AI systems in research and industry.",
+        "Learning outcomes": "A Critically evaluate key concepts, theories, and design frameworks in Human-AI Interaction, including interpretability, trust, and human agency in AI systems. B Apply user-centred design principles to the development and assessment of AI-enabled systems, justifying design choices through critical consideration of transparency, fairness, and usability. C Critically analyse real-world scenarios involving human-AI collaboration and and identify design opportunities or risks using appropriate research and evaluation methods” with “, assessing design opportunities and risks through riguourous research and evaluation methods. D Design and prototype interaction models that support effective human-AI collaboration, evaluating the impact of ethical, social, and cognitive factors in AI integration.",
+        "Method of teaching and learning": "The module will be delivered through a combination of lectures and lab sessions. Students are required to attend a two-hour lecture and engage in a two-hour lab each week. The lectures will introduce students to the theoretical foundations of human-AI interaction, including key concepts such as explainability, trust, and collaborative intelligence. Lab sessions will provide opportunities for students to apply these concepts through hands-on activities, including the design, analysis, and evaluation of interactive AI systems. Students are also expected to apply the knowledge and skills acquired in lectures and labs to complete coursework tasks involving case analysis and system design. Independent learning and critical reflection will be encouraged throughout the module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT418&psl_code=SEM1"
+    }
+  ]
+}

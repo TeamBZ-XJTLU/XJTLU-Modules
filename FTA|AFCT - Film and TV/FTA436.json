@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Independent Producing and Management",
+  "module_code": "FTA436",
+  "offerings": [
+    {
+      "heading": "Independent Producing and Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Independent Producing and Management",
+        "module_code": "FTA436",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Independent Producing and Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: This module is designed for students to apply the concept, process and practice in independent production and its project management techniques. This module allows students work on an independent project from the university or with external partners. Objectives: Students can produce an individual creative project either self-generated or via collaborations with external partners. The aim of this module is to enhance the knowledge and skills of filmmaking, to develop and manage video project independently, also to discover the marketing and operational mode for indie film. Each student will work with a practice-based staff member as the project advisor. With the guidance, students will go through a process with idea pitching, content development, client/project negotiation, audience research, marketing plan, crew management and production procedures.",
+        "Learning outcomes": "A Demonstrate a professional level on a creative independent project with the ability of critical analysis, research, storytelling and video production skills. B Demonstrate the ability of communication and negotiation with project management. C Critically evaluate the creative output supported by relevant theoretical contexts. D Develop a critical awareness of issues and demonstrate effective solutions within production and promotion environment.",
+        "Method of teaching and learning": "This module is research-driven and practice-based in terms of helping student to develop an independent project. Students will be mentored by staff with industrial experiences through lectures and seminars, in order to discover the creation and operation mode of completing a video project individually."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA436&psl_code=SEM2"
+    }
+  ]
+}

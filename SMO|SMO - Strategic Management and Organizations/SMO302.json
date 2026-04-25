@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Organisational Change and Development",
+  "module_code": "SMO302",
+  "offerings": [
+    {
+      "heading": "Organisational Change and Development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Organisational Change and Development",
+        "module_code": "SMO302",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Organisational Change and Development",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide an understanding of change and its impact on organisational growth and sustainability. It also emphasizes the role of leadership in change management.",
+        "Learning outcomes": "Students completing the module successfully should: A. Interpret the concept of organisational development (OD) and its impact on performance and change management; B. Explain change and its impact on organisations; C. Explain the evolution of OD; D. Interpret the role of leadership in change management; E. Evaluate the change management process; F. Assess the effort made through OD to ensure organizational growth.",
+        "Method of teaching and learning": "This module is delivered on a weekly through a combination of lectures and tutorials. Typically 2 hour lecture and 1 hour tutorial per week."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO302&psl_code=SEM2"
+    }
+  ]
+}

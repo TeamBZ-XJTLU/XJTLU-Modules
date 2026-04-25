@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Principles of Natural Language Processing",
+  "module_code": "INT311",
+  "offerings": [
+    {
+      "heading": "Principles of Natural Language Processing",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "INT",
+        "full_name": "Principles of Natural Language Processing",
+        "module_code": "INT311",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Principles of Natural Language Processing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to let students develop a basic understanding of the fundamental tasks of natural language processing, practical skills of applying NLP models and ability to analyze the limitations of popular NLP methods. The course covers both traditional NLP algorithms, and modern deep learning methods.",
+        "Learning outcomes": "A Demonstrate an understanding of the fundamental tasks in NLP, including tokenization, part of speech tagging, syntactic and semantic parsing. B Demonstrate an understanding of inference methods in NLP, such as dynamical programming and beam search. C Demonstrate an intuitive understanding of neural networks used in NLP, including Long Short Term Memory Network, Gated Recurrent Unit and Transformer. D Solve NLP tasks with existing models. E Analyse and evaluate NLP systems and algorithms and make informed decisions about their suitability and effectiveness for different NLP tasks and domains.",
+        "Method of teaching and learning": "Students will be expected to attend two hours of formal lectures as well as to participate in two hours of supervised practical (tutorial/lab) classes in a typical week in collaboration with industry partners. Students will be asked to devote eight hours of unsupervised time for reflection and consideration of lecture material and will be required to research and read widely on the subject."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT311&psl_code=SEM1"
+    }
+  ]
+}

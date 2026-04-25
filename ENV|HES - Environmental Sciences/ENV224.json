@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Climate Change and Risk",
+  "module_code": "ENV224",
+  "offerings": [
+    {
+      "heading": "Climate Change and Risk",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Climate Change and Risk",
+        "module_code": "ENV224",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Climate Change and Risk",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module explores the science of climate change and global warming, focusing on climate risks and extreme weather risks. Students will study the causes and effects of these risks, as well as strategies to mitigate them. The course will emphasize climate change and risk from an ESG perspective, including climate risk assessment and management, and natural catastrophes in reinsurance finance. Additionally, students will also develop programming skills to visualize and analyze climate datasets.",
+        "Learning outcomes": "A: Understand the science of climate change and extreme weather events. B: Apply climate risk assessment methods to evaluate the vulnerability of ecosystems, infrastructure, and communities to extreme weather. C: Develop strategies for mitigating and adapting to climate risks, with a focus on enhancing resilience in vulnerable sectors. D: Develop programming skills to analyze and visualize climate datasets. E: Communicate climate risk assessments effectively to stakeholders and integrating these insights into broader ESG frameworks.",
+        "Method of teaching and learning": "This module is delivered by lectures, seminar, field visits, and lab sessions. The lab sessions will develop programming skills to visualize and analyze climate datasets. The seminars may include invited talks and case studies, and include the students’ own presentations."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV224&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FAM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Statistical Methods forActuarial Science",
+  "module_code": "MTH236",
+  "offerings": [
+    {
+      "heading": "Statistical Methods forActuarial Science",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Statistical Methods forActuarial Science",
+        "module_code": "MTH236",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Statistical Methods forActuarial Science",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To introduce statistical methods with a strong emphasis on applying standard statistical techniques appropriately and with clear interpretation. Interspersed with graphical and robust techniques.The emphasis is on applications in Actuarial Science.",
+        "Learning outcomes": "A. Demonstrate understanding of the concepts of: a random variable, a distribution, a statistical model. B. Use method of moments and method of maximum likelihood and analyse the properties of estimators. C. Calculate confidence intervals and prediction intervals. D. Understand the concepts of hypothesis testing and use basic tests for the one-sample and two-sample situations. E. Apply permutation approach to non-parametric hypothesis tests and use chi-square to test the goodness of fit and independence of two classification criteria. F. Explain fundamental concepts of Bayesian statistics including prior distribution, posterior distribution and conjugate prior distribution and calculate simple conditional probabilities and Bayesian estimates of parameters.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorial sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH236&psl_code=SEM1"
+    }
+  ]
+}

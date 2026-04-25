@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "APM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Bridging Math, Physics, and Entrepreneurship",
+  "module_code": "MTH128",
+  "offerings": [
+    {
+      "heading": "Bridging Math, Physics, and Entrepreneurship",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Bridging Math, Physics, and Entrepreneurship",
+        "module_code": "MTH128",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Bridging Math, Physics, and Entrepreneurship",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module, designed for Year 2 undergraduate students, helps them understand the role of mathematics and physics in business innovation through theoretical teaching and case studies. This module equips students with the mindset and skills to identify entrepreneurial opportunities in mathematics and physics, build teams, analyse markets, integrate resources, and design business models. This module enhances students' ability to use English in business contexts through reading case studies, writing business plans, and delivering pitches.",
+        "Learning outcomes": "A Demonstrate the understanding of the theories and concepts underpinning entrepreneurship. B Apply innovative methods in mathematics and physics to solve business problems, including identifying key trends. C Effectively communicate mathematical ideas to diverse audiences, including those without a strong mathematical background. D Collaborate effectively in teams to design and present entrepreneurial ideas and/or innovations. E Deliver professional reports and presentations using level-appropriate English language skills.",
+        "Method of teaching and learning": "The module will be delivered through formal lectures and tutorial activities. Lectures will introduce fundamental entrepreneurial concepts, innovative thinking with mathematics and physics, resource integration, and business model design. Tutorials will support the comprehension of the lecture and self-study, and provide students with opportunities to develop their understand of key concepts through a range of group-work activities. In addition, students will learn key skills relevant to the assessment tasks."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH128&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IND",
+    "domain_code": "IND",
+    "full_name": "Industrial Design"
+  },
+  "full_name": "Statics and Solids",
+  "module_code": "IND109",
+  "offerings": [
+    {
+      "heading": "Statics and Solids",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IND",
+        "full_name": "Statics and Solids",
+        "module_code": "IND109",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Statics and Solids",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To introduce basic principles of statics and to illustrate the application of these principles to the formulation and solution of a range of representative engineering problems.",
+        "Learning outcomes": "A Describe and define the fundamental concepts and principles in statics and mechanics of material B Comprehend the mathematical models for static analysis of mechanical systems C Apply appropriate mathematical models for static analysis for mechanical systems D Identify the applicability and the limitations of the techniques",
+        "Method of teaching and learning": "Lectures and tutorials are integrated, i.e. each lecture contains new theoretical topics, worked examples and opportunities for students to solve problems. Some lectures are used as pure tutorials. Coursework, which enable students to use the acquired knowledge in an integrated manner, are given in essential parts of the syllabus. Midterm examination is adopted to enable students to acquire the knowledge efficiently. Final term examination is used to assess the comprehensive learning results of students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IND109&psl_code=SEM2"
+    }
+  ]
+}

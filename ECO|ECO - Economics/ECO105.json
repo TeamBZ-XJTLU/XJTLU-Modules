@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Introduction to Business and Economics",
+  "module_code": "ECO105",
+  "offerings": [
+    {
+      "heading": "Introduction to Business and Economics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Introduction to Business and Economics",
+        "module_code": "ECO105",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Business and Economics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide an opportunity for students to gain a clear understanding about the essentials of a specific branch of the economic world, business and investment industry with the context of economics and the professional responsibilities within it, at a preliminary level. In addition, the learning outcomes of the module are closely associated with the Investment Foundations ProgramTM curriculum from the Chartered Financial Analyst (CFA) Institute. Successful completion of this module will help students to better prepare for the CFA Investment Foundations Program examination.",
+        "Learning outcomes": "A. Demonstrate an appreciation of how ethics and regulation provide essential foundations for client-focused investment activities B. Appreciate the economics context where actions of the individuals, corporations and government play out at micro, macro and international levels C. Comprehend the main types and purpose of basic investment options, from conventional equities and bonds to more specialized investment such as real estate and derivatives D. Appreciate the basic structure of the business and investment industry in terms of the aims, participants, key activities and products of the industry",
+        "Method of teaching and learning": "The module will be delivered by a combination of lectures, and tutorials. Lectures are designed to provide essential information and introduce students to the basic tools and concepts in the business and investment industry and related issues. Tutorials will provide students with the opportunity to further develop their learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO105&psl_code=SEM1"
+    }
+  ]
+}

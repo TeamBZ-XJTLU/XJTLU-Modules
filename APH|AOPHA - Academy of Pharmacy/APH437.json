@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Personalized Medicine",
+  "module_code": "APH437",
+  "offerings": [
+    {
+      "heading": "Personalized Medicine",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Personalized Medicine",
+        "module_code": "APH437",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Personalized Medicine",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "With the advancing of general biomedicine, personalized medicine (covering drugs, therapeutics, managements, etc) became realizable and is popularizing in more populations. This module targets high graders of undergraduates of the Academy of Pharmacy, and postgraduates who enroll into AoP programs but with a BS/BA degree unrelated with medicine or pharmacy (including chemistry, biology, etc). This module aims to: 1) introduce general concepts, principles, theories, and methodologies in the several fundamental disciplines including (anatomy, histology and embryology, physiology, pathology, microbiology and immunology, medicinal genetics), highlighting their potential causative diseases that might lead to development of personalized medicine; 2) introduce the pathways for recognizing, classifying and diagnosing diseases suitable for personalized medicine; 3) introduce the basic concepts, rationales, category, application and pro/cons of personalized medicine; 4) introduce the methodologies and ethics in developing, manufacturing, storage and transporting of personalized medicines; 5) introduce the main issues in delivering personalized medicines in clinal practice.",
+        "Learning outcomes": "A: Demonstrate a familiarity with the concepts of and differences among personalized medicine, individualized medicine, precision medicine. B: Explain the general concepts, principles, theories, and methodologies in the fundamental disciplines underlying the medical sciences. C: Be familiar with the concepts, rationales, category, application, pro/cons of personalized medicine. D: Recognize the features or diseases that are suitable for or requiring personalized medicine. E: Understand the methodologies and ethics in developing, manufacturing, storage and transporting of personalized medicines. F: Understand the main issues in delivering personalized medicines in clinical practice.",
+        "Method of teaching and learning": "The teaching sessions divide into four tracks, namely lectures, seminars, lab practice, and tutorials. LECTURES will be used to introduce students to the concepts, theories and the applications covered by the module, supported by materials on LMO and other web-based resources. Handouts will be made available to students in classrooms and on LMO. Animations and/or videos will be shown for some of the topics. SEMINARS will be delivered by specialties from different lines of personalized medicine, each covering an important area. For example, specific target antibodies, gene therapy for rare diseases, etc. LAB EXPERIMENTS will offer a batch of experiments that as whole covers the main aspects of personalized medicine but are for students to select some or all. This track will equip the students with the critical skills in developing personalized medicine, such as monoclonal antibody production, gene therapy vector design and manufacturing, etc. Experiments will be delivered as teams work, with the size and grouping depending on the number of the registered students. TUTORIALS will help students to deepen their understanding on the subjects of the module, which will run in ways like personal report, group discussion, reviewing and reflection, Q&A, and feedback to coursework. The assessment has 3 components: literature review, lab reports, and examination. Literature review will reflect the grasp of overall and strategical knowledge concerning the subjects taught in this module. The length for the Literature Review is 2000-3000 words. Lab reports will be a coursework assigned as team work for each group. Exam will test the grasp of basic concepts taught in the class."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH437&psl_code=SEM2"
+    }
+  ]
+}

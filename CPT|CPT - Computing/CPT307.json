@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Advanced Operating System and Programming",
+  "module_code": "CPT307",
+  "offerings": [
+    {
+      "heading": "Advanced Operating System and Programming",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Advanced Operating System and Programming",
+        "module_code": "CPT307",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Advanced Operating System and Programming",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students the fundamental knowledge to the creation and maintenance of modern operating systems, and to equip students with system programming skills. Fit in the Programme (1) Advanced knowledge of computing system. System design and programming is advanced knowledge for understanding how software interacts with hardware. It builds a deep technical skill set that complements higher-level programming. (2) Practical problem solving. Students gain insight into performance optimization, memory management, and system debugging, which are critical and transferable to various areas of computing, including operating systems, embedded systems, and performance-critical applications. (3) Career preparation. Knowledge of system design and programming is crucial for careers in software development, systems engineering, and performance-critical applications.",
+        "Learning outcomes": "A. Demonstrate a clear understanding of the key components of a computer system (CPU, memory, I/O devices) and their interaction. B. Demonstrate a clear understanding of the core functions of operating systems, including process management, memory management, file systems, and I/O handling. C. Analyse and improve the performance of computer software systems by applying theoretical knowledge of operating systems. D. Master skills in developing efficient code for the system resources",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures, tutorial, and computer lab sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT307&psl_code=SEM2"
+    }
+  ]
+}

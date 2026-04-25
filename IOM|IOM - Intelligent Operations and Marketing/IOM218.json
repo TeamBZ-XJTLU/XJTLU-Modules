@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Cybersecurity Management",
+  "module_code": "IOM218",
+  "offerings": [
+    {
+      "heading": "Cybersecurity Management",
+      "listing": {
+        "academic_year": "2028/29",
+        "domain_code": "IOM",
+        "full_name": "Cybersecurity Management",
+        "module_code": "IOM218",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2028/29",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Cybersecurity Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with a foundational knowledge of cybersecurity management. It will cover all the elements which constitute cybersecurity management and explain how all these elements are related. Through developing an understanding of these relationships, still will learn why cybersecurity management is not just a technical issue. Rather, it is but one part of a carefully balanced infrastructure, which will be discussed throughout the course.",
+        "Learning outcomes": "A. Demonstrate an awareness of all the elements which are used to create cybersecurity management. B. Understand why cybersecurity management is as much a social issue as it is a technical issue. C. Explain what are risks and how they are created. D. Identify the causes of a cybersecurity breach.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures and tutorials. The lectures will introduce the subject areas listed in the syllabus. These will be accompanied by the tutorials, which will highlight and expanded on particular topics discussed in the lectures through exercises/case studies. Reading materials will include the course textbook and specially selected journal papers. The latter will be available via LMO as will the module slides and tutorial material. Students will be expected to devote unsupervised time to private study and assessment tasks."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM218&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MLC",
+    "domain_code": "CLT",
+    "full_name": "Chinese Language"
+  },
+  "full_name": "Chinese Language 6",
+  "module_code": "CLT006",
+  "offerings": [
+    {
+      "heading": "Chinese Language 6",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CLT",
+        "full_name": "Chinese Language 6",
+        "module_code": "CLT006",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Chinese Language 6",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students linguistically and culturally to communicate successfully in Chinese, and help them to meet the requirements for CEFR B1- equivalence. All the Chinese language modules have been developed taking into account the QAA benchmark statements for a full or minor component in a language. QAA benchmark statements relate to the language component comprising at least one-third of the study total, resulting in students at the end of the relevant degree programme being at level C1. These Chinese modules make up less than one third of study and so the realistic minimum that would be achieved for a student starting at a beginner level in year 1 is CEFR B1+, though students with some initial knowledge would be at B2+.",
+        "Learning outcomes": "A. Demonstrate understanding of straightforward factual information spoken clearly in Chinese B. Demonstrate a general understanding of the main points in texts on subjects of personal interest in Chinese C. Deliver an oral presentation on experiences and events, and exchange information in the context of a discussion in Chinese D. Write comprehensible connected texts on familiar topics in Chinese E. Demonstrate general understanding of Chinese cultures and societies.",
+        "Method of teaching and learning": "Communicative language teaching involves a high level of interaction between teacher and students. Teaching and assessment will revolve around the setting and completion of specified language tasks. This module includes 2*2 hours seminars plus 1 hour lecture per week. Students will have 4 hours per week of integrated skills class, covering reading, writing, listening and speaking skills. The lecture, which is a large group practice and review session, will be designed to support student learning in and after class."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CLT006&psl_code=SEM2"
+    }
+  ]
+}

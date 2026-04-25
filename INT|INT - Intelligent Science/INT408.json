@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Deep Learning in Computer Vision",
+  "module_code": "INT408",
+  "offerings": [
+    {
+      "heading": "Deep Learning in Computer Vision",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INT",
+        "full_name": "Deep Learning in Computer Vision",
+        "module_code": "INT408",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Deep Learning in Computer Vision",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Visual recognition tasks such as image classification, localization and detection are core to many of computer vision applications. Recent developments in neural network approaches (“deep learning”) have greatly advanced the performance of these state-of-the-art visual recognition systems. This course focuses on the details of these deep learning architectures, particularly image classification. During this course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision and multimedia applications.",
+        "Learning outcomes": "A. Critically evaluate state-of-the-art deep learning technologies, assessing their strengths and limitations in terms of performance, computational efficiency, and applicability to specific domains. B. Analyse complex, real-world computer vision problems and design effective solutions through the selection and adaptation of existing deep learning technologies, justifying the architectural and methodological choices. C. Develop, implement, and evaluate deep learning models for computer vision tasks, utilising appropriate programming frameworks and validation methodologies to assess model performance and robustness. D. Investigate a current challenge in computer vision by synthesising research literature and formulating a novel deep learning-based approach or a critical analysis of existing methods. E. Critically assess the legal, social, ethical, and professional implications of deploying deep learning systems in computer vision applications, and propose mitigation strategies for identified risks. F. Function effectively within a development team by managing collaborative workflows, integrating individual contributions, and reflecting on team dynamics and project outcomes.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures and lab sessions. The lab experiments will be performed using C/C++, MATLAB or PYTHON or other software tools for deep learning. For each lab a report shall be prepared, two of these will count towards the summative assessment for the module. A final examination consisting of a number of problem/design based questions as well as questions aimed at examining the students grasp of the subject theory will form the remainder of the summative assessment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT408&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HSS",
+    "domain_code": "HSS",
+    "full_name": "Humanities and Social Sciences"
+  },
+  "full_name": "Creativity in Motion: Communicating Through Games and Digital Media",
+  "module_code": "HSS005",
+  "offerings": [
+    {
+      "heading": "Creativity in Motion: Communicating Through Games and Digital Media",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "HSS",
+        "full_name": "Creativity in Motion: Communicating Through Games and Digital Media",
+        "module_code": "HSS005",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Creativity in Motion: Communicating Through Games and Digital Media",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will focus on practice-based, project-oriented, interdisciplinary creative communication through the study of transmedia storytelling. Taking as our case studies several franchises that span comics, video and mobile games, fanfiction, and film, students will learn about scripting, representation, and adaptation. The students will participate in group projects and create an episode of fanfiction using AI comic generator Dashtoon. This module will empower students to put their creativity into practice and teach them skills applicable in the job market: problem-solving, creative AI prompt engineering, and finding gaps in the market. Looking at the world of gaming, the module will situate popular Western and Chinese video games in an international context and consider cross-cultural translation and localization as opportunities for global audience engagement. The module has links to the Chinese gaming industry (A Perfect World) and the Canadian Games Institute (University of Waterloo). Designed for prospective students across disciplines—including humanities, design, computer science, and business—this module highlights the power of storytelling as a strategic, analytical, and creative tool. Students will develop transferable skills in narrative design, digital collaboration, AI literacy, and intercultural communication. These capabilities are increasingly sought after across industries such as marketing, game development, user experience (UX), education, and creative entrepreneurship, making this module relevant to both academic and professional futures.",
+        "Learning outcomes": "A Explain basic concepts of transmedia storytelling B Evaluate elements of fanfiction C Create comics using AI comics generator tools D Script and design fanfiction episode",
+        "Method of teaching and learning": "Lectures will introduce students to modes of storytelling and adaptations across media including games, comics, film, and social media. Seminars will take an interactive approach and prompt students to gain understanding of foundational concepts. Labs will enable students to work on their group projects. The best final projects will be exhibited in a public showcase."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=HSS005&psl_code=SEM2"
+    }
+  ]
+}

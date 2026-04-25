@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Key Skills for Chemistry and Materials Science",
+  "module_code": "CHE111",
+  "offerings": [
+    {
+      "heading": "Key Skills for Chemistry and Materials Science",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Key Skills for Chemistry and Materials Science",
+        "module_code": "CHE111",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Key Skills for Chemistry and Materials Science",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module equips students with the basic quantitative transferable skills required for level 1 Chemistry and Masterials Science degree programme and general transferable skills with a focus on communication",
+        "Learning outcomes": "A. Perform calculations as required in analytical chemistry and physical chemistry B. Represent data via graphs, particularly straight line graphs, and regression C. Understand general Health & Safety rules D. Employ transferable digital skills for chemistry E. Present, discuss and debate on a chemistry-related topic",
+        "Method of teaching and learning": "Lectures and tutorials"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE111&psl_code=ACYR"
+    }
+  ]
+}

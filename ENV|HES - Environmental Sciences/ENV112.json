@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Quantitative Field Skills, Data Collection and Analysis for Environmental Scientists",
+  "module_code": "ENV112",
+  "offerings": [
+    {
+      "heading": "Quantitative Field Skills, Data Collection and Analysis for Environmental Scientists",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Quantitative Field Skills, Data Collection and Analysis for Environmental Scientists",
+        "module_code": "ENV112",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Quantitative Field Skills, Data Collection and Analysis for Environmental Scientists",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module follows up on ENV111 that is taught in Year 2 semester 1. It further develops key field skills for students in environmental science. It focuses on methods and techniques to quantify regularity and heterogeneity of field physical properties. Additionally, it focuses on the learning of methods to quantify vegetation and selected animal groups in different habitats. The module provides students with skills needed to do basic environmental monitoring, and sampling; and it establishes foundations for designing experimental research projects. This is accomplished through a hands-on approach combining field work around the University Campus and a short residential field trip. Data collected from field sampling/quantification also are analysed, summarised and reported in basic visual/written/oral forms. Rather than an all-inclusive approach, the module intends to develop basic skills for students who can deepen in the subjects independently.",
+        "Learning outcomes": "A Demonstrate understanding and basic application of methods to quantify physiochemical variables in the field B Demonstrate understanding and basic application of methods to quantify organisms in the field C Demonstrate ability to summarize quantitative information from field variables in visual, oral and written forms D Demonstrate ability to work in small groups efficiently E Apply quantitative field skills and data analysis to a small project",
+        "Method of teaching and learning": "The module will be delivered in a mixture of lectures, where background of the topics is first introduced, then, hands-on field aspects for these topics are carried out to practice main techniques to measure environmental variables and organisms in selected habitats. After the practical part in the field, collected data is summarised using specialised software and main aspects of learning are discussed There will be a guided project-based component which will be developed in small groups. *Should the University decide to cancel or postpone the field trip due to unforeseen environmental and/or political circumstances, the Department will either plan an appropriate substitute activity to meet the intended learning outcomes of the trip or make necessary arrangements to organize the trip at a later time, as appropriate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV112&psl_code=SEM2"
+    }
+  ]
+}

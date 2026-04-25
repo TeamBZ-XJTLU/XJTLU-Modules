@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Survey Sampling",
+  "module_code": "APH103",
+  "offerings": [
+    {
+      "heading": "Survey Sampling",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Survey Sampling",
+        "module_code": "APH103",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Survey Sampling",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "In statistics, survey sampling describes the process of selecting a sample of elements from a target population to conduct a survey. Sampling is an important concept in statistics, and survey sampling is essential in epidemiological methodology. Knowledge and skills in survey data analysis is one of the fundamental abilities as a bio or medical statistician. The aim of this module is to provide students an opportunity to gain sufficient knowledge and skills relevant to survey sampling.",
+        "Learning outcomes": "A Understand the core concepts of survey sampling B Acquire a thorough knowledge of major sampling methodology C Comprehend important topics in survey methodology D Gain sufficient statistical knowledge and skills in survey data analysis E Command computational and software skills related to survey sampling F Demonstrate familiarity with applications of survey sampling in real world",
+        "Method of teaching and learning": "The module is delivered through a combination of lectures and tutorials over a period of 13 weeks. In lectures, students are introduced to the core concepts, major methodology and common topics of survey sampling, and to the procedures of data analysis for survey data. Tutorials are given as a platform to address any specific question or issue from individual students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH103&psl_code=SEM2"
+    }
+  ]
+}

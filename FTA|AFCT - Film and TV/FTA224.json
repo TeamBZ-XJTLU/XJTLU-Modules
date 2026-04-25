@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Minor TV Project",
+  "module_code": "FTA224",
+  "offerings": [
+    {
+      "heading": "Minor TV Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Minor TV Project",
+        "module_code": "FTA224",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Minor TV Project",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module builds on the introductory skills, knowledge and understanding learnt in COM130, Studio roles and responsibilities and COM 132, Series Production. The aim of this module is to help students learn the nature of work undertaken in television studios and in creating TV Formats. Television work is dependent on high volume, formatted series where each episode differs from the next one, but all the episodes follow the same format. This module aims to help students work in appropriately sized groups for the various activities that form part of television studio production – research, planning, script development and scripting and production of ‘content’ within the confines of a pre-determined programme format. Those students working off-campus will work individually in the planning of a formatted show and, when possible of creating prototype scenes for the proposed show.",
+        "Learning outcomes": "A. Conduct research to find suitable contributors and programme content B. Prepare and deliver programme paperwork or programme planning paperwork to enable multiple recordings or the planning of multiple recordings in a series of recording blocks. C. Undertake production or planning roles to ensure timely recording or planned recording of series, both as individuals and in large groups (where appropriate). D. Undertake post-production or post-production planning roles to ensure timely delivery or planned delivery of a series, both as individuals and in small groups (where appropriate).",
+        "Method of teaching and learning": "Students both on and off-campus will attend a seminar session each week. Onsite students will have four hours of practical sessions per week, which will be mainly studio based. Off-campus students will attend the practical sessions where appropriate. All students will discuss programme idea and content generation in the seminars and execute their ideas in the practicals. Off-campus students will execute a plan for their idea. So typically, they will engaged in: Seminars Participatory workshops Individual, small and large group work Practical sessions Self-directed learning"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA224&psl_code=SEM1"
+    }
+  ]
+}

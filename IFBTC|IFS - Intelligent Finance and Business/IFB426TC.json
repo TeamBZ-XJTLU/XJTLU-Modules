@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Sustainable Investing",
+  "module_code": "IFB426TC",
+  "offerings": [
+    {
+      "heading": "Sustainable Investing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Sustainable Investing",
+        "module_code": "IFB426TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Sustainable Investing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with a foundational and applied understanding of how sustainability issues have become relevant to the investment decisions by corporate managers, professional investors, and any participant in the market in response to global sustainability challenges. It focuses on the integration of environmental, social, and governance (ESG) considerations into financial decision-making, capital flows, and risk management across both public and private markets. Students will learn how ESG factors influence mixed sectors in finance, how to interpret different metrics of companies to access financial returns, and how to measure risks associated with sustainable issues such as climate change. Sustainable investing is now a common practice in the financial markets. This course also covers basic knowledge of impact investing and sustainable and responsible investment by investment firms. Students will learn how to apply their knowledge and skills to real world sustainable issues in finance. A key element of the module is a simulation-based exercise where students take on the role of ESG analysts or portfolio managers to make investment decisions in a dynamic, scenario-based environment. This interactive simulation enables students to experience the trade-offs between financial returns and ESG risks, respond to unfolding market events, and evaluate the real-time impacts of their portfolio strategies. As part of the Intelligent ESG pathway, this module also emphasizes how intelligent technologies—such as AI, alternative data, and ESG analytics platforms—are transforming how investors and managers assess ESG risks and opportunities and measure real-world impact.",
+        "Learning outcomes": "A. Critically evaluate how ESG factors influence financial markets. B. Interpret and assess ESG metrics, scores, and disclosures to inform investment decisions and evaluate corporate financial performance and sustainability impact. C. Apply financial tools and quantitative methods to construct and evaluate ESG-aligned portfolios. D. Assess the role of climate-related and other sustainability risks in financial analysis. E. Evaluate how emerging technologies such as AI, big data, and fintech platforms are transforming sustainable investment analysis and decision-making. F. Communicate investment recommendations and sustainability insights effectively using appropriate financial language, data visualization, and stakeholder-sensitive narratives.",
+        "Method of teaching and learning": "This module follows the Syntegrative Education philosophy, using intensive block teaching to enhance engagement with industry partners and real-world issues. Teaching methods include lectures, seminars, and tutorials to build technical knowledge in sustainable finance and investment. A key feature is the use of simulation, where students act as ESG analysts or portfolio managers in a dynamic, scenario-based environment. Emphasis is placed on coursework over exams, with simulation-based assessments that allow students to apply their learning to practical challenges."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB426TC&psl_code=SEM1"
+    }
+  ]
+}

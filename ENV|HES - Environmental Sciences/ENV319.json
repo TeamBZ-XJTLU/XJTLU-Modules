@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Humans and environmental pollution",
+  "module_code": "ENV319",
+  "offerings": [
+    {
+      "heading": "Humans and environmental pollution",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Humans and environmental pollution",
+        "module_code": "ENV319",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Humans and environmental pollution",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course aims to provide the student with a foundational understanding of: (1) how effects of environmental pollution on human health are assessed, (2) environmentally responsible behavior research, and (3) how environmentally responsible behavioral interventions are evaluated.",
+        "Learning outcomes": "A. Describe the normal cycles of ecosystems. B. Distinguish between major sources and types of environmental pollution. C. Critically assess environmental epidemiology research D. Examine how pollutants interact with the human body. E. Evaluate environmental risk assessment and risk management processes. F. Analyze how environmental health programs are developed, managed, and evaluated.",
+        "Method of teaching and learning": "This module will be delivered through interactive lectures and seminars supplemented with real-world case studies. Students will also learn through independent research and peer-to-peer feedback."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV319&psl_code=SEM1"
+    }
+  ]
+}

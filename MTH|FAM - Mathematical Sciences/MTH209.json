@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FAM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Classical Mechanics",
+  "module_code": "MTH209",
+  "offerings": [
+    {
+      "heading": "Classical Mechanics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Classical Mechanics",
+        "module_code": "MTH209",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Classical Mechanics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide a basic understanding of the principles of Classical Mechanics and their application to simple dynamical systems.",
+        "Learning outcomes": "A. Particles and particle systems. B. Fixed axis rotations. C. Rigid bodies (including geophysical applications such as the precession of the axis of rotation of the earth). D. The two-body problem (the motion of planets, comets, and satellites).",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH209&psl_code=SEM2"
+    }
+  ]
+}

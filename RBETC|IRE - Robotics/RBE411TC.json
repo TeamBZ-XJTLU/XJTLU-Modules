@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "IRE",
+    "domain_code": "RBETC",
+    "full_name": "Robotics"
+  },
+  "full_name": "Internship",
+  "module_code": "RBE411TC",
+  "offerings": [
+    {
+      "heading": "Internship",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "RBETC",
+        "full_name": "Internship",
+        "module_code": "RBE411TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Internship",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is structured for students seeking to acquire work experience, especially those who have not worked before. It aims to train students to adopt a professional approach towards their internships, thereby preparing them for future careers. The module offers valuable work experience via a 6-month internship project, which is aligned with the program's learning activities.",
+        "Learning outcomes": "A. Demonstrate self-management skills such as initiative, adaptability, and accountability. B. Engage effectively with various stakeholders through communication and collaboration while demonstrating mutual respect. C. Deliver efficient results by being achievement-oriented, organizationally efficient, and creative in problem-solving. D. Develop essential professional skills like critical thinking, continuous improvement, and self-presentation.",
+        "Method of teaching and learning": "The module uses the Syntegrative Education philosophy, which involves intensive block teaching and allows significant contribution from industry partners. Assessment methods align with this philosophy, with a focus on coursework and project-focused, problem-based assessments over exams. Additional resources on workplace cultures, project management, CVs, interview techniques, presentation skills, and career options are provided. During the internship, students will be supervised by an industry professional. The university academic staff provide substantial support in choosing an internship from a range of public, private, and charity organizations. The School of Robotics has strong connections with industrial stakeholders such as XBotpark, Deepblue, Ecovacs and Innovance amongst others."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=RBE411TC&psl_code=SEM1"
+    },
+    {
+      "heading": "Internship",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "RBETC",
+        "full_name": "Internship",
+        "module_code": "RBE411TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Internship",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is structured for students seeking to acquire work experience, especially those who have not worked before. It aims to train students to adopt a professional approach towards their internships, thereby preparing them for future careers. The module offers valuable work experience via a 6-month internship project, which is aligned with the program's learning activities.",
+        "Learning outcomes": "A. Demonstrate self-management skills such as initiative, adaptability, and accountability. B. Engage effectively with various stakeholders through communication and collaboration while demonstrating mutual respect. C. Deliver efficient results by being achievement-oriented, organizationally efficient, and creative in problem-solving. D. Develop essential professional skills like critical thinking, continuous improvement, and self-presentation.",
+        "Method of teaching and learning": "The module uses the Syntegrative Education philosophy, which involves intensive block teaching and allows significant contribution from industry partners. Assessment methods align with this philosophy, with a focus on coursework and project-focused, problem-based assessments over exams. Additional resources on workplace cultures, project management, CVs, interview techniques, presentation skills, and career options are provided. During the internship, students will be supervised by an industry professional. The university academic staff provide substantial support in choosing an internship from a range of public, private, and charity organizations. The School of Robotics has strong connections with industrial stakeholders such as XBotpark, Deepblue, Ecovacs and Innovance amongst others."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=RBE411TC&psl_code=SEM2"
+    }
+  ]
+}

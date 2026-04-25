@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "Data Analytics for Entrepreneurship",
+  "module_code": "DTS001",
+  "offerings": [
+    {
+      "heading": "Data Analytics for Entrepreneurship",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DTSTC",
+        "full_name": "Data Analytics for Entrepreneurship",
+        "module_code": "DTS001",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Data Analytics for Entrepreneurship",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Data Analytics is used to assist businesses in making better business decisions. This module aims to equip students with essential data analytical skills for business, startups and entrepreneurship. This includes fundamental analytical skills and techniques in data science for modelling, prediction, classification etc. Students will also learn how successful organisations use data as an organisational asset by applying a value-creation framework to generate insights from data. Equipped with the knowledge and skills taught in this module, students will be able to understand how value and gains in businesses, startups, and entrepreneurship are created through data.",
+        "Learning outcomes": "A Preprocess, analyse and interpret data using a modern computer package B Summarise and visualise data using a modern computer package C Present findings to a business audience in a suitable format",
+        "Method of teaching and learning": "This module will be delivered through a combination of lectures, group discussions, case studies, and hands-on practical exercises.  The lecture component of this module will provide students with a comprehensive overview of the core concepts and theories of data analytical skills.  Lab/Practical sessions will allow students to apply the techniques and tools to real-world data.  Case studies will be used to provide students with real-world examples of how the concepts and techniques covered in this module can be applied. The teaching and learning methods used in this module will provide students with a comprehensive understanding of the required data analytical skills and techniques and encourage them to think critically and creatively about the topics covered."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS001&psl_code=SEM1"
+    }
+  ]
+}

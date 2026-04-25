@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Financial Mathematics for Actuarial Practice",
+  "module_code": "MTH433",
+  "offerings": [
+    {
+      "heading": "Financial Mathematics for Actuarial Practice",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Financial Mathematics for Actuarial Practice",
+        "module_code": "MTH433",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Financial Mathematics for Actuarial Practice",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module equips students with comprehensive theoretical knowledge in financial mathematics, and how these concepts are applied to actuarial science. Topics include annuities, loans, bonds, immunization, and derivatives pricing, asset/liability management, investment income, capital budgeting, and valuing contingent cash flows.",
+        "Learning outcomes": "A. Apply time value of money principles to perform calculations associated with various non-contingent annuities and cash flows . B. Analyze and price financial instruments, including annuities, loans, and bonds, using appropriate discounting techniques. C. Construct amortization schedules and assess loan performance under different repayment structures. D. Evaluate interest rate risk using duration, convexity, and immunization strategies for fixed-income portfolios. E. Price basic financial derivatives (e.g., forwards, options) using arbitrage-free principles and binomial models.",
+        "Method of teaching and learning": "This module is delivered through formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH433&psl_code=SEM1"
+    }
+  ]
+}

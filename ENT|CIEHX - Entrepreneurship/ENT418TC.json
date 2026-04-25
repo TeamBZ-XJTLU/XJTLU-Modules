@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CIEHX",
+    "domain_code": "ENT",
+    "full_name": "Entrepreneurship"
+  },
+  "full_name": "Strategic Growth and Exit Planning",
+  "module_code": "ENT418TC",
+  "offerings": [
+    {
+      "heading": "Strategic Growth and Exit Planning",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENT",
+        "full_name": "Strategic Growth and Exit Planning",
+        "module_code": "ENT418TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Strategic Growth and Exit Planning",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Venture capital (VC) is a critical source of funding for startups, particularly in technology and innovation-driven industries. It involves providing capital to early-stage companies in exchange for equity, with the goal of achieving significant returns through successful exits. VC funding strategies, portfolio management, and exit planning are all interconnected in maximizing returns while managing the high-risk nature of startup investments. Funding Strategies: Venture capitalists raise capital through limited partnerships with institutional investors. This capital is then deployed across various stages of startup development, including seed, early-stage, and growth-stage funding. Seed funding helps startups build initial products and validate market fit, while later-stage funding supports scaling operations. Portfolio Management: Given the inherent risks in startup investments, venture capitalists diversify their portfolios across various sectors, geographies, and stages of development. Diversification helps mitigate the risk of failure, which is common in early-stage companies. Active portfolio management includes taking board seats, offering strategic guidance, and providing operational support to startups. The ultimate goal is to identify a few high-performing investments that can compensate for potential losses from other ventures, and accordingly prepare for Exits in different forms.",
+        "Learning outcomes": "A Understand the various funding stages in venture capital and the key strategies for raising and deploying capital B Analyse different portfolio management techniques used by VCs to mitigate risk and optimise returns C Evaluate the importance of exit strategies, including IPOs, acquisitions, and secondary sales, in VC ecosystem D Identify different stakeholders involved, source and types of funds, deployment cycles, and the Power Law E Develop strategic insights into balancing risks, liquidity, and returns from portfolio and the VC workflow",
+        "Method of teaching and learning": "This module is led mainly by practice-based teaching with the aim for students to ‘learn-by-doing’. Therefore, highly applied knowledge that cuts across the different facets of entrepreneurship, venture capital, and the vital functions of funding strategies along with portfolio management in that context - remain at the core of curriculum and assessment for this module, which students can apply towards their professional interest in their fields / career. Ultimately this module should develop a future workforce, more prepared to engage with the venture capital sector, from several dimensions be that as investors, entrepreneurs, regulators, or other connected stakeholders. The module will use actual deal-flows to illustrate topics and guide classroom learning, along with skill-specific workshops, plus industry partner project to make learning outcomes more real. Students will participate in group activity plus individually assigned work on-campus or field-study, to solve given task in way that develops their knowledge as well as ability to demonstrate practical learning. Furthermore, the module would also interface with X3 CoVentures, and other such industry associations that provide students additional exposure to ecosystem."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENT418TC&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "DES",
+    "domain_code": "DES",
+    "full_name": "Design"
+  },
+  "full_name": "Design Thinking",
+  "module_code": "DES002",
+  "offerings": [
+    {
+      "heading": "Design Thinking",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DES",
+        "full_name": "Design Thinking",
+        "module_code": "DES002",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Design Thinking",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "As an optional choice in Year 1, Semester 1, the module aims to provide knowledge and skills that contribute to the university graduate attribute framework in any curriculum. In particular, it targets the ability to identify, define, model and respond to open-ended problems. Students will learn how design thinking can leverage research, creativity, and collaboration to ideate innovative solutions to real contemporary challenges.",
+        "Learning outcomes": "A. Identify different types of problems and recognise wicked problems B. Summarise and discuss design thinking as a problem-solving methodology C. Apply design thinking to complex problems D. Recognise the significance of a collaborative approach to complexity",
+        "Method of teaching and learning": "The module is taught in weekly sessions articulated in a lecture and a seminar. The former provides the theoretical framework, while the latter elicits active learning through discussions, case studies and group activities. Seminars will also support students in the development of their coursework."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DES002&psl_code=SEM1"
+    },
+    {
+      "heading": "Design Thinking",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DES",
+        "full_name": "Design Thinking",
+        "module_code": "DES002",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Design Thinking",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "As an optional choice in Year 1, Semester 1, the module aims to provide knowledge and skills that contribute to the university graduate attribute framework in any curriculum. In particular, it targets the ability to identify, define, model and respond to open-ended problems. Students will learn how design thinking can leverage research, creativity, and collaboration to ideate innovative solutions to real contemporary challenges.",
+        "Learning outcomes": "A. Identify different types of problems and recognise wicked problems B. Summarise and discuss design thinking as a problem-solving methodology C. Apply design thinking to complex problems D. Recognise the significance of a collaborative approach to complexity",
+        "Method of teaching and learning": "The module is taught in weekly sessions articulated in a lecture and a seminar. The former provides the theoretical framework, while the latter elicits active learning through discussions, case studies and group activities. Seminars will also support students in the development of their coursework."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DES002&psl_code=SEM2"
+    }
+  ]
+}

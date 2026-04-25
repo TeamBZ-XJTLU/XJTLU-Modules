@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "SCI",
+    "domain_code": "SCI",
+    "full_name": "Science"
+  },
+  "full_name": "Entrepreneurial Education in Science: Innovating for Tomorrow",
+  "module_code": "SCI102",
+  "offerings": [
+    {
+      "heading": "Entrepreneurial Education in Science: Innovating for Tomorrow",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SCI",
+        "full_name": "Entrepreneurial Education in Science: Innovating for Tomorrow",
+        "module_code": "SCI102",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Entrepreneurial Education in Science: Innovating for Tomorrow",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module integrates STEM expertise with entrepreneurial skills to foster the translation of technical knowledge into scalable ventures. By prioritizing market alignment, students learn to navigate complex policy landscapes, societal expectations, and commercialization strategies—guided by frameworks like the Technology-Policy-Society Tri-Dimensional Model. The curriculum emphasizes risk mitigation strategies, intellectual property management, and the development of adaptive business models, preparing learners to address evolving industry demands and regulatory uncertainties. Through collaborative problem-solving exercises, students strengthen cross-disciplinary agility. Sustainability principles and ethical considerations are embedded into project designs, equipping learners to align their innovations with global challenges and institutional goals for research commercialization. Aligned with broader innovation ecosystem objectives, the module bridges the gap between STEM disciplines and entrepreneurship by addressing systemic barriers to translating academic research into real-world solutions. From stakeholder engagement to market-readiness validation, this program cultivates future leaders who can drive ventures, intrapreneurship initiatives, or policy-shaping innovations within dynamic global markets",
+        "Learning outcomes": "A Evaluate case studies using the Technology-Policy-Society framework to identify synergies and conflicts in real-world innovation scenarios. B Apply the Three Elements of Technology Value Conversion (Core Functionality, Monetization, Risk Defense) to transform academic research into viable business models. C Articulate discipline-specific innovation pathways and adapt strategies for startups, corporate R&D, or IP-driven ventures. D Compare success/failure cases to assess alignment of technology scalability, policy compliance, and societal acceptance. E Simulate career transitions during industry disruptions by repurposing core skills. F Structure pitch proposals with quantified social impact, phased scalability roadmaps, and patent/partnership strategies aligned with investor/competition criteria.",
+        "Method of teaching and learning": "This module emphasizes collaborative learning through early team integration. Students will self-organize into 3-person teams during the first week’s interactive activities, which are designed to strengthen peer connections and clarify group roles. All coursework and reports will be submitted collaboratively, reinforcing teamwork as a core component of the program. Content will be delivered through lectures (with slides and resources provided), and students are encouraged to proactively address challenges by consulting peers, reviewing materials independently, or seeking instructor guidance. As the module progresses, teams will apply frameworks to real-world scenarios, culminating in market-focused simulations in later weeks, blending theoretical knowledge with practical group execution."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SCI102&psl_code=SEM1"
+    },
+    {
+      "heading": "Entrepreneurial Education in Science: Innovating for Tomorrow",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SCI",
+        "full_name": "Entrepreneurial Education in Science: Innovating for Tomorrow",
+        "module_code": "SCI102",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Entrepreneurial Education in Science: Innovating for Tomorrow",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module integrates STEM expertise with entrepreneurial skills to foster the translation of technical knowledge into scalable ventures. By prioritizing market alignment, students learn to navigate complex policy landscapes, societal expectations, and commercialization strategies—guided by frameworks like the Technology-Policy-Society Tri-Dimensional Model. The curriculum emphasizes risk mitigation strategies, intellectual property management, and the development of adaptive business models, preparing learners to address evolving industry demands and regulatory uncertainties. Through collaborative problem-solving exercises, students strengthen cross-disciplinary agility. Sustainability principles and ethical considerations are embedded into project designs, equipping learners to align their innovations with global challenges and institutional goals for research commercialization. Aligned with broader innovation ecosystem objectives, the module bridges the gap between STEM disciplines and entrepreneurship by addressing systemic barriers to translating academic research into real-world solutions. From stakeholder engagement to market-readiness validation, this program cultivates future leaders who can drive ventures, intrapreneurship initiatives, or policy-shaping innovations within dynamic global markets",
+        "Learning outcomes": "A Evaluate case studies using the Technology-Policy-Society framework to identify synergies and conflicts in real-world innovation scenarios. B Apply the Three Elements of Technology Value Conversion (Core Functionality, Monetization, Risk Defense) to transform academic research into viable business models. C Articulate discipline-specific innovation pathways and adapt strategies for startups, corporate R&D, or IP-driven ventures. D Compare success/failure cases to assess alignment of technology scalability, policy compliance, and societal acceptance. E Simulate career transitions during industry disruptions by repurposing core skills. F Structure pitch proposals with quantified social impact, phased scalability roadmaps, and patent/partnership strategies aligned with investor/competition criteria.",
+        "Method of teaching and learning": "This module emphasizes collaborative learning through early team integration. Students will self-organize into 3-person teams during the first week’s interactive activities, which are designed to strengthen peer connections and clarify group roles. All coursework and reports will be submitted collaboratively, reinforcing teamwork as a core component of the program. Content will be delivered through lectures (with slides and resources provided), and students are encouraged to proactively address challenges by consulting peers, reviewing materials independently, or seeking instructor guidance. As the module progresses, teams will apply frameworks to real-world scenarios, culminating in market-focused simulations in later weeks, blending theoretical knowledge with practical group execution."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SCI102&psl_code=SEM2"
+    }
+  ]
+}

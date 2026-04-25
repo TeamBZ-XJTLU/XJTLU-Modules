@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "ARC",
+    "full_name": "Architecture"
+  },
+  "full_name": "Energy and Technology in Building Design",
+  "module_code": "ARC401",
+  "offerings": [
+    {
+      "heading": "Energy and Technology in Building Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ARC",
+        "full_name": "Energy and Technology in Building Design",
+        "module_code": "ARC401",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Energy and Technology in Building Design",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module addresses architectural technology and building performance, with a focus on energy and sustainability. Students will explore the interplay among physical and climatic contexts, environmental and functional requirements, design strategies, and technological solutions. Through a combination of theoretical and applied learning, they will develop the expertise to evaluate and optimise building performance in response to sustainability challenges. Additionally, they will engage with key international assessment methods and digital modelling and simulation tools.",
+        "Learning outcomes": "A. Evaluate environmental control and occupant comfort in buildings B. Identify, select and employ climate-responsive design strategies and technologies to address environmental requirements while minimising the ecological impacts of buildings in alignment with UN Sustainable Development Goals C. Utilise digital analysis and simulation models to evaluate building performance in specific contexts D. Present theoretical knowledge of Sustainability Rating Systems such as LEED, BREEAM E. Design key elements, components and assemblies and integrate them into architectural design proposals",
+        "Method of teaching and learning": "The module is delivered through a structured blend of lectures and a seminar. The former provide the theoretical framework, while the latter foster active learning through discussions, case studies and group activities. Seminars will also support students in the development of their coursework. Students are required to study and conduct research independently in their self-study time, to consolidate the knowledge discussed in class and to develop substantial coursework through which their academic attainment will be assessed."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ARC401&psl_code=SEM1"
+    }
+  ]
+}

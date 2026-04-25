@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Further Key Skills in Chemistry",
+  "module_code": "CHE203",
+  "offerings": [
+    {
+      "heading": "Further Key Skills in Chemistry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Further Key Skills in Chemistry",
+        "module_code": "CHE203",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Further Key Skills in Chemistry",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to further develop students’ quantitative and transferable skills, such as communication skills for Chemists, and basic mathematical skills.",
+        "Learning outcomes": "Quantitative Skills A.perform advanced mathematical manipulations for physical and inorganic chemistry General key skills B.effectively investigate, write and present topics in chemistry",
+        "Method of teaching and learning": "Lectures, seminars and tutorials General Key Skills This section of the module will consist of : (i) A series of presentations, given by members of staff, on different areas of research within the Department of Chemistry to encourage students to realize the opportunities for, and impact of, research. To reinforce this awareness, students will be required to write short reviews of these lectures. (ii) A series of tutorials, given by teaching staff in the Chemistry Department. The tutorial exercises will involve tasks based on either the research areas presented in the lectures or chemistry studied elsewhere by the students within their programme. Tasks will involve individual and team exercises with a variety of written and oral components. To provide support for the tasks, the tutorial sessions will discuss and develop the skills required for the set tasks."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE203&psl_code=SEM1"
+    }
+  ]
+}

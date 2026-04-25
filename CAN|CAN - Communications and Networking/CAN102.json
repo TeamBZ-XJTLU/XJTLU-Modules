@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Electromagnetism and Electromechanics",
+  "module_code": "CAN102",
+  "offerings": [
+    {
+      "heading": "Electromagnetism and Electromechanics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Electromagnetism and Electromechanics",
+        "module_code": "CAN102",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Electromagnetism and Electromechanics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module equips students with the analytical and practical skills to model, analyze, and design electromagnetic and electromechanical systems critical to modern engineering. Building on foundational concepts in physics and circuit theory, the module consolidates knowledge of electromagnetic fields, electric/magnetic circuits, and the operation of key devices (e.g., motors, generators and transformers). It bridges theory and practice, preparing students for advanced courses in advanced Electromagnetism, microwave circuits, power systems and control engineering. It supports program outcomes by developing competencies in system modeling, problem-solving, and interdisciplinary design.",
+        "Learning outcomes": "A. Apply fundamental principles related to electrostatics, magnetostatics, and electromagnetic induction to solve problems. B. Solve engineering problems using the time-invariant Maxwell's equations in both differential and integral forms. C. Apply fundamental principles of electromagnetic fields in solving electric and magnetic circuit problems relating to passive components. D. Develop and analyse fundamental models of electromechanical devices including motors, transformers, and generators. E. Analyze the measurement of electromagnetic fields and the results",
+        "Method of teaching and learning": "This module blends lectures, problem-solving tutorials, and hands-on labs to bridge theory and practice. Students gain analytical and design skills through structured assignments, collaborative projects, and instructor feedback. The approach ensures mastery of core principles while preparing students for advanced engineering challenges."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN102&psl_code=SEM2"
+    }
+  ]
+}

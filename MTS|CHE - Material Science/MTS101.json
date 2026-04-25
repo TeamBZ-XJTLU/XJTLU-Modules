@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "MTS",
+    "full_name": "Material Science"
+  },
+  "full_name": "Introduction to AI in Materials Science",
+  "module_code": "MTS101",
+  "offerings": [
+    {
+      "heading": "Introduction to AI in Materials Science",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTS",
+        "full_name": "Introduction to AI in Materials Science",
+        "module_code": "MTS101",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to AI in Materials Science",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces the core principles of Artificial Intelligence (AI) and Machine Learning (ML) in the context of materials science, equipping students with the skills to apply these techniques for predicting material properties, optimizing microstructure-property relationships, etc. Using open-source tools and databases, the course bridges theoretical concepts with practical applications, emphasizing hands-on learning. Students will explore supervised and unsupervised learning methods tailored for materials datasets, along with feature engineering and dimensionality reduction techniques specific to materials informatics. Key tools such as Pymatgen (for atomic structure analysis, symmetry, and thermodynamics), Matminer (for extracting material descriptors and building ML models), and the Materials Project (for high-throughput computational data and AI-driven design of battery electrodes, catalysts, and alloys) will be leveraged. Through case studies, students will predict mechanical/electronic properties, classify microstructures, and integrate computational and experimental data for materials innovation. By the end of the module, participants will gain proficiency in AI/ML workflows for real-world materials challenges, preparing them for advanced research or industry applications in AI-driven materials design. Rationale for using open-source tools such as Pymatgen, Matminer, and Materials Project: (a) Industry & Research Standard: All three are widely adopted in academia, national labs (e.g., Lawrence Berkeley), and companies working on materials AI. (b) Interoperability: They seamlessly integrate, forming a complete pipeline from data retrieval (Materials Project) → analysis (Pymatgen) → ML modeling (Matminer). (c) Open-Source & Scalable: Ensures students can continue using these tools beyond the course for research or commercial applications.",
+        "Learning outcomes": "Students who complete this module can A. Explain fundamental AI/ML concepts and their role in materials science. B. Preprocess and visualise materials data such as molecules, structures, crystals, etc., using existing open-source tools such as the Materials Project and Pymatgen. C. Implement the feature extraction methods from materials science data using the Matminer tool. D. Implement basic ML algorithms tailored for materials science applications as given in established tools such as Matminer. E. Understanding generative AI algorithms, such as Large language models for materials science applications.",
+        "Method of teaching and learning": "• Lectures: Foundational AI/ML theory, case studies (e.g., AI in materials). • Tutorials: Hands-on coding exercises using various open-source Python programming kits (e.g., PYMATGEN, MATMINER, MATGL). • Lab/Practicals: Hands-on practice of using open-source AI tools for solving problems in materials science. • Private Study: Problem sets, literature reviews, and project work."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTS101&psl_code=SEM2"
+    }
+  ]
+}

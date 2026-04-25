@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IND",
+    "domain_code": "IND",
+    "full_name": "Industrial Design"
+  },
+  "full_name": "Studio 3: Design For Market",
+  "module_code": "IND217",
+  "offerings": [
+    {
+      "heading": "Studio 3: Design For Market",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IND",
+        "full_name": "Studio 3: Design For Market",
+        "module_code": "IND217",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 2",
+        "Module Title": "Studio 3: Design For Market",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to build on Studio 1: Design Principles and Studio 2: Concepts and Interactions, to further embed the general skills of the industrial designer. The main focus of this studio will be market-led design. Having understood the primary, problem-solving imperatives for design, this module acknowledges and extends the critical role of form and emotion as part of the commercial format. The aim is for students to become more sensitive to the economic relationship that designers have with the producers and consumers of their products. Students will carry out market-led research and competitor analysis. They will learn about the drivers for successful product design and production through the use of case studies. Critically they will develop a broader knowledge of the spectrum of design activity which constitutes the industry and its key actors. This will enable them to develop their own practice position. Like other Studio:Design Practice modules, students will learn through PBL (Project Based Learning). They will carry out research and develop a product response to a set of realistic commercial drivers.",
+        "Learning outcomes": "A. Deploy a range of communication and branding tools to support design proposals. B. Demonstrate understanding of commercial, business strategies, economies of scale and distribution. C. Formulate and apply further skills in form-development and visual expression through drawing and model-making. D. Carry out market research, define a product market position and develop an appropriate design proposal. E. Combine sketching, model-making and basic CAD to communicate outcomes in a visual presentation to stakeholders.. F. Articulate a professional practice position and career direction.",
+        "Method of teaching and learning": "The approach of this module will be PBL (Project Based Learning). Students will carry out a series of guided exercises designed to replicate elements of a design project. This will entail project briefings, group and individual tutorials, contextual lectures and workshop activities to acquire the skills of working with key tools and materials. Students will work mostly in a studio, break-out spaces, and dedicated workshops with key equipment and material resources."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IND217&psl_code=SEM1"
+    }
+  ]
+}

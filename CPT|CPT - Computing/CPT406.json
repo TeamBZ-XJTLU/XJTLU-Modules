@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Artificial Intelligence",
+  "module_code": "CPT406",
+  "offerings": [
+    {
+      "heading": "Artificial Intelligence",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Artificial Intelligence",
+        "module_code": "CPT406",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Artificial Intelligence",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Artificial Intelligence (AI) is a cornerstone of modern computing, critical for solving complex, data-driven problems across industries. It is also a core component of the Computer Science curriculum, building on prerequisites (programming, mathematics) and preparing students for advanced topics like Machine Learning, Data Science, and Human-AI Interaction. It aligns with programme goals by bridging theory and practice, ensuring graduates can design, critique, and deploy AI systems responsibly. Additionally, this module equips students with the team-based development and peer-review of AI solutions, mirroring real-world workflows.",
+        "Learning outcomes": "A. Develop real-world Artificial Intelligence applications. B. Critically evaluate, select, and apply AI algorithms to solve complex problems, assessing risks and limitations in practical deployments. C. Design and implement AI solutions using state-of-the-art tools, collaborating effectively in teams to develop, peer-review, and refine systems.",
+        "Method of teaching and learning": "The module employs several ways to achieve the learning outcomes: (1) Introduce AI concepts (e.g., Bayesian networks, supervised learning) with case studies (e.g., bias in algorithms) in interactive lectures; (2) Python-based exercises implementing search strategies, probabilistic models, and neural networks in hands-on labs; (3) team-based development of AI solutions with peer-review milestones within collaborative projects; (4) personalized support for labs and coursework in tutorials; (5) and guide reading and unsupervised problem-solving for students’ independent study during tutorials and office hour."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT406&psl_code=SEM2"
+    }
+  ]
+}

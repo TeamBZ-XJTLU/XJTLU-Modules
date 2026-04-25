@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DES",
+    "domain_code": "DES",
+    "full_name": "Design"
+  },
+  "full_name": "Topics in Landscape Design and Technology",
+  "module_code": "DES408",
+  "offerings": [
+    {
+      "heading": "Topics in Landscape Design and Technology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DES",
+        "full_name": "Topics in Landscape Design and Technology",
+        "module_code": "DES408",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Topics in Landscape Design and Technology",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The \"History and Theory of Landscape Design\" module equips students to deeply understand landscape design as an essential element in shaping the symbiotic relationship between humanity and nature. It aims to comprehensively explore the historical progression and theoretical foundations of landscape design, fostering a critical engagement with contemporary ecological challenges. Students are encouraged to reconceptualise urban and cultural landscapes as dynamic ecosystems and cultural artefacts, critically evaluating the role of culture within urban ecologies. This module integrates the essence of landscape design as a transformation process and harmonious mediator between humanity and nature. By immersing students in cutting-edge research and theoretical discourses, the module situates itself at the convergence of gardens and landscape history, urban landscape ecology, biodiversity conservation, and sustainable urban design. It offers a distinctive synthesis of critical theory, historical insight, and practical knowledge, preparing students to lead transformative efforts in urban spaces, creating sustainable, culturally enhanced, and ecologically dynamic environments.",
+        "Learning outcomes": "A. Critically analyze landscape design's historical progression and theoretical foundations, situating them within the context of contemporary ecological challenges and urban landscape transformations. B. Examine the dynamic interaction between culture, ecology, and landscape design, considering urban and cultural landscapes as both ecosystems and cultural artifacts. C. Articulate a comprehensive perspective on the role of landscape design in fostering sustainable urban environments, biodiversity conservation, and the harmonious coexistence of humanity and nature. D. Formulate and investigate complex research questions that address the critical role of landscape design in shaping ecological urbanism, cultural landscapes, and sustainable design practices. E. Demonstrate advanced research skills by identifying, evaluating, and integrating diverse sources and methodologies to explore theoretical and practical aspects of landscape design. F. Synthesize interdisciplinary knowledge into coherent, original written work that reflects a deep understanding of landscape design history, theory, and its contemporary implications, adhering to rigorous academic standards.",
+        "Method of teaching and learning": "The module is taught in weekly sessions articulated in a lecture and a seminar. The former provides the theoretical framework, while the latter elicits active learning through discussions, case studies and group activities. Seminars will also support students in the development of their coursework. Students are required to study and conduct research independently in their self-study time, to consolidate the knowledge discussed in class and to develop substantial coursework through which their academic attainment will be assessed."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DES408&psl_code=SEM2"
+    }
+  ]
+}

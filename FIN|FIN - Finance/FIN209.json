@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FIN",
+    "domain_code": "FIN",
+    "full_name": "Finance"
+  },
+  "full_name": "Debt securities, equity and derivatives",
+  "module_code": "FIN209",
+  "offerings": [
+    {
+      "heading": "Debt securities, equity and derivatives",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FIN",
+        "full_name": "Debt securities, equity and derivatives",
+        "module_code": "FIN209",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Debt securities, equity and derivatives",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to teach students the role of securities markets in the economy, the risk and valuation measures of securities and derivatives, and the formulation of portfolios and application of derivatives in risk management.",
+        "Learning outcomes": "A Understand the role of securities markets in developed economies and the structure of securities markets. B Estimate returns (or yields) and values (or prices) of different classes of securities and derivative instruments. C Formulate portfolios and apply derivatives in risk management.",
+        "Method of teaching and learning": "The module will be taught using a combination of lectures and tutorials. The lectures are intended to provide introduction to the topics set out in the syllabus. The tutorials will cover technical aspects of the course and include exercises for practice. Student learning will be assisted by detailed references to the textbook and other materials provided in the Learning Mall system."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN209&psl_code=SEM2"
+    }
+  ]
+}

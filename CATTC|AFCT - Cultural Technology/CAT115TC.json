@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "CATTC",
+    "full_name": "Cultural Technology"
+  },
+  "full_name": "Introduction to Game and Interactive Audio",
+  "module_code": "CAT115TC",
+  "offerings": [
+    {
+      "heading": "Introduction to Game and Interactive Audio",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CATTC",
+        "full_name": "Introduction to Game and Interactive Audio",
+        "module_code": "CAT115TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Game and Interactive Audio",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is a foundational course in audio post-production, tailored for the game industry. Through hands-on training with industry-standard equipment, workstations, and game audio middleware, students will develop a critical understanding of how sound operates in interactive gaming environments. This module is a foundational course in audio post-production, tailored for the game industry. Through hands-on training with industry-standard equipment, workstations, and game audio middleware, students will develop a critical understanding of how sound operates in interactive gaming environments. The module provides a foundational introduction to game and interactive audio within the programme, contributing to its core focus on game design, HCI, and immersive media (XR/VR/AR). It introduces sound as an interactive system within real-time and computational environments, rather than as a linear production output. Aligned with the programme’s Syntegrative Education model, the module combines technical skill development with creative practice, enabling students to understand how audio integrates with visual, spatial, and interactive systems in experience design. It supports early engagement with industry-style workflows and collaborative production contexts. The module establishes essential competencies in interactive audio that underpin later study in game development, immersive media production, and transmedia environment design, while reinforcing the programme’s emphasis on interdisciplinary practice and industry-relevant creative technology skills.",
+        "Learning outcomes": "A Operate at a basic and safe level when setting up and using recording equipment to capture original assets for game audio implementation. B Demonstrate a practical understanding of the relationship between gameplay mechanics, visual feedback, and non-linear audio. C Demonstrate the ability to implement, organise, and test basic audio assets within an industry-standard game audio middleware environment, following guided workflows and safe technical practices.",
+        "Method of teaching and learning": "The teaching method are categorized into lectures, tutorials, and practical sessions. A series of lectures will equip students with knowledge and understanding of game audio concepts, including professional terminology, team structure, sound design techniques, and the development pipeline for interactive audio systems across various media. Tutorial and practical sessions will focus on creating and recording audio content for an arts technology project."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAT115TC&psl_code=SEM2"
+    }
+  ]
+}

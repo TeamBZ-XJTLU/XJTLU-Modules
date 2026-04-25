@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MEC",
+    "domain_code": "MEC",
+    "full_name": "Mechatronics and Robotics"
+  },
+  "full_name": "Experimental, Computer Skills and Sustainability",
+  "module_code": "MEC104",
+  "offerings": [
+    {
+      "heading": "Experimental, Computer Skills and Sustainability",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MEC",
+        "full_name": "Experimental, Computer Skills and Sustainability",
+        "module_code": "MEC104",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Experimental, Computer Skills and Sustainability",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module serves multiple purposes to train students as beginning engineers. First, students will gain hands-on experience in designing and constructing electronic products both individually and collaboratively, applying their knowledge of electrical and electronic circuits. Second, they will learn the fundamentals of MATLAB to solve engineering problems, enhancing their computer literacy. Furthermore, students will deepen their understanding of engineers' responsibilities in sustainable development, raising awareness of environmental issues and sustainable product design principles. They will also gain practical insights into the challenges of integrating sustainable design within established processes and become familiar with essential tools and resources, such as Life Cycle Analysis, for effective implementation.",
+        "Learning outcomes": "A. Develop and construct a functional electronic products, justifying design choices based on technical specifications. B. Evaluate the environmental and societal impact of engineering solutions and propose strategies to minimise adverse effects while considering sustainable development principles. C. Develop, debug, and execute simple programs (e.g., solving linear equations and plotting data) that solve simple engineering problems using MATLAB. D. Apply creative problem-solving techniques in design projects, critically evaluating outcomes and integrating knowledge across disciplines. E. Reflect on personal learning experiences to identify strengths and areas for improvement, and develop actionable strategies that foster ongoing growth and establish a foundation for lifelong learning. F. Function effectively, both independently and as a contributing member or leader of a team, in executing a defined project task, demonstrating collaborative skills and applying an inclusive approach to engineering practice, recognising the responsibilities, benefits, and importance of supporting equality, diversity, and inclusion.",
+        "Method of teaching and learning": "This module will be delivered through a combination of lectures, seminars, tutorials, and labs. Lectures will aim to provide essential information and introduce students to the basic concepts of computer literacy and constructing smart electronic products, including some basic practice in applying the techniques. Seminars will cover sustainability theory and include case studies. During these sessions, students will engage in team discussions focusing on the selected case studies. They will be responsible for choosing topics for a selected case study and writing a report on sustainability. Tutorials will focus on practical programming exercises, providing students with an opportunity to apply the techniques introduced in the lectures. Labs will be designed to introduce students to the design, testing, and troubleshooting of smart electronic and mechanical systems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MEC104&psl_code=SEM2"
+    }
+  ]
+}

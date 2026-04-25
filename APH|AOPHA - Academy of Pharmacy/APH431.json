@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Essential Math For Pharmacy",
+  "module_code": "APH431",
+  "offerings": [
+    {
+      "heading": "Essential Math For Pharmacy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Essential Math For Pharmacy",
+        "module_code": "APH431",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Essential Math For Pharmacy",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed for students with a biological or pharmaceutical background who may not have a strong foundation in mathematics. Its aims:  to provide students with a solid mathematical foundation necessary for the study of Artificial Intelligence (AI) in the context of pharmacy;  to provide students with essential mathematical concepts and techniques, to empower students to apply mathematical principles effectively in pharmaceutical research, data analysis, and AI applications.",
+        "Learning outcomes": "A. Critically evaluate key mathematical concepts relevant to AI in pharmacy B. Demonstrate practical mathematical skills applicable to pharmaceutical research and data analysis C. Analyze and interpret mathematical models in the context of pharmaceutical sciences D. Translate mathematical concepts into practical applications within the pharmaceutical field",
+        "Method of teaching and learning": "Students will attend eight hours of formal lectures and two hours of tutorials weekly. The course will be delivered intensively over 6 weeks, ensuring a continuous and comprehensive acquisition of mathematical knowledge to prepare students for the AI related modules in the second half of the semester and the following semester. Quiz 1 and 2 will be designed to promptly reinforce students' understanding of key concepts in probability and statistics, which are essential for comprehending ML/DL algorithms. Assignments will involve in-class reports (less than 300 words) focusing on the implementation of algorithms."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH431&psl_code=SEM1"
+    }
+  ]
+}

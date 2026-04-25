@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Image and Video Processing",
+  "module_code": "INT404",
+  "offerings": [
+    {
+      "heading": "Image and Video Processing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INT",
+        "full_name": "Image and Video Processing",
+        "module_code": "INT404",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Image and Video Processing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides postgraduate students with a comprehensive understanding of digital image and video processing, equipping them with the skills to design and implement of various image and video processing technologies. This module provides students to to understand and analyze the characteristics of image data by leveraging mathematical and statistical techniques.",
+        "Learning outcomes": "A. Analyze the basic principles of digital image and video processing. B. Evaluate and compare advanced techniques used in digital image and video processing, including image enhancement, image transformation, image compression, and video coding. C. Assess the impact and effectiveness of various image and video processing techniques in different applications. D. Design and implement advanced image and video processing solutions to address complex real-world problems.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures and lab sessions. In the lectures, we will introduce key concepts and algorithms of image and video processing. In the lab sessions, the students are required to implement algorithms of image and video processing, and conduct analysis of experimental results, finally show the analysis in a lab report."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT404&psl_code=SEM1"
+    }
+  ]
+}

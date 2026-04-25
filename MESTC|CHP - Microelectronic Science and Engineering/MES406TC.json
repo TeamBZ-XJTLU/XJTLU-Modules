@@ -1,0 +1,80 @@
+{
+  "department": {
+    "department_code": "CHP",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "Industrial Research Dissertation",
+  "module_code": "MES406TC",
+  "offerings": [
+    {
+      "heading": "Industrial Research Dissertation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Industrial Research Dissertation",
+        "module_code": "MES406TC",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "40",
+        "Module Level": "Level 4",
+        "Module Title": "Industrial Research Dissertation",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "In this course, students will undertake an individual project under the guidance of a mentor team consisting of an academic mentor and an industry mentor, and document the results of the project in the form of dissertation and oral presentation. The objectives of this course are as follows: - To provide students with the opportunity to participate in projects that are closely related to engineering and technology in their field. - To prepare the student for a career in research or investigation as a professional engineer or researcher. - To enable students to develop project management skills for industry improvement or research projects. - To allow students to acquire the ability to improve the company's advanced technical concepts and product development.",
+        "Learning outcomes": "A Develop an in-depth understanding of the subject area chosen for the dissertation, which should be advanced and practical. B Analyze the current status and trend of domestic and international development of engineering and technology problems or research topics. C Apply basic theories, scientific methods, professional knowledge, and technical means to analyze and solve research problems. D Effectively communicate complex ideas through a written report and presentation. E Understand, consider, and apply research ethics and health and safety regulations to prioritize, arrange and organize research work.",
+        "Method of teaching and learning": "The module involves lectures and tutorials that will be delivered through project introduction, regular meetings with the supervisor, laboratory safety, and literature work, research skills to help students for their project and final assessment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES406TC&psl_code=ACYR"
+    },
+    {
+      "heading": "Industrial Research Dissertation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Industrial Research Dissertation",
+        "module_code": "MES406TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "40",
+        "Module Level": "Level 4",
+        "Module Title": "Industrial Research Dissertation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "In this course, students will undertake an individual project under the guidance of a mentor team consisting of an academic mentor and an industry mentor, and document the results of the project in the form of dissertation and oral presentation. The objectives of this course are as follows: - To provide students with the opportunity to participate in projects that are closely related to engineering and technology in their field. - To prepare the student for a career in research or investigation as a professional engineer or researcher. - To enable students to develop project management skills for industry improvement or research projects. - To allow students to acquire the ability to improve the company's advanced technical concepts and product development.",
+        "Learning outcomes": "A Develop an in-depth understanding of the subject area chosen for the dissertation, which should be advanced and practical. B Analyze the current status and trend of domestic and international development of engineering and technology problems or research topics. C Apply basic theories, scientific methods, professional knowledge, and technical means to analyze and solve research problems. D Effectively communicate complex ideas through a written report and presentation. E Understand, consider, and apply research ethics and health and safety regulations to prioritize, arrange and organize research work.",
+        "Method of teaching and learning": "The module involves lectures and tutorials that will be delivered through project introduction, regular meetings with the supervisor, laboratory safety, and literature work, research skills to help students for their project and final assessment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES406TC&psl_code=SEM1"
+    },
+    {
+      "heading": "Industrial Research Dissertation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Industrial Research Dissertation",
+        "module_code": "MES406TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "40",
+        "Module Level": "Level 4",
+        "Module Title": "Industrial Research Dissertation",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "In this course, students will undertake an individual project under the guidance of a mentor team consisting of an academic mentor and an industry mentor, and document the results of the project in the form of dissertation and oral presentation. The objectives of this course are as follows: - To provide students with the opportunity to participate in projects that are closely related to engineering and technology in their field. - To prepare the student for a career in research or investigation as a professional engineer or researcher. - To enable students to develop project management skills for industry improvement or research projects. - To allow students to acquire the ability to improve the company's advanced technical concepts and product development.",
+        "Learning outcomes": "A Develop an in-depth understanding of the subject area chosen for the dissertation, which should be advanced and practical. B Analyze the current status and trend of domestic and international development of engineering and technology problems or research topics. C Apply basic theories, scientific methods, professional knowledge, and technical means to analyze and solve research problems. D Effectively communicate complex ideas through a written report and presentation. E Understand, consider, and apply research ethics and health and safety regulations to prioritize, arrange and organize research work.",
+        "Method of teaching and learning": "The module involves lectures and tutorials that will be delivered through project introduction, regular meetings with the supervisor, laboratory safety, and literature work, research skills to help students for their project and final assessment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES406TC&psl_code=SEM2"
+    }
+  ]
+}

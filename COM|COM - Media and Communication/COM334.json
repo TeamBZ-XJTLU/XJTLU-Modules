@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Cultural and Creative Industries in a Digital Economy",
+  "module_code": "COM334",
+  "offerings": [
+    {
+      "heading": "Cultural and Creative Industries in a Digital Economy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Cultural and Creative Industries in a Digital Economy",
+        "module_code": "COM334",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Cultural and Creative Industries in a Digital Economy",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will examine transformations of cultural and creative industries in the global advancement of the digital economy. It will provide students with an in-depth understanding of a variety of theoretical and methodological approaches to the study of digital platform-based cultural practices, creative productions, and business models. By including cases of both China and US-based digital platforms and their global expansion strategies, the module will critically reflect on theoretical debates such as the platform economy, data economy, sharing economy, on-demand/gig economy, influencer marketing, platform labor, and algorithmic management. Creative media forms and their associated industrial transformations including short videos, selfie, vlogs, mobile live streaming, music streaming, and Subscription Video on Demand (SVOD) will be discussed in class.",
+        "Learning outcomes": "A Use a wide range of source material effectively and critically and demonstrate awareness of the special nature of primary sources B Assess the limitations of existing theoretical concepts in light of changing technological and social conditions C Explore the forces of change and continuity in specific contexts, taking note of different economic, political, social and cultural perspectives D Think critically and imaginatively about the growth of the cultural and creative industries and their influence on contemporary society",
+        "Method of teaching and learning": "Lectures Seminars"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM334&psl_code=SEM1"
+    }
+  ]
+}

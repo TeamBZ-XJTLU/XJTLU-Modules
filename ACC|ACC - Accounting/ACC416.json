@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Fundamental Case Study",
+  "module_code": "ACC416",
+  "offerings": [
+    {
+      "heading": "Fundamental Case Study",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Fundamental Case Study",
+        "module_code": "ACC416",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Fundamental Case Study",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The Fundamental Case Study aims to combine technical knowledge (Accounting fundamentals, assurance & risk fundamentals , business insight and performance, Sustainability and ethics) with professional skills and experience. It will assess practical accounting skills, critical thinking, and the application of theoretical knowledge through a real-world case study. Specifically, the skills being tested include analysis and evaluation, clear and concise communication, planning and prioritisation, and behaviours such as adaptability, adding value, professional integrity, and scepticism.",
+        "Learning outcomes": "A. understand the techniques of double entry accounting and apply it in recording transactions, straightforward adjustments to financial records and preparing non-complex financial statements. B. understand the assurance process and fundamental principles of ethics, and are able to contribute to the assessment of internal controls and gathering of evidence on assurance work. C. prepare essential financial information for the management of a business. D. understand the fundamentals of sustainability and ethics and how they are relevant to the work of the professional accountant.",
+        "Method of teaching and learning": "A range of teaching and learning methods (see Mode of Delivery above) will be utilised in this module. Core substantive knowledge will be delivered via lectures, and the knowledge covered in lectures will be reinforced by practical student group work in the Practical sessions, culminating in participative tutorials. Longer, case-based exam-type work will be delivered using seminars, which will again be participative."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC416&psl_code=SEM1"
+    }
+  ]
+}

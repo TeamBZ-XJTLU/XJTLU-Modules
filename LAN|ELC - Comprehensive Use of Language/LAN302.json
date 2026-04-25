@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ELC",
+    "domain_code": "LAN",
+    "full_name": "Comprehensive Use of Language"
+  },
+  "full_name": "Introduction to Second Language Acquisition",
+  "module_code": "LAN302",
+  "offerings": [
+    {
+      "heading": "Introduction to Second Language Acquisition",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LAN",
+        "full_name": "Introduction to Second Language Acquisition",
+        "module_code": "LAN302",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Introduction to Second Language Acquisition",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This is a compulsory module for the students in the Teaching Chinese pathway and an optional module for those in Contemporary China Studies pathway. The module will introduce students to a number of various issues relevant to the acquisition of a second language by child and adult learners in foreign or second language contexts. We will overview issues such as the role L1 transfer, age in L2 acquisition (child L2 vs. adult L2) and the impact of individual differences. We will cover these issues by discussing current theories of L2 acquisition and learning. The module aims: • To introduce students to the linguistic and cognitive processes involved in acquiring a second language; • To enhance students’ understanding of how language is acquired • To enhance students’ appreciation of the various theoretical models proposed concerning second language acquisition and consider their use; • To gain a critical understanding of some of the main research, theory and practice in Second Language Acquisition",
+        "Learning outcomes": "A Demonstrate awareness of and appraise how various languages are acquired as a second language by child and adult learners. B Identify and evaluate key theories relating to second language acquisition research C Demonstrate understanding of the implications of these theories for effective learning and teaching of Chinese as a foreign language. D Be able to critically analyse the interrelationship between first and second language acquisition E Critically evaluate key methodologies used in the field of second language acquisition.",
+        "Method of teaching and learning": "The teaching will use a combination of lectures followed by tutorials, where ideas from the lectures can be further developed. It is intended that the lectures and tutorials are linked together by themes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LAN302&psl_code=SEM2"
+    }
+  ]
+}

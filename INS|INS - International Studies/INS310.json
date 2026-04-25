@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Finding Solutions: Development Theory and Practice",
+  "module_code": "INS310",
+  "offerings": [
+    {
+      "heading": "Finding Solutions: Development Theory and Practice",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Finding Solutions: Development Theory and Practice",
+        "module_code": "INS310",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Finding Solutions: Development Theory and Practice",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "International development is a significant aspect of international relations and global governance. Development concerns the wellbeing and capacities of people. Through international development programs, states and international organizations indicate preferences for economic, social and political models by which wellbeing can be advanced. The ultimate goal of this module is to guide students in critically reflecting on ways and means to solve problems of development. As a result, it promotes specialized and practical understanding of how to design strategies aimed at narrowing the gap in socio-economic welfare between developed and less-developed countries. For this purpose, this module explores an essential question: What is good development practice in a specific context In exploring that question, the module provides students with an opportunity to focus on the evolution of development thinking, cultivate advanced knowledge on a specific country or region, and to identify and explore a development problem and propose a solution that reflects ‘good’ development practice. The module advances skills of historical, political, socio-economic analysis relevant to development practice. It encourages reflection on the politics and power of development interventions. The country, region or problem examined in this module may be subject to change from year to year.",
+        "Learning outcomes": "A. Demonstrate critical thought and depth of understanding of the development theories and practices aimed at achieving efficient use of human and capital resources. B. Demonstrate advanced understanding of the country or region studied in this module C. Effectively engage in problem analysis and identification D. Effectively contextualize a development problem E. Demonstrate understanding of a range of development tools available to identify and address a problem F. Critically reflect on the limits of development practice G. Present findings in a coherent and logical flow through structured academic writing that conforms to scholarly conventions in development studies.",
+        "Method of teaching and learning": "Lectures, seminars, workshops, peer teaching, some blended learning"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS310&psl_code=SEM2"
+    }
+  ]
+}

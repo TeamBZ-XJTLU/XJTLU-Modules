@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Strategic Business Management",
+  "module_code": "ACC408",
+  "offerings": [
+    {
+      "heading": "Strategic Business Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Strategic Business Management",
+        "module_code": "ACC408",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Strategic Business Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To develop an understanding of the core areas of business strategy: marketing, corporate governance, human resource management, finance, corporate reporting and assurance. To demonstrate quantitative and qualitative skills to make realistic business recommendations in complex scenarios. Business awareness will need to be demonstrated at strategic, operating and transactional levels. To develop the use of technical knowledge and professional judgement to apply appropriate models and analyse data from multiple sources, including corporate reports, in order to evaluate alternatives and determine appropriate solutions.",
+        "Learning outcomes": "A Analyse and identify the external environment and internal strategic capability of an entity; evaluate the consequences of strategic choices; recommend strategies to achieve stakeholder objective; recommend appropriate methods of implementing strategies and monitoring strategic performance; including management of business risks; and advise on corporate governance. B Identify and advise upon appropriate finance requirements; evaluate financial risks facing a business and advise upon appropriate methods of managing those risks; provide valuations for businesses and securities; and advise upon investment and distribution decisions. C Recognise and explain ethical issues, and where ethical dilemmas arise, recommend and justify appropriate actions, including ethical safeguards. D Interpret and apply corporate reporting information in evaluating business and financial performance; recognise and explain the corporate reporting consequences of such decisions; apply corporate reporting information in appropriate models to determine asset, equity and entity valuations, demonstrating an understanding of the usefulness and limitations of accounting information in this context. E Understand and explain the role of assurance in raising new equity and debt funding and in the subsequent monitoring of such funding arrangements; understand, explain and evaluate the role of assurance in selecting and implementing key business decisions including acquisitions and strategic alliances; understand and explain the role of assurance in financial and business risk management.",
+        "Method of teaching and learning": "A range of teaching and learning methods will be utilized on this module. Core substantive knowledge will be delivered via 52 hours of lectures, and the knowledge covered in lectures will be reinforced by practical student group work, culminating in participative tutorials. Longer, case-based work will be delivered by means of four 2-hour seminars, which will again be participative in nature."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC408&psl_code=SEM2"
+    }
+  ]
+}

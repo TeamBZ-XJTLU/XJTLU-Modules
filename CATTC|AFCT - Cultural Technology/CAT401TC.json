@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "CATTC",
+    "full_name": "Cultural Technology"
+  },
+  "full_name": "Cultural and Creative Innovation",
+  "module_code": "CAT401TC",
+  "offerings": [
+    {
+      "heading": "Cultural and Creative Innovation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CATTC",
+        "full_name": "Cultural and Creative Innovation",
+        "module_code": "CAT401TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Cultural and Creative Innovation",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: This module aims to introduce students to the theory, processes and tools of becoming a future innovator in the cultural and creative industries. It explores the ways in which innovation, creative technologies, industry and policy intersect. Objectives: The students will focus on achieving a critical understanding and practice of innovation and cultural value within an entrepreneurial framework focusing on both Chinese and global markets. It helps students understanding the roles of creative technologies, innovation, and entrepreneurship and fostering skills in developing the proposal for a small business organisation (e.g. start-ups).",
+        "Learning outcomes": "A Demonstrate a systematic understanding of innovation theories and concepts in the field of cultural and creative industries. B Develop an original portfolio with the human-centred and entrepreneurial mindset in the context of cultural and creative industries. C Build communication and persuasion skills to develop the potential to interact within an innovative commercial plan. Method of Teaching and Learning",
+        "Method of teaching and learning": "The module will be delivered through mainly formal lectures and seminar group discussions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAT401TC&psl_code=SEM2"
+    }
+  ]
+}

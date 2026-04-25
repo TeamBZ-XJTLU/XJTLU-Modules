@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Environmental Engineering: Circular Economy and Sustainability",
+  "module_code": "CEN313",
+  "offerings": [
+    {
+      "heading": "Environmental Engineering: Circular Economy and Sustainability",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "CEN",
+        "full_name": "Environmental Engineering: Circular Economy and Sustainability",
+        "module_code": "CEN313",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Environmental Engineering: Circular Economy and Sustainability",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide essential interdisciplinary knowledge regarding circular economy and sustainability in relation to environmental engineering. This module links circular economy to other crucial topics such as design, renewable energy, waste management, environmental risk and resilience as well as policy from the perspectives of sustainability, environmental and social.",
+        "Learning outcomes": "A Apply the contribution of design and its methods for achieving a sustainable circular economy B Assess the challenges pertaining to the energy industry, and evaluate the effectiveness of renewable energies in achieving decarbonization strategies C Employ the technologies relevant for waste management to achieve circular economy and valorization of biomass D Apply the risk analysis and assessment on the applications of environmental engineering and science to reduce environmental risk E Evaluate the sustainability, environmental and social aspects of the circular economy and understand the circular economy policies to achieve better management decisions",
+        "Method of teaching and learning": "The module is taught through formal lectures and class tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN313&psl_code=SEM2"
+    }
+  ]
+}

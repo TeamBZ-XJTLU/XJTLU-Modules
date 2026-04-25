@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "AI in Autonomous Vehicles",
+  "module_code": "DTS215TC",
+  "offerings": [
+    {
+      "heading": "AI in Autonomous Vehicles",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "DTSTC",
+        "full_name": "AI in Autonomous Vehicles",
+        "module_code": "DTS215TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "AI in Autonomous Vehicles",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to provide students with a comprehensive understanding of the principles and technologies underpinning autonomous driving systems. By the end of this module, students will be able to: - Understand the key concepts of artificial intelligence as applied to self-driving vehicles. - Analyze and design AI models used in perception, decision-making, and control for autonomous driving. - Explore the integration of sensors, computer vision, machine learning, and deep learning techniques in self-driving applications. - Assess the ethical, legal, and societal implications of autonomous vehicles. - Develop practical skills through hands-on projects, simulating self-driving technologies in real-world scenarios. This module fits into the 4-year bachelor’s degree in AI by bridging foundational AI knowledge with advanced applications in a rapidly growing field. Positioned in the later stages of the program, it builds on core AI concepts such as machine learning, neural networks, and robotics, applying them to the real-world challenge of autonomous driving. By providing practical, interdisciplinary insights, the module enhances students' readiness for careers in AI development, autonomous systems, and related industries, making it a crucial component of the degree’s applied learning focus.",
+        "Learning outcomes": "A. Demonstrate understanding of the core concepts of self-driving technology, including its components, systems, and underlying principles. B. Develop practical skills in programming and using AI algorithms to process and analyze data from various sensors utilized in self-driving. C. Implement computer vision algorithms for tasks like object detection, lane detection, and segmentation. D. Design path planning and trajectory optimization algorithms for autonomous navigation.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This philosophy is carried through in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. This module will be delivered through a combination of lectures, group discussions, case studies, and hands-on practical exercises etc. Lectures and group discussions are conducted using the Problem Based Learning paradigm focusing on student-centered learning, where they develop critical thinking and problem-solving skills to address open-ended problems that lacks a straightforward solution This module is taught with an emphasis on student learning through practice and by projects, facilitated by a module leader, and where appropriate, industrial mentors. Students can identify particular areas of learning needs or interests according to the available project(s). They will conduct independent research to gather information and resources to better define the problem. Progress towards the learning outcomes will be facilitated and monitored, where students are guided to progressively address the given problem through tasks. Independent learning will form an important aspect of the educational activities in this module. Case studies will be used to provide students with real-world examples of how the concepts and techniques covered in this module can be applied. Lab/Practical sessions will allow students to apply the techniques and tools acquired to solve real-world industry focused problems. Assessed primarily by a project, students shall gain practical experience in undertaking independent study and research on industry focused real-world problems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS215TC&psl_code=SEM2"
+    }
+  ]
+}

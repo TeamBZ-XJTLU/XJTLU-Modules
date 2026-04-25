@@ -1,0 +1,43 @@
+name: Scrape XJTLU modules
+
+on:
+  schedule:
+    - cron: "0 16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape-xjtlu-modules
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Scrape module catalogue
+        run: python scripts/scrape_modules.py --output . --prune --workers 6
+
+      - name: Commit generated data
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No module catalogue changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update XJTLU module catalogue"
+          git push

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Human-Centric Computing",
+  "module_code": "CPT208",
+  "offerings": [
+    {
+      "heading": "Human-Centric Computing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Human-Centric Computing",
+        "module_code": "CPT208",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Human-Centric Computing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with a thorough understanding of the design process in computer systems, including the requirement gathering, design, prototyping, and evaluations. Through practical projects, students will apply formal methods in interaction design, develop and apply fundamental technical skills necessary for implementing interactive systems, and assess and evaluate the usability and user experience of these systems using established criteria.",
+        "Learning outcomes": "A. Apply a user-centered approach to interaction design, emphasizing the importance of supporting equality, diversity, and inclusion in technical work. B. Create, develop, and deploy interactive computing systems, incorporating legal, social, ethical, and professional considerations to achieve specific business objectives. C. Critically assess and evaluate the usability and user experience of interactive systems using established criteria.",
+        "Method of teaching and learning": "The module includes various components designed to enhance students' learning experiences. Lectures will introduce the academic content and practical skills relevant to the subject, with students expected to attend two hours of formal lectures each week. Seminars will provide opportunities for students to practice skills learned in lectures and work on assignments, requiring participation in two hours of supervised seminars weekly. Additionally, students will engage in approximately seven hours of private study for reflection and background reading. Continuous assessment will evaluate the extent to which practical skills have been acquired, while a written examination at the end of the module will assess students' academic achievement."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT208&psl_code=SEM2"
+    }
+  ]
+}

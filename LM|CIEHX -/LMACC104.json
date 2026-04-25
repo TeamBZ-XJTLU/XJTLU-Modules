@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CIEHX",
+    "domain_code": "LM",
+    "full_name": ""
+  },
+  "full_name": "Introduction to Managerial Accounting",
+  "module_code": "LMACC104",
+  "offerings": [
+    {
+      "heading": "Introduction to Managerial Accounting",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LM",
+        "full_name": "Introduction to Managerial Accounting",
+        "module_code": "LMACC104",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Managerial Accounting",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to introduce students to the nature and purpose of management accounting and to establish a sound foundation in its fundamental techniques. Students will learn how to evaluate, compare, contrast and apply a range of techniques and procedures for application in management accounting in different situations and for different purposes.",
+        "Learning outcomes": "A. Understand, interpret and analyse management accounting information, and demonstrate an awareness of the importance of non-financial factors; B. Evaluate the usefulness of various management accounting techniques in different situations and for different purposes. C. Appreciate the scope and purpose of management accounting.",
+        "Method of teaching and learning": "This module will be taught using a combination of lectures, tutorials and consultation hours. Learning will also be reinforced by appropriate readings from the course text."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LMACC104&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Family Education: Principles and Theories",
+  "module_code": "EDS415",
+  "offerings": [
+    {
+      "heading": "Family Education: Principles and Theories",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Family Education: Principles and Theories",
+        "module_code": "EDS415",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Family Education: Principles and Theories",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides students with a comprehensive understanding of family education, its foundational theories, and guiding principles. By engaging with diverse family theories and childrearing practices, alongside empirical research, students will enhance their understanding of the family system and the complex relationships within it. Attention will also be given to identifying potential risk and resilience factors in families with varying characteristics and children at different developmental stages, deepening students' engagement with the crucial role families play in individual development.",
+        "Learning outcomes": "A Acquire a good understanding of the key concepts and theoretical frameworks in the field of family education B Develop fundamental skills for assessing different family systems in different social/cultural contexts C Appraise the influences and key factors of family and society on child development D Understand and reflect on the existing research methodologies and directions for future research in the field of family education",
+        "Method of teaching and learning": "This module integrates Research-Led Project-Based Learning (RLPBL) to offer a dynamic and applied exploration of the family education field. Through a combination of lectures and tutorials, it delivers key conceptual and theoretical insights while delving into real-world family issues. This approach offers students ample opportunities to critically reflect on how the knowledge gained can be applied in real-world settings, effectively bridging theory with practical application in family contexts."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS415&psl_code=SEM2"
+    }
+  ]
+}

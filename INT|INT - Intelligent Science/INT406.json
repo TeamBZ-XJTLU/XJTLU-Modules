@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Data Mining and Machine Learning",
+  "module_code": "INT406",
+  "offerings": [
+    {
+      "heading": "Data Mining and Machine Learning",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INT",
+        "full_name": "Data Mining and Machine Learning",
+        "module_code": "INT406",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Data Mining and Machine Learning",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with a comprehensive knowledge on the principles, techniques, algorithms and applications of Machine Learning (ML) and Data Mining (DM). This module provides analysis techniques for today’s pervasive data, which are fundamental for business and financial analytics practitioners.",
+        "Learning outcomes": "A. Compare and contrast key Data Mining (DM) and Machine Learning (ML) algorithms, demonstrating both foundational and advanced understanding from a practical perspective. B. Select and apply appropriate DM and ML algorithms to analyse real-world data, using standard software platforms such as Weka or R. C. Critically evaluate the strengths and limitations of different DM and ML techniques in relation to specific problem contexts. D. Analyse practical problems and design data-driven solutions through the application of suitable DM and ML principles and techniques.",
+        "Method of teaching and learning": "This module will be delivered through a combination of lectures, tutorials, and lab sessions. Lectures introduce the key concepts and methods outlined in the syllabus, while tutorials and labs help students apply these concepts through discussion, exercises, and hands-on practice. Students are also expected to engage in independent study, including further reading and practical work, to reinforce their understanding. Coursework assignments are designed to assess both theoretical knowledge and practical problem-solving skills."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT406&psl_code=SEM2"
+    }
+  ]
+}

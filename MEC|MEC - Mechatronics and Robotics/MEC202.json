@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MEC",
+    "domain_code": "MEC",
+    "full_name": "Mechatronics and Robotics"
+  },
+  "full_name": "Industrial Awareness and Group Project",
+  "module_code": "MEC202",
+  "offerings": [
+    {
+      "heading": "Industrial Awareness and Group Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MEC",
+        "full_name": "Industrial Awareness and Group Project",
+        "module_code": "MEC202",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Industrial Awareness and Group Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Industrial Awareness and Group Project is designed to equip students with essential knowledge, experience, and skills in engineering product development, project management, teamwork, and leadership. The module is structured around project-based learning (PBL) pedagogy, where students work in groups to complete an engineering product development project. These projects span a wide range of applications across various sectors, including automatic driving vehicle, intelligent manufacturing, smart household technologies, and health care applications. Students can gain fundamental knowledge, experience and hands-on skills to cutting-edge engineering technologies, such as sensing, actuation, and control systems for intelligent applications, as well as the latest advancements in artificial intelligence (AI), particularly generative AI. In addition to subject-specific technical skills, the module emphasizes the development of project planning and management skills, as well as transferable skills such as leadership, teamwork, communication, and presentation. These competencies are crucial for success in both academic and professional settings.",
+        "Learning outcomes": "A. Analyse complex engineering problems, proposing viable technical and management solutions that balance commercial, legal, environmental, societal constraints and/or impacts. B. Design engineering solutions that address diverse user needs through inclusive and ethical user-centred design (UCD) practices. C. Contribute effectively to a team to design, develop, and validate a prototype solution to an engineering problem, demonstrating collaborative project execution and effective engineering management. D. Communicate complex technical information effectively to both specialist and non-specialist audiences through structured written reports and oral presentations. E. Plan and record self-learning and development in industry-relevant projects as the foundation for lifelong learning and continuous professional development.",
+        "Method of teaching and learning": "Industrial Awareness and Group Project utilizes a diverse range of teaching and learning methods to support students in mastering advanced engineering technologies and project planning and management skills. These include interactive lectures to introduce key concepts and theories, hands-on laboratories for practicing typical engineering technologies. Most importantly, students engage in collaborative group work to explore real-world engineering project development scenarios typically for product development, where students receive personalized guidance during tutorials to refine their individual engineering projects. Independent study is emphasized, with students tasked to research on user needs, review existing products/solutions through literature, existing products information, market survey, etc., design engineering project proposal, implement detailed design, prototyping and testing, launch their project demonstration through group presentation and prototype demonstration, and, finally, write up a final report detailing their projects."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MEC202&psl_code=SEM2"
+    }
+  ]
+}

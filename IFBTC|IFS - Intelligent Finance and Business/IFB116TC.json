@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Quality Management",
+  "module_code": "IFB116TC",
+  "offerings": [
+    {
+      "heading": "Quality Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Quality Management",
+        "module_code": "IFB116TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "Quality Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the principles and practices of Quality Management (QM) for both manufacturing and service-oriented organisations, with a particular focus on the former. The module explores the evolution of Quality Management from its roots in inspection and statistical control to modern strategic frameworks like Total Quality Management (TQM) and Lean Six Sigma, culminating in an examination of Quality 4.0 and the impact of digitalisation. The module aims to equip students with the fundamental knowledge to critically analyse quality systems and apply core tools for continuous improvement. Crucially, students will learn to evaluate how quality acts as a strategic asset, driving operational excellence and competitive advantage.",
+        "Learning outcomes": "Students should be able to: A. Explain the core principles and terminology of Quality Management (QM), including quality assurance, quality control, and continuous improvement, and their impact on organizational performance. B. Trace the historical evolution of Quality Management, from inspection-based approaches to Total Quality Management (TQM) and Quality 4.0 (digital QM in the Industry 4.0 era). C. Select and use basic quality tools (e.g., checklists, flowcharts, cause-and-effect diagrams) and techniques (e.g., benchmarking, continuous improvement) to monitor and communicate quality performance in operational contexts. D. Apply Total Quality Management (TQM) methodologies to analyse and improve quality processes in operational settings.",
+        "Method of teaching and learning": "The module's teaching philosophy is rooted in the principles of Syntegrative Education. As a result, its delivery pattern emphasises intensive block teaching, enabling more substantial contributions from industry partners. This philosophy also shapes the assessment approach, reducing reliance on exams and prioritizing coursework, particularly problem-based and project-focused assessments. The delivery schedule is designed to create space within the semester for students to focus on completing their assignments. Key themes are introduced during lectures and further explored through seminars and tutorials. Students are encouraged to engage in follow-up and background reading and conduct independent research to thoroughly analyse the importance of quality management in achieving operational excellence. The module also incorporates case study analysis, prescribed reading materials, and research-informed teaching methods."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB116TC&psl_code=SEM2"
+    }
+  ]
+}

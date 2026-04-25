@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Organisational Behaviour and People Management",
+  "module_code": "SMO408",
+  "offerings": [
+    {
+      "heading": "Organisational Behaviour and People Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Organisational Behaviour and People Management",
+        "module_code": "SMO408",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Organisational Behaviour and People Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to introduce human behaviour in organization to MSc students. Through translating organizational behavour concepts, theories and techniques into practical business and management setting, the module intends to show students diverse social and cultural factors that affect behaviour in organisations as well as how these concepts influence the framework of managing people within organisations.",
+        "Learning outcomes": "A. Explain and critically analyse key organisational behaviour theories and concepts. B. Reflect on the role of individual differences (e.g. personality, motivation) in organizational behaviour and people management. C. Evaluate the nature and role of people management/human resource management in organisations.",
+        "Method of teaching and learning": "The teaching and learning are action based and enable students to engage with real world cases. Teaching will be organized in different formats that suit diverse topics."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO408&psl_code=SEM2"
+    }
+  ]
+}

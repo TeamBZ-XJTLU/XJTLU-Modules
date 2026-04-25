@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Cellular And Molecular Biology",
+  "module_code": "BIO103",
+  "offerings": [
+    {
+      "heading": "Cellular And Molecular Biology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Cellular And Molecular Biology",
+        "module_code": "BIO103",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Cellular And Molecular Biology",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a good understanding of cellular biology and molecular biology that is essential in underpinning many areas of biological studies and the information processing pathways in the cell that lead to the expression of the genetic information encoded in DNA. The cellular biology part of this module introduces students to a range of core concepts relating to the structure and function of eukaryotes and prokaryotes. It addresses both the important components of the cell and their role in the context of diverse biological phenomena, including growth and development, division and signaling, thereby integrating important aspects of physiology, pharmacology, biochemistry and genetics. The molecular biology part of this module introduces the structures and functions of the major components involved in genetic information processing pathways; proteins and nucleic acids, will be explained. DNA replication and its mutation, transcription and translation and how gene expression is regulated will be introduced.",
+        "Learning outcomes": "A. Define key features of prokaryotes and eukaryotes, including morphology and composition of the major cell components. B. Explain the interplay of selected cellular components and their roles in cellular behaviour and cell-cell interactions. . C. Define essential elements of protein and nucleic acid structure and understand the mechanisms of synthesis of DNA, RNA and proteins. D. Define key concepts relating to DNA mutation and DNA repair. E. Describe key principles relating to gene expression and the regulation thereof. F. Apply, evaluate and interpret this knowledge to solve problems in biology.",
+        "Method of teaching and learning": "The module content will be delivered primarily via standard lectures that will be accompanied by suitable lecture handouts (also available on the Learning Mall Online). At intervals during the module, tutorials and revisions will aid student’s understanding and allow the students to self-assess their understanding of the course."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO103&psl_code=SEM1"
+    }
+  ]
+}

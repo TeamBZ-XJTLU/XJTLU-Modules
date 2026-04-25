@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Healthcare Supply Chain Management",
+  "module_code": "APH439",
+  "offerings": [
+    {
+      "heading": "Healthcare Supply Chain Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Healthcare Supply Chain Management",
+        "module_code": "APH439",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Healthcare Supply Chain Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Students in pharmacy and related fields must understand the vital role of effective pharmaceutical management in ensuring the accuracy, efficiency, and quality of products for end users, including healthcare providers, research institutions, and commercial retailers. This module gives a practical and realistic overview of how pharmaceutical industries operate at the commercial end of the operation.",
+        "Learning outcomes": "Students completed the module are expected to be able to A. understand the key concepts and principles of healthcare supply chain management at an advanced level. B. analyze and evaluate the challenges and opportunities in healthcare supply chain management. C. develop strategies to optimize healthcare supply chain processes and improve operational efficiency. D. critically assess the impact of technology and innovation on healthcare supply chain management. E. demonstrate advanced knowledge and skills in managing procurement, inventory, and distribution in the healthcare sector. F. apply theoretical frameworks and best practices to real-world healthcare supply chain management scenarios. G. communicate effectively and collaborate with stakeholders in the healthcare supply chain to achieve organizational goals.",
+        "Method of teaching and learning": "The method of teaching includes Lectures and seminars. Students will also be requested to perform a case study through which they can acquire deeper understanding of supply chain management in pharmaceutical industry. Lectures: Engage students in interactive lectures to introduce key concepts and theories in healthcare supply chain management. Case studies: Analyze real-world cases to understand challenges and opportunities in healthcare supply chain management and develop problem-solving skills. Group projects: Collaborate with peers to work on projects that simulate healthcare supply chain scenarios and develop teamwork and communication skills. Guest lectures: Invite industry experts to share their insights and experiences in healthcare supply chain management to provide practical perspectives. Site visits: Visit healthcare facilities and supply chain organizations to observe supply chain processes in action and gain practical knowledge. Workshops: Participate in hands-on workshops to develop skills in procurement, inventory management, and distribution in the healthcare sector. Discussions: hold tutorial/forum discussing and debating current issues and trends in healthcare supply chain management and enhance critical thinking abilities."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH439&psl_code=SEM2"
+    }
+  ]
+}

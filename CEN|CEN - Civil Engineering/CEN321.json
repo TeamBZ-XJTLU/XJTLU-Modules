@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Construction Cost Estimation and Control",
+  "module_code": "CEN321",
+  "offerings": [
+    {
+      "heading": "Construction Cost Estimation and Control",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "CEN",
+        "full_name": "Construction Cost Estimation and Control",
+        "module_code": "CEN321",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Construction Cost Estimation and Control",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To introduce the techniques and procedures used for estimating the cost of construction projects including the cost estimation process, elements of project cost, conceptual and detailed cost estimation methods, risk assessment and range estimation, computer-aided estimation and case studies; and to acquire comprehensive understanding of contractual relationships and organisational structures, bidding strategies, time-cost trade-offs, resource allocation, cash flow analysis, the earned-value concept for integrated time and cost control, quality control and value engineering.",
+        "Learning outcomes": "A Apply conceptual and detailed cost estimating methods to construction projects. B Use techniques and develop procedures for work breakdown structures (WBS), quantity take-off, and calculate cost of construction deliverables for different structures. C Analyze bidding documents and apply knowledge of contract relationship and marketing and bidding strategy to construction projects. D Evaluate time, budget, and quality of projects by using earned-value and value engineering approach. Analyze and optimize resource allocation. E Analyze cash flow of a construction project, and select appropriate cost control techniques. F Evaluate budget and time management through a real project using detailed cost estimation and cost control strategies.",
+        "Method of teaching and learning": "The material in this module is delivered through lectures. A project will be assigned to groups of students to estimate the detailed cost of construction. Software packages (e.g., Primavera) will be introduced for quantity take-off and cost estimating."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN321&psl_code=SEM2"
+    }
+  ]
+}

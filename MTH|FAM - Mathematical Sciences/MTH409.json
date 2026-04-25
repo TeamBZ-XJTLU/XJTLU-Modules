@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FAM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Portfolio Theory and Risk Management",
+  "module_code": "MTH409",
+  "offerings": [
+    {
+      "heading": "Portfolio Theory and Risk Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Portfolio Theory and Risk Management",
+        "module_code": "MTH409",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Portfolio Theory and Risk Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To equip students with Quantitative Methods and Techniques for Investment Analysis.",
+        "Learning outcomes": "a) Describe Linear Regression and Correlation; b) Describe Multiple Regression, Correlation and issues in Regression Analysis; c) Decision Making under Uncertainty; d) Fundamental Factor Models; e) Time Series Analysis; f) Fundamental Factor Models & Portfolio Concepts; g) Discuss the relationship between CAPM and APT that is specified with fundamental factor models; h) Explain the problem with using historical beta and how fundamental beta attempts to address this problem; i) Compare and contrast statistical factor models with both macroeconomic and fundamental factor models; j) Distinguish between the raw descriptors commonly used in macroeconomic factor models and the descriptors used in fundamental factor models; k) Explain how fundamental factor models can be used in portfolio management.",
+        "Method of teaching and learning": "Lectures and In-class exercises"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH409&psl_code=SEM1"
+    }
+  ]
+}

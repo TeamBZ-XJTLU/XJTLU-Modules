@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Principles & Practices In Early Childhood Education",
+  "module_code": "EDS450",
+  "offerings": [
+    {
+      "heading": "Principles & Practices In Early Childhood Education",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Principles & Practices In Early Childhood Education",
+        "module_code": "EDS450",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Principles & Practices In Early Childhood Education",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will provide students with an understanding of the key aspects of an early childhood educator's principles and practices in a global context. The principles and designs are based on the National Quality Standards (2020). The five principles and eight practices of the Early Year Learning Framework (EYLF) are critiqued as they apply to early childhood educators’ practice. In this module, students will compare the curriculum, pedagogy, ECE systems of China and other countries. The importance of flexible and sustainable learning environments for children’s learning and development is considered and analyzed.",
+        "Learning outcomes": "A Describe and apply the key principles and practices of the Early Years Learning Framework B Demonstrate understanding and analysis of the importance of relationships and how to build and foster them with children, families, staff and the community respecting the diversities of their histories and background C Develop the knowledge and skills regarding setting up learning environments for children that are flexible and sustainable both indoors and outdoors D Critically analyze the holistic approaches of principles and practices in early childhood education.",
+        "Method of teaching and learning": "This module will be delivered through a combination of lectures, tutorials, and field work with a focus on Research-Led Project-Based Learning (RLPBL) approaches. Lectures and tutorials provide students with key conceptual, theoretical, and methodological insights. The field work, including preschool fieldtrips, observations, and case analyses provide opportunities for collaborative and individual practice, critical reflection, and iterative development of project design."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS450&psl_code=SEM2"
+    }
+  ]
+}

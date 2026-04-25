@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Computer Graphics",
+  "module_code": "CPT205",
+  "offerings": [
+    {
+      "heading": "Computer Graphics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Computer Graphics",
+        "module_code": "CPT205",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Computer Graphics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides the students with a deep understanding of key topics in computer graphics, and equip them with practical skills for design and implementation of applications in computer graphics with contemporary tools. It lays a foundation for further development in related areas such as 3D modelling, image processing, visualisation and virtual reality.",
+        "Learning outcomes": "A. Identify and describe key topics and real-world applications in computer graphics. B. Explain and demonstrate concepts such as geometric creation, transformations, viewing and projection, hierarchical modelling, clipping and hidden geometry removal, lighting and materials, and texture mapping. C. Implement and evaluate appropriate computer graphics techniques or algorithms for specific scenarios. D. Develop programming code using a popular graphics platform (e.g., OpenGL), and critically analyse the resulting graphical outputs.",
+        "Method of teaching and learning": "The students will learn key concepts and theoretical methods through lectures and independent learning to strengthen their understanding. They will gain practical skills through guided lab sessions using a popular graphics platform (e.g. OpenGL) for design and implementation of applications in computer graphics; a sample program is given for each key topic on a weekly basis while they are required to complete a series of tasks for both hands-on coding and manual work on the concepts and theories."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT205&psl_code=SEM1"
+    }
+  ]
+}

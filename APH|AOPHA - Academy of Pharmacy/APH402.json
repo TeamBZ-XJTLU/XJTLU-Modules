@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Modern Instrumentation Analytical Technologies",
+  "module_code": "APH402",
+  "offerings": [
+    {
+      "heading": "Modern Instrumentation Analytical Technologies",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Modern Instrumentation Analytical Technologies",
+        "module_code": "APH402",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Modern Instrumentation Analytical Technologies",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of analytical chemistry is to develop and apply methods and instruments in order to gain information of the nature and composition of inorganic and organic matter, including complex biological samples. This module provides students with an understanding of various modern analytical techniques and their applications. This module will cover the fundamental theoretical principles of selected instrumental analytical techniques in the context of their roles in industrial and academic research, including chemical and pharmaceutical analysis.",
+        "Learning outcomes": "A. Recognize, describe, and compare the current trends in the application of the instrumental analytical methods B. Demonstrate awareness of the theoretical concepts of NMR spectroscopy, Mass-Spectrometry, Chromatography, hyphenated techniques GC/HPLC-MS, and ICP-based methods C. Identify an appropriate technique or multi-technique approach to evaluate the structures, properties, and the composition of organic/inorganic/pharmaceutical substances. D. Students will improve their confidence in scientific communication and develop presentation skills of analytical data",
+        "Method of teaching and learning": "Lectures, workshops, and self-study"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH402&psl_code=SEM1"
+    }
+  ]
+}

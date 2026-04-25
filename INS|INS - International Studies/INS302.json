@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "International Relations: Final Year Project",
+  "module_code": "INS302",
+  "offerings": [
+    {
+      "heading": "International Relations: Final Year Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "International Relations: Final Year Project",
+        "module_code": "INS302",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 3",
+        "Module Title": "International Relations: Final Year Project",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The capstone project for the BA in International Relations, this module provides students with the opportunity to produce an independent piece of research under supervision that examines a specific and substantial intellectual problem in depth, making use of approaches, techniques and methods acquired elsewhere in the course. Planning for the Final Year Project will commence in the module INS202 International Relations Research Methods and research will start during the first semester of the final year of study, when students will usually study abroad. The Final Year Project provides the experience of being engaged in library research and fieldwork that leads to an individually produced dissertation.",
+        "Learning outcomes": "A.Identify a particular intellectual problem and produce a plan to address that problem; manage time effectively to complete their plan; B. Locate and make use of information relevant to their project; C. Understand the value of library research, fieldwork and practical experience in the solution of intellectual problems; D. Design a solution to an intellectual problem; E. Critically evaluate their own work and place it in the context of the secondary literature; F. Structure and write a dissertation or report.",
+        "Method of teaching and learning": "The Final Year Project is designed for students to develop a piece of independent research under the guidance of a supervisor. While the work concludes in Semester 2 of the final year of study, preparation for research commences in Semester 2 of Year 3 in INS202 International Relations Research Methods where a research proposal is first formulated. During Semester 1 of the final year of study, students studying abroad have the opportunity to conduct some of the library research and fieldwork leading to the final dissertation in their host country. Students who do not study abroad will conduct research and fieldwork based at XJTLU. In Semester 2 of Year 4 students complete all library research and fieldwork, all of which lead to the delivery of a dissertation by year’s end. Each student is assigned a specific supervisor at the start of the Final Year Project. In Year 4, students are provided seminars and tutorials with further guidance on research and dissertation writing as well as an opportunity to discuss their work in progress. Based on an assessed report, student projects are reviewed midway during the year to monitor progress and provide formative feedback. Students maintain regular contact with supervisors throughout the project to receive direction and advice as needed."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS302&psl_code=ACYR"
+    }
+  ]
+}

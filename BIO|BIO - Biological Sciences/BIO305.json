@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Gene Expression and Genome Analysis",
+  "module_code": "BIO305",
+  "offerings": [
+    {
+      "heading": "Gene Expression and Genome Analysis",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Gene Expression and Genome Analysis",
+        "module_code": "BIO305",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Gene Expression and Genome Analysis",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is for Level 3 undergraduates in Biological Sciences and aims for students to understand how gene expression of eukaryotes is regulated with the different mechanisms, for example, in response to the changes of environment. It will explain how eukaryotes control the gene expression at the different steps in a regulatory network by focusing on both model and non-model organisms. In addition, it will introduce the current techniques used for a large scale analysis of whole genome to open up a new era of Molecular Biology. It will also provide an opportunity to use and apply these techniques to examine the several specific features of genomic DNA as well as protein sequences.",
+        "Learning outcomes": "On successful completion of this module, students should be able to demonstrate an advanced knowledge and understanding of gene expression and genome analysis in the following areas: A. Understand how gene expression in eukaryotes is regulated. B. Comprehend how and why both model a305nd non-model organisms have been used for research on gene expression and genome analysis. C. Understand thoroughly the recent techniques to analyze genes at whole genome level. D. Critically evaluate the results of basic genome analysis using various databases and tools available in NCBI. E. Critically read and evaluate the recent literatures on gene expression and genome analysis.",
+        "Method of teaching and learning": "Module content will be delivered by a combination of lectures and workshops. The contents of lectures (power point files) are also available on Web. For workshops, each student will need a lap top computer with internet connection."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO305&psl_code=SEM1"
+    }
+  ]
+}

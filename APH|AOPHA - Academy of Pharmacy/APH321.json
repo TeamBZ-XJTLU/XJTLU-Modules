@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Vaccine Development: From Concept to Clinic",
+  "module_code": "APH321",
+  "offerings": [
+    {
+      "heading": "Vaccine Development: From Concept to Clinic",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Vaccine Development: From Concept to Clinic",
+        "module_code": "APH321",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Vaccine Development: From Concept to Clinic",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip final-year students with a focused understanding of vaccinology. It builds upon prerequisite immunology and molecular biology knowledge, synthesizing concepts from genetics and public health. It prepares students for further studies or careers in biotechnology, pharmaceutical industries, and research.",
+        "Learning outcomes": "A. Critically evaluate the rationale and design of major vaccine platforms B. Propose solutions to vaccine design challenges C. Communicate scientific concepts effectively in a written format",
+        "Method of teaching and learning": "Core knowledge is delivered through condensed lectures. Tutorials provide guided support for students. Private study hours are required for reading, research, critical thinking, and assignment preparation."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH321&psl_code=SEM1"
+    }
+  ]
+}

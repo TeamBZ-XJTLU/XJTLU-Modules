@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Advanced Analytical Chemistry",
+  "module_code": "CHE401",
+  "offerings": [
+    {
+      "heading": "Advanced Analytical Chemistry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Advanced Analytical Chemistry",
+        "module_code": "CHE401",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Analytical Chemistry",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To introduce advanced level of selected analytical techniques and data analysis methods.",
+        "Learning outcomes": "A critically discuss the importance of analytical chemistry in a wide range of application areas B demonstrate good understanding of the background theories of analytical techniques covered C demonstrate good understanding of the theories behind instrumental configuration and the data collection mechanisms D appreciate the differences between ‘limitations of technique’ and ‘machine limitation’ E critically interpret data using graphical/numerical and statistical techniques",
+        "Method of teaching and learning": "Lectures and seminars"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE401&psl_code=SEM1"
+    }
+  ]
+}

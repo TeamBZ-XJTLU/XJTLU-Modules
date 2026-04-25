@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Interaction With People In Contemporary Project",
+  "module_code": "SMO426",
+  "offerings": [
+    {
+      "heading": "Interaction With People In Contemporary Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Interaction With People In Contemporary Project",
+        "module_code": "SMO426",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Interaction With People In Contemporary Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to a people-oriented perspective integrated with AI capabilities in contemporary projects. This includes self-management/reflection and interaction with others. Because of dynamics in contemporary project, meeting project objectives usually means change people’s mindset and behaviour. How to interact with people effectively is the key challenge faced by many project managers and also critical to project success. This module underpins students understanding of theories of self-management, managing people, developing the practical skills facilitating interaction with people, as well as leveraging AI-driven communication tools to enhance interaction efficiency in a contemporary project context.",
+        "Learning outcomes": "A Explain and critically analyse people management theories and concepts. B Identify and reflect on how personal values, experience, motivation affect project development. C Demonstrate effective skills of gaining engagement and commitment from others, including leveraging AI-driven communication tools to enhance interaction efficiency. D Evaluate and critically analyse leadership and ways to improve influence/leadership. E Comprehend, and apply knowledge and learning to deal with conflicts and collaborations. F Promote and apply creative techniques integrated with AI tools to explore innovative alternatives and solutions for complex project challenges.",
+        "Method of teaching and learning": "The teaching and learning are action based and enable students to engage with real world cases that reflect the human-AI collaborative landscape of modern projects. Teaching will be organized in different formats such as lecture, seminar, simulation, tutorials and etc. that suit diverse topics."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO426&psl_code=SEM2"
+    }
+  ]
+}

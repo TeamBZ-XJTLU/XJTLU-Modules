@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Film History",
+  "module_code": "FTA217",
+  "offerings": [
+    {
+      "heading": "Film History",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Film History",
+        "module_code": "FTA217",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Film History",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module explores the long history of film development, focusing on both artistic and industrial aspects. Throughout this module, students will develop a historical appreciation of film, exploring narrative, documentary, and experimental forms and acquire the critical, technical, and aesthetic vocabulary related to cinematic practices and structures.",
+        "Learning outcomes": "A. Demonstrate an in-depth understanding of film history and a variety of cinematic styles. B. Demonstrate knowledge of significant movements, innovations, and figures in film history. C. Form and articulate a critical analysis and evaluation of a cinematic work.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (lectures and seminars/screenings). While reading a large amount of film history materials, students will watch some films or their clips that represent milestones in film history, and further deepen their understanding of film history through discussions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA217&psl_code=SEM2"
+    }
+  ]
+}

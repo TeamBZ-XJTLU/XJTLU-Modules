@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Personal and Employability Skills for Chemists",
+  "module_code": "CHE407",
+  "offerings": [
+    {
+      "heading": "Personal and Employability Skills for Chemists",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Personal and Employability Skills for Chemists",
+        "module_code": "CHE407",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Personal and Employability Skills for Chemists",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to broaden student’s perspective on chemistry and to develop general transferable skills in accessing information, oral and written communication and employability through chemical database skills, including on-line searching of literature, citations, chemical reactions and structures. Chemical database skills are now important resources for common use by practicing chemical scientists. This module also aims to develop in students an understanding of project management and its principles in a contemporary and diverse project environment, as well as the strategies to achieve a successful project outcome.",
+        "Learning outcomes": "A use scientific databases effectively for literature and citation searches B find relevant information from on-line chemical databases regarding chemical reactions and structures C critically evaluate research papers of a similar theme D create and deliver a PowerPoint presentation and talk authoritatively to an audience of peers E further developed an understanding of plagiarism and collusion F recognize and demonstrate a critical understanding of the fundamental properties of projects, as well as be able to apply project management skills and knowledge to chemistry",
+        "Method of teaching and learning": "Lectures and seminars"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE407&psl_code=SEM1"
+    }
+  ]
+}

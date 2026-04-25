@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Language and Media",
+  "module_code": "LNG201",
+  "offerings": [
+    {
+      "heading": "Language and Media",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Language and Media",
+        "module_code": "LNG201",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Language and Media",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module offers students a comprehensive introduction to how language interacts with media. Understood in its broadest sense, media discourse is here viewed both within an interactional and a representational or critical framework. By using a wide variety of authentic texts from newspaper coverage, interview, speech, chat show, advertising, reality television, weblog, etc., it will equip students with a good knowledge of different varieties of language used in media discourse, of how patterns in such language use contribute to recognizable media genres and styles, of broader social themes and consequences that arise from media language, as well as of a number of approaches to media discourse. • To introduce different varieties of language used; • To discuss different approaches to media discourse; • To explore, from different perspectives, how information is presented; • To analyse a variety of authentic texts; • To evaluate media discourse as a social practice.",
+        "Learning outcomes": "A. Demonstrate knowledge of key concepts in language and media B. Identify different media discourse genres and media rhetoric C. Critically analyse different varieties of language D. Analyze real texts with different but appropriate approaches E. Explain the link of language used to broader social themes like identity, power relations, and ideology F. Critically reflect on media discourse",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (Lectures and Tutorials/workshops). Lectures Tutorials/ workshops"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG201&psl_code=SEM1"
+    }
+  ]
+}

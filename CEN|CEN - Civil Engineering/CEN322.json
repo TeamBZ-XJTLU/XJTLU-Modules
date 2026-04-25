@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Building Information Modelling",
+  "module_code": "CEN322",
+  "offerings": [
+    {
+      "heading": "Building Information Modelling",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Building Information Modelling",
+        "module_code": "CEN322",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Building Information Modelling",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To enable students to apply the concepts of Building Information Modelling (BIM) through the development of architectural 3D models on industry standard parametric CAD systems; to cover the practical competence of architectural modelling and provides exposure on coordinating building information models; to develop the knowledge required for the management of BIM systems and understand the roles of the designer; and to demonstrate the ability to produce realistic rendering and animation using industry standard software.",
+        "Learning outcomes": "A Integrate Building Information Modeling (BIM) knowledge into the current project delivery method to fulfill the interoperability among different stakeholders. B Design a small scale building, including structures, Mechanical, Electrical, and Plumbing (MEP), and other components using BIM knowledge. Apply knowledge in multi-disciplinary design to integrate structure analysis and building service design. C Incorporate BIM usage in the life cycle of the building, including design, construction, and operation phases, and familiar with different information technology that can be applied to enhance BIM application. D Develop applications to enhance interoperability between different stakeholders related with building projects through Industrial Foundation Classes (IFC) based data exchange. E Apply clash detection, construction progress simulation, and other advanced functions in BIM applications. Design efficiently by taking advantages of parametric modeling aspects.",
+        "Method of teaching and learning": "The material in this module is delivered through a combination of lectures, seminars, tutorials and computer labs. Detailed BIM case studies will be assigned to groups of students to explore more information and to enhance their understanding. Revit software packages will be introduced during the computer lab classes. Building component modeling will be assigned to students using the introduced software packages. In addition, seminars will be offered to students from departmental Industrial Advisory Board (IAB) to gain industrial experiences."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN322&psl_code=SEM2"
+    }
+  ]
+}

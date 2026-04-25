@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "General Laboratory Techniques and Experiments in Environmental Science",
+  "module_code": "ENV115",
+  "offerings": [
+    {
+      "heading": "General Laboratory Techniques and Experiments in Environmental Science",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "General Laboratory Techniques and Experiments in Environmental Science",
+        "module_code": "ENV115",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "General Laboratory Techniques and Experiments in Environmental Science",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aim is to provide a foundation for L1 students to gain laboratory skills necessary for future modules and study. The model is structured around laboratory experiments that provide hands-on-experience to facilitate students learning basic fundamental physical, biological and chemical processes in the environment. The aim of the laboratory experiments is for students to be able to gain essential laboratory skills needed in future modules and self-study through the practical experience of careful observation, appropriate handling of environmental samples and correct use of analytical instruments. In addition to essential laboratory skills, this module also places emphasis on sample analysis quality control both through sample replication, comparison to reference materials and basic data analysis.",
+        "Learning outcomes": "A obtain a basic understanding of good laboratory practice including following procedures, lab safety, sample handling, record keeping, etc. B recall the principles and practical of accurate and precise measurements in laboratory work C obtain specific skills in the use of selected important environmental analytical instruments D carry out appropriate data analysis E understand the basic processes underlying the human-environment interactions",
+        "Method of teaching and learning": "The first week provides a tutorial on the module structure. Subsequently, seven laboratory experiments will be performed, one every other week. Each of the seven laboratory experiments will start with a two-hour lecture in which the instructor and/or laboratory staff will provide the topics background knowledge, experiment specification and/or a demonstration of the instruments involved. This lecture will be followed by a four-hour lab session. After each experiment is completed, a one-hour tutorial will be provided for discussion and feedback."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV115&psl_code=SEM1"
+    }
+  ]
+}

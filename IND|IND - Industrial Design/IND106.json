@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IND",
+    "domain_code": "IND",
+    "full_name": "Industrial Design"
+  },
+  "full_name": "Fluid Mechanics and Thermodynamics",
+  "module_code": "IND106",
+  "offerings": [
+    {
+      "heading": "Fluid Mechanics and Thermodynamics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IND",
+        "full_name": "Fluid Mechanics and Thermodynamics",
+        "module_code": "IND106",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Fluid Mechanics and Thermodynamics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce the fundamental principles of fluid mechanics and the physics of thermofluid flow processes, and to develop tools to analyse simple engineering thermofluids systems. The module also aims to lay a solid foundation for subsequent work involving civil engineering hydraulics and thermodynamics. It is used also to develop skills in the written and oral presentation of a technical subject.",
+        "Learning outcomes": "A. Describe and define the fundamental concepts and principles in fluid mechanics and thermodynamics. B. Comprehend the mathematical models for fluid mechanics analysis and thermodynamics analysis. C. Apply appropriate modelling and analytical approaches to solve problems in fluid mechanics and thermodynamics systems",
+        "Method of teaching and learning": "The material in this module is delivered through a combination of formal lectures, tutorials and supervised practical sessions. General transferable skills are developed through the presentation of written and oral reports."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IND106&psl_code=SEM2"
+    }
+  ]
+}

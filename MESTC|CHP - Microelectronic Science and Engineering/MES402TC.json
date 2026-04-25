@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHP",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "Characterization Of Materials And Microelectronic Devices",
+  "module_code": "MES402TC",
+  "offerings": [
+    {
+      "heading": "Characterization Of Materials And Microelectronic Devices",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Characterization Of Materials And Microelectronic Devices",
+        "module_code": "MES402TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Characterization Of Materials And Microelectronic Devices",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The course is designed to introduce students to the screening of materials based on their electronic, mechanical, optical, and thermal properties through advanced material characterization techniques, which include the application of optical and microscopy techniques to characterize materials and analyse their properties; the use of surface analysis techniques to identify chemical states and properties; and the application of thermal analysis techniques to test material properties or properties exhibited as a function of temperature. At the same time, the understanding of the basic operating principles of microelectronic devices is enhanced through electrical test characterization and emerging characterization methods, such as reliability and failure analysis and charge measurements.",
+        "Learning outcomes": "A Develop expertise in applying various microscopic techniques to characterize materials and analyse their properties B Understand chemical elements, chemical states, and properties of materials by selecting and applying elemental and surface analysis techniques C Understand electrical or optical properties of the semiconductor devices through various measurement methods",
+        "Method of teaching and learning": "The module is delivered through formal lectures, seminars, and lab sessions. Students will learn through a combination of theory and practical experimentation and develop data analysis, writing, and oral presentation skills through laboratory and project work."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES402TC&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Mathematical Models of Solids and Fluids",
+  "module_code": "MTH308",
+  "offerings": [
+    {
+      "heading": "Mathematical Models of Solids and Fluids",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Mathematical Models of Solids and Fluids",
+        "module_code": "MTH308",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Mathematical Models of Solids and Fluids",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide an introduction to the mathematical theory of viscous fluid flows and solid elastic materials. Cartesian tensors are first introduced. This is followed by modelling of the mechanics of continuous media. The module includes particular examples of the flow of a viscous fluid as well as a variety of problems of linear elasticity.",
+        "Learning outcomes": "A. Work out the mathematical form of a given model in different coordinate systems, using the transformation properties of tensors. B. Model simple systems using the basic concepts of continuum mechanics such as continuum hypothesis, conservation laws, stress, deformation and constitutive relations. C. Build a model to predict deformation of elastic solids under sufficiently small applied forces. D. Solve the Navier-Stokes equation for incompressible viscous fluids in simple cases, and estimate viscosity of fluids from observations. E. Critically analyse the predictions of a quantitative model to validate or reject the assumptions.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH308&psl_code=SEM2"
+    }
+  ]
+}

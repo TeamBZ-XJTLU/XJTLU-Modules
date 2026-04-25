@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Studio Roles and Responsibilities",
+  "module_code": "FTA118",
+  "offerings": [
+    {
+      "heading": "Studio Roles and Responsibilities",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Studio Roles and Responsibilities",
+        "module_code": "FTA118",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Studio Roles and Responsibilities",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to build on the foundational skills acquired in FTA127 Inserts Production by enabling students to develop, research, and produce content suitable for an existing factual programme outline. Students will gain in-depth knowledge of formatted factual programming production practices, particularly within a studio environment. They will critically reflect on their programme content, considering its impact on audiences, and develop an understanding of how content can shape viewer perceptions and engagement. Throughout the module, students will collaborate on the execution of a series of short, highly structured, multi-camera productions. They will engage in research, planning, scripting, and content creation within the framework of a predefined programme format, honing their abilities in both creative and technical aspects of production. Key areas of focus include scripting, directing, technical operations, and post-production processes. In addition, the module will enhance students' capacity to pitch television concepts, refining their verbal and written communication skills to effectively present proposals to broadcasters, funders, and commissioning panels. Through hands-on practice and group collaboration, students will develop and refine multiple programme concepts, employing critical thinking and problem-solving skills throughout each project. They will gain comprehensive experience in all aspects of studio production, including floor and control room operations. By taking on diverse production roles and responsibilities, students will ensure smooth and professional studio broadcasts, with all roles and production plans being assigned and approved by the lecturer.",
+        "Learning outcomes": "A.Develop and research programme content that is appropriate to an existing factual programme outline B.Design, produce, and execute regular short episodes of a formatted factual programme, collaborating effectively in both individual and group production settings. C. Critically reflect on their programme content and how the nature of that content impacts on audiences.",
+        "Method of teaching and learning": "Students will learn to develop, research and plan programme content in the seminar sessions. They will then take it across to the television studio for practical implementation. Thus, they will be taught using the following methods: Seminars Participatory workshops Individual, small and large group work Practical sessions Self-directed learning"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA118&psl_code=SEM1"
+    },
+    {
+      "heading": "Studio Roles and Responsibilities",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Studio Roles and Responsibilities",
+        "module_code": "FTA118",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Studio Roles and Responsibilities",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to build on the foundational skills acquired in FTA127 Inserts Production by enabling students to develop, research, and produce content suitable for an existing factual programme outline. Students will gain in-depth knowledge of formatted factual programming production practices, particularly within a studio environment. They will critically reflect on their programme content, considering its impact on audiences, and develop an understanding of how content can shape viewer perceptions and engagement. Throughout the module, students will collaborate on the execution of a series of short, highly structured, multi-camera productions. They will engage in research, planning, scripting, and content creation within the framework of a predefined programme format, honing their abilities in both creative and technical aspects of production. Key areas of focus include scripting, directing, technical operations, and post-production processes. In addition, the module will enhance students' capacity to pitch television concepts, refining their verbal and written communication skills to effectively present proposals to broadcasters, funders, and commissioning panels. Through hands-on practice and group collaboration, students will develop and refine multiple programme concepts, employing critical thinking and problem-solving skills throughout each project. They will gain comprehensive experience in all aspects of studio production, including floor and control room operations. By taking on diverse production roles and responsibilities, students will ensure smooth and professional studio broadcasts, with all roles and production plans being assigned and approved by the lecturer.",
+        "Learning outcomes": "A.Develop and research programme content that is appropriate to an existing factual programme outline B.Design, produce, and execute regular short episodes of a formatted factual programme, collaborating effectively in both individual and group production settings. C. Critically reflect on their programme content and how the nature of that content impacts on audiences.",
+        "Method of teaching and learning": "Students will learn to develop, research and plan programme content in the seminar sessions. They will then take it across to the television studio for practical implementation. Thus, they will be taught using the following methods: Seminars Participatory workshops Individual, small and large group work Practical sessions Self-directed learning"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA118&psl_code=SEM2"
+    }
+  ]
+}

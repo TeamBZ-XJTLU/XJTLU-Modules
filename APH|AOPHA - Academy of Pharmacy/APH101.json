@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Biostatistics and R Programming",
+  "module_code": "APH101",
+  "offerings": [
+    {
+      "heading": "Biostatistics and R Programming",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Biostatistics and R Programming",
+        "module_code": "APH101",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Biostatistics and R Programming",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with a basic introduction to the principles of biostatistics, study design and analysis in pharmacy. Students will learn basic statistical methods using R programming language, and the application of statistics to pharmacy-based research. Students will gain fundamental statistical skills that are used in investigations of a range of issues in clinical practice and pharmaceutical care. The module will cover methods of summarizing data, the process of statistical inference and the use of estimation techniques.",
+        "Learning outcomes": "A Discuss the importance of data in pharmacy, including the importance of proper data collection, analysis and interpretation B Identify the nature of statistical inference as applied to clinical practice and pharmaceutical care C Outline estimation and testing methods in the analysis of univariate and bivariate relationships D Interpret the results of data analysis correctly and effectively with minimal reliance on statistical jargon. E Describe how to use statistical software/programming skills to summarize data numerically and visually to perform data analysis.",
+        "Method of teaching and learning": "The module is delivered through a series of lectures and practices. The lectures provide statistical theories and case studies in pharmacy. The practices use problem-oriented exercises, group work on case studies, discussions, and presentations. Students apply the knowledge learnt in the lectures and practices to the assignments and staff provides feedback to improve students understanding and applications of statistical theories."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH101&psl_code=SEM2"
+    }
+  ]
+}

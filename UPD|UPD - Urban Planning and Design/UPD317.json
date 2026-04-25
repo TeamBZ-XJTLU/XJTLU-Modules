@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "UPD",
+    "full_name": "Urban Planning and Design"
+  },
+  "full_name": "Urban Design Studio",
+  "module_code": "UPD317",
+  "offerings": [
+    {
+      "heading": "Urban Design Studio",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "Urban Design Studio",
+        "module_code": "UPD317",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Urban Design Studio",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module builds on students' prior understanding of the complexity of the contemporary built environment, linking it to the processes, principles, and approaches of urban design. It aims to enable students to critically analyze, interpret, and transform complex urban contexts at different scales, addressing functional, social, economic, environmental, and aesthetic dimensions. Through a progression from site analysis to strategic planning and detailed design, students will: (a) learn methods for evaluating and reflecting on urban structures and the quality of built environments; (b) engage with urban design theories, principles, and elements; and (c) understand the social, economic, and political forces shaping space, as well as the tools to influence urban development.",
+        "Learning outcomes": "A. Critically appraise the framing and rationale of urban design guidance within a wide and complex site. B. Assess the problems and challenges associated with urban regeneration. C. Understand and reflect on contemporary urban policies and practices in relation to current urban issues. D. Demonstrate analytical skills in evaluating complex sites and the characteristics and qualities of urban spaces to inform urban design proposals. E. Develop and communicate a coherent research-by-design project using appropriate techniques and visual representation to support design decision-making.",
+        "Method of teaching and learning": "Module Structure The module consists of a series of lectures and weekly tutorials that allow the students to explore a wide and complex urban area; Lectures provide the theoretical basis and methodological tools to understand a complex urban environment, to identify opportunities, and to define a design proposal. Studio based group and individual tutorials are used to facilitate the teaching and learning process and provide the students the tools needed to successfully complete their projects. Seminars are conducted in the form of workshops, discussions on coursework assignments, presentations by the students and reviews in the presence of other staff members or external guests. Context and scales Wide and complex urban area(s) are proposed to be investigated. Specific sites, programs and scale of intervention are defined by the students according to their interest and to the spatial, environmental and socio-economic issues that impact the area. Site Visits Students are encouraged to make site visits to build up their knowledge of different types and qualities of places, and to understand their production and usages. Assignments Students taking the module are assessed on the basis of group design work and individual design work. Apart from posters, other materials such as physical models, etc. are also assessed as part of the learning outcomes"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD317&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "MTS",
+    "full_name": "Material Science"
+  },
+  "full_name": "Analytical Methods for Materials",
+  "module_code": "MTS306",
+  "offerings": [
+    {
+      "heading": "Analytical Methods for Materials",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "MTS",
+        "full_name": "Analytical Methods for Materials",
+        "module_code": "MTS306",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Analytical Methods for Materials",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course is aimed to give students a firm foundation in the analytical methods for Materials required in subsequent years of study, in particular in their FYP and internships. The course is designed to explain the use of advanced techniques for the study of structure-property relationships in materials.",
+        "Learning outcomes": "A. Explain the fundamental principles of X-ray diffraction and analyse experimental data to determine a material's crystal structure. B. Apply core optical microscopy techniques to prepare specimens and interpret their microstructure. C. Relate the fundamental principles of electron-matter interactions to the image types and capabilities of scanning (SEM) and transmission (TEM) electron microscopes. D. Explain how contrast mechanisms in SEM and TEM images originate from fundamental electron interactions and diffraction theory.",
+        "Method of teaching and learning": "The module will be delivered through a combination of lectures, tutorials and labs."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTS306&psl_code=SEM1"
+    }
+  ]
+}

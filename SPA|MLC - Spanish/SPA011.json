@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MLC",
+    "domain_code": "SPA",
+    "full_name": "Spanish"
+  },
+  "full_name": "Language Variety in Spain & Latin America",
+  "module_code": "SPA011",
+  "offerings": [
+    {
+      "heading": "Language Variety in Spain & Latin America",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SPA",
+        "full_name": "Language Variety in Spain & Latin America",
+        "module_code": "SPA011",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Language Variety in Spain & Latin America",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides a comprehensive overview of the way language works in Spanish-speaking societies and about the nature of human language itself by acquainting students regarding the geographical, historical, and cultural factors that influence language usage within these regions. Students will be guided to explore questions about language variety, this is, the different ways people speak and in different places and contexts, such as in the workplace, at the university, at home, with friends, in films etc. Consequently, students will develop a holistic appreciation of the Hispanic world, recognizing the intricate relationship between language and society. This module is suitable for students interested in languages and culture, especially those considering programs in Humanities, Intercultural Studies, International Business or Relations.",
+        "Learning outcomes": "A Demonstrate a general understanding of language reality in the Hispanic world B Identify the use of language varieties according to social settings, social groups, and geography C Demonstrate a general understanding of the standardization implied in Spanish-speaking territories",
+        "Method of teaching and learning": "The module is conducted in English with no language prerequisite for accessing the course. Students will engage in a weekly lecture and a seminar, each lasting 1.5 hours, totaling 3 hours of instruction per week. The lecture sessions will introduce new content, focusing on theoretical aspects that will be further explored during seminars. Then, Seminars will provide an opportunity for collaborative discussions, allowing students to delve deeper into the topics covered in each week's lecture, exchange viewpoints with peers, and participate in Q&A sessions, in-class teamwork, and group discussions. Students will actively construct their own knowledge through critical reflection on various common scenarios or real-life examples. This active learning approach will be facilitated through the use of short readings and videos along with presentations containing relevant information. Additionally, handouts containing all course content and relevant information will be provided as reference materials and uploaded to the Learning Mall in advance."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SPA011&psl_code=SEM1"
+    }
+  ]
+}

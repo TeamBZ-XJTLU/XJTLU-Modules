@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FAM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Introduction to Financial Modelling",
+  "module_code": "MTH016",
+  "offerings": [
+    {
+      "heading": "Introduction to Financial Modelling",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Introduction to Financial Modelling",
+        "module_code": "MTH016",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Introduction to Financial Modelling",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course provides an introduction to data analysis using Excel. It covers important aspects of financial modelling and practical skills for constructing robust financial models that can be used for business planning.",
+        "Learning outcomes": "A.Be familiar with Excel interface components, including spreadsheets, functions, cells and charts B.Construct formulas, including the use of built-in functions, and relative and absolute references C.Conduct data analysis in cells D.Understand modelling techniques for finance E.Apply practice techniques for financial modelling with Excel",
+        "Method of teaching and learning": "In order to provide sufficient hands on experience, the module is based on a mixture of lectures andcomputer-lab sessions. There will be weekly computer laboratory session as well as weekly lecture. Furthermore, online formative assignments will be used to insure sufficient practice and timely feedback to students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH016&psl_code=SEM2"
+    }
+  ]
+}

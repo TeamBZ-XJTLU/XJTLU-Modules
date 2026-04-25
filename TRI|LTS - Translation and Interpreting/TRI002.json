@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LTS",
+    "domain_code": "TRI",
+    "full_name": "Translation and Interpreting"
+  },
+  "full_name": "Essentials of Translation and Interpreting",
+  "module_code": "TRI002",
+  "offerings": [
+    {
+      "heading": "Essentials of Translation and Interpreting",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "TRI",
+        "full_name": "Essentials of Translation and Interpreting",
+        "module_code": "TRI002",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Essentials of Translation and Interpreting",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module prepares students to enter the BA in Translation and Interpreting programme. Through case studies and hands-on translation exercises, it aims to provide students a basic understanding of what translation is, what it deals with, and its close connection with social development. It introduces students to the general principles and basic and central concepts of translation and interpreting, providing them with the opportunities of understanding the major features of translation and interpreting and raising their awareness of the explanatory significance of theory for practice.",
+        "Learning outcomes": "A. show a basic understanding of Translation and Interpreting in the digital age. B. demonstrate the knowledge of general principles and major concepts in Translation and Interpreting. C. demonstrate basic abilities in elucidating and discussing some of the fundamental questions addressed in Translation and Interpreting. D. obtain knowledge of the features of translationese and the know-how to avoid it.",
+        "Method of teaching and learning": "This module is delivered by a combination of lectures and tutorials. Lectures are designed to introduce students to the basic concepts in the new frontiers of Translation and Interpreting. Tutorials are mainly for students to apply the materials introduced in the lectures to practice. The assessment of the module includes in-class tests and essay writing."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=TRI002&psl_code=SEM2"
+    }
+  ]
+}

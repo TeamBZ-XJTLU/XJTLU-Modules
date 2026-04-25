@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MLC",
+    "domain_code": "SPA",
+    "full_name": "Spanish"
+  },
+  "full_name": "Introduction to Contemporary Spanish Pop-culture after 1975",
+  "module_code": "SPA010",
+  "offerings": [
+    {
+      "heading": "Introduction to Contemporary Spanish Pop-culture after 1975",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SPA",
+        "full_name": "Introduction to Contemporary Spanish Pop-culture after 1975",
+        "module_code": "SPA010",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Introduction to Contemporary Spanish Pop-culture after 1975",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to generate student awareness of the heterogeneous forms of pop-culture in Spain from the arrival of democracy, and reflect upon the impact of such culture items in setting up a range of social, cultural and economic values in Hispanic society at present. The module content is introduced chronologically through the decades from the arrival of the democracy and until the present moment, by going over different pop-culture blocks on each decade, such as: History, Music, Cinema, Media, Sports and Cyber-culture. The overarching aim is also improving students’ intercultural awareness and reflective skills when engaging in interactions, either in groups or one-on-one, with culturally diverse students and faculty. In addition, the module provides a general background about Spanish contemporary context within the framework of the development of the European Union, which will help students understand and reflect on the key-aspects of the current cultural and social European scene, in contrast with the Chinese context at present.",
+        "Learning outcomes": "A Identify concepts related to pop-culture, history and society of Spain, and demonstrate a general understanding of their impact on constituting present Spanish society B Compose appropriately organized, reflective pieces of writing related to pop-culture topics and other intercultural items C Prepare and conduct oral presentations effectively on different topics related to history, pop-culture and society.",
+        "Method of teaching and learning": "Students will have 2 hours of onsite seminars and 1 lecture session (1 hr.) per week as well as a number of self-study hours to prepare and work over the class contents; the language of instruction will be English (no prior knowledge of Spanish required). The seminars will be conducted using various teaching approaches and methods that encourage students to discover meaning and knowledge independently and through working with peers. The module will include a mixture of group-activities, flipped-classroom, pre-lesson video and/or readings, workshops delivered by guest speakers, and online activities with authentic materials from each decade. Besides, it will encourage experiential and practical learning by requiring students to participate in cross-cultural activities and then reflect on this experience from their own cultural backgrounds’ perspectives Students will also be given guidance and opportunities to practice and reflect during the self-study hours through a range of different materials provided before and after the lessons. The methods of assessment will take in consideration all work done within the semester and will consist of a series of online quizzes delivered throughout the semester, plus an individual portfolio and a final oral presentation in pairs, which would be typically delivered within the last teaching week."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SPA010&psl_code=SEM1"
+    }
+  ]
+}

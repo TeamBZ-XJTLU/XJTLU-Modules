@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "ARC",
+    "full_name": "Architecture"
+  },
+  "full_name": "Building Typology in Integrated Architectural Design",
+  "module_code": "ARC207",
+  "offerings": [
+    {
+      "heading": "Building Typology in Integrated Architectural Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ARC",
+        "full_name": "Building Typology in Integrated Architectural Design",
+        "module_code": "ARC207",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Building Typology in Integrated Architectural Design",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Students are introduced to architectural designing through a typological approach, in which building types are researched, analyzed in detail and further varied and developed. The module starts from a typological exploration, considering at first conceptual, programmatic as well as spatial aspects of architecture. As the module progresses, students are gradually introduced to consideration of a broader set of architectural and engineering requirements. The module emphasizes the close integration of a variety of structural and construction aspects through an overarching architectural design idea and aims to enable students to develop and maintain architectural qualities in the creative resolution of challenges and constraints.",
+        "Learning outcomes": "A translate and develop a design brief and generate a design proposal in response B review and present research to support design proposals C select, apply and integrate appropriate materials and technical systems in relation to architectural design proposals D identify and apply various drawing and model formats to develop and present design proposals E critically evaluate and creatively resolve challenges emerging between architectural and technical requirements",
+        "Method of teaching and learning": "Project work developed through both group and individual tutorials. Presentation and discussion of work in public settings. Supplementary lectures by external tutors and practitioners from both architecture and civil engineering backgrounds on relevant themes. Involvement of both civil engineering and architecture tutors in interim and final reviews."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ARC207&psl_code=SEM1"
+    }
+  ]
+}

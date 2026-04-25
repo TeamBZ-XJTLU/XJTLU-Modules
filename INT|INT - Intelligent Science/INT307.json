@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Multimedia Security Systems",
+  "module_code": "INT307",
+  "offerings": [
+    {
+      "heading": "Multimedia Security Systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INT",
+        "full_name": "Multimedia Security Systems",
+        "module_code": "INT307",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Multimedia Security Systems",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course aims to gain knowledge and hand-on experiences in digital media systems and security applications; it also aims to introduce important multimedia security technologies and standards in assuring the rights of owners and consumers of multimedia systems; these include encryption, key management, watermarking, and media authentication; it also aims to introduce important topics on using multimedia information for security objectives, including video surveillance, and media sensor networks.",
+        "Learning outcomes": "A. Critically evaluate practical techniques and tools of multimedia security systems. B. Analyze and compare multimedia compression technologies, citing their advantages and limitations. C. Apply different algorithms, theories, and tools for addressing multimedia security issues such as digital rights management, copyright protection, and authenticity verification. D. Examine and assess theories, research, and developments of multimedia-based security systems such as multimedia surveillance and biometric applications. E. Recognize security risks in computing and information systems, and implement a risk management process to identify, evaluate and mitigate these risks.",
+        "Method of teaching and learning": "Multimedia Security Systems employs a diverse range of teaching and learning methods to support students in mastering both foundational theories and practical skills. Lectures introduce key topics, such as multimedia compression standards, watermarking, encryption, security attacks, and other relevant concepts. Lab sessions provide students with hands-on experience using relevant tools and algorithms, particularly in multimedia authentication tasks. Independent study is encouraged to complement in-class learning, with students expected to stay up to date with the latest developments in various multimedia security applications, including surveillance systems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT307&psl_code=SEM1"
+    }
+  ]
+}

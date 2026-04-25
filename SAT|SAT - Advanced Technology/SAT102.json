@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SAT",
+    "domain_code": "SAT",
+    "full_name": "Advanced Technology"
+  },
+  "full_name": "Entrepreneurial Skills for Advanced Technologies",
+  "module_code": "SAT102",
+  "offerings": [
+    {
+      "heading": "Entrepreneurial Skills for Advanced Technologies",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SAT",
+        "full_name": "Entrepreneurial Skills for Advanced Technologies",
+        "module_code": "SAT102",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Entrepreneurial Skills for Advanced Technologies",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to develop the skills and mindset necessary for transforming creative ideas into entrepreneurial action within the domain of advanced technologies. By developing entrepreneurial competencies, students will enhance their ability to think strategically, solve complex problems, innovate, and adapt to an increasingly unpredictable and volatile future of work and the academic discipline. AI enhanced tools play a central role throughout the module as students build their entrepreneurship skills. Entrepreneurship is emphasised as a process of value creation with a focus on innovation. Students will be encouraged to explore current and emerging key industry trends, challenges, and opportunities related to advanced technologies. Innovation will be examined beyond the conventional boundaries of new products, emerging technologies, and inventions, adopting a broad view that encompasses process innovations, organisational transformations, and advancements in technology, products, and services. This module is offered to all Stage 2 students across all programmes delivered by the School of Advanced Technology. While the primary focus is on entrepreneurial skills within the context of advanced technologies, the scope of entrepreneurship is not confined to new ventures or startups. The principles of entrepreneurship are equally applicable within established organisations, large enterprises (as “intrapreneurs”), and the non-profit sector, irrespective of commercial objectives. Additionally, students will have the opportunity to practise entrepreneurial soft skills, including teamwork and the communication of complex ideas. Emphasis will be placed on expressing technical concepts clearly across disciplines and to diverse audiences, a vital skill in translating advanced technologies into entrepreneurial opportunities. Through exercises such as written reflections and spoken pitches, students will refine their ability to communicate intricate ideas in a clear and engaging manner, both in writing and in speech, thereby fostering broader understanding.",
+        "Learning outcomes": "A Apply entrepreneurship theories to identify value-creation opportunities in advanced technologies, addressing societal, customer, and user needs. B Analyse global trends, challenges, and innovations in advanced technologies, considering their social, environmental, and ethical implications. C Examine business strategies and financial principles supporting the commercialisation of innovations in advanced technologies, including intellectual property rights. D Analyse the key processes involved in taking offerings with advanced technologies to market, including team-building, strategy development, testing, and risk management. E Communicate complex technical concepts and entrepreneurial proposals effectively in written and spoken English, adapting the message for clarity across diverse audiences.",
+        "Method of teaching and learning": "This module employs an integrated teaching approach, combining theoretical instruction with practical application through challenge-based learning. Lectures introduce core entrepreneurial theories, principles, and methods, enriched by relevant case studies and examples related to advanced technologies. Interactive tutorials and workshops support these lectures, enabling students to apply learned frameworks to practical exercises, real-world case analyses, and collaborative projects. Structured around the EntreComp framework (Entrepreneurship Competence Framework), the module is divided into three main thematic areas: \"From Idea to Opportunity,\" \"Business Planning and Resources,\" and \"Delivery to Market.\" Each theme features focused weekly topics, incorporating AI-enhanced tools to facilitate experiential learning about entrepreneurship (understanding core concepts), for entrepreneurship (developing practical entrepreneurial skills), and through entrepreneurship (engaging in entrepreneurial activities directly). Students will collaborate in teams to develop an Artefact Portfolio, showcasing their understanding and application of entrepreneurial theories and methodologies. Structured peer assessment will surface and value individual contributions and collaborative dynamics. The module culminates in a \"hackathon\" event, during which student teams refine their Minimum Viable Product (MVP) and pitches under the mentorship of academic staff, industry professionals, and entrepreneurs. This intensive, collaborative experience aims to foster entrepreneurial thinking, enhance strategic problem-solving capabilities, and provide practical insights into commercialising innovations within advanced technologies. In the concluding weeks, students will produce an Individual Reflection, encouraging introspection about their entrepreneurial competencies, career goals, and long-term innovation vision. Teaching activities and tutorials are jointly developed and delivered by the School of Advanced Technology, drawing on the interdisciplinary expertise of HeXie Management Research and the communication expertise of the Academic Literacies Centre. This synergistic partnership fosters a holistic learning environment that equips students with integrated technical, interdisciplinary and communication skills essential for successful entrepreneurship and innovation in advanced technologies."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SAT102&psl_code=SEM2"
+    }
+  ]
+}

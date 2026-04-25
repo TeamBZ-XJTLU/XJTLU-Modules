@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "Essentials of Big Data",
+  "module_code": "DTS002TC",
+  "offerings": [
+    {
+      "heading": "Essentials of Big Data",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DTSTC",
+        "full_name": "Essentials of Big Data",
+        "module_code": "DTS002TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Essentials of Big Data",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this Year 1 module is to prepare students for the BEng Data Science and Big Data Technology programme. The module teaches students about the challenges posed by Big Data in the fields of acquisition, storage and analysis, as well as help students acquire skills to solve Big Data problems numerically using computers. This module provides students with a broad perspective on these challenges, and introduces aspects of them that will addressed in further detail in other modules of the programme. Each week, there will also be a seminar to introduce students to entrepreneurial aspects of the degree programme.",
+        "Learning outcomes": "A.Develop a global perspective on the sources and uses of big data. B.Engage critically with the technical challenges of data acquisition and management. C.Develop an understanding of the industrial and commercial applications of big data. D.Demonstrate an awareness of the quantitative problems posed by the analysis of big data. E.Demonstrate the ability to write codes to obtain numerical solutions to mathematical problems. F.Demonstrate the ability to display computational results in tabulated or graphical forms.",
+        "Method of teaching and learning": "The module will be delivered in a combination of lectures, seminars and labs/practicals. In addition to the time of classes, students will be expected to devote the unsupervised time to private study of course material (including written material and electronically-distributed data samples). The module will follow an academic literacies approach and some seminars may be co-taught by staff from the English Language Centre, who will use activities to further develop the English language skills of students within the context of the module. Each week there will be a two hour seminar where students will be able to experience and explore the entrepreneurial aspects of the degree programme."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS002TC&psl_code=SEM2"
+    }
+  ]
+}

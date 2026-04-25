@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Contemporary International Relations",
+  "module_code": "INS101",
+  "offerings": [
+    {
+      "heading": "Contemporary International Relations",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Contemporary International Relations",
+        "module_code": "INS101",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Contemporary International Relations",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module provides students with a basic understanding of different concepts and approaches to international relations and international affairs, introducing them to the most important actors in international politics, and familiarising them with some major issues in contemporary international relations.",
+        "Learning outcomes": "A. Demonstrate knowledge of different theories of International Relations and use them for thinking about contemporary global affairs. B. Identify the main actors and most important recent developments in global politics and international relations. C. Evaluate the weaknesses and strengths of different theoretical frameworks to understand contemporary international global affairs. D. Communicate effectively in both writing and oral forms in ways that are appropriate for the discipline. E. Simulate and communicate decision-making at the global and regional level",
+        "Method of teaching and learning": "Lectures; Seminars for rehearsal of weekly topics; Labs for simulations of world scenarios and decision making."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS101&psl_code=SEM1"
+    }
+  ]
+}

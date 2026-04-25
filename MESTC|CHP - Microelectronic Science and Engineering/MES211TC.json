@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHP",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "Semiconductor Memory Devices and Circuits",
+  "module_code": "MES211TC",
+  "offerings": [
+    {
+      "heading": "Semiconductor Memory Devices and Circuits",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Semiconductor Memory Devices and Circuits",
+        "module_code": "MES211TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Semiconductor Memory Devices and Circuits",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide a comprehensive foundation in semiconductor memory technology, which is a critical enabling technology for artificial intelligence (AI), big data, and modern computing systems. The module will cover the operation principles, device physics, circuit design, and technological evolution of mainstream and emerging memory technologies. It will bridge the gap between fundamental device concepts and state-of-the-art industrial practices, including 3D integration and memory-centric computing paradigms like in-memory computing for neural network acceleration. The module is designed to prepare students for advanced study and careers in semiconductor memory design, VLSI engineering, and related fields where an in-depth understanding of memory hierarchy and its components is essential.",
+        "Learning outcomes": "A. Demonstrate systematic knowledge and understanding of the memory hierarchy in computing systems and the role of its components. B. Explain the operation principles, device physics, and array structures of mainstream memory technologies (SRAM, DRAM, Flash). C. Analyze the challenges associated with technology scaling for different memory types and evaluate the advantages of 3D integration techniques. D. Compare and contrast the characteristics (e.g., speed, volatility, endurance) of emerging non-volatile memory technologies (PCM, RRAM, MRAM, FeRAM/FeFET). E. Describe the concept of in-memory computing and its application in accelerating vector-matrix multiplication for deep neural networks. F. Critically evaluate the trade-offs involved in memory design (density, performance, power, reliability) and discuss future technology trends.",
+        "Method of teaching and learning": "This module will be delivered through a combination of lectures and case study seminars. Lectures will be used to present the fundamental principles, device architectures, and circuit diagrams. Seminar sessions will be dedicated to the discussion of recent research papers, analysis of industry trends (e.g., HBM, 3D NAND), and review of key design challenges, fostering critical thinking and the ability to engage with contemporary literature."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES211TC&psl_code=SEM2"
+    }
+  ]
+}

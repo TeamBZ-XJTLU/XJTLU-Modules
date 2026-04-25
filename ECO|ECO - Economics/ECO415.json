@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Business Analytics Dissertation",
+  "module_code": "ECO415",
+  "offerings": [
+    {
+      "heading": "Business Analytics Dissertation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Business Analytics Dissertation",
+        "module_code": "ECO415",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Business Analytics Dissertation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to enable students to undertake a significant piece of independent research in the field of Business Analytics (BA). This module provides students with opportunities to: (i) apply their knowledge from other parts of the programme to analyse contemporary and cutting edge problems and issues of relevance to scholars and practitioners (or both); (ii) deepen their knowledge and understanding of a particular programme related topic of interest to them; (iii) produce a complete piece of scholarly work from conception through to a final thesis; (iv) argument their intellectual, transferable and employability skills and, it follows, their career prospects, and (v) make an original contribution to knowledge that could potentially serve as a basis for a more advance study. Students should identify, define and explore one or more problems or issues at the forefront of Business Analytics as an academic discipline. To successfully complete this module, students should identify, define, evaluate, synthesise and apply knowledge to investigate, diagnose, structure and gain insight into a challenging management issue or problem. This may be achieved by means of: (i) an in-organisation project (conducted either during the course of an internship or through other connections with the organisation), (ii) through surveys or other methods of obtaining primary data, (iii) through collection and analysis of secondary data, (iv) a library-based study, or (v) through a combination of these approaches.",
+        "Learning outcomes": "A Demonstrate a substantial and systematic understanding of current and recent research, theory and advanced scholarship in the areas of Business Analytics and its related disciplines that are of relevance to their research topic B Critically evaluate and apply knowledge and skills acquired throughout the programme to the identification and framing of specific research questions at the forefront of Business Analytics as a discipline C Investigate questions and problems through the design and implementation of a research strategy and methodology appropriate to advanced study in their field D Demonstrate appropriate academic rigour in the acquisition, organization, critical analysis and presentation of conceptual and empirical materials obtained from primary and secondary sources E Accurately, coherently and persuasively communicate the research project, methodology and findings in an oral presentation F Successfully produce a well-written, coherent and well-presented piece of work that makes an original and reflexive contribution to knowledge whilst demonstrating good scholarship and confirming fully to standard academic conventions in the field of Business Analytics and its related disciplines G Demonstrate a sound understanding of research ethics appropriate to the research topic H Think, learn and work independently whilst demonstrating initiative, responsibility, self-discipline, self-motivation, self-direction and originality in talking and solving research problems in business analytics",
+        "Method of teaching and learning": "There are several elements to the method of learning and teaching in this module: First, private and independent research is undertaken by the student with the support and advice of a supervisor from IBSS faculty (allocated by the Programme Director) during regular meetings and consultations that begin in semester 2. In semester 1 of year 2, students are expected to devote at least 30 hours of unsupervised time to private study in a typical week. Second, students are required to take MAN 902 (Introduction to research methods II) in semester 2 as Additional Learning Activity (ALA). This module provides generic advice and guidance to students on how to specify a substantial research problem and produce a plan to address it; how to manage time efficiently and effectively to meet targets; how to allocate and make use of information relevant to their research project; how to design a solution to a substantial problem; how to analyse data, and how to present a dissertation. Students are required to write a research proposal in MAN902 that will serve as their dissertation proposal. Third, students are required to deliver an Interim Presentation On Progress about their research proposal and their research progress at the beginning of Semester 1 (Year 2) which is summatively assessed and on which feedback is given by the Programme Director, the supervisor, and the marker(s). All these will serve to keep all parties concerned up-to-date about the research progress with a number of formal check-point mechanisms so that the supervisor and the Programme Director are in a position to provide the student with support, trouble-shooting advice and feedback should this be required."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO415&psl_code=SEM1"
+    }
+  ]
+}

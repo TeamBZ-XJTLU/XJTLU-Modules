@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Final Individual Project",
+  "module_code": "COM410",
+  "offerings": [
+    {
+      "heading": "Final Individual Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Final Individual Project",
+        "module_code": "COM410",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Final Individual Project",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The Final Individual Project can have one of the following formats: 1) Dissertation 2) Practice-based research Dissertation The aim of the Dissertation is to enable students to undertake a significant piece of independent research into a topic relevant to media and communication. This option provides students with opportunities to: apply their learning on the programme to analyse contemporary problems and issues; deepen their knowledge and understanding of a particular topic of interest to them; produce a complete piece of scholarly work from conception through to a final dissertation; further develop their independent research skills; and make an original contribution with theoretical, empirical and/or practical value. Practice-based research Practice-based research is an original investigation undertaken in order to gain new knowledge partly by means of practice and the outcomes of that practice. This form of research integrates the professional practice of a media practitioner with specific research questions, methods and outcomes. There are two components to the practice-based option; the first is an academically written component that details literature review, research questions, methods, findings, project strategy, and project plan, to project results and impact. Apart from the scope and word length, the requirements of the Dissertation apply to the first component of this option as well, though part of the final mark will be based on the second, practical component, which should consist of a multimedia production.",
+        "Learning outcomes": "Learning outcomes: A Demonstrate deep and critical engagement with relevant academic studies, concepts, theories and perspectives B Compose clear, original, significant and researchable research questions and/or hypotheses C Select an apt method or methods to answer the research question(s) posed, and convincingly justify the choices made D Design and conduct a valid, original and ethical research project E Clearly and convincingly present relevant and valid findings and interpret them in the context of existing and relevant studies, concepts, theories and perspectives, while applying an academic referencing style correctly and consistently F Demonstrate perseverance, time-management skills, flexibility, creativity, accuracy, precision, punctuality, and efficiency in independently completing a sizeable, long-term project G Conceive of, research and produce a professional multimedia product (practice-based research option only)",
+        "Method of teaching and learning": "Six two-hour lectures and one-hour seminar for the first six weeks of the semester assist students in developing research question(s), literature review, and methodology, and complying with research ethics clearance. Subsequently students will frequently consult with their supervisor."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM410&psl_code=SEM1"
+    }
+  ]
+}

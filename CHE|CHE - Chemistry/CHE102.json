@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Introductory Spectroscopy",
+  "module_code": "CHE102",
+  "offerings": [
+    {
+      "heading": "Introductory Spectroscopy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Introductory Spectroscopy",
+        "module_code": "CHE102",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introductory Spectroscopy",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to introduce modern spectroscopic methods in chemistry. Students will understand why radiation wavelength is so crucial in determining the dynamical outcome, the atomic and molecular energetic states responsible for the interaction, the measurable quantities associated with a range of spectroscopic techniques, the experimental set-up for several modern spectroscopic probes and the general configuration of several modern spectroscopic instrumentations.",
+        "Learning outcomes": "A demonstrate familiarity with modern atomic theory B understand the fundamental principles behind vibrational and rotational spectroscopy C understand the fundamental principles behind electronic spectroscopy D understand the fundamental principles behind nuclear magnetic resonance E understand the fundamental principles behind mass spectrometry F apply their knowledge to solve spectroscopic problems",
+        "Method of teaching and learning": "Lectures and seminars"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE102&psl_code=ACYR"
+    }
+  ]
+}

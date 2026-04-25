@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FIN",
+    "domain_code": "FIN",
+    "full_name": "Finance"
+  },
+  "full_name": "Fundamentals Of Financial Technology",
+  "module_code": "FIN208",
+  "offerings": [
+    {
+      "heading": "Fundamentals Of Financial Technology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FIN",
+        "full_name": "Fundamentals Of Financial Technology",
+        "module_code": "FIN208",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Fundamentals Of Financial Technology",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide a critical overview and awareness of the innovative use of technologies in the design and delivery of new financial services and products. It will provide students with an understanding of the updated technologies underlying the financial markets, e.g., AI and blockchain, as well as their applications in payment, banking, investment, lending, regulation, etc. Students will develop the ability to critically evaluate disruptive technologies currently being used by FinTech organizations and assess the impact of disruptive technologies on the wider financial services and markets. It will differentiate traditional financial systems from the alternatives being offered by current FinTech development.",
+        "Learning outcomes": "Students completing the module successfully should be able to: A. Demonstrate understanding of current technologies transforming the financial industry and recognize their potential to create new financial services and products. B. Be able to evaluate the benefits and risks of disruptive technologies and innovations in financial technology, e.g., blockchain, cryptocurrency, digital banking, etc. C. Demonstrate understanding of the ethical issues facing FinTech organizations and the importance of appropriate regulatory policy. D. Be able to formulate alternative strategies to problem solving under a range of different circumstances.",
+        "Method of teaching and learning": "The teaching strategy combines lectures with practical sessions to enhance learning. Lectures will introduce core concepts and theories, while practicals, including labs and case studies, will provide hands-on experience. In the labs, students will use Python for financial data analytics, working on tasks that build their understanding of key FinTech technologies, such as basic machine learning models. Case studies will enable students to analyse real-world FinTech business models and critically assess the benefits and risks of disruptive innovations in FinTech, from both micro- and macro-economic perspectives."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN208&psl_code=SEM2"
+    }
+  ]
+}

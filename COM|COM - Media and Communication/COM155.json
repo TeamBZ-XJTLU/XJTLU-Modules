@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Rhetoric and Media Analysis",
+  "module_code": "COM155",
+  "offerings": [
+    {
+      "heading": "Rhetoric and Media Analysis",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Rhetoric and Media Analysis",
+        "module_code": "COM155",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Rhetoric and Media Analysis",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module equips students with general knowledge of rhetoric as an integral part of the world of communication, with the aim of analysing the messages and goals of media languages and formats of the past and of current times, in regional, global, and inter- and transcultural settings. Students are trained to a critical and instrumental understanding of the key rhetorical devices in communicational content across written, aural, and audiovisual (static and dynamic) media contexts and to deconstruct rhetorical strategies, argument fallacies, and rational vs emotional appeals in various communicative environments. Finally, students are asked to put the knowledge acquired into practice through the composition of a media script in a simulated task of professional communication.",
+        "Learning outcomes": "A. Demonstrate knowledge of rhetoric and its role in a range of communicative contexts B. Identify and evaluate the use of rhetorical devices in past and current media products/formats C. Evaluate the efficacy of rhetorical strategies in media contexts D. Apply the acquired knowledge to compose a persuasive and engaging media script",
+        "Method of teaching and learning": "Lectures Seminars"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM155&psl_code=SEM2"
+    }
+  ]
+}

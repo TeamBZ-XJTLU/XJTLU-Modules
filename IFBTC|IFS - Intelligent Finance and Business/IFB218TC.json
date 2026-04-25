@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Data Visualization and Data Analytics",
+  "module_code": "IFB218TC",
+  "offerings": [
+    {
+      "heading": "Data Visualization and Data Analytics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Data Visualization and Data Analytics",
+        "module_code": "IFB218TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Data Visualization and Data Analytics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to provide foundational knowledge and advanced skills in data visualization and visual analytics. It focuses on understanding key concepts, evaluating application issues, and effectively using visualization tools for data analysis. Students will learn to extract and present data insights and develop problem-solving skills.",
+        "Learning outcomes": "A Understand the key concepts of visualization techniques and visual analytics B Identify and evaluate the key issues in the application of visualization techniques C Demonstrate effective use of visualization tools for data analysis D Learn how to obtain and present insights from data visualization E Develop problem-solving skills through data visualization and visual analytics",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. This module will be delivered by a combination of lectures and labs. Lectures will be designed to provide essential information and introduce students to the basic tools of analysis, including some basic practice in applying the techniques. Labs will be designed to introduce students to the usage of basic functions of software."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB218TC&psl_code=SEM1"
+    }
+  ]
+}

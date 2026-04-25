@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LIFE",
+    "domain_code": "XPU",
+    "full_name": "XIPU AI general education"
+  },
+  "full_name": "Essentials of AI",
+  "module_code": "XPU001",
+  "offerings": [
+    {
+      "heading": "Essentials of AI",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "XPU",
+        "full_name": "Essentials of AI",
+        "module_code": "XPU001",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Essentials of AI",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This mandatory module is designed to provide all Year 1 students with a foundational understanding of Artificial Intelligence (AI) and its far-reaching impacts. Through an exploration of AI’s historical development, and its influence on diverse fields, students will gain a good appreciation for the evolution of this transformative technology. The module critically examines the legal and ethical implications of AI, encouraging students to assess their significance in various contexts. Furthermore, students will evaluate the societal, individual, and academic impact of AI, while anticipating potential future impacts. The overarching aim of the module is to equip students with fundamental knowledge, practical insights, and critical thinking skills necessary to comprehend and navigate the complex landscape of AI.",
+        "Learning outcomes": "A Demonstrate an understanding of the historical development of Artificial Intelligence (AI) and its impact on various fields. B Examine the legal and ethical implications of AI in various contexts, and critically assess their significance. C Evaluate the impact of AI on individuals, employment, society, and academic disciplines, and anticipate potential future impacts.",
+        "Method of teaching and learning": "This module is delivered entirely online by colleagues from various Schools and Academies in XJTLU, with 1 hour of synchronous delivery and 1 hour of asynchronous delivery per week for 13 weeks. Lectures will introduce students to the academic content and practical skills which are the subject of the module. In addition to the online sessions, students will be expected to devote time to private study, providing them with opportunities for reflection and consideration of lecture material, to undertake background reading, and to experiment with online Generative AI tools."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=XPU001&psl_code=SEM1"
+    }
+  ]
+}

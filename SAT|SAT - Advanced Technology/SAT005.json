@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SAT",
+    "domain_code": "SAT",
+    "full_name": "Advanced Technology"
+  },
+  "full_name": "Introduction to Emerging Technologies",
+  "module_code": "SAT005",
+  "offerings": [
+    {
+      "heading": "Introduction to Emerging Technologies",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SAT",
+        "full_name": "Introduction to Emerging Technologies",
+        "module_code": "SAT005",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Introduction to Emerging Technologies",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the key concepts of emerging technologies and how they relate to technological development and society. The module should prepare students for their continuing study and working life where being able to recognize and understand these concepts can allow them to take better advantage of the practical skills developed during their study.",
+        "Learning outcomes": "A. Describe and report the principal issues issues related to an emerging technology including its influence on society, economic factors and key technical considerations. B. Utilize computer software to plan and generate digital content relating to emerging technologies. C. Communicate and understand ideas related to the topic of emerging technologies clearly and effectively in English.",
+        "Method of teaching and learning": "This module will be delivered through a combination of seminars and lab sessions. Students will attend two hours of seminars each week, covering theoretical aspects of emerging technologies Additionally, seminars will cover the theory of digital content generation by looking at specific, content-related examples. Complementing the theoretical seminars, lab sessions will provide opportunities for students to apply theoretical knowledge to practical digital content creation. Additionally, students are expected to dedicate approximately seven hours per week to independent study, allowing them to consolidate seminar content, engage in further reading, and work on their project. Students will be tested on content knowledge via an in class test, and their assessed practical project will be a video essay."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SAT005&psl_code=SEM2"
+    }
+  ]
+}

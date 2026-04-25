@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HSS",
+    "domain_code": "HSS",
+    "full_name": "Humanities and Social Sciences"
+  },
+  "full_name": "HSS Futures: Humanities and Social Sciences in the Digital Age",
+  "module_code": "HSS003",
+  "offerings": [
+    {
+      "heading": "HSS Futures: Humanities and Social Sciences in the Digital Age",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "HSS",
+        "full_name": "HSS Futures: Humanities and Social Sciences in the Digital Age",
+        "module_code": "HSS003",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "HSS Futures: Humanities and Social Sciences in the Digital Age",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "In our rapidly changing world, the skillset provided by a degree in the Humanities and Social Sciences is more necessary than ever. This module introduces students to contemporary issues faced by Chinese society as well as societies around the world, related to technology, international relations, language, media and more. It helps to equip students with crucial skills that they can draw on in any degree programme, as well as in future employment. It aims to cultivate in students an inquisitive mindset and global awareness, as well as fostering intercultural literacy, communication skills, critical thinking and interdisciplinary thinking. Integrating technology, including GenAI across teaching and assessment, the module also helps students develop their digital literacy and citizenship.",
+        "Learning outcomes": "A. ask and develop thoughtful and relevant questions related to issues in the humanities and social sciences. B. Demonstrate study skills, including using digital technology, in order to to source and evaluate information. C. Explain the role of humanities and social sciences in understanding and addressing contemporary and future global and local challenges.",
+        "Method of teaching and learning": "Organized around key questions in the humanities and social sciences, the lectures provide students with subject knowledge while also introducing skillsets that can be further developed in seminars (and vice-versa). The lectures will also centre themes drawn from across degree programmes in the School of Humanities and Social Sciences, better equipping students to appreciate the value of an HSS degree in the pursuit of future postgraduate study and employment opportunities. The seminars represent opportunities for student discussion and for the practice and implementation of skillsets central to the module and key themes. Both the lectures and seminars will make appropriate use of Information and Communication Technologies, including Generative AI, for learning and teaching purposes. It will also be a subject of enquiry at various stages of the module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=HSS003&psl_code=SEM1"
+    }
+  ]
+}

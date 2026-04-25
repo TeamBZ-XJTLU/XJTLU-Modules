@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MFETC",
+    "full_name": "Manufacturing Engineering"
+  },
+  "full_name": "Exploring Engineering Creation and Innovation",
+  "module_code": "MFE001",
+  "offerings": [
+    {
+      "heading": "Exploring Engineering Creation and Innovation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MFETC",
+        "full_name": "Exploring Engineering Creation and Innovation",
+        "module_code": "MFE001",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Exploring Engineering Creation and Innovation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Materials selection and appropriate manufacturing technologies are integral processes in product design and innovation. This module will explore these processes from raw materials transformed into final products by using state-of-the-art technologies. This module also covers fundamentals of engineering drawing and 3D printing, including graphical theory, computer aided tools for drawing as well as utilising smart technologies to simplify production processes, minimize energy usage and to minimise environmental impact. Equipped with knowledge and skills taught in this module, you will be able to correlate materials selection, part design with manufacturing processes.",
+        "Learning outcomes": "A Summarise the role of engineering materials, their classifications and principal applications B Relate materials and manufacturing processes for part(s) and explain trade-offs with other possible choices C Demonstrate a clear understanding of engineering drawing methods for creation and innovation",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. This module will be delivered through lectures, seminars and lab and Fieldwork. Teaching will be through problem-based learning, with problems embedded in the lectures and use made of student response systems to provide formative assessment to the students. This module under block teaching mode will be delivered in 6 weeks pattern, The Lectures will take place in Week 1-4; Tutorials in Week 1-5; Lab/Practical section in Week 4; Seminar at Week 5 and Fieldwork at Week 3; Week 6 is put aside for students to work on their project-assessment, with time to meet lecturers in office hours. Assessment hand-in times will be after week 6."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MFE001&psl_code=SEM1"
+    }
+  ]
+}

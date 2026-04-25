@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MFETC",
+    "full_name": "Manufacturing Engineering"
+  },
+  "full_name": "Intelligent Manufacturing Futures",
+  "module_code": "MFE414TC",
+  "offerings": [
+    {
+      "heading": "Intelligent Manufacturing Futures",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MFETC",
+        "full_name": "Intelligent Manufacturing Futures",
+        "module_code": "MFE414TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Intelligent Manufacturing Futures",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to key themes and technologies influencing the future of manufacturing. It provides insights into intelligent systems, digital transformation, and innovative production models. Students will explore technological trends from both technical and socio-economic perspectives, enabling them to formulate forward-looking responses to the evolution of manufacturing industries. The module is accessible to students from varied backgrounds, offering flexible teaching content adaptable to staff expertise. To provide students with a comprehensive view of future directions in manufacturing, preparing them to evaluate and adapt to emerging technologies. The module supports MSc IESIO’s mission to nurture graduates who are technologically aware, strategically minded, and globally relevant.",
+        "Learning outcomes": "A Examine emerging technologies shaping the future of manufacturing, including their societal and economic impacts. B Assess opportunities and challenges in adopting intelligent systems such as AI, robotics, or data analytics in industrial contexts. C Develop conceptual frameworks for integrating innovation and digital transformation within real or hypothetical manufacturing ecosystems. D Collaborate on forward-looking strategies that align technological change with ethical, environmental, and business considerations. E Demonstrate Emotional Intelligence (EQ) in leadership contexts, specifically regarding change management and team resilience during digital transitions.",
+        "Method of teaching and learning": "The teaching philosophy of the module adopts the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially the use of problem-based assessment which is project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. This module will be delivered through lectures, seminars and tutorials. Teaching will be conducted using problem-based learning, with problems embedded in the lectures. General transferable skills are developed through the presentation of written and oral reports."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MFE414TC&psl_code=SEM2"
+    }
+  ]
+}

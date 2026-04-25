@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Final Year Project",
+  "module_code": "ENV301",
+  "offerings": [
+    {
+      "heading": "Final Year Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Final Year Project",
+        "module_code": "ENV301",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "15",
+        "Module Level": "Level 3",
+        "Module Title": "Final Year Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are to provide students with hands-on, authentic research experience in the planning, design, and execution of an individual research project conducted on a defined topic through extended, supervised participation in either laboratory or field work. This capstone experience is integral to the BSc Environmental Science Programme, bridging theoretical knowledge with practical applications. This module equips students with the research, analytical and communication skills and experience needed to be competitive for graduate school or post-graduation job opportunities.",
+        "Learning outcomes": "A. Identify research questions related to environmental science, and produce an independent review of academic literature relating to specific research question/s. B. Design and carry out a research project to answer the research question/s, including using appropriate methods and research strategies to collect and analyze primary and/or secondary research data. C. Produce a written research report using an appropriate academic style and structure, including the techniques and approaches required to present research data. D. Demonstrate time- and project-management skills, including the ability to coordinate and complete the stages of a project independently by given deadlines. E. Demonstrate the ability to do a public presentation about a research project, in an appropriate academic style and structure.",
+        "Method of teaching and learning": "This module will extend over two semesters. Individual research projects can be based upon a laboratory or fieldwork exercise, or the use of comparative information and databases. Each project will be supervised by a member of academic staff. Students will carry out their projects following a timetable, with supervision of all laboratory/field work by academic staff or TAs if applicable. The supervisor will meet regularly with the student to discuss progress, and will provide feedback on drafts of the assessments. Students will report their project in poster and oral presentations, and complete a preliminary report and a written thesis."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV301&psl_code=SEM2"
+    }
+  ]
+}

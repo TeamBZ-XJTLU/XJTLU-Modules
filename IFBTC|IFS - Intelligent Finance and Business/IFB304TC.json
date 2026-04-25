@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Maritime Logistics",
+  "module_code": "IFB304TC",
+  "offerings": [
+    {
+      "heading": "Maritime Logistics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Maritime Logistics",
+        "module_code": "IFB304TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Maritime Logistics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module is to provide students with an understanding of the history, key principles, systems and techniques of maritime logistics. Maritime logistics play critical role in the global supply chain management and operations. In that this is an optional module, to well utilise the university resource, the module delivery is subject to meeting a minimum number of students (10).",
+        "Learning outcomes": "A. Demonstrate understanding of the marine traffic management and regulation etc. B. Apply tools and techniques for scheduling and control for the port and terminal C. Demonstrate understanding of the practical implications and application of key marine operations management principles",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. This module will be taught using a combination of lectures and seminars. Learning will also be reinforced by appropriate readings from the course text. In that this is an optional module, to well utilise the university resource, the module delivery is subject to meeting a minimum number of students (10)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB304TC&psl_code=SEM2"
+    }
+  ]
+}

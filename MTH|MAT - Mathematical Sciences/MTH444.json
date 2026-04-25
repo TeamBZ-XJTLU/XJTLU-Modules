@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MAT",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Calculus Of Variations And Optimal Control",
+  "module_code": "MTH444",
+  "offerings": [
+    {
+      "heading": "Calculus Of Variations And Optimal Control",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Calculus Of Variations And Optimal Control",
+        "module_code": "MTH444",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Calculus Of Variations And Optimal Control",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module consists of introducing the fundamental theory of calculus of variations and optimal control problems, which allow the students to solve optimisation problems under the constraints of differential equations.",
+        "Learning outcomes": "A. Derive optimality conditions for optimization problems in infinite dimensional spaces. B. Solve linear-quadratic optimal control problems using Riccati equations. C. Solve optimal control of nonlinear ordinary differential equations. D. Solve optimal control of elliptic partial differential equations with distributed controls or boundary controls.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH444&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Brand Communication and Social Media",
+  "module_code": "COM416",
+  "offerings": [
+    {
+      "heading": "Brand Communication and Social Media",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Brand Communication and Social Media",
+        "module_code": "COM416",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Brand Communication and Social Media",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module equips students with the conceptual foundations and practical skills to plan, produce, and evaluate brand communication across diverse cultural and platform ecosystems. Students learn to identify communication problems using basic audience and context analysis, set clear and measurable objectives, and formulate strategy supported by a concise message framework. They then translate strategy into platform-appropriate content that aligns with brand narrative and audience needs. Aligned with the programme’s professional focus, the module provides guided practice from brief to delivery to evaluation, developing core competencies expected of contemporary communication roles, while building intercultural awareness and responsible use of AI.",
+        "Learning outcomes": "A. Critically analyse and evaluate existing brand communication on social media. B. Demonstrate an understanding of communication objectives, audiences, media channels, and strategies. C. Formulate a message framework aligned with the brand narrative and cultural context. D. Produce platform-appropriate social media content with a consistent brand voice and design. E. Demonstrate professionalism and ethical practices in planning, production, and reporting.",
+        "Method of teaching and learning": "Teaching combines weekly lectures and seminars. Lectures introduce core theories, concepts, and cases for analysis and practice. In the seminars students get the opportunity to dive deeper into the materials, assess cases, and design their own brand communication plan for social media."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM416&psl_code=SEM2"
+    }
+  ]
+}

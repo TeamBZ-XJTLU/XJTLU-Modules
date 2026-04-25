@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Environmental Policy and Governance",
+  "module_code": "ENV218",
+  "offerings": [
+    {
+      "heading": "Environmental Policy and Governance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Environmental Policy and Governance",
+        "module_code": "ENV218",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Environmental Policy and Governance",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with a solid understanding of environmental policy, focusing on how governance and regulatory frameworks influence environmental outcomes at global, national, and regional levels. Students will explore the development of key policies, the role of organizations in shaping them, and their impact on sustainability and corporate practices. This module equips students with essential knowledge for careers in environmental management, policy-making, and sustainability-related roles.",
+        "Learning outcomes": "A. Understand the development of environmental policies at international, national, and regional levels. B. Analyze the role of governance structures in environmental decision-making, including governmental and non-governmental organizations. C. Examine the impact of environmental laws, treaties, and global sustainability frameworks (e.g., Paris Agreement, UN Sustainable Development Goals). D. Understand the regulatory context of ESG from the global perspective and how environmental policies affect corporate behavior and strategies.",
+        "Method of teaching and learning": "This module is delivered by a weekly lecture session and a seminar session to cover various environmental policy topics, which is supported by reading assignments & class discussions. The seminars include case studies to develop basic research skills and apply the knowledge to real-world case studies in environmental policies, and will include the students' oral presentations."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV218&psl_code=SEM2"
+    }
+  ]
+}

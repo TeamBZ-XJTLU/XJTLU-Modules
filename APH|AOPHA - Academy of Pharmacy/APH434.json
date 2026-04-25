@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Advanced Pharmacotherapy",
+  "module_code": "APH434",
+  "offerings": [
+    {
+      "heading": "Advanced Pharmacotherapy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Advanced Pharmacotherapy",
+        "module_code": "APH434",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Pharmacotherapy",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to provide a comprehensive understanding of advanced pharmacotherapy for cardiovascular, metabolic, and respiratory disorders, as well as recent therapeutic advances in gene, protein, and cell therapy. Students will analyze the principles, mechanisms, and therapeutic uses of commonly used drugs. The knowledge gained in this module will equip students with a deeper understanding of pharmacotherapy for complex medical conditions and enhance their ability to contribute to advancements in the field of pharmaceutical sciences. This module builds upon the foundational knowledge of pharmacology where students learned about basic pharmacological principles and it also complements advanced topics such as personalized medicine and clinical pharmacy.",
+        "Learning outcomes": "Students completing the module successfully should be able to: A. To interpret, explain and investigate into the main pathogenesis of significant diseases. B. Explain and invesigate into the mechanisms for pharmacotherapy to manage target diseases. C. Critically evaluate the contributions made by the recent developments and advances in gene, protein, and cell therapy for different diseases D. Apply, critically evaluate, and interpret this knowledge to solve complex problems in disease prevention and treatment, including to design a proper managing/research proposal for a given situation.",
+        "Method of teaching and learning": "Course content will be delivered primarily via standard lectures, supported by materials on LMO and other web-based resources. Each week, students will typically be expected to attend a 2 h live lecture and a 1 h tutorial session, both of which if recorded, will be available on LMO. During the live lecture sessions, the course instructor will elaborate on key concepts, engage in discussion, and provide opportunities for student interaction and problem-solving. The live lectures will be supported by pre-learning/recorded materials on the LMO and other web-based resources, and handouts will be made available to students on the LMO. Animations and/or videos will be shown for some of the topics to enhance understanding. Review sessions will be arranged towards end of the semester and the students will have opportunities to self-assess their understanding of the course. Timely, relevant and specific, constructive and actionable feedback will be provided to students in-class, on-paper and/or in-person on for each assignment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH434&psl_code=SEM1"
+    }
+  ]
+}

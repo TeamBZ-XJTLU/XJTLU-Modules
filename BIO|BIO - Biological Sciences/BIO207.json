@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Proteins in Action",
+  "module_code": "BIO207",
+  "offerings": [
+    {
+      "heading": "Proteins in Action",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Proteins in Action",
+        "module_code": "BIO207",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Proteins in Action",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to illustrate how proteins function at the molecular level, with respect to transport, localization, structure and interacting molecules. The modes of action of example proteins and the other molecules with which they interact are explained in terms of the chemistry of the reactants involved. In addition, the examples given in the module will be used to introduce or re-introduce aspects of physical biochemistry such as pKa, reduction potential, reaction kinetics and proton motive force which can be unpalatable if taught in isolation. The regulation and evolution of proteins and their functions will also be discussed.",
+        "Learning outcomes": "A. Classify the nomenclature, structure and function of example enzymes B. Outline structural and functional interactions between proteins and membranes C. Identify various means of regulating protein function D. Identify the principal modes of protein evolution and function and predict possible evolutionary relationships between proteins E. Describe protein secretion and protein transport processes, and/or justify relevance for the biology of the cell",
+        "Method of teaching and learning": "Module content will be delivered primarily via standard lectures, the slides of which will be made available. Students will also be guided to sections of specific textbooks or specific reviews or source literature. During the module, revision lectures/exercises will allow the students to self-assess their understanding."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO207&psl_code=SEM1"
+    }
+  ]
+}

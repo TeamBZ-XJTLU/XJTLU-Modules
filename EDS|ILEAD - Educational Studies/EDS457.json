@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Integrating STEAM in the 21st Century Classroom",
+  "module_code": "EDS457",
+  "offerings": [
+    {
+      "heading": "Integrating STEAM in the 21st Century Classroom",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Integrating STEAM in the 21st Century Classroom",
+        "module_code": "EDS457",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Integrating STEAM in the 21st Century Classroom",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module explores innovative approaches to integrating Science, Technology, Engineering, Arts, and Mathematics (STEAM) in the 21st-century classroom. Students will engage with inquiry-based, project-driven, and maker-centered pedagogies to design tangible and digital artifacts that bridge disciplines and connect to real-world contexts. To support students in developing 21st century competencies, this module emphasizes the following areas: • Provide students with hands-on learning experiences that integrate science, technology, engineering, arts, and mathematics to foster interdisciplinary thinking. • Develop learner-centered environments that promote exploration, experimentation, and reflection through authentic STEAM challenges. • Leverage digital and physical tools (e.g., coding platforms, AI technologies, robotics, craft materials, 3D printing) to support prototyping and making in the classroom. • Help students develop confidence and competence to integrate STEAM principles into their teaching practices.",
+        "Learning outcomes": "A Explain the theoretical foundations and pedagogical principles of STEAM education and its significance in addressing 21st-century learning challenges. B Apply project-based learning (PBL) strategies to create student-centered STEAM activities that foster creativity, critical thinking, and collaboration. C Incorporate technology (e.g., coding tools, AI technologies, digital fabrication, VR/AR) and hands-on materials (e.g., makerspaces) to enhance STEAM instruction. D Evaluate the effectiveness of STEAM lessons using assessment tools (e.g., rubrics, portfolios) to measure student engagement and learning outcomes.",
+        "Method of teaching and learning": "This module will consist of lectures, tutorials, and lab sessions with implementing research-led project-based learning (RLPBL) approach throughout this semester. Lectures will introduce core principles and foundations of STEAM education, familiarizing students with inquiry-based and project-based learning strategies. Tutorial and lab sessions will leverage a variety of digital and physical tools to support students in tackling real-world problems through hands-on learning opportunities, meanwhile enhancing their critical thinking, creativity, and collaboration skills. Various instructional methods, including direct instruction, flipped classroom, hands-on learning, and fieldwork will be used in teaching. Both formative assessment and summative assessment will be applied, such as oral and written feedback from the instructor and peer coaching and mentoring. Students will be assessed at the midterm and the end of the semester through an E-Portfolio, which will document and reflect upon projects completed throughout the semester. For those projects, students may choose to work individually or in groups. Articulation of individual role and tasks in each project is required in E-Portfolio."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS457&psl_code=SEM1"
+    }
+  ]
+}

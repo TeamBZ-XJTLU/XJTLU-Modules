@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "ARC",
+    "full_name": "Architecture"
+  },
+  "full_name": "Architecture and Design Theory",
+  "module_code": "ARC303",
+  "offerings": [
+    {
+      "heading": "Architecture and Design Theory",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ARC",
+        "full_name": "Architecture and Design Theory",
+        "module_code": "ARC303",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Architecture and Design Theory",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module explores the key discourses and theoretical frameworks that influence architecture and industrial design. Students will critically engage with these ideas, discussing and evaluating their impact. The course assessment also fosters critical thinking and academic writing skills, preparing students for postgraduate study and professional research in design disciplines.",
+        "Learning outcomes": "A. Evaluate key ideas, theories and criticisms of modern, post-modern and contemporary architecture and design. B. Analyse past and present debates, recognising the mutual influence of theory and design practice. C. Utilise visual and object analysis to interpret and convey the narrative and theoretical underpinnings of key artifacts. D. Employ rigorous research methods for finding, reading, and critically evaluation of academic and other sources, to construct well-supported arguments. E. Articulate multifaceted arguments effectively in spoken and written English, demonstrating clarity, critical insight, and academic rigour.",
+        "Method of teaching and learning": "The module includes a lecture series addressing the core theoretical knowledge and weekly seminars encouraging more active learning through activities such as group discussions, reading commentaries, presentations and feedback. Some sessions may be delivered in collaboration with Language Centre tutors, with the aim of assisting students with language and the study skills requirements for the module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ARC303&psl_code=SEM1"
+    }
+  ]
+}

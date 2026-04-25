@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Media Theory In The Digital Age",
+  "module_code": "COM403",
+  "offerings": [
+    {
+      "heading": "Media Theory In The Digital Age",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Media Theory In The Digital Age",
+        "module_code": "COM403",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Media Theory In The Digital Age",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a critical overview of the historical development of media and communication as an academic discipline. It demonstrates a number of core concepts and perspectives, including technology, political economy, audiences and users, and media effects. This module attends to the application of academic concepts, theories, and perspectives in the digital age, and manifests how these can be used to critically evaluate contemporary media events and phenomena. In addition, the module offers students the opportunity to develop practical skills in podcast production. The module responds to the programme’s overall objective in that it exposes students to concepts, theories and perspectives that can help them better examine and engage with contemporary media both as professionals and researchers. It also helps students prepare for the Final Individual Project.",
+        "Learning outcomes": "A. Critically examine the historical development of the academic study of media and communication, and key concepts, theories and perspectives B. Critically assess the applicability in the digital age of key concepts, theories and perspectives in the academic study of media and communication C. Apply a theory to contextualize and critically understand a contemporary media product D. Produce a publishable podcast E. Work constructively and efficiently in a group",
+        "Method of teaching and learning": "The lectures explain and contextualize the development of the academic study of media and communication, and core concepts, theories and perspectives. In the seminars, the students delve deeper into the lecture material. In the practicals the students develop the technical skills of podcasting."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM403&psl_code=SEM1"
+    }
+  ]
+}

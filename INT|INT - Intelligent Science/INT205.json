@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "AI Agents",
+  "module_code": "INT205",
+  "offerings": [
+    {
+      "heading": "AI Agents",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INT",
+        "full_name": "AI Agents",
+        "module_code": "INT205",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "AI Agents",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "1. To develop a comprehensive understanding of intelligent agents, including their fundamental concepts, classifications, and historical context. 2. To master the principles and methodologies for designing and implementing intelligent agents, including core components and various architectures. 3. To design and implement functional AI agents for real-world applications.",
+        "Learning outcomes": "A Demonstrate knowledge and understanding of the basic principles of AI agents. B Demonstrate knowledge and understanding of the design principles and development process of AI agents. C Apply an integrated agent system approach to the solution of complex AI problems such as model selection and parameter estimation. D Apply knowledge of AI agent and machine learning to solve complex problems related to AI systems such as robot technique, patter recognition, data modelling and information retrieval.",
+        "Method of teaching and learning": "Formal lectures and tutorials: This module is delivered as a two-hour lecture and two-hour practical session in the computer laboratory, each week. The concepts introduced during the lecture are illustrated using step-by step analysis of example agent, complete case studies and live programming tutorials. Private study: In a typical week, students will be expected to devote a further seven or eight hours of unsupervised time to private study. The time allowed for private study each week will typically include four hours of time for reflection and consideration of lecture material, and three to four hours of background reading"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT205&psl_code=SEM2"
+    }
+  ]
+}

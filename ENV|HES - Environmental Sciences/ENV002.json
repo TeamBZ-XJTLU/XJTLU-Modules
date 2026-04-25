@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Global Environmental Issues",
+  "module_code": "ENV002",
+  "offerings": [
+    {
+      "heading": "Global Environmental Issues",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Global Environmental Issues",
+        "module_code": "ENV002",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Global Environmental Issues",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "1. Develop an understanding and an appreciation of general natural environmental processes, ecosystem and biodiversity concepts. 2. Provide a broad overview of the major impacts of environmental issues on our living planet and on individuals and society by critical analysis of global environmental issues. 3. To enhance students' appreciation of global environmental problems, while developing leadership skills as solution providers. 4. Serve as an elective ‘Taster’ module delivered in the second semester of Year 1 that enable students to become familiar with the subject matter of the curriculum offered by the Department of Health and Environmental Sciences.",
+        "Learning outcomes": "A. Demonstrate a knowledge of general environmental processes and basic biodiversity concepts. B. Demonstrate an understanding of global environmental issues in an ever-changing world, such as climate change, pollution (air, water, soil), land use change (desertification, food security, food safety), and water issues (floods, water shortages). C. Demonstrate an understanding of social implications of environmental issues relevant to China, e.g. food security, water shortage, ecosystem restoration, environmental protection, and government policy. D. Communicate ideas about how we can deal with environmental issues and “what then we should do for our planet and our future”. E. Develop student understanding of a natural environment, which has an environmental problem and their ability to provide an assessment of the environmental problem and propose solution(s).",
+        "Method of teaching and learning": "The Module is taught through activity oriented two-hour weekly lectures, by active participation in every other week practical exercises and by using one short field trip. Lecture sessions are supported by class notes and reading materials. Through student participation in practical and hands on activities, they will be guided to develop professional skills as leaders and solution providers. A field trip will provide students opportunities to observe a natural habitat and assess habitat quality and ecological integrity through measuring basic environmental parameters and ecological variables. Students will prepare field trip reports. *Should field trips not be possible, the Department will either plan an appropriate substitute activity within the campus environment to meet the intended learning outcomes of the trip or make necessary arrangements to organize the trip at a later time, as appropriate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV002&psl_code=SEM2"
+    }
+  ]
+}

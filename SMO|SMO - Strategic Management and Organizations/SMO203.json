@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "People Resourcing",
+  "module_code": "SMO203",
+  "offerings": [
+    {
+      "heading": "People Resourcing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "People Resourcing",
+        "module_code": "SMO203",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "People Resourcing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The overall aim of this module is to develop students’ knowledge and understanding of the principles and practices of Human Resource Management in the area of People Resourcing. As such, the module provides a specialist and in-depth treatment of the subject area, building on and enhancing knowledge and understanding developed in years 1 & 2 of the BA HRM programme.",
+        "Learning outcomes": "A. Analyse the resourcing context and illustrate the impact people resourcing can have on the other human resource management functions. B. Explain the identification, attraction and recruitment of job applicants in the context of the HR planning process. C. Critically evaluate approaches to the assessment of job candidates and their fit with the job and organisation. D. Demonstrate the key skills associated with the assessment of job candidates and their fit with the job and organisation. E. Discuss managing the flow of talent through the organisation with reference to succession planning, separations, and downsizing.",
+        "Method of teaching and learning": "This is a lecture-based module supported by tutorials, skills workshops and private study. Tutorials deploy a range of case studies and practical exercises completed both individually and in groups."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO203&psl_code=SEM1"
+    }
+  ]
+}

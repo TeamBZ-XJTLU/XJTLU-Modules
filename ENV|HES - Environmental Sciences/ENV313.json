@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Environmental Restoration and Remediation - Field Class",
+  "module_code": "ENV313",
+  "offerings": [
+    {
+      "heading": "Environmental Restoration and Remediation - Field Class",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Environmental Restoration and Remediation - Field Class",
+        "module_code": "ENV313",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Environmental Restoration and Remediation - Field Class",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module will facilitate students in acquisition of knowledge in the areas of environmental remediation and restoration in the developing and developed world. This field class includes some practical work based on real case studies. The students will learn the key principles and procedures of environmental remediation and restoration and apply this knowledge to tackle real-world problems. The students’ understanding and skills on solving environmental problems will be solidified through comparative learning and hands-on practice.",
+        "Learning outcomes": "A. critically analyze the cause and environmental consequences of a contaminated or disrupted site case by case B. gain a deep understanding of the current situation regarding environmental restoration and remediation in the developing world, especially in China and how to make further development C. conduct an independent investigation in environmental restoration and remediation issues in developed countries, and apply this knowledge to tackle similar issues in developing countries. D. master the principles of environmental restoration and remediation projects E. integrate the knowledge of different aspects to analyze real case studies critically and comprehensively",
+        "Method of teaching and learning": "The module will be field trip focused, but will also feature lectures and a case study in its delivery. The students will learn the history, influence and remedial plan of a degraded site by communicating with local citizens, environmental companies, and local universities and government. The principles of environmental restoration and remediation, and the background of the investigation area will be clearly presented before the field trip through lectures and a case study. *Should the University decide to cancel or postpone the field trip due to unforeseen environmental and/or political circumstances, the Department will either plan an appropriate substitute activity to meet the intended learning outcomes of the trip or make necessary arrangements to organize the trip at a later time, as appropriate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV313&psl_code=SEM1"
+    }
+  ]
+}

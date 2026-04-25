@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Sustainability, Innovation And Change",
+  "module_code": "SMO424",
+  "offerings": [
+    {
+      "heading": "Sustainability, Innovation And Change",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Sustainability, Innovation And Change",
+        "module_code": "SMO424",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Sustainability, Innovation And Change",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This IMBA module focuses on the challenges of sustainable change and innovation in an increasingly uncertain, complex and dynamic business world. Key issues include the challenge of sustainability and the triple bottom line, and how to manage innovation and change for this purpose in organisations. The need to stimulate innovation and creativity in organisations, and issues of intrapreneurship/entrepreneurship are also covered. The module will therefore integrate learnings from other modules on the IMBA programmes, while still bringing unique material about an overall approach to sustainability and sustainable development in organisations.",
+        "Learning outcomes": "A. Enable students to acquire knowledge and understanding of theoretical and practical aspects of sustainability and sustainable organisational development. B. Enable students to acquire knowledge and understanding of innovation and change. B. Understand the resistance faced in an organisation when leading and managing change, and remedies to the resistance. C. Identify the opportunities and challenges presented by innovation, creativity, intrapreneurship and entrepreneurship. D. Assess the role of personal transformation in enabling wider change.",
+        "Method of teaching and learning": "The learning strategy that underpins the above learning outcomes is founded on a series of pedagogical principles that promote the integration of theory and practice, the importance of critical thinking, prudence and practical judgement and effective and efficient action. A variety of teaching and learning techniques that will be employed in the delivery of the course, including guest speakers, company visits and case analysis."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO424&psl_code=SEM2"
+    }
+  ]
+}

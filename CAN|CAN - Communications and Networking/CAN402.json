@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Social Web Programming",
+  "module_code": "CAN402",
+  "offerings": [
+    {
+      "heading": "Social Web Programming",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Social Web Programming",
+        "module_code": "CAN402",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Social Web Programming",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the fundamental principles, techniques, models, and applications of social web programming. Through an in-depth exploration of client-side and server-side programming and the development of social media applications, students will acquire essential skills in web development relevant to social media. This knowledge enables them to design and build functional social web platforms. The module fits seamlessly into the overall curriculum by providing a solid foundation in social web programming, which is crucial for subsequent modules that focus on more advanced web development topics and real-world application scenarios. It equips students with the necessary competencies to progress in their study of web-related disciplines and prepares them for professional roles in social media development.",
+        "Learning outcomes": "A. Critically evaluate a range of established concepts, models, standards, and technology mechanisms relevant to social network application development. B. Implement diverse models and mechanisms for the creation of social web applications, demonstrating a systematic approach. C. Design and develop a functional social web application tailored to meet specific real-world requirements, showcasing advanced problem-solving skills. D. Analyze and articulate the legal, social, ethical, and professional considerations in the context of systems, software, or information engineering, actively engaging in discussions and decision-making processes related to these issues.",
+        "Method of teaching and learning": "This module uses diverse teaching methods to help students master social web programming. Interactive lectures introduce key concepts with real-world examples, making theories easy to understand. In hands-on lab sessions, students apply lecture knowledge to develop social media application components, honing practical skills and problem-solving abilities. Lab materials promote deeper learning. Students discuss complex topics, share lab experiences, and receive individualized guidance, fostering peer-to-peer learning and clarifying misunderstandings. For independent study, students access curated academic resources like research papers and online tutorials to explore topics further. Instructors also offer office hours for personalized support, ensuring students achieve the module's learning outcomes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN402&psl_code=SEM2"
+    }
+  ]
+}

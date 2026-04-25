@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Public Relations: Campaigns And Texts",
+  "module_code": "COM402",
+  "offerings": [
+    {
+      "heading": "Public Relations: Campaigns And Texts",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Public Relations: Campaigns And Texts",
+        "module_code": "COM402",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Public Relations: Campaigns And Texts",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims and fit of the module: The module has two main aims. First, to critically evaluate the rise and development of the public relations profession, starting with propaganda campaigns in World War I and the subsequent development of the public relations industry in the United States, followed by its spread across the Western world and, more recently, to China. The module discusses the contemporary state and function of public relations industries and practitioners in developed economies. It provides students the opportunity to contextualize and assess classic and contemporary public relations campaigns. The second aim of the module is to help students develop writing skills for public relations and the ability to reflect on production processes and textual choices. The module fits the professional orientation of the programme in that it helps students understand one of the most popular communication professions and sharpen their skills in writing and reflecting on their own work.",
+        "Learning outcomes": "Learning outcomes: A Demonstrate critical understanding of public relations B Critically assess public relations campaigns C Produce publishable public relations texts in concise, clear and engaging English D Critically reflect on production processes and choices",
+        "Method of teaching and learning": "Methods of teaching and learning: The lectures introduce core concepts and examine and contextualize the reading material and case studies of PR campaigns. In the seminars the students delve deeper into the module material and case studies. In addition, they practice their writing skills."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM402&psl_code=SEM1"
+    }
+  ]
+}

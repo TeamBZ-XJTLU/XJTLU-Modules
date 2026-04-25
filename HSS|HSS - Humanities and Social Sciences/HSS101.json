@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HSS",
+    "domain_code": "HSS",
+    "full_name": "Humanities and Social Sciences"
+  },
+  "full_name": "Artificial Intelligence for Humanities and Social Sciences: Empowering Research and Practice",
+  "module_code": "HSS101",
+  "offerings": [
+    {
+      "heading": "Artificial Intelligence for Humanities and Social Sciences: Empowering Research and Practice",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "HSS",
+        "full_name": "Artificial Intelligence for Humanities and Social Sciences: Empowering Research and Practice",
+        "module_code": "HSS101",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Artificial Intelligence for Humanities and Social Sciences: Empowering Research and Practice",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is compulsory for all HSS undergraduate programs, and will take place over both semesters of Year 2. The module will empower students to effectively utilize state-of-the-art AI tools for both academic and professional applications in the Humanities and Social Sciences (HSS), and prepare students for the evolving impact of AI on their discipline. Through lectures and hands-on sessions, students will learn how to handle AI tools in a critical manner, avoiding common pitfalls and misconceptions. The module will give the students insights into various discipline-specific applications, such as AI-powered literature research, text processing and data analysis, including analyzing social media data. Students will also learn how to use AI creatively to generate multimodal output. Our aim is to equip HSS students with a basic skillset, which will set them on track for life-long AI-based practice and learning.",
+        "Learning outcomes": "A Critically use AI tools for literature research in the humanities and social sciences, including the ability to select appropriate tools, recognize potential biases, and apply cross-validation techniques to ensure the reliability of their research findings B Effectively integrate AI tools into their writing workflows and utilize AI for discipline-specific tasks such as translation, summarization, text enhancement, and the design of research materials C Creatively utilize AI tools to enhance presentation materials and to generate multimodal content for applications in the humanities and social sciences D Develop a foundational understanding of data literacy and conduct AI-powered analyses of humanities and social science data, including descriptive analysis, data visualization, and multivariate analysis. E Analyze social media trends, topics, emotions, and opinions using AI tools",
+        "Method of teaching and learning": "This module will be delivered by a combination of bi-weekly lectures and tutorials, distributed over two semesters. Lectures will introduce students to the basic concepts, techniques and examples. Tutorials will give students the opportunity for hands-on exercises in AI-powered literature research, text processing, data analysis, and multimodal creation."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=HSS101&psl_code=ACYR"
+    }
+  ]
+}

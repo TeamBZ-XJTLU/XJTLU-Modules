@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Applied Risk Management",
+  "module_code": "IFB430TC",
+  "offerings": [
+    {
+      "heading": "Applied Risk Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Applied Risk Management",
+        "module_code": "IFB430TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Applied Risk Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to develop students’ systematic understanding of risk management principles, tools, and practices tailored to the digital finance ecosystem. It bridges traditional risk frameworks with emerging challenges posed by digital technologies, such as blockchain, algorithmic trading, and decentralized finance (DeFi). Key aims include: • Equipping students to identify, assess, and mitigate risks specific to digital financial products and processes. • Building proficiency in using industry-standard risk management tools and techniques in digital contexts. • Fostering critical awareness of regulatory expectations and ethical considerations in managing digital financial risk. As an optional module in the Digital Finance Pathway, this module aligns with the programme’s mission to prepare graduates for who are interested in roles in fintech, digital banking, and asset management, where risk expertise is paramount. It builds on foundational modules by applying quantitative and analytical skills to real-world risk scenarios.",
+        "Learning outcomes": "A. Evaluate how digital technologies amplify or mitigate traditional risks. B. Critically assess the strengths and limitations of risk measurement tools when applied to volatile digital assets (e.g., cryptocurrencies). C. Evaluate the trade-offs between innovation and risk exposure in digital finance. D. Design a risk management framework for a digital financial product that addresses regulatory compliance and operational resilience. E. Apply analytical thinking to solve unstructured risk problems.",
+        "Method of teaching and learning": "The module employs a blended approach to teaching and learning. Lectures are used to introduce core concepts and theoretical frameworks. Seminars facilitate interactive discussions on real-world digital marketing campaigns, challenges, and emerging industry trends, with case studies to provide hands-on experience. Group projects encourage collaborative strategy development, enabling students to design integrated digital marketing plans and refine them through peer feedback. Independent study complements structured sessions, allowing students to conduct research, engage with online resources, and prepare for assessments through self-directed learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB430TC&psl_code=SEM2"
+    }
+  ]
+}

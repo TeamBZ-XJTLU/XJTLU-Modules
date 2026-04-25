@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Environmental Engineering",
+  "module_code": "ENV316",
+  "offerings": [
+    {
+      "heading": "Environmental Engineering",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Environmental Engineering",
+        "module_code": "ENV316",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Environmental Engineering",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to systematically introduce students to the fundamental principles in the field of environmental engineering. Students will be introduced to the science and engineering analysis methods used to study water and air quality, noise and waste management and their engineering control. This module will lay the groundwork for students to receive further training in more specialized areas of environmental engineering and understand the latest innovative development in the discipline.",
+        "Learning outcomes": "A. Master engineering methods for water treatment; B. Discuss the fate of contaminants in engineering systems; C. Evaluate treatment technologies for controlling air pollution, solid waste, noise, and hazardous waste; D. Apply engineering methods to solve real-world problems; E. Demonstrate the ability to write a comprehensive report for an environmental engineering project.",
+        "Method of teaching and learning": "The module is lecture-based, supported with tutorials and a field trip. The lectures will be delivered based on real problems, the students will have chance to practice during tutorials, and visit a waste water treatment plant during the field trip."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV316&psl_code=SEM1"
+    }
+  ]
+}

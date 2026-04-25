@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Inventory and warehouse management",
+  "module_code": "IFB201TC",
+  "offerings": [
+    {
+      "heading": "Inventory and warehouse management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Inventory and warehouse management",
+        "module_code": "IFB201TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Inventory and warehouse management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims of this module is that the management of inventory and warehousing is key to the supply chain management and operations of modern organisations. Warehousing is actively involved in the supply chain. In demand-driven supply chains this may be mainly by storing goods, or involve more sorting activities; both being required to largely feed external customers. In the supply-driven supply chains, then warehouses get renamed as stores, and hold stocks required to feed internal activities like production. Warehouses are therefore an integral part of the supply/demand chain/pipeline infrastructure. The module provides the student with comprehensive understanding of key principles and techniques to assure effective management of inventory and warehousing. The aims of this module are to enable students to: • Understand the principles and role of inventory and warehouse management in organisations. • Be able to assess the effectiveness of operations of inventory and warehouse • Understand and apply a range of tools and techniques relevant to the optimisation of inventory and warehouse management.",
+        "Learning outcomes": "A. Critically assess and map the operations of inventory and warehousing management both nationally and globally. B. Critically analyse and evaluate the factors that impact on the performance of inventory and warehouse management. C. Demonstrate an in-depth understanding of how to apply optimisation tools and techniques in a range of situations to improve the operational performance of inventory and warehouse",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. The module is delivered through series of lectures and, seminars and simulation gamestutorials. Both international and Chinese supply chain management case study materials will be utilized to further expose students to practical applications of the principles. Four exercises will be scheduled to cover different topics of practices of inventory and warehouse management. Two of these will be game based exercises and the remainder will be based on case study materials and application of optimisation tools and techniques used in supply chain management."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB201TC&psl_code=SEM2"
+    }
+  ]
+}

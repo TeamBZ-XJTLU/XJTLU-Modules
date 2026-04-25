@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Advanced Signal Processing",
+  "module_code": "CAN403",
+  "offerings": [
+    {
+      "heading": "Advanced Signal Processing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Advanced Signal Processing",
+        "module_code": "CAN403",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Signal Processing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides postgraduate students with a comprehensive understanding of both theoretical foundations and algorithms in statistical signal processing. It equips them with the skills to analyze and model random signals, design various types of optimal digital filters for signal detection and estimation problems, and apply these techniques to practical scenarios while evaluating the performance and trade-offs. The module prepares students for advanced research or professional work in telecommunications, multimedia data analysis (e.g., radar, sonar, speech, and biomedical signals etc.), and broader engineering applications.",
+        "Learning outcomes": "A. Describe and model random signals using auto-regressive moving average (ARMA) processes. Analyse their characteristics in both time and frequency domain. Evaluate and quantify the effects of linear and time-invariant (LTI) systems on random signals. B. Compare and contrast various parametric and nonparametric spectral estimation techniques. Perform and interpret spectrum estimation for different types of random signals using these techniques. C. Formulate and solve optimal detection problems. Implement and evaluate the performance of matched filter for detecting signals in noisy environments under various conditions, using appropriate metrics. D. Integrate principles of optimal estimation for solving signal estimation problems. Design, implement, and evaluate the Wiener filter as an optimal linear filter with respect to estimation accuracy, computational complexity, and trade-offs.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures and supervised laboratory sessions. Students are required to attend two 2-hour formal lectures weekly, covering academic content, core concepts, theories, algorithms, and practical examples. Additionally, students will participate in two 2-hour supervised computer lab sessions throughout the semester to gain hands-on experience in signal processing and skills in solving practical problems using MATLAB. Independent self-study of recommended textbooks and supplementary materials is also essential to ​consolidate understanding​​ and strengthen practical skills."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN403&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Financial Management",
+  "module_code": "IFB203TC",
+  "offerings": [
+    {
+      "heading": "Financial Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Financial Management",
+        "module_code": "IFB203TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Financial Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with an integrative understanding of financial management. Students will learn to analyze and interpret financial statements, manage corporate financial decisions, and apply valuation models. The module also covers strategic financial planning and investment analysis, preparing students to support organizational financial strategies in diverse contexts.",
+        "Learning outcomes": "A. Explain the construction and purpose of financial statements, including their role in financial reporting and decision-making. B. Analyze a company’s financial performance and health through the interpretation of key financial statements, including balance sheets, income statements, and cash flow statements. C. Evaluate financial ratios and other analytical tools to assess profitability, liquidity, and solvency, integrating these insights into strategic financial decision-making.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. Learnings will be reinforced by case studies, by investigating real-world financial statements from various companies, allowing students to apply their knowledge and practice critical thinking. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB203TC&psl_code=SEM1"
+    }
+  ]
+}

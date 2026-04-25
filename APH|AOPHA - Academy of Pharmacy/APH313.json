@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Automation Solutions for the Pharmaceutical Industry",
+  "module_code": "APH313",
+  "offerings": [
+    {
+      "heading": "Automation Solutions for the Pharmaceutical Industry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Automation Solutions for the Pharmaceutical Industry",
+        "module_code": "APH313",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Automation Solutions for the Pharmaceutical Industry",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "1. To make students understand the concept of automation and validation in pharmaceutical processing 2. To develop in students an understanding of Installation Qualification, Operation Qualification and Performance Qualification in the automation of validation 3. To develop students’ understanding of validation, project management, and business perspectives on pharmaceutical information automation and the ability to use and interpret this knowledge to solve complex problems",
+        "Learning outcomes": "A Outline the complete life-cycle methodology of automation B Summarize the characteristic of IQ, OQ, and PQ C Acquire knowledge of the principle of automation documentation D Understand computer system validation of complex automated information systems E Describe how human resource programs maximize productivity gains for automation initiatives",
+        "Method of teaching and learning": "The module will be delivered through standard lectures, which will be accompanied by relevant lecture handouts. Students will also be guided to sections of specific textbooks, and if reading of specific reviews or literature sources is required, then copies of these will be made available in the library for use by the students. At intervals during the module, tutorials will be held for the students to deeply understand the principle of this module. Students will attend a 1-hour lecture and a 1-hour tutorial per week. Students will also be given guidance and opportunities to practice the various skills mentioned in the specifications. Self-study activities will be extensions or consolidations of work carried out in the lecture and tutorial. There will be 2-day field trips arranged for students to better understand the aims of the teaching. Assessment components of this module will include: 1) questions or tests in lectures or tutorials; 2) coursework to review the topics; 3) group discussion or report that summarizes the lecture topics; and 4) presentation of a critique of the teaching topics. The feedback will help improve the teaching quality and ensure the quality of summative assessment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH313&psl_code=SEM2"
+    }
+  ]
+}

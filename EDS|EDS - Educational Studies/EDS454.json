@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Assessment and Evaluation in Student Development",
+  "module_code": "EDS454",
+  "offerings": [
+    {
+      "heading": "Assessment and Evaluation in Student Development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Assessment and Evaluation in Student Development",
+        "module_code": "EDS454",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Assessment and Evaluation in Student Development",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The purpose of this module is to help students understand the role of the essential elements of assessing and evaluating student achievement. Centred around the three constructs of assessment: Assessment of Learning, Assessment as Learning, and Assessment for Learning, this module facilitates students’ critical engagement with the different purposes of assessment and their implications for educators and learners. Building upon their prior knowledge and experiences, students in this module will examine models of assessment and assessment types and how cognitive development can be measured and tracked through assessments and further select and create tasks and tools for fair and effective assessment.",
+        "Learning outcomes": "A Implement ethical and professional standards for the practice of assessment and evaluation B Analyze data from assessments to make appropriate instructional decisions C Apply research-based approaches, methods, and materials for designing, implementing, and evaluating assessments in terms of Assessment of Learning, Assessment as Learning, and Assessment for Learning. D Apply understanding of assessment and evaluation principles in evaluating individual, group, and institutional performance",
+        "Method of teaching and learning": "The teaching sessions include both lectures and seminars, which work together to engage students with key conceptual, theoretical, and methodological insights, as well as dedicated opportunities for critical reflection. Students will also engage in collaborative and individual projects for Research-Led Project-Based Learning, as well as the iterative development of tools and resources that can be used for assessment and evaluation in educational settings."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS454&psl_code=SEM2"
+    }
+  ]
+}

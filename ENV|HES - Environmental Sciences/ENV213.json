@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Soil and the Environment",
+  "module_code": "ENV213",
+  "offerings": [
+    {
+      "heading": "Soil and the Environment",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Soil and the Environment",
+        "module_code": "ENV213",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Soil and the Environment",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "1. Teach students to understand the basic of soil science which includes how to describe a soil, soil formation processes, and the physical and chemical soil properties. 2. Teach students how to apply this basic soil knowledge to gain an understanding of soil in relation to environment issues, such as soil erosion, water eutrophication, heavy metals and chemical pollution.",
+        "Learning outcomes": "A recognize and distinguish different typical soil types and profiles based on the physical, chemical, and biological soil properties; B explain the importance of soil for agriculture; C classify how eutrophication and soil pollution function in relation to soil properties; D understand how important major and newly emerging environmental threats affect soil quality E analyze how human activities, such as agriculture, urbanization, and rangeland use, influence soil formation, erosion and sustainability F apply and explain basic soil knowledge to a broader audience in written and oral ways",
+        "Method of teaching and learning": "Class lectures, field trips combined with hands-on fieldwork. *Should the University decide to cancel or postpone the field trip due to unforeseen environmental and/or political circumstances, the Department will either plan an appropriate substitute activity to meet the intended learning outcomes of the trip or make necessary arrangements to organize the trip at a later time, as appropriate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV213&psl_code=SEM1"
+    }
+  ]
+}

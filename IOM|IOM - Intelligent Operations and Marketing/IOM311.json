@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Branding",
+  "module_code": "IOM311",
+  "offerings": [
+    {
+      "heading": "Branding",
+      "listing": {
+        "academic_year": "2028/29",
+        "domain_code": "IOM",
+        "full_name": "Branding",
+        "module_code": "IOM311",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2028/29",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Branding",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide our students with a comprehensive and up-to-date treatment of the subjects of brands, brand equity, and strategic brand management that includes the design and implementation of marketing programs and activities to build, measure, and manage brand equity.",
+        "Learning outcomes": "A Understand and explain basic branding principles. B Analyze classic and contemporary branding applications and case studies. C Develop strategic branding plans for business sectors and non-commercial organisations. D Critically evaluate strategic branding options in the contemporary world.",
+        "Method of teaching and learning": "The module involves a range of teaching strategies including lectures, student-led seminars, case studies and guest lectures. Additional material will be in the form of web-based reading and research, selected texts, journal articles and contemporary magazine and press articles. Independent research and study will be encouraged throughout to complement groupwork activities."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM311&psl_code=SEM2"
+    }
+  ]
+}

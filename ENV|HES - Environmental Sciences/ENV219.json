@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Terrestrial Ecology",
+  "module_code": "ENV219",
+  "offerings": [
+    {
+      "heading": "Terrestrial Ecology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Terrestrial Ecology",
+        "module_code": "ENV219",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Terrestrial Ecology",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Providing a holistic view on the structure and spatiotemporal dynamics of terrestrial ecosystems, biodiversity patterns, and on the role of evolution, and of abiotic and biotic drivers in the structure and function of terrestrial ecosystems.",
+        "Learning outcomes": "A demonstrate a clear understanding of the most representative ecosystem types, the main drivers of its structure and its role in Earth’s functioning B present a comprehensive understanding of how ecosystems are structured across different scales, from individuals to communities C carry out data collection, analysis and interpretation from the perspective of terrestrial ecology D obtain strong communicational skills both regarding intra-group collaboration and scientific communication E apply the acquired knowledge to develop a case study in terrestrial ecology",
+        "Method of teaching and learning": "For the theoretical part, the different topics are introduced through lectures. The main concepts are applied to a practical assignment that is presented and debated in the seminars. For the practical part, there is a stage of data collection (either in the field or using available data). Samples (and/or data) are later processed in the lab (and/or analyzed in the computer). Tutorials are used to provide assistance to the students in the acquisition of practical skills. *Should the University decide to cancel or postpone the field trip due to unforeseen environmental and/or political circumstances, the Department will either plan an appropriate substitute activity to meet the intended learning outcomes of the trip or make necessary arrangements to organize the trip at a later time, as appropriate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV219&psl_code=SEM1"
+    }
+  ]
+}

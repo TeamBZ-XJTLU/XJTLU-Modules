@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IND",
+    "domain_code": "IND",
+    "full_name": "Industrial Design"
+  },
+  "full_name": "Design Beyond Carbon",
+  "module_code": "IND408",
+  "offerings": [
+    {
+      "heading": "Design Beyond Carbon",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IND",
+        "full_name": "Design Beyond Carbon",
+        "module_code": "IND408",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Design Beyond Carbon",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "In relation to the new structure of the MDes Industrial Design programme over 2 years, the IND408 Design Beyond Carbon module is an introduction to the principles, methodologies and approaches that underpin the next generation of design practices that focus on the development of products and systems from a net zero carbon perspective. This module is also an opportunity for the levelling up period for student's knowledge and experience about Sustainability and Circular Economy in Masters Y1, that will contribute to their ‘Track’ choice for Y2 within IND402 Design Research Project. Finally, this module will provide students with an understanding of current and future environmental, social, and economic challenges to guide them positioning at the forefront of practice, and to address products and systems from a regenerative perspective.",
+        "Learning outcomes": "A. Address the environmental, social and economic challenges to reduce CO2 emissions with a design-out carbon perspective, developing products and systems that lead the global agenda for sustainable futures B. Evaluate the environmental impact of products, services, and systems over their complete lifecycle, applying Life Cycle regulation for a zero-carbon environment C. Apply advanced design strategies for specific design briefs, that transform current products and systems within the context of a new circular economy D. Identify, choose, and test the most suitable environmental policies and certifications, to provide a critical analysis of your design brief",
+        "Method of teaching and learning": "This module is delivered in a combination of lectures, seminars, and problem classes/tutorials. Formal lecture sessions will cover fundamental aspects of the impact of design processes on carbon emissions and their effects on climate, the economy and society at large, and new design approaches for targeting net-zero carbon. This module includes problem classes/tutorials as guided discussions using the case-study/project pedagogy. Students will undertake critical evaluations of case studies to leverage their understanding, knowledge and experience of designing in a post-carbon era perspective. This will include both individual work and groupwork, that will contribute towards their final presentations of practical applications of methods and tools for design-out carbon."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IND408&psl_code=SEM1"
+    }
+  ]
+}

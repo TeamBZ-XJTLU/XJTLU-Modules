@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MLC",
+    "domain_code": "SPA",
+    "full_name": "Spanish"
+  },
+  "full_name": "The Dawn of Globalization: Introduction to Spain in the 15th Century",
+  "module_code": "SPA012",
+  "offerings": [
+    {
+      "heading": "The Dawn of Globalization: Introduction to Spain in the 15th Century",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SPA",
+        "full_name": "The Dawn of Globalization: Introduction to Spain in the 15th Century",
+        "module_code": "SPA012",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "The Dawn of Globalization: Introduction to Spain in the 15th Century",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to prompt students to contemplate the implications of early globalization of the 15th Century wherein Spain played a pivotal role, either as a catalyst or a central figure. The module's content will be presented chronologically, attempting to cultivate students’ cultural awareness and global perspectives by delving into the historical, political, economic, and social interconnections between Spain and other nations. Additionally, it aims to refine critical thinking skills among students, enabling them to analyze historical events, comprehend their global significances, and discern the connections between past interactions and contemporary global issues. This module is ideal for students passionate about history, culture or social sciences, especially those considering programmes in Humanities, Intercultural Studies or International Relations.",
+        "Learning outcomes": "A Identify the key historical, political, economic, cultural and social aspects of Spain in the 15th Century B Demonstrate a general understanding of the impact of Spain in the 15th Century in shaping Spanish identity as a global actor C Analyze the significance of Spain in the 15th Century in the context of early globalization",
+        "Method of teaching and learning": "The module is scheduled to be delivered in Semester 2, offering students two weekly on-site seminars of 1.5 hours each, supplemented by additional self-study hours to fully engage with the course material. Instruction will be delivered in English, although Spanish and Chinese words or concepts may occasionally surface within the module. However, there are no specific language access restrictions beyond proficiency in English. The seminars adopt a primarily practical approach, employing a range of teaching methods to accommodate diverse learning styles and effectively engage students with the content. These methods include class discussions, group activities, gamification, flipped classroom sessions, and workshops conducted by guest speakers. Moreover, students will have access to a diverse selection of engaging, authentic materials, such as videos, articles, and online resources, intended to stimulate curiosity and promote self-study beyond the classroom."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SPA012&psl_code=SEM2"
+    }
+  ]
+}

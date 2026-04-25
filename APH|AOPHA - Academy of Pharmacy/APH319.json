@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Biofabrication and Regenerative Medicine",
+  "module_code": "APH319",
+  "offerings": [
+    {
+      "heading": "Biofabrication and Regenerative Medicine",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Biofabrication and Regenerative Medicine",
+        "module_code": "APH319",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Biofabrication and Regenerative Medicine",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Biofabrication is a cutting-edge research area involving the use of cells, proteins, biological materials, and biomaterials as building blocks to create biological systems and therapeutic products. This module provides students with advanced skills in biofabrication technologies such as 3D bioprinting, bioassembly, and microfluidics. Students will learn how to design regenerative therapeutics, including drug-eluting implants and in vitro disease models. The course combines principles of additive manufacturing, biomaterial science, and regulatory strategies to facilitate the translation of laboratory innovations into scalable therapies. Students will investigate current research in prototyping tissue constructs while evaluating their commercial viability, compliance with Good Manufacturing Practices (GMP), and potential clinical applications. This program connects pharmacology and biomaterials training, addressing the needs of the personalized medicine and regenerative pharmaceuticals industries.",
+        "Learning outcomes": "A Assess the requirements and constraints in advanced tissue engineering and regenerative medicine. B Analyse key biofabrication techniques used for creating drug-loaded implants, organ-on-chip devices, and tissue analogues. C Identify the technical implications of design, manufacturing requirements and quality control in regenerative medicine. D Evaluate the challenges in product design and clinical translation for biofabricated therapeutics.",
+        "Method of teaching and learning": "This module presents content through a structured weekly framework, featuring a 1-hour lecture to introduce core topics, accompanied by complementary tutorials focused on practicing skills outlined in the learning outcomes. Students consolidate and extend their understanding through guided self-study activities that build directly upon lecture and tutorial content. The assessment strategy is designed to cumulatively evaluate competency through structured phases. This includes formative quiz integrated within lectures or tutorials to provide timely feedback on conceptual understanding, followed by individual coursework serving as a diagnostic review of core principles. Finally, a summative final examination comprehensively evaluates achievement across all module learning outcomes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH319&psl_code=SEM1"
+    }
+  ]
+}

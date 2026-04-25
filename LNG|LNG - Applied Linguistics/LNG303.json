@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Final Year Project",
+  "module_code": "LNG303",
+  "offerings": [
+    {
+      "heading": "Final Year Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Final Year Project",
+        "module_code": "LNG303",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 3",
+        "Module Title": "Final Year Project",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The main aims of the dissertation are: l to give students the opportunity to carry out independent study at an advanced level, with appropriate support, into a topic of interest to them; l to draw on and extend the skills and knowledge acquired in taught modules.",
+        "Learning outcomes": "A. Demonstrate a range of transferable research skills including the ability to organise time and resources effectively; identify and access relevant sources of information and materials; identify appropriate research methods for their project. B. Apply the core theoretical and/or conceptual approaches in Applied English to their chosen area of research; C. Synthesise and analyse complex empirical and conceptual material into their chosen area of research; D. Use empirical and conceptual material in coherent and sustained argumentation; E. Demonstrate a deep knowledge and understanding of their chosen topic and a critical awareness of the relationship of their own research to other work in the field F. Communicate effectively with their supervisor and use feedback constructively and reflectively in producing a final dissertation.",
+        "Method of teaching and learning": "The student will identify a provisional topic by the end of the semester preceding that in which the dissertation is written, and will have a preliminary meeting with the supervisor. Obligatory sessions on research methods and writing up will be offered during both semesters. The student will have regular meetings with the supervisor to discuss stages of the project, review drafts and to monitor progress and offer advice on writing up. These constitute the “Tutorials” hours and will be arranged between the supervisor and the student individually."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG303&psl_code=ACYR"
+    }
+  ]
+}

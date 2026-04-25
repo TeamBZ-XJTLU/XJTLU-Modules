@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "ARC",
+    "full_name": "Architecture"
+  },
+  "full_name": "Topics in Architectural History and Theory",
+  "module_code": "ARC406",
+  "offerings": [
+    {
+      "heading": "Topics in Architectural History and Theory",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ARC",
+        "full_name": "Topics in Architectural History and Theory",
+        "module_code": "ARC406",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Topics in Architectural History and Theory",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module engages students in developing critical and analytical thinking needed to read, and discuss architectural history and theory. Addressing a focused topic relevant to contemporary practice, students will learn to apply historical and theoretical inquiry in research to shape visual and written arguments.",
+        "Learning outcomes": "A. Account for relations between historical events, writing and architectural evidence as relevant for the theory, practice and culture of architecture today. B. Devise and critically analyze histories and theories of Chinese and Asian architecture from a global perspective. C. Critically analyse case studies in their theoretical and historical context as precedents for the development of a design proposal. D. Synthesise arguments and assumptions into a relevant research question related to the history, theory and culture of architecture. E. Concisely and creatively structure and formulate knowledge, findings and conclusions to produce clear, logically argued and original written work in compliance with academic conventions",
+        "Method of teaching and learning": "This module has a seminar format and is organized through in-class discussion and reading of assigned texts. Lectures will provide context for discussion and reading. Presentations and individual research projects will further enhance student learning. Some sessions may be delivered in collaboration with Language Centre tutors, with the aim of assisting students with language and the study skills requirements for the module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ARC406&psl_code=SEM2"
+    }
+  ]
+}

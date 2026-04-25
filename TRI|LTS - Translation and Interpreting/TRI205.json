@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LTS",
+    "domain_code": "TRI",
+    "full_name": "Translation and Interpreting"
+  },
+  "full_name": "Sight Translation",
+  "module_code": "TRI205",
+  "offerings": [
+    {
+      "heading": "Sight Translation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "TRI",
+        "full_name": "Sight Translation",
+        "module_code": "TRI205",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Sight Translation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to develop students’ sight translation skills in order to support interpreting at the next stage of learning. As an essential component of interpreting skills, it enables students to adapt to the intense cognitive environment required in all forms of interpreting, e.g., consecutive interpreting, simultaneous interpreting. This module is designed in an incremental manner in terms of text difficulty. It is intended to develop students’ interpreting skills from the basic to more advanced level.",
+        "Learning outcomes": "A Practise translation exercises of written texts of various topics and genres B Demonstrate an understanding of key theories underpinning the practice of sight translation C Acquire systematic use of sight translation skills and strategies D Meet the professional requirements for translator competence and translation quality in sight translation E Apply overall interpreting skills preparing for more advanced interpreting modules",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: lectures and tutorials/workshops. Lectures provide students with the knowledge and key skills related to sight translation; tutorials/workshops are conducted for students to perform sight translation exercises, to discuss translation pitfalls and corresponding strategies, and to perform a peer review. Active participation is essential in both forms of teaching."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=TRI205&psl_code=SEM1"
+    }
+  ]
+}

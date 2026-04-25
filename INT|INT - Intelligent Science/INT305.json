@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Machine Learning",
+  "module_code": "INT305",
+  "offerings": [
+    {
+      "heading": "Machine Learning",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INT",
+        "full_name": "Machine Learning",
+        "module_code": "INT305",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Machine Learning",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to develop students’ foundational expertise in machine learning by integrating theoretical concepts with practical implementation and application, preparing them for advanced study or professional practice in data-driven fields.",
+        "Learning outcomes": "A Identify and assess the types of problems that can be addressed through machine learning, along with their theoretical basis. B Evaluate and compare the key properties and characteristics of existing and emerging machine learning algorithms. C Select and apply appropriate machine learning algorithms to solve specific computational or real-world problems. D Critically adapt and optimise machine learning algorithms to meet defined performance or application needs.",
+        "Method of teaching and learning": "The module will be delivered through a combination of formal lectures and practical labs. Lectures will introduce students to the academic content. Labs will be used to code the lecture materials in Python using ML Libraries. In addition, students will be expected to devote unsupervised time to private study. Private study will provide time for reflection and consideration of lecture material and background reading. Two assessments will assess how well students keep up with the material presented in the lectures. A written examination at the end of the module will assess the academic achievement of students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT305&psl_code=SEM1"
+    }
+  ]
+}

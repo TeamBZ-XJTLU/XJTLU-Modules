@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "Introduction to Databases",
+  "module_code": "DTS106TC",
+  "offerings": [
+    {
+      "heading": "Introduction to Databases",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DTSTC",
+        "full_name": "Introduction to Databases",
+        "module_code": "DTS106TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Databases",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to establish an understanding of Information Systems, to encourage the appropriate and efficient design and usage of Information Systems, to provide insight into the design process and social implications of Information Systems, and to enable the use of Information Systems in a programming environment.",
+        "Learning outcomes": "A. Demonstrate a foundational understanding of database design principles. B. Demonstrate proficiency in practical tasks such as database creation, manipulation, and querying using a database management system like MySQL. C. Exhibit comprehensive knowledge and practical skills in SQL, including the ability to write complex queries for data retrieval, manipulation, and management within a relational database environment. D. Analyze and evaluate the processes involved in creating and maintaining information systems, with a focus on understanding the legal, ethical, and security considerations associated with data management and privacy.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This means that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contributions from industry partners. This philosophy is carried through also in terms of assessment, with a reduction in the use of exams and an increase in coursework, especially problem-based assessments that are project-focused. This module will be delivered through a combination of lectures, group discussions, case studies, hands-on practical exercises, etc. Lectures and group discussions are conducted using the Problem-Based Learning paradigm focusing on student-centred learning, where students develop critical thinking and problem-solving skills to address open-ended problems that lack a straightforward solution. This module is taught with an emphasis on student learning through practice and by projects, facilitated by a module leader, and where appropriate, industrial mentors. Students can identify particular areas of learning needs or interests according to the available project(s). They will conduct independent research to gather information and resources to better define the problem. Progress towards the learning outcomes will be facilitated and monitored, where students are guided to progressively address the given problem through tasks. Independent learning will form an important aspect of the educational activities in this module. Assessed by a project, students shall gain practical experience in undertaking independent study and research on industry-focused real-world problems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS106TC&psl_code=SEM2"
+    }
+  ]
+}

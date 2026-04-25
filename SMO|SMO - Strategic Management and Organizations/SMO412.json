@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Doing Business with Chinese Companies and Consumers",
+  "module_code": "SMO412",
+  "offerings": [
+    {
+      "heading": "Doing Business with Chinese Companies and Consumers",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Doing Business with Chinese Companies and Consumers",
+        "module_code": "SMO412",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Doing Business with Chinese Companies and Consumers",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to teach students how to evaluate a range of social, economic, managerial and strategic issues concerning doing business in China and transacting with Chinese companies abroad, including with state-owned and private enterprises headquartered in mainland China and Hong Kong SAR, as well as ethnically-Chinese owned and managed companies based in East and Southeast Asia. It enables students to develop the ability to make judgements and decisions on managing business operations in China, and when engaging with Chinese companies internationally. Students will be encouraged to critically reflect on assumptions about the Chinese philosophy of doing business and how relationships are cultivated and developed with Chinese organizations, especially within the context of a broader understanding of Asian and ‘western’ business values. Students will also consider the growing international expansion of Chinese companies and the implications this has for businesses around the world.",
+        "Learning outcomes": "A Assess and critically evaluate how recent economic, social and political developments in China have shaped its business environment for local and foreign firms. B Evaluate the advantages and disadvantages of exporting, licensing and foreign direct investment as market servicing strategies for China. C Undertake an in-depth business, environmental and competitive analysis in the Chinese market context. D Formulate business, management, and organizational strategies for operations in China. E Understand the cultural and philosophical differences in business practice between western and Chinese companies. F Collect, analyse and critically reflect upon the relevancy and accuracy of data gathered to advocate solutions to business and management problems in an international setting. G Demonstrate effective and persuasive oral presentation skills.",
+        "Method of teaching and learning": "Classes will consist of lectures, seminars, and case study analysis, and the module will also involve private study and research."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO412&psl_code=SEM2"
+    }
+  ]
+}

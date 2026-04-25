@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Educational Internship",
+  "module_code": "EDS406",
+  "offerings": [
+    {
+      "heading": "Educational Internship",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Educational Internship",
+        "module_code": "EDS406",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Educational Internship",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module equips students to apply knowledge, technical expertise, critical thinking, and interpersonal skills while advancing their applied-research abilities. Through tackling real-world challenges and delivering actionable solutions, participants will engage with K-12, vocational, and higher-education contexts across China and global TNE environments.",
+        "Learning outcomes": "A. Demonstrate the ability to link theory to educational practice, showing how theory informs practice, and the impact on individual development. B. Indicate a critical understanding of the educational organization in which the placement is completed. C. Develop key individual skills, including evaluative judgement, AI literacy, team-working, problem-solving and analytical skills. D. Leverage AI tools to facilitate problem-identification, formulate research questions, and generate actionable solutions across K-12, vocational, and higher-education contexts and other relevant educational contexts.",
+        "Method of teaching and learning": "Starting from AY2025/26, all students in the EDS 406 module will be required to work on a pre-designated project (e.g., extension of PG transition module) or a new practical project identified and agreed by the students, academic supervisor and practice mentor during their internship, which will be a major part of their module assessment. In addition to the project-based project, practice mentors may assign other tasks to students, but the main responsibilities of the internship positions will be clearly communicated to the students before they choose their positions. In weeks 1–13, students will attend lectures, seminars, and tutorials to prepare for the internship, consult module instructors, and present reflections, progress, and achievements. The Academy of Future Education will source and recommend the internship at a suitable educational organization in greater Suzhou area. Part-time students can undertake their internship in their normal place of work where relevant."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS406&psl_code=SEM2"
+    }
+  ]
+}

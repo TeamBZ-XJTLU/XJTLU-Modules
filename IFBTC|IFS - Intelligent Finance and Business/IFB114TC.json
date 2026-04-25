@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Managing Across Borders",
+  "module_code": "IFB114TC",
+  "offerings": [
+    {
+      "heading": "Managing Across Borders",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Managing Across Borders",
+        "module_code": "IFB114TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "Managing Across Borders",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with a solid understanding of the development and trends of the international economy, and overview of global economy and Corporate responses. Through company examples and group reports students explore the diverse environments that firms face globally, as well as the internationalised markets for commodities, products, services, labour, energy and information. In that this is an optional module, to well utilise the university resource, the module delivery is subject to meeting a minimum number of students (10).",
+        "Learning outcomes": "A. Describe global conditions under which international business operates. B. Explain the major issues that shape the global economy. C. Identify key issues in the governance of the global economy. D. Evaluate international trading relations within and between developed, transitional and developing economies. E. Explain growth and recession trends in international business. F. Compare systems of business organisation and management in the leading industrial nations. G. Understand the importance of cultural, political, economic and institutional environments within which business is conducted around the world. H. Compare systems of business organisation and management around the world.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. The key themes in the module are introduced in lectures, and followed up in seminars and tutorials. Students are expected to undertake follow-up and background reading and to carry out independent research that evaluates in-depth one major issue in the management of the global economy. The module also introduces students to case study analysis, prescribed reading, and research informed teaching."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB114TC&psl_code=SEM2"
+    }
+  ]
+}

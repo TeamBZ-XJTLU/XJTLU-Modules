@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Semantics and Pragmatics",
+  "module_code": "LNG108",
+  "offerings": [
+    {
+      "heading": "Semantics and Pragmatics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Semantics and Pragmatics",
+        "module_code": "LNG108",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Semantics and Pragmatics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The main aims of the module are: To provide students with an understanding of the principles of semantics and pragmatics; For students to analyse linguistic data in terms of semantic and pragmatic principles. To develop students’ abilities to argue and debate semantic and pragmatic theoretical perspectives using linguistic evidence. To give students the opportunity to evaluate semantic and pragmatic theories in a cross-cultural context.",
+        "Learning outcomes": "A. Demonstrate an understanding of semantic/pragmatic theory. B. Evaluate semantic/pragmatic theory using linguistic evidence. C. Apply semantic/pragmatic theory to linguistic data. D. Evaluate the cross-cultural validity of semantic/pragmatic theory.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (Lectures and Tutorials/workshops)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG108&psl_code=SEM2"
+    }
+  ]
+}

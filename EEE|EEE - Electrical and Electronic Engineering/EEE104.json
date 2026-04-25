@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Digital Electronics I",
+  "module_code": "EEE104",
+  "offerings": [
+    {
+      "heading": "Digital Electronics I",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Digital Electronics I",
+        "module_code": "EEE104",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "Digital Electronics I",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with: A knowledge of basic design methods for combinational and sequential logic circuits. An understanding of number systems such as binary, hexadecimal, BCD. A knowledge of Boolean algebra. Fit of this module: This module will provide a solid foundation for the study of further digital electronics, microprocessors and HDLs. It will give students the benefit to work in electronics, computer hardware and robotics.",
+        "Learning outcomes": "In completing this module, students will be able to: A. Explain the mathematical knowledge underpinning binary numbers and Boolean algebra, and apply the principles of combinational and sequential logic circuits. B. Apply fundamental techniques of digital electronics, such as logic minimisation methods, to the design of a stable and robust digital system. C. Build and debug digital systems, and validate their functionality. D. Assess the risks associated with digital electronic systems, and formulate an appropriate strategy to mitigate them.",
+        "Method of teaching and learning": "This module is delivered through lectures, tutorials and labs. The knowledge is delivered through weekly lectures. Students are given the opportunities to solve problems in assignments. Tutorials are provided to enhance their problem solving skills. Experimental skills are trained through the lab and report writing skills are trained through a lab report."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE104&psl_code=SEM1"
+    }
+  ]
+}

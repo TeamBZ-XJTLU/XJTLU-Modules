@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IND",
+    "domain_code": "IND",
+    "full_name": "Industrial Design"
+  },
+  "full_name": "User-Focused Research",
+  "module_code": "IND210",
+  "offerings": [
+    {
+      "heading": "User-Focused Research",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IND",
+        "full_name": "User-Focused Research",
+        "module_code": "IND210",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "User-Focused Research",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The course aims to develop student understanding of the different user groups and how to carry out research that captures their particular characteristics. By the end of the module, students should be able to identify different research strategies, apply them appropriately in different contexts, and effectively communicate research findings. As such, the module builds on introductory modules and feeds directly into later studio practice modules, where user research is an essential component. The module also introduces approaches that explore how emerging technologies can support designers in data analysis, synthesis, and communication. As modern research methods become increasingly facilitated by new digital tools, students will gain exposure to techniques that enhance efficiency, insight generation, and research presentation, preparing them for the demands of contemporary design practice.",
+        "Learning outcomes": "A. Distinguish and classify a variety of stakeholders/users within industrial design contexts. B. Identify and show how different research strategies might be applied to different users. C. Draw conclusions based on the application of a user-centred design process. D. Propose concept or product directions based on the analysis of user needs. E. Formulate explanatory and visual interpretations of data collected in the research process.",
+        "Method of teaching and learning": "Lectures are used to introduce user research methods and tools. Group and Individual tutorials offer opportunities to explore and apply research methods in given contexts. Field work and presentations allow students to present their research findings and exercises to tutors and their peers."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IND210&psl_code=SEM1"
+    }
+  ]
+}

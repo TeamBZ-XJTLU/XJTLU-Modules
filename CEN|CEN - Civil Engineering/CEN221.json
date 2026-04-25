@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Architectural Engineering Project",
+  "module_code": "CEN221",
+  "offerings": [
+    {
+      "heading": "Architectural Engineering Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Architectural Engineering Project",
+        "module_code": "CEN221",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Architectural Engineering Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide awareness and understanding of principles of conceptual and preliminary design of a new building with the consideration of the perspective on architectural and engineering aspects.",
+        "Learning outcomes": "A Understand the processes and the methodology in the context of architecture, structural design, construction and environment to apply at the conceptual and preliminary design stage of buildings. B Incorporate architectural features and structural design requirements of buildings. C Analyze a wide range of theoretical, architectural, design and technical information to develop conceptual/detailed drawings considering architectural and structural requirements. D Apply architectural and engineering concepts on building design within the framework of international design codes and provide professional judgements. E Apply group work, time management and communication skills on architectural/civil engineering projects.",
+        "Method of teaching and learning": "The content of the module is delivered through lectures, tutorials and design lab classes. A design project will be assigned to groups of students to design a building including structures, building envelopes, and building service systems"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN221&psl_code=SEM2"
+    }
+  ]
+}

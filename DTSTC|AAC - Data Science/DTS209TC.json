@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "Signal and Image Processing",
+  "module_code": "DTS209TC",
+  "offerings": [
+    {
+      "heading": "Signal and Image Processing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DTSTC",
+        "full_name": "Signal and Image Processing",
+        "module_code": "DTS209TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Signal and Image Processing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to help students develop understanding of the fundamental concepts of signal processing and its practical applications. A multidimensional (image) processing will be considered as a generalization of any signal processing. A practical computer problem-solving approach will be used to encourage deeper understanding of the theoretical content studied in this module.",
+        "Learning outcomes": "A Demonstrate a sound understanding of signal processing and image processing knowledge in both the theoretical and practical aspects B Determine the most appropriate sampling and filtering methodology according to application. C Apply basic techniques of digital signal and image processing to numerically solve given problems. D Apply standard image processing techniques, e.g., image enhancement, image transform, image compression, and morphological operations.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. The module will be delivered in a combination of lectures, seminars and labs. Lectures will introduce students to the academic content. Seminars and labs will be used to expand the students understanding of lecture materials. In addition, students will be expected to devote unsupervised time to private study. Private study will provide time for reflection and consideration of lecture material and background reading."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS209TC&psl_code=SEM1"
+    },
+    {
+      "heading": "Signal and Image Processing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DTSTC",
+        "full_name": "Signal and Image Processing",
+        "module_code": "DTS209TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Signal and Image Processing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to help students develop understanding of the fundamental concepts of signal processing and its practical applications. A multidimensional (image) processing will be considered as a generalization of any signal processing. A practical computer problem-solving approach will be used to encourage deeper understanding of the theoretical content studied in this module.",
+        "Learning outcomes": "A Acquire a sound understanding of signal processing and image processing knowledge in both the theoretical and practical aspects B Determine the most appropriate sampling and filtering methodology according to application. C Apply basic techniques of digital signal and image processing to numerically solve a given problems. D Apply standard image processing techniques, e.g., image enhancement, image transform, image compression and morphological operations.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. The module will be delivered in a combination of lectures, seminars and labs. Lectures will introduce students to the academic content. Seminars and labs will be used to expand the students understanding of lecture materials. In addition, students will be expected to devote unsupervised time to private study. Private study will provide time for reflection and consideration of lecture material and background reading."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS209TC&psl_code=SEM2"
+    }
+  ]
+}

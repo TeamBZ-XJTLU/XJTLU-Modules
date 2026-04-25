@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LIFE",
+    "domain_code": "IET",
+    "full_name": "Industry and Enterprise Tailored Education"
+  },
+  "full_name": "Fundamentals of Operations Management",
+  "module_code": "IET103",
+  "offerings": [
+    {
+      "heading": "Fundamentals of Operations Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IET",
+        "full_name": "Fundamentals of Operations Management",
+        "module_code": "IET103",
+        "semester": "SEMS"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Fundamentals of Operations Management",
+        "Semester": "SEMS"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a basic understanding of key concepts in logistics management and a good understanding of how a logistics company operates. The purpose of the module is to develop in students an understanding of the importance of logistics to the management and success of an organisation and to instill in students an interest in working in this industry.",
+        "Learning outcomes": "A Distinguish different types of logistics operations and identify the logical relationships between each element of a logistics management system. B Identify major forces that have shaped the development of the logistics industry, nationally and internationally. C Assess logistics problems as they arise in practical real-world situations.",
+        "Method of teaching and learning": "The module involves a range of teaching strategies including lectures, seminars and case studies. Independent research and study will be encouraged throughout to complement classroom teaching. Student-led case analysis will facilitate the sharing of knowledge and experiences of cohort members. Additional material will be in the form of web-based reading and research, selected texts, and contemporary magazine and press articles."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IET103&psl_code=SEMS"
+    }
+  ]
+}

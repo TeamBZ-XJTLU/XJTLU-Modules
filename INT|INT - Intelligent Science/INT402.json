@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Data Mining and Big Data Analytics",
+  "module_code": "INT402",
+  "offerings": [
+    {
+      "heading": "Data Mining and Big Data Analytics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INT",
+        "full_name": "Data Mining and Big Data Analytics",
+        "module_code": "INT402",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Data Mining and Big Data Analytics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with an in-depth understanding of the key technologies of Data Mining and Big Data Analytics. It covers both classical data mining techniques and modern methods addressing challenges in Big Data Analytics, including scalable and parallel algorithms for distributed systems, data stream mining for high-velocity data, and the use of state-of-the-art software platforms for large-scale data processing. The module plays a crucial role in developing advanced analytical and computational skills essential for computing and data science disciplines. By integrating algorithmic design, statistical reasoning, and practical implementation, it equips students with the ability to derive insights from complex data and apply data-driven decision-making across research and industry contexts.",
+        "Learning outcomes": "A. Critically evaluate the core challenges and emerging trends in Data Mining and Big Data Analytics, demonstrating advanced understanding of the field. B. Design and implement advanced algorithmic approaches to address complex data-mining problems, assessing their performance and limitations. C. Select and apply state-of-the-art software tools for data analysis and solution development, justifying their selection through a critical evaluation of their suitability and constraints. D. Synthesize and apply analytical techniques to develop innovative, real-world data-driven applications that address societal, industrial, or business needs. E. Collaborate effectively within a data-driven development team, reflecting on team roles and evaluating individual and collective contributions to project outcomes.",
+        "Method of teaching and learning": "Students will be expected to attend two hours of formal lectures as well as to participate in two hours of supervised practical (tutorial / lab) classes in a typical week. Students will be asked to devote Seven hours of unsupervised time for reflection and consideration of lecture material and will be required to research and read widely on the subject, and where possible use their personal experiences from work placements. Students will be encouraged to explore the challenges and opportunities of analytics delivery within a business."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT402&psl_code=SEM1"
+    }
+  ]
+}

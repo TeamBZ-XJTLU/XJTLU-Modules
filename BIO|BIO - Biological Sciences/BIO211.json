@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Bioinformatics I",
+  "module_code": "BIO211",
+  "offerings": [
+    {
+      "heading": "Bioinformatics I",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Bioinformatics I",
+        "module_code": "BIO211",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Bioinformatics I",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The biological and computational modules delivered in the first two years of BSc Bioinformatics program will be integrated in this module under bioinformatics framework to address various issues related biological databases, sequence comparison, phylogenetics, and other sequence related analysis. Lab sessions in BIO211 emphasise basic programming and hands-on skills to work with biological sequences, i.e., DNA, RNA and proteins. In BIO211, biological databases, sequence comparison, phylogenetics, and other sequence related analysis are delivered together with recent developments. The students are expected to: 1. Get familiar with biological databases, issues in sequence analysis 2. Understand the mathematical formulation of sequence comparison and phylogenetic analysis 3. To be able to use computer science approach and bioinformatics software to solve practical problems related to sequence comparison, phylogenetics.",
+        "Learning outcomes": "A. Demonstrate a comprehensive understanding of key concepts in biological databases, sequence alignment, phylogeny, protein structure, functional genomics and computer-aided drug design. B. Develop proficiency in using bioinformatics databases, tools and software for data analysis. C. Apply bioinformatics techniques to real-world biological research problems. D. Communicate bioinformatics findings effectively in written and oral formats. E. Critically evaluate bioinformatics literature and research findings. F. Develop problem-solving skills by applying bioinformatics approaches to complex biological questions. G. Work collaboratively on bioinformatics projects, demonstrating effective teamwork and communication skills.",
+        "Method of teaching and learning": "1. Didactic component - the core of the teaching is lecture-based with Q/A and feedback. 2. Self-learning component - students are encouraged to read around the subject materials. 3. Comprehension/review exercise - two continuous assessments, following supervised discussion and Q/A sessions in the seminars. 4. Case studies will be supplied to help students place the course material in context. 5. Working in computer lab with bioinformatics tools to solve practical problems. There are totally 50 hours public time, which is roughly divided into 13 weeks. And in each week, there should 2 hour lecture, 1 hour tutorial and 1 hour computer lab session."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO211&psl_code=SEM1"
+    }
+  ]
+}

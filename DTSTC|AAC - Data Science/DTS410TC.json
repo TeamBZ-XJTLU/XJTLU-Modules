@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "Generative Artificial Intelligence",
+  "module_code": "DTS410TC",
+  "offerings": [
+    {
+      "heading": "Generative Artificial Intelligence",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DTSTC",
+        "full_name": "Generative Artificial Intelligence",
+        "module_code": "DTS410TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Generative Artificial Intelligence",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module is to provide students with a comprehensive understanding of deep generative models and their applications in various fields. Students will learn the probabilistic foundations and learning algorithms for generative models, including variational autoencoders, generative adversarial networks, diffusion models, and autoregressive models. It is suitable for students interested in AI and machine learning, particularly those interested in the field of generative AI. During this module, students will learn the skills and knowledge to build and train generative models for various applications.",
+        "Learning outcomes": "A Master the concepts of probabilistic foundations and learning algorithms of deep generative models, including variational autoencoders, generative adversarial networks, diffusion models, and autoregressive models. B Develop comprehensive expertise in implementing and training deep generative models using appropriate deep learning frameworks. C Expertly evaluate and appraise the performance of generative models using appropriate metrics and visualisation techniques. D Collaborate systematically and creatively within teams in order to deal with complex generative AI issues that require communication and teamwork.",
+        "Method of teaching and learning": "The teaching philosophy of the module adopts the philosophy of Syntegrative Education, with emphasis on industry engagement, reduced reliance on examinations, and greater focus on coursework and project-based assessments. The module will be delivered through a combination of lectures and labs. The lectures will provide essential information on the techniques of generative AI. In labs, students will use appropriate deep learning framework to implement generative algorithms and gain practical experience with the concepts covered in the lectures. In addition, students will be expected to devote unsupervised time to private study. Private study will provide time for reflection and consideration of lecture material and background reading."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS410TC&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Environmental Management",
+  "module_code": "ENV311",
+  "offerings": [
+    {
+      "heading": "Environmental Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Environmental Management",
+        "module_code": "ENV311",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Environmental Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Environmental management is pivotal for the conservation of biodiversity, sustainable agriculture, avoidance, minimisation and mitigation of environmental impacts from human activity and planning. This module aims to provide an understanding of a range of environmental management approaches that are applicable to specific processes.",
+        "Learning outcomes": "A Demonstrate a sound understanding of the interaction of environments, economies and societies. B Examine and interpret the drivers of environmental damage and how these affect EM practice. C Be able to fully explain the fundamental tenets and function of environmental management in the public and private sector and across primary, secondary, and tertiary sectors. D Apply environmental management systems approaches using a range of environmental management strategies and techniques for regulating the use of the environment. E Assess risk related to different environments and settings. F Analyse specific EM scenarios and use results to perform EM options development, technico-feasibility assessment, and options evaluation.",
+        "Method of teaching and learning": "Lectures, tutorials and site visit. *Should the University decide to cancel or postpone the field trip due to unforeseen environmental and/or political circumstances, the Department will either plan an appropriate substitute activity to meet the intended learning outcomes of the trip or make necessary arrangements to organise the trip at a later time, as appropriate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV311&psl_code=SEM1"
+    }
+  ]
+}

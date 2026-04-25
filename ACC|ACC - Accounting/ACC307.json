@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Advanced Taxation",
+  "module_code": "ACC307",
+  "offerings": [
+    {
+      "heading": "Advanced Taxation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Advanced Taxation",
+        "module_code": "ACC307",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Advanced Taxation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to enable students to prepare taxation computations under current UK tax law. The emphasis of the course is practical, however consideration will be given to a number of tax planning issues and conceptual aspects where appropriate. Taxes covered will include income tax, national insurance, corporation tax, capital gains tax and VAT. Students will learn how to prepare computations to a sufficient standard for submission to HM Revenue and Customs and at the same time students will learn about the basic principles, objectives and tax concepts.",
+        "Learning outcomes": "A. Evaluate the main concepts and principles of UK tax system B. Undertake the comprehensive computations for major UK taxes and analyse their financial implications C. Evaluate and apply tax related decision-making information and strategies for individuals and businesses in the UK",
+        "Method of teaching and learning": "a) Lectures – covering key concepts, theories and calculations of main taxes b) Tutorials – practical applications and calculations of main taxes c) Learning Mall – used for teaching materials and relevant contemporary and academic articles d) Coursework – module assignment and continuous assessment will allow students to gauge their learning progress throughout the module which will be graded to form part of the module assessment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC307&psl_code=SEM1"
+    }
+  ]
+}

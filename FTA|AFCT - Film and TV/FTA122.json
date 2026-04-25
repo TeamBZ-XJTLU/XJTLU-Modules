@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Motion Graphics",
+  "module_code": "FTA122",
+  "offerings": [
+    {
+      "heading": "Motion Graphics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Motion Graphics",
+        "module_code": "FTA122",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Motion Graphics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to: •To develop an understanding of creative graphic communication design process in designing for moving images. •To equip students with the practical skills to originate, plan, and produce innovative motion graphic works for diverse media platforms.",
+        "Learning outcomes": "A Recognise and utilise skills in graphic communication to the design and production of original, and creative motion graphic sequences. B Employ a range of sophisticated audio, video and graphics capture and manipulation tools and techniques. C Utilise technical skills and creative strategies to produce motion graphic works for diverse media platforms.",
+        "Method of teaching and learning": "The teaching sessions are divided into three components (Lectures, seminars and Lab practicals). In addition, students will be expected to attend at least 2 tutorials per semester Lectures will focus on History of Compositing and technical practice. Seminars will allow technical discussion about the techniques of compositing in various media An intensive series of practical workshops will equip the students with the compositing skills, understanding of matte painting and layout techniques with practical troubleshooting of software."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA122&psl_code=SEM2"
+    }
+  ]
+}

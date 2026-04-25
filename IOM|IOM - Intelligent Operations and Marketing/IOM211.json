@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Applications of Agentic AI in Business",
+  "module_code": "IOM211",
+  "offerings": [
+    {
+      "heading": "Applications of Agentic AI in Business",
+      "listing": {
+        "academic_year": "2028/29",
+        "domain_code": "IOM",
+        "full_name": "Applications of Agentic AI in Business",
+        "module_code": "IOM211",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2028/29",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Applications of Agentic AI in Business",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module develops expertise in deploying AI agents for business domains. Students will engineer AI agent architecture with capabilities of goal planning, tools designing, memory feedback and execution through the Python language. Building on foundational AI concepts, this module focuses on developing programmatic agent architectures that solve industry-specific challenges.",
+        "Learning outcomes": "A. Understand Agentic AI concepts and agent tool management. B. Design an AI agent and programmatic AI agent architecture. C. Develop Python-based AI agents with function-calling capabilities. D. Implement AI agents for context-aware decision-making process in business scenarios.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures and tutorials. Lectures: Cover AI agent architecture design, and business case studies. Tutorials: Weekly 1-hour technical sessions on developing Python-based AI agents"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM211&psl_code=SEM1"
+    }
+  ]
+}

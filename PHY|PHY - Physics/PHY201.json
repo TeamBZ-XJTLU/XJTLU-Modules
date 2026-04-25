@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Introduction to Solid State Physics",
+  "module_code": "PHY201",
+  "offerings": [
+    {
+      "heading": "Introduction to Solid State Physics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "PHY",
+        "full_name": "Introduction to Solid State Physics",
+        "module_code": "PHY201",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Introduction to Solid State Physics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides an introduction to solid state physics, and will enable students to employ classical and quantum-mechanical theories required to understand the physical properties of solids. Emphasis is put on building models that are able to explain a number of different phenomena in the solid state. The main topics of the module include the descriptions of crystal and lattice dynamics, electronic structures and the properties of different materials (metals, semiconductors), and origins of various solid properties (magnetic, electrical, optical), based on principles in classical physics and quantum physics. The main objectives of the module are to increase understanding and knowledge of solid state physics and to improve problem-solving abilities. The module also helps understanding how the properties of solids can be understood utilizing reciprocal space and wave vectors. Finally, the module aims to provide an understanding of how solid state physics has contributed to a number of recent technological developments.",
+        "Learning outcomes": "A. Understand the fundamental concepts of solid state physics, including crystal structures, lattice dynamics, and band theory, and their applications in materials sciences. B. Explain the electrical, optical, and thermal properties of solids and their relation to the underlying atomic and electronic structures. C. Analyze and interpret experimental data related to solid state phenomena, such as X-ray diffraction patterns, electronic spectra, and thermal conductivity measurements. D. Apply theoretical models and mathematical techniques to solve problems related to the behavior of solids, such as electron motion in a crystal lattice or the behavior of phonons. E. Demonstrate an understanding of the principles and operation of solid-state devices, and their significance in modern materials sciences and technology. F. Evaluate the impact of solid state physics on technological advancements and its role in materials sciences research and development.",
+        "Method of teaching and learning": "Students are expected to attend four hours of weekly lectures from Week 1 to 13 of Semester 1. Lectures will be delivered by the instructor to introduce the key concepts, theories, and principles of solid state physics. Additionally, in-class tutorials will be provided, involving interactive problem-solving sessions, concept reviews, and guided discussions to enhance comprehension and respond to students' questions and concerns. This approach will enable the students to realize all Learning Outcomes, while providing a comprehensive overview of the subject matter and allowing for direct interaction with the instructor. Moreover, students are expected to devote seven to eight hours per week of unsupervised time to private study, which includes the study of relevant chapters from the mandatory textbook and supplementary lecture notes. Private study will provide time for reflection and consideration of lecture material and background reading. Finally, students are encouraged to utilize AI tools and to critically explore the strengths and limitations of employing generative AI for enhancing their learning and comprehension of physics concepts, including understanding when generative AI works effectively and when it does not. Students’ assessment will be performed by means of two in-class quizzes during the teaching time, as well as a final exam during the Semester 1 exam weeks. The in-class quizzes will provide the chance to evaluate students’ progress in understanding and mastering the concepts presented in the lectures, and to make the necessary adjustments to the teaching plan."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY201&psl_code=SEM1"
+    }
+  ]
+}

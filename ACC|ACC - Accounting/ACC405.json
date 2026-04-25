@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Financial Accounting and Reporting: IFRS",
+  "module_code": "ACC405",
+  "offerings": [
+    {
+      "heading": "Financial Accounting and Reporting: IFRS",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Financial Accounting and Reporting: IFRS",
+        "module_code": "ACC405",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Financial Accounting and Reporting: IFRS",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To enable students to prepare complete single entity and consolidated financial statements, and extracts from those financial statements, covering a wide range of International Financial Reporting Standards (IFRS). Students will also be required to explain accounting and reporting concepts and ethical issues, and the application of IFRS to specified single entity or group scenarios.",
+        "Learning outcomes": "A. explain the contribution and inherent limitations of financial statements, apply the International Accounting Standards Board's (IASB) conceptual framework for financial reporting and identify and explain key ethical issues B. prepare and present financial statements from accounting data for single entities in conformity with IFRS and explain the application of IFRS to specified single entity scenarios C. identify the circumstances in which entities are required to present consolidated financial statements, prepare and present them in conformity with IFRS and explain the application of IFRS to specified group scenarios D. Describe the principal differences between IFRS and UK GAAP and prepare simple extracts from financial statements in accordance with UK GAAP, for both single entity and consolidated financial statements",
+        "Method of teaching and learning": "A range of teaching and learning methods will be utilized on this module. Core substantive knowledge will be delivered via a weekly 2-hour lecture, and the knowledge covered in lectures will be reinforced by practical student group work, culminating in participative tutorials of one-hour duration each week. Longer, case-based work will be delivered by means of two 2-hour seminars, which will again be participative in nature. ICAEW exemption is offered according to final exam results, rather than overall assessment marks (final marks), based on ICAEW CPL policies."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC405&psl_code=SEM1"
+    }
+  ]
+}

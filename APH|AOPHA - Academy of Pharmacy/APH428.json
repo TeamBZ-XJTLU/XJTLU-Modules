@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Quality Systems And Standards",
+  "module_code": "APH428",
+  "offerings": [
+    {
+      "heading": "Quality Systems And Standards",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Quality Systems And Standards",
+        "module_code": "APH428",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Quality Systems And Standards",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "• Understand the purpose, scope, and requirements of major regulatory systems for pharmaceuticals • Gain knowledge of QC, cGMP, ISO, GLP, GCP and other guidelines that govern pharmaceutical manufacturing, testing, and quality control. • Prepare students for a future career in quality departments or other functional units in the industry, and enable them to effectively apply key concepts for quality systems in real practices.",
+        "Learning outcomes": "By the end of this module, students will be able to: A. Critically examine major global regulations and guidelines for pharmaceutical products B. Critically appraise the role and importance of pharmaceutical quality systems C. Summarise and critique quality system and standards applied to pharmaceutical product development",
+        "Method of teaching and learning": "• Lectures on regulatory guidelines and quality standards • Tutorials analyzing case studies and examples • Seminars to lead small group discussions of regulatory principles and requirements • Other (private study) on individual report assigning analysis of a real pharmaceutical quality system"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH428&psl_code=SEM2"
+    }
+  ]
+}

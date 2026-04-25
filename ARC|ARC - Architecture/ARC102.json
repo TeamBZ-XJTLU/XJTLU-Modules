@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "ARC",
+    "full_name": "Architecture"
+  },
+  "full_name": "Small Scale Architectural Design",
+  "module_code": "ARC102",
+  "offerings": [
+    {
+      "heading": "Small Scale Architectural Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ARC",
+        "full_name": "Small Scale Architectural Design",
+        "module_code": "ARC102",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 1",
+        "Module Title": "Small Scale Architectural Design",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "In this studio module students have the opportunity to propose architectural outcomes for a given site following a rigorous,process-led design. To this end, students are required to interpret a brief and to propose responses to a small-scale architectural challenge.",
+        "Learning outcomes": "A Translate human needs and desires into a creative architectural proposal in response to a given brief. B Present an understanding of architectural site and context and how these factors condition architectural design. C Present an understanding of the role of concept and experiment for a creative design development process D Explore and present a range of techniques for architectural visualisation and representation. E Employ architectural drawing conventions to present design proposals",
+        "Method of teaching and learning": "The module will be taught through small group tutorials whereby students present their proposals and receive feedback on their designs. Regular formal 'pin up' tutorials are also encouraged giving design advice to students and enabling students to verbally present their ideas to a small group. These feedback sessions enable students to progress as designers and create a setting for students to propose their own architectural ideas. Students are encouraged to engage in this dialogue, generating group discussions. This provides peer comment and possibly ideas for future designs and options. Students are encouraged to develop a self-paced work ethic of which these tutorials are a key element. Part of the learning strategy is for students to learn through testing their own ideas and proposals, to research precedents (written sources and actual buildings) and to generate proposals based on their research onto site visits/analysis. Considerable learning at this stage in the course is through the synthesis of proposed architectural ideas rather than formal knowledge based teaching."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ARC102&psl_code=SEM2"
+    }
+  ]
+}

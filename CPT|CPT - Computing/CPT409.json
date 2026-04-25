@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Research Project Management",
+  "module_code": "CPT409",
+  "offerings": [
+    {
+      "heading": "Research Project Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Research Project Management",
+        "module_code": "CPT409",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Research Project Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with a critical understanding of advanced project management methodologies, tools, and techniques relevant to scientific research and complex technological development projects in both academic and industrial settings. It emphasises developing competence in formulating and implementing effective project management plans through comprehensive project definition, time and resource management, budgeting, risk assessment, and quality assurance. Students will develop the capability to critically analyse and select appropriate project management approaches (traditional, agile, or hybrid) to effectively address the complexity inherent in contemporary technological innovation processes. Furthermore, the module fosters an appreciation for the broader societal, ethical, legal, environmental, and professional contexts within which research projects and technological developments operate. Students will also gain insights into team dynamics, organizational structures, and leadership strategies to enhance individual and team performance throughout the project lifecycle.",
+        "Learning outcomes": "A. Critically evaluate and synthesize multiple project management methodologies and strategies, justifying the selection and application of the most appropriate approaches in the context of complex technological research projects. B. Develop, formulate, and communicate robust project management plans to guide innovative research processes in complex scenarios, effectively utilizing contemporary project management tools and techniques. C. Analyze and critically engage with legal, social, ethical, and professional frameworks pertinent to systems, software, or information engineering. Evaluate and assess the potential environmental and societal impacts of projects throughout their life cycles and propose appropriate measures to mitigate adverse effects. D. Critically analyze and evaluate team roles and organizational structures within (technological) research and development teams. Demonstrate effective functioning as both an individual and as a member or leader of a team, and implement strategies to enhance the effectiveness of personal and team performance.",
+        "Method of teaching and learning": "Lectures will introduce and critically examine theoretical frameworks and methodological aspects of research project management. Interactive tutorials will offer structured practical activities to provide hands-on experience with contemporary project management tools and techniques. Flipped-classroom exercises, incorporating peer review, will actively engage students in demonstrating their understanding of theory and methods through case-study analysis, fostering deeper learning, critical reflection, and collaborative evaluation skills. A group project will require students to collaboratively develop a detailed project charter for their own research project, reinforcing practical application, teamwork, and communication skills. An individual assignment will further require students to independently produce a comprehensive project management plan, integrating and applying the methods and techniques learned throughout the module. Additionally, guest lectures by industry experts will provide valuable insights into real-world project management practices, bridging academic knowledge with professional contexts."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT409&psl_code=SEM1"
+    }
+  ]
+}

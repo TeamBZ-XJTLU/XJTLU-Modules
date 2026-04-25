@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Understanding Families in Educational and Community Settings",
+  "module_code": "EDS416",
+  "offerings": [
+    {
+      "heading": "Understanding Families in Educational and Community Settings",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Understanding Families in Educational and Community Settings",
+        "module_code": "EDS416",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Understanding Families in Educational and Community Settings",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The primary aim of this module is to explore the sociological concepts of family, and its dynamic influence on practical issues that educators and community service providers often face. The emphasis is on how the subsystems under the concept of “family” operate in reciprocal ways, and how they afford opportunities for and place constraints on the development of children and youth of different ages. This module will focus on both Chinese and British society, and particular attention will be paid to how cultural and social background impact the function of family in childhood/family education.",
+        "Learning outcomes": "A Identify the influences of family and society on children and young people B Develop the professional understanding of different family subsystems (e.g. marital, parent-child, sibling) as contexts where children and adolescents learn skills and develop competencies C Analyse critically on the role of family under Chinese and British formal and informal education system D Evaluate the way in which the role of family can be influenced by the micro and macro factors with different sociocultural background",
+        "Method of teaching and learning": "The teaching sessions include both lectures and tutorials which work together to provide students with key conceptual, theoretical, and methodological insights, as well as dedicated opportunities for critical reflection. Students will also engage in collaborative and individual practice, as well as iterative development of resources to address the effects of family and society on children development."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS416&psl_code=SEM1"
+    }
+  ]
+}

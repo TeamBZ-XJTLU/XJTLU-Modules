@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Documentary Media: The Art of the Real",
+  "module_code": "COM411",
+  "offerings": [
+    {
+      "heading": "Documentary Media: The Art of the Real",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Documentary Media: The Art of the Real",
+        "module_code": "COM411",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Documentary Media: The Art of the Real",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "What defines a ‘documentary,’ and why have these definitions proved so mutable and even contentious over the years How do documentaries inform, provoke, and move us Of whom, by whom, and for whom are documentaries made This module introduces students to documentary cinema, focusing on the aesthetic, epistemological, and ethical questions that have shaped its evolution. It will examine how documentaries construct visions of reality to engage with various social issues and shape memories and identities. In addition, it will consider the potential for experimentation within documentaries, the porous boundaries between the real and the imagined, and the dispersion of documentary practices across a range of media platforms (e.g., vlogs, reality TV, live-stream videos, animations, etc.). While placing an emphasis on films and readings from the Chinese context which students can more easily relate to, the module will also include materials from a broader regional and global documentary landscape to investigate historical connections and transnational networks. Students will not only gain an in-depth understanding of documentary media and an expanded view of the real; they will also be given opportunities to apply rhetorical devices, aesthetic strategies, and ethical considerations in creative projects. This module fits the Global Media and China pathway due to its interrogation of Chinese documentary production within a global documentary media ecology.",
+        "Learning outcomes": "A Demonstrate a critical understanding of key themes and concepts in documentary studies B Identify and analyze different documentary modes and aesthetics C Critically reflect on ethical challenges in documentary filmmaking D Apply rhetorical devices and aesthetic strategies in creative project",
+        "Method of teaching and learning": "Lectures Seminars Film screenings"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM411&psl_code=SEM1"
+    }
+  ]
+}

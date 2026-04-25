@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Venture Finance",
+  "module_code": "IFB410TC",
+  "offerings": [
+    {
+      "heading": "Venture Finance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Venture Finance",
+        "module_code": "IFB410TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Venture Finance",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This is an optional module within the Business and Circular Economies pathways. The module deals with new ventures from inception of the idea to the gaining of the investment. The module starts with an analysis of the background of new venture financing and differences between entrepreneurial and 'traditional' corporate finance. The second half of the module covers aspects of initial valuation and alternative ways to harvest equity investments. The module looks at the Initial Public Offerings (IPO) process and financial performance of venture-backed- companies.",
+        "Learning outcomes": "A Critically analyse the differences between venture capital and mainstream corporate finance B Identify and critically appraise institutional differences in raising and structuring private equity funds C Demonstrate comprehensive knowledge and understanding of various financial and ownership aspects of private equity and venture capital investments; D Apply various valuation techniques in private equity settings E Show a systematic understanding of how firms make initial public offerings and the cost of such offerings",
+        "Method of teaching and learning": "The teaching sessions are interactive and divided into two components: lectures and seminars. The seminars will build on the materials covered in the lectures based on the training in the practical issues regarding venture finance."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB410TC&psl_code=SEM2"
+    }
+  ]
+}

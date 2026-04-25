@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Accounting for Managers",
+  "module_code": "ACC401",
+  "offerings": [
+    {
+      "heading": "Accounting for Managers",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Accounting for Managers",
+        "module_code": "ACC401",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Accounting for Managers",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to provide IMBA students with with a knowledge of accounting and an understanding of the responsibilities of organizations to various stakeholders, the context of financial information requirements and interpretation of financial statements. It helps students to understand how managers exercise control of accounting and make financial decisions, in order to optimize shareholder wealth and business productivity. The module is aimed at non-financial managers, who are looking to progress to more senior positions in their organisations and need to understand the function and purpose of the accounting division.",
+        "Learning outcomes": "A. Analyse and interpret basic financial statements that are in compliance with the international accounting standards IAS1 and IAS7. B. Understand the tools of the management of financial resources in terms of, inter alia, financial reporting, management accounting and financial management. C. Demonstrate how financial accounting and management accounting can help to improve business performance and productivity. D. Determine basic financial decisions based upon short-term and long-term criteria. E. Understand the conceptual basis of financial reporting and financial structure.",
+        "Method of teaching and learning": "The module is taught over two weekends (4 days of classes) and will involve a range of teaching strategies from lectures, class discussions, case studies and informal group work, as well as coursework and independent study."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC401&psl_code=SEM2"
+    }
+  ]
+}

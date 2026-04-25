@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Introductory Organic Chemistry II",
+  "module_code": "CHE112",
+  "offerings": [
+    {
+      "heading": "Introductory Organic Chemistry II",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Introductory Organic Chemistry II",
+        "module_code": "CHE112",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introductory Organic Chemistry II",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to ensure that students are aware of fundamental principles of organic chemistry, including nomenclature, structure and bonding, and the basic principles of static and dynamic stereochemistry. The major reactions associated with the common functional groups will be covered with emphasis on reaction mechanisms. In addition, this module will provide an introduction to the basic techniques associated with practical synthetic chemistry.",
+        "Learning outcomes": "A understand the basic principles of stereochemistry B understand some important reactions of a range of functional groups C show an understanding of the major types of reaction mechanisms D know the basic techniques of synthetic chemistry (isolation, purification, identification, design and work-up of reactions) and have experience of characterization using spectroscopic techniques and chemical methods",
+        "Method of teaching and learning": "Lectures, tutorials and laboratory sessions"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE112&psl_code=SEM2"
+    }
+  ]
+}

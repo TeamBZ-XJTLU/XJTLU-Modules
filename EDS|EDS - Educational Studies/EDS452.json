@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Educational Counseling And Coaching",
+  "module_code": "EDS452",
+  "offerings": [
+    {
+      "heading": "Educational Counseling And Coaching",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Educational Counseling And Coaching",
+        "module_code": "EDS452",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Educational Counseling And Coaching",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides a theoretical and experiential base for the practice of school and career counseling. Emphasis is placed upon the theories that explain school counseling and career development, the research that supports these theories and the ways in which the school counselor may provide relevant K – 15 career development services that are grounded in theory and research. Another focus considers the current national emphasis on career and college readiness as imperative to the work of school counselors. School counselors are uniquely positioned to promote student academic achievement, mental health, and career development and competence. This module will provide a developmental overview of child and adolescent growth from a multisystemic approach. This course is designed to link elements of psychology, career, ecosystems, and lifespan development theory to practical, applicable interventions for school counseling and career education through curriculum integration, direct services, and stakeholder engagement activities.",
+        "Learning outcomes": "A Critically understand and practice skills related to school counselling and career guidance, for example, forming case strategies for scenarios. B Critically interpret the current theories and principles on the relevant content and consider why knowledge of these theories and principles is needed in order to offer counseling and guidance to students in educational institutions. C Analyze and apply appropriate theoretical concepts related to human development, learning, counselling theory, and career guidance. D Demonstrate individual and small group intervention skills that are theoretically and empirically based befitting to children’s and adolescents’ presenting concerns, developmental levels, and multicultural considerations.",
+        "Method of teaching and learning": "The teaching sessions include both lectures and seminars which work together to engage students with key conceptual, theoretical, and methodological insights, as well as dedicated opportunities for critical reflection. Students will also engage in collaborative and individual practice, and iterative development of resources to support students in academic success and career awareness."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS452&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Fracture Mechanics",
+  "module_code": "CEN214",
+  "offerings": [
+    {
+      "heading": "Fracture Mechanics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Fracture Mechanics",
+        "module_code": "CEN214",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Fracture Mechanics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with a comprehensive understanding of fracture mechanics principles and their applications in materials engineering. It equips students with the knowledge to analyse failure mechanisms and to design materials and structures to prevent fracture. This module is essential for students specialising in materials science and engineering, focusing on the integrity and reliability of engineering materials.",
+        "Learning outcomes": "A. Analyze and predict the fracture behavior of materials using the principles of linear elastic and elastic-plastic fracture mechanics. B. Evaluate the factors influencing fracture toughness and apply this knowledge to materials selection and design to prevent catastrophic failure. C. Apply fracture mechanics concepts to real-world engineering problems, including crack propagation, fatigue, and failure analysis in materials and structures.",
+        "Method of teaching and learning": "The module will be delivered through a combination of lectures and tutorials: Lectures (2 hours per week): Introduction of theoretical concepts, principles of fracture mechanics, and illustrative examples. Tutorials (1 hour per week): Problem-solving sessions, discussions, and application of concepts to practical scenarios. Students are expected to engage in private study to reinforce their understanding and prepare for assessments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN214&psl_code=SEM1"
+    }
+  ]
+}

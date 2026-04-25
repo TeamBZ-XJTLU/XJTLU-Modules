@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Practical Molecular Biology for Pharmacy",
+  "module_code": "APH111",
+  "offerings": [
+    {
+      "heading": "Practical Molecular Biology for Pharmacy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Practical Molecular Biology for Pharmacy",
+        "module_code": "APH111",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Practical Molecular Biology for Pharmacy",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to develop in students the ability to: 1) introduce the concepts and principles of molecular biology techniques utilized to manipulate genes, and understand the implications of omics and related aspects. 2) provide basically practical experience in many of the key molecular biology techniques currently used in pharmacy. 3) develop knowledge in molecular biology, and ability to apply and interpret this knowledge to solve biopharmaceutical problems.",
+        "Learning outcomes": "A. acquire knowledge of the concepts, principles and basic molecular biology techniques used in pharmacy. B. acquire practical experience in the techniques used to manipulate genes of interest (DNA extraction, PCR, digestion, electrophoresis, western blotting). C. understand how molecular biology techniques can be applied to understand real-world problems in pharmaceutical science.",
+        "Method of teaching and learning": "The contents of the lecture component of the module will be delivered using standard lecture formats, and will be accompanied by suitable lecture hand-outs (also available online). Students will also be guided to sections of specific textbooks, reviews or source literature. The practical component will be conducted in the Teaching Laboratories in Academy of Pharmacy. Each practical will be preceded by a review session to remind students of the underlying concepts and anticipated learning outcomes. The session will also highlight critical parts of the practical where particular care is needed, both from a safety viewpoint and also to facilitate successful completion. In the laboratory session, students will work individually or within small groups and receive help in the planning, execution and interpretation of the experiments from academic staff and demonstrators. Course manuals will provide theoretical background, detailed protocols & procedures and, where appropriate, example of worked data."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH111&psl_code=SEM2"
+    }
+  ]
+}

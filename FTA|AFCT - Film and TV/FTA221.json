@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Advanced Editing",
+  "module_code": "FTA221",
+  "offerings": [
+    {
+      "heading": "Advanced Editing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Advanced Editing",
+        "module_code": "FTA221",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Advanced Editing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course is a further elaboration of the principles and techniques of editing students will have encountered at Level 1 in their Introduction to Post-production module, building a broader technical background for professional development in TV and broadcasting industry. By completing a series of assignments, students will finish this module with increased confidence in, and understanding of, software and editing aesthetics, technique and style in both single-cam and multi-cam setting. Specifically, the module is designed to: - Give student editors a greater understanding of the theories and principles of editing in TV and broadcasting - Enable student editors to build editing skills for multi-camera footage, develop editing styles that are appropriate to various types of content including documentary, reality show and TV series, and develop creative solutions to editing challenges - Help student editors increase their skill levels and work professionally in order to achieve their creative vision - Enable student editors to work with directors and TV producers - Gain an understanding of editor contracts, fees, negotiations etc in TV and broadcasting, so that they can conduct themselves at a professional level",
+        "Learning outcomes": "A Discuss, analyse and critique television, understanding the practice of both single-camera and multi-camera editing B Successfully collaborate and communicate with the director in order to realise a creative vision in the offline process C Effectively translate a script into edit decisions by using a number of editing techniques in the creation of meaning D Use visual language to communicate content and meaning to audiences",
+        "Method of teaching and learning": "The teaching sessions are divided into two components, seminars and practical workshops in the lab."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA221&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CIEHX",
+    "domain_code": "ENT",
+    "full_name": "Entrepreneurship"
+  },
+  "full_name": "Family Business Governance",
+  "module_code": "HXA401TC",
+  "offerings": [
+    {
+      "heading": "Family Business Governance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENT",
+        "full_name": "Family Business Governance",
+        "module_code": "HXA401TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Family Business Governance",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to develop students’ theoretical knowledge, industrial understanding, and skills for family business governance to cope with their entrepreneurship and innovation issues in a global environment with UACCS (Uncertainty, Ambiguity, Complexity, Changeability, and Scarcity) features. Through this module, students will be facilitated in applying those theories and developing relevant skills through participating in real industrial-oriented projects and working with industrial partners. In doing so, students learn family business governance and how it contributes to entrepreneurship and innovation, develop a HeXie Management Theory perspective, and grasp a deeper understanding of the industrial ecosystem with multiple actors and combined resources besides the detailed skills of managing family business.",
+        "Learning outcomes": "A. Demonstrate understanding of the key aspects of family business governance; B. Critically evaluate the potential risks and issues in family business governance; C. Critically evaluate a range of tools to help family companies achieve comprehensive governance, especially in entrepreneurship and innovation ecosystems; D. Account for issues of ethics and adaptability in family business governance.",
+        "Method of teaching and learning": "Based on the philosophy of Syntegrative Education and combined with industry-oriented projects, this module’s delivery pattern follows more intensive block teaching and allows more meaningful contributions from industry partners. This delivery pattern provides space for students to concentrate on completing the problem-based and project-oriented assessments. This module will be delivered through a series of key lectures/seminars. In addition, students will be required to analyse a number of industrial cases and projects, determining what worked and why."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=HXA401TC&psl_code=SEM1"
+    }
+  ]
+}

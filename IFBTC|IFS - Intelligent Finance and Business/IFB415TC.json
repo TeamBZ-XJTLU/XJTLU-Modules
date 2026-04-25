@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Digital Economy And Management",
+  "module_code": "IFB415TC",
+  "offerings": [
+    {
+      "heading": "Digital Economy And Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Digital Economy And Management",
+        "module_code": "IFB415TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Digital Economy And Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with an understanding of the digital economy and how it is transforming industries and societies. It will provide students with insights into the latest developments, current issues and anticipated trends in the digital economy with specific emphasis on organizational changes, markets dynamics and social impact of digital transformation. Students will be equipped with necessary skills to operate successfully in the new economy. The module offers a critical and creative perspective on the digital economy combining theory, case study examples from a variety of contexts and insight from practitioners and professionals in the field.",
+        "Learning outcomes": "A. Appraise the fundamental principles and concepts of the digital economy and their profound impact on industries and societies. B. Analyze diverse business models embraced by organizations within the digital economy, recognizing how these models reshape conventional business practices. C. Assess the platform economics and their effects on innovation, competition dynamics, and the creation of value. D. Evaluate the strategic ramifications of digital technologies on business models, organizational structures, and broader ecosystems. E. Apply digital management tools and techniques to address real-world challenges within the context of the digital economy.",
+        "Method of teaching and learning": "The teaching philosophy of the module adopts the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially the use of problem-based assessment which is project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. The course includes a mix of frontal lectures, group discussions and guest lectures by experts in the field. An active class participation is strongly encouraged. Students should come to class having read the assigned readings."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB415TC&psl_code=SEM2"
+    }
+  ]
+}

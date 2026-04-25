@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MEC",
+    "domain_code": "MEC",
+    "full_name": "Mechatronics and Robotics"
+  },
+  "full_name": "Manufacturing Engineering",
+  "module_code": "MEC306",
+  "offerings": [
+    {
+      "heading": "Manufacturing Engineering",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MEC",
+        "full_name": "Manufacturing Engineering",
+        "module_code": "MEC306",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Manufacturing Engineering",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to equip students with fundamental knowledge on manufacturing engineering. As engineers we love to design and build. Understanding machining methods and their limitations is fundamental to designing parts. This module introduces a large variety of manufacturing techniques, and discusses their limitations. This module will cover the theory and practice of modern manufacturing processes: machining, forming, and casting; producing parts using computer assisted tools from CAD to CNC machining followed by measurement of part quality, and hands-on machining of parts.",
+        "Learning outcomes": "A. Evaluate the fundamental principles and relative merits of established and emerging manufacturing methods. B. Analyse manufacturing processes through the selection and optimisation of key parameters, evaluating their influence on machinability, quality, and cost. C. Select appropriate manufacturing methods for a given product design, justifying the selection through considerations of performance, economics, and sustainability. D. Manufacture mechanical components, validating their conformity to specification through the utilisation of appropriate standard measurement tools.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures, tutorials, and supervised laboratory sessions. Lectures will introduce key manufacturing theories, principles, and process knowledge. Tutorials will reinforce conceptual understanding through problem-solving and discussion activities. Supervised laboratory sessions will provide students with hands-on experience in manufacturing and measurement practices, enabling them to apply theoretical knowledge to real engineering scenarios and develop essential practical and analytical skills."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MEC306&psl_code=SEM1"
+    }
+  ]
+}

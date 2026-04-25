@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Computational Art",
+  "module_code": "FTA226",
+  "offerings": [
+    {
+      "heading": "Computational Art",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Computational Art",
+        "module_code": "FTA226",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Computational Art",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Many modern visual effects/visualisation software tools offer extended programmable/scriptable functions to produce advanced visual outputs. It is thus beneficial for the students to understand, at both the principle and practical levels, how these visualisations are achieved through advanced programming techniques. This module aims to equip the students with the skills to do artistic visualisation using computational techniques. A variety of visual algorithms will be introduced to the students, who will then exercise and apply them in their own computational art works. In addition to the technical elements, the students will learn to strengthen their creative rationale through background research and analysis. They will critically reflect on their own experiences, examine certain societal or environmental phenomena and contextualise their computational art works.",
+        "Learning outcomes": "A Use a range of computer algorithms to generate visual art works B Plan and devise a computational art project through a research and development process C Integrate and apply computer technologies in experimental media art D Critically analyse and contextualise the art forms of computational media through argumentative and reflective writing",
+        "Method of teaching and learning": "- Lectures to deliver the historical background and theoretical knowledge of algorithmic arts - Tutorials to guide the students in developing well-thought-off computational art projects - Lab/Practicals to let the students practice the algorithmic approach to generate art works"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA226&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Screenwriting For Tv And Streaming Media",
+  "module_code": "FTA227",
+  "offerings": [
+    {
+      "heading": "Screenwriting For Tv And Streaming Media",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Screenwriting For Tv And Streaming Media",
+        "module_code": "FTA227",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Screenwriting For Tv And Streaming Media",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to help participants build the fundamental skills of a professional television screenwriter. It is practice based and seeks to introduce students to the pilot format, covering style and content as well as the principles behind network needs and how pilots are chosen across broadcast, cable, and digital platforms.",
+        "Learning outcomes": "A Demonstrate understanding of the key dramatic elements for storytelling, such as plot, structure, character, setting, verbal and non-verbal interactions. B Demonstrate an understanding of the processes involved in professional television screenwriting. C Develop the creative process of writing.",
+        "Method of teaching and learning": "The lectures will introduce students to the syllabus concepts and seminars will function as writing workshops. In addition, there will be 1 additional hour for fieldwork."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA227&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "AI in Pharmacy II",
+  "module_code": "APH433",
+  "offerings": [
+    {
+      "heading": "AI in Pharmacy II",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "AI in Pharmacy II",
+        "module_code": "APH433",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "AI in Pharmacy II",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module, AI in Pharmacy II, serves as the second half of the \"AI in Pharmacy\" series. The overall aim of this series is to provide students with a strong foundation in Artificial Intelligence (AI), specifically focusing on its application in addressing biomedical and pharmaceutical challenges. AI in Pharmacy II focuses on advanced AI techniques, particularly emphasizing deep learning and its pivotal role in drug discovery. Through comprehensive coverage of cutting-edge algorithms for molecular modeling, this module equips students to adeptly apply these techniques in tasks such as molecular property and structure prediction, deep learning-driven virtual screening, and de novo generation of hit-like molecules. Through a combination of theoretical lectures, hands-on exercises, and case studies, students will gain a solid foundation in the application of AI in various stages of the drug discovery and development process.",
+        "Learning outcomes": "A. Critically explain advanced AI and deep learning (DL) techniques and their specific applications in the field of drug discovery B. Assess and choose appropriate DL models for molecular representation and feature extraction, tailored to the requirements of diverse drug discovery tasks C. Translate drug discovery challenges into AI-based problems and proficiently implement state-of-the-art algorithms D. Utilize programming languages and tools commonly employed in DL E. Analyze and interpret results derived from the application of DL techniques within the context of drug discovery and development F. Critically evaluate how AI solutions can be applied in the field of drug discovery G. Communicate and present the concepts, methodologies, and findings related to AI in pharmacy effectively to both professional and non-professional audiences",
+        "Method of teaching and learning": "Students will first gain a comprehensive understanding of advanced AI and DL techniques, focusing on their application in specific drug discovery tasks during the one-hour formal lectures each week. To strengthen practical skills, students will engage in computer labs for three hours each week. These labs will begin with a presentation of example cases, followed by hands-on exercises. Through these exercises and coursework, students will develop proficiency in implementing key AI algorithms. in terms of assessments, #001 and #002 will take the form of an in-class lab report to assess students' proficiency in applying unsupervised and supervised learning methods in pharmaceutical sciences. Additionally, students will undertake a final research project based on a given scenario, and submit a research report (#004) while presenting their key findings to peers orally (#003)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH433&psl_code=SEM2"
+    }
+  ]
+}

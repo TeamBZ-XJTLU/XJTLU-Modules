@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "Reinforcement Learning",
+  "module_code": "DTS307TC",
+  "offerings": [
+    {
+      "heading": "Reinforcement Learning",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "DTSTC",
+        "full_name": "Reinforcement Learning",
+        "module_code": "DTS307TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Reinforcement Learning",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Individual FYP The module aims to give students the opportunity to work in a guided but independent fashion to explore a substantial problem in depth, making practical use of principles, techniques and methodologies acquired elsewhere in the course. It also gives experience in carrying out a large piece of individual work and in producing a dissertation. It finally enhances communication skills, both oral and written. Multi-disciplinary Group FYP The module allows for a maximum of three students from different schools to work together to explore a substantial problem of a multidisciplinary nature, with the opportunity to practice the task management and problem-solving activities of a professional and to explore original ideas by applying and extending the methods, skills, information, knowledge and understanding obtained during the various parts of their programmes to developing and evaluating an original design, or modification of a product or system. The research proposal must be agreed upon by all involved students and all respective supervisors from different schools, with considerations given to whether the proposed group project is achievable or not in terms of students’ particular capabilities, resources and time available, adequate supervision and fair division of tasks among the students. The research group proposal shall consist of identified aims, objectives, and methodologies for an interdisciplinary project with agreed specific targets for each individual. Each student will be advised by the supervisor from respective schools to work in a guided but independent fashion to reach specific targets for each individual. Each student will submit an FYP report that is similar to the Individual FYP project, other than highlighting the purpose of the group FYP project and the assigned tasks for the student, individual contribution to the group FYP project, etc. The FYP report submitted is the responsibility of the student, and it must be the student‘s own work. This does not prevent students from engaging in group work in the initial stages of any project where this is appropriate. Supervisors are not responsible for the submission of the project but act as an advisor to the student. Each student will give an oral presentation similar to that for Individual FYP project, other than highlighting the purpose of the group FYP project and the assigned tasks for the student, individual contribution to the group FYP project, etc.",
+        "Learning outcomes": "A. Demonstrate a comprehensive understanding of the fundamental concepts and principles of reinforcement learning, including key elements such as agents, environments, policies, rewards, and value functions. B. Analyze complex real-life problems and effectively translate them into reinforcement learning tasks, identifying appropriate states, actions, and rewards to model and solve these problems. C. Implement and compare Monte Carlo Methods and Temporal Difference Learning in the context of reinforcement learning. D. Analyze the application and limitation of different deep reinforcement learning algorithms, such as deep Q-networks (DQN) and policy gradient methods. E. Apply reinforcement learning techniques to address and solve practical problems across diverse domains, such as robotics, game playing, and autonomous systems. Design, implement, and evaluate RL-based solutions.",
+        "Method of teaching and learning": "Students can freely choose between the individual project and multidisciplinary group project. For multidisciplinary group projects, students have to form a group before the deadline for project allocation. Individual Project Students and their supervisors can decide on delivery patterns. Some academic supervisors have a group meeting, and the other may have one-by-one meeting with students. The time schedule is slightly different from one individual academic staff to another. Usually, there is a weekly meeting for all supervisors for his/her students. Multidisciplinary Group FYP Each student and his/her respective supervisor can decide on delivery patterns. Some academic supervisors have a group meeting, and the other may have a one-by-one meeting with students. Usually, there is a weekly meeting for all supervisors for his/her students. For the Group FYP project, regular meetings between all students and all supervisors in Group FYP projects will be arranged if necessary. Formative Assessment：Interim Report Fortnightly interim reports enable the student group leader (on a rotation basis) to formally document the project work undertaken so far and provide a progress report to all students and supervisors. The aims, deliverables, analysis of tasks and timeline for the work should be addressed. This is formative to aid student focus and also to provide feedback to guide the progress of the project."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS307TC&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Research Project",
+  "module_code": "EDS437",
+  "offerings": [
+    {
+      "heading": "Research Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Research Project",
+        "module_code": "EDS437",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Research Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to: • Develop students’ competencies in conducting independent research that examines a specific and substantial problem about digital education in depth, and to improve their skills of adopting appropriate theoretical approaches, techniques, and methodologies. • Enhance students' readiness for independent study and research by integrating fieldwork/placement (Co-Curricular Activities) into their learning experience before the start of the dissertation. These activities will foster the development of practical, collaborative, and problem-solving skills in real-world contexts, thereby enriching the research/investigative processes and outcomes.",
+        "Learning outcomes": "A. Identify a particular project that focuses on a practical or theoretical issue related to digital education and produce a research-informed plan to address that issue B. Identify, analyze and evaluate the literature and methodology relevant to the research project C. Understand the value of employing appropriate library research, fieldwork, and/or practical experiences in understanding and addressing a practical or theoretical issue D. Critically evaluate one’s own written work and place it in the context of the secondary literature E. Adopt research methods and/or programming/coding independently, effectively, and critically F. Develop a critical perspective on the selected topic and present research results in a clear academic style, both orally and in written form to specialist and non-specialist audiences G. Apply practical, collaborative, and problem-solving skills developed through fieldwork/placement (Co-Curricular Activities) to enhance the research process and outcomes, demonstrating readiness for independent research and investigation",
+        "Method of teaching and learning": "This module follows the principles of Research-Led Project-Based Learning and is delivered through a combination of individual research, supervision by an experienced researcher, and collective workshops. The research project offers two assessment options from which each student may choose: (1) a Dissertation in Practice or (2) a Research Dissertation. The Dissertation in Practice addresses a practical issue drawn from real-world digital education and responds to it through critical analysis and the design of a digital education product, service, and/or practice. The Research Dissertation focuses on a theoretical problem in the field of digital education and develops a solution in the form of an original, self-contained piece of research. The workshops introduce all students to key principles of conducting a digital education project and support the development of essential research competencies. The writing workshop (bootcamp), presentation workshop, and writing clinics are delivered by the Academic Literacies Centre (ALC) to support students in developing their academic writing and presentation skills. Students are required to complete the Fieldwork/Placement before starting Assessment 003 Research Dissertation/Dissertation In Practice."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS437&psl_code=SEM2"
+    }
+  ]
+}

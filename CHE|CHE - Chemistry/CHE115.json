@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Laboratory Techniques",
+  "module_code": "CHE115",
+  "offerings": [
+    {
+      "heading": "Laboratory Techniques",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Laboratory Techniques",
+        "module_code": "CHE115",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Laboratory Techniques",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to introduce students to the basic laboratory principles and techniques",
+        "Learning outcomes": "A Perform risk assessment for laboratory work B handle chemicals reagents properly C understand and perform basic laboratory techniques D use basic laboratory instruments and equipment E write lab report to appropriate standard",
+        "Method of teaching and learning": "Tutorials and laboratory sessions"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE115&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Sustainable Technology And Building Materials",
+  "module_code": "CEN401",
+  "offerings": [
+    {
+      "heading": "Sustainable Technology And Building Materials",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Sustainable Technology And Building Materials",
+        "module_code": "CEN401",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Sustainable Technology And Building Materials",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module is to enhance knowledge and abilities with regard to the different materials used in buildings and infrastructures as well as to understand sustainable principles and assessments.",
+        "Learning outcomes": "A. Evaluate, use and adapt specific design methodologies and sustainable materials on the basis of life cycle assessment. B. Assess the environmental impact of traditional construction materials and determine environmental friendly solutions through practices of reduce, reuse, and recycle at material and structure levels. C. Apply sustainable practices based on international building codes (Eurocodes) to address sustainability concerns. D. Judge and select appropriate approaches to reduce the impact due to the usage of cement in construction. E. Adopt an inclusive approach to engineering practice and recognise the responsibilities, benefits and importance of supporting equality, diversity and inclusion.",
+        "Method of teaching and learning": "The main content of the module is delivered through formal lectures, practice-based activities, and project-based coursework. The coursework requires both an oral presentation and a written report."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN401&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOT",
+    "domain_code": "IOTTC",
+    "full_name": "Internet of things"
+  },
+  "full_name": "Introduction to Networking",
+  "module_code": "IOT209TC",
+  "offerings": [
+    {
+      "heading": "Introduction to Networking",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOTTC",
+        "full_name": "Introduction to Networking",
+        "module_code": "IOT209TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Introduction to Networking",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to introduce networked computer systems in general, and the Internet in particular. It covers the basic principles that govern their operation, the design and organisation principles of successful computer networks, and the key protocols and technologies that are used in the contemporary Internet.",
+        "Learning outcomes": "[A] Calculate basic network performance statistics (e.g. average throughput), given network configuration and parameters. [B] Apply standard network algorithms such as (e.g. Distance vector, ARP discovery, virtual circuit setup) to specific problems and demonstrate both intermediate and final states. [C] Analyze simple versions of standard network protocols.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. Students will be expected to attend lectures, seminars, tutorials as well as practicals in a computer lab. Students will be introduced to the academic content and practical skills which are the subject of the module, and get to practice those skills. In addition, students will be expected to devote unsupervised time to solving continuous assessment tasks and private study. Private study will provide time for reflection and consideration of lecture material and background reading. Continuous assessment will be used to test to what extent practical skills have been learnt."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOT209TC&psl_code=SEM1"
+    }
+  ]
+}

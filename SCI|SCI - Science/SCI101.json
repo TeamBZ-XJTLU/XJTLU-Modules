@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "SCI",
+    "domain_code": "SCI",
+    "full_name": "Science"
+  },
+  "full_name": "Introduction to Artificial Intelligence for Science",
+  "module_code": "SCI101",
+  "offerings": [
+    {
+      "heading": "Introduction to Artificial Intelligence for Science",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SCI",
+        "full_name": "Introduction to Artificial Intelligence for Science",
+        "module_code": "SCI101",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Artificial Intelligence for Science",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "In an era where data-driven decision-making and computational techniques are revolutionizing scientific discovery, understanding Artificial Intelligence (AI) and Machine Learning (ML) has become indispensable across various scientific disciplines. This module is designed to equip science undergraduates with foundational programming skills, core AI concepts, and essential algorithms. By bridging the gap between traditional scientific methods and modern AI applications, the module prepares students to leverage AI and ML in biology, chemistry, biomedical science, environmental science, and public health research. Positioned within the broader science curriculum, this module fosters interdisciplinary collaboration and innovation, aligning with the school's commitment to excellence and cutting-edge research.",
+        "Learning outcomes": "A Explain the basic principles of AI and ML, including supervised and unsupervised learning, classification, clustering. B Develop a simple understanding of how AI can be used to solve scientific problems, including transferring practical scientific questions into AI specific questions. C Understand and apply classification methods to categorize data into predefined classes. D Describe clustering techniques and their applications in grouping similar data points without predefined labels. E Learn how to evaluate model performance and understand the concepts of overfitting and underfitting.",
+        "Method of teaching and learning": "Lectures will introduce key concepts of AI and ML, including supervised and unsupervised learning, classification and clustering. The lectures are designed to build a strong foundational understanding by incorporate real-world examples to enhance understanding. The lab sessions focused on specific topics, such as implementing decision trees, support vector machines, or clustering algorithms using Python. Provide step-by-step guidance on writing and executing code."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SCI101&psl_code=SEM1"
+    },
+    {
+      "heading": "Introduction to Artificial Intelligence for Science",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SCI",
+        "full_name": "Introduction to Artificial Intelligence for Science",
+        "module_code": "SCI101",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Artificial Intelligence for Science",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "In an era where data-driven decision-making and computational techniques are revolutionizing scientific discovery, understanding Artificial Intelligence (AI) and Machine Learning (ML) has become indispensable across various scientific disciplines. This module is designed to equip science undergraduates with foundational programming skills, core AI concepts, and essential algorithms. By bridging the gap between traditional scientific methods and modern AI applications, the module prepares students to leverage AI and ML in biology, chemistry, biomedical science, environmental science, and public health research. Positioned within the broader science curriculum, this module fosters interdisciplinary collaboration and innovation, aligning with the school's commitment to excellence and cutting-edge research.",
+        "Learning outcomes": "A Explain the basic principles of AI and ML, including supervised and unsupervised learning, classification, clustering. B Develop a simple understanding of how AI can be used to solve scientific problems, including transferring practical scientific questions into AI specific questions. C Understand and apply classification methods to categorize data into predefined classes. D Describe clustering techniques and their applications in grouping similar data points without predefined labels. E Learn how to evaluate model performance and understand the concepts of overfitting and underfitting.",
+        "Method of teaching and learning": "Lectures will introduce key concepts of AI and ML, including supervised and unsupervised learning, classification and clustering. The lectures are designed to build a strong foundational understanding by incorporate real-world examples to enhance understanding. The lab sessions focused on specific topics, such as implementing decision trees, support vector machines, or clustering algorithms using Python. Provide step-by-step guidance on writing and executing code."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SCI101&psl_code=SEM2"
+    }
+  ]
+}

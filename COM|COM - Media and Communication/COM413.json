@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Sociology Of Media Professionals",
+  "module_code": "COM413",
+  "offerings": [
+    {
+      "heading": "Sociology Of Media Professionals",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Sociology Of Media Professionals",
+        "module_code": "COM413",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Sociology Of Media Professionals",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to provide a critical evaluation of the historical development and current roles and positions of workers in media organizations, especially film, broadcasting, radio, and print and internet news organizations. It discusses the history and development of the western and Chinese media industries, with a focus on the shifting positions and roles of news workers as a result of technological innovation, state policies and commercial imperatives. It also discusses professionalism, media ethics and the agency of media workers within organizations. Finally, the module aims to help students develop a core skill of media professionals, namely interviewing. Students will interview a media professional and reflect on the production process. The module fits in the programme by offering students the opportunity to deepen their understanding of what it takes to work as a professional in a media organization. As such, it can be considered the programme’s foundational module. In addition, the module fits in the programme because it helps students sharpen the core competencies of interviewing and writing",
+        "Learning outcomes": "Learning outcomes: A Critically evaluate the positions and roles of professionals in media organizations B Critically engage with the core concepts of professionalism, objectivity and ethics C Prepare, conduct and write up a publishable interview D Write concise, clear and engaging English",
+        "Method of teaching and learning": "Methods of learning and teaching The lectures present and explain relevant concepts, historical developments and current states. In the seminars students actively engage with the lecture material. They examine ethical case studies, and practice interviewing and writing."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM413&psl_code=SEM1"
+    }
+  ]
+}

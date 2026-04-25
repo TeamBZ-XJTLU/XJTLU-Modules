@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Regulation Of Pharmaceutical And Biological Products",
+  "module_code": "APH424",
+  "offerings": [
+    {
+      "heading": "Regulation Of Pharmaceutical And Biological Products",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Regulation Of Pharmaceutical And Biological Products",
+        "module_code": "APH424",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Regulation Of Pharmaceutical And Biological Products",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module builds upon the knowledge and understanding of the principles and importance of regulations in bio/pharmaceuticals products to consider more advanced aspects of human health, diseases and their treatment. This module aims to philosophically introduce the students to the most current regulations in manufacturing, efficacy, safety, quality, validation, approval and compliance, all of which are heavily influenced by international (FDA, EMA, NMPA, etc) regulatory guidelines, some of which might unfortunately/potentially stifle bio/pharmaceutical innovation and slow/block the delivery of economical and beneficial treatments.",
+        "Learning outcomes": "A. Critically evaluate the importance of regulation in bio/pharmaceutical research and industry B. Critically appraise the regulatory processes of compliance and quality control in pharmaceutics C. Critically analyse bio/pharmaceutical manufacturing D. Critically explain the integration among drug companies, drug products, government, patients, ethics, IP, and regulations.",
+        "Method of teaching and learning": "This course will be taught by a series of lectures and tutorials. Students will learn how to apply their knowledge by completing a series of related tutorials and assignments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH424&psl_code=SEM1"
+    }
+  ]
+}

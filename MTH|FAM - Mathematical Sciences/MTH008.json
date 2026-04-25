@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FAM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Multivariable Calculus (Science and Engineering)",
+  "module_code": "MTH008",
+  "offerings": [
+    {
+      "heading": "Multivariable Calculus (Science and Engineering)",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Multivariable Calculus (Science and Engineering)",
+        "module_code": "MTH008",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Multivariable Calculus (Science and Engineering)",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To give students a broad education in calculus of multivariable functions, differential equations and infinite series, which includes the topics usually covered in a standard course of advanced calculus. To give students an appreciation of the application of mathematics to science and engineering To introduce the mathematical modeling for solving practical problems. To develop students' ability to work independently and to acquire the skill of problem solving.",
+        "Learning outcomes": "A. Have an initial understanding of: vectors, lines, planes, surfaces in three space and their equations; B. Demonstrate an understanding of the concept of multivariable functions, their derivatives, and their applications in determining critical features of functions including free and constrained extreme values problems; C. Calculate the multiple integrals in rectangular, polar coordinates and spherical coordinates, and apply the knowledge of multiple integration, including calculating the volume of solids; D. Have an initial understanding basic concepts of infinite series, convergence tests, power series and Taylor theorem; E. Have a good appreciation of the link between mathematics and other subjects; F. Be able to understand the mathematical models for simple practical problems.",
+        "Method of teaching and learning": "The module will be typically organized as a combination of lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH008&psl_code=SEM2"
+    }
+  ]
+}

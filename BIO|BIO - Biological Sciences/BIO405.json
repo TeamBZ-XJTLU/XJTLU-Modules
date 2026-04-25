@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Research Methods in Bioinformatics",
+  "module_code": "BIO405",
+  "offerings": [
+    {
+      "heading": "Research Methods in Bioinformatics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Research Methods in Bioinformatics",
+        "module_code": "BIO405",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Research Methods in Bioinformatics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide students with training in handling diverse, large-scale, biomolecular datasets and in extracting biologically meaningful information from them",
+        "Learning outcomes": "A. Use programming language (such as R, Python, Bash) to perform basic analyses tasks. B. Apply appropriate bioinformatics and AI tools to conduct a research project in this area. C. Critically analyse and process high-throughput biomolecular data. D. Appraise, integrate and present different types of bioinformatic data in appropriate formats. E. Apply appropriate statistical tools to analyse bioinformatics data.",
+        "Method of teaching and learning": "Lectures and computational skills training."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO405&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Introduction to Film and Television",
+  "module_code": "FTA113",
+  "offerings": [
+    {
+      "heading": "Introduction to Film and Television",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Introduction to Film and Television",
+        "module_code": "FTA113",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Film and Television",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces the principles of media aesthetics and how they are applied in the context of media content creation. The aim of the module is to establish a solid foundation in the students’ appreciation of media aesthetics and methods to understand how they can apply the theory to practice. This fundamental module will have a broad impact on their subsequent learnings and practices in later creative and practical modules.",
+        "Learning outcomes": "A. Understand the various theories of media aesthetics B. Understand the principles of visual language C. Apply media aesthetics in the context of media content creation",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: lectures and seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA113&psl_code=SEM1"
+    }
+  ]
+}

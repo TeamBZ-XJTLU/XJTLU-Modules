@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Series Production",
+  "module_code": "FTA132",
+  "offerings": [
+    {
+      "heading": "Series Production",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Series Production",
+        "module_code": "FTA132",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Series Production",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module allows the student to develop a programme idea within a number of Television genres including live TV Studio. Students will research, develop and deliver a programme idea that can be developed further through the subsequent levels of their programme of study. The idea will be developed and pitched to a panel for consideration",
+        "Learning outcomes": "A. Develop and research programme content that is appropriate to a given commissioning outline. B. Present a programme idea in a pitch presentation C. Critically reflect on the development of their content and how the nature of that content will appeal to audiences",
+        "Method of teaching and learning": "Students will learn to develop, research and plan programme content in the seminar sessions. They will look at case studies and development formats within lectures. Lectures Seminars Self-directed learning"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA132&psl_code=SEM2"
+    }
+  ]
+}

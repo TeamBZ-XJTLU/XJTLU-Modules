@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Language and Gender",
+  "module_code": "LNG204",
+  "offerings": [
+    {
+      "heading": "Language and Gender",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Language and Gender",
+        "module_code": "LNG204",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Language and Gender",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are twofold: to familiarise students with past and current theoretical and methodological approaches to language and gender, and to develop their critical understanding of current theories of language and gender as well as their ability to apply these in real data and real-life situations. This module introduces to students key theoretical and analytical approaches to language and gender, and encourages them to select their own material for analysis on the basis of relevance to their studies and interests after being equipped with the necessary skills to undertake critical analysis of the phenomena of language and gender encountered in the course of their studies and beyond.",
+        "Learning outcomes": "A. Demonstrate knowledge and understanding of the main schools of thought within the field of language and gender and the methodologies used in this line of research. B. Critically discuss the major studies within the field. C. Analyze data drawing upon the relevant theoretical concepts and apply standard data analysis techniques and background concepts to new data.",
+        "Method of teaching and learning": "Lectures and tutorials"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG204&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MAT",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Theory And Applications Of Partial Differential Equations",
+  "module_code": "MTH418",
+  "offerings": [
+    {
+      "heading": "Theory And Applications Of Partial Differential Equations",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Theory And Applications Of Partial Differential Equations",
+        "module_code": "MTH418",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Theory And Applications Of Partial Differential Equations",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Partial differential equations (PDEs) are foundational to the study of applied mathematics, as they provide the mathematical basis for modeling various phenomena in engineering, physics, finance and other sciences. The module aims to provide students with an introduction to the modern approach of the analysis of PDEs, which is crucial for their effective learning of applications in subsequent modules After completing this module, students will have acquired the analytical skills necessary to tackle complex problems, equipping them with the theoretical tools needed to successfully undertake more application-focused modules.",
+        "Learning outcomes": "A Demonstrate a comprehension of the key characteristics of Hilbert spaces and proficiently manipulate function sequences within Hilbert spaces. B Work effectively with the functional analytic tools including weak convergence, compact operators etc. C Attain a comprehensive grasp of weak formulations for problems involving partial differential equations, encompassing aspects like bilinear forms, weak solutions, and related concepts. D Use the functional analytic tools to analyse PDE problems.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH418&psl_code=SEM1"
+    }
+  ]
+}

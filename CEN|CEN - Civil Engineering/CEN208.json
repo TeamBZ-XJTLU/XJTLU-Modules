@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Capstone Design 1",
+  "module_code": "CEN208",
+  "offerings": [
+    {
+      "heading": "Capstone Design 1",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Capstone Design 1",
+        "module_code": "CEN208",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Capstone Design 1",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module is to ensure students: - realize how the individual taught subjects contribute a unified design project; - promote teamwork and industrial awareness",
+        "Learning outcomes": "A. Appreciate reinforced concrete element and urban drainage within an integrated context, practical problems and methods associated with Civil Engineering design, and integration and management of environmental issues. B. Apply the theoretical aspects of the associated courses to practical design along with real engineering problem solving. C. Practically and conceptually design with the consideration of key elements: site investigation, foundation, structure, drainage network and costing. D. Perform calculations for the various designs. E. Apply the teamwork, time management, presentation and reporting skills.",
+        "Method of teaching and learning": "Formal Lectures, Tutorial Classes & Labs"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN208&psl_code=SEM2"
+    }
+  ]
+}

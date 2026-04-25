@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Applied Electromagnetics and Antennas",
+  "module_code": "CAN312",
+  "offerings": [
+    {
+      "heading": "Applied Electromagnetics and Antennas",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Applied Electromagnetics and Antennas",
+        "module_code": "CAN312",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Applied Electromagnetics and Antennas",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces radio frequency concepts using the transmission line as the key component for analysis. These concepts are of particular concern as operating frequencies increase, and hence operating wavelengths decrease, and are central to design processes applied in the world of communications and of micro-electronics. In each case as operating wavelength approaches the physical size of the system design constraints increase and the module seeks to provide insight and understanding of the underlying reasons for this. An important practical application of the theory learned is the antenna, a component required by every wireless system. The categories, fundamental principles and electromagnetic principles related to antennas is introduced building from the transmission line understanding.",
+        "Learning outcomes": "CODE A Analyze transmission lines including factors influencing their performance based on the concepts and solve circuit problems involving impedance B Understand and analyse the interplay between travelling waves, and the use of S-parameters. C Understand the concept and use of power waves at high frequencies and design transmission line matching networks for maximum power transfer. D Explain the principles behind high-frequency electromagnetic radiation, antenna fundamental concepts and antenna parameters such as impedance, gain, polarization, directivity and efficiency. E Demonstrate proficiency in applying key electromagnetic principles to the analysis and design of engineering systems and components and an ability to analyse and design some basic antenna systems.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures, tutorials sessions and lab sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN312&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "Capstone: Governance and Development of China",
+  "module_code": "CCS409",
+  "offerings": [
+    {
+      "heading": "Capstone: Governance and Development of China",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "Capstone: Governance and Development of China",
+        "module_code": "CCS409",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Capstone: Governance and Development of China",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module represents the capstone project for the MA degree. The final project can have one of the following formats: 1) Dissertation 2) Practice research Dissertation The aim of the Dissertation is to enable students to undertake a significant piece of independent research into a topic relevant to governance and development of China. This option provides students with opportunities to: apply their learning on the programme to analyse specific and substantial problems and issues; deepen their knowledge and understanding of a particular topic of interest to them; produce a complete piece of scholarly work from conception through to a final dissertation; further develop their independent research skills; and make an original contribution with theoretical, empirical and/or practical value. Practice research Practice research is an original investigation undertaken in order to gain new knowledge partly by means of practice and the outcomes of that practice. This form of research integrates the professional practice with specific research questions, methods and outcomes. It is aimed to equip the students with a deep understanding of the practice and the issues being explore, enhanced research and practical skills, as well as the capability to address real-world problems with practical solutions.",
+        "Learning outcomes": "A. Compose clear and researchable questions and/or hypotheses and design an appropriate research plan. B. Critically engage with academic literature, theories, and empirical studies relevant to the chosen topic. C. Conduct independent research, academic or practice-based, with attention to ethical and contextual considerations. D. Clearly and convincingly present relevant and valid findings and interpret them in the context of existing and relevant studies, concepts, theories and perspectives as appropriate to academic or practice-based research standards",
+        "Method of teaching and learning": "Work with a supervisor to develop a research project; undertake a research project based on library work, fieldwork, or a work placement; write and present a research outline, interim report, and dissertation. As part of the development of capacity to produce a research dissertation, attend a series of peer review and support research seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS409&psl_code=SEM1"
+    }
+  ]
+}

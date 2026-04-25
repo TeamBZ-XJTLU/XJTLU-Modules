@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Fluid Mechanics and Thermodynamics",
+  "module_code": "CEN102",
+  "offerings": [
+    {
+      "heading": "Fluid Mechanics and Thermodynamics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Fluid Mechanics and Thermodynamics",
+        "module_code": "CEN102",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Fluid Mechanics and Thermodynamics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to introduce the fundamental principles of fluid mechanics and thermodynamics and to lay a solid foundation for subsequent work involving civil engineering hydraulics, water engineering, building services engineering, industrial and product design.",
+        "Learning outcomes": "A. Demonstrate foundational knowledge of fluid properties and principles of fluid flow in engineering contexts. B. Analyse hydrostatic forces in submerged bodies. C. Apply the fundamental hydrodynamic equations to simple flow systems. D. Apply the thermodynamic laws to interpret energy transfer and conversion and analyse the behaviour of thermodynamic systems with a focus on sustainability. E. Use mathematical models and problem-solving techniques to solve fundamental fluid mechanics and thermodynamics problems.",
+        "Method of teaching and learning": "The material in this module is delivered through a combination of formal lectures, tutorials and supervised practical sessions. General transferable skills on data analysis and results interpretation are developed through the laboratory report and numerical assignments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN102&psl_code=SEM2"
+    }
+  ]
+}

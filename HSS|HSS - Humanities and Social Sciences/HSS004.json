@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HSS",
+    "domain_code": "HSS",
+    "full_name": "Humanities and Social Sciences"
+  },
+  "full_name": "Creativity in Action: Unlocking Creativity in a Changing World",
+  "module_code": "HSS004",
+  "offerings": [
+    {
+      "heading": "Creativity in Action: Unlocking Creativity in a Changing World",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "HSS",
+        "full_name": "Creativity in Action: Unlocking Creativity in a Changing World",
+        "module_code": "HSS004",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Creativity in Action: Unlocking Creativity in a Changing World",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the art of creativity, emphasizing its role in critical thinking, problem-solving, and digital expression. Students will explore historical, cultural, and cognitive dimensions of innovation, engage with practical creative thinking techniques, and develop their ability to produce original and collaborative projects in dedicated “Creative Lab” sessions. The course also highlights storytelling and imagination as inventive forces, both in traditional narratives and digital media, preparing students to apply creativity in academic and professional contexts. The module thus aims to develop students’ understanding of global, theoretical and historical perspectives on creativity while providing opportunity for the application of creative thinking strategies to academic and real-world challenges. Students will explore digital and AI tools for creative expression, develop narrative and problem-solving skills, and work collaboratively to produce a digital or written creative project. This module is designed for first-year undergraduate students from all disciplinary backgrounds, including prospective students in the arts, humanities and social sciences (AHSS), STEM, and professional fields such as business. It introduces creativity as a foundational mode of thinking and problem-solving, essential for academic success, innovation, and adaptability across sectors. Through a combination of practical and reflective activities, students will explore creative expression alongside digital and AI tools, developing cognitive flexibility, critical thinking, and design-oriented approaches. These skills are increasingly vital in a world shaped by technological change, complex challenges, and the need for interdisciplinary collaboration.",
+        "Learning outcomes": "A Demonstrate an understanding of creativity by critically engaging with historical, cultural, and theoretical perspectives, reflecting on their own creative learning. B Apply creative thinking techniques and strategies to develop an original project that effectively communicates ideas to diverse audiences. C Evaluate and refine creative work by incorporating feedback, ethical considerations, and digital tools to enhance the impact of their final project.",
+        "Method of teaching and learning": "The teaching sessions are divided into lectures, seminars and “Creative Lab” sessions. The lectures will introduce students to relevant knowledge, concepts, skills and ideas in the field of creativity. Seminars focus on discussion and collaborative activities with the objective of planning a portfolio assessment task related to the lecture content. “Creative Lab” sessions are supervised sessions where students work in groups to complete portfolio and creative project assessment tasks. In addition to scheduled teaching sessions, students are expected to engage in private study involving tasks such as pre-lecture reading, post-lecture reflection, and experimentation with creative thinking techniques."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=HSS004&psl_code=SEM1"
+    }
+  ]
+}

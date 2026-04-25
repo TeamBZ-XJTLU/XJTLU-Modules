@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Sustainable Engineering with Timber",
+  "module_code": "CEN402",
+  "offerings": [
+    {
+      "heading": "Sustainable Engineering with Timber",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Sustainable Engineering with Timber",
+        "module_code": "CEN402",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Sustainable Engineering with Timber",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will provide guidance on structural timber design. Modern timber construction practices will also be introduced. This module will help students to have a better understanding of the sustainable nature of timber and the necessity to ensure sustainable management of timber resources.",
+        "Learning outcomes": "A. Analyse the mechanical behaviour of: wood, wood products, timber structures and timber connections. B. Assess timber designs taking into account serviceability and ultimate limit states according to Eurocode 5. C. Examine the structural properties of timber. D. Evaluate the sustainable nature of timber and the necessity to ensure sustainable management of timber resources using techniques such as life cycle analysis. E. Research and analyse the current trends in timber construction practice and its impact on the environment and society, including its potential contribution towards a diversity, equality, and inclusion (DEI) framework.",
+        "Method of teaching and learning": "Lecture, self-study, coursework will be the major methods of delivering this module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN402&psl_code=SEM2"
+    }
+  ]
+}

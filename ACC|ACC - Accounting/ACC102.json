@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Artificial Intelligence-Driven Data Analytics",
+  "module_code": "ACC102",
+  "offerings": [
+    {
+      "heading": "Artificial Intelligence-Driven Data Analytics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Artificial Intelligence-Driven Data Analytics",
+        "module_code": "ACC102",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Artificial Intelligence-Driven Data Analytics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are threefold: •To develop computational thinking and technical skills by introducing foundational Python programming and SQL, empowering students to analyze and interpret complex financial and business data. •To enhance students’ ability to apply corporate valuation techniques through the construction of advanced financial models inspreadsheets. •TointroducefoundationalconceptsofArtificialIntelligence(AI),highlighting its applications in corporate valuation, financial modeling, and data-driven decision-making. Fit: This module equips business undergraduates in accounting, finance, and economics with a unique combination of technical, analytical, and practical skills. By integrating programming, AI, and financial modeling into the curriculum, the module bridges traditional business analytics with emerging technologies. Students gain valuable insights into how AI and computational tools are transforming corporate valuation and decision-making, preparing them for the dynamic challenges of modern business environments.",
+        "Learning outcomes": "Students completing the module successfully should be able to: A. Demonstrate foundational proficiency in Python and SQL to collect, clean, and manipulate financial data (e.g., from WRDS) for subsequent analysis in a corporate finance context.Understand the principles of Python programming, MS Excel, and AI tools for data manipulation and analysis. B. Apply spreadsheet-based modeling (e.g., using Excel) alongside basic Python/SQL to build and interpret essential valuation models (e.g., ratio analysis, forecasting, CAPM, DCF, WACC). Apply Python and SQL to collect, preprocess, and analyze data for financial modeling and valuation. C. Design AI-driven valuation agents that leverage the core finance concepts above, integrating step-by-step processes (industry analysis, data collection, analysis, etc.) into automated or semi-automated workflows.Analyze the role of AI in corporate valuation and its applications in automatingdecision-making processes. D. Evaluate the overall effectiveness of these AI-driven valuation solutions in terms of accuracy and practical application, recognizing both the strengths and limitations of using large language models or similar AI tools in finance.",
+        "Method of teaching and learning": "This module will be delivered through a combination of interactive lectures and hands-on lab sessions. Lectures will provide the theoretical foundations and conceptual understanding of programming, AI, and financial modeling, while lab sessions will offer practical experience with Python, Excel, and AI tools. Learning will be supported by guided exercises, real-world examples, and recommended readings from the course text. This structure ensures students develop both theoretical knowledge and technical proficiency, enabling them to apply learned concepts effectively in practical scenarios."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC102&psl_code=SEM2"
+    }
+  ]
+}

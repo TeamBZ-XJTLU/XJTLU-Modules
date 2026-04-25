@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Bioinformatics Project",
+  "module_code": "BIO215",
+  "offerings": [
+    {
+      "heading": "Bioinformatics Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Bioinformatics Project",
+        "module_code": "BIO215",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Bioinformatics Project",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims • Equip students to create deployable bioinformatics artifacts such as R packages and Shiny apps that are installable, documented and reproducible. • Build practical skills in data handling, visualization and baseline supervised machine learning for actionable analysis. • Instill professional software practices including version control, documentation, licensing, basic testing and release discipline. • Develop scientific communication abilities through clear figures, concise reporting and audience appropriate presentation. Fit to the BSc Bioinformatics programme • Serves as the programme’s practice intensive bridge between foundational biology and computing modules and real-world project delivery. • Consolidates prior biological and programming knowledge into tools that meet professional standards for reproducibility and usability. • Produces a public portfolio (e.g. through GitHub) including a functional package, Shiny service and scientific report that directly supports progression to research or industry roles.",
+        "Learning outcomes": "A. Use R to import, transform and visualise bioinformatics data, producing clear and interpretable figures with ggplot2. B. Design, implement and deploy interactive bioinformatics tools using Shiny, including appropriate user interface design and data querying functions. C. Develop an installable and documented R package that meets basic standards for usability, reproducibility and maintainability, and publish it on GitHub. D. Apply supervised machine learning workflows to build, evaluate and interpret baseline predictive models for bioinformatics datasets. E. Demonstrate awareness of key legal, ethical and professional considerations in the design and delivery of bioinformatics software and analyses. F. Work effectively in teams to plan, implement and deliver a complete bioinformatics project from concept to functional artifact and scientific report. G. Communicate technical work clearly and accurately in written, visual and oral forms appropriate to professional and academic audiences.",
+        "Method of teaching and learning": "The module is delivered entirely through weekly computer lab sessions. Teaching follows a scaffolded, practice-intensive approach in which students build functional components step by step towards a complete deployable bioinformatics artifact. Each session introduces one core technical skill or concept through concise demonstrations and pre-configured code templates. Students apply the concepts immediately via guided exercises, progressively extending and adapting the provided examples. Tasks are designed with baseline, intermediate and stretch goals to support a wide range of prior experience. Team-based learning is embedded in the capstone project, where students collaborate to design, implement and publish a complete bioinformatics tool integrating R programming, Shiny interfaces, package development, basic machine learning, and reproducible deployment. Project milestones are supported by in-class guidance, code reviews, and peer discussion. Scientific communication skills are developed through dedicated instruction on producing clear figures, well-structured methods and results sections, and coherent scientific writing. The final deliverables emphasise the quality and clarity of the written report alongside the functionality and usability of the software artifact. The marking of the capstone project is conducted individually."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO215&psl_code=SEM1"
+    }
+  ]
+}

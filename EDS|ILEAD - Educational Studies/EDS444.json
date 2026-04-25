@@ -1,0 +1,80 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Conducting Quantitative Research",
+  "module_code": "EDS444",
+  "offerings": [
+    {
+      "heading": "Conducting Quantitative Research",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Conducting Quantitative Research",
+        "module_code": "EDS444",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Conducting Quantitative Research",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to prepare students to use the concepts and methods of quantitative social science research to conduct research on educational issues. Students learn core techniques and concepts for designing and evaluating quantitative research, sophisticated statistical analysis techniques (including the use of one or more software packages such as SPSS, R, SAS, Stata, Amos, MPlus, and relevant Artificial Intelligence-based options), and how to write up quantitative analysis results. Through this module, students become critical consumers as well as producers of quantitative research. Building on insights acquired in EDS441 (Engaging with Educational Literature) and EDS442 (Educational Research: Theory and Practice) in Year 1 of the EdD programme, this module enables students to gain a comprehensive and deeper understanding of how to critically analyse, design, conduct, and evaluate quantitative research. This module prepares students for further honing their skills and understandings in EDS445 (Advanced Educational Research Studies) in Year 3 of the EdD programme, developing and conducting their thesis in Year 4 of the programme, and evaluating how they will become contributors to research and scholarship in their area of educational focus.",
+        "Learning outcomes": "A. Understand the defining features of different kinds of quantitative research and have a solid grasp of the key concepts in quantitative research. B. Systematically review, critically analyse, and synthesise a body of evidence related to educational issues relevant to theories and practices. C. Articulate relevant conceptual frameworks and design appropriate methodological strategies to investigate research questions generated from complex educational problems. D. Collect and analyse quantitative data to understand and address problems in education, and understand how statistical analysis fits into a larger inquiry process. E. Perform sophisticated statistical analyses and report results. F. Design and conduct a pilot study that includes clear research questions, appropriate methodology, and ethical procedures of research to solve educational problems in professional workplaces.",
+        "Method of teaching and learning": "This module employs a variety of teaching methods, including lectures, tutorials, guest speakers, consultations, and independent learning. The lectures are both theoretical- and interactive-based to introduce students to the fundamental knowledge of the module and develop research skills. The materials covered in the lecture lay a foundation for tutorial components which follow an interactive and project-based approach where appropriate. Online-onsite blended teaching and learning with flipped classroom provides students with interpersonal skills development, hands-on learning opportunities, and deeper reflective opportunities. Delivery strategies focus on student-centred interactive activities and, where possible, integrating technology to facilitate learning. Students are guided to integrate the lectures and tutorials with real-life problems in their professional workplaces by designing action research, observational research, or participatory research using appropriate research methods. These practices build students’ skills for engaging successfully in the constant improvement process of writing their EdD thesis, as well as preparing them for presenting to practitioner and research audiences and publishing both research and scholarship."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS444&psl_code=ACYR"
+    },
+    {
+      "heading": "Conducting Quantitative Research",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Conducting Quantitative Research",
+        "module_code": "EDS444",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Conducting Quantitative Research",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to prepare students to use the concepts and methods of quantitative social science research to conduct research on educational issues. Students learn core techniques and concepts for designing and evaluating quantitative research, sophisticated statistical analysis techniques (including the use of one or more software packages such as SPSS, R, SAS, Stata, Amos, MPlus, and relevant Artificial Intelligence-based options), and how to write up quantitative analysis results. Through this module, students become critical consumers as well as producers of quantitative research. Building on insights acquired in EDS441 (Engaging with Educational Literature) and EDS442 (Educational Research: Theory and Practice) in Year 1 of the EdD programme, this module enables students to gain a comprehensive and deeper understanding of how to critically analyse, design, conduct, and evaluate quantitative research. This module prepares students for further honing their skills and understandings in EDS445 (Advanced Educational Research Studies) in Year 3 of the EdD programme, developing and conducting their thesis in Year 4 of the programme, and evaluating how they will become contributors to research and scholarship in their area of educational focus.",
+        "Learning outcomes": "A. Understand the defining features of different kinds of quantitative research and have a solid grasp of the key concepts in quantitative research. B. Systematically review, critically analyse, and synthesise a body of evidence related to educational issues relevant to theories and practices. C. Articulate relevant conceptual frameworks and design appropriate methodological strategies to investigate research questions generated from complex educational problems. D. Collect and analyse quantitative data to understand and address problems in education, and understand how statistical analysis fits into a larger inquiry process. E. Perform sophisticated statistical analyses and report results. F. Design and conduct a pilot study that includes clear research questions, appropriate methodology, and ethical procedures of research to solve educational problems in professional workplaces.",
+        "Method of teaching and learning": "This module employs a variety of teaching methods, including lectures, tutorials, guest speakers, consultations, and independent learning. The lectures are both theoretical- and interactive-based to introduce students to the fundamental knowledge of the module and develop research skills. The materials covered in the lecture lay a foundation for tutorial components which follow an interactive and project-based approach where appropriate. Online-onsite blended teaching and learning with flipped classroom provides students with interpersonal skills development, hands-on learning opportunities, and deeper reflective opportunities. Delivery strategies focus on student-centred interactive activities and, where possible, integrating technology to facilitate learning. Students are guided to integrate the lectures and tutorials with real-life problems in their professional workplaces by designing action research, observational research, or participatory research using appropriate research methods. These practices build students’ skills for engaging successfully in the constant improvement process of writing their EdD thesis, as well as preparing them for presenting to practitioner and research audiences and publishing both research and scholarship."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS444&psl_code=SEM1"
+    },
+    {
+      "heading": "Conducting Quantitative Research",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Conducting Quantitative Research",
+        "module_code": "EDS444",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Conducting Quantitative Research",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to prepare students to use the concepts and methods of quantitative social science research to conduct research on educational issues. Students learn core techniques and concepts for designing and evaluating quantitative research, sophisticated statistical analysis techniques (including the use of one or more software packages such as SPSS, R, SAS, Stata, Amos, MPlus, and relevant Artificial Intelligence-based options), and how to write up quantitative analysis results. Through this module, students become critical consumers as well as producers of quantitative research. Building on insights acquired in EDS441 (Engaging with Educational Literature) and EDS442 (Educational Research: Theory and Practice) in Year 1 of the EdD programme, this module enables students to gain a comprehensive and deeper understanding of how to critically analyse, design, conduct, and evaluate quantitative research. This module prepares students for further honing their skills and understandings in EDS445 (Advanced Educational Research Studies) in Year 3 of the EdD programme, developing and conducting their thesis in Year 4 of the programme, and evaluating how they will become contributors to research and scholarship in their area of educational focus.",
+        "Learning outcomes": "A. Understand the defining features of different kinds of quantitative research and have a solid grasp of the key concepts in quantitative research. B. Systematically review, critically analyse, and synthesise a body of evidence related to educational issues relevant to theories and practices. C. Articulate relevant conceptual frameworks and design appropriate methodological strategies to investigate research questions generated from complex educational problems. D. Collect and analyse quantitative data to understand and address problems in education, and understand how statistical analysis fits into a larger inquiry process. E. Perform sophisticated statistical analyses and report results. F. Design and conduct a pilot study that includes clear research questions, appropriate methodology, and ethical procedures of research to solve educational problems in professional workplaces.",
+        "Method of teaching and learning": "This module employs a variety of teaching methods, including lectures, tutorials, guest speakers, consultations, and independent learning. The lectures are both theoretical- and interactive-based to introduce students to the fundamental knowledge of the module and develop research skills. The materials covered in the lecture lay a foundation for tutorial components which follow an interactive and project-based approach where appropriate. Online-onsite blended teaching and learning with flipped classroom provides students with interpersonal skills development, hands-on learning opportunities, and deeper reflective opportunities. Delivery strategies focus on student-centred interactive activities and, where possible, integrating technology to facilitate learning. Students are guided to integrate the lectures and tutorials with real-life problems in their professional workplaces by designing action research, observational research, or participatory research using appropriate research methods. These practices build students’ skills for engaging successfully in the constant improvement process of writing their EdD thesis, as well as preparing them for presenting to practitioner and research audiences and publishing both research and scholarship."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS444&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "AI in Healthcare and Biomedical Engineering",
+  "module_code": "DTS216TC",
+  "offerings": [
+    {
+      "heading": "AI in Healthcare and Biomedical Engineering",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "DTSTC",
+        "full_name": "AI in Healthcare and Biomedical Engineering",
+        "module_code": "DTS216TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "AI in Healthcare and Biomedical Engineering",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with the knowledge and skills to address critical challenges in healthcare through the application of AI and big data technologies. As healthcare systems increasingly rely on data-driven insights for decision-making, diagnostics, treatment personalization, and biomedical innovation, this course will empower students to analyze complex biomedical data, design AI models for clinical applications, and explore the ethical implications of AI in healthcare. The integration of AI into healthcare and biomedical engineering provides an interdisciplinary foundation that aligns with the growing demand for AI-driven healthcare solutions, preparing students to contribute to transformative advancements in patient care and medical technology.",
+        "Learning outcomes": "A. Demonstrate understanding of AI's evolving role in healthcare and its impacts through real-world scenarios and case studies. B. Analyze successful AI applications in healthcare and critically evaluate their suitability for specific contexts C. Apply advanced techniques to address challenges in real-world medical datasets D. Assess the strengths and weaknesses of existing AI systems in healthcare settings E. Critically examine the ethical considerations and potential biases associated with AI technologies in healthcare",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This philosophy is carried through in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. The module will be delivered in a combination of lectures, seminars and labs. Lectures will introduce students to the academic content. Seminars and labs will be used to expand the students understanding of lecture materials. In addition, students will be expected to devote unsupervised time to private study. Private study will provide time for reflection and consideration of lecture material and background reading. This module will leverage generative AI to enhance course content and teaching methods in line with the learning outcomes. By integrating advanced AI technologies, we aim to improve the efficiency of teaching and interaction, while fostering greater student autonomy and flexibility in learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS216TC&psl_code=SEM2"
+    }
+  ]
+}

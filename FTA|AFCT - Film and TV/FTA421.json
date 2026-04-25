@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Introduction to Cultural and Creative Industries",
+  "module_code": "FTA421",
+  "offerings": [
+    {
+      "heading": "Introduction to Cultural and Creative Industries",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Introduction to Cultural and Creative Industries",
+        "module_code": "FTA421",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Introduction to Cultural and Creative Industries",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: The aims of this module are to review the development of the cultural and creative industries as an idea and as concept and to identify the changes and the trend within it and in relations to technology, economics, societies and connected to the world. This module also gives an overview of main theories of cultural industries, as well as theories of creative industries and notion of creativity in general. Objectives: Students will explore the historical development and theoretical landscape of Cultural and Creative Industries. They will have acquired the the contextual foundation leading them into the programme of study.",
+        "Learning outcomes": "A Demonstrate a systematic understanding of cultural and creative industries B Analyse critically the trend of cultural and creative industries C Evaluate critically the relationships among cultural and creative industries, economics and society as well as the world",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures, seminar, and tutorials. Lectures will be designed to provide essential information and introduce students to understanding the theories, history, development background of cultural and creative industries, cultural economics, etc. Seminar will be designed to provide cases, analyses, presentations of research or industrial report. Tutorials will be provided for students having opportunities to discuss the materials for completion of their coursework."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA421&psl_code=SEM1"
+    },
+    {
+      "heading": "Introduction to Cultural and Creative Industries",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Introduction to Cultural and Creative Industries",
+        "module_code": "FTA421",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Introduction to Cultural and Creative Industries",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: The aims of this module are to review the development of the cultural and creative industries as an idea and as concept and to identify the changes and the trend within it and in relations to technology, economics, societies and connected to the world. This module also gives an overview of main theories of cultural industries, as well as theories of creative industries and notion of creativity in general. Objectives: Students will explore the historical development and theoretical landscape of Cultural and Creative Industries. They will have acquired the the contextual foundation leading them into the programme of study.",
+        "Learning outcomes": "A Demonstrate a systematic understanding of cultural and creative industries B Analyse critically the trend of cultural and creative industries C Evaluate critically the relationships among cultural and creative industries, economics and society as well as the world",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures, seminar, and tutorials. Lectures will be designed to provide essential information and introduce students to understanding the theories, history, development background of cultural and creative industries, cultural economics, etc. Seminar will be designed to provide cases, analyses, presentations of research or industrial report. Tutorials will be provided for students having opportunities to discuss the materials for completion of their coursework."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA421&psl_code=SEM2"
+    }
+  ]
+}

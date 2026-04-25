@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Air and the Environment",
+  "module_code": "ENV212",
+  "offerings": [
+    {
+      "heading": "Air and the Environment",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Air and the Environment",
+        "module_code": "ENV212",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Air and the Environment",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces knowledge in atmospheric physics and chemistry. Students also learn lab and field applications on air quality monitoring and management.",
+        "Learning outcomes": "A. Evaluate global atmospheric issues and their implications. B. Formulate and communicate strategies to address air quality and climate issues. C. Analyze the main physical and chemical processes in the atmosphere. D. Apply knowledge and skills in indoor and/or outdoor air sampling and measurements using laboratory and field instruments.",
+        "Method of teaching and learning": "Lecture sessions, supported by laboratory and field sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV212&psl_code=SEM2"
+    }
+  ]
+}

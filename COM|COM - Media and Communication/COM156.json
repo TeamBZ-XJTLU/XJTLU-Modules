@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Foundations in Film Studies",
+  "module_code": "COM156",
+  "offerings": [
+    {
+      "heading": "Foundations in Film Studies",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Foundations in Film Studies",
+        "module_code": "COM156",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Foundations in Film Studies",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with the technical vocabulary required for film analysis and film criticism. In the process of building familiarity with film terminology through close readings of a range of film texts selected from different periods in film history and from different national cinemas, the module will also introduce basic elements of film theory, such as the ontology of film, its photographic indexicality and the idea of film as a language, genre theory and the notions of authorship, spectatorship and affect. It will also enable students to distinguish between and understand the main characteristics of different modes of filmmaking, such as narrative film, documentary and experimental film.",
+        "Learning outcomes": "A Demonstrate textual analysis skills through the close reading of a film extract B Show awareness of core principles of film narrative C Examine the effects achieved through the use of cinematic techniques D Identify genre conventions that operate in films E Evaluate individual films from a narrative and/or stylistic point of view",
+        "Method of teaching and learning": "Lectures Seminars Film screenings"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM156&psl_code=SEM2"
+    }
+  ]
+}

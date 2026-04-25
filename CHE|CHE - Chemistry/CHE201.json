@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Intermediate Organic Chemistry",
+  "module_code": "CHE201",
+  "offerings": [
+    {
+      "heading": "Intermediate Organic Chemistry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Intermediate Organic Chemistry",
+        "module_code": "CHE201",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Intermediate Organic Chemistry",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to introduce important carbon-carbon bond forming reactions within a mechanistic and synthetic framework, together with exposure to a selection of stereochemical issues.",
+        "Learning outcomes": "Students should be able to solve problems featuring: - Scope and mechanisms of basic reactions (nucleophilic and electrophilic substitutions, addition and elimination reactions) - Basic carbonyl chemistry (alkylation, acylation, aldol, conjugate additions). - Structure, reactivity and synthesis of simple heterocycles (including pyridines, pyrroles, furans) - Functional group interconversions and stereochemistry.",
+        "Method of teaching and learning": "The theory part of this module will be delivered through a series of lectures to be given throughout the first semester. The material presented at the lectures is supported by tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE201&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Introduction to Chemistry",
+  "module_code": "CHE002",
+  "offerings": [
+    {
+      "heading": "Introduction to Chemistry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Introduction to Chemistry",
+        "module_code": "CHE002",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Introduction to Chemistry",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to equip students with an understanding of basic chemistry, laying a foundation for students to pursue further study in chemistry.",
+        "Learning outcomes": "A Understand and discuss structure and properties of the main-group elements in the periodic table B discuss the nature of chemical bonding and the geometry of molecules C discuss the significance of chemical equilibrium D understand simple rate equations and the importance of reaction kinetic in determining reaction mechanisms E discuss reactivity of organic compounds with respect to their functional groups F discuss fundamental properties of general thermodynamic terms Gibbs free energy and entropy",
+        "Method of teaching and learning": "The module consists of 21 hours lectures, with 14 hours tutorials"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE002&psl_code=SEM2"
+    }
+  ]
+}

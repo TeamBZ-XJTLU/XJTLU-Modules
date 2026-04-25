@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOT",
+    "domain_code": "IOTTC",
+    "full_name": "Internet of things"
+  },
+  "full_name": "Signal Processing for IoT",
+  "module_code": "IOT314TC",
+  "offerings": [
+    {
+      "heading": "Signal Processing for IoT",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOTTC",
+        "full_name": "Signal Processing for IoT",
+        "module_code": "IOT314TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Signal Processing for IoT",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The fundamental objective of this module is to endow students with an profound comprehension of sophisticated signal processing principles and methodologies that are integral to modern Internet of Things (IoT) infrastructures. This empowerment is aimed at facilitating the students' ability to conceptualize, dissect, and execute optimized signal processing systems tailored for IoT applications. Moreover, this module is designed to furnish students with a comprehensive grasp of prevalent signal processing techniques and technologies employed across diverse IoT platforms and devices, thereby enhancing their practical insights into the discipline. The module further endeavors to acquaint students with the pragmatic aspects of signal processing system design, including the nuanced balance between performance metrics, power efficiency, and hardware limitations. A pivotal goal of this module is to capacitate students in the application of signal processing methods to tangible IoT challenges, encompassing signal filtration, modulation, and demodulation processes. The curriculum will also provide an introduction to state-of-the-art artificial intelligence (AI) tools and software for signal processing, steering students towards the adoption of exemplary practices in the design and realization of signal processing systems. In its culmination, the module's supreme objective is to enable students to adeptly design and implement a signal processing system for a specific IoT application, synthesizing their understanding of signal processing theories, algorithms, and programming methodologies. This module is harmonized with the prevailing technological trends and industrial demands within the IoT sector, rendering it an exemplary choice for students’ intent on careers in IoT system design, evolution, and deployment. In light of the exponential expansion of IoT and the escalating demand for resource-efficient signal processing systems, the expertise and competencies acquired through this module will be immensely beneficial. It will adeptly ready graduates for a spectrum of professional roles within technology firms, IoT product development enterprises, and research establishments, while also furthering the overarching academic goal of cultivating advanced problem-solving abilities and technical acumen. Furthermore, this module is poised to integrate cutting-edge AI concepts, which are increasingly being leveraged to enhance the capabilities of signal processing systems in IoT. Students will explore how AI algorithms can be applied to optimize signal processing tasks, such as pattern recognition, predictive maintenance, and real-time data analytics, thereby bridging the gap between traditional signal processing and the innovative potential of AI in IoT applications.",
+        "Learning outcomes": "A. Demonstrate an understanding of the Fourier Transform and its application in IoT signal processing. B. Explain the principles of filtering and noise reduction in IoT signal processing. C. Analyze the trade-offs between different signal processing techniques and their impact on IoT system performance. D. Design and implement AI-enhanced digital filter algorithms for an IoT application using a programming language.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contributions. This philosophy is carried through also in terms of assessment, with a reduction in the use of exams and an increase in coursework, especially project-focused assessments. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. This module will be delivered by a combination of lectures, Tutorials and labs. Lectures will introduce students to the academic content and practical skills, while labs will allow students to practice those practical skills. Tutorials will be used for group discussions and collaborative guided reflection on lectures. Private study will provide time for reflection and consideration of lecture materials and background reading. Continuous assessment will be used to test to what extent practical skills have been learned."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOT314TC&psl_code=SEM1"
+    }
+  ]
+}

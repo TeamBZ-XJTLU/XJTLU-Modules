@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "ENV",
+    "full_name": "Environmental Sciences"
+  },
+  "full_name": "Field/Laboratory Experiments of Environmental Monitoring",
+  "module_code": "ENV116",
+  "offerings": [
+    {
+      "heading": "Field/Laboratory Experiments of Environmental Monitoring",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENV",
+        "full_name": "Field/Laboratory Experiments of Environmental Monitoring",
+        "module_code": "ENV116",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Field/Laboratory Experiments of Environmental Monitoring",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module follows the “General Laboratory Techniques and Experiments in Environmental Science” module in S1. The modules emphasis is using several environmental pollution measurements to further introduce laboratory measurements. The module consists of seven field/lab experiments. Each field/lab experiment is supported by a lecture and a tutorial. The module aims is to that by using a series of experiments, students gain an understanding of using various instruments. This instrument use will provide students with an understanding of the instrument’s operation principles. By using real environmental samples, the module aims to provide students, using hand-on experience, an understanding of how to evaluate environmental pollutants. Furthermore, the module aims to teach students how to answer an environmental research question, by designing, executing, analyzing and presenting (with an essay, a poster and two reports) research results.",
+        "Learning outcomes": "A classify different aspects of environmental pollution that occur in the local environment B obtain the knowledge and skills of monitoring practices needed for environmental sampling and measurements of several selected pollutants C develop, plan and execute a series of experiments using laboratory instruments with instructor/laboratory assistants resulting in environmental data D evaluate and interpret qualitative and/or quantitative data E report scientific information properly and soundly through a variety of written documents. F understand the instruments operation principles used in the experiments.",
+        "Method of teaching and learning": "Seven field/lab experiments will be carried out during the semester to provide hand-on experience of measuring general pollution parameters for different environmental matrix. Before each experiment, lectures will be delivered to equip the students with the necessary information as well as the operation principles of the instruments used. After each experiment, tutorials will be used for discussion and to provide feedback. Students will present their experiment results as a paper, a poster as well as two experiment reports. *Should the University decide to cancel or postpone the field trip due to unforeseen environmental and/or political circumstances, the Department will either plan an appropriate substitute activity to meet the intended learning outcomes of the trip or make necessary arrangements to organize the trip at a later time, as appropriate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENV116&psl_code=SEM2"
+    }
+  ]
+}

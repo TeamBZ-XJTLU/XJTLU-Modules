@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Blended Learning in a Digital Age",
+  "module_code": "EDS435",
+  "offerings": [
+    {
+      "heading": "Blended Learning in a Digital Age",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Blended Learning in a Digital Age",
+        "module_code": "EDS435",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Blended Learning in a Digital Age",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course explores how educators should design blended learning as a new mode of education rather than simply moving the onsite learning materials and delivery online or vice versa. This requires the understanding of blended learning as a whole instead of a simple combination of online technologies and in-person teaching materials. The key to designing blended learning is the use of online collaborative technology tools, such as communication tools and collaborative working tools in the blended classrooms innovative education mode as a whole. Online collaborative tools provide a new set of technologies that focus on the social collaborative aspect of the Internet, which include the use of open educational resources in some instances. These tools include, but are not limited to: learning management systems, wikis, webinars, image repositories, document sharing, and other tools. In addition, the infusion of online collaborative technologies into professional development allows educators the opportunity to utilize methods and strategies for effective collaboration beyond the walls of the classroom.",
+        "Learning outcomes": "A Demonstrate a critical and deep understanding of the key concepts and practices of blended learning, including the technologies and their applications in the digital age B Apply the skills and technologies of blended learning in different pedagogical contexts according to the purposes and conditions of education C Critically examine, develop and evaluate the practices of blended learning in different educational settings, such as open education.",
+        "Method of teaching and learning": "Research-Led Project-Based Learning (RLPBL) methods will be implemented in a combination of lectures, tutorials, and labs/practicals throughout the semester. Lectures and tutorials will introduce and explore key concepts and theoretical frameworks, preparing students to work collaboratively in tackling real-world issues. The tutorials and labs/practicals will provide students with a variety of tools and practical guides to be utilized in their project. Students will take the initiative to plan, develop, test, and improve their project. Multiple methods will be used in teaching and learning such as online and onsite blended learning, e-learning, flipped classroom, and project-based learning with technology. Both formative and summative assessments will be utilised, with oral and written feedback provided by faculty and/or peers."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS435&psl_code=SEM2"
+    }
+  ]
+}

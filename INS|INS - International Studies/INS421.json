@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Global Public Policy and Governance",
+  "module_code": "INS421",
+  "offerings": [
+    {
+      "heading": "Global Public Policy and Governance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Global Public Policy and Governance",
+        "module_code": "INS421",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Global Public Policy and Governance",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides a comprehensive overview of major global governance challenges and public policy issues, aiming to integrate academic analysis with policy relevance. It explores major theoretical debates and contemporary issues essential for understanding public policy-making and implementation in an increasingly dynamic and globalized context. The module begins with the theoretical dilemmas of global coordination and the historical trajectory of the global quest for cooperation. The second part focuses on the varieties of institutional arrangements designed by nation-states to tackle global governance issues. Finally, the third part examines new emerging global challenges that demand coordinated policy responses from both nation-states and the broader global community. This module serves as the gateway for the study of global public policy and international relations at the MA level and provides a solid foundation for those interested in pursuing policy-orientated careers.",
+        "Learning outcomes": "A. Demonstrate an understanding of major policy issues in global governance and public policy B. Critically engage with the impact of ongoing changes in global politics and political economy on global governance and assess the prospects for global public policy C. Apply theories and concepts of political science to evaluate and interpret real-world governance issues D. Collect and process different forms of data and formulate arguments logically E. Communicate main ideas and key arguments effectively and in an organized manner F. Demonstrate and apply independent research skills and a critical mindset for international studies",
+        "Method of teaching and learning": "This module will be delivered through a combination of lectures, seminars, and independent study. Lectures will provide essential information and introduce students to key theories and issues in global governance and public policy. Seminars will be interactive, allowing students to communicate their ideas and perspectives in an academic manner. Students will also be tasked with conducting independent research and presenting their findings."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS421&psl_code=SEM2"
+    }
+  ]
+}

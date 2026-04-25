@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Social Entrepreneurship",
+  "module_code": "IFB433TC",
+  "offerings": [
+    {
+      "heading": "Social Entrepreneurship",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Social Entrepreneurship",
+        "module_code": "IFB433TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Social Entrepreneurship",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Social entrepreneurship is a new and fast-growing field of academic study and real-world practice. This module aims to equip students with the mindset, skills, and frameworks needed to understand and lead entrepreneurial initiatives that address pressing social and environmental challenges. This module will introduce students to both theory and practice of social entrepreneurship through lectures, workshops, and tutorials. Students will also engage with real-world examples of social enterprises, start-up ecosystems, and impact-driven business models that challenge traditional assumptions about profit, value, and success. A core feature of this module is its project-based learning approach, where students will work in teams to design, validate, and present a real or hypothetical social venture. These projects will simulate the entrepreneurial journey—from identifying a problem and conducting stakeholder research to developing a sustainable business model and pitching the solution to a panel of experts or potential funders. The hands-on nature of the project allows students to apply theoretical concepts in a practical, interdisciplinary setting, enhancing both their entrepreneurial and collaborative skills.",
+        "Learning outcomes": "A. Critically evaluate the role of social entrepreneurship in addressing complex societal and environmental challenges within local and global contexts. B. Apply relevant frameworks and tools to design, assess, and develop innovative business models that deliver both social impact and financial sustainability. C. Analyze the ecosystem that supports social entrepreneurship, including legal structures, funding mechanisms, and policy environments. D. Demonstrate entrepreneurial thinking and problem-solving skills in the development of socially responsible products, services, or initiatives. E. Collaborate effectively in diverse, interdisciplinary teams to ideate and pitch viable social venture concepts to potential stakeholders or funders.",
+        "Method of teaching and learning": "The module adopts the Syntegrative Education philosophy, emphasizing intensive block teaching to facilitate deeper engagement with industry partners and real-world challenges. This approach extends to assessment, with a reduced reliance on exams in favor of coursework—particularly problem-based, project-focused tasks that encourage applied learning and critical thinking. That is, in addition to traditional delivery formats, the module places a strong emphasis on project-based learning. Students will work in interdisciplinary teams to co-create a social enterprise concept, engage in iterative development using design thinking methods, and present their venture in a final pitch presentation. A combination of formal lectures, seminars as well as tutorials will be also leveraged to enable the appreciation of fundamental concepts of social entrepreneurship and the ability to use the relevant numerical tools and analysis methods. This delivery pattern provides space in the semester for students to concentrate on completing the project."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB433TC&psl_code=SEM2"
+    }
+  ]
+}

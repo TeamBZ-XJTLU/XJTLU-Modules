@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Advanced Topics In Operational Research",
+  "module_code": "MTH443",
+  "offerings": [
+    {
+      "heading": "Advanced Topics In Operational Research",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Advanced Topics In Operational Research",
+        "module_code": "MTH443",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Topics In Operational Research",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Operations Research (OR) is an important discipline that helps organisations make informed decisions, optimise processes and improve overall efficiency. This module aims to provide an in-depth knowledge of advanced operations research methods and to equip students with the analytical skills and critical thinking necessary to utilise sophisticated operations research techniques to address complex challenges in the real world.",
+        "Learning outcomes": "A Demonstrate a good understanding of OR concepts and models B Describe classical OR problems C Identify suitable solution methods for complex optimization problems D Formulate the mathematical models for practical problems E Design and develop heuristics for large-scale optimization problems F Solve practical OR problems and analyze the computational results G Write clear and well-structured reports documenting the modeling and findings of implemented solution approaches",
+        "Method of teaching and learning": "This module will be delivered as a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH443&psl_code=SEM1"
+    }
+  ]
+}

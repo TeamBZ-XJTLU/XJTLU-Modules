@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Introductory Electromagnetism and Quantum Physics",
+  "module_code": "PHY003",
+  "offerings": [
+    {
+      "heading": "Introductory Electromagnetism and Quantum Physics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "PHY",
+        "full_name": "Introductory Electromagnetism and Quantum Physics",
+        "module_code": "PHY003",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Introductory Electromagnetism and Quantum Physics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are: - to give students a broad education in electromagnetism and quantum physics; - to train students to think logically and independently and to acquire problem-solving skills; - to appreciate the importance of simplification of complex physical phenomena, the establishment of ideal models, and their extension to a more realistic description of nature; - to provide an experimental foundation for the theoretical concepts introduced in the lectures; - to familiarize students with the experimental apparatus, the scientific method and tools of experimental data analysis; - to enhance student understanding on the real world physics and inspire students to creatively explore hypotheses through experimentation.",
+        "Learning outcomes": "A. Define the various fields in electrostatics and magnetostatics B. Use Maxwell equations to solve electromagnetism-related problems C. Describe the main concepts underlying the early quantum mechanics D. Solve physics problems by applying the tools of mathematical calculus E. Apply the scientific method and data analysis tools in experiments involving electromagnetic phenomena",
+        "Method of teaching and learning": "This module will be delivered for seven weeks from Week 7 to Week 13. Students will be expected to attend three hours of formal lectures and one hour of tutorials in a typical week. In addition, students will be required to attend two sessions of lab activities during the teaching weeks. During the lectures, the students will be introduced to the academic content and practical skills underlying the module. The tutorials will focus on solving exercises in class, aimed at teaching students how to apply the concepts from lectures to practical situations. In addition, students are required to dedicate six hours each week to independent study. This time should be used for background reading, reflection, and reviewing the lecture material. The lab activities are designed to introduce students to the experimental apparatus of electromagnetism and will consist of hands-on sessions wherein students can apply the scientific method. Students shall research each topic before attending lab sessions using tailored pre-lab handouts and video instructions which will provide the relevant background information. After completing experimental sessions, students will be required to submit a formal lab report within two weeks; this report will be a chance for the students to apply the tools of experimental data analysis. Finally, students are encouraged to utilize AI tools and to critically explore the strengths and limitations of generative AI for enhancing their learning and comprehension of physics concepts, including understanding when generative AI works effectively and when it does not."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY003&psl_code=SEM2"
+    }
+  ]
+}

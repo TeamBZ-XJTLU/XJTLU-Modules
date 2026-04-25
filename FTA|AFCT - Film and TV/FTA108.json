@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Fiction Theory and Practice",
+  "module_code": "FTA108",
+  "offerings": [
+    {
+      "heading": "Fiction Theory and Practice",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Fiction Theory and Practice",
+        "module_code": "FTA108",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Fiction Theory and Practice",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to: build on the students’ practical skills and knowledge of production established during semester one and aims to develop their critical understanding of fiction film production as well as offering the opportunity to author a short fiction film.",
+        "Learning outcomes": "A Analyse the development of fiction forms and functions. B Demonstrate a critical and reflective appreciation of creating meanings within fiction in relation to a short narrative project. C Develop their knowledge of research and production techniques in relation to fiction production work. D Understand the nature of pre-production, production, and post-production work in relation to the production of a narrative short.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (lectures and practical workshops). The lectures will introduce students to the history, form and function of screen fiction as it has developed in both film and television and aims to develop their critical understanding of fiction production. The practical workshops will develop production skills such as planning, organisation, production management, camera, lighting, sound and post production techniques. Students will work in small crews to develop their ideas and produce their own narrative short film."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA108&psl_code=SEM2"
+    }
+  ]
+}

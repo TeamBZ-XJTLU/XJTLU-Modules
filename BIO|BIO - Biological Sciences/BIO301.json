@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Biology of Disease",
+  "module_code": "BIO301",
+  "offerings": [
+    {
+      "heading": "Biology of Disease",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Biology of Disease",
+        "module_code": "BIO301",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Biology of Disease",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will examine the molecular and biochemical processes that underlie a number of important human diseases. These diseases include common inherited diseases, diabetes, cardiovascular/neurological disorders and diseases of lipid metabolism, e.g. heart disease/stroke, atherosclerosis and obesity. The module will also allow the student to study critically the role of oncogenes and tumour suppressor genes in the development of human cancer, including their identification, followed by a general discussion of human cancer as a disease from the pathological and molecular biological viewpoints including concepts of progression and metastasis.",
+        "Learning outcomes": "A. Define how metabolic disorders can lead to diabetes and hypertension. B. Illustrate how protein defects can lead to genetic diseases, heart failure and neurological diseases. C. Interpret how problems in lipid metabolism cause disease and define the associated treatments. D. Define concepts of progression from normal to cancerous states and the classify the associated progression mechanisms. E. Recognise experimental systems used to decipher principles of development of human diseases, cancer and how they can be applied to solve problems in this area.",
+        "Method of teaching and learning": "Course content will be delivered primarily via standard lectures and tutorials that will be accompanied by suitable lecture handouts. Students will also be guided to sections of specific textbooks and/or reading of specific reviews."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO301&psl_code=SEM1"
+    }
+  ]
+}

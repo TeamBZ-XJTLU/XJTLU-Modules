@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Building Services Engineering",
+  "module_code": "CEN222",
+  "offerings": [
+    {
+      "heading": "Building Services Engineering",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Building Services Engineering",
+        "module_code": "CEN222",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Building Services Engineering",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce the principles of building services engineering systems including heating, ventilation, air conditioning, water supply systems, lighting, acoustic, electricity, and transportation systems in buildings. Additionally, it aims to realize the taught subject, contribute a design project of drainage by promoting teamwork and industrial awareness.",
+        "Learning outcomes": "A. Apply the fundamental theory of HVAC, lighting, acoustic, electricity, mechanical transportation, water supply, and sustainability to the building service systems design. B. Analyze and interpret building and building services information to apply on building service engineering system design. C. Design building services engineering systems by applying sustainable building services design principles according to green building standards. D. Appreciate building drainage design with environmental issues and real engineering problem solving.",
+        "Method of teaching and learning": "The content of the module is delivered through formal lectures, tutorials, and a group work based coursework."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN222&psl_code=SEM2"
+    }
+  ]
+}

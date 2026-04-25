@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "China’s Science, Technology, and Development",
+  "module_code": "CCS212",
+  "offerings": [
+    {
+      "heading": "China’s Science, Technology, and Development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "China’s Science, Technology, and Development",
+        "module_code": "CCS212",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "China’s Science, Technology, and Development",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces the conceptual shifts and policy applications of science and technology throughout modern China’s development history, situating them within both domestic reform processes and the wider global environment. It builds a cross-disciplinary foundation that integrates historical perspectives with policy analysis, equipping students with the analytical tools to understand how evolving ideas of science, innovation, and governance intersect with broader social and economic transformations in China. Within the BA China Studies programme, the module deepens students’ understanding of the intersections between China’s political economy and global affairs. It also develops transferable skills in evidence-based analysis and academic inquiry, while preparing students for advanced modules on China’s local government and international trade.",
+        "Learning outcomes": "A Evaluate how policy responses to science, technology, and development have evolved over time. B Explain and evaluate how science and technology from abroad have impacted China’s development. C Analyse the challenges and opportunities of implementing industrial policies within China’s social context. D Synthesise major technological, developmental, and sustainability issues in the context of globalisation. E Apply academic research skills to construct and present evidence-based arguments.",
+        "Method of teaching and learning": "This module will be delivered through a blended learning approach that combines formal instruction with interactive and student-led activities, designed to foster a dynamic and engaging learning environment. The primary modes of learning and teaching will include: Weekly lectures will introduce core ideas, concepts, cases, and key debates in the relevant literature. Seminars will provide a forum for in-depth discussion and critical engagement with the weekly topics. Students will be expected to complete the required reading and be prepared to participate actively in discussions and collaborative group activities. Seminars are designed to develop critical thinking, analytical skills, and the ability to articulate scholarly arguments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS212&psl_code=SEM2"
+    }
+  ]
+}

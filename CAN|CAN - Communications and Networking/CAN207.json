@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Continuous and Discrete Time Signals and Systems",
+  "module_code": "CAN207",
+  "offerings": [
+    {
+      "heading": "Continuous and Discrete Time Signals and Systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Continuous and Discrete Time Signals and Systems",
+        "module_code": "CAN207",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Continuous and Discrete Time Signals and Systems",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides students with fundamental knowledge of signal processing and system analysis in both time and frequency domains, developing their ability to mathematically model, analyze, and interpret engineering systems. Students will master essential techniques including Fourier analysis, Laplace transforms, and z-transforms, gaining the analytical skills required for advanced study in communications, control systems, and digital signal processing. The module serves as a critical foundation for subsequent courses, particularly in areas involving system design, signal processing, and communications engineering, while providing practical mathematical tools applicable across multiple engineering disciplines.",
+        "Learning outcomes": "A Analyze and mathematically represent continuous and discrete-time signals and linear time-invariant (LTI) systems, identifying properties such as causality, linearity, time invariance, and stability in time domain. B Construct representations of periodic and general signals using Fourier series and Fourier transforms, and apply the Sampling Theorem and Nyquist rate in signal sampling. C Solve problems in continuous-time circuits and systems analysis using Laplace transforms demonstrating an understanding of their principles and properties. D Apply the z-transform and discrete Fourier transform to analyze discrete-time systems, evaluating their uses in real-world applications. E Design and implement solutions for analyzing continuous and discrete signals and systems in both time and frequency domains, applying theoretical knowledge to practical scenarios.",
+        "Method of teaching and learning": "This module employs an integrated approach to develop students’ theoretical understanding and practical skills in signal and system analysis. Formal lectures establish core mathematical principles and analytical techniques, supported by after-class quizzes and problem sheets to reinforce conceptual mastery. Computer lab sessions provide hands-on experience -standard tools (e.g., MATLAB) for simulating and analyzing signals and systems, bridging theory with real-world applications."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN207&psl_code=SEM1"
+    }
+  ]
+}

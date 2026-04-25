@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Strategic Business Analysis",
+  "module_code": "IOM425",
+  "offerings": [
+    {
+      "heading": "Strategic Business Analysis",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Strategic Business Analysis",
+        "module_code": "IOM425",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Strategic Business Analysis",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to support the development of students’ business analysis and strategic decision making skills, and for the students to demonstrate the ability to research, analyze and present information coherently to support a recommended course of action.",
+        "Learning outcomes": "Students completing the module successfully should: A Demonstrate critical awareness of current research in business and management through independent analysis of a relevant business case. B Select and apply appropriate models, frameworks or tools to provide critical analysis of a business case. C Research and present convincing and reasoned arguments to formulate solutions for strategic action. D Analyze ambiguous information and make reasoned judgements and recommendations within a dynamic and changing environment.",
+        "Method of teaching and learning": "The module will cover decision-making and data analysis skills necessary for an independent case-based research project. The content will be delivered through lectures and tutorials. These will provide a comprehensive understanding of the tools and frameworks needed for effective analysis. Students will then undertake an independent research project based on a relevant business case. This project will involve desk-based, secondary research resources only. Throughout the project, students will be expected to apply the decision-making and data analysis skills they have learned during the taught component of the module. No dedicated project supervisor will be assigned. However, students will have access to support from the module leader and other academic staff. By the end of the module, students will be able to demonstrate critical awareness of current research in business and management through independent analysis of a relevant business case, select and apply appropriate models, frameworks or tools to provide critical analysis of a business case, research and present convincing and reasoned arguments to formulate solutions for strategic action, and analyze ambiguous information and make reasoned judgements and recommendations within a dynamic and changing environment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM425&psl_code=SEM1"
+    }
+  ]
+}

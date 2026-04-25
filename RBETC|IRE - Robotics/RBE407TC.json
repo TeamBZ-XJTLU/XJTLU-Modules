@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IRE",
+    "domain_code": "RBETC",
+    "full_name": "Robotics"
+  },
+  "full_name": "Advanced Robotics Algorithm Design",
+  "module_code": "RBE407TC",
+  "offerings": [
+    {
+      "heading": "Advanced Robotics Algorithm Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "RBETC",
+        "full_name": "Advanced Robotics Algorithm Design",
+        "module_code": "RBE407TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Robotics Algorithm Design",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to provide students with a comprehensive understanding of advanced algorithms used in robotics. Through the exploration of various optimization algorithms and navigation techniques, students will develop the skills necessary to design and implement efficient and effective algorithms for robotic systems. The module also focuses on kinematics, dynamics, and control of arm-type robots, enabling students to analyze and manipulate robotic manipulators accurately. These topics are directly applicable to real-world robotic applications, enabling students to design and develop algorithms that optimize robot performance, improve navigation capabilities, achieve accurate localization and mapping, and control robotic manipulators effectively. The module equips students with the necessary skills and knowledge to tackle complex algorithmic challenges in robotics, addressing the growing demand for professionals with expertise in advanced robotics algorithm design.",
+        "Learning outcomes": "A Demonstrate a thorough understanding of the fundamental principles and proficiently utilize various optimization algorithms. B Investigate the utilization of robotic algorithms for addressing intricate challenges in robotics, encompassing tasks such as path planning, optimizing trajectories, and refining robot parameters. C Demonstrate a thorough understanding of motion planning algorithms that empower robots to navigate intricate and ever-changing environments safely and effectively. D Design and optimize algorithms for various robot tasks, contributing to the advancement of robot systems across various domains. E Evaluate the performance of robotic systems in a sustainable manner.",
+        "Method of teaching and learning": "The teaching philosophy of the module adopts the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contributions from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially the use of problem-based assessment which is project-focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. This module will be delivered through lectures and lab practice. Teaching will be conducted using problem-based learning, with problems, approaches, guided and unguided practices embedded in the sessions. General transferable skills are developed through the presentation of written reports."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=RBE407TC&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SCI",
+    "domain_code": "SCI",
+    "full_name": "Science"
+  },
+  "full_name": "Scientific Principles and Methods",
+  "module_code": "SCI002",
+  "offerings": [
+    {
+      "heading": "Scientific Principles and Methods",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SCI",
+        "full_name": "Scientific Principles and Methods",
+        "module_code": "SCI002",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Scientific Principles and Methods",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides an introduction to critical scientific research methods and principles. A panel of academic staff with expertise in different areas such as AI, biology, chemistry, environmental sciences, and public health will each give lectures about contemporary topics in their areas of expertise, showcasing some of the unique methods, challenges and advantages of their area. The lecture materials will then be used by students to engage in group activities to practice the application of specific science skills such as experimental design evaluation and data analysis. Both the coursework and final exam will focus on assessing student competence in the skills that are practiced in class.",
+        "Learning outcomes": "A. Demonstrate the ability to understand the variables involved in an experimental design B. Evaluate the validity of experimental designs within the context of given scientific questions C. Demonstrate the ability to create new experimental designs D. Understand and apply the concept of control variables E. Process and analyse data to create new scientific questions and corresponding experimental designs",
+        "Method of teaching and learning": "Course content will be delivered using alternating sessions of lecture and in-class group activity, each lasting for two hours. Lectures and their corresponding activity sessions will always be delivered in sequence, with the lecture for a given topic delivered on one week and the corresponding group activities delivered the following week."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SCI002&psl_code=SEM1"
+    }
+  ]
+}

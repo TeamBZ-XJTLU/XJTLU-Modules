@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SCI",
+    "domain_code": "SCI",
+    "full_name": "Science"
+  },
+  "full_name": "Data Mining and Big Data Analytics",
+  "module_code": "SCI405",
+  "offerings": [
+    {
+      "heading": "Data Mining and Big Data Analytics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SCI",
+        "full_name": "Data Mining and Big Data Analytics",
+        "module_code": "SCI405",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Data Mining and Big Data Analytics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "In today's data-intensive world, the ability to handle and analyze large volumes of data is becoming increasingly crucial across numerous domains. Big data analytics has the potential to unlock valuable insights, drive innovation, and enhance decision-making processes. The aim of this module is to provide students with a comprehensive understanding of the core concepts, techniques, and applications of Data Mining and Big Data Analytics. The module covers a wide range of topics, including the fundamentals of big data, data mining algorithms, data processing frameworks, and modern tools and platforms used in big data solutions. A special emphasis is placed on hands-on experience with data processing and analysis, preparing students to tackle complex data-driven problems in various scientific and engineering fields. This module provides students with the tools and knowledge needed to integrate big data technologies into scientific research and practical applications. It offers a strong theoretical foundation while also equipping students with practical skills in data handling, analysis, and visualization. Upon completion of this module, students will gain valuable insights into big data techniques, data mining, and machine learning, ultimately laying a solid foundation for further study and research in this field. Students will learn to apply data analytics algorithms and tools to solve complex problems, which can be beneficial not only in big data-related roles but also in problem-solving across different domains, such as genomic sequence data analysis. This module includes hands-on projects, allowing students to gain practical experience in developing big data applications and building a portfolio of projects to showcase for future career development.",
+        "Learning outcomes": "A. Describe the fundamental concepts and principles of big data analytics, including the characteristics of big data (volume, velocity, variety, veracity, and value), and understand the basic architecture and operation principles of big data systems. B. Apply big data tools and techniques to process and analyze large-scale structured and unstructured data, and solve practical data-driven problems across different domains, such as data cleaning, transformation, and visualization. C. Demonstrate a deep understanding of the core concepts and algorithms in data mining, including classification, clustering, association rule mining, and anomaly detection, and their applications through the analysis of real-world datasets, the design and implementation of data mining models, and the critical evaluation of their performance in solving complex problems. D. Implement and apply big data techniques to analyze scientific data, enhancing the ability to extract valuable insights from data and support data-driven decision-making processes. E. Understand the importance of data privacy and security in big data analytics.",
+        "Method of teaching and learning": "This module adopts an integrated approach to teaching and learning, combining lectures, tutorials, and lab sessions to provide a comprehensive learning experience. This balanced method ensures that students not only understand the theoretical foundations of big data analytics but also develop the practical skills needed to apply these concepts in real-world scenarios. Lectures will serve as the primary medium for introducing key concepts, principles, and techniques in big data analytics. These sessions will cover topics such as the characteristics of big data, data mining algorithms, data processing frameworks, and modern tools and platforms. Lectures will also highlight the importance of data privacy and security, ensuring that students are aware of the ethical considerations in handling large datasets. Tutorials will provide a platform for in-depth discussions and problem-solving. Students will engage with case studies and real-world examples to deepen their understanding of the material. Tutorials will also offer opportunities for students to ask questions, clarify doubts, and receive feedback on their progress. This interactive format encourages critical thinking and fosters a collaborative learning environment. Lab Sessions are designed to give students hands-on experience with big data tools and platforms. Through practical exercises and projects, students will develop skills in data processing, analysis, and visualization. Lab sessions will also provide opportunities for students to work on individual and group projects, allowing them to apply their knowledge to solve complex data-driven problems. This practical experience is crucial for building confidence and preparing students for future careers in big data analytics. Overall, this method of teaching and learning emphasizes the importance of both theoretical knowledge and practical application. By combining lectures, tutorials, and lab sessions, the Big Data module aims to equip students with the skills and confidence needed to tackle complex data challenges and contribute effectively to their future academic and professional endeavors."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SCI405&psl_code=SEM2"
+    }
+  ]
+}

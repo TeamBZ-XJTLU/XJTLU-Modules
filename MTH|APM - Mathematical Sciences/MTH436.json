@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "APM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Advanced Statistical Learning Theory",
+  "module_code": "MTH436",
+  "offerings": [
+    {
+      "heading": "Advanced Statistical Learning Theory",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Advanced Statistical Learning Theory",
+        "module_code": "MTH436",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Statistical Learning Theory",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is an advanced course in statistics and data analysis, with focus on introducing students to frontier statistical learning techniques using applications in R computer-based package. This module will illustrate how such statistical tools can aid in data analysis and in solving problems in practice. The module covers many prominent topics in statistical learning, including resampling methods, model selection and regularisation, decision tree and random forest, maximum mean discrepancy, and support vector machine.",
+        "Learning outcomes": "A. Explain and apply linear regression and classification for data analysis. B. Identify and implement resample methods, including various cross-validation methods and Bootstrap. C. Discuss and apply linear model selection and the concept of regularization. D. Explain the shrinkage methods, Lasso and Ridge regression. E. Classify and make use of regression and classification trees. F. Illustrate and utilise the concepts of Bagging, Random forest and Boosting in data analysis. G. Explain and apply mean embedding and maximum mean discrepancy to two-sample testing. H. Identify and implement support vector machine for data analysis.",
+        "Method of teaching and learning": "This module is delivered through formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH436&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Coding and Cryptography",
+  "module_code": "CAN408",
+  "offerings": [
+    {
+      "heading": "Coding and Cryptography",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Coding and Cryptography",
+        "module_code": "CAN408",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Coding and Cryptography",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a comprehensive understanding of information theory, coding theory and cryptography regarding mathematical principles, methodologies and engineering applications. Mathematical laws that govern the capacity and design of a communication system are treated in this module, in a way that students develop intuition and skills as a system designer covering aspects of the entire communication system. This module lays the methodological and analytical foundation that is necessary for the students in their engineering practice and academic research.",
+        "Learning outcomes": "A. Critically evaluate the theoretical foundations of coding and information theory in modern communication systems, analysing their role in real-world applications and the trade-offs between their key components. B. Analyse the principles of modern cryptography and evaluate the security properties of symmetric and asymmetric cryptosystems. C. Select and develop source coding algorithms to implement effective data and multimedia compression schemes, justifying the approach taken. D. Design and implement channel coding schemes to provide specified error detection and correction capabilities for reliable data transmission. E. Develop, implement, and critically evaluate cryptographic protocols to encrypt and decrypt data for secure communication systems.",
+        "Method of teaching and learning": "This module is delivered through a combination of formal lectures, tutorials and oral presentation. Students engage in interactive lecture and tutorial sessions. Personalized guidance is provided to students during the tutorials in a flipped class setting. Students are tasked to practice and demonstrate independent study and communicate effectively complex engineering theorems through presentations."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN408&psl_code=SEM2"
+    }
+  ]
+}

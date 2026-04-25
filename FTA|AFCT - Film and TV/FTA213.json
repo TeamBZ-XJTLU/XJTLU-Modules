@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Film and TV Cultures",
+  "module_code": "FTA213",
+  "offerings": [
+    {
+      "heading": "Film and TV Cultures",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Film and TV Cultures",
+        "module_code": "FTA213",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Film and TV Cultures",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module builds on the Introduction to Film and TV that students studied at Level 4. It explores key theories in arts and social sciences and applies them to film and television. It examines critical approaches to the study of culture, such as Marxism, feminism, queer theory, critical race theory, psychoanalysis, postcolonial theory, trans-national and trans-media theories.",
+        "Learning outcomes": "A Explore the historical development of film and television as both a specific form and as part of changing forms of content as technologies advance B Articulate film and television’s convergence with networked computer technologies C Understand the critical approaches to film and film cultures D Understand the critical approaches to television and television cultures E Compose researched film and television criticism",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (lectures and tutorials/screenings). The lectures will complement readings on the historical development of film and television as specific technologies with particular forms of content and their transformation into digital technologies with unclear deliniations and readings on the critical approaches to the study of media and culture. Lectures will also instruct students in the construction of critical arguments about the relationship between film, television, and culture. The tutorials/screenings will focus on related film and television shows each week and provide time for unstructured discussion."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA213&psl_code=SEM2"
+    }
+  ]
+}

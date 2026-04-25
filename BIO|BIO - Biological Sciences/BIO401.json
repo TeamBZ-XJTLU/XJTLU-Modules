@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Research Methods in Biotechnology",
+  "module_code": "BIO401",
+  "offerings": [
+    {
+      "heading": "Research Methods in Biotechnology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Research Methods in Biotechnology",
+        "module_code": "BIO401",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Research Methods in Biotechnology",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide students with lab-based training in DNA manipulation, protein biochemistry, and large-scale screening for bioactive compounds",
+        "Learning outcomes": "CODE OUTCOME A demonstrate a critical awareness and understanding of the latest advances in biotechnological methods and how to apply these methods to a research project B Critically discuss the principles of the latest methodologies for the generation of protein expression vectors C Evaluate the principles of the latest methodologies for the expression and biochemical characterization of recombinant proteins, and the application of these molecules in drug discovery programmes D Appraise the processes required for high throughput screening technologies to identify small molecules with potential for development of new pharmaceuticals E apply, critically evaluate and interpret the knowledge and understanding gained to solve complex problems in biology",
+        "Method of teaching and learning": "Lectures and tutorials will be offered in the first two weeks and a core practical will follow in weeks 3 and 4. The last week will be used for wrap up and discussion of report writing or assignments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO401&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "Ethics, Privacy, Artificial Intelligence in Society",
+  "module_code": "DTS404TC",
+  "offerings": [
+    {
+      "heading": "Ethics, Privacy, Artificial Intelligence in Society",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DTSTC",
+        "full_name": "Ethics, Privacy, Artificial Intelligence in Society",
+        "module_code": "DTS404TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Ethics, Privacy, Artificial Intelligence in Society",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to explore the ethical considerations and implications of Artificial Intelligence (AI) technologies in our society. It focuses on the impact of AI on privacy, ethics, and human rights, and aims to critically analyze and discuss various ethical issues arising from the use of AI. It equips students with the necessary knowledge and skills to engage in responsible and ethical AI development and usage. This module is suitable for individuals interested in AI, technology, and ethics. It is especially relevant for students studying AI, data science, computer science, or any other field where AI technologies are being utilized.",
+        "Learning outcomes": "A Discuss and appraise ethical principles and theories that apply to AI technologies B Critically assess the potential risks and benefits of AI technologies regarding privacy and the use of personal data C Demonstrate a deep understanding of the importance of transparency, accountability, and fairness in AI systems D Propose and critique informed ethical decision-making policies and guidelines on the adoption and use of AI technologies responsibly E Critically evaluate the ethical implications of AI in diverse industrial and societal contexts",
+        "Method of teaching and learning": "The teaching methods include lectures, where the instructor provides an overview of the key concepts, theories, and case studies related to AI ethics. These lectures may also involve discussions and debates to encourage critical thinking and analysis. In addition to lectures, the module may also incorporate interactive activities, such as group discussions, role-playing scenarios, and case studies. These activities aim to facilitate students' understanding of real-world ethical dilemmas and encourage them to apply ethical frameworks and principles to generate informed solutions. To enhance the learning experience, students may be assigned readings, research papers, and multimedia resources that explore different ethical perspectives and debates surrounding AI. This encourages independent study and allows students to deepen their knowledge and engage critically with the subject matter. In addition, students will be expected to devote unsupervised time to private study. Private study will provide time for reflection and consideration of lecture material and background reading."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS404TC&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Reinforcement Learning",
+  "module_code": "INT411",
+  "offerings": [
+    {
+      "heading": "Reinforcement Learning",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INT",
+        "full_name": "Reinforcement Learning",
+        "module_code": "INT411",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Reinforcement Learning",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a comprehensive foundation in reinforcement learning (RL), equipping them with both theoretical knowledge and practical skills. The module aims include establishing fundamental concepts, developing algorithmic skills, addressing complex problems, integrating theory and practice, fostering research literacy. In summary, this module not only prepares students for professional careers in the field of artificial intelligence/reinforcement learning, but also cultivates adaptable, interdisciplinary problem solvers. By integrating theory, algorithm design, and practical experiments, this module enables students to flexibly address real-world challenges across various fields.",
+        "Learning outcomes": "A. Critically evaluate the theoretical foundations, fundamental techniques, and recent advances in reinforcement learning, analysing their underlying assumptions and comparative strengths. B. Analyse complex engineering problems and formulate them into tractable reinforcement learning tasks, justifying the formulation in terms of states, actions, rewards, and constraints. C. Design, implement, and validate reinforcement learning algorithms to solve defined problems, optimising their performance against specified objectives such as sample efficiency, stability, and computational cost. D. Critically assess the legal, social, and ethical implications of deploying reinforcement learning systems, evaluating potential risks such as safety, fairness, and alignment, and proposing suitable mitigation strategies.",
+        "Method of teaching and learning": "The teaching and assessment methods aim to progressively develop students' conceptual understanding, algorithmic proficiency, and practical problem-solving abilities in reinforcement learning (RL). Lectures： Interactive courses covering core concepts of reinforcement learning (Markov decision processes, Bellman equations, model-free methods). Exploring recent advancements (deep reinforcement learning, multi-agent systems) and their ethical implications (safety, fairness, transparency). Lab Sessions: Practical programming exercises using reinforcement learning frameworks (OpenAI Gym, PyTorch, TensorFlow). Guided implementation of classic reinforcement learning algorithms (Q-learning, SARSA, policy gradient). Performance benchmarking and hyperparameter tuning to optimize agent behavior. Tutorials: Discussions on algorithm selection and trade-offs for different problem types (sample efficiency vs. computational cost, exploration vs. exploitation), helping students review and reinforce key concepts and algorithms in reinforcement learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT411&psl_code=SEM1"
+    }
+  ]
+}

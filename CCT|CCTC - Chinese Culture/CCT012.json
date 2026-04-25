@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCTC",
+    "domain_code": "CCT",
+    "full_name": "Chinese Culture"
+  },
+  "full_name": "Situation and Policy",
+  "module_code": "CCT012",
+  "offerings": [
+    {
+      "heading": "Situation and Policy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCT",
+        "full_name": "Situation and Policy",
+        "module_code": "CCT012",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "1",
+        "Module Level": "Level 0",
+        "Module Title": "Situation and Policy",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is the main channel and the main position to educate college students about the domestic and international situation, as well as the important policies of the Party and the country. It plays an important role in the ideological and political education of college students. This module explores and adheres to the guidance of Mao Zedong thought, Deng Xiaoping theory and ‘three represents’ important thought, the concept of scientific development, and Xi Jinping thought on the new era of socialism with Chinese characteristics. As such, the module is closely related to the international and domestic situation, aiming at engaging the contemporary issues and ideological concerns most relevant to students. The module will help students keep up with major current events at home and abroad, to understand the party’s line, principles and policies. The module explores and enhances awareness of patriotism, enhances national self-awareness and self-understanding, and supports the development of a sense of social responsibility and an overarching sense of mission and purpose in national and global contexts. 本课程是中宣部、教育部规定的本科生必修课程，是高等学校学生思想政治教育的重要内容，是理论武装实效性、释疑解惑针对性、教育引导综合性都很强的一门高效思想政治理论课，是对大学生进行国内国际形势教育，以及党和国家重要方针政策教育的主渠道、主阵地，是高校大学生的必修课程。在大学生思想政治教育工作中担负着重要使命，具有不可替代的重要作用。 本课程坚持以毛泽东思想、邓小平理论、“三个代表”重要思想、科学发展观、习近平新时代中国特色社会主义思想为指导，紧密国际国内形势，针对学生关注的热点问题和思想特点，帮助学生及时了解国内外重大时事，正确认识和全面理解党的路线、方针和政策，认清形势，把握政策，明确使命，激发爱国主义热情，增强民族自信心、社会责任感、时代使命感。",
+        "Learning outcomes": "A.Understand the domestic current affairs, the social development and the theory & vivid practice of socialism with Chinese characteristics in the new era. 让学生了解国内时事、形势、社会发展动态及新时代中国特色社会主义理论和生动实践。 B.Demonstrate an understanding of the current international situation, international relations and China's foreign policies and positions. 让学生了解当前国际形势与国际关系状况、发展趋势和我国的对外政策、原则立场。",
+        "Method of teaching and learning": "Course lecture will be conducted both online and offline, Learning Mall Online and Utalk will be used to collect information and provide feedback to students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCT012&psl_code=ACYR"
+    }
+  ]
+}

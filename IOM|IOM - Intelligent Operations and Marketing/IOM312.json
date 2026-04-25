@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Data Visualization",
+  "module_code": "IOM312",
+  "offerings": [
+    {
+      "heading": "Data Visualization",
+      "listing": {
+        "academic_year": "2028/29",
+        "domain_code": "IOM",
+        "full_name": "Data Visualization",
+        "module_code": "IOM312",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2028/29",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Data Visualization",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide the students with the fundamentals of data visualization and how to use various tools to reach the root of the data and create an engaging, informative, compelling story for effective communication.",
+        "Learning outcomes": "A Understand the basic concepts and techniques of data visualization. B Use appropriate tools to visualize data. C Interpret visualized data to support decisions. D Develop comprehensive storytelling with data visualization for communication with different audiences.",
+        "Method of teaching and learning": "The module delivery is designed with a combination of lectures and tutorials. Lectures will focus on explaining essential knowledge of academic content and practical skills. Tutorials will use real business data visualization exercises to guide students on how to apply lecture content into practical use."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM312&psl_code=SEM1"
+    }
+  ]
+}

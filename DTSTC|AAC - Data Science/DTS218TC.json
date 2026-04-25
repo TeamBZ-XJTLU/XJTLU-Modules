@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "DTSTC",
+    "full_name": "Data Science"
+  },
+  "full_name": "AI for Multimodal data",
+  "module_code": "DTS218TC",
+  "offerings": [
+    {
+      "heading": "AI for Multimodal data",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "DTSTC",
+        "full_name": "AI for Multimodal data",
+        "module_code": "DTS218TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "AI for Multimodal data",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The primary aim of the module is to introduce AI techniques used to process multimodal data, such as text, images, and audio. It will help students understand how to develop AI models that can combine different data types for applications in areas such as intelligent systems, robotics, and more. This module fits within the broader AI and data science curriculum and builds on earlier programming and data structures courses, preparing students for more advanced AI and machine learning modules.",
+        "Learning outcomes": "A Identify the key challenges in analyzing multimodal data and explain the basic AI techniques used to address them. B Apply fundamental techniques for processing textual data and image data. C Develop simple multimodal AI models that combine different types of data (e.g., text, images, and audio). D Implement, evaluate, and test AI models to solve real-world problems.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This philosophy is carried through in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. This module will be delivered through a combination of lectures, group discussions, case studies, and hands-on practical exercises etc. Lectures and group discussions are conducted using the Problem Based Learning paradigm focusing on student-centered learning, where they develop critical thinking and problem-solving skills to address open-ended problems that lacks a straightforward solution This module is taught with an emphasis on student learning through practice and by projects, facilitated by a module leader, and where appropriate, industrial mentors. Students can identify particular areas of learning needs or interests according to the available project(s). They will conduct independent research to gather information and resources to better define the problem. Progress towards the learning outcomes will be facilitated and monitored, where students are guided to progressively address the given problem through tasks. Independent learning will form an important aspect of the educational activities in this module. Case studies will be used to provide students with real-world examples of how the concepts and techniques covered in this module can be applied. Lab/Practical sessions will allow students to apply the techniques and tools acquired to solve real-world industry focused problems. Assessed primarily by a project, students shall gain practical experience in undertaking independent study and research on industry focused real-world problems. This module will leverage generative AI to enhance course content and teaching methods in line with the learning outcomes. By integrating advanced AI technologies, we aim to improve the efficiency of teaching and interaction, while fostering greater student autonomy and flexibility in learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS218TC&psl_code=SEM2"
+    }
+  ]
+}

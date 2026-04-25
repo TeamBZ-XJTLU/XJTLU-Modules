@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Cell Signalling",
+  "module_code": "BIO208",
+  "offerings": [
+    {
+      "heading": "Cell Signalling",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Cell Signalling",
+        "module_code": "BIO208",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Cell Signalling",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will examine the molecular mechanisms that allow cells to communicate with each other. The basic properties common to all signalling pathways will be studied and then a series of individual pathways will be examined in more detail, in the light of these general principals. The importance of cellular signalling mechanisms will be illustrated by examining diseases (e.g. cancer) that result from defects in those mechanisms.",
+        "Learning outcomes": "A. Learn the common features shared by different means of communication between cells. B. Understand the molecular mechanisms of the major cell-signalling pathways. C. Acquire the knowledge of the ways in which different cell-signalling pathways may be integrated. D. Obtain basic knowledge of the involvement of defective cell-signalling in diseases such as cancer. E. Understand how the signalling principles have been developed and applied to other areas of biology, and know the methods and appropriate approaches required to solve problems in this area.",
+        "Method of teaching and learning": "Course content will be delivered primarily via standard lectures, that will be accompanied by suitable lecture handouts. Students will also be guided to sections of specific textbooks and/or reading of specific reviews."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO208&psl_code=SEM2"
+    }
+  ]
+}

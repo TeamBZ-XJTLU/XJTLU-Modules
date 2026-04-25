@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Exploring the World Through Data",
+  "module_code": "APH003",
+  "offerings": [
+    {
+      "heading": "Exploring the World Through Data",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Exploring the World Through Data",
+        "module_code": "APH003",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Exploring the World Through Data",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Data in the real world are dynamic and sometimes messy. This complexity can intimidate students who are new to math and statistics – but it’s also what makes statistics interesting. This module aims to introduce topics in statistics and to describe and discuss the potential scope of their applications.",
+        "Learning outcomes": "A Describe statistical data. B Understand basic probability theory. C Perform simple goodness-to-fit tests.",
+        "Method of teaching and learning": "Course content will be delivered primarily via standard lectures that will be accompanied by suitable lecture handouts (also available on LMO). Tutorials will be given as a platform to address any specific question or issue from individual students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH003&psl_code=SEM2"
+    }
+  ]
+}

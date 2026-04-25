@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Introduction to Probability and Statistics",
+  "module_code": "MTH113",
+  "offerings": [
+    {
+      "heading": "Introduction to Probability and Statistics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Introduction to Probability and Statistics",
+        "module_code": "MTH113",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Probability and Statistics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The theories of probability and statistics play a fundamental role in future studies in various areas such as mathematics, science, medicine engineering, etc. The module begins by introducing statistical data analysis for univariate and bivariate data. It then formally introduces the concept of probability, random variables, and their probability distributions. Those frequently used discrete and continuous random variables (distributions) are introduced with an emphasis on learning the key properties of each distribution. Finally, the module makes the connection from the probability distribution theory to sampling distributions in statistical data analysis.",
+        "Learning outcomes": "A. Describe univariate data numerically and graphically. B. Describe bivariate data numerically and graphically. C. Define the concept and perform calculations of various probabilities. D. Explain and calculate probability, expectation, variance, and covariance for random variables. E. Work with commonly used distributions such as Bernoulli, Binomial, Geometric, Uniform, Poisson, Exponential, and Normal distributions and perform various calculations related to them. F. Understand the concept of the sampling distribution, and be able to calculate probabilities related to the sample mean and the sample proportion.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH113&psl_code=SEM1"
+    }
+  ]
+}

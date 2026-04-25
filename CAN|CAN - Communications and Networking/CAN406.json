@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Multimedia Communications",
+  "module_code": "CAN406",
+  "offerings": [
+    {
+      "heading": "Multimedia Communications",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Multimedia Communications",
+        "module_code": "CAN406",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Multimedia Communications",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to the critical issue of reliable transmission of multimedia contents over non-reliable networks, where data transmission may suffer from packet losses, bit errors, packet delay & jitter and out-of-order packet delivery, and provide an overview of various techniques to counter those effects of networks with focus on robust coding and error concealment. This module is a core part of the MSc Multimedia Telecommunications programme. It builds upon students’ foundational knowledge of digital communication and prepares them for advanced topics such as multimedia networking and video streaming. The skills and concepts covered in this module are directly applicable to careers in multimedia systems, network engineering, and key application areas such as real-time video communication and cloud-based media delivery.",
+        "Learning outcomes": "A. Evaluate the effects of non-reliable networks on the transmission of multimedia contents through them. B. Build mathematical and simulation models of packet losses and delays to systematically investigate their effect on multimedia data. C. Demonstrate the ability to mitigate risks related to multimedia data transmission, especially their vulnerability to bit errors and packet losses in the network. D. Select and apply error resilient techniques to given multimedia applications and network environments. E. Assess inclusive state-of-the-art multimedia transmission technologies.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures and supervised laboratory sessions. Lectures are designed to introduce theoretical foundations and algorithms for multimedia communications, supported by real-world examples and case studies. They aim to develop students’ conceptual understanding and analytical thinking. Laboratory sessions provide hands-on experience with multimedia transmission systems. Students will implement and test error-resilient techniques, analyze performance under varying network conditions, and develop practical solutions for multimedia delivery over unreliable networks. Through this, students consolidate lecture content, strengthen problem-solving abilities, and apply theoretical principles in realistic contexts. Independent study complements lectures and labs, allowing students to explore research literature and deepen their understanding of current trends in multimedia communications."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN406&psl_code=SEM2"
+    }
+  ]
+}

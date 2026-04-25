@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Project Management Software Skills and PMP certification",
+  "module_code": "IOM447",
+  "offerings": [
+    {
+      "heading": "Project Management Software Skills and PMP certification",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Project Management Software Skills and PMP certification",
+        "module_code": "IOM447",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Project Management Software Skills and PMP certification",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module combines hands-on training in project management software with comprehensive preparation for the PMP certification exam. Students will: 1. Master the use of project management software such as Microsoft Project 2016 (or a higher version) for creating and optimising project schedules and tracking progress. 2. Prepare students for the Project Management Professional (PMP/IPMP) certification by illustrating the PMP/IPMP framework, exam focuses, trends and developments. By integrating practical skills and certification preparation, this module prepares students for real-world project management scenarios and professional advancement in preparing for a professional career.",
+        "Learning outcomes": "A. Understand the fundamental concepts and process flows in project management, such as project objectives and deliverables, work breakdown structure, resource categories, stakeholders, etc. B. Construct a project schedule and demonstrate it by using project management software. C. Allocate appropriate resources and resolve conflicts to reach a trade-off between project duration and costs. D. Know the approaches to optimize the project schedule as well as the project cost baseline. E. Monitor the project progress by tracking the Gantt chart. F. Know the criteria and processes of the two well-established PMP/IPMP certification systems.",
+        "Method of teaching and learning": "Lectures: focused on fundamental concepts and process flows in project management, and PMP exam topics to elaborate on the software skills and how to prepare for the certification. Lab/Practicals: Students will practice software tools under guided tutorials in computer labs, or attend online mock exams of the PMP/IPMP certification in computer labs. Self-Study: Students will engage with key project management textbooks and software manuals to reinforce classroom learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM447&psl_code=SEM2"
+    }
+  ]
+}

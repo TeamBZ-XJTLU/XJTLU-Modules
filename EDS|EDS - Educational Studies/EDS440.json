@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Practice-based Inquiry in Education",
+  "module_code": "EDS440",
+  "offerings": [
+    {
+      "heading": "Practice-based Inquiry in Education",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Practice-based Inquiry in Education",
+        "module_code": "EDS440",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Practice-based Inquiry in Education",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of the module help course participants reflect on their personal education practitioner values, theories, beliefs and philosophies, and how these tenets and axioms significantly influence practitioners’ decision-making process. This module prepares the course participants to carry out a practice-based research approach, and work towards viable solutions to maintain high quality of learning. The approach promotes practitioners’ independence in the problem-solving process. Moreover, the ultimate goal of this module is to tread a path to continuing professional development.",
+        "Learning outcomes": "A Demonstrate understanding of key concepts in practice-based inquiry carried out by education practitioners for education practitioners and their stakeholders, in application to an educational context. B Demonstrate understanding of key concepts in reflection in application to the education practitioner. C Examine the challenges in the professional context and evaluate the possible solutions on the basis of data obtained through peer-and self-observation, and reflection. D Conduct and disseminate an action research project to other education practitioners.",
+        "Method of teaching and learning": "The module is comprised of lectures, tutorials, and the fieldwork for (exploratory) action research. A two-hour lecture will be delivered weekly on campus. A minimum of 24-hour of fieldwork will be required for students to conduct a fast & dirty (exploratory) action research project. Two 30-minute tutorials for this module will be conducted online for each student with the course leader."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS440&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Introduction To The Practice Of Statistics",
+  "module_code": "ECO102",
+  "offerings": [
+    {
+      "heading": "Introduction To The Practice Of Statistics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Introduction To The Practice Of Statistics",
+        "module_code": "ECO102",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction To The Practice Of Statistics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to develop in students an understanding of fundamental statistical concepts and basic application of those concepts in real world cases. Descriptive Statistics and Inference Statistics will be covered. Students will also be introduced to regression analysis through simple linear regression.",
+        "Learning outcomes": "A. show understanding of basic statistical concepts, such as mean, median, discrete and continuous random variables, and probability distributions. B. summarise, describe and present raw data C. demonstrate understanding of basic probability theory, such as probability rules, means and variance of random variables. D. explain basic principles of sampling. E. apply statistical inference, such as confidence interval and tests of significance. F. analyse the relationship between variables using simple regression and correlation techniques",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures and tutorials. Lectures will be designed to provide essential information and introduce students to the basic tools of analysis, including some basic practice in applying the techniques. Tutorials will be based around exercise sheets, the completion of which and their discussion in workshops will provide students with a learning opportunity designed to extend the material introduced in the lectures. Exercises will be designed to introduce students to the usage of basic functions of statistical software."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO102&psl_code=SEM1"
+    }
+  ]
+}

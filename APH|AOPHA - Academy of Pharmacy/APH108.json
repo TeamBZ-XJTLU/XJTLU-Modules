@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Fundamental Biochemistry in Pharmacy",
+  "module_code": "APH108",
+  "offerings": [
+    {
+      "heading": "Fundamental Biochemistry in Pharmacy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Fundamental Biochemistry in Pharmacy",
+        "module_code": "APH108",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Fundamental Biochemistry in Pharmacy",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a fundamental understanding of Biochemistry, specifically tailored to the field of pharmacy. The importance of biochemical processes in drug action and metabolism will be highlighted. Students will gain a comprehensive understanding of the molecular structures of various bioorganic molecules, which are essential for drug design and formulation.",
+        "Learning outcomes": "A. define key biochemistry concepts relevant to drug action, including molecular targets and drug-receptor interactions. B. understand the roles of amino acids, proteins, lipids, carbohydrates, and enzymes in drug design, delivery, and metabolism. C. explain the principles of chemical reactions involved in drug metabolism, including enzyme-catalyzed reactions. D. develop laboratory skills that will aid in understanding biochemical principles. E. apply, evaluate, and interpret biochemical knowledge to solve problems related to drug design, and pharmacological effects.",
+        "Method of teaching and learning": "Course content will be delivered primarily via standard lectures. Training in lab skills will be provided in the practical sessions. Lecture handouts/ lab notes/ and reports will complement the learning experience. Students will also be guided to sections of specific textbooks or other materials which will be made available on the Learning Mall Online."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH108&psl_code=SEM2"
+    }
+  ]
+}

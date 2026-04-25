@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "UPD",
+    "full_name": "Urban Planning and Design"
+  },
+  "full_name": "Introduction to Urban Planning and Design",
+  "module_code": "UPD004",
+  "offerings": [
+    {
+      "heading": "Introduction to Urban Planning and Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "Introduction to Urban Planning and Design",
+        "module_code": "UPD004",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Introduction to Urban Planning and Design",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this Year 1 module is to prepare students for study on BA/BEng Urban Planning and Design. This module provides students a basic understanding of what a city is and how urban planners and designers understand and influence cities.",
+        "Learning outcomes": "A. Demonstrate a basic understanding of concepts and theories relevant to urban planning and design B. Demonstrate the basics of the practice of urban planning and design C. Demonstrate basic skills for analyzing urban environments, including observation and sketching D. Demonstrate basic visual communication skills including sketching, hand-drawing, and mapping",
+        "Method of teaching and learning": "Lectures provide a general outline of the theories and practice of urban planning and design while practical sessions give students hands-on training in skills and connect theory with practice. Some sessions on this module may be delivered by Language Centre tutors with the aim of assisting students with language/study skills requirements for the module. Students may also be provided with online language/study support to help them engage with the module content."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD004&psl_code=SEM2"
+    }
+  ]
+}

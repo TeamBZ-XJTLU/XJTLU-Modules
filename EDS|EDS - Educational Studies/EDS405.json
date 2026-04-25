@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Educational Leadership",
+  "module_code": "EDS405",
+  "offerings": [
+    {
+      "heading": "Educational Leadership",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Educational Leadership",
+        "module_code": "EDS405",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Educational Leadership",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are to: 1. Develop students’ knowledge and understanding of education leadership and to reflect upon its application in different contexts. 2. Develop students’ understanding of leading and managing educational innovation in international contexts. 3. Appreciate the role of culture in leading and managing educational innovation in international contexts.",
+        "Learning outcomes": "A. Demonstrate critical understandings of key educational issues associated with the processes of leadership in education B. Critically assess educational leadership practices as they have developed in the context of global educational C. Show a critical understanding of the impact of culture upon the processes of educational leadership D. Critically reflect on the consequences of leadership and management of educational in diverse international contexts.",
+        "Method of teaching and learning": "The teaching sessions are interactive and designed using a project-based approach where appropriate. They are divided into two components, lectures and tutorials/workshops."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS405&psl_code=SEM1"
+    }
+  ]
+}

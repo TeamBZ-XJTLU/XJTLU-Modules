@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ELC",
+    "domain_code": "LAN",
+    "full_name": "Comprehensive Use of Language"
+  },
+  "full_name": "Introduction to Sustainability",
+  "module_code": "LAN007",
+  "offerings": [
+    {
+      "heading": "Introduction to Sustainability",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LAN",
+        "full_name": "Introduction to Sustainability",
+        "module_code": "LAN007",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Introduction to Sustainability",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to equip students with a foundational understanding of sustainability which can then be holistically applied to both singular and/or multiple academic disciplines, depending on the students’ academic interests. This course is intended to introduce the breadth of sustainability. A key focus of the module will be the four pillars of sustainability, namely environment, economic, social, and human-related sustainability. Along with content knowledge, this module will require students to reflect on their own sustainability practices, collaborate in teams, utilize communicative English skills, and apply knowledge to real-world situations. Students will study global initiatives, analyze local behaviours including their own personal ones, and create proposals that reflect consideration of all four pillars of sustainability. This module is part of the Y1 Optional suite of modules.",
+        "Learning outcomes": "A Demonstrate a basic understanding of key concepts and issues related to sustainability. B Reflect on sustainability practices (including their own personal practice). C Create a proposal which incorporates various aspects of theory and practice in the areas of sustainability.",
+        "Method of teaching and learning": "Students will have a one-hour lecture followed by a 2-hour seminar which provides them with 3 hours of contact time and approximately 3 hours of self-study per week. The seminars will be conducted using various teaching approaches and methods that encourage students to discover and negotiate meaning and knowledge by working with peers. Using the necessary module content presented in the lectures, students can learn independently and gain further insights during seminar sessions. These methods will include a mix of group activities, flipped-classroom pre-lesson readings as well as videos, workshops, and online activities. The module is aimed at encouraging 21st century skills such as complex problem solving, critical thinking, service orientation, collaboration, and negotiation. This will be achieved through various activities that allow students to explore the concept of sustainability and how they can engage in and be part of the solution to challenges in global sustainability. The module will encourage critical thinking and creativity by requiring students to participate in a project that includes a personal sustainability portfolio and a small group sustainability proposal project. There will be a focus on collaboration and communication as students work together in small groups and design a possible solution for an sustainability challenge in an existing ecosystem. Students will also be given guidance on and opportunities to practice working with different angles of information and understanding information from various outlets. In-class sessions can be partially replaced by online teaching provision when external circumstances require so or when deemed useful and appropriate for didactic purposes. Coursework assessments will provide occasion for students to potentially build their flexibility to address changing circumstances, take leadership, and develop learner autonomy. The assessments will typically take place in a teaching week."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LAN007&psl_code=SEM2"
+    }
+  ]
+}

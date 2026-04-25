@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Economic Principles for Business and Markets",
+  "module_code": "ECO104",
+  "offerings": [
+    {
+      "heading": "Economic Principles for Business and Markets",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Economic Principles for Business and Markets",
+        "module_code": "ECO104",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Economic Principles for Business and Markets",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to demonstrate to students, via topical arguments of relevance to business students, how modern economics can illuminate the problems that businesses (both national and international) face on a day-to-day basis.",
+        "Learning outcomes": "A. Demonstrate understanding of the processes and methods by which individuals, companies and transnational corporations manage the allocation of resources in both domestic and international contexts. B. Demonstrate understanding of how companies respond to macroeconomic forces in the global economy. C. Demonstrate the ability to apply academic communication skills relevant to module contents.",
+        "Method of teaching and learning": "This module will be delivered via a combination of lectures, tutorials and seminars. Lectures will be designed to provide essential information and introduce students to the basic tools of analysis. A programme of tutorials will provide students with a learning opportunity designed to extend the material introduced in the lectures, through the in-depth analysis of a selection of specific real-life problems faced by individuals and businesses, in the context of both the national and international economies. Seminars will complement the core teaching by offering targeted support to strengthen students' academic engagement with the module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO104&psl_code=SEM2"
+    }
+  ]
+}

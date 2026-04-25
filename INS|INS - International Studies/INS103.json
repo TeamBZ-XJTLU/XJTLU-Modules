@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "World History: Twentieth Century to Today",
+  "module_code": "INS103",
+  "offerings": [
+    {
+      "heading": "World History: Twentieth Century to Today",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "World History: Twentieth Century to Today",
+        "module_code": "INS103",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "World History: Twentieth Century to Today",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides an introduction to world history from the start of the 20th century to today, with a particular focus on the post-WWII international order. Social, political and economic developments in Asia, Africa, the Americas and Europe in this period will be examined within the larger framework of international structures and processes that affect all.",
+        "Learning outcomes": "A. Understand the major events and developments that have shaped contemporary international systems B. Understand the historical dynamics of globalisation and the formation of international systems C. Demonstrate analytical skills in the causal mechanisms that shape historical processes D. Analyse connections and comparisons across different geographic regions in the understanding of world history",
+        "Method of teaching and learning": "Lectures, seminars, oral presentation of ideas and private study"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS103&psl_code=SEM1"
+    }
+  ]
+}

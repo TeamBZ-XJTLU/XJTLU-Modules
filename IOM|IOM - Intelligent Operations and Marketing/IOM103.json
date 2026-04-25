@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Artificial Intelligence In Business",
+  "module_code": "IOM103",
+  "offerings": [
+    {
+      "heading": "Artificial Intelligence In Business",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Artificial Intelligence In Business",
+        "module_code": "IOM103",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Artificial Intelligence In Business",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module gives an introduction to Artificial Intelligence (AI) through 1) introducing the foundational concepts, theories and related techniques in AI and knowledge-based systems; 2) allowing students to develop an understanding of how the AI has been implemented in business to solve practical issues; 3) providing an opportunity for students to develop AI programming skills and apply that to AI in business.",
+        "Learning outcomes": "A. Understand the principal ideas, techniques, algorithms and programming skills necessary to implement AI. B. Comprehend and evaluate core AI technologies and the infrastructure required to implement them across different areas of an organisation. C. Design, evaluate, and communicate AI strategies and governance models in terms of business impact and technical feasibility. D. Critically evaluate the societal impact of AI including legal and ethical issues in business.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures, tutorials and labs. Lectures will be designed to provide essential information and introduce students to the academic content and practical skills which are the subject of this module. Tutorials will be based around practical exercises, the completion of which and their discussion in workshops will provide students with a learning opportunity designed to extend the material introduced in the lectures. Labs will be designed to provide students with hands-on programming experiences and practices."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM103&psl_code=SEM2"
+    }
+  ]
+}

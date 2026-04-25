@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Introduction to English Studies",
+  "module_code": "LNG002",
+  "offerings": [
+    {
+      "heading": "Introduction to English Studies",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Introduction to English Studies",
+        "module_code": "LNG002",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Introduction to English Studies",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce Year 1 students to the elements of English Studies, in preparation for the English degree programmes. It aims to provide students with a basic framework and vocabulary for the rich and varied field of English studies, covering the strands of literature, applied linguistics and translation and interpreting. Students have the opportunity to practice techniques of linguistic and literary analysis in the context of various textual and genre types, and to develop their overall English language skills. Weeks alternate between linguistic and literary perspectives on a selection of themes.",
+        "Learning outcomes": "A.Discuss some of the fundamental questions that are addressed in English Studies B.Demonstrate a basic ability to respond to literary texts, relating form and theme C.Demonstrate basic abilities in linguistic analysis D.Demonstrate an understanding of learning practices and techniques in the Humanities & Social Sciences.",
+        "Method of teaching and learning": "Teaching on the module is by a combination of lectures and seminars. The discipline specific lectures will introduce students to key themes and texts, discussion points, and analytic techniques, as well as allowing space for interaction. In the Learning Practices in the Humanities and Social Sciences lectures, students will be introduced to key study and research skills to prepare them for their studies and assessments in Year 2 and beyond. Seminars offer students the opportunity to relate major concepts and approaches to particular texts or data sets, and to develop their English speaking and writing skills. Some seminars may be co-taught by staff from the English Language Centre, who will use activities to further develop the English language skills of students within the context of the study of English. Students may also be provided with online language/study skills support from the English Language Centre (ELC) to help them engage with module content."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG002&psl_code=SEM2"
+    }
+  ]
+}

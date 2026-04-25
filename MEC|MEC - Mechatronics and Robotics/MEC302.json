@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MEC",
+    "domain_code": "MEC",
+    "full_name": "Mechatronics and Robotics"
+  },
+  "full_name": "Embedded Computer Systems",
+  "module_code": "MEC302",
+  "offerings": [
+    {
+      "heading": "Embedded Computer Systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MEC",
+        "full_name": "Embedded Computer Systems",
+        "module_code": "MEC302",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Embedded Computer Systems",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module builds upon students' foundational knowledge of microprocessor systems to explore the principles, design, and implementation of embedded computer systems. By integrating concepts from prior coursework, students will develop a holistic understanding of embedded systems as complex, integrated platforms. This module prepares students for advanced applications in engineering, aligning with the rigor expected of a Year 4 course.",
+        "Learning outcomes": "A. Critically analyze the architecture and core components of typical Embedded Computer Systems, demonstrating a thorough understanding of system structure. B. Identify and evaluate the main types of embedded processors, justifying their pros and cons and analyzing their applications in various real-world scenarios. C. Critically assess the role and implications of parallelism in Embedded Systems, focusing on timing, pipelines, and parallel resources. D. Evaluate the main Memory Architectures in the context of Embedded system design, explaining their significance and impact. E. Design and implement customized functionalities in an embedded system through an independent project, demonstrating advanced practical skills and problem-solving abilities. F. Assess and troubleshoot design issues related to input/output hardware and software in Embedded systems, proposing optimized solutions.",
+        "Method of teaching and learning": "This module employs a diverse range of teaching and learning methods to ensure students develop both theoretical knowledge and practical skills in embedded systems. Interactive lectures introduce key concepts and theoretical foundations, supported by real-world case studies and discussions to enhance engagement. Tutorial sessions reinforce learning through structured problem-solving activities, where students work through comprehensive examples linked to continuous assessments. Hands-on laboratory work forms a core component, allowing students to apply their knowledge through programming exercises using ARM emulators, developing practical skills in embedded system design and debugging. To monitor progress and encourage active participation, formative assessments are conducted using the XJTLU student response system, providing immediate feedback and reinforcing lecture material. This blended approach ensures a balanced development of analytical thinking, problem-solving abilities, and technical proficiency in embedded systems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MEC302&psl_code=SEM2"
+    }
+  ]
+}

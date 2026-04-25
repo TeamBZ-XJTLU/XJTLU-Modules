@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "CATTC",
+    "full_name": "Cultural Technology"
+  },
+  "full_name": "Introduction to Interactive Systems",
+  "module_code": "CAT104TC",
+  "offerings": [
+    {
+      "heading": "Introduction to Interactive Systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CATTC",
+        "full_name": "Introduction to Interactive Systems",
+        "module_code": "CAT104TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Interactive Systems",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the creative and technical foundations of interactive art and performance through frameworks of Human-Computer Interaction. It aims to teach students how to design responsive systems using sensors, microcontrollers, and real-time media software, with a focus on embodied interaction and interactive environments.",
+        "Learning outcomes": "A Identify the fundamental principles of Human-Computer Interaction including sensors, microcontrollers, and real-time media systems. B Build interactive systems using Arduino, TouchDesigner, and related tools. C Demonstrate creative decision-making through prototyping, experimentation, and iteration.",
+        "Method of teaching and learning": "Teaching combines Lectures, Workshops, Studio Sessions, and Tutorials. • Lectures introduce core HCI concepts, sensing, and real-time interaction. • Workshops provide guided exercises in Arduino, TouchDesigner, and input/output workflows. • Studio Sessions support hands-on experimentation and iterative prototyping. • Tutorials offer individualized guidance to refine projects and troubleshoot. In that this is an optional module, to well utilise the university resource, the module delivery is subject to meeting a minimum number of students (10)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAT104TC&psl_code=SEM2"
+    }
+  ]
+}

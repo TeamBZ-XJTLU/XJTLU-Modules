@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Effective Practices In Student Affairs From A Global Perspective",
+  "module_code": "EDS427",
+  "offerings": [
+    {
+      "heading": "Effective Practices In Student Affairs From A Global Perspective",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Effective Practices In Student Affairs From A Global Perspective",
+        "module_code": "EDS427",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Effective Practices In Student Affairs From A Global Perspective",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to help students understand essential theories and practices, develop mindsets and professional competencies for the role and career of student affairs professionals with a global perspective.",
+        "Learning outcomes": "A. Analyze and reflect on concurrent issues in student affairs in the global education context. B. Translate theoretical knowledge and research about the development of organizations and individuals into meaningful practices of the profession in student affairs. C. Apply future-oriented thinking to explore the trend, issues, and implementations of student affairs from a global perspective. D. Enhance intellectual competencies and practical skills related to their careers to work with students in team dynamics.",
+        "Method of teaching and learning": "This module adopts a Research-Led Project-Based Learning approach. Students enrolled in the module will be guided to identify real world issues related to student affairs in various units like recruitment, registry, career service center, etc. Students will produce practical solutions engaged with via the learning process."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS427&psl_code=SEM2"
+    }
+  ]
+}

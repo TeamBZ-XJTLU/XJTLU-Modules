@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Object Oriented Programming",
+  "module_code": "CPT403",
+  "offerings": [
+    {
+      "heading": "Object Oriented Programming",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Object Oriented Programming",
+        "module_code": "CPT403",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Object Oriented Programming",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module equips students with advanced expertise in Object-Oriented Programming (OOP), emphasising its principles, practices, and applications in modern software engineering. Through hands-on projects in a contemporary language (e.g., Java) and exposure to other industry-relevant languages like C++, C#, and Python, students will develop proficiency in designing, implementing, and maintaining robust OOP systems. The curriculum integrates theory with practical applications in domains such as finance, telecommunications, and social networking, enabling students to master all stages of OOP development — from design patterns and documentation to testing, debugging, and refactoring. OOP is the dominant paradigm in modern software development, underpinning critical systems in industries ranging from fintech to artificial intelligence. Mastery of OOP is therefore essential for computing graduates pursuing careers in software engineering, systems design, or technical leadership. This module provides the technical foundation necessary for both specialised coursework and independent research projects: for students progressing to taught modules, it supports advanced topics such as software architectures and game design and development; for those transitioning to research, it ensures fluency in structuring robust, modular systems for experimental or applied projects. By emphasising scalable, modular software design, as well as the development of maintainable, reusable code, this module aligns with industry standards and practices. This focus directly supports the university’s goals of producing adaptable, industry-ready professionals capable of driving innovation in evolving technical landscapes.",
+        "Learning outcomes": "A. Critically analyse Object Oriented Programming features and principles. B. Design an Object Oriented Programming solution to a specific problem using the Unified Modelling Language (UML). C. Apply Artificial Intelligence (AI) assisted tools to solve a substantial problem using an Object Oriented Programming language, and critically evaluate the solution. D. Critically compare Object Oriented Programming languages such as Java, C++, C#, and Python, and make an informed decision on the selection of an appropriate programming language for a given problem. E. Collaborate in a development team by adopting specialised roles to plan, implement, and iteratively refine software solutions to complex engineering problems, evaluating the effectiveness of individual and team contributions to optimise collaborative outcomes.",
+        "Method of teaching and learning": "This module employs an integrated approach to teaching and learning, combining theoretical instruction with hands-on practice to ensure students develop a deep and practical understanding of Object-Oriented Programming (OOP). The module is delivered through a combination of interactive lectures, practical lab sessions, and independent study, all designed to reinforce core OOP principles while fostering problem-solving skills and collaborative development practices. Lectures serve as the foundation for introducing and critically examining OOP concepts, including encapsulation, inheritance, polymorphism, and abstraction. These sessions incorporate a blend of traditional instruction and flipped-classroom activities, where students engage with preparatory materials — such as coding blogs, videos, podcasts, and so on — before applying these concepts in class through guided problem-solving exercises. Practical lab sessions complement lectures by offering students structured opportunities to implement OOP solutions in a supervised environment. These sessions focus on iterative development, testing and debugging, and refactoring. Students experiment with multiple OOP languages, such as Java, C++, and Python, gaining exposure to the strengths and trade-offs of each in different application domains. The labs also provide a platform for collaborative learning, where students work in pairs or small groups to tackle programming challenges, fostering peer-to-peer knowledge sharing and teamwork. Live coding demonstrations by the instructor are a key component of lectures and labs, illustrating best practices in software design and development, testing and debugging, and documentation, while providing students with real-time examples of OOP principles in action. To consolidate learning, an individual research project requires students to investigate and critically compare OOP languages, deepening their understanding of language-specific features and paradigms, and developing their critical thinking and independent learning skills. Additionally, students will undertake a group software development project, applying OOP principles to design and build a modular solution to a complex real-world problem. This project emphasises role-based collaboration, iterative refinement, and adherence to industry-standard development practices. Finally, a formal examination assesses students' theoretical grasp of OOP principles and their ability to analyse and design solutions to programming problems. Throughout the module, students are supported through weekly drop-in sessions, where they can seek clarification on coursework or exam preparation, and through access to curated code repositories and development templates. Formative feedback on code quality, design decisions, and documentation is provided during labs and project milestones, ensuring continuous improvement and alignment with learning outcomes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT403&psl_code=SEM1"
+    }
+  ]
+}

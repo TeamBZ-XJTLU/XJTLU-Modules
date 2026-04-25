@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Audiences and Media Users",
+  "module_code": "COM153",
+  "offerings": [
+    {
+      "heading": "Audiences and Media Users",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Audiences and Media Users",
+        "module_code": "COM153",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Audiences and Media Users",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with an understanding of the key concerns, theoretical approaches, and research methods of audience studies. The module will start with a brief overview of the historical development of media and communication research to underline the value of studying audiences and media users empirically. How it differs from market-oriented consumer research will also be clarified. Students will then be introduced to main theories and research methods for analyzing different forms of audience behavior across a range of media and platforms. The module ends with asking students to conduct their own audience research based on what they have learned from the module.",
+        "Learning outcomes": "A. Demonstrate and understanding of the major concerns and value of media audience studies B. Recognize and explain the main theories and concepts of media audience studies C. Identify suitable research method(s) to study a recent audience phenomenon D. Interpret empirical data based on the chosen theoretical framework",
+        "Method of teaching and learning": "Lectures Seminars"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM153&psl_code=SEM1"
+    }
+  ]
+}

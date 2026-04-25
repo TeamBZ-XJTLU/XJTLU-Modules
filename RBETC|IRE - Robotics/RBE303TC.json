@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IRE",
+    "domain_code": "RBETC",
+    "full_name": "Robotics"
+  },
+  "full_name": "Robot Modeling and Control",
+  "module_code": "RBE303TC",
+  "offerings": [
+    {
+      "heading": "Robot Modeling and Control",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "RBETC",
+        "full_name": "Robot Modeling and Control",
+        "module_code": "RBE303TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Robot Modeling and Control",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to introduce students to the fundamental concepts in robotics, such as Forward and Inverse Kinematics, Dynamics, Workspace, Trajectory Planning and Control. It also provides the basic knowledge and skills to design and build industrial robotic systems, and enables students to understand the advantages and disadvantages of their deployment.",
+        "Learning outcomes": "A Demonstrate understanding of fundamental concepts in robot design and application B Derive the homogenous transformation matrices for multi-degrees of freedom robotic systems C Model the kinematic chains of robotic manipulators D Analyse the kinematic chains to solve for the inverse kinematics E Modelling of manipulator dynamics F Implement control algorithms on robotic joints and relate theoretical analysis to physical observations of robotic systems G Apply hands-on skills on the control of industrial robotic systems",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. This module will be delivered through a combination of formal lectures, seminars, tutorials and supervised laboratory sessions. Coursework will be assigned in Week 5 and 10."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=RBE303TC&psl_code=SEM1"
+    }
+  ]
+}

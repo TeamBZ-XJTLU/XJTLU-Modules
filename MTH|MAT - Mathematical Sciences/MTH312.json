@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MAT",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Stochastic Modeling in Insurance and Finance II",
+  "module_code": "MTH312",
+  "offerings": [
+    {
+      "heading": "Stochastic Modeling in Insurance and Finance II",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Stochastic Modeling in Insurance and Finance II",
+        "module_code": "MTH312",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Stochastic Modeling in Insurance and Finance II",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides a grounding in the principles of actuarial modelling, focusing on stochastic asset models, the valuation of financial derivatives and develops skills to model economic decision making, the probability of ruin, estimation of claims and the pricing of assets and options.",
+        "Learning outcomes": "A. Understand the construction and evaluation of common forward and option contracts as well as theoretical models for derivatives and option pricing, in particular the theory and application of Black-Scholes models. B. Make use of models in portfolio selection and asset pricing. C. Make use of models in insurance to calculate the probability of ruin and estimate claims.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH312&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Introduction to Post Production",
+  "module_code": "FTA115",
+  "offerings": [
+    {
+      "heading": "Introduction to Post Production",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Introduction to Post Production",
+        "module_code": "FTA115",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Post Production",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to: Enable students to develop an understanding of the video editing process and the basic skills to edit a short project from start to finish Understand and actively manage digital workflow from knowledge and concepts to practice",
+        "Learning outcomes": "A Demonstrate an understanding of post-production editing software through basic timeline phases B Demonstrate a practical knowledge of post-production software whilst editing a short sequence and managing workflow",
+        "Method of teaching and learning": "The teaching sessions are divided into three components (Lectures, technical screenings and practical workshops). Lectures will focus on editing technique and basic craft rules. Technical screenings will allow technical discussion about editing technique and practitioners. An intensive series of practical workshops will equip the students with the technical skills and understanding of post-production and post-production software. Within lab work the emphasis will shift to the manipulation of video and audio using software techniques and practical troubleshooting of equipment use."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA115&psl_code=SEM1"
+    },
+    {
+      "heading": "Introduction to Post Production",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Introduction to Post Production",
+        "module_code": "FTA115",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Post Production",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to: Enable students to develop an understanding of the video editing process and the basic skills to edit a short project from start to finish Understand and actively manage digital workflow from knowledge and concepts to practice",
+        "Learning outcomes": "A Demonstrate an understanding of post-production editing software through basic timeline phases B Demonstrate a practical knowledge of post-production software whilst editing a short sequence and managing workflow",
+        "Method of teaching and learning": "The teaching sessions are divided into three components (Lectures, technical screenings and practical workshops). Lectures will focus on editing technique and basic craft rules. Technical screenings will allow technical discussion about editing technique and practitioners. An intensive series of practical workshops will equip the students with the technical skills and understanding of post-production and post-production software. Within lab work the emphasis will shift to the manipulation of video and audio using software techniques and practical troubleshooting of equipment use."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA115&psl_code=SEM2"
+    }
+  ]
+}

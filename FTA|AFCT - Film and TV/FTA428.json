@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Intellectual Property Design and Development",
+  "module_code": "FTA428",
+  "offerings": [
+    {
+      "heading": "Intellectual Property Design and Development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Intellectual Property Design and Development",
+        "module_code": "FTA428",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Intellectual Property Design and Development",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: This module aims to help students to learn the key concepts related to Intellectual Property (IP) Design, its applications in various scenarios in cultural and creative industries, as well as to develop skills for applying the techniques for IP design and critical awareness for evaluating the designs. Objectives: Students are expected to work both independently and collaboratively to practice IP design from concept development to design practice and evaluation of the design. Students will also relate the knowledge and skills of IP design with the real scenarios in cultural and creative industries.",
+        "Learning outcomes": "A Demonstrate a critical understanding of intellectual property applicable in cultural and creative and industries; B Develop original concepts of intellectual property design independently and collaboratively for specific cases in cultural and creative industries; C Apply critically the professional techniques and practices in designing the intellectual property according to the briefs of specific cases; D Evaluate critically the intellectual property designs according to the principles applicable in cultural and creative industries",
+        "Method of teaching and learning": "This module will be delivered largely via Project-based Learning. Students will learn and discuss ideas related to IP design in seminars and practice IP design following the projects in the lab tutorials. Students will also have the chance to be connected with organizations and companies from cultural and creative industries to develop IP design concepts."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA428&psl_code=SEM1"
+    },
+    {
+      "heading": "Intellectual Property Design and Development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Intellectual Property Design and Development",
+        "module_code": "FTA428",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Intellectual Property Design and Development",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: This module aims to help students to learn the key concepts related to Intellectual Property (IP) Design, its applications in various scenarios in cultural and creative industries, as well as to develop skills for applying the techniques for IP design and critical awareness for evaluating the designs. Objectives: Students are expected to work both independently and collaboratively to practice IP design from concept development to design practice and evaluation of the design. Students will also relate the knowledge and skills of IP design with the real scenarios in cultural and creative industries.",
+        "Learning outcomes": "A Demonstrate a critical understanding of intellectual property applicable in cultural and creative and industries; B Develop original concepts of intellectual property design independently and collaboratively for specific cases in cultural and creative industries; C Apply critically the professional techniques and practices in designing the intellectual property according to the briefs of specific cases; D Evaluate critically the intellectual property designs according to the principles applicable in cultural and creative industries",
+        "Method of teaching and learning": "This module will be delivered largely via Project-based Learning. Students will learn and discuss ideas related to IP design in seminars and practice IP design following the projects in the lab tutorials. Students will also have the chance to be connected with organizations and companies from cultural and creative industries to develop IP design concepts."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA428&psl_code=SEM2"
+    }
+  ]
+}

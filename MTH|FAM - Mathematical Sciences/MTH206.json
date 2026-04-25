@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FAM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Statistical Distribution Theory",
+  "module_code": "MTH206",
+  "offerings": [
+    {
+      "heading": "Statistical Distribution Theory",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Statistical Distribution Theory",
+        "module_code": "MTH206",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Statistical Distribution Theory",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to cement a solid foundation in the theoretical teaching of different statistical distributions and their applications. It provides an unusually comprehensive depth and breadth of coverage and reflects the latest in statistical thinking and current practices. This is a required module for students in a variety of fields in finance, economics, financial mathematics, natural sciences and engineering, etc. The designer/instructor of this module believes it is helpful for students to spend some time learning how the mathematical ideas of statistics carry over into the world of practical applications.",
+        "Learning outcomes": "A. Work with probability distributions, probability densities and multivariate distributions. B. Calculate the expectation of a random variable. C. Use moment generating functions to calculate the moments of a random variable. D. Perform calculations with special discrete probability distributions, including binomial, geometric, and Poisson distributions. E. Perform calculations with special continuous probability distributions, including normal, exponential and gamma distributions. F. Find the probability distribution of a function of random variables. G. Understand sampling distributions and the Central Limit Theorem. H. Understand statistical inference including estimation and hypothesis testing",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH206&psl_code=SEM1"
+    }
+  ]
+}

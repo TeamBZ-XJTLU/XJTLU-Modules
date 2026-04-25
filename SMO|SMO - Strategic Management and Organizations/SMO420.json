@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Negotiation Skills for Managers",
+  "module_code": "SMO420",
+  "offerings": [
+    {
+      "heading": "Negotiation Skills for Managers",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Negotiation Skills for Managers",
+        "module_code": "SMO420",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 4",
+        "Module Title": "Negotiation Skills for Managers",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To prepare managers with the skills and strategies to run effective negotiations and develop the skills needed to achieve a successful outcome. It will allow them to develop sustainable and respectful relationships and achieve their objectives in the long term.",
+        "Learning outcomes": "A. Apply strategies and techniques in negotiating business environment. B. Comprehend and apply different dispute resolution techniques. C. Analyse problems and issues that arise when negotiating. D. Understand the role of time and atmosphere in business negotiations. E. Appreciate the ethical aspects of business negotiations. F. Analyse customer demands and make recommendations for how best to respond to them.",
+        "Method of teaching and learning": "Teaching will be based on theories of negotiation and ethics, taught in a seminar format with extensive case study material being used, along with a number of negotiation simulations."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO420&psl_code=SEM1"
+    }
+  ]
+}

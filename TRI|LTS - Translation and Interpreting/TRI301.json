@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LTS",
+    "domain_code": "TRI",
+    "full_name": "Translation and Interpreting"
+  },
+  "full_name": "Translation and Interpreting: Final Year Project",
+  "module_code": "TRI301",
+  "offerings": [
+    {
+      "heading": "Translation and Interpreting: Final Year Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "TRI",
+        "full_name": "Translation and Interpreting: Final Year Project",
+        "module_code": "TRI301",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 3",
+        "Module Title": "Translation and Interpreting: Final Year Project",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The main aims of the translation project are to provide students with the opportunity to carry out independent translation practice at an advanced level and to exercise critical judgement, when considering research issues in Translation Studies. It also enables students to draw on and extend the skills and knowledge acquired in taught modules.",
+        "Learning outcomes": "A. Demonstrate a comprehensive knowledge of translation skills and their application to translation practice; B. Obtain systematic knowledge of the norms, and professional standards in translation production; C. Demonstrate an understanding of particular textual forms and genres and their implications for translation; D. Develop an awareness of practical problems in professional translation work and enhance the capacity to solve these problems in an independent way; E. Demonstrate expertise to meet the needs and expectations of different audiences and clients of translation; F. Demonstrate practical skills of translation as well as high-level technical writing, editorial and communication skills. G. Exercise critical judgment and reflective practice to solve translation problems.",
+        "Method of teaching and learning": "The student will identify one provisional source text by the end of the semester preceding that in which the translation project is conducted, and will have a preliminary meeting with the supervisor. Obligatory sessions on translation skills and commentary writing up will be offered respectively during the semester. The student will have regular meetings with the supervisor to discuss stages of the project, review drafts and to monitor progress and offer advice on translating and commentary writing up."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=TRI301&psl_code=ACYR"
+    }
+  ]
+}

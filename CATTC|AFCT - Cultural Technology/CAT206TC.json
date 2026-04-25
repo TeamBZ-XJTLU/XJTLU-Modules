@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "CATTC",
+    "full_name": "Cultural Technology"
+  },
+  "full_name": "Advanced Interactive Systems: Spatial Media",
+  "module_code": "CAT206TC",
+  "offerings": [
+    {
+      "heading": "Advanced Interactive Systems: Spatial Media",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CATTC",
+        "full_name": "Advanced Interactive Systems: Spatial Media",
+        "module_code": "CAT206TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Advanced Interactive Systems: Spatial Media",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module advances students’ understanding of HCI, spatial computing, and multimodal interaction. Students design complex systems integrating sensors, body-tracking, and generative media to create sophisticated interactive environments and performances.",
+        "Learning outcomes": "A Critically evaluate advanced HCI methods and spatial interface design. B Integrate multiple sensing modalities within real-time audiovisual systems. C Develop a technically robust interactive environment or performance. D Communicate and justify conceptual and technical decisions in their work.",
+        "Method of teaching and learning": "Teaching includes Lectures, Advanced Workshops, Studio Practice, and Critique Tutorials. • Lectures address advanced HCI frameworks, spatial interaction, and embodied systems. • Advanced Workshops cover body-tracking, multimodal sensing, and system integration. • Studio Practice emphasizes iterative prototyping, spatial testing, and performance design. • Critique Tutorials allow detailed feedback on creative and technical development. In that this is an optional module, to well utilise the university resource, the module delivery is subject to meeting a minimum number of students (10)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAT206TC&psl_code=SEM2"
+    }
+  ]
+}

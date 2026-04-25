@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "The Art of Cinematography",
+  "module_code": "FTA214",
+  "offerings": [
+    {
+      "heading": "The Art of Cinematography",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "The Art of Cinematography",
+        "module_code": "FTA214",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 2",
+        "Module Title": "The Art of Cinematography",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This optional module runs across two semesters and is aimed at students who want to take up cinematography seriously. It builds on the work that they have done at Level 4 in their Introduction to Camera and Lighting module. The module provides an opportunity to the serious cinematographer to explore their craft by understanding the demands made on them as they operate camera and light short sequences and a short fim. Specifically, the module is designed to: Give student cinematographers a greater understanding of the theories and principles of cinematography Enable student cinematographers to experience and use a range of industry standard equipment Engage student cinematographers in discovering the relationship between storytelling and the creation of visuals Help student cinematographers prepare for shoots, conduct themselves professionally on set and work with colour graders in post production in order to achieve their creative vision Enable student directors to find visual meaning Further enable student cinematographers to demonstrate the ability to critically reflect on their decision making and place it within a historical context Gain an understanding of cinemtaographer’s contracts, fees, negotiations etc. so that they can conduct themselves at a professional level.",
+        "Learning outcomes": "A Discuss, analyse and critique films, understanding the practice of cinemtography B Successfully collaborate and communicate with directors and crew in developing a visual language for screen C Effectively translate a script into cinematographic intentions by using a number of lighting and shooting techniques in the creation of meaning D Use film language to communicate meaning to both crew and audience",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (seminars and practical workshops in studio). Each semester will involve a total of 150 hours of study, thus making this module worth 300 hours of study. The seminars will provide the opportunity to examine the work of other cinematographers and learn from it. The practical workshops will focus on the process of camera work, lighting and cinematography in order to enhance visual storytelling."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA214&psl_code=ACYR"
+    },
+    {
+      "heading": "The Art of Cinematography",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "The Art of Cinematography",
+        "module_code": "FTA214",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "The Art of Cinematography",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is aimed at students who want to take up cinematography seriously. It builds on the work that they have done at Level 4 in their Introduction to Camera and Lighting module. The module provides an opportunity to the serious cinematographer to explore their craft by understanding the demands made on them as they operate the camera and light short sequences and a short film. Specifically, the module is designed to: Give student cinematographers a greater understanding of the theories and principles of cinematography Enable student cinematographers to experience and use a range of industry-standard equipment Engage student cinematographers in discovering the relationship between storytelling and the creation of visuals Help student cinematographers prepare for shoots, conduct themselves professionally on set and work with colour graders in post production in order to achieve their creative vision Enable student directors to find visual meaning Further enable student cinematographers to demonstrate the ability to critically reflect on their decision making and place it within a historical context Gain an understanding of cinemtaographer’s contracts, fees, negotiations etc. so that they can conduct themselves at a professional level.",
+        "Learning outcomes": "A Discuss, analyse and critique films, understanding the practice of cinemtography B Successfully collaborate and communicate with directors and crew in developing a visual language for screen C Effectively translate a script into cinematographic intentions by using a number of lighting and shooting techniques in the creation of meaning D Use film language to communicate meaning to both crew and audience",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (seminars and practical workshops in studio). Each semester will involve a total of 150 hours of study, thus making this module worth 300 hours of study. The seminars will provide the opportunity to examine the work of other cinematographers and learn from it. The practical workshops will focus on the process of camera work, lighting and cinematography in order to enhance visual storytelling."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA214&psl_code=SEM1"
+    }
+  ]
+}

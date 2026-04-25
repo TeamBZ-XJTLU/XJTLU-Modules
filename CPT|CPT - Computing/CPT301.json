@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Formal Methods",
+  "module_code": "CPT301",
+  "offerings": [
+    {
+      "heading": "Formal Methods",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Formal Methods",
+        "module_code": "CPT301",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Formal Methods",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "As more complex computational systems are used within critical applications, it is becoming essential that these systems are formally specified. Such specifications are used to give a precise and unambiguous description of the required system. While this is clearly important in criticial systems such as industrial process management and air/spacecraft control, it is also becoming essential when applications involving E-commerce and mobile code are developed. In addition, as computational systems become more complex in general, formal specification can allow us to define the key characteristics of systems in a clear way and so help the development process. Formal specifications provide the basis for verification of properties of systems. While there are a number of ways in which this can be achieved, the model-checking approach is a practical and popular way to verify the temporal properties of finite-state systems. Indeed, such temporal verification is widely used within the design of critical parts of integrated circuits, has recently been used to verify parts of the control mechanism for one of NASA's space probes, and is now beginning to be used to verify general Java programs.",
+        "Learning outcomes": "A. Explain and apply the fundamental principles of propositional and predicate logic to reason formally about software correctness and system consistency. B. Develop formal system specifications using Z-notation, constructing schemas that accurately capture system structure, constraints, and functional behaviour. C. Formulate and analyse reactive system behaviours using temporal logic, capturing dynamic, concurrent, and event-driven properties of system interaction. D. Apply and evaluate model checking techniques with tools such as SPIN to verify temporal properties in reactive system models.",
+        "Method of teaching and learning": "The delivery pattern integrates two hours of lectures and two hours of tutorials each week to ensure a balanced progression from conceptual understanding to practical application. Lectures introduce the theoretical foundations of formal methods, including logic, Z-notation, temporal logic, and model checking, supported by case examples to develop analytical and design competence. Tutorials and lab-based sessions consolidate this knowledge through hands-on exercises, tool-assisted model checking, and guided problem-solving using SPIN. Students are expected to devote additional private study time to readings, practice exercises, and project development. Continuous feedback is provided through two individual projects (15% each), which assess students’ ability to specify and verify subsystems. The final Formal Specification and Verification Portfolio (70%) serves as a comprehensive summative assessment, requiring students to integrate and apply all learning outcomes in a complete system specification and verification task."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT301&psl_code=SEM1"
+    }
+  ]
+}

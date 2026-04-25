@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FIN",
+    "domain_code": "FIN",
+    "full_name": "Finance"
+  },
+  "full_name": "Quantatitive Trading and Asset Pricing",
+  "module_code": "FIN420",
+  "offerings": [
+    {
+      "heading": "Quantatitive Trading and Asset Pricing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FIN",
+        "full_name": "Quantatitive Trading and Asset Pricing",
+        "module_code": "FIN420",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Quantatitive Trading and Asset Pricing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module explores the key concepts and techniques behind quantitative trading and empirical asset pricing, blending theory with real-world applications. The course introduces students to quantitative strategies used in financial markets, such as algorithmic trading, statistical arbitrage, and factor models. Students will also learn about empirical asset pricing, focusing on the relationship between risk factors and asset returns, and how these factors influence trading strategies. Through a combination of theoretical lectures, practical workshops, and empirical analysis, students will gain a deep understanding of quantitative trading strategies and their integration with asset pricing models. 1. To equip students with the knowledge and skills necessary to design and implement quantitative trading strategies. 2. To introduce students to empirical asset pricing models and their role in understanding risk and return dynamics in financial markets. 3. To provide students with practical experience in backtesting quantitative strategies using real financial data. 4. To critically examine the performance and limitations of various quantitative models and strategies.",
+        "Learning outcomes": "Upon successful completion of the module, students will be able to: A. Develop and implement quantitative trading strategies using algorithmic and statistical techniques. B. Apply empirical asset pricing models to analyze risk factors and their influence on asset returns. C. Backtest trading strategies using historical financial data and evaluate their performance. D. Critically assess the role of factor models (e.g., CAPM, Fama-French) in pricing assets and guiding quantitative strategies. E. Evaluate the risks and ethical implications of high-frequency trading and algorithmic decision-making. F. Synthesize theoretical knowledge with practical insights to optimize trading strategies in real-world market conditions.",
+        "Method of teaching and learning": "1. Lectures: Provide theoretical foundations in quantitative trading and empirical asset pricing. 2. Workshops: Hands-on sessions where students practice coding, backtesting, and implementing trading strategies using financial data. 3. Case Studies: Examination of historical quantitative trading failures and successes to provide practical context. 4. Group Projects: Collaborative work on designing and testing a comprehensive quantitative trading strategy. 5. Guest Speakers: Industry professionals in quantitative finance, hedge funds, and trading firms will offer insights on real-world applications."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN420&psl_code=SEM1"
+    }
+  ]
+}

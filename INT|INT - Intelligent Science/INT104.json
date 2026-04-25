@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Artificial Intelligence",
+  "module_code": "INT104",
+  "offerings": [
+    {
+      "heading": "Artificial Intelligence",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INT",
+        "full_name": "Artificial Intelligence",
+        "module_code": "INT104",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Artificial Intelligence",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module gives an introduction to Artificial Intelligence (AI) by (1) providing a ground in AI algorithm implementation, which is used as a vehicle for practical illustrations; (2) understanding the framework of an AI system; (3) introducing students the advances of AI application and (4) ethics and responsibilities related to AI techniques. The specific aims are: (1) to introduce students the concept of AI techniques and AI systems; (2) to introduce students the intelligent systems built on the use of AI techniques; (3) to provide a grounding in algorithm implementation and (4) to understand the security and risks related to AI.",
+        "Learning outcomes": "A. Explain core AI concepts and principles, including AI systems and machine learning algorithms, through written or verbal communication. B. Design basic AI algorithms to solve specific problems, demonstrating measurable improvements in performance. C. Identify potential risks associated with AI technology and describe strategies to mitigate these risks, promoting responsible AI development. D. Critically evaluate the ethical implications of AI applications, including their impact on inclusion and diversity, and propose improvements to address these issues.",
+        "Method of teaching and learning": "Students will be expected to attend a two-hour of formal lectures and a two-hour tutorial session in a typical week. Lectures will introduce students to the academic content and practical skills which are the subject of the module. Tutorial sessions will demonstrate the concepts learned with either mathematical exercise or programming tools. In addition, students will be expected to devote six to seven hours of unsupervised time for private study. Private study will provide time for reflection and consideration of lecture material and background reading."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT104&psl_code=SEM2"
+    }
+  ]
+}

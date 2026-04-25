@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Teaching, Learning and Assessment",
+  "module_code": "EDS441",
+  "offerings": [
+    {
+      "heading": "Teaching, Learning and Assessment",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Teaching, Learning and Assessment",
+        "module_code": "EDS441",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Teaching, Learning and Assessment",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with core concepts and ideas about teaching and learning, and to enable them to go beyond the curriculum to enable learning for students of diverse background across different contexts. It is to develop students’ teaching and assessment practice, and to enhance their knowledge and skills for teaching, learning and assessment.",
+        "Learning outcomes": "A Reflect on different conceptions of learning, teaching and assessment across cultures critically B Apply a range of teaching methodologies to enhance students’ learning C Design appropriate learning assessment to measure the learning outcome",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures, tutorials, workshops and placements. Lectures will be designed to provide essential information, while tutorials and workshops will be designed for reflection on and practice of the information. Lectures, tutorials and workshops will be scheduled in a blended learning format, including asynchronous online sessions. Students are required to practice the theoretical knowledge and professional skills in the classrooms during the 30-hour placement. A qualified mentor at the school provides individualized professional development and collaborate with mentees to create unique ideas and ways of teaching and assessing learners during the placement."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS441&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Global Health and Society",
+  "module_code": "BIO222",
+  "offerings": [
+    {
+      "heading": "Global Health and Society",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Global Health and Society",
+        "module_code": "BIO222",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Global Health and Society",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will introduce the student to the foundational concepts of International and Global health. It will examine the critical dimensions of global health in order to prepare the student to understand the public health needs of populations in low-income countries and the structure of health at the global level of analysis.",
+        "Learning outcomes": "A. Distinguish between the perspectives of public health in domestic settings from those in international and global health settings. B. Evaluate public health issues by examining different levels of analysis from a global health perspective. C. Determine the health challenges of vulnerable populations across the world. D. Investigate key global health actors, along with their roles, responsibilities and activities.",
+        "Method of teaching and learning": "Lecture, small group discussions in tutorials and debates will all be utilised. Videos will also be introduced as need."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO222&psl_code=SEM2"
+    }
+  ]
+}

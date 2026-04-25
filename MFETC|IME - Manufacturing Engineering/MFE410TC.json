@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MFETC",
+    "full_name": "Manufacturing Engineering"
+  },
+  "full_name": "Research, Development, and Innovation",
+  "module_code": "MFE410TC",
+  "offerings": [
+    {
+      "heading": "Research, Development, and Innovation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MFETC",
+        "full_name": "Research, Development, and Innovation",
+        "module_code": "MFE410TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Research, Development, and Innovation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with an integrated understanding of research, development, and innovation (RDI) within intelligent engineering and industrial contexts. While building on core research methodology foundations, the emphasis is on bridging research outcomes with technological development and innovation pipelines in industry. Students will learn how to: -Translate research into development projects. -Identify innovation opportunities within engineering and industrial ecosystems. -Understand commercialization processes, technology transfer, and IP management. -Develop innovation-driven solutions aligned with sustainability, digitalization, and Industry 4.0 priorities. This prepares students for industrial R&D careers, entrepreneurship, or further research at doctoral level.",
+        "Learning outcomes": "A. Formulate and manage research and development projects aligned with industrial challenges. B. Evaluate state-of-the-art technologies and identify innovation gaps. C. Apply methods for technology readiness assessment and innovation roadmapping. D. Critically assess opportunities for commercialization, patents, and technology transfer. E. Communicate RDI outcomes effectively to technical, managerial, and public stakeholders.",
+        "Method of teaching and learning": "Method of Teaching and Learning The teaching philosophy follows the Syntegrative Education model, emphasizing problem-based learning and industry collaboration. Students will work on mini-RDI projects with case studies drawn from engineering and industrial practice. Delivery will include: Lectures: introducing theories of RDI and frameworks (TRIZ, open innovation, IP, technology readiness levels). Seminars/Workshops: case-based discussions on industrial innovation success and failure. Tutorials: guidance on project scoping, literature/market scanning, and commercialization planning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MFE410TC&psl_code=SEM1"
+    }
+  ]
+}

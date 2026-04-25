@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "TV and Short Video Production",
+  "module_code": "FTA007",
+  "offerings": [
+    {
+      "heading": "TV and Short Video Production",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "TV and Short Video Production",
+        "module_code": "FTA007",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "TV and Short Video Production",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module delivered in the first semester of Year 1 is to enable students to engage with the subject matter of the TV Production programme offered by the School of Film and Television Arts and to stimulate their interest in expressing themselves creatively. Students will gain fundamental knowledge of TV and short video formats and programmes and the basic skills of short video production with mobile phones.",
+        "Learning outcomes": "A Demonstrate a familiarity with the creative process inherent to TV and/or short video B Demonstrate a familiarity with the production process of TV and/or short video",
+        "Method of teaching and learning": "The module is delivered through six two-hour long sessions. Each session will be a mix of formal lecture, screenings, and creative activities where students are encouraged to explore specific topics and ideas within TV and short video arts."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA007&psl_code=SEM1"
+    }
+  ]
+}

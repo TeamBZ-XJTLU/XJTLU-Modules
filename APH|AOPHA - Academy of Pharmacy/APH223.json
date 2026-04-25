@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Introductory Computational Pharmacy",
+  "module_code": "APH223",
+  "offerings": [
+    {
+      "heading": "Introductory Computational Pharmacy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Introductory Computational Pharmacy",
+        "module_code": "APH223",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Introductory Computational Pharmacy",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module enables students to enjoy the landscape of computational pharmacy. In this module, students will acquire knowledge about the foundation of computer sciences as well as a comprehensive view about applications of computer sciences in pharmacy. Students will have the opportunities to discuss and exchange ideas about the progress of computer sciences in pharmacy from many different perspectives during a designated series of research seminars.",
+        "Learning outcomes": "A. Understand the general principles of computer sciences. B. Be familiar with commonly used artificial intelligence models and tools. C.Demonstrate an in-depth understanding about the potential applications of artificial intelligence in pharmacy. D. Deliver a well-reasoned and structured report about the current state and the future of computer science applications in healthcare.",
+        "Method of teaching and learning": "This module is delivered through formal lectures and seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH223&psl_code=SEM1"
+    }
+  ]
+}

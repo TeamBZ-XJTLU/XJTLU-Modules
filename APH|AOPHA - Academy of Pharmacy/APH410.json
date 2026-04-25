@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Applications of Organic Chemistry in Drug Synthesis",
+  "module_code": "APH410",
+  "offerings": [
+    {
+      "heading": "Applications of Organic Chemistry in Drug Synthesis",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Applications of Organic Chemistry in Drug Synthesis",
+        "module_code": "APH410",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Applications of Organic Chemistry in Drug Synthesis",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide the students with the core skills required to design synthetic routes towards drug compounds and familiarize students with the key synthetic methods used to prepare critical functionality in drug molecules. The module will introduce some modern methodologies which have been developed and widely used in the organic synthesis and an approach to the design of synthetic routes called retrosynthetic analysis. Other topics include asymmetric synthesis, organometallic chemistry, palladium catalyzed coupling reactions, peptide synthesis and heterocyclic chemistry.",
+        "Learning outcomes": "A. Master the mechanism of various C-C bond formation reactions B. Demonstrate an understanding of the structure of heterocyclic compounds, and appreciate the significance of heterocyclic compounds as drug molecules C. Apply the chemistry of simple functional groups and heterocycles to that of more complex heterocyclic systems D. Show an understanding of the principle of asymmetric synthesis E. Apply the knowledge of organic reaction mechanisms to predict and control the aspects of chemo-, regio- and stereoselectivity of the particular classes of reactions F. Apply the retrosynthetic analysis to design a synthetic plan for bioactive molecule",
+        "Method of teaching and learning": "Lectures and tutorials"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH410&psl_code=SEM2"
+    }
+  ]
+}

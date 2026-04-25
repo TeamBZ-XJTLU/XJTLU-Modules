@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "From Silk Road to Belt and Road: History, Culture, and Trade",
+  "module_code": "CCS114",
+  "offerings": [
+    {
+      "heading": "From Silk Road to Belt and Road: History, Culture, and Trade",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "From Silk Road to Belt and Road: History, Culture, and Trade",
+        "module_code": "CCS114",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "From Silk Road to Belt and Road: History, Culture, and Trade",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This interdisciplinary module examines the historical, cultural and economic significance of the ancient Silk Road(s), as well as its resonance in the twenty-first century in the form of the ‘new’ Silk Road, the Belt and Road initiative. Students will explore the movement of ideas, religions, technologies, and commodities across land, as well on sea via the Maritime Silk Road. The module will introduce students to the modern commemoration of the Silk Road through recent Cultural Heritage initiatives, including digital heritage techniques. This historical foundation will then be used to analyse the modern Belt and Road Initiative (BRI), its geopolitical and economic drivers, and the changes it heralds in the global order. The module will incorporate insights from history, cultural heritage studies, political economy, and international relations to provide a comprehensive understanding of continuity and change in transcontinental connectivity.",
+        "Learning outcomes": "A Demonstrate understanding of the historical significance of the Silk Road and its cultural and economic impact B Analyse the role of trade networks in shaping societies and economies across regions, both historically and in the contemporary period. C Trace the evolution of trade routes and their influence on cultural exchange and technological innovation D Analyse the role of the Belt and Road Initiative in the context of China’s foreign policy and transnational trade relations.",
+        "Method of teaching and learning": "The module will be delivered by a combination of lectures and seminars. Lectures provide students will essential information and will introduce students to basic concepts and important ideas within the literature. Seminars will provide students with opportunities for discussion and debate, facilitated by the module leader. Teaching and learning will be supported by AI and other digital technologies where available."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS114&psl_code=SEM2"
+    }
+  ]
+}

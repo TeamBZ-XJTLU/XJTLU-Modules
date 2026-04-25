@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "International Political Economy",
+  "module_code": "INS102",
+  "offerings": [
+    {
+      "heading": "International Political Economy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "International Political Economy",
+        "module_code": "INS102",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "International Political Economy",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to introduce students to the field of International Political Economy (IPE), its theoretical perspectives, and how it analyses and interprets the roles of states, societies and markets in trade, production, and finance in a global economy. The module starts with an introduction to the field and its major theoretical perspectives. The second part discusses transformations in the global political-economic order: i.e., the global trade, investment and production regimes. Part three discusses the role of states and societies in shaping world market integration. The last part of the module discusses contradictions and crises in the global economy and their politics.",
+        "Learning outcomes": "A. Identify and understand the fundamentals of major theories of International Political Economy. B. Identify and understand major transformations in the structures and governance of trade, production and money in the post-war global economy. C. Identify and understand how political and societal actors shape national integration into the global economy. D. Identify and understand the politics of economic imbalances and crises in the global political economy. E. Apply theoretical concepts in the analysis of matters IPE. F. Develop academic writing skills. G. Develop academic presentation skills. H. Develop academic research skills.",
+        "Method of teaching and learning": "Lectures, seminars and private study"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS102&psl_code=SEM2"
+    }
+  ]
+}

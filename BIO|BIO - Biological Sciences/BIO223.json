@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Communicable and Non-communicable Diseases in Public Health",
+  "module_code": "BIO223",
+  "offerings": [
+    {
+      "heading": "Communicable and Non-communicable Diseases in Public Health",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Communicable and Non-communicable Diseases in Public Health",
+        "module_code": "BIO223",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Communicable and Non-communicable Diseases in Public Health",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to the study of communicable and non-communicable diseases. The emphasis will be on those diseases which are most prevalent and result in the most significant global burden. Students will be provided with an overview of the public health approach to prevention, management and control of these conditions.",
+        "Learning outcomes": "A Demonstrate an understanding of the concepts fundamental to the epidemiology of communicable and non-communicable diseases. B Use principles of outbreak investigation for communicable diseases and screening procedures for NCDs. C Critically judge the inter-connectedness of socio-economic inequalities with disease. D Design recommendations to improve existing global initiatives and policies for the prevention and management of CDs and NCDs.",
+        "Method of teaching and learning": "Lectures and Seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO223&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Advanced Pharmacology",
+  "module_code": "APH406",
+  "offerings": [
+    {
+      "heading": "Advanced Pharmacology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Advanced Pharmacology",
+        "module_code": "APH406",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Pharmacology",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students with the most up-to-date pharmacological concepts on pharmacodynamics and pharmacokinetic. It will provide students with a contemporary review of important principles of pharmacology that apply to the understanding of how drugs act and are handled by biological systems for the most common disorders. This module will enable students to develop their knowledge in a range of areas of pharmacological interest. Recent advances in understanding of both the pathophysiological causes of disease states and the role of the various proposed treatments will be used to illustrate the continual development of the various fields under investigation.",
+        "Learning outcomes": "A. Critically discuss current theories of pharmacology, addressing the drug-cellular receptors interaction, pathophysiology, treatment of most common diseases and action mechanism of key pharmacological agents/biologics. B. Show a deep comprehension of pharmacokinetic concepts on drug absorption, distribution, metabolism, and excretion and have an overview of the current progress of drug development for treating the most common disorders. C. Locate and critically appraise relevant published literature and extract pertinent information from such papers D. Evaluate evidence, develop clear and consistent arguments, and communicate them coherently and concisely. E. Understand, consider and apply research ethics and health and safety regulations to prioritize, arrange and organize lab work",
+        "Method of teaching and learning": "This module will involve lecture-based study of advanced pharmacology. You will also take part in problem-based tutorials and laboratory practical that are the subject of active research in the school or in the leading pharmaceutical and biotech industries in the region through our links. This module is designed such that for its successful completion it will require an average student to spend the double amount of time on in-depth private study each week plus revision time. This time may be spent either in preparing assessments or in reading around the subject. Timely, relevant and specific, constructive and actionable feedback will be provided to students in-class, on-paper and/or in-person on for each assignment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH406&psl_code=SEM2"
+    }
+  ]
+}

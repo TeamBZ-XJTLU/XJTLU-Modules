@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Engineering Design Principles and Projects",
+  "module_code": "CEN002",
+  "offerings": [
+    {
+      "heading": "Engineering Design Principles and Projects",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Engineering Design Principles and Projects",
+        "module_code": "CEN002",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Engineering Design Principles and Projects",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to prepare students for their study in BEng Civil Engineering. The module aims to introduce students to the advancement of Civil Engineering disciplines from antiquity to present, and to introduce students to fundamental engineering design principles in Civil Engineering.",
+        "Learning outcomes": "A. Apply fundamental physics and its applications in the process of engineering design, such as Newton's laws, work and energy, momentum, degree of freedom of rigid body, and vibrations. B. Discuss sustainability in engineering projects, and the concept of Conceiving, Designing, Implementing, and Operating (CDIO) real-world systems. C. Explain the basics of engineering ethics, equality, diversity and inclusion (EDI) in design practices. D. Apply communication and management skills within a team and as individuals.",
+        "Method of teaching and learning": "The module is delivered through formal lectures, tutorials and practicals. Students may be provided with language/study skills support from the English Language Centre (ELC) to help them engage with module content. Some sessions on this module may be delivered by ELC tutors, with the aim of assisting students with language/study skills requirements for the module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN002&psl_code=SEM2"
+    }
+  ]
+}

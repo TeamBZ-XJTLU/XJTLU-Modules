@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "CATTC",
+    "full_name": "Cultural Technology"
+  },
+  "full_name": "Audiovisual Production Techniques",
+  "module_code": "CAT113TC",
+  "offerings": [
+    {
+      "heading": "Audiovisual Production Techniques",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CATTC",
+        "full_name": "Audiovisual Production Techniques",
+        "module_code": "CAT113TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "Audiovisual Production Techniques",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to provide students with the technical skills required to operate audiovisual equipment to enable them to produce work of excellent technical quality and to establish safe working practices. The module will also equip students with principles of critical thinking both in terms of aesthetic grammar and practical problem-solving across a series of different devices and software for audio and visual production. The module also aims at encouraging students to develop the habit of continuously evaluating and improving their work. In that this is an optional module, to well utilise the university resource, the module delivery is subject to meeting a minimum number of students (10).",
+        "Learning outcomes": "A Operate at a basic and safe level when setting up and using camera and lighting equipment B Operate at a basic and safe level when setting up and using location sound recording equipment. C Demonstrate a practical understanding of the relationship between the moving image and sound. D Demonstrate the potential to work both autonomously and collaboratively in a practical project environment.",
+        "Method of teaching and learning": "The teaching sessions are divided into three components (Lectures, seminars and labs). Lectures will focus on audiovisual experimentation, the work of practitioners within the field and basic theoretical aspects of audio-visual production. Seminars will be more interactive in nature and will focus on the discussion and practical experimentation of project-related aspects. Labs will instruct the students about safe systems of work, basic electrical safety and practical troubleshooting during equipment use. An intensive series of practical workshops will equip the students with the technical skills and understanding of the relationship between sound and moving images. Students will work in independent small groups to each produce a short audiovisual artefact. The project parameters will be outlined in a project brief. In that this is an optional module, to well utilise the university resource, the module delivery is subject to meeting a minimum number of students (10)"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAT113TC&psl_code=SEM2"
+    }
+  ]
+}

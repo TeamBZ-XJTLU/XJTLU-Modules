@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IND",
+    "domain_code": "IND",
+    "full_name": "Industrial Design"
+  },
+  "full_name": "Design For Sustainability",
+  "module_code": "IND302",
+  "offerings": [
+    {
+      "heading": "Design For Sustainability",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IND",
+        "full_name": "Design For Sustainability",
+        "module_code": "IND302",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Design For Sustainability",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The context for sustainability literacy, understanding and ‘alternatives’ is well understood in all sectors of society and industry. Within the design professions, and Industrial design in particular, the imperative for less waste and for longer lasting products is widely heard. Industrial design is finally developing a mature set of methods and tools to equip professionals to work more responsibly as a normal part of practice. This module aims to offer students learning related the environmentally unsustainable aspects of consumer culture, and into the role product and industrial design play in this context. By introducing case studies, tool-kits and design exercises, students develop, test and describe concepts with improved environmental impacts. The module also aims to strengthen students’ literacy, critical thinking and their ability to put forward well-structured arguments and design proposals.",
+        "Learning outcomes": "A. Identify global and local sustainable policies and international standards and address them in a design context. B. Analyse emerging societal, economic and environmental challenges and identify methods to propose sustainable alternatives. C. Demonstrate, through dialogue, a critical understanding of closed-loops methods and tools such as design for disassembly and cradle to cradle design. D. Learn and deploy a broad range of tools to assess the entire life cycle of a product. E. Apply circular design approaches, methods and tools, in the development of products or services.",
+        "Method of teaching and learning": "The approach of this module will be a combination of lecture and PBL (Project Based Learning). Students will carry out a series of guided exercises designed to replicate elements of a design project. This will entail project briefings, group and individual tutorials, contextual lectures and workshop activities to acquire the skills of working with key tools and materials. Students will work mostly in a studio, break-out spaces, and dedicated workshops with key equipment and material resources. Activities will be driven by the module leader and additional academic staff. Workshops activities will be supported by trained technical staff."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IND302&psl_code=SEM1"
+    }
+  ]
+}

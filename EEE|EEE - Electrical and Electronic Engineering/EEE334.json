@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Power Generation Technologies",
+  "module_code": "EEE334",
+  "offerings": [
+    {
+      "heading": "Power Generation Technologies",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Power Generation Technologies",
+        "module_code": "EEE334",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Power Generation Technologies",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is focused on power generation technologies and their applications in modern world. Specifically, students will be introduced about the important concept of sustainable electric power supply, and the working principles related to classical power generation, such as thermodynamic theory, thermal/hydro power plants, as well as modern power generation (and storage) technologies such as renewable energy systems, grid energy storages, electric vehicles, and smart grids.",
+        "Learning outcomes": "A. Evaluate the role of different power generation technologies in the modern world B. Interpret the principles of energy analysis applied to thermal and hydro power plants C. Analyze typical thermal power plant systems including gas power plants and vapor power plants D. Design and evaluate modern power generation/storage management methods for future power grids",
+        "Method of teaching and learning": "The module combines lectures and tutorials to develop students’ understanding of power generation technologies and their applications. The teaching approach encourages both conceptual understanding and practical problem-solving through the following components: Lecture sessions introduce fundamental concepts of energy conversion, thermodynamic cycles, and the operating principles of various power generation technologies, including hydro, wind, solar, and thermal systems. Tutorial sessions focus on numerical analysis, efficiency evaluation, and discussion of real-world case studies. Supplementary reading materials and MATLAB models/codes are provided to develop students' hands-on experience in system modelling, performance evaluation, and the analysis of power generation technologies."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE334&psl_code=SEM1"
+    }
+  ]
+}

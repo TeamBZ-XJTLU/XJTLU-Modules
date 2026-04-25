@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Computational Methods in Finance II",
+  "module_code": "MTH408",
+  "offerings": [
+    {
+      "heading": "Computational Methods in Finance II",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Computational Methods in Finance II",
+        "module_code": "MTH408",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Computational Methods in Finance II",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to introduce state of the art models and computational techniques widely used in quantitative finance and financial engineering with extensive programming.",
+        "Learning outcomes": "A. Understand, analyze and implement (with coding) Monte Carlo (MC/QMC/RQMC) simulation, generation of random variables, simulation of stochastic processes, discretization schemes. B. Understand, analyze, and implement (with coding) fundamental machine learning models to solve problems in international macroeconomics and financial markets. C. Understand, analyze, and implement numerical techniques (with coding) and models in pricing options, and interest rate products. D. Understand, analyze and implement (with coding) numerical techniques in risk quantification applications. E. Understand, analyze and implement (with coding) numerical techniques in statistical arbitrage and variance reduction. F. Understand, explain and implement results from selected literature on computational finance.",
+        "Method of teaching and learning": "Lectures and computer labs using computer softwares. Article Readings (max of 5) related to lecture materials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH408&psl_code=SEM2"
+    }
+  ]
+}

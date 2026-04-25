@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Advanced Educational Research Method",
+  "module_code": "EDS420",
+  "offerings": [
+    {
+      "heading": "Advanced Educational Research Method",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Advanced Educational Research Method",
+        "module_code": "EDS420",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Educational Research Method",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces the advanced quantitative and qualitative methods in educational research. It focuses on developing skills and knowledge in research design, data collection, data management & modelling through the analysis of educational dataset. Training in the data analysis software is a key component of this module as well. This module is designed particularly for those students who are interested in further education (e.g. PhD, EdD) and intensive training in research methodology.",
+        "Learning outcomes": "A Understand the principles of quantitative and qualitative data and statistical analysis in educational research B Apply a range of methods using lab software, such as SPSS, AMOS and NVivo, to analyze quantitative and qualitative data in education, psychology and other disciplines in social sciences C Reflect on the possible issues of the criteria for examining the validity of data D Critically analyze and evaluate research results reports",
+        "Method of teaching and learning": "The teaching sessions include both lectures and tutorials/workshops, which work together to provide students with key conceptual and methodological insights. These sessions are designed to foster practice-based learning, enabling students to apply theoretical knowledge to real-world scenarios. Through dedicated opportunities for critical reflection, collaborative and individual practice, students engage in hands-on activities that address practical issues related to data collection and analysis in schools and other educational settings. This experiential approach not only enhances their understanding of research methodologies but also equips them with the skills necessary to navigate the complexities of educational research."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS420&psl_code=SEM2"
+    }
+  ]
+}

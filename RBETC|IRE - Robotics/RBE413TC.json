@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IRE",
+    "domain_code": "RBETC",
+    "full_name": "Robotics"
+  },
+  "full_name": "Advanced Industrial Project",
+  "module_code": "RBE413TC",
+  "offerings": [
+    {
+      "heading": "Advanced Industrial Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "RBETC",
+        "full_name": "Advanced Industrial Project",
+        "module_code": "RBE413TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Industrial Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Within the Advanced Industrial Project module of the MSc Advanced Robotics System (Compulsory for the Applied Robotics Technologies Pathway), students will undertake an individual project under the joint supervision of an academic staff member and an industrial expert for a duration of six months. The findings of their project will be communicated through both oral presentations and written reports. The aims of the module are as follows: • Provide students with the opportunity to conduct a mini research project closely aligned with relevant robotics pathways-themed fields. • Prepare students for future research or investigative work in their roles as professional engineers or researchers. • Develop students' project management capabilities for improvement or research projects within industrial settings. • Enable students to contribute innovative technical ideas for the improvement of existing practices within firms. • Expose students to the experience of working on projects with an industrial focus. The dissertation produced as part of this module should demonstrate the following: • A comprehensive understanding of the chosen subject area within the field of relevant robotics pathways theme. • Proficiency in employing research techniques relevant to the topic area. • The ability to collect and analyse empirical data effectively. • The capacity to evaluate the outcomes of the project, drawing meaningful conclusions.",
+        "Learning outcomes": "A. Demonstrate an in-depth understanding of the chosen subject area within the field of robotics pathways-themed fields, specifically related to industrial projects. B. Apply research techniques and methodologies relevant to the topic area to conduct a comprehensive investigation, ensuring that the research adheres to ethical guidelines, promotes safety, and considers sustainability. C. Collect, analyse, and interpret empirical data effectively in the context of the industrial project, while considering the ethical use of data. D. Evaluate the outcomes of the project, drawing insightful conclusions and identifying areas for further improvement or exploration. E. Showcase strong project management capabilities and the ability to effectively communicate project findings through both oral presentations and written reports.",
+        "Method of teaching and learning": "The Teaching and Learning methods for this module include: 1. Project Guidance and Supervision: Students will receive guidance and supervision from both an academic staff member and an industrial expert throughout the duration of the project. Regular meetings will be scheduled to provide support, discuss progress, and offer feedback. 2. Research Skills Development: Students will be equipped with the necessary research skills and methodologies relevant to their chosen subject area. This may include training in literature review, data collection and analysis, experimental design, and research ethics. 3. Independent Study: Students will engage in independent study to explore and deepen their knowledge of the subject area and relevant research literature. This may involve self-directed research, literature reviews, and critical analysis of existing work in the field. 4. Practical Implementation: Students will have the opportunity to apply their knowledge and skills in a practical setting by working on the industrial project. This may involve conducting experiments, prototyping, data collection, and implementation of solutions. 5. Presentations and Reports: Students will be required to communicate their project findings through both oral presentations and written reports. This will allow them to demonstrate their understanding, analysis, and evaluation of the project outcomes. 6. Formative Feedback and Review: Students will receive regular formative feedback and have periodic reviews with their supervisors to monitor progress, discuss challenges, and receive guidance for further improvement. 7. Peer Interaction: There may be opportunities for students to engage in peer discussions, sharing insights, and providing feedback to their fellow students on their projects. It is important to note that the specific teaching and learning methods may vary depending on the nature of the industrial project and the resources available to the students. The location of the project may be either on-campus or at a company, depending on the nature of the project, the facilities in the company, and the need of the students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=RBE413TC&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "International Human Resource Management",
+  "module_code": "SMO303",
+  "offerings": [
+    {
+      "heading": "International Human Resource Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "International Human Resource Management",
+        "module_code": "SMO303",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "International Human Resource Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a critical understanding of the issues faced by companies when employing and managing international staff.",
+        "Learning outcomes": "A Discuss the development of international human resource management (HRM) as a discipline B Analyze the key challenges that exist within international HRM and the implications for both organizational and HR strategy C Critically evaluate the various roles of the corporate HR function in international/global organizations D Recognize the cultural context in which international HRM is practiced and analyze the implications for organizations E Discuss and advise on specific international HRM activities including expatriation and repatriation; learning and development; performance management; reward management and employee relations",
+        "Method of teaching and learning": "This module is delivered on a weekly basis through a combination of lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO303&psl_code=SEM1"
+    }
+  ]
+}

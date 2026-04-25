@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Affective Computing",
+  "module_code": "CPT414",
+  "offerings": [
+    {
+      "heading": "Affective Computing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Affective Computing",
+        "module_code": "CPT414",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Affective Computing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Affective Computing is an emerging field with the prime focus on developing intelligent systems that can perceive, interpret, and process human emotions, and respond accordingly. It incorporates interdisciplinary research areas such as Computer Science, Psychology, Cognitive Science, Machine Learning, and so on. This module aims to provide students with a comprehensive understanding of the fundamental concepts, techniques, and common applications of affective computing. It will equip students with both theoretical knowledge and practical skills, enabling them to analyse the characteristics of human emotional expression, conduct theoretical modelling, and develop affective computing algorithms. Through hands-on projects and case studies, students will gain a solid foundation to apply affective computing techniques in both academic and industry settings. This module is designed to fit seamlessly within the broader curriculum of Computer Science and related disciplines, addressing the growing demand for expertise in emotional intelligence within technology. As industries increasingly recognise the importance of human-centric design and user experience, the skills acquired in this module will be highly relevant for careers in software development, human-computer interaction, artificial intelligence, and robotics.",
+        "Learning outcomes": "A. Critically analyse the core concepts and theoretical foundations of affective computing. B. Compare and evaluate affective computing algorithms, assessing their performance across metrics such as efficiency, accuracy, and ethical implications. C. Design a solution to a complex problem in emotion perception, interpretation, or generation, selecting and applying appropriate affective techniques. D. Evaluate different models and algorithms in affective computing, synthesising findings to propose optimised or hybrid approaches.",
+        "Method of teaching and learning": "The lectures and lab sessions will introduce students to the theoretical knowledge and practical skills relevant to the subject of the module. The lectures will cover core concepts, methodologies, and applications of affective computing, while lab sessions will provide hands-on experience with tools, algorithms, and techniques used in the field. In addition, students are required to apply the knowledge and skills they have learned to analyse and evaluate industry-based cases and to complete the coursework tasks. To further enhance learning, the module will incorporate a combination of interactive teaching methods, including group discussions, case studies, and problem-solving exercises. These activities are designed to foster critical thinking, encourage collaboration, and deepen students' understanding of the subject matter."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT414&psl_code=SEM2"
+    }
+  ]
+}

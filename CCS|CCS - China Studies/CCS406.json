@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "China's Technology and Development",
+  "module_code": "CCS406",
+  "offerings": [
+    {
+      "heading": "China's Technology and Development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "China's Technology and Development",
+        "module_code": "CCS406",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "China's Technology and Development",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to help students to understand the impact of industrial policy on China’s economic development, with a particular focus on technology. It introduces students to a broad range of topics about the relationship between technology and development, seeking ways to understand this relationship with an emphasis on the role of government in business practices. In this module, we explore how industrial policy relates to technological advancements and how technology advancements can create wealth. We also explore how this wealth is shared in the process of economic development and global integration.",
+        "Learning outcomes": "A. Summarise the key changes in China’s industrial policy since 1978. B. Appraise the influences of technological advancements on development in China since 1978 C Synthesise and analyse the relationship between industrial policy and economic development D. Synthesise and analyse China’s major technological and development issues in the context of globalisation E. Demonstrate understanding and evaluate the policy responses of technological and development issues over time F. Conduct independent academic research.",
+        "Method of teaching and learning": "In the seminars students will able to have an in-depth discussion of weekly topics, and also to present their analysis of a specific topic from the syllabus. The essay plan and the essay will hone students’ analytical and writing abilities."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS406&psl_code=SEM2"
+    }
+  ]
+}

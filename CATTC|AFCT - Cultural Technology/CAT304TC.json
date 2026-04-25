@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "CATTC",
+    "full_name": "Cultural Technology"
+  },
+  "full_name": "Advanced Topics In Art, Technology, And Entertainment",
+  "module_code": "CAT304TC",
+  "offerings": [
+    {
+      "heading": "Advanced Topics In Art, Technology, And Entertainment",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CATTC",
+        "full_name": "Advanced Topics In Art, Technology, And Entertainment",
+        "module_code": "CAT304TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Advanced Topics In Art, Technology, And Entertainment",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to support you in developing your ability to identify and propose emerging socio-cultural trends in order to make meaningful contribution to your field of practice. Through evidence-based processes you will learn a variety of approaches to embed theory and research into your creative practice. With a focus on qualitative methodology you will be introduced to methodologies such as ethnography; phenomenology; intervention; and more. On successful completion of this module you should have an improved ability to situate and disseminate your practice within the historical, contemporary, and emerging creative industries.",
+        "Learning outcomes": "A Apply secondary and primary research methods to inform creative practice. B Demonstrate independent intellectual rigour in making and substantiating informed arguments and claims in your field of study. C Work independently and collaboratively to develop informed responses to open-ended technical and/or aesthetic topics. D Communicate research findings through applied creative practice.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures, tutorials and seminars. Lectures will be designed to provide essential information and introduce students to the basic tools of research and analysis, relevant to the creative industries, including practice in application. Tutorials will be designed to support student learning through individual and group based activities to inform their learning journey on the module. Seminars will be designed to provide students with the opportunity to develop their professional presentation skills and the practice of disseminating their thinking through a variety of traditional and contemporary media."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAT304TC&psl_code=SEM1"
+    }
+  ]
+}

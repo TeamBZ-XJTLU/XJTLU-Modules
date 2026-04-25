@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Introduction to Storytelling",
+  "module_code": "FTA117",
+  "offerings": [
+    {
+      "heading": "Introduction to Storytelling",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Introduction to Storytelling",
+        "module_code": "FTA117",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Storytelling",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to: Introduce students to the craft of storytelling including basic building blocks of character creation, intention, conflict etc. Provide a historical context for stories and myths from diverse cultures Engage students in the art of storytelling Promote the rules of storytelling and allow the generation of original stories",
+        "Learning outcomes": "A.Understand mythic structures and how they permeate film and TV stories B.Comprehend the significance of character arc and character development, conflict (inner and externalized); and how this can be conveyed to an audience C.Engage in the practical task of writing an original narrative story",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (Lectures and seminars). A series of lectures will provide the historical and conceptual background to understand the writer and his/her process Seminars will focus on the practical process of ideas generation and writing exercises."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA117&psl_code=SEM1"
+    }
+  ]
+}

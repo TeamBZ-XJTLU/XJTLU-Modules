@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Computational Materials Science",
+  "module_code": "CHE421",
+  "offerings": [
+    {
+      "heading": "Computational Materials Science",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Computational Materials Science",
+        "module_code": "CHE421",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Computational Materials Science",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to introduce students to essential molecular modelling techniques used in the field of materials science and engineering. Students will learn how to select and apply various computational methods used in materials science for crystal geometry optimisation and simulation of dynamic conditions. Based on the underlying theoretical principles of classical and quantum mechanics, students will be guided on the application of suitable molecular techniques and parameter selection in real material systems, and the interpretation of the obtained numerical results.",
+        "Learning outcomes": "A Make computational models that represent the real material system. B Select suitable molecular modelling techniques and simulate specific problems related to solid state materials. C Produce, analyse and compare data from the materials modelling with relevant studies in the literature. D Evaluate supportive technologies in molecular modelling processes.",
+        "Method of teaching and learning": "The module is delivered through formal lectures and computer practical classes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE421&psl_code=SEM1"
+    }
+  ]
+}

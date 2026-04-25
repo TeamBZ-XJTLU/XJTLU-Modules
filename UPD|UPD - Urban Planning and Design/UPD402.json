@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "UPD",
+    "full_name": "Urban Planning and Design"
+  },
+  "full_name": "Sustainable Urban Planning Strategies",
+  "module_code": "UPD402",
+  "offerings": [
+    {
+      "heading": "Sustainable Urban Planning Strategies",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "Sustainable Urban Planning Strategies",
+        "module_code": "UPD402",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Sustainable Urban Planning Strategies",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To offer theory and practice of sustainable urban planning To develop the necessary skills for analyzing urban plans and projects through the lens of sustainability To expose students to best practice examples and projects",
+        "Learning outcomes": "A. Demonstrate a critical understanding of urban issues (e.g. waste, water, energy, transportation, etc.), through the lens of sustainability. B. Synthesise sustainability principles in an integrated manner (including social, economic and environmental aspects) and apply them critically to urban issues C. Analyse and evaluate urban sustainability issues at different spatial scales and then produce short- and long-term strategies to cope with them. D. Communicate sustainability ideas to a specialist and non-specialist audience",
+        "Method of teaching and learning": "This module is delivered based on ‘student-oriented project-based research-led teaching & learning’ methods. A series of lectures and seminars where strategies and examples are presented, discussed and analyzed, will be used to provide suggestions on students’ coursework (i.e. a real project)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD402&psl_code=SEM1"
+    },
+    {
+      "heading": "Sustainable Urban Planning Strategies",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "Sustainable Urban Planning Strategies",
+        "module_code": "UPD402",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Sustainable Urban Planning Strategies",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To offer theory and practice of sustainable urban planning To develop the necessary skills for analyzing urban plans and projects through the lens of sustainability To expose students to best practice examples and projects",
+        "Learning outcomes": "A. Demonstrate a critical understanding of urban issues (e.g. waste, water, energy, transportation, etc.), through the lens of sustainability. B. Synthesise sustainability principles in an integrated manner (including social, economic and environmental aspects) and apply them critically to urban issues C. Analyse and evaluate urban sustainability issues at different spatial scales and then produce short- and long-term strategies to cope with them. D. Communicate sustainability ideas to a specialist and non-specialist audience",
+        "Method of teaching and learning": "This module is delivered based on ‘student-oriented project-based research-led teaching & learning’ methods. A series of lectures and seminars where strategies and examples are presented, discussed and analyzed, will be used to provide suggestions on students’ coursework (i.e. a real project)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD402&psl_code=SEM2"
+    }
+  ]
+}

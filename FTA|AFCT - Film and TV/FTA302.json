@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Digital Media Arts: Major Project",
+  "module_code": "FTA302",
+  "offerings": [
+    {
+      "heading": "Digital Media Arts: Major Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Digital Media Arts: Major Project",
+        "module_code": "FTA302",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "15",
+        "Module Level": "Level 3",
+        "Module Title": "Digital Media Arts: Major Project",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Running across two semesters, this major practice based project enables students to produce an individual or collaborative digital media arts project either self-generated or client-based. The content will vary from student to student and may make use of any of the production areas, previously covered by the students. Students will submit a written proposal or synopsis describing: the production aims, the nature of the target audience and creative treatment of the subject and form. The production process will include a research and development phase, after which the student will ‘pitch’ their production idea to a panel of staff and, where possible, specialist commissioning editors with a view to identifying the most appropriate projects. The restrictions on the topic will be its feasibility within the time and resources available, that it relates broadly to the aims, objectives and subject matter of the degree route of which it is part, that adequate supervisory expertise be available and that the topic lend itself to treatment of appropriate depth for Level Three of the degree route. Each project will be required to provide a formal timetable of production progress reports to their supervising tutor. Initial project notions could be profitably discussed with teaching staff. The projects can be a development of work undertaken in previous modules from the chosen medium, a new initiative, or a production utilising skills from more than one practical area.",
+        "Learning outcomes": "A apply research and creative production skills in a chosen medium, working on a collaborative or individual project as appropriate; B demonstrate specialist skills within their chosen production role/s; C produce an advanced level written documentation relating to production processes and evaluation of production roles and displaying a developed awareness of markets, audiences and industrial contexts; D critically evaluate and contextualise their production work within appropriate theoretical contexts; E present project development effectively to a panel.",
+        "Method of teaching and learning": "Lectures, workshops, presentations, self-directed research and practical project work, tutorials, written evaluation"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA302&psl_code=ACYR"
+    }
+  ]
+}

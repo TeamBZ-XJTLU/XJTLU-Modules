@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Digital Construction",
+  "module_code": "CEN423",
+  "offerings": [
+    {
+      "heading": "Digital Construction",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Digital Construction",
+        "module_code": "CEN423",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Digital Construction",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To enable students to comprehensively apply the techniques of Building Information Modelling (BIM) to create models contain precise geometry and data needed to support the construction, fabrication, and procurement activities through which the building is realized. The interoperability mechanism in fulfilling seamless information transferring between different stakeholders will be investigated in depth.",
+        "Learning outcomes": "A. Incorporate BIM techniques in the life cycle of the building, including design, construction, and operation and maintenance phases so as to explore the feasibility of more advanced BIM applications. B. Apply knowledge in multi-disciplinary design to integrate structure analysis and building service design by designing a small scale building, including structures, Mechanical, Electrical, and Plumbing (MEP), and other components using BIM software. C. Investigate more integrated design and construction process that results in better quality buildings at lower cost and reduced project duration. D. Enhance interoperability between different BIM platforms by investigating Industrial Foundation Classes (IFC) based data exchange. E. Develop user-tailored functionalities using basic programming skills and integrate information technology into BIM applications.",
+        "Method of teaching and learning": "The material in this module is delivered through a combination of lectures, seminars, and tutorials. Detailed BIM case studies will be assigned to groups of students to explore more information and to enhance their understanding. Revit software packages will be introduced during the tutorials. In addition, seminars will be offered to students from departmental Industrial Advisory Board (IAB) to gain industrial experiences."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN423&psl_code=SEM2"
+    }
+  ]
+}

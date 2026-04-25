@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "AI-Driven Sustainable Development",
+  "module_code": "SMO429",
+  "offerings": [
+    {
+      "heading": "AI-Driven Sustainable Development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "AI-Driven Sustainable Development",
+        "module_code": "SMO429",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "AI-Driven Sustainable Development",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a deep understanding of how Artificial Intelligence (AI) can drive sustainable development by tackling environmental, social, and economic challenges. It focuses on integrating AI into business strategies to achieve sustainability goals while addressing ethical considerations. The module fits within business management programs by emphasizing AI’s role in fostering sustainable innovation and corporate responsibility.",
+        "Learning outcomes": "A Analyze how AI transforms business models to promote sustainable development. B Critically assess ethical implications of AI in sustainability contexts. C Design AI-driven solutions for complex sustainability challenges through case studies and projects. D Evaluate AI’s contributions to environmental, social, and governance (ESG) goals. E Demonstrate knowledge of current AI technologies and their applications in sustainable development.",
+        "Method of teaching and learning": "Lectures: Core theoretical frameworks and industry insights. Tutorials: Personalized feedback and guidance on assessments and projects."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO429&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Business Strategy and Management",
+  "module_code": "ACC409",
+  "offerings": [
+    {
+      "heading": "Business Strategy and Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Business Strategy and Management",
+        "module_code": "ACC409",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 4",
+        "Module Title": "Business Strategy and Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "1. To enable students to understand how businesses analyse their internal resources and external environment and to be able to apply these skills to practical scenarios 2. To provide an understanding of how entities make strategic choices and then implement and monitor their strategies and develop skills which enable students to make and justify strategic choices in practical scenarios 3. To develop skills of data analysis to assist in understanding performance and strategic position and to inform the determination of appropriate choices 4. To understand the ethical implications of strategic choices at the level of both the organization and the individual",
+        "Learning outcomes": "A identify and analyse the consequences of a business’s current objectives, market position and overall direction B evaluate the likely consequences of strategic choices and recommend strategies to meet the objectives of a business C recommend appropriate methods of implementing strategies and demonstrate how management information can be used subsequently to measure and monitor strategic performance. D use professional judgement to apply appropriate models and analyse financial and non-financial data, in order to assess performance and strategic options and determine appropriate choices E evaluate the ethical implications of strategic choices at both the organisational level and that of the individual, with particular reference to the role of the accountant in business F analyse, synthesise and critically assess the theoretical and practical application of both traditional and modern business strategy and management techniques to help organizations’ design and implement these strategies in order to advance their competitiveness",
+        "Method of teaching and learning": "A range of teaching and learning methods will be utilized on this module. Core substantive knowledge will be delivered via a weekly 2-hour lecture, and the knowledge covered in lectures will be reinforced by practical student group work, culminating in participative tutorials of one-hour duration each week. Longer, case-based work will be delivered by means of two 2-hour seminars, which will again be participative in nature."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC409&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CIEHX",
+    "domain_code": "ENT",
+    "full_name": "Entrepreneurship"
+  },
+  "full_name": "Technology and Innovation Management",
+  "module_code": "ENT414TC",
+  "offerings": [
+    {
+      "heading": "Technology and Innovation Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENT",
+        "full_name": "Technology and Innovation Management",
+        "module_code": "ENT414TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Technology and Innovation Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module discusses a number of topics that critically affect technology-led startups often at the forefront of innovation with new applications of technology (or new underlying technology itself), as well as public and private sector organisations that frequently adopt such technologies / applications for the strategic, operational, financial benefit. Furthermore, consumers are also far more exposed now to emerging technologies and their applications for everyday purpose. That makes it all the more crucial to not just innovate, but also manage such innovation well for competitive and also productive purpose. Student will develop strong conceptual foundation to understand and exploit technological innovation based on principles of entrepreneurship. That includes knowledge of technology innovation lifecycle, innovation management frameworks, key stakeholder engagement, whether in context of specific sector and vertical focus, or more horizontal use of technology and connected innovation. The module through a range of case studies will cover different models to create, commercialise and capture value from technology-led products and services, whether in case of startups or established organisations .As importantly, this module aims to provide students with fundamental skills and new knowledge to identify opportunities, assess feasibility, and develop business plans so as to leverage and manage innovation in way that provides their venture or any organisation clear advantage through current product / service portfolio, while also keep a close watch on fast emerging technologies and their applications being used among sectoral peers, industry competitors, and skilled professionals to achieve success.",
+        "Learning outcomes": "A Analyze and evaluate the critical factors influencing successful technology adoption, development, and execution, applying insights to real-world scenarios for strategic advantage. B Manage innovation process through the product lifecycle in line with venture / business development roadmap. C Identify different kinds of technology-led innovation and strategy to apply / adopt, based on key value drivers D Write an effective feasibility study or business case to negotiate and secure funding for technology related innovation. E Articulate the importance of engaging diverse stakeholders, aligning technology strategies with broader business imperatives, and fostering collaboration to achieve innovation success.",
+        "Method of teaching and learning": "This module is delivered through an industry-engaged, problem/project-based learning (PBL) approach, replacing traditional lectures and tutorials with practical workshops/seminars and collaborative sessions. Real-world problems provided by industry partners form the foundation of learning, enabling students to apply theoretical concepts to authentic challenges. Students will develop key transferable skills, including teamwork, critical thinking, and professional communication, by preparing and delivering written and oral project outputs. This hands-on approach ensures a rich, applied learning experience aligned with industry expectations."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENT414TC&psl_code=SEM2"
+    }
+  ]
+}

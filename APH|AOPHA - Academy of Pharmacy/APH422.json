@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Dissertation",
+  "module_code": "APH422",
+  "offerings": [
+    {
+      "heading": "Dissertation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Dissertation",
+        "module_code": "APH422",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Dissertation",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the dissertation is to train students the ability to explore in depth a valid topic in the field of the whole program leading to the MSc degree, to facilitate students in developing independent research and presenting skills in scientific project that could be essential for their career.",
+        "Learning outcomes": "A Demonstrate a substantial and systematic understanding of recent research, theory and advanced scholarship in the areas of biostatistics and its related disciplines that are of relevance to their research topic. B Critically evaluate and apply knowledge and skills acquired throughout the programme to the identification and framing of specific research questions at the forefront of the biostatistics discipline. C Investigate questions and problems through the design and implementation of a research strategy and methodology appropriate to advanced study in their field. D Demonstrate appropriate academic rigor in the acquisition, organization, critical analysis and presentation of conceptual and empirical materials obtain ed from primary and secondary sources. E Accurately, coherently and persuasively communicate the research project, methodology and findings in an oral presentation. F Successfully produce a well-written, coherent and well-presented piece of work that makes an original and reflective contribution to knowledge whilst demonstrating good scholarship and conforming fully to standard academic conventions in the field of biostatistics and its related disciplines. G Demonstrate a sound understanding of research ethics appropriate to the research topic. H Think, learn and work independently whilst demonstrating initiative, responsibility, and originality in tackling and solving research problems in biostatistics.",
+        "Method of teaching and learning": "Students will mainly study and research under supervision. Two introductory seminars will be given by the module coordinator to provide students with instruction on the final year project including research philosophy, methodology, databases, etc., essential health and safety training, and general guidance on writing the preliminary report and dissertation and giving poster or oral presentations."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH422&psl_code=ACYR"
+    }
+  ]
+}

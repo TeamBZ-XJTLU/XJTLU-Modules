@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Consumer Behaviour",
+  "module_code": "IOM102",
+  "offerings": [
+    {
+      "heading": "Consumer Behaviour",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Consumer Behaviour",
+        "module_code": "IOM102",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Consumer Behaviour",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Given that the understanding of how consumers behave has been highlighted as one of the fundamental issues which serve to establish the identity of the field of marketing, the aim of this module is to develop the student's knowledge and understanding of the basic theory and applications in relation to consumer behaviour. Specifically, this module provided students with the means to develop a critical appreciation of the theory of consumer behaviour; in particular to evaluate the contribution of this knowledge to our understanding of marketing to enable students to reflect on the relationship of this theory to marketing practice",
+        "Learning outcomes": "A. Understand the nature and scope of the field of consumer behaviour B. Explain the key theories and frameworks of consumer behaviour C. Critically analyse consumer insights and behaviours based on theories and frameworks of consumer behaviour D. Critically evaluate a firm’s marketing strategy from the perspectives of consumer insights and behaviours E. Suggest a marketing plan from the consumer-centric perspective based on the consumer insights and behaviours",
+        "Method of teaching and learning": "The module involves a range of teaching strategies including lectures, student-led tutorials and case studies. Additional material will be in the form of web-based reading and research, selected texts, journal articles and contemporary magazines and press articles. Independent research and study will be encouraged throughout to complement group work activities. Students will be exposed to case studies on a range of marketing related issues, and will be given the opportunity to apply their learning to real consumer research opportunities/problems. Student led tutorial will facilitate the sharing of knowledge and experiences of cohort members. In addition, this course will utilise real market cases from various industries during both lectures and tutorials so that students can see how real companies use consumer behaviour to construct and implement marketing strategies."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM102&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Russia and China Great Powers in an Era of Global Disorder",
+  "module_code": "INS309",
+  "offerings": [
+    {
+      "heading": "Russia and China Great Powers in an Era of Global Disorder",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Russia and China Great Powers in an Era of Global Disorder",
+        "module_code": "INS309",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Russia and China Great Powers in an Era of Global Disorder",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The course will allow students to develop a broader understanding of Russia and China as 21st century powers, including their prospects for domestic growth and political development, their foreign policies and strategic cultures, as well as the developing Sino-Russian partnership. Particular emphasis will be paid to the impact that the two powers are having on the international order, and on such issues as security, global governance, and democracy and human rights.",
+        "Learning outcomes": "A. Critically analyze the rapidly evolving (and highly volatile) international context in which Russia and China conduct their foreign policies. B. Demonstrate understanding of Russia and China’s political and economic foreign decision making, challenges and opportunities. C. Analyze the factors that shape Russian and Chinese foreign policy, including their relationship with one another, as well as their impact on global governance, international security and the global economy. D. Identify and evaluate different theoretical and methodological approaches to studying Russia and China’s roles in international politics. E. Conduct basic research using multiple research tools. F. Demonstrate analytical skills in presentations and academic writing.",
+        "Method of teaching and learning": "The course combines lectures with discussion seminars, organized debates, and in-class scenario games that engage students and help them develop a better understanding of the topics covered in the course. The course approaches these topics from the perspective of different IR theories (e.g. realism, liberalism, constructivism, English School, Critical Theories), giving the students an opportunity to use theories as a tool to better understand international politics."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS309&psl_code=SEM1"
+    }
+  ]
+}

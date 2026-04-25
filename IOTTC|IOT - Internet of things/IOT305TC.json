@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOT",
+    "domain_code": "IOTTC",
+    "full_name": "Internet of things"
+  },
+  "full_name": "Final Year Project",
+  "module_code": "IOT305TC",
+  "offerings": [
+    {
+      "heading": "Final Year Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOTTC",
+        "full_name": "Final Year Project",
+        "module_code": "IOT305TC",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 3",
+        "Module Title": "Final Year Project",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to give students the opportunity to work in a guided but independent fashion to explore a substantial problem in depth, making practical use of principles, techniques and methodologies acquired elsewhere in their degree. Students will have the experiences of carrying out a large piece of individual work and in producing a dissertation. They will have opportunity to enhance their communication skills, both oral and written. The module introduces students to research styles and methodologies specific to/outwith their degree programmes. It also will prepare them for more advanced study in a particular field.",
+        "Learning outcomes": "A. Specify a substantial research problem, and produce a plan to address the problem B. Manage their time effectively so as to carry out their plan C. Locate and make use of information relevant to their project D. Design a solution for the substantial research problem E. Implement and test their solution F. Evaluate in a critical fashion the work they have done, and to place it in the context of scholarship and literature in the related field G. Prepare and deliver a formal presentation H. Prepare and deliver a demonstration of software I. Structure and write a dissertation that presents the research purpose and questions, a critical review of relevant literature, research methodology, design and implementation of the method for the research problem, experiment and evaluation, and conclusions.",
+        "Method of teaching and learning": "In the module we wish to foster independent learning of the students under the guidance of supervisors. Students are informed of the research interests of the staff and discuss with them the possibility of the project supervision. The students are responsible for undertaking the research and meeting all deadlines. Through regular meetings the supervisors provide feedback on all aspects of the project and give support and guidance as needed. To give students the necessary skills to complete the project there is a series of workshop/tutorial sessions (provided by the Language Centre of XJTLU for final year students) on research methods in both semesters to introduce skills that are essential in conducting research and writing a successful FYP dissertation."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOT305TC&psl_code=ACYR"
+    }
+  ]
+}

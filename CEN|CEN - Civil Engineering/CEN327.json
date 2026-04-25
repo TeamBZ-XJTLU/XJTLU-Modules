@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Geotechnical Engineering",
+  "module_code": "CEN327",
+  "offerings": [
+    {
+      "heading": "Geotechnical Engineering",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Geotechnical Engineering",
+        "module_code": "CEN327",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Geotechnical Engineering",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To advance students’ knowledge in soil mechanics and to develop their skills in the design of various types of foundations and retaining structures.",
+        "Learning outcomes": "A Determine pore water pressure and lateral earth pressure imposed on retaining walls. B Investigate quantitatively the stability of retaining structures (such as gravity, embedded, propped/anchored retaining walls) and provide geotechnical design solutions for these retaining structures. C Apply principles of foundation design and construction including pads, strips, raft, piles and pile caps. D Compare foundation types and/or validate the results. E Analyse experimental results of triaxial tests and determine their validity and accuracy.",
+        "Method of teaching and learning": "The module is taught through formal lectures and class tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN327&psl_code=SEM1"
+    }
+  ]
+}

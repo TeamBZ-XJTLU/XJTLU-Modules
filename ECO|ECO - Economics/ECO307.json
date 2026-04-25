@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Sustainable Development I",
+  "module_code": "ECO307",
+  "offerings": [
+    {
+      "heading": "Sustainable Development I",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "ECO",
+        "full_name": "Sustainable Development I",
+        "module_code": "ECO307",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Sustainable Development I",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to explain to students the concept of sustainable development, development goals, history of development, theories of development, and a few important issues about sustainable development: poverty, inequality, health, education, gender, agriculture, urbanization, business and climate changes. Lastly the module discusses the policies and actions to achieve sustainable development. The module is complemented by successive Sustainable Development II module that introduces the role of environment, resource, energy and biodiversity in sustainable development.",
+        "Learning outcomes": "A. Understand the concept of sustainable development, and the history and current levels of global development and well-being B. Apply economic theory and economic reasoning to key issues in sustainable development, such as poverty, inequality, education, health, gender, agriculture, urbanization, business, and climate changes. C. Discuss, analyse and evaluate the actions of government, international organizations, NGOs, and individuals to achieve sustainable development. D. Collect, organize and present data to assess the status of achieving SDG goals using appropriate statistical techniques.",
+        "Method of teaching and learning": "This module will be delivered via a combination of lectures and tutorials. Lectures are designed to provide essential information on various topics in sustainable development. Tutorials will provide students with a learning opportunity designed to extend the material introduced in the lectures through the in-depth analysis of specific problems from various topics covered in the module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO307&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "ARC",
+    "full_name": "Architecture"
+  },
+  "full_name": "Explore Architecture and Visual Culture",
+  "module_code": "ARC001",
+  "offerings": [
+    {
+      "heading": "Explore Architecture and Visual Culture",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ARC",
+        "full_name": "Explore Architecture and Visual Culture",
+        "module_code": "ARC001",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Explore Architecture and Visual Culture",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Introduction to Architecture and Visual Culture aims to awaken the students’ creative abilities, develop latent aptitudes and encourage their passion for architecture, through concentrating on three particular aspects:  Understanding to see: To introduce a new way of seeing and understanding creative activities through analogous experimentation based on modern and contemporary artists’ research;  Understanding to do: To introduce and explore spatial relationships through various media;  Understanding to communicate: To understand architecture not only about space and building but also about something that happens in it.",
+        "Learning outcomes": "A Identify the cultural base of various artistic disciplines related to architecture. B Demonstrate a comprehension of the connections and transitions between various forms of visual media and representation related to architecture. C Assess and evaluate various forms of visual communication.",
+        "Method of teaching and learning": " The module will be delivered in On-Line mode.  The module will be based on three types of activities: lecture, workshop, and tutorial.  Students train their skills, improve their competencies through practice during private studies, and conduct their studies and research.  Students will get feedback through a critical review of selected coursework.  Students will be given short exercises to solve progressively throughout the semester.  The final module assessment will combine these smaller components, reconfigured to produce a coherent whole.  Some sessions of this module will be taught by tutors from the Language Centre to assist students with the language/study skills requirements for the module. Students will also be provided with On-Line language/study skills support to help them engage with the module content."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ARC001&psl_code=SEM1"
+    }
+  ]
+}

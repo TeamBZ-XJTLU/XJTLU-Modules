@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Sustainable Drainage Systems",
+  "module_code": "CEN405",
+  "offerings": [
+    {
+      "heading": "Sustainable Drainage Systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Sustainable Drainage Systems",
+        "module_code": "CEN405",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Sustainable Drainage Systems",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module is to provide the theoretical, technical and legal framework necessary for the incorporation of sustainable practices in urban drainage systems.",
+        "Learning outcomes": "A. On the basis of firm understanding of advanced hydraulic and hydrological concepts, to be able to predict the frequency and magnitude of extreme storm events for the design and optimization of urban drainage systems B. To assess the functionality, application and selection of Sustainable Urban Drainage Systems (SUDS) and appreciate the significance of water re-usage and utilization. C. To appreciate the impacts of flooding, estimate flood risks and apply flood estimation procedures for flood protection and control D. To design permeable pavements and appraise the importance of road drainage E. To appraise the importance of consulting the local and international regulations and directives (Environmental Agencies and Local Authorities). F. To be able to appreciate the significance of sustainability in water resources engineering and sustainable urban drainage systems",
+        "Method of teaching and learning": "Lectures and problem solving sessions will be given to provide the underlying knowledge of the subject. Learners will, in general work individually but group work will be beneficial for tutorials. Presentation work will make use of a case study. The delivery of this module will be enhanced by site visits and local flood case studies."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN405&psl_code=SEM1"
+    }
+  ]
+}

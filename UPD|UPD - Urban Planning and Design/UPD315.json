@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "UPD",
+    "full_name": "Urban Planning and Design"
+  },
+  "full_name": "Planning Practice Studio",
+  "module_code": "UPD315",
+  "offerings": [
+    {
+      "heading": "Planning Practice Studio",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "Planning Practice Studio",
+        "module_code": "UPD315",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Planning Practice Studio",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide an overview of 1) major issues and debates in environmental planning and management, and 2) key strategies, techniques and methods applied in the planning and management of land and other critical environmental resources. It serves as a linkage between knowledge accumulation and practical exercises in urban and regional planning.",
+        "Learning outcomes": "A. understand the concept of sustainability and be capable of relating it to the issues and practice of urban and regional planning and development; B. comprehend complexities in environmental planning and decision-making processes and procedures C. use basic instruments, techniques and methods applied in environmental planning and management D. allocate appropriate environmental assessment methods to development projects, policies and plans; E. communicate environmental land use plans and policies to a wide audience.",
+        "Method of teaching and learning": "The module seeks to provide a varied learning experience with an emphasis on both knowledge and skills development. It combines lectures, case studies, field trips, practical exercises and tutorials. By exposing students to both issues/debates and techniques/methods in environmental planning and management, the module seeks to help students understand the complexities of environmental issues as well as the diversities in environmental planning and management approaches in the real world. Special attention will be paid to particular social contexts and geographic scales in which certain environmental planning and management approaches are applied. *Should the University decide to cancel or postpone the field trip due to unforeseen environmental and/or political circumstances, the Department will either plan an appropriate substitute activity to meet the intended learning outcomes of the trip or make necessary arrangements to organise the trip at a later time, as appropriate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD315&psl_code=SEM1"
+    }
+  ]
+}

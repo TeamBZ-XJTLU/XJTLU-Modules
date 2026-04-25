@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Construction Planning and Control",
+  "module_code": "CEN422",
+  "offerings": [
+    {
+      "heading": "Construction Planning and Control",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Construction Planning and Control",
+        "module_code": "CEN422",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Construction Planning and Control",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To enable students to apply the techniques of construction planning and control. To optimize the construction process so as to minimize the related cost. To develop the knowledge required for the construction planning and control involved in the construction activities of a building. To apply the principles and techniques onto simulated projects. In addition, seminars will be provided to students from departmental Industrial Advisory",
+        "Learning outcomes": "A. Reinforce the fundamental principles used in the processes and the methodology of project planning and control of construction projects. B. Comprehensively apply methods for construction planning and control. C. Optimize utilization of resources. D. Apply the principles and techniques in simulated projects.",
+        "Method of teaching and learning": "The module is delivered through individual and group lectures and tutorials. A design project will be assigned to groups of students to design a building including structures, building envelopes, and building service systems, construction process."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN422&psl_code=SEM2"
+    }
+  ]
+}

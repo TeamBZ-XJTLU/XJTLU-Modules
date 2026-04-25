@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "MTS",
+    "full_name": "Material Science"
+  },
+  "full_name": "Materials Processing",
+  "module_code": "MTS202",
+  "offerings": [
+    {
+      "heading": "Materials Processing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTS",
+        "full_name": "Materials Processing",
+        "module_code": "MTS202",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Materials Processing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The Materials Processing module aims to provide students with a comprehensive understanding of the fundamental and advanced techniques used in processing materials, including metals, ceramics, and composites. The module focuses on key processes such as casting, powder metallurgy, metal forming, heat treatment, and advanced manufacturing methods like additive manufacturing and spark plasma sintering. By the end of the module, students will develop the ability to assess the relationships between processing techniques, microstructure, and material properties, enabling them to select the most appropriate processing methods for various applications. This module equips students with the practical skills and theoretical understanding necessary for advanced studies in materials engineering, manufacturing, and research. By linking processing methods to material performance, the module plays a critical role in preparing students to innovate and optimize materials for diverse industrial applications.",
+        "Learning outcomes": "Students completing the module successfully should be able to: By the end of the module, students should be able to: A. Understand fundamental concepts of materials processing. B. Understand microstructural development and phase transformation during material processing. C. Understand the principles of casting (metals and alloys) and powder metallurgy (metals, ceramics, and composites). D. Describe different advanced manufacturing techniques, such as additive manufacturing and spark plasma sintering. E. Identify the correlations between material processing, microstructure, and properties. F. Select appropriate processing methods based on material properties and performance.",
+        "Method of teaching and learning": "This module will be delivered through a combination of lectures, tutorials, and laboratory sessions. Lectures will cover essential concepts and provide foundational knowledge related to materials processing techniques, microstructural development, and their effect on material properties. Tutorials will involve problem-solving exercises that extend the material presented in lectures, encouraging students to actively engage with the content and apply their understanding to real-world scenarios. Laboratory sessions will offer hands-on experience with advanced processing techniques, such as powder metallurgy, and spark plasma sintering, allowing students to connect theoretical knowledge with practical application. These activities are designed to foster a comprehensive understanding of materials processing, from fundamental principles to advanced manufacturing techniques, and to develop the skills necessary for selecting appropriate processing methods based on material properties and performance."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTS202&psl_code=SEM2"
+    }
+  ]
+}

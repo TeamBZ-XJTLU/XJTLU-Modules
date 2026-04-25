@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LTS",
+    "domain_code": "TRI",
+    "full_name": "Translation and Interpreting"
+  },
+  "full_name": "Literary Translation",
+  "module_code": "TRI209",
+  "offerings": [
+    {
+      "heading": "Literary Translation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "TRI",
+        "full_name": "Literary Translation",
+        "module_code": "TRI209",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Literary Translation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module explores key issues concerning both translation and literature. The lecture introduces major literary genres in Chinese that are translated into English, and vice versa. In the tutorial students are required to do hands-on translation practice in accordance with corresponding literary genres discussed in the lecture in order to hone their translation skills. The literary genres typically include adventure, biography/autobiography, drama, essay, fable, fairy tale, fantasy, folklore, historical fiction, horror, humor, informational, legend, mystery, mythology, narrative nonfiction, poetry, realistic fiction, romance. Science fiction, short story, speech, tall tale and thriller. Half of the texts are translated from Chinese into English, and half from English into Chinese. By examining a wide range of literary themes, formats and their cross-cultural translations, this module aims to equip students with fundamental knowledge about the translation of disparate literary forms, the ways in which translators have approached them and reflected on their translations. In doing so students will cultivate an awareness of critical thinking about literary genre analysis. Through translation practice, students will develop advanced skills in translation, trans-editing, trans-creation and ultimately, persuasive translation-writing in the target language.",
+        "Learning outcomes": "A. Demonstrate an understanding of literary phenomena, text genres and forms in translation B. Analyse and evaluate selected translated literary texts in the historical, literary, and cultural context of the source text and the target text C. Use translating tools to make effective responses to various translated literary texts D. Demonstrate familiarity in translating literary texts, reflect on translation strategies, and improve translation skills E. Critically evaluate the differences between Chinese and English literature, and ways to deal with these differences in translation from local and global perspectives",
+        "Method of teaching and learning": "The teaching is divided into lectures and tutorials. Lectures are designed to equip students with a comprehensive understanding of major literary genres and their representative translations, and to provide critical and conceptual frameworks for thinking about and translating these literary texts. Tutorials intend to offer students a space to practice translation of different text types, and to present their translations and reflections on individual or group basis so as to encourage discussion and debate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=TRI209&psl_code=SEM1"
+    }
+  ]
+}

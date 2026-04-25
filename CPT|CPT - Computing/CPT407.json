@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Databases and Data Management",
+  "module_code": "CPT407",
+  "offerings": [
+    {
+      "heading": "Databases and Data Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Databases and Data Management",
+        "module_code": "CPT407",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Databases and Data Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide a thorough and structured exploration of information systems, with a particular emphasis on database systems and contemporary web-based database technologies. It seeks to develop students' critical understanding of the design, functionality and practical applications of these systems. The module also aims to equip students with the foundational knowledge and methodologies required for advanced study and professional practice in the areas of database design, management and analysis. As such, it is ideally suited for students pursuing careers or further academic work in fields related to data systems and information technology.",
+        "Learning outcomes": "A. Critically analyze and interpret the structure, functionality, and design principles of relational databases; B. Design and implement database systems using E-R diagrams and SQL; C. Integrate theoretical knowledge into the practical application and implementation of database systems.",
+        "Method of teaching and learning": "Students are required to attend a two-hour formal lecture and a one-hour laboratory session each week. Throughout the course, illustrative examples, supported by University-approved generative AI tools, will be employed to demonstrate the effective design, implementation and utilization of databases. In addition, students are expected to engage in 8–10 hours of independent study per week to reflect on lecture content, consolidate learning and complete recommended readings. Summative assessments include two class tests, designed to evaluate students’ engagement with the weekly lectures and laboratory activities. By the end of the semester, students will complete a comprehensive practical database design and implementation task, focusing on applying the theoretical knowledge and skills gained throughout the course. This may include drafting SQL queries and relational algebra expressions, normalizing database tables, constructing E-R diagrams, and/or analyzing transactions and functional dependencies."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT407&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Final Year Project",
+  "module_code": "BIO319",
+  "offerings": [
+    {
+      "heading": "Final Year Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Final Year Project",
+        "module_code": "BIO319",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "15",
+        "Module Level": "Level 3",
+        "Module Title": "Final Year Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are to provide students with hands-on, authentic research experience in the planning, design, and execution of an individual research project conducted on a defined topic through extended, supervised participation in either laboratory or field work. This capstone experience is integral to the BSc Bioinformatics programme, bridging theoretical knowledge with practical applications. This module equips students with the research, analytical, programming and communication skills and experience needed to be competitive for graduate school or post-graduation job opportunities. Particularly emphasis is given to the ability to generate reproducible computational methods (software, pipelines, repositories etc.).",
+        "Learning outcomes": "A. Plan and execute realistic research goals and demonstrate effective time management. B. Generate reliable and reproducible data using appropriate methodologies. C. Generate reliable and reproducible data using appropriate methodologies and demonstrate computational reproducibility through a functional, documented artifact (e.g., code, pipeline, website, software package, app, or notebook). D. Provide a well-structured and coherent written report of project outcomes, effectively communicating scientific findings. E. Deliver an oral presentation of project findings with appropriate content, structure, and visual aids. F. Design a poster presentation summarizing research findings clearly and concisely for a professional audience.",
+        "Method of teaching and learning": "This module emphasizes fostering independent learning under the guidance of a supervisor. Students are provided with an overview of staff research interests and are encouraged to discuss potential projects with staff members to identify a suitable supervisor. Supervisors may propose projects, but students can also suggest their own ideas, subject to supervisor approval. Once a project is agreed upon, students are responsible for undertaking the research, managing their time effectively, and meeting all deadlines. They will engage in regular meetings with their supervisor, during which they will receive feedback on their progress and guidance on how to overcome challenges. Supervisors will also provide support in refining research methodologies and interpreting data and developing computational artifacts (e.g., code, pipelines, website, software package, app, or notebooks) where applicable. Day-to-day supervision and technical advice may be provided by research/technical staff or postgraduate research students. Students will attend lectures on scientific writing and presentation skills, covering literature reviews, structuring arguments, and data visualization. Workshops will offer opportunities for peer feedback on draft reports, oral presentations, and posters. Purpose of Oral and Poster Presentations The oral presentation provides an opportunity for students to effectively communicate their research findings, demonstrating their understanding and ability to respond to questions. The poster presentation focuses on summarizing the project concisely and clearly for a professional audience. By the end of the module, students are expected to independently produce a high-quality research report, present their findings, and demonstrate the ability to critically evaluate their work through written and oral communication."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO319&psl_code=SEM2"
+    }
+  ]
+}

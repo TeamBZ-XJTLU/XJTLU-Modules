@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DES",
+    "domain_code": "DES",
+    "full_name": "Design"
+  },
+  "full_name": "Regenerative Design",
+  "module_code": "DES101",
+  "offerings": [
+    {
+      "heading": "Regenerative Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DES",
+        "full_name": "Regenerative Design",
+        "module_code": "DES101",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Regenerative Design",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module provides a theoretical framework and an applied project around the multi-scale and multidisciplinary theme of regenerative design, reflecting the contemporary industry and economic context in China and other developed countries. It addresses the \"Built Environment\" in its broader connotation, including all infrastructures, landscapes, buildings and objects that shape the human habitat. Rapid urban expansion, widespread new construction and mass production based on the paradigms of the linear economy are being replaced by new models supporting sustainability and resilience. Students will appreciate the dynamic nature of the built environment, its interactions with ecosystems and society, and its need for continuous adaptation and transformation. They will also experiment with the complexities and challenges of a real-life project.",
+        "Learning outcomes": "A. Summarise the main impacts of the built environment and industrial products on the ecosystems and of climate change on the built environment. B. Discuss principles of regenerative design and its applications. C. Develop proposals and projects to solve practical problems using the approaches and methods of regenerative design.",
+        "Method of teaching and learning": "The module is taught in weekly meetings articulated in lectures and practical sessions. The former provides the relevant theoretical knowledge, while the latter promotes active learning through discussions, case studies and group work to support the coursework's development. Students will be guided through the application of a range of methods and tools, including digital modelling and artificial intelligence. Students are required to study and conduct research independently during their self-study time, consolidate the knowledge discussed in class, and develop substantial coursework through which their academic attainment will be assessed. The coursework consists of an applied project that may be offered in collaboration, or in association, with: 1. School-approved Industry Partners 2. School Research Units 3. Funded Research Projects"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DES101&psl_code=SEM1"
+    }
+  ]
+}

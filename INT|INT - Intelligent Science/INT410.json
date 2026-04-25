@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Advanced Pattern Recognition",
+  "module_code": "INT410",
+  "offerings": [
+    {
+      "heading": "Advanced Pattern Recognition",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INT",
+        "full_name": "Advanced Pattern Recognition",
+        "module_code": "INT410",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Pattern Recognition",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides an exploration of advanced pattern recognition techniques, equipping students with the theoretical knowledge and practical skills required to design, implement, and critically evaluate pattern recognition systems. It builds on foundational concepts by introducing methodologies and real-world applications, ensuring students can solve computational problems. Aligned with the broader programme, the module develops analytical and problem-solving skills essential for research and industry. Through this course, students will gain experience in evaluating techniques, improving system performance, and making informed design decisions—skills that support future work in machine learning, computer vision, and related fields.",
+        "Learning outcomes": "A. Critically assess and synthesise recent advances and research findings in the field of pattern recognition, demonstrating a thorough understanding of emerging trends and technologies. B. Design, implement, and critically evaluate various pattern recognition techniques, based on specific application contexts and performance metrics. C. Develop pattern recognition systems that meet specified objectives such as performance optimisation, cost-efficiency, and real-world applicability. Assess their societal impact, and articulate the rationale behind design choices. D. Apply advanced pattern recognition methodologies to analyse, model, and solve practical engineering problems. Critically appraise the effectiveness of the chosen solutions.",
+        "Method of teaching and learning": "This module employs a balanced approach to develop both theoretical knowledge and practical skills in pattern recognition. Core concepts and methodologies are presented through structured lectures. Hands-on laboratory sessions provide students with guided opportunities to implement these techniques using real-world datasets and software tools. Interactive seminars form an integral part of the learning process, where students engage in focused discussions about contemporary applications and challenges in pattern recognition. Students engage in individual work to explore real-world research scenarios, evaluating their communication skills through reporting on lab code implementation and results analysis."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT410&psl_code=SEM1"
+    }
+  ]
+}

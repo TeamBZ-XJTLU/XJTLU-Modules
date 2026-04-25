@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Introductory Organic Chemistry I",
+  "module_code": "CHE113",
+  "offerings": [
+    {
+      "heading": "Introductory Organic Chemistry I",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Introductory Organic Chemistry I",
+        "module_code": "CHE113",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introductory Organic Chemistry I",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to ensure that students are aware of fundamental principles of organic chemistry, including nomenclature, structure and bonding, and the basic principles of static and dynamic stereochemistry. The major reactions associated with the common functional groups will be covered with emphasis on reaction mechanisms.",
+        "Learning outcomes": "A draw structures and predict shapes of major classes of organic compounds B understand the principles of bonding in major classes of organic compounds C understand the basic principles of stereochemistry assignment D understand some important reactions of a range of functional groups E show an understanding of the major types of reaction mechanisms",
+        "Method of teaching and learning": "Lectures and tutorials"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE113&psl_code=SEM1"
+    }
+  ]
+}

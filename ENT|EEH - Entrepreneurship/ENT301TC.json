@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEH",
+    "domain_code": "ENT",
+    "full_name": "Entrepreneurship"
+  },
+  "full_name": "Capstone Project",
+  "module_code": "ENT301TC",
+  "offerings": [
+    {
+      "heading": "Capstone Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENT",
+        "full_name": "Capstone Project",
+        "module_code": "ENT301TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Capstone Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this dissertation module is to enable students to undertake a significant piece of independent research on a particular topic in practice of entrepreneurship. This module provides students with opportunities to: (i) apply their learning to analyse contemporary and ‘cutting edge’ problems and issues of relevance to entrepreneurs; (ii) deepen their knowledge and understanding of a particular practical topic of interest to them; (iii) produce a project of practical value from conception to a final report; (iv) further their independent research skills (i.e. data management, project management, writing and presenting findings); (v) enhance their intellectual and employability skills and their career prospects, and (iv) make an original contribution with practical value.",
+        "Learning outcomes": "A. Identify a prospective problem space or a challenge in a chosen organizational or societal context for technology innovation to take place. B. Interrogate issues from multiple perspective to gain insights into selected context and to identify avenues for mobilizing technology. C. Explore, devise, and justify generative, experimental, adaptive and analytical processes to understand the needs, interests and values for multiple stakeholders. D. Abstract concepts or ideas to create business plan for specific challenges and/or contexts",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. As this capstone project is executed with independent research and test, students are expected to independently manage the time and workload with the support of their project supervisors. Support to research methodology and method training is provided. Students are expected to work on their confirmed project plans once their supervisors approve. Supervisors are expected to meet with their students and support in key aspects of their capstone projects including topic selection, research design, research methodology and methods, data analysis, findings, as well as application and further test (if applicable)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENT301TC&psl_code=SEM2"
+    }
+  ]
+}

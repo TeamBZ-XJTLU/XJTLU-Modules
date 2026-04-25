@@ -1,0 +1,80 @@
+{
+  "department": {
+    "department_code": "EEH",
+    "domain_code": "ENT",
+    "full_name": "Entrepreneurship"
+  },
+  "full_name": "Entrepreneur Project",
+  "module_code": "ENT409TC",
+  "offerings": [
+    {
+      "heading": "Entrepreneur Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENT",
+        "full_name": "Entrepreneur Project",
+        "module_code": "ENT409TC",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "40",
+        "Module Level": "Level 4",
+        "Module Title": "Entrepreneur Project",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "For those who follow the Entrepreneur Project within the degree programme, this two semester (semester 3 and 4) module provides students with the opportunities and facilities to develop their own startup. It enables students to apply knowledge and skills to launch a startup with dedicated support and advice from experts, and investors within the safe environment of the university incubator. If students have already launched their own startup before joining the programme, the module gives them the opportunity to refine a specific aspect of the startup’s business development. The startup would be expected to be within the programme 11 pathways that has been chosen.",
+        "Learning outcomes": "A Demonstrate independent critical thought and rational inquiry whilst establishing a startup. B Demonstrate creativity and intellectual curiosity in both the application and synthesis of knowledge within the startup in the chosen pathway. C Critically self-reflect and demonstrate an awareness and openness to the business world, based on an appreciation of social and cultural diversity. D Critically apply lessons learnt within the programme in establishing the startup.",
+        "Method of teaching and learning": "To be eligible for the module, all students must submit a proposal and pitch it to the programme team. If successful students, will be allocated a supervisor and an industry mentor to monitor progress on the module. The Business Startup is assessed via an individual portfolio containing evidence and self-evaluation of the achievement of the learning outcomes of the module. It is not assessed on how successful the start-up is at the end of the academic year. Details of the components of the individual portfolio are contained in the module handbook."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENT409TC&psl_code=ACYR"
+    },
+    {
+      "heading": "Entrepreneur Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENT",
+        "full_name": "Entrepreneur Project",
+        "module_code": "ENT409TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "40",
+        "Module Level": "Level 4",
+        "Module Title": "Entrepreneur Project",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "For those who follow the Entrepreneur Project within the degree programme, this two semester (semester 3 and 4) module provides students with the opportunities and facilities to develop their own startup. It enables students to apply knowledge and skills to launch a startup with dedicated support and advice from experts, and investors within the safe environment of the university incubator. If students have already launched their own startup before joining the programme, the module gives them the opportunity to refine a specific aspect of the startup’s business development. The startup would be expected to be within the programme 11 pathways that has been chosen.",
+        "Learning outcomes": "A Demonstrate independent critical thought and rational inquiry whilst establishing a startup. B Demonstrate creativity and intellectual curiosity in both the application and synthesis of knowledge within the startup in the chosen pathway. C Critically self-reflect and demonstrate an awareness and openness to the business world, based on an appreciation of social and cultural diversity. D Critically apply lessons learnt within the programme in establishing the startup.",
+        "Method of teaching and learning": "To be eligible for the module, all students must submit a proposal and pitch it to the programme team. If successful students, will be allocated a supervisor and an industry mentor to monitor progress on the module. The Business Startup is assessed via an individual portfolio containing evidence and self-evaluation of the achievement of the learning outcomes of the module. It is not assessed on how successful the start-up is at the end of the academic year. Details of the components of the individual portfolio are contained in the module handbook."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENT409TC&psl_code=SEM1"
+    },
+    {
+      "heading": "Entrepreneur Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENT",
+        "full_name": "Entrepreneur Project",
+        "module_code": "ENT409TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "40",
+        "Module Level": "Level 4",
+        "Module Title": "Entrepreneur Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "For those who follow the Entrepreneur Project within the degree programme, this two semester (semester 3 and 4) module provides students with the opportunities and facilities to develop their own startup. It enables students to apply knowledge and skills to launch a startup with dedicated support and advice from experts, and investors within the safe environment of the university incubator. If students have already launched their own startup before joining the programme, the module gives them the opportunity to refine a specific aspect of the startup’s business development. The startup would be expected to be within the programme 11 pathways that has been chosen.",
+        "Learning outcomes": "A Demonstrate independent critical thought and rational inquiry whilst establishing a startup. B Demonstrate creativity and intellectual curiosity in both the application and synthesis of knowledge within the startup in the chosen pathway. C Critically self-reflect and demonstrate an awareness and openness to the business world, based on an appreciation of social and cultural diversity. D Critically apply lessons learnt within the programme in establishing the startup.",
+        "Method of teaching and learning": "To be eligible for the module, all students must submit a proposal and pitch it to the programme team. If successful students, will be allocated a supervisor and an industry mentor to monitor progress on the module. The Business Startup is assessed via an individual portfolio containing evidence and self-evaluation of the achievement of the learning outcomes of the module. It is not assessed on how successful the start-up is at the end of the academic year. Details of the components of the individual portfolio are contained in the module handbook."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENT409TC&psl_code=SEM2"
+    }
+  ]
+}

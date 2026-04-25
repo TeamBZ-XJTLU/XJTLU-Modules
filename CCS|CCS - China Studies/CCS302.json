@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "China: Social Policy",
+  "module_code": "CCS302",
+  "offerings": [
+    {
+      "heading": "China: Social Policy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "China: Social Policy",
+        "module_code": "CCS302",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "China: Social Policy",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To understand the evolution of social policy in China through an examination of theories and ideologies influencing it, to then carry out an analysis of such policies.",
+        "Learning outcomes": "A. Demonstrate understanding of the implementation of social policy in the Chinese context; B. Analyse how different philosophical concepts affect the development of social policy in China C. Compare China’s social policy with policies in other countries. D. Examine the consequences of market mechanisms during the reform era and their impacts on current social policies. E. Interrogate the process of social policy legitimization during the reform era. F. Identify the main targets of China’s social policies to explain the decision-making process. G. Conduct problem-centred policy analysis and provide policy recommendations",
+        "Method of teaching and learning": "Seminars for rehearsal of weekly topics; project work including preparation and presentation of an essay, as well as seminar participation. Teaching and learning is through the medium of English, and no knowledge of Chinese is required"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS302&psl_code=SEM2"
+    }
+  ]
+}

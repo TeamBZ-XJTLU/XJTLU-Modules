@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "UPD",
+    "full_name": "Urban Planning and Design"
+  },
+  "full_name": "Place-making and Urban Design",
+  "module_code": "UPD407",
+  "offerings": [
+    {
+      "heading": "Place-making and Urban Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "Place-making and Urban Design",
+        "module_code": "UPD407",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Place-making and Urban Design",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module provides students with a critical understanding of the roles of place-making and urban design in urban planning and regeneration, and enables them to develop the the various urban design skills and techniques needed to conceive and present a place-making project.",
+        "Learning outcomes": "A. Critically relate and interpret the key theories that support place-making and urban design practice B. Present an advanced understanding and summarize the role of place-making in urban regeneration projects C. Demonstrate an advanced ability to identify and assess place characteristics in different urban settings D. Effectively combine urban design techniques to develop place making E. Manage a comprehensive range of visual, oral, and written media and methods to explain design proposals effectively",
+        "Method of teaching and learning": "Lectures and group discussions, supplemented by homework reading and a practical project"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD407&psl_code=SEM1"
+    }
+  ]
+}

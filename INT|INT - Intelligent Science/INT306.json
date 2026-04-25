@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INT",
+    "domain_code": "INT",
+    "full_name": "Intelligent Science"
+  },
+  "full_name": "Computer Auditory Systems",
+  "module_code": "INT306",
+  "offerings": [
+    {
+      "heading": "Computer Auditory Systems",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "INT",
+        "full_name": "Computer Auditory Systems",
+        "module_code": "INT306",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Computer Auditory Systems",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course aims to give students knowledge and hand-on experience in computer auditory systems; it will also introduce major audio signal processing methods based on machine learning techniques; these include audio detection, audio recognition, audio description algorithms and audio synthesis; it aims to introduce most recent advances in the field of machine listening such as acoustic event detection, music information retrieval, and speech synthesis.",
+        "Learning outcomes": "A. Demonstrate practical knowledge of computer auditory systems. B. Demonstrate knowledge of deep learning techniques that can be used for machine listening applications. C. Design, implement and evaluate algorithms, theories and tools developed for machine listening including audio detection, recognition, description, and synthesis. D. Demonstrate an awareness of techniques, research issues and recent developments in machine listening systems such as multi-modal processing and machine creativity.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures, tutorials and labs. Lectures will be designed to provide essential information and introduce students the essential algorithm and techniques. Tutorials will be based around the introduction of basic tool, design procedure and provide student a chance to communicate each other. Labs will be designed to introduce students to the usage of basic functions of statistical software."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INT306&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Software Engineering Group Project",
+  "module_code": "CPT202",
+  "offerings": [
+    {
+      "heading": "Software Engineering Group Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Software Engineering Group Project",
+        "module_code": "CPT202",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Software Engineering Group Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with hands-on experience in developing a moderately sized software system within a team setting. It fits within the programme by bridging theoretical knowledge from earlier modules with practical applications, preparing students for their final-year projects. The module emphasizes collaborative skills, systematic software development processes, and professional practices, aligning with the goal of producing well-rounded software engineers capable of working in industry-standard environments.",
+        "Learning outcomes": "A. Work effectively as part of a development team, demonstrating communication and interpersonal skills to collaboratively design and develop a software system. B. Explain the software development process, including methods and challenges in deploying systems to meet business goals. C. Specify and analyze the requirements of a software system using appropriate techniques. D. Produce and evaluate documentation that supports the software development lifecycle. E. Analyze legal, social, ethical, and professional issues involved in software development and deployment.",
+        "Method of teaching and learning": "The overall strategy is to allow self and peer-guided learning within a tightly defined framework. At the beginning of the module, an introductory lecture will outline details of the project scheme, and documentation detailing the framework and expectations will be provided. Thereafter, lectures will be given describing the key skills needed to carry out the project. Students will be put into teams, and thereafter will be expected to work largely autonomously. Teams will be expected to hold regular project meetings, the minutes of which will be monitored. Certain software deliverables will be prescribed: the projects will produce a front-end tool for maintaining the database, back-end tools for accessing, analysing, and presenting the data. System domains will be predefined, with projects progressing through three key milestones: requirements specification, design specification, and a completed system with a final report. Each milestone will undergo staff review and assessment. Academic staff remain available throughout the module to provide support, guidance, and arbitration as needed, ensuring teams can navigate challenges effectively while maintaining autonomous learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT202&psl_code=SEM2"
+    }
+  ]
+}

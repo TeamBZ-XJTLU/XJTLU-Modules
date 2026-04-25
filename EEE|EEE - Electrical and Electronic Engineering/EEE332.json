@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Micro and Nanomanufacturing Technology",
+  "module_code": "EEE332",
+  "offerings": [
+    {
+      "heading": "Micro and Nanomanufacturing Technology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Micro and Nanomanufacturing Technology",
+        "module_code": "EEE332",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Micro and Nanomanufacturing Technology",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to familiarise students with essential concepts of the processes for micro and nano manufacturing technology, from fundamental theory through to the entire fabrication pipeline and up to evaluation of related commercial aspects. This module is essential for students in Electronic Science and Technology as it bridges the gap between electronic theory and practical implementation, revealing how micro and nanoscale fabrication processes enable the creation of modern electronic devices and systems.",
+        "Learning outcomes": "A. Analyse the fundamental physical and chemical principles that underpin key micro and nanofabrication processes, such as photolithography, etching, and thin-film deposition. B. Design and simulate a process flow for fabricating a micro/nano-scale electronic device, justifying the selection of specific techniques against technical and commercial constraints. C. Apply core micro/nanofabrication techniques to manufacture a device within a controlled environment, adhering to relevant safety and operational protocols. D. Critically assess the performance and potential applications of fabricated micro/nano-scale materials and devices, such as those for AI chips or neuromorphic computing.",
+        "Method of teaching and learning": "The teaching and learning approach in this module combines theoretical instruction with hands-on practical experience. In lectures, key concepts and principles of micro- and nanofabrication—including process theory, design and analysis methods, clean room protocols, and basic silicon wafer processing—are introduced through interactive explanations and case studies. These sessions aim to build a solid conceptual foundation and contextualize theoretical knowledge within real-world applications. During lab sessions, students apply this theoretical understanding in a practical setting. Guided by the instructor, they engage in activities such as identifying appropriate commercial facilities for device fabrication, evaluating materials and circuits at micro- and nanoscales, and implementing design and analysis techniques for advanced electronic devices. The lab work is structured to develop technical skills and foster critical thinking through problem-based tasks and reflective discussion."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE332&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Software Engineering II",
+  "module_code": "CPT304",
+  "offerings": [
+    {
+      "heading": "Software Engineering II",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Software Engineering II",
+        "module_code": "CPT304",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Software Engineering II",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The overall aim of this module is to introduce students to a range of advanced, near-research level topics in contemporary software engineering. The actual choice of topics will depend upon the interests of the lecturer and the topics current in the software engineering research literature at that time. The course will introduce issues from a problem (user-driven) perspective and a technology-driven perspective where users have new categories of software problems that they need to be solved, and where technology producers create technologies that present new opportunities for software products. It will be expected that students will read articles in the software engineering research literature, and will discuss these articles in a seminar-style forum",
+        "Learning outcomes": "A. Analyse complex problems driving research and development in contemporary software engineering to reach substantiated conclusions using first principles of engineering. B. Select and evaluate appropriate computational and analytical techniques to model complex problems in software engineering research and development, recognising their advantages, disadvantages, limitations, and future research directions. C. Discuss the key technological drivers behind contemporary software engineering research. D. Present, analyse, and give a reasoned critique of articles in the software engineering research literature. E. Apply an integrated or systems approach to the deployment of software systems that meet business goals, considering applicable safety, diversity, inclusion, cultural, and societal issues.",
+        "Method of teaching and learning": "Students will be expected to attend three hours of formal lectures as well as to participate in one hour of tutorials in a typical week. Lectures will introduce students to the academic content which is the subject of the module, while tutorials will allow for discussions, at which students will be expected to present critiques of such current research literature. In addition, students will be expected to devote two and a half hours of unsupervised time to preparation for tutorials and private study. Private study will provide time for reflection and consideration of lecture material and background reading. A written examination at the end of the module will assess the academic achievement of students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT304&psl_code=SEM2"
+    }
+  ]
+}

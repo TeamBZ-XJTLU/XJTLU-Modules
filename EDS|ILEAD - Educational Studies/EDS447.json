@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Scholarship Of Teaching And Learning: Research And Practices",
+  "module_code": "EDS447",
+  "offerings": [
+    {
+      "heading": "Scholarship Of Teaching And Learning: Research And Practices",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Scholarship Of Teaching And Learning: Research And Practices",
+        "module_code": "EDS447",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Scholarship Of Teaching And Learning: Research And Practices",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module is to help students gain practice-based research knowledge and experience in teaching design, delivery, and continuous improvement of global education relevant subjects or topics. The fit of the module to the overall program is to foster students to become researcher-oriented practitioners in education, including but not limited to roles such as teacher, teacher trainer, educationalist, program designer, quality assurance officer, education assessor, etc.",
+        "Learning outcomes": "A. Demonstrate solid understanding of pedagogical knowledge and pedagogical content knowledge to a variety of age groups in the global education context. B. Understand and practice the process of action research in teaching and learning to a variety of age groups in the global education context. C. Collect and analyze field data to generate useful findings to support continuous improvement of teaching and learning to a variety of age groups in the global education context. D. Construct evidence-based insights and communicate recommendations for the improvement of teaching and learning in the global education context.",
+        "Method of teaching and learning": "This module focuses on enhancing students’ action research skills and pedagogical knowledge, developing their awareness of the importance of pedagogical content knowledge. The aim is to provide learning opportunities for them to apply their learned action research methods and theoretical knowledge in practice. Hence, the methods of teaching and learning will be delivered in a blended style (i.e., online and in-person) that consist of lectures (including seminars), tutorials, and field practice (i.e., execution of research projects). In particular, Research-Led Project-Based Learning approaches will be used when appropriate. Students will engage with key theories and concepts of action research, pedagogy, and andragogy. Students will take seminars from experienced teacher-researchers on conducting project-based pedagogical research in subjects such as English, Chinese, and STEM. The focus is for students to engage with the importance of pedagogical content knowledge in teaching and learning. Equally importantly, students will design their own project-based action research in teaching and learning and receive individualized feedback in tutorial sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS447&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Vector Fields: Theory and Applications",
+  "module_code": "MTH207",
+  "offerings": [
+    {
+      "heading": "Vector Fields: Theory and Applications",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Vector Fields: Theory and Applications",
+        "module_code": "MTH207",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Vector Fields: Theory and Applications",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide an understanding of the various vector integrals, the operators div, grad and curl and the relations between them. To give an appreciation of the many applications of vector calculus to physical situations. To provide an introduction to the subjects of fluid mechanics and electromagnetism.",
+        "Learning outcomes": "A. Work confidently with different coordinate systems. B. Evaluate line, surface and volume integrals. C. Appreciate the need for the operators div, grad and curl together with the associated theorems of Gauss and Stokes. D. Recognise the many physical situations that involve the use of vector calculus. E. Apply mathematical modelling methodology to formulate and solve simple problems in electromagnetism and inviscid fluid flow.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH207&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Biomedical Engineering in Drug Delivery Systems",
+  "module_code": "APH324",
+  "offerings": [
+    {
+      "heading": "Biomedical Engineering in Drug Delivery Systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Biomedical Engineering in Drug Delivery Systems",
+        "module_code": "APH324",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Biomedical Engineering in Drug Delivery Systems",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module bridges biomedical engineering and pharmaceutical sciences to provide students with an interdisciplinary understanding of modern drug delivery. Students will gain familiarity with materials, biomedical devices, and computational modeling approaches that underpin advanced delivery technologies. The module aims are: - To introduce biomedical engineering principles relevant to pharmaceutical sciences. - To develop knowledge in material science, biomedical device design, and modeling approaches for drug delivery. - To highlight how engineering innovation drives the development of advanced delivery platforms, including nanoparticles, hydrogels, implantable systems, and bioresponsive materials. - To provide hands-on experience with computational modeling of drug release and with laboratory-based sessions that connect theory to practice. - To build competency in imaging-based evaluation of drug delivery.",
+        "Learning outcomes": "Students completing this module successfully should be able to: A. Critically evaluate biomedical engineering approaches to the design of drug delivery systems. B. Compare and contrast conventional, controlled, and targeted drug delivery mechanisms from both engineering and pharmaceutical perspectives. C. Analyse the properties and applications of advanced biomaterials in drug delivery. D. Apply computational and mathematical approaches to model and interpret drug delivery performance. E. Evaluate imaging and monitoring technologies (MRI, PET, fluorescence) in the context of drug delivery. F. Integrate engineering and pharmaceutical knowledge to propose innovative solutions to challenges in drug delivery.",
+        "Method of teaching and learning": "The module will combine lectures, tutorials, case studies, laboratory activities, and computational modeling. - Lectures introduce biomedical engineering concepts, materials, and applications in drug delivery. - Tutorials emphasise problem-solving, discussion, and analysis of case studies. - Lab Sessions provide students with practical experience, reinforcing theoretical knowledge. These will be integrated into the course to ensure alignment with lecture content. Where appropriate, optional side practicals may be created to extend learning opportunities. - Computational Labs focus on numerical modeling of drug release. Finite element methods will be introduced as the primary example, making use of the university’s academic licenses for solvers, including COMSOL Multiphysics, MATLAB. Python may also be used as a flexible alternative. - Private Study includes guided readings, project preparation, and individual assignments. Students will receive timely and constructive feedback on all assessments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH324&psl_code=SEM2"
+    }
+  ]
+}

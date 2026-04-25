@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Analogue and Digital Communications II",
+  "module_code": "CAN303",
+  "offerings": [
+    {
+      "heading": "Analogue and Digital Communications II",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Analogue and Digital Communications II",
+        "module_code": "CAN303",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Analogue and Digital Communications II",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module equips students with the theoretical knowledge and practical skills necessary to design and analyze basic digital communication systems. Focuses will be given to the mathematical formulation of detection problems in AWGN channels and analytical justifications of optimal receiver designs that are applicable to digital modulation schemes used in modern communication systems. Students will gain a rigorous understanding of core principles in digital communications such as signal space representations, the maximum a posteriori detection rule, matched filtering, error probability evaluation, intersymbol-interference-free pulse shaping, etc.. In addition, by solving analytical and computational tasks, students will be able to illustrate performances of comparable digital modulation schemes and link theoretical conclusions to experimental results.",
+        "Learning outcomes": "A. Deploy solutions to tackle channel degradation, with an emphasis on additive white Gaussian noise (AWGN). B. Demonstrate and critically appraise digital baseband and bandpass modulation techniques. C. Apply probabilistic and random process analysis to signals in communication systems and synthesize conclusions based on this analysis. D. Calculate, analyse, and critically evaluate the error probability of optimum receivers in digital communication systems.",
+        "Method of teaching and learning": "The module employs a blended pedagogical approach that integrates theoretical rigor, applied problem-solving, and computational experimentation to foster deep conceptual understanding and practical competency. Core concepts such as digital modulation schemes (used in modern communication systems), noise modelling, optimal receiver structure and probability of error detection analysis are introduced through lectures. Guided tutorials provide a structured environment for students to dissect complex problems, aiming to deepen students' understanding of the relevant principles. Solutions of analytical questions will be demonstrated during tutorial sessions to guide students learning. Practical sessions anchors theoretical knowledge in digital computer practices, where instructors offer on-site help on programming-related issues and explain critical theories that allows one to link theoretical results and simulation results. Recorded lectures, supplementary videos, and scanned handouts (or equivalence) will be provided to students to facilitate self-study."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN303&psl_code=SEM1"
+    }
+  ]
+}

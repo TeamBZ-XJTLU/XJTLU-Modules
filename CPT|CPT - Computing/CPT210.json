@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Microprocessor Systems",
+  "module_code": "CPT210",
+  "offerings": [
+    {
+      "heading": "Microprocessor Systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Microprocessor Systems",
+        "module_code": "CPT210",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Microprocessor Systems",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the principles of microprocessor systems, focusing on microprocessor architecture, instruction encoding, and the execution of low-level operations. Students develop the ability to write and analyze simple programs using assembly language and learn key concepts such as data representation, function calls, and stack operations. As an essential part of the computer systems curriculum, the module prepares students for more advanced study in areas such as embedded systems, operating systems, and computer architecture by equipping them with the skills to reason about low-level hardware-software interactions.",
+        "Learning outcomes": "A. Design a microprocessor architecture, including the main functional blocks and their interconnections, and justify design choices based on given specifications. B. Develop applications using ARM assembly language that demonstrate effective use of registers, data manipulation, and control structures. C. Analyze and represent negative and floating-point numbers according to the IEEE standard. D. Implement microprocessor interfacing techniques using appropriate protocols and demonstrate memory management in embedded systems.",
+        "Method of teaching and learning": "This module engages students through a blend of conceptual explanation and practical application to foster hands-on learning in microprocessor systems. Core concepts are introduced and explored during lectures, where students also participate in problem-solving activities to reinforce key ideas. Practical skills are developed through structured lab sessions and guided tutorials, where students complete programming tasks using ARM emulators to simulate microprocessor behavior. Throughout the module, students are encouraged to actively engage with the ARM emulator and simulator, which provides visual and immediate feedback to promote formative learning. Independent study is supported by supplementary exercises and materials, allowing students to consolidate their learning and build confidence in writing and analyzing assembly programs."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT210&psl_code=SEM2"
+    }
+  ]
+}

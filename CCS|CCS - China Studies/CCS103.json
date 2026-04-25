@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "China’s History: from prehistory to the Qing",
+  "module_code": "CCS103",
+  "offerings": [
+    {
+      "heading": "China’s History: from prehistory to the Qing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "China’s History: from prehistory to the Qing",
+        "module_code": "CCS103",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "China’s History: from prehistory to the Qing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides an introduction to Chinese history of the pre-imperial and imperial periods and to the scholarly literature devoted Chinese history and China’s historical relations with other cultures and civilizations.",
+        "Learning outcomes": "A. Demonstrate broad knowledge of Chinese history and culture. B. Show familiarity with historical methods, including change over time, causality, contingency, and complexity. C. Demonstrate awareness of the principal debates in the academic literature on Chinese history. D. Communicate historical understanding of China effectively in written and oral forms. E. Demonstrate an awareness of China's diversity and its connections to wider regional and global contexts.",
+        "Method of teaching and learning": "Lectures and seminars for rehearsal of topics"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS103&psl_code=SEM1"
+    }
+  ]
+}

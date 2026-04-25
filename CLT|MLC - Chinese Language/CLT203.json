@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MLC",
+    "domain_code": "CLT",
+    "full_name": "Chinese Language"
+  },
+  "full_name": "Modern Chinese 1",
+  "module_code": "CLT203",
+  "offerings": [
+    {
+      "heading": "Modern Chinese 1",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CLT",
+        "full_name": "Modern Chinese 1",
+        "module_code": "CLT203",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Modern Chinese 1",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Modern Chinese 1 aims to provide students with a comprehensive understanding of the modern Chinese language, with emphasis on the study of Chinese phonology, characters and Chinese lexicon. The module is dedicated to building a solid foundation in the Chinese language and preparing the students in China Studies for their future study, research or teaching of the Chinese language. This module is designed for native speakers of Chinese language or non\u0002native speakers who have attained a proficiency level corresponding to the HSK 5 standard.",
+        "Learning outcomes": "A Demonstrate familiarity with the formation and development of modern Chinese B Demonstrate understanding of the system of Chinese phonology, characters and lexicon C Describe the characteristic of Chinese phonology, characters and lexicon D Apply linguistic theories and approaches to analyze the Chinese language",
+        "Method of teaching and learning": "Lectures and seminars for rehearsal of weekly topics. Basic concepts and important theories in analyzing Chinese language will be introduced in lectures. Presentations and group discussions would be incorporated in seminar teaching. Students are required to study assigned reading materials on specific topics and discuss them in seminars. The lecturer will act as a facilitator of discussion and commentator on students’ opinions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CLT203&psl_code=SEM1"
+    }
+  ]
+}

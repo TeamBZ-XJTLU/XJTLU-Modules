@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Developing and Evaluating Programmes for Children and Families",
+  "module_code": "EDS419",
+  "offerings": [
+    {
+      "heading": "Developing and Evaluating Programmes for Children and Families",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Developing and Evaluating Programmes for Children and Families",
+        "module_code": "EDS419",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Developing and Evaluating Programmes for Children and Families",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will be delivered through a combination of lectures, tutorials, and field work with a focus on Research-Led Project-Based Learning (RLPBL) approaches. Lectures and tutorials provide students with key conceptual, theoretical, and methodological insights. The field work, including on family visit and family case analysis, provide opportunities for collaborative and individual practice, critical reflection, and iterative development of project design.",
+        "Learning outcomes": "A Understand and reflect on the basic principles and theories in designing programme for family education deeply B Develop the professional skills to evaluate and analyze the family situation and the possible influences on children's development C Develop and practice the skills to design and supervise family education programme D Evaluate the quality of the family education programme",
+        "Method of teaching and learning": "The teaching sessions are interactive and divided into two components: lectures and tutorials/workshops. The tutorials/workshops will build on the material covered in the lectures."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS419&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Introduction to Computational Biology",
+  "module_code": "BIO220",
+  "offerings": [
+    {
+      "heading": "Introduction to Computational Biology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Introduction to Computational Biology",
+        "module_code": "BIO220",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Introduction to Computational Biology",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with a fundamental understanding of computational methods in biological research. It begins with the basics of molecular biology and advances to complex topics such as protein dynamics, structure prediction, and drug discovery. Students will learn key concepts in molecular mechanics and energy surface exploration, integrating these with practical skills in molecular visualization and docking. The course also introduces modern techniques in structural biology and biophysics, emphasizing the role of computational approaches in understanding structures and interactions of biological macromolecules, such as proteins and RNAs. This module fits into the bioinformatics curriculum by providing a solid foundation in computational molecular biology, essential for advanced studies and research. It combines theoretical lectures with tutorials and practical labs to ensure students gain both conceptual knowledge and hands-on experience. The curriculum progresses from fundamental principles to advanced applications, preparing students to use computational tools for solving complex biological problems. By the end of the course, students will be proficient in key computational techniques, enhancing their interdisciplinary skills and readiness for future research in bioinformatics and related fields.",
+        "Learning outcomes": "A Demonstrate a comprehensive understanding of computational methods in biological research, including molecular biology and biophysics principles. B Analyze and interpret complex biological data, including sequences, structures and dynamics. C Select and use appropriate computational methods and tools for specific biological problems. D Apply computational techniques such as molecular visualization and docking to analyze biomolecular structures and interactions.",
+        "Method of teaching and learning": "This module will be delivered through a combination of lectures and practical laboratory sessions. Lectures will provide foundational knowledge and cover key theoretical concepts in computational biology and biophysics, supported by handouts and online resources. Practical laboratory and tutorial sessions will complement the lectures, offering hands-on experience with open-source software tools for molecular visualization and molecular docking. These sessions are designed to reinforce lecture content and develop essential computational skills, allowing students to apply theoretical concepts to real-world biological problems. Regular assessments and supervised discussions will ensure continuous feedback and help students monitor their progress."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO220&psl_code=SEM1"
+    }
+  ]
+}

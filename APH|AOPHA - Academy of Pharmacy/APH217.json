@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Clinical Pharmacy",
+  "module_code": "APH217",
+  "offerings": [
+    {
+      "heading": "Clinical Pharmacy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Clinical Pharmacy",
+        "module_code": "APH217",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Clinical Pharmacy",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to 1) provide an overview on the concepts and skills of clinical pharmacy practice, dispensing and healthcare policies affecting pharmacy practice, national and international medicines-related legislation and regulations; 2) provide the students with the skills of interpreting and assessing prescriptions, communication skills with all parties (including patients and healthcare staff) concerning the drugs (to be) used; 3) instruct the students to familiarize with the overall view around the term--“drug”, including science, technology, philosophy, and humanity.",
+        "Learning outcomes": "A. Demonstrate an in-depth knowledge system covering all concepts to be considered concerning clinical pharmacy, such as the human anatomy, physiology, pharmacology, pharmacodynamics, etc., that affect the function of drugs in the body. B. Evaluate the research processes and data centered around clinical pharmacy, including preclinical study and clinical research (e.g. pharmacoepidemiology, pharmacovigilance, or pharmacoeconomics). C. Discuss the use and limitation of traditional medicine or alternative and complementary medicines. D. Demonstrate an understanding of national and international regulations associated with drug development, production, and usage. E. Analyse patient and medication information; communicate effectively with members of the healthcare team and pharmacy colleagues to reach optimum patient care or clinical research. F. Demonstrate a panorama view of all resources required for a good clinical pharmacy.",
+        "Method of teaching and learning": "This module will use a range of teaching and learning methods including lectures, tutorials, supervised hospital pharmacy visits and directed private study. Lectures will be used to introduce students to the concepts, theories and the applications covered by the module, supported by materials on LMO and other web-based resources. Handouts will be made available to students in classrooms and on LMO. Animations and/or videos will be shown for some of the topics. Tutorials will help students to deepen their understanding on the subjects of the module, which will run in ways mixed with group discussion, problem-solving, reviewing and reflection, Q&A, formative quiz, and feedback to coursework. The size of the group will vary with the learning objectives. The review sessions will be arranged towards end of the semester and the students will have opportunities to self-assess their understanding of the course. Lab/field trips: Students are required to spend a designated time in professional institutions (e.g. research organizations, hospital pharmacy sections, etc) to obtain first-hand experience with pharmacy-centered activities. Students are also required to reflect on their experience and write a formal reflection portfolio. Assessment facilitates evaluation of student learning and development, while the feedback helps deepening students’ understanding. Timely, relevant and specific, constructive and actionable feedback will be provided to students in class, on paper and/or in person for each assignment. The assessment has 3 components: Coursework 1, Coursework 2 and Final exam, covering different LOs. Each coursework contains short answer questions, essay-type questions and calculations and is due in 2 weeks. The final exam will contain short answer questions, essay-type questions and calculations, which will be a 3-hour close-book exam."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH217&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ELC",
+    "domain_code": "LM",
+    "full_name": ""
+  },
+  "full_name": "Essentials Of Finance",
+  "module_code": "LMFIN101",
+  "offerings": [
+    {
+      "heading": "Essentials Of Finance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LM",
+        "full_name": "Essentials Of Finance",
+        "module_code": "LMFIN101",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Essentials Of Finance",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course aims to introduce students to finance, laying a foundation for subsequent finance courses at levels 2 and 3. The module mainly covers the valuation of assets, the appraisal of investment opportunities, the capital structure decision, the dividend decision and international corporate finance.",
+        "Learning outcomes": "A. Understand fundamental concepts of modern finance theory B. Implement asset valuation tools and models C. Analyze the effects of the corporate financing decision (the use of debt and equity) on the value of the firm under different scenarios D. Appreciate the impact of dividend payments on the value of the firm E. Comprehend the financial management problems faced by firms that operate within the international financial environment",
+        "Method of teaching and learning": "The module will be taught using a combination of lectures and tutorials. Lectures aim to deliver basic concepts and techniques; and tutorials provide students hands-on problem sets. There will be two-hour office hours on a weekly basis and additional question and answer sessions at the end of semester to help students learn and prepare for the exam."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LMFIN101&psl_code=SEM2"
+    }
+  ]
+}

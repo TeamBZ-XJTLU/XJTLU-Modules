@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Business Planning - Taxation",
+  "module_code": "ACC402",
+  "offerings": [
+    {
+      "heading": "Business Planning - Taxation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Business Planning - Taxation",
+        "module_code": "ACC402",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Business Planning - Taxation",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To enable students to apply technical knowledge and professional skills to identify and resolve tax issues that arise in the context of preparing tax computations and to advise on tax-efficient strategies for businesses and individuals. Students will be required to use technical knowledge and professional judgement to identify, explain and evaluate alternative tax treatments and to determine the appropriate solutions to taxation issues, giving due consideration to the needs of clients and the interaction between taxes. The commercial context and impact of recommendations will need to be considered in making such judgements, as will ethical and legal issues.",
+        "Learning outcomes": "A. Analyse, evaluate and calculate the tax consequences of actions for individuals and companies and evaluate the interaction of taxes in given scenarios. This will involve advising and assisting clients in adhering to tax regulations. B. Advise on alternative tax treatments to defer or minimise tax liabilities, understand the interaction of taxes in given scenarios and identify and discriminate between tax evasion and tax avoidance. C. Recognise and explain ethical and legal issues arising in taxation scenarios and apply the five fundamental principles and guidance in the IESBA and ICAEW codes as well as other relevant guidance, including the Professional Conduct in Relation to Taxation (PCRT), to recommend and justify appropriate, legal actions.",
+        "Method of teaching and learning": "A range of teaching and learning methods will be utilized on this module. Core substantive knowledge will be delivered in weekly seminars. Relevant questions will be discussed in the seminars after each topic/sub-topic. Relevant homework will be assigned each week after seminars to reinforce knowledge and give further practice in the application of that knowledge. Exam standard scenarios style questions which integrate a variety of topics will be assigned for homework and discussed in Seminars from time to time, particularly in the second half of the semester."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC402&psl_code=SEM2"
+    }
+  ]
+}

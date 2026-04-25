@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Computational Solid Mechanics",
+  "module_code": "CEN413",
+  "offerings": [
+    {
+      "heading": "Computational Solid Mechanics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Computational Solid Mechanics",
+        "module_code": "CEN413",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Computational Solid Mechanics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to introduce students to theoretical concepts and engineering applications of finite element analysis in a systematic way. The module introduces fundamental numerical approaches used in engineering analysis of structures and materials with particular emphasis on classic problems encountered in the mechanics of solids. Students will learn to apply the finite element method in a range of engineering problems associated with the mechanical behaviour of materials and their response under different conditions. The module also intends to build confidence in selecting appropriate finite elements for a given problem and the validation of the numerical simulations against experimental or theoretical results.",
+        "Learning outcomes": "A Apply the finite element method in skeletal structures. B Identify appropriate solution procedures and element selections based on the characteristics of the specific engineering problem. C Analyse the deformation behaviour of structures and materials under specific loading conditions using finite element analysis software.",
+        "Method of teaching and learning": "The module is delivered through formal lectures, tutorial exercises, and computer practical classes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN413&psl_code=SEM1"
+    }
+  ]
+}

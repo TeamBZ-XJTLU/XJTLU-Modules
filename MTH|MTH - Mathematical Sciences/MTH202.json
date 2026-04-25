@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "MTH",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Introduction to Financial Mathematics",
+  "module_code": "MTH202",
+  "offerings": [
+    {
+      "heading": "Introduction to Financial Mathematics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Introduction to Financial Mathematics",
+        "module_code": "MTH202",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Introduction to Financial Mathematics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to provide an introduction to the pricing of financial derivative products. The course will develop the mathematical foundations of the Black-Scholes method.",
+        "Learning outcomes": "A. Understand the main principles of financial markets and the common terminology B. Understand and analyze the use of financial derivatives and hedging strategies C. Be able to price and analyze forwards, futures, and options D. Understand, implement, and analyze the binomial tree model E. Understand, analyze and use probability distributions in option pricing applications F. Utilize stochastic calculus such as Ito’s Lemma in the Black-Scholes framework G. Understand and use diffusion processes",
+        "Method of teaching and learning": "This module will be repeated over two semesters. In semester 1, the module will be delivered for"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH202&psl_code=SEM1"
+    },
+    {
+      "heading": "Introduction to Financial Mathematics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Introduction to Financial Mathematics",
+        "module_code": "MTH202",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Introduction to Financial Mathematics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to provide an introduction to the pricing of financial derivative products. The course will develop the mathematical foundations of the Black-Scholes method.",
+        "Learning outcomes": "A. Understand the main principles of financial markets and the common terminology B. Understand and analyze the use of financial derivatives and hedging strategies C. Be able to price and analyze forwards, futures, and options D. Understand, implement, and analyze the binomial tree model E. Understand, analyze and use probability distributions in option pricing applications F. Utilize stochastic calculus such as Ito’s Lemma in the Black-Scholes framework G. Understand and use diffusion processes",
+        "Method of teaching and learning": "This module will be repeated over two semesters. In semester 1, the module will be delivered for"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH202&psl_code=SEM2"
+    }
+  ]
+}

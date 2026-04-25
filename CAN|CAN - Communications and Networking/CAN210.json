@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CAN",
+    "domain_code": "CAN",
+    "full_name": "Communications and Networking"
+  },
+  "full_name": "Digital Signal Processing",
+  "module_code": "CAN210",
+  "offerings": [
+    {
+      "heading": "Digital Signal Processing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CAN",
+        "full_name": "Digital Signal Processing",
+        "module_code": "CAN210",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Digital Signal Processing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with both theoretical insight and practical competence in digital signal processing (DSP), emphasizing the mathematical and algorithmic foundations underpinning discrete-time signal analysis and filter design. It builds upon the foundational knowledge of signals and systems introduced in CAN207, enabling students to analyse and apply advanced DSP methods and techniques. Through a balance of analytical theory and MATLAB-based practice, students will develop the ability to translate mathematical models such as the Discrete Fourier Transform (DFT), z-transform, sampling, and quantization into functional digital filter designs and practical implementations. The module provides essential preparation for advanced study in communications, embedded DSP systems, control, and audio/image processing, serving as a critical bridge between theoretical system analysis and real-world DSP applications.",
+        "Learning outcomes": "A. Mathematically model and analyse linear time-invariant (LTI) systems and digital filters, applying these frameworks to design and evaluate digital signal processing solutions to defined problems. B. Select and apply appropriate sampling, quantization, filtering, and reconstruction techniques for analogue-to-digital and digital-to-analogue conversion, evaluating their effectiveness in specific applications. C. Analyse discrete-time signal processing systems by formulating and applying Fourier transforms, z-transforms, and representations of finite impulse response (FIR) and infinite impulse response (IIR) filters. D. Design FIR digital filters using windowing methods, and IIR digital filters using pole/zero placement, the bilinear transform, or equivalent techniques.",
+        "Method of teaching and learning": "This module adopts an integrated pedagogical strategy to cultivate both theoretical insight and practical proficiency in digital signal processing and analysis. Formal lectures introduce the foundational mathematical concepts, analytical frameworks, and algorithmic techniques such as the DFT and Fast Fourier Transform (FFT), the z-transform, and digital filter design. Structured problem sheets reinforce students in consolidating knowledge, strengthening analytical reasoning, and developing computational fluency. MATLAB-based laboratory sessions provide practical exposure to the implementation, evaluation, testing, and debugging of DSP algorithms, thereby reinforcing the connection between theoretical foundations and real-world applications. Continuous formative feedback is provided through in-class discussions, guided problem-solving opportunities, and scheduled office hours, ensuring students remain well supported throughout the learning process. This module will adopt a three-stage initial assessment strategy comprising two coursework components and a final examination. The final examination evaluates the full range of learning outcomes, whereas the two coursework components provide staged evidence of student progress. Each coursework consists of one assignment and one laboratory session. Coursework 1 focuses on foundational analytical and computational skills, assessing Learning Outcomes A, B, and C. Coursework 2 emphasises digital filter design, implementation, and evaluation, assessing Learning Outcomes A, C, and D. The rationale for including two “Assignment and Lab” components with similar formats is to ensure structured progression across the module. Although equivalently titled, they serve distinct pedagogical purposes: Coursework 1 consolidates analytical skills of core contents introduced in the first half of the module, while Coursework 2 evaluates students’ ability to integrate, apply, and critically appraise techniques introduced in the second half. This design ensures that students receive timely feedback at two critical learning stages, demonstrate competency across both analytical and practical domains, and progressively build the depth of knowledge and skills required for the cumulative final examination. This staged assessment approach therefore enhances transparency, reinforces constructive alignment with the learning outcomes, and supports effective, sustained learning across the semester."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN210&psl_code=SEM2"
+    }
+  ]
+}

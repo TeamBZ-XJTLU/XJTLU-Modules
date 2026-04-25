@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Introduction To Chemistry Manufacturing and Controls",
+  "module_code": "APH316",
+  "offerings": [
+    {
+      "heading": "Introduction To Chemistry Manufacturing and Controls",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Introduction To Chemistry Manufacturing and Controls",
+        "module_code": "APH316",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Introduction To Chemistry Manufacturing and Controls",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide pharmacy undergraduates with a comprehensive understanding of the integral role of Chemistry, Manufacturing, and Controls (CMC) in the pharmaceutical industry. Students will explore the application of CMC principles throughout various stages of drug development, focusing on both small molecules and biologics. The course will delve into the foundational framework of CMC, emphasizing its interconnection with regulatory compliance and Quality by Design (QbD) principles. Through interactive lectures, lab practical tutorials, and case-based projects, students will learn core CMC principles and develop necessary skills to design a basic CMC framework by mapping the manufacturing process, identifying critical quality controls, and drafting a simplified regulatory document for pharmaceutical products.",
+        "Learning outcomes": "A. Identify the critical roles and features of CMC section throughout the drug development lifecycle. B. Understand the foundational framework of CMC, including its components and how they interrelate to ensure product quality.​ C. Analyze the interconnection between CMC and regulatory compliance, with a focus on FDA and ICH guidelines.​ D. Evaluate the principles of Quality by Design (QbD) and their integration into the CMC process to enhance product development.​ E. Draft simplified regulatory documents, specifically sections of the Common Technical Document (CTD) Module 3, relevant to pharmaceutical products.​ F. Collaborate effectively in teams to design and present CMC-related projects, enhancing communication and project management skills.",
+        "Method of teaching and learning": "The module will be delivered with a combination of lectures, tutorial sessions (including small group discussion) and laboratory practices. Students will attend two hours of lectures weekly and one-hour tutorial sessions every two weeks. These lectures will cover essential theoretical concepts related to Chemistry, Manufacturing and Controls. Students can share their perspectives, ask questions, and engage in meaningful small group discussions in tutorial. Four laboratory practices are designed to provide practical experiences of drug substance development and its quality control."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH316&psl_code=SEM1"
+    }
+  ]
+}

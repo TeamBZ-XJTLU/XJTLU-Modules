@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "China: Society and Development",
+  "module_code": "CCS104",
+  "offerings": [
+    {
+      "heading": "China: Society and Development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "China: Society and Development",
+        "module_code": "CCS104",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "China: Society and Development",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides an introduction to social development in the PRC and to the social science literature on both social development generally, and in the PRC.",
+        "Learning outcomes": "A. Demonstrate knowledge of the key dimensions of social development in contemporary China. B. Show understanding of the main drivers of social change in contemporary China. C. Demonstrate awareness of the principal concepts, theories and debates in the academic literature about contemporary Chinese society. D. Apply key concepts and theories from academic literature to examine social problems in contemporary China. E. Critically evaluate fundamental social relations in Chinese society. F. Analyse and discuss the ways in which different kinds of sources treat information.",
+        "Method of teaching and learning": "Lectures and seminars for rehearsal of weekly topics"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS104&psl_code=SEM1"
+    }
+  ]
+}

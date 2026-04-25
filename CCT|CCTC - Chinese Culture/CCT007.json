@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCTC",
+    "domain_code": "CCT",
+    "full_name": "Chinese Culture"
+  },
+  "full_name": "Self-management and Mental Health",
+  "module_code": "CCT007",
+  "offerings": [
+    {
+      "heading": "Self-management and Mental Health",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCT",
+        "full_name": "Self-management and Mental Health",
+        "module_code": "CCT007",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Self-management and Mental Health",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims at cultivating students’ self-management abilities, helping them realize the importance of health and safety, form active learning habits. Besides, this module also enhances communicative abilities and teamwork spirits.",
+        "Learning outcomes": "A. Help students understand self-management theories and learn self-management skills. 理解自我管理理论，学习自我管理技能。 B. Apply self-management skills to students’ study and life to analyse and solve practical problems. 将自我管理技巧应用于学生的现实学习与生活，从而进一步分析和解决实际问题。 C. Critically evaluate and reflect on the experiences on application of self-management skills to further deepen the understanding of self-management via the form of video presentation. 批判地评估和反思将自我管理技能应用于实践的经验，通过视频表达的方式进一步深化对自我管理的理解。",
+        "Method of teaching and learning": "Case Teaching; Independent analysis; group discussion; social practice"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCT007&psl_code=SEM1"
+    }
+  ]
+}

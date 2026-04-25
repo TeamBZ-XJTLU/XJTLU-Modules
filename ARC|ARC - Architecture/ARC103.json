@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "ARC",
+    "full_name": "Architecture"
+  },
+  "full_name": "Introduction to Environmental Science",
+  "module_code": "ARC103",
+  "offerings": [
+    {
+      "heading": "Introduction to Environmental Science",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ARC",
+        "full_name": "Introduction to Environmental Science",
+        "module_code": "ARC103",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Environmental Science",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To introduce the principles of environment science. To introduce aspects of climatically responsive architecture, and lighting of buildings. To give students an understanding of the role of a building as a modifier of climate with reference to traditional climatically responsive architecture and the role of buildings in the context of global energy usage. To introduce design approaches based upon passive techniques for achieving efficient thermal performance of buildings.",
+        "Learning outcomes": "A. Identify and illustrate an understanding of the fundamental principles associated with optimum visual, thermal and acoustic environments. B. Understand and apply appropriate environmental simulation software in performing simple calculations to visualise and apply climate data related to building performance. C. Critically analyse the relationship between building form and performance employing AI generative design tools to test and compare alternative solutions. D. Demonstrate an understanding of the effectiveness of different passive design strategies.",
+        "Method of teaching and learning": "Subject material will be delivered by formal lectures and assessed by means of a formal examination. Experience has shown that many students arriving with a limited scientific background find difficulty in applying scientific principles in a design context in the first year of study. Coursework assessment is deemed more suitable for students in later years who will have undertaken the formal lecture course and perceive themselves as having a level of scientific competence compared to other members of their cohort. Lectures are supported by printed handouts, available on ICE, and illustrated with images of recent and historic buildings."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ARC103&psl_code=SEM2"
+    }
+  ]
+}

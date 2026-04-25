@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SAT",
+    "domain_code": "SAT",
+    "full_name": "Advanced Technology"
+  },
+  "full_name": "Foundations of Computer Science and Engineering",
+  "module_code": "SAT006",
+  "offerings": [
+    {
+      "heading": "Foundations of Computer Science and Engineering",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SAT",
+        "full_name": "Foundations of Computer Science and Engineering",
+        "module_code": "SAT006",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Foundations of Computer Science and Engineering",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module allows students to become familiar with the foundational principles of computing and engineering. Students will get insight into the problem-solving mindset adopted by computer scientists and engineers to solve practical problems. It also serves to develop the English language, communication and study skills of students within the context of the relevant subject areas.",
+        "Learning outcomes": "A. Identify and explain the key concepts, principles, and theories in computer programming and engineering. B. Analyze and solve basic computing and engineering problems using fundamental problem-solving techniques. C. Demonstrate skills and techniques for effective study, including research, time management, and self-assessment, to support ongoing learning in computer science and engineering.",
+        "Method of teaching and learning": "Students will be expected to attend a weekly1-hour lecture and four 2-hour labs/tutorial sessions over the 6-week module duration. In the lectures, students will be introduced to academic and theoretical content as well as practical skills, which constitutes the subject of the module. In the tutorial/lab sessions, students are expected put into practice content and skills discussed in the lectures. This module will also help lay the English foundations that are necessary to work in an international environment in a technical field such as computing or engineering. In addition, students will be expected to devote approximately 61 hours of unsupervised time to work in the computer or engineering labs and to do private study. Time in labs will be devoted to work on learning activities and tasks related to the module, while private study will give time for students to reflect on the content of the lectures and conduct further background reading. There will be one final examination for the module which will be used to assess to what extent the theoretical content and practical skills have been learned."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SAT006&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Operating Systems Concepts",
+  "module_code": "CPT104",
+  "offerings": [
+    {
+      "heading": "Operating Systems Concepts",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Operating Systems Concepts",
+        "module_code": "CPT104",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Operating Systems Concepts",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a fundamental understanding of the structures and functionalities of modern operating systems. It describes how the different principal components work and interact with each other and evaluates their performance under different scenarios and constraints. By the end of the module, students should have gained sufficient knowledge of operating systems to be able to create their own system software in the future. Operating systems underpin all computing by managing processes, memory, storage, and hardware, enabling students to design efficient, secure software and troubleshoot performance and concurrency issues. The knowledge and techniques covered are essential to BSc Information and Computing Science.",
+        "Learning outcomes": "A. Explain the management of processes, threads, memory, devices (I/O), and files, such as virtual memory, paging, DMA, RAID, multi-threads control and algorithms, concurrent control, etc. B. Analyze the relationship between the operating system and the hardware environment, and how these components interact to manage system resources efficiently. C. Evaluate the performance of operating systems under different conditions/scenarios. D. Develop small programs using multiprocess and multithread programming techniques to improve the performance of tasks execution.",
+        "Method of teaching and learning": "Each week, students are expected to attend two hours of lectures and two hours of laboratory sessions. Lectures develop the module’s core concepts and practical techniques, while labs provide structured, hands-on exercises with opportunities for immediate formative feedback. In addition, students should devote approximately 7-8 hours per week to independent study—potentially supported by an AI tutor—to consolidate learning, reflect on lecture content, and engage with recommended readings and practice tasks. Engagement with weekly learning activities will be monitored through two in-class quizzes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT104&psl_code=SEM2"
+    }
+  ]
+}

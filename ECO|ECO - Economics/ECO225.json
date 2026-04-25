@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Issues of Economic Policy",
+  "module_code": "ECO225",
+  "offerings": [
+    {
+      "heading": "Issues of Economic Policy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Issues of Economic Policy",
+        "module_code": "ECO225",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Issues of Economic Policy",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to give students basic understanding of the key issue in economic policies and their regional, national, or international context. It will equip students with both a factual and theoretical basis to understand and critically evaluate policy or other responses to contemporary social and business needs. Student will have chance to initiate their own research project related to economic policies with the notion of Ethics, Responsibility, and Sustainability. The module will also develop basic research, report-writing, and presentation skills.",
+        "Learning outcomes": "A. Demonstrate an understanding of the responses of government to contemporary business needs or the reaction of other economic units to policies, as well as their rationale with reference to appropriate economic frameworks. B. Develop the research ability to formulate a research question, apply proper problem-solving skill for relevant issue of economic policy. C. Develop the ability to critically evaluate and discuss relevant issue of economic policy. D. Demonstrate basic understanding of Responsibility, Ethic and Sustainability when conducting the analysis. E. Develop written and verbal communication skills: learning to present analyses, findings, and methodologies to non-experts.",
+        "Method of teaching and learning": "The lectures will be delivered by a combination of lectures, and tutorials. Lectures are designed to provide essential information and introduce students to the basic tools and concepts in economic policy and related issues. Tutorials will provide students with the opportunity to further develop their learning through the exploration of theoretical and empirical studies and data."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO225&psl_code=SEM1"
+    }
+  ]
+}

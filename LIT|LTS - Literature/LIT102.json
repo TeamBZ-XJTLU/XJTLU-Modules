@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LTS",
+    "domain_code": "LIT",
+    "full_name": "Literature"
+  },
+  "full_name": "Literature and AI",
+  "module_code": "LIT102",
+  "offerings": [
+    {
+      "heading": "Literature and AI",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LIT",
+        "full_name": "Literature and AI",
+        "module_code": "LIT102",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Literature and AI",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the literary and cultural history of artificial intelligences - from the philosophical writings of Leizi to the fiction of Liu Cixin, and from the Greek myth of Talos to the Hollywood blockbuster ‘Transcendence’. Encountering some of the highlights of imaginative literature about intelligent machines and nonhuman intelligences in both Western and Chinese traditions, students also participate in practical workshops connected to assessments in which they explore ways of using current forms of AI (ChatGPT and similar) for critical and creative purposes. (The module does not require technical knowledge of generative AI and all uses of AI tools will be within the normal scope of students in humanities subjects.) Students will be introduced to the history of involving machines, algorithms and rule-bases in the creative writing process, from OuLiPo to the Electronic Literature Organization, and will be encouraged to think critically about such categories as ‘creative technology’ and ‘digital language arts’. The module also offers students a rich and contemporary context for exploring key concepts in the humanities and important ideas about human life and purpose - from authorship and the work of art to form, context, and meaning and intention. What it means to write and to be a writer will be a central theme of the course, and in seminars and workshops we will explore the threats and opportunities that AI presents to what has traditionally been thought of as one of the most distinctively human of all activities.",
+        "Learning outcomes": "A. explain some of the actual and potential effects of artificial intelligence on human societies and mythologies, using examples from historic and contemporary works of literature (and related art forms). B. identify and engage critically and creatively with landmarks in the history of artificial intelligences in human cultures (e.g. Asmiov’s Three Laws). C. structure academic essays and other analytical exercises that perform close analysis of texts.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (Lectures and Seminars). Lectures offer information on the background, context and types of text being studied as well as ideas about how they might be read and understood. Seminars link the lecture material to specific texts, give the students time to discuss specific passages and texts in detail, and provide opportunities for learners to develop their own interpretations, reactions, and skills of reading and comprehension."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LIT102&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Pharmaceutical Separation and Fermentation Engineering",
+  "module_code": "APH215",
+  "offerings": [
+    {
+      "heading": "Pharmaceutical Separation and Fermentation Engineering",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Pharmaceutical Separation and Fermentation Engineering",
+        "module_code": "APH215",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Pharmaceutical Separation and Fermentation Engineering",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to introduce all elements for the production of biologics for human medical application using advanced fermentation, separation, and purification technologies.",
+        "Learning outcomes": "A understand the fundamental concepts of biochemical engineering B understand the behavior of microorganisms and their industrial application C evaluate batch and continuous fermentation processes, the operations of aeration, agitation and sterilisation, and downstream processing D explain the principles behind the key unit operations of biomanufacturing, mass transfer, mass balances and energy balances, homogenisation, centrifugation, filtration and purification via chromatography",
+        "Method of teaching and learning": "The module will be delivered through standard lectures, which relevant lecture handouts will accompany. Students will also be guided to sections of specific textbooks and if the reading of specific reviews or literature sources (original papers and review articles) is required, then copies of these will be made available in the library for use by the students. At intervals during the module, tutorials will be held for the students to deeply understand the principle of this module. A key principle of this module will be both the understanding and application of techniques in pharmaceutics preparation and fermentation engineering, and at regular intervals both formative and summative assessment exercises will test knowledge and ability to solve problems. Students will attend a 2-hour lecture per week and a 1-hour tutorial in 13 weeks. Self-study activities will be extensions or consolidations of work carried out in the lectures and tutorials. Assessment components of this module will include: 1) questions or tests in lectures or tutorials; 2) coursework to review the topics; 3) presentation of a critique of the teaching topics. The feedback will help improve the teaching quality and ensure the quality of summative assessment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH215&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Advanced Biochemistry",
+  "module_code": "APH226",
+  "offerings": [
+    {
+      "heading": "Advanced Biochemistry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Advanced Biochemistry",
+        "module_code": "APH226",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Advanced Biochemistry",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with an in-depth understanding of the core concepts of biochemistry. The students will have a deep understanding of the topics, including techniques in regulating gene expression; cellular protein synthesis, folding and degradation; biosynthesis of natural products; and protein channels and pumps that mediate metal transport.",
+        "Learning outcomes": "A_demonstrate deep understanding of the regulation of gene expression, cellular protein synthesis and modification, cellular protein synthesis, folding and degradation, and biosynthesis of natural products. B_understand the ideas relating to biochemical reactions and modern techniques in chemical genetics and proteomics. C_aquire a deep understanding of protein channels and pumps that mediate signalling pathways.",
+        "Method of teaching and learning": "The contents of the lecture component of the module will be delivered using standard lecture formats and will be accompanied by suitable lecture hand-outs (also available online). Students will also be guided to sections of specific textbooks, reviews or source literature. The practical component will be conducted in the Teaching Laboratories in Academy of Pharmacy. A review session will precede each practical to remind students of the underlying concepts and anticipated learning outcomes. The session will also highlight critical parts of the practical where particular care is needed, both from a safety viewpoint and also to facilitate successful completion. In the laboratory session, students will work individually or within small groups and receive help in the planning, execution and interpretation of the experiments from academic staff and demonstrators. Course manuals will provide theoretical background, detailed protocols & procedures and, where appropriate, examples of worked data. The module consists of 14 hours of lectures, which are blended with 7 hours of problem-solving tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH226&psl_code=SEM1"
+    }
+  ]
+}

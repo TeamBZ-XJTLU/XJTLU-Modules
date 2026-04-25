@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FAM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Introduction to Pricing and Hedging",
+  "module_code": "MTH403",
+  "offerings": [
+    {
+      "heading": "Introduction to Pricing and Hedging",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Introduction to Pricing and Hedging",
+        "module_code": "MTH403",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Introduction to Pricing and Hedging",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To enhance students with a powerful mathematical machinery in order to apply the risk-neutral pricing of various financial instruments via the fundamentals theorems of asset pricing",
+        "Learning outcomes": "By the end of this module students should be able to understand and analyze the following: A. The binomial option pricing model and arbitrage pricing in discrete, multi-period models B. Probability spaces, filtrations, conditional probabilities and expectations. C. The main results and basic applications of continuous time stochastic processes: Brownian motion, martingales. D. Ito’s calculus, in particular, the stochastic Ito integral and Ito's formula. E. Define and apply various concepts related to continuous time dynamic portfolio strategies using the Martingale Representation Theorem, apply the concept of an arbitrage free market and a complete market. State and prove the first Fundamental Theorem of Asset Pricing I and II. F. Be able to use measure transformations to price European options using expectations of martingale measures, and apply the risk-neutral formula in pricing options. G.The mathematical analysis of the American put option.",
+        "Method of teaching and learning": "Lectures and homework exercises"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH403&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Regulatory Sciences and Project Management",
+  "module_code": "APH310",
+  "offerings": [
+    {
+      "heading": "Regulatory Sciences and Project Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Regulatory Sciences and Project Management",
+        "module_code": "APH310",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Regulatory Sciences and Project Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Regulatory sciences and project management professionals are in high demand in pharmaceutical industry. This module focuses on the core regulatory sciences and key project management principles involved in the development and manufacturing of therapeutic products, building foundational knowledge on laws, regulations, and good manufacturing processes mandated by the regulatory authorities and agencies.",
+        "Learning outcomes": "A Demonstrate an understanding of the core areas of regulatory sciences and associated legal framework for the use of therapeutic agents in society and an understanding of how the regulatory framework is intertwined with practical and scientific considerations. B Apply practical scientific skills and up-to-date theoretical knowledge in the area of pharmaceutical science as well as the regulation of the use of medicines. C Demonstrate understanding of the laws and standards that govern the development, manufacturing, and commercial distribution of drugs, biologics, medical devices, and food safety. D Demonstrate a critical understanding of strategic frameworks and models used for decision-making processes as well as their position in operational strategy context. E Critically appraise the concept of dominant logic and how substituting a transformational style of problem analysis and decision making can help shape strategic development in complex professional organisations and lead culture change. F Explain comprehensively in-depth the general structure, scope and content of a strategic plan and justify how the components combine to make an integrated plan.",
+        "Method of teaching and learning": "This course will be taught by a series of lectures and tutorials. Experts from industry will be invited to co-delivering the module. Lectures and tutorials will be used to provide a conceptual framework. Students will have opportunity to work in groups through seminars and problem-based learning sessions, while student centred assignments will enable students to reinforce and expand their knowledge, and develop subject specific skills and competence. Timely, relevant and specific, constructive and actionable feedback will be provided to students in-class, on-paper and/or in-person on for each assignment. Students will attend a 3-hour lecture and 1-hour tutorials per week. Students will also be given guidance and opportunities to practice the various skills mentioned in the specifications. Self-study activities will be extensions or consolidations of work carried out in the lecture and tutorial. Assessment components of this module will include: 1) questions or tests in lectures or tutorials; 2) coursework to review the topics; 3) group discussion or report of the lecture topics; and 4) presentation of a critique of the teaching topics. The feedback will help improve the teaching quality and ensure the quality of summative assessment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH310&psl_code=SEM2"
+    }
+  ]
+}

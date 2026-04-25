@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Advanced Inorganic Chemistry",
+  "module_code": "CHE301",
+  "offerings": [
+    {
+      "heading": "Advanced Inorganic Chemistry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CHE",
+        "full_name": "Advanced Inorganic Chemistry",
+        "module_code": "CHE301",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Advanced Inorganic Chemistry",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of the module are to rationalize the vast range of pseudo-first order rate constants found for ligand exchange among metal ions from across the periodic table. Also the module aims to outline key mechanisms by which transition and non-transition metal ions undergo ligand exchange in solution. To rationalize the chemistry of complexes with metal-alkyl and metalcarbene bond, transition-metal complexes containing metal to carbon s-bonds. To show how metals coordinate to organic compounds. To provide an introduction to the structures of solid state materials and the role of diffraction in studying these structures and explain how electrons behave in extended structures, with particular reference to the distinction between metals and insulators, and the behavior of doped semiconductors.",
+        "Learning outcomes": "A understand the formation of different organometallic compounds of transition metals and assess their reactivity and stability B analyse crystal structures in complex inorganic solids C apply X-ray crystallography principles to solve crystal structures D appreciate the factors affecting the electronic properties of solids E appreciate the basic principles and practice of nanomaterials chemistry",
+        "Method of teaching and learning": "Lectures and tutorials"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE301&psl_code=SEM1"
+    }
+  ]
+}

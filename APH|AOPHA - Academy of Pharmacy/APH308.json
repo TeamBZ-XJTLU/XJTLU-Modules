@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Computer Aided Drug Design",
+  "module_code": "APH308",
+  "offerings": [
+    {
+      "heading": "Computer Aided Drug Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Computer Aided Drug Design",
+        "module_code": "APH308",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Computer Aided Drug Design",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course gives a critical understanding of how drugs interact with biomolecules and strategies for how this information can be used in designing novel drugs using computational modelling methods. The aim of this course is to present appropriate computational tools to assist and accelerate drug design. The skills and knowledge gained in this module can be used in students’ future research endeavors.",
+        "Learning outcomes": "A Critically describe the drug development pipeline and understand where computational chemistry fits in B Critically evaluate relationships between thermodynamic properties and drug-host binding structure. C Critically evaluate informatics approaches to the prediction of chemical properties for drug development D Demonstrate plausible practical skills of using molecular simulation methods for drug development E Organize, write and deliver theoretical based research reports and/or effectively communicate with practical researchers in various fields of drug development",
+        "Method of teaching and learning": "The course contains lectures, computer lab practicals and a computational research project."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH308&psl_code=SEM2"
+    }
+  ]
+}

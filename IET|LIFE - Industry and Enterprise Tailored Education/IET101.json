@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LIFE",
+    "domain_code": "IET",
+    "full_name": "Industry and Enterprise Tailored Education"
+  },
+  "full_name": "Exploring Industries",
+  "module_code": "IET101",
+  "offerings": [
+    {
+      "heading": "Exploring Industries",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IET",
+        "full_name": "Exploring Industries",
+        "module_code": "IET101",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Exploring Industries",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to instill in students systematic understanding of a variety of industries and the developmental trends of these industries. The module will lead the students to explore the status and the potential opportunities and challenges faced by the industries by synthesizing the economic, environmental, cultural, ethical, legal, regulatory, political, and sociological conditions at local, national and international levels. Students are expected to develop insights into these industries both from entrepreneurial perspectives and in relation to the professional studies they are engaged in.",
+        "Learning outcomes": "A. Identify and analyse the status of a variety of industries and the developmental trends of the industries. B. Employ the methodologies of conducting industry research. C. Identify and apply the basic steps of industry research.",
+        "Method of teaching and learning": "Classroom teaching, interaction analysis, case study, group exercises and enterprise-based on-site practices."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IET101&psl_code=SEM1"
+    }
+  ]
+}

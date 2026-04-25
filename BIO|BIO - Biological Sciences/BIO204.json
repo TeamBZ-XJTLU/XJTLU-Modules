@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Advanced Genetics",
+  "module_code": "BIO204",
+  "offerings": [
+    {
+      "heading": "Advanced Genetics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Advanced Genetics",
+        "module_code": "BIO204",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Advanced Genetics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is composed of practicals (weeks 1-7) and lectures (weeks 8-14). The lecture series aims to give students with an interest in genetics and molecular biology a more advanced introduction to topics in modern genetics. It will integrate classical concepts with modern genome-wide approaches to study the genetics of disease and disease susceptibility. It is also intended to provide the foundation for the genetic analysis of disease and the bioinformatics of genomics. The practical sessions will provide experience in a range of genetic techniques including the selection and genetic characterization of mutations, cytogenetics and karyotype analysis, population studies, the molecular analysis of genomes through reverse genetics.",
+        "Learning outcomes": "A. Outline knowledge and critical understanding of the principles of advanced genetics B. Explain how these principles have been developed and applied to other areas of biology. C. Outline the appropriate methods and approaches required to solve problems in the area of genetics. D. Acquire knowledge and critical thinking of concepts and principles of special techniques for genetic analysis. E. Acquire the ability to present, critically evaluate and interpret qualitative and quantitative data and record procedures and protocols. F. Make sound judgements based on basic theories and concepts. G. Construct team-working and individual skills and learn to manage time effectively. H. Plan and execute a series of experiments and use laboratory equipment correctly and safely to generate data. I Apply statistical analysis to data and interpret data validly.",
+        "Method of teaching and learning": "The contents of the Lecture part of the module will be delivered primarily via standard lectures, that will be accompanied by suitable lecture hand-outs (also available online). Students will also be guided to sections of specific textbooks, reviews or source literature. Intervals during the module revision (up to 3), lectures or exercises will allow students to self-assess their understanding of the course."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO204&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "APM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Applied Probability",
+  "module_code": "MTH302",
+  "offerings": [
+    {
+      "heading": "Applied Probability",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Applied Probability",
+        "module_code": "MTH302",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Applied Probability",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To give examples of empirical phenomena for which stochastic processes provide suitable mathematical models. To provide an introduction to the methods of probabilistic model building for \"dynamic\" events occuring over time. To familiarise students with an important area of probability modelling.",
+        "Learning outcomes": "A. Demonstrate a good understanding of the basic concepts related to common random processes such as Markov chains, Poisson processes, birth-death processes, Wiener process and Brownian motion. B. Give examples of Markov chains, classify the states and types for both discrete and continuous-time Markov chains. C. Define a stationary distribution for a Markov chain, be able to analyze the existence and uniqueness of a stationary distribution by using limit theorems and determine it if it exists. D. Use the properties of Poisson processes to determine the conditional distribution of arrival times.",
+        "Method of teaching and learning": ""
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH302&psl_code=SEM2"
+    }
+  ]
+}

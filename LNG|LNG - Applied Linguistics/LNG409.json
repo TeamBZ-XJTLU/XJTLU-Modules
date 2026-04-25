@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Dissertation",
+  "module_code": "LNG409",
+  "offerings": [
+    {
+      "heading": "Dissertation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Dissertation",
+        "module_code": "LNG409",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Dissertation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The main aims of the module are to: • Apply some of the main research, theorizing and practice involved in the evaluation and design of curricula for English language education • Engage in some of the main levels of activity involved in curriculum design, i.e., needs analysis, situation analysis, course design, material design, syllabus design and materials evaluation and adaptation • Master relevant academic concepts for each of these areas studied • Raise awareness of factors that are crucial to effective teaching and research • Apprentice the students in to the community of rigorous academic writing practice.",
+        "Learning outcomes": "A Competently apply the main research, theory and practice involved in the EFL/ESL pedagogy B Engage in the main levels of activity involved in curriculum design, i.e., needs analysis, situation analysis, course design, material design, syllabus design and materials evaluation and adaptation C Demonstrate mastery of relevant academic concepts for these areas; D Demonstrate awareness of the key factors that are crucial to effective teaching; E Provide evidence of rigorous academic writing practice.",
+        "Method of teaching and learning": "Supervised study"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG409&psl_code=SEM1"
+    }
+  ]
+}

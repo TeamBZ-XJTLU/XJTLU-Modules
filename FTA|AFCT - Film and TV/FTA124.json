@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Digital Compositing",
+  "module_code": "FTA124",
+  "offerings": [
+    {
+      "heading": "Digital Compositing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Digital Compositing",
+        "module_code": "FTA124",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Digital Compositing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to: • Introduce students to digital compositing. • Employ students to become familiar with the processes involved in integrating live action with computer generated effects. • Encounter the notion that VFX needs early planning in the production process. • Introduce the role of the VFX supervisor on set during production and then in post-production. • Introduce standard VFX software and the digital manipulation of images in post production.",
+        "Learning outcomes": "A. Employ a range of appropriate hardware and software to composite live action sequences with digital environments. B. Design projects using knowledge of Visual Effects techniques. C. Demonstrate appropriate awareness of Industry practices. D. Apply a knowledge of Visual Narrative to Digital Composition",
+        "Method of teaching and learning": "The teaching sessions are divided into three components (Lectures, seminars and Lab practicals). In addition, students will be expected to attend at least 2 tutorials per semester Lectures will focus on History of Compositing and technical practice. Seminars will allow technical discussion about the techniques of compositing in various media An intensive series of practical workshops will equip the students with the compositing skills, understanding of matte painting and layout techniques with practical troubleshooting of software."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA124&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Creative Marketing",
+  "module_code": "IFB413TC",
+  "offerings": [
+    {
+      "heading": "Creative Marketing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Creative Marketing",
+        "module_code": "IFB413TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Creative Marketing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with the necessary skills and competencies to be (successful) content marketers. From a general perspective, the module will walk students through the “what”, “why” and “how” of content marketing. Form a detailed perspective, the Content Marketing module will help students better analyse customers and competitors, embrace emerging trends in digital content creation, choose the right channels for promoting content, and measure the success of content marketing efforts. Also, following the Content Marketing framework (released by the Content Marketing Institute), in this module, students shall cover the five core elements necessary for running successful, scalable content marketing operations within an organisation: - Purpose and Goals: Why you are creating content, and what value it will provide - Audience: Who you are creating content for, and how they will benefit - Story: What specific, unique, and valuable ideas you will build your content assets around - Process: How you will structure and manage your operations in order to activate your plans - Measurement: How you will gauge performance and continually optimize your efforts Module delivery is rendered via lectures with a strong emphasis on solving real-life problems using case study material. The case studies offer students the opportunity to apply the concepts introduced in the lecture material.",
+        "Learning outcomes": "A Appraise the importance and challenges of developing and engaging in effective content marketing using best practice guidelines B Understand and analyse how to apply appropriate marketing theory and frameworks in formulating a high-level content marketing strategy C Evaluate current practices in content management systems D Develop and evaluate effective techniques to measure content marketing strategy effectiveness and to understand how this links to marketing and sales force automation systems E Analyse how digital marketing managers can make informed strategic choices to improve strategic outcomes",
+        "Method of teaching and learning": "The teaching philosophy of the module follows the philosophy of Syntegrative Education. In line with this, the concepts covered by this module will be taught using a combination of lectures, discussions, and dialogues around cases, with an emphasis on active learning. A case represents a comprehensive exposition of a real-life managerial situation that describes a set of problems, which (in turn) require a plan of action. Importantly, the case method provides a pragmatic framework for the (actual) learning process, and as such, its success depends heavily on student preparation and active in-class participation."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB413TC&psl_code=SEM2"
+    }
+  ]
+}

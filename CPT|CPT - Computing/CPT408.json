@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CPT",
+    "domain_code": "CPT",
+    "full_name": "Computing"
+  },
+  "full_name": "Game Design and Development",
+  "module_code": "CPT408",
+  "offerings": [
+    {
+      "heading": "Game Design and Development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CPT",
+        "full_name": "Game Design and Development",
+        "module_code": "CPT408",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Game Design and Development",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The main aim of this module is to introduce the main design and implementation issues surrounding computer games, including gameplay, game physics, and content generation. It also aims to provide practical experience of developing a game using a game engine and covers some of the more significant professional issues related to working as a developer in the games industry.",
+        "Learning outcomes": "A. Evaluate core theoretical design principles and challenges in the development of video games. B. Conduct in-depth analysis of game design elements, using both qualitative and quantitative methodologies to critically assess and improve existing game systems and mechanics. C. Design and develop a fully functioning game using an industry-standard game engine, demonstrating both individual proficiency and effective collaboration in team-based project environments. D. Analyze and navigate professional and ethical dilemmas in game development, integrating contemporary industry standards, regulations, and social impacts in the context of game design and production.",
+        "Method of teaching and learning": "The delivery of materials will be through a combination of lectures and tutorial/lab sessions. Regular tutorial and lab activities will focus on practical applications of issues and theories discussed in the lectures. The continuous assessment components (100%) will take the form of two individual assignments (30% + 40%) and a group project (30%). The assignments will be used to test to what extent practical skills have been learned. The two individual assignments are to allow students to demonstrate their understanding of the design principles of computer games, development skills. The group project is to allow students to put into practice their understanding of these principles and also to learn to use a game engine to develop a functional game designed by them within a team-based framework."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CPT408&psl_code=SEM2"
+    }
+  ]
+}

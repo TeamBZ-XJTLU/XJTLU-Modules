@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Bioinformatics II",
+  "module_code": "BIO214",
+  "offerings": [
+    {
+      "heading": "Bioinformatics II",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Bioinformatics II",
+        "module_code": "BIO214",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Bioinformatics II",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "BIO214 aims to develop students’ practical understanding of how biological information is generated, processed, and interpreted using modern bioinformatics approaches. The module focuses on core concepts and methods that underpin genomic and transcriptomic data analysis, with emphasis on interpreting results rather than treating analysis pipelines as black boxes. Building on earlier bioinformatics training, the module strengthens students’ ability to work with real sequencing data by integrating statistical reasoning with hands-on skills in Linux and R/Python. Students learn why standard analysis steps such as quality control, normalization, and correction are required, and how these choices affect downstream biological conclusions. Within the programme, BIO214 serves as a bridge between introductory bioinformatics and more advanced systems-level analysis. It prepares students for final-year projects and related modules by providing a coherent framework for analysing high-dimensional omics data, assessing biological associations, and understanding the limits of computational inference. The module therefore supports students in developing the analytical maturity needed for both further study and data-driven roles in the life sciences.",
+        "Learning outcomes": "A. Critically evaluate current and emerging sequencing technologies, understanding their biophysical principles, limitations, and biases to determine their suitability for specific genomic and epigenomic research questions. B. Design and implement robust computational workflows to transform raw sequencing data into biological quantities, with a focus on mitigating technical noise, batch effects, and ensuring data reproducibility. C. Apply advanced statistical frameworks, including linear models, latent factor models, and deep learning, to extract structural insights and identify biologically relevant patterns from high-dimensional multi-omics and spatial datasets. D. Analyze genome complexity through assembly algorithms and pangenome representations, and utilize population-scale genetic variation (SNVs/CNVs) to investigate the molecular basis of phenotypic diversity. E. Synthesize multi-scale biological data using network inference and systems biology approaches to interpret functional associations, while distinguishing between correlative links and causal relationships in biological systems.",
+        "Method of teaching and learning": "The module bridges theory and practice through a dual-track learning model. Students first master computational methods for genomic data via interactive lecture sessions, then immediately apply these concepts in intensive labs. By processing real biological data with Linux, R, and/or Python, students construct full-scale computational artifacts (pipelines or scripts) that turn abstract mathematical concepts into concrete research results. The course also examines real-world complexity in bioinformatics through benchmark case studies. Students learn to evaluate method performance critically and over-interpreting correlation when drawing conclusions. The module also introduces recent deep learning methods such as sequence foundation model, focusing on how and when these models are appropriate. By the end of the course, students move from core mathematical ideas to tackling the practical demands of modern bioinformatics research."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO214&psl_code=SEM2"
+    }
+  ]
+}

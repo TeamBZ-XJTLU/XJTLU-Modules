@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Monitoring And Evaluation In Educational Systems And Organizations",
+  "module_code": "EDS426",
+  "offerings": [
+    {
+      "heading": "Monitoring And Evaluation In Educational Systems And Organizations",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Monitoring And Evaluation In Educational Systems And Organizations",
+        "module_code": "EDS426",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Monitoring And Evaluation In Educational Systems And Organizations",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Monitoring and evaluation supports accountability, evidence-based strategic decision-making and organizational learning, by measuring, analyzing, and presenting accurate information to stakeholders about an ongoing or completed activity, a project, a program, a strategy, or even a policy. This set of skills can be applied to a wide variety of educational organizations in the field of global education, including schools, universities, government agencies, businesses, and nonprofit organizations. This module aims to equip students with an evidence-based decision-making mindset and foundational knowledge and skills in monitoring and evaluation, thus enabling students to conduct basic monitoring and evaluation related practical work in diverse real-life settings in the field of global education. Students should be able to understand the role and importance of monitoring and evaluation in educational systems and organizations, identify the main components of an M&E system, design a simple monitoring and evaluation plan, select appropriate data collection methods and tools, and interpret data collected to formulate conclusions and recommendations.",
+        "Learning outcomes": "A Identify the main components of an monitoring and evaluation system B Formulate a conceptual framework and a logic model for how a program will lead to desired goals and objectives C Develop and select appropriate indicators for measuring program outputs, outcomes, and impact/effectiveness D Develop a monitoring and evaluation plan for an educational program E Interpret monitoring and evaluation data and formulate recommendations",
+        "Method of teaching and learning": "This module will be delivered through a combination of lectures and tutorials with a focus on Research Led Project Based Learning (RLPBL) approaches. Students enrolled in the module will be provided with \"clients\" that require a monitoring and evaluation system/plan for their projects. The lectures will provide students with key conceptual, theoretical, and methodological insights, followed by tutorials that provide students dedicated opportunities for collaborative and individual practice, critical reflection, and iterative development of the monitoring and evaluation system/plan for the client."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS426&psl_code=SEM2"
+    }
+  ]
+}
