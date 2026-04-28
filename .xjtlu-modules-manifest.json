@@ -2484,6 +2484,7 @@
     "UPD|UPD - Urban Planning and Design/UPD004.json",
     "UPD|UPD - Urban Planning and Design/UPD101.json",
     "UPD|UPD - Urban Planning and Design/UPD102.json",
+    "UPD|UPD - Urban Planning and Design/UPD103.json",
     "UPD|UPD - Urban Planning and Design/UPD105.json",
     "UPD|UPD - Urban Planning and Design/UPD106.json",
     "UPD|UPD - Urban Planning and Design/UPD109.json",
@@ -2513,7 +2514,7 @@
     "XPU|LIFE - XIPU AI general education/XPU001.json",
     "XPU|LIFE - XIPU AI general education/XPU002.json"
   ],
-  "module_file_count": 2442,
+  "module_file_count": 2443,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -17004,6 +17005,12 @@
       "module_code": "UPD102",
       "module_level": "Level 1",
       "path": "UPD|UPD - Urban Planning and Design/UPD102.json"
+    },
+    {
+      "full_name": "Issues and practice of planning in China I",
+      "module_code": "UPD103",
+      "module_level": "Level 1",
+      "path": "UPD|UPD - Urban Planning and Design/UPD103.json"
     },
     {
       "full_name": "Urban and Environmental Economics",
