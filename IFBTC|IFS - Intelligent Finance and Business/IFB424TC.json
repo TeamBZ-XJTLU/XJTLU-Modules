@@ -14,6 +14,29 @@
         "domain_code": "IFBTC",
         "full_name": "Digital Finance",
         "module_code": "IFB424TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Digital Finance",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Digital technologies are reshaping how financial institutions operate, deliver services, and engage with customers. While innovations such as AI, blockchain, and cloud computing enhance efficiency, accessibility, and profitability, they also introduce operational risks that may undermine financial stability, consumer protection, and market confidence. This course examines the transformative impact of technology on the financial sector, with particular emphasis on the rise of artificial intelligence and its regulatory implications. Students will analyze how policymakers and financial institutions can harness the opportunities offered by next-generation technologies while effectively identifying, managing, and mitigating the associated risks. The aim of this course is to: (i) examine the most relevant developments in digital technologies, particularly artificial intelligence, their relevance for financial institutions, financial product offering and financial services, (ii) analyse various risks arising at the intersection of finance and digital technologies, and (iii) highlight how law and regulation respond to these risks.",
+        "Learning outcomes": "Students completing the module successfully should be able to: A Comprehend how financial institutions and financial services are affected by, and can strategically adopt, emerging technological innovations such as artificial intelligence. B Critically evaluate the risks and benefits associated with digital finance technologies. C Demonstrate proficiency in using digital tools for financial analysis and decision-making. D Analyze academic literature, legal sources and cases concerning various aspects of digital finance. E Collaborate in teams to solve real-world problems via case studies and projects.",
+        "Method of teaching and learning": "Based on the philosophy of Syntegrative Education, this module’s delivery pattern follows more intensive block teaching, and allows more meaningful contribution from industry partners. This delivery pattern provides space for students to concentrate on completing the problem-based and project-oriented assessments. This module will be delivered through a series of key lectures/seminars. In addition, students will be required to analyse a number of cases, determining what worked and why. Due to the fast-evolving nature of the topics and issues covered in this course, we will not use a single textbook. Instead, various articles, policy papers and book chapters will be assigned in a course reader that is available on Brightspace."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB424TC&psl_code=SEM1"
+    },
+    {
+      "heading": "Digital Finance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Digital Finance",
+        "module_code": "IFB424TC",
         "semester": "SEM2"
       },
       "overview": {
