@@ -14,6 +14,29 @@
         "domain_code": "CLT",
         "full_name": "Classical Chinese",
         "module_code": "CLT306",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Classical Chinese",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to enable students to systematically understand classical Chinese texts while enhancing their comprehension of cultural connotations and historical contexts. By mastering classical Chinese, students will gain insights into the cultural, social, and historical aspects of pre-twentieth century China and deepen their understanding of modern Chinese by highlighting connections between ancient and contemporary language. Additionally, the course will introduce English translations of classical texts, fostering cross-cultural awareness and critical thinking, and equip students with commonly used reference tools for independent study.",
+        "Learning outcomes": "A. Read and analyse Classical Chinese text starting from the Pre-Qin Dynasty period B. Master fundamental Classical Chinese grammar C. Demonstrate understanding of the cultural background and historical context of classical Chinese literature D. Create contextually relevant projects and develop critical thinking skills",
+        "Method of teaching and learning": "This module employs close reading of exemplary Pre-Qin prose texts to analyze the grammatical features of classical Chinese while also introducing relevant literary, historical, and cultural contexts. Active learning is fostered through individual and group work in class, promoting reflection over rote memorization. Selected texts include comparative analyses of multiple English translations to develop cross-cultural awareness and critical thinking. Course projects bridge classical content with contemporary contexts, enabling practical application and a deeper understanding of the language."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CLT306&psl_code=SEM1"
+    },
+    {
+      "heading": "Classical Chinese",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CLT",
+        "full_name": "Classical Chinese",
+        "module_code": "CLT306",
         "semester": "SEM2"
       },
       "overview": {

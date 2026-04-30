@@ -29,6 +29,29 @@
         "Method of teaching and learning": "Based on the philosophy of Syntegrative Education, this module’s delivery pattern follows more intensive block teaching, and allows more meaningful contribution from industry partners. This delivery pattern provides space for students to concentrate on completing the problem-based and project-oriented assessments. This module will be delivered through a series of key lectures/seminars. In addition, students will be required to analyse a number of cases, determining what worked and why."
       },
       "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB409TC&psl_code=SEM1"
+    },
+    {
+      "heading": "Demand And Inventory Planning",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Demand And Inventory Planning",
+        "module_code": "IFB409TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Demand And Inventory Planning",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The objective of the Demand and Inventory Planning course is to provide students with a comprehensive understanding of the concepts, tools, and techniques used in the effective management of demand and inventory in a variety of business settings. The course will make productive use of analytics tools. While the class focuses on simplified models, it aims to bridge classroom knowledge and business applications.",
+        "Learning outcomes": "A. Demonstrate the ability to establish a comprehensive framework for analyzing operational challenges, emphasizing demand forecasting and inventory management. B. Apply mathematical modeling and optimization tools to formulate and execute tactical and short-term plans in the domains of demand forecasting and inventory management. C. Utilize practical tools such as MS Excel or R, etc. to implement effective demand and inventory strategies.",
+        "Method of teaching and learning": "Based on the philosophy of Syntegrative Education, this module’s delivery pattern follows more intensive block teaching, and allows more meaningful contribution from industry partners. This delivery pattern provides space for students to concentrate on completing the problem-based and project-oriented assessments. This module will be delivered through a series of key lectures/seminars. In addition, students will be required to analyse a number of cases, determining what worked and why."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB409TC&psl_code=SEM2"
     }
   ]
 }
