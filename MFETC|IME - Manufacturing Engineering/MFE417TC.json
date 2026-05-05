@@ -14,6 +14,29 @@
         "domain_code": "MFETC",
         "full_name": "Internship 2 (Dissertation)",
         "module_code": "MFE417TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Internship 2 (Dissertation)",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This advanced internship module serves as the industry-focused experience in Semester 4, accepting students from both Internship 1 and Research Project 1 backgrounds. Students will carry out an individual thesis-level project under dual supervision of academic staff and industry experts for a period of 6 months, reporting findings both verbally and in writing, with named supervisors and agreed supervision cadence and milestones. For students progressing from Internship 1, the module builds upon their previous industry experience with advanced responsibilities and dissertation-level project. For students transitioning from Research Project 1, it provides intensive industry immersion while leveraging their established research methodology skills. Entry is gated by a concise formal project approval to safeguard quality and feasibility. Compared to Internship 1, Internship 2 evidences higher independence and dissertation‑level innovation; for students coming from Research Project 1, industry onboarding ensures alignment with host expectations. The module aims to: • Allow students to gain advanced project management capabilities in industrial improvement or projects • Enable students to make substantial contributions to technical innovations in firms • Expose students to complex industrial-type projects requiring independent research and dissertation-level work • Develop integration of all knowledge, insights, and skills gained while studying on the programme Students are expected to produce a dissertation that provides evidence of in-depth understanding, mastery of research techniques, empirical data analysis capability, and independent work as an engineer or researcher.",
+        "Learning outcomes": "A Demonstrate critical awareness of relevant scientific literature and industrial practices associated with the project, including current state‑of‑the‑art and industry standards B Identify substantial problems and independently produce comprehensive plans with clear methodological structure, success criteria, risks/ethics/data governance, approved through a formal project approval process C Design, implement and validate dissertation‑level solutions to substantial problems D Demonstrate mastery of research techniques with capability to collect and analyse empirical data, and justify method choices under constraint E Critically evaluate their work and place it in the context of related work and industrial practices, including host‑organisation constraints and standards F Prepare and deliver a formal presentation, including an oral defence G Structure and write a dissertation or technical report describing their projects, demonstrating advanced independence and synthesis",
+        "Method of teaching and learning": "The teaching philosophy of the module adopts the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. Projects commence only after formal project approval and confirmation of supervision cadence and milestones; students transitioning from Research Project 1 complete a short industry‑readiness onboarding. Key Teaching Elements: • Regular meetings/consultations with supervisor • Laboratory and other investigative work under direct/indirect supervision (as appropriate) • Preparation of project specification and final thesis, poster or web-page and oral presentation This advanced internship module employs a dual supervision model with both academic supervisors and industrial experts, emphasizing independent dissertation-level work under structured guidance. Supervision is with named academic and industrial supervisors, includes minimum bi‑weekly academic meetings and monthly tri‑partite reviews, and uses agreed asynchronous check‑ins. Milestone‑based monitoring (e.g., defended host‑facing plan, mid‑term technical review) supports higher independence and innovation; any material scope change requires mini re‑approval."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MFE417TC&psl_code=SEM1"
+    },
+    {
+      "heading": "Internship 2 (Dissertation)",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MFETC",
+        "full_name": "Internship 2 (Dissertation)",
+        "module_code": "MFE417TC",
         "semester": "SEM2"
       },
       "overview": {

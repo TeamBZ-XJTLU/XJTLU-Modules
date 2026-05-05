@@ -14,6 +14,29 @@
         "domain_code": "RBETC",
         "full_name": "Research Dissertation",
         "module_code": "RBE414TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Research Dissertation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The Research Dissertation module enables students to undertake an independent research project within the field of advanced robotics (Compulsory for the Advanced Robotics Technologies pathway). Students will conduct in-depth research, analyze empirical data, and produce a comprehensive dissertation that contributes to the knowledge and understanding of the chosen research topic. This module emphasizes critical thinking, research methodology, academic writing skills, and the ability to present research findings effectively. Module Aims: 1. Develop advanced research skills and methodologies specific to the field of advanced robotics. 2. Enable students to independently investigate a research question or problem within the field. 3. Cultivate critical thinking, data analysis, and academic writing skills. 4. Enhance students' ability to effectively communicate research findings and contribute to the scholarly discourse in advanced robotics.",
+        "Learning outcomes": "A. Demonstrate a profound understanding of the chosen subject area within the field of advanced robotics, specifically focusing on conducting research in a conventional dissertation format. B. Apply appropriate research techniques, methodologies, and theoretical frameworks relevant to the topic area to conduct a comprehensive investigation, ensuring that the research adheres to ethical guidelines, promotes safety, and considers sustainability. C. Collect, analyse, and interpret empirical data effectively in the context of the research dissertation, employing rigorous research methodologies and data analysis techniques, while considering the ethical use of data D. Evaluate the outcomes of the research, drawing insightful conclusions, identifying significant findings, and exploring avenues for further improvement or future exploration. E. Effectively communicate research findings and insights through the preparation and submission of a well-structured, coherent, and comprehensive research dissertation, showcasing advanced academic writing skills and critical thinking abilities.",
+        "Method of teaching and learning": "The teaching and learning methods for this module include: 1. Individual Supervision: Each student will be assigned a dedicated academic supervisor who will provide guidance, support, and regular feedback throughout the dissertation process. Supervisors will assist students in refining research questions, developing methodologies, analysing data, and structuring the dissertation. 2. Literature Review: Students will engage in extensive literature reviews to explore existing research and theoretical frameworks related to their chosen research topic. This will help them establish a strong theoretical foundation for their dissertation and identify research gaps. 3. Data Collection and Analysis: Students will undertake data collection activities, which may involve experiments, surveys, interviews, or analysis of existing datasets. They will be encouraged to employ appropriate data analysis techniques to derive meaningful insights. 4. Research Seminars and Presentations: Students may have opportunities to attend research seminars or present their work-in-progress to their peers and academic staff. This provides a platform for intellectual exchange, feedback, and the opportunity to refine their research approach. 5. Writing and Dissertation Development: Students will dedicate time to writing their dissertation, focusing on structure, coherence, academic writing conventions, and effective communication of research findings. They will receive guidance on structuring chapters, citing sources, and maintaining a consistent writing style. 6. Formative Feedback and Revision: Students will receive regular formative feedback from their academic supervisor on their dissertation drafts. This feedback will guide students in revising and improving their work before the final submission. 7. Independent Research: The module emphasizes independent research, encouraging students to take ownership of their dissertation project and engage in self-directed learning. This includes managing their time effectively, conducting thorough research, and seeking resources beyond what is directly provided. Note: The specific teaching and learning methods may vary based on the research topic and student preferences, amongst others"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=RBE414TC&psl_code=SEM1"
+    },
+    {
+      "heading": "Research Dissertation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "RBETC",
+        "full_name": "Research Dissertation",
+        "module_code": "RBE414TC",
         "semester": "SEM2"
       },
       "overview": {

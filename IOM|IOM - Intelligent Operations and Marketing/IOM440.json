@@ -29,6 +29,29 @@
         "Method of teaching and learning": "A series of lectures, tutorials, and labs are pre-organized and delivered. In the lectures, quantitative knowledge is mainly included, both from theoretical and practical perspectives. The tutorials are delivered in the class, where students are led to deal with some practical or simulated SCM scenario and required to practice the techniques they learn by using software. Labs are conducted in computer lab to provide students with more examples on practical supply chain problems and dataset to practice data science techniques. Both written and computerized exercises will be given in tutorials and labs for the students to strengthen their understanding of the knowledge and practice their skills. R software will be used as the main software platform."
       },
       "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM440&psl_code=SEM1"
+    },
+    {
+      "heading": "Data Science For Supply Chain Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Data Science For Supply Chain Management",
+        "module_code": "IOM440",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Data Science For Supply Chain Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides students critical understanding for the applications of data science in Supply Chain Management (SCM). This module delivers the well recognized data analytic techniques in the context of SCM, which develop in-depth understanding of the impact of digitalization on SCM towards the present era of data and information. Also, this module incorporates the extensive learning of essentials of data science and the use of programming language to develop and analyze data based supply chain models.",
+        "Learning outcomes": "This module provides students critical understanding for the applications of data science in Supply Chain Management (SCM). This module delivers the well recognized data analytic techniques in the context of SCM, which develop in-depth understanding of the impact of digitalization on SCM towards the present era of data and information. Also, this module incorporates the extensive learning of essentials of data science and the use of programming language to develop and analyze data based supply chain models.",
+        "Method of teaching and learning": "A series of lectures, tutorials, and labs are pre-organized and delivered. In the lectures, quantitative knowledge is mainly included, both from theoretical and practical perspectives. The tutorials are delivered in the class, where students are led to deal with some practical or simulated SCM scenario and required to practice the techniques they learn by using software. Labs are conducted in computer lab to provide students with more examples on practical supply chain problems and dataset to practice data science techniques. Both written and computerized exercises will be given in tutorials and labs for the students to strengthen their understanding of the knowledge and practice their skills. R software will be used as the main software platform."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM440&psl_code=SEM2"
     }
   ]
 }
