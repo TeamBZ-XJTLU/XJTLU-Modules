@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "High-Throughput Approaches and Systems Biology",
+  "module_code": "BIO316",
+  "offerings": [
+    {
+      "heading": "High-Throughput Approaches and Systems Biology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "High-Throughput Approaches and Systems Biology",
+        "module_code": "BIO316",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "High-Throughput Approaches and Systems Biology",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "A major grand challenge in the molecular biosciences is to develop predictive models for key life processes. Accordingly, there is an increasing need for research bio-scientists to handle diverse, large-scale, quantitative datasets and to extract meaningful information from them. This module is designed to provide the bioinformatics skills necessary to analyse and interpret genome sequence data, as well as high-throughput transcriptomic and proteomic data. The module will also provide an introduction to data integration and systems biology approaches by emphasizing the system-related concept. The students should be able to process various datasets generated from different high-throughput technologies.",
+        "Learning outcomes": "A. Apply appropriate bioinformatics tools and statistical approaches to conduct a research project in this area with high-throughput biological data generated using latest biotechnology. B. Critically analyze and process high-throughput bio-molecular data, especially next generation sequencing data, such as, RNA-Seq, ChIP-Seq, and SNPs. C. Appraise, integrate and present different types of bioinformatics data in appropriate formats, such as, FASTA, FASTQ, BAM, and GTF. D. Apply appropriate bioinformatics/statistical tools to analyze bioinformatics data on both Linux and Windows OS with R/Bioconductor. E. Integrate different datasets from multiple layers to understand biology mechanisms from systems biology perspective. F. Have a working knowledge of high performance computing systems, including bash scripting, multi-threads computing, and parallel computation.",
+        "Method of teaching and learning": "1. Didactic component - the core of the teaching is lecture-based with Q/A and feedback. 2. Self-learning component - students are encouraged to read around the subject materials. 3. Comprehension/review exercise - two continuous assessments, following supervised discussion and Q/A sessions in the seminars. 4. Case studies will be supplied to help students place the course material in context. 5. Working in computer lab with bioinformatics tools to solve practical problems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO316&psl_code=SEM1"
+    }
+  ]
+}

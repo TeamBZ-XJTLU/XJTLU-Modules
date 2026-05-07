@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Love, Sex and Food in the Digital Age",
+  "module_code": "COM339",
+  "offerings": [
+    {
+      "heading": "Love, Sex and Food in the Digital Age",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Love, Sex and Food in the Digital Age",
+        "module_code": "COM339",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Love, Sex and Food in the Digital Age",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to teach students how to apply theories and epistemological paradigms to the scrutiny of the online mediation of everyday life. Through examining a range of case studies, students will learn to think critically and reflect upon online cultural practices pertaining to the realms of sexuality, intimacy and desire, and the relationships that hold them together via social networking websites. Students will have the opportunity to develop research skills to question, through critical and creative thinking, the extent to which the digital environment has shaped the way people represent and communicate basic needs, make virtual and real-life connections and seek visibility and consensus through self-publishing practices. In addition, students will acquire the methodological expertise needed to study online interpersonal interactions and self-representational exercises.",
+        "Learning outcomes": "A. Demonstrate a conceptual understanding of the meaning of everyday online social practices B. Apply qualitative research methods to digital media C. Develop and defend an argument backed by evidence D. Use creativity as a form of inquiry and as a way to synthesise information",
+        "Method of teaching and learning": "Lectures Seminars"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM339&psl_code=SEM2"
+    }
+  ]
+}

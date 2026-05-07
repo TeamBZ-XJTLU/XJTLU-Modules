@@ -208,11 +208,13 @@
     "BIO|BIO - Biological Sciences/BIO301.json",
     "BIO|BIO - Biological Sciences/BIO302.json",
     "BIO|BIO - Biological Sciences/BIO303.json",
+    "BIO|BIO - Biological Sciences/BIO304.json",
     "BIO|BIO - Biological Sciences/BIO305.json",
     "BIO|BIO - Biological Sciences/BIO309.json",
     "BIO|BIO - Biological Sciences/BIO311.json",
     "BIO|BIO - Biological Sciences/BIO312.json",
     "BIO|BIO - Biological Sciences/BIO315.json",
+    "BIO|BIO - Biological Sciences/BIO316.json",
     "BIO|BIO - Biological Sciences/BIO317.json",
     "BIO|BIO - Biological Sciences/BIO318.json",
     "BIO|BIO - Biological Sciences/BIO319.json",
@@ -527,6 +529,7 @@
     "COM|COM - Media and Communication/COM336.json",
     "COM|COM - Media and Communication/COM337.json",
     "COM|COM - Media and Communication/COM338.json",
+    "COM|COM - Media and Communication/COM339.json",
     "COM|COM - Media and Communication/COM340.json",
     "COM|COM - Media and Communication/COM401.json",
     "COM|COM - Media and Communication/COM402.json",
@@ -2514,7 +2517,7 @@
     "XPU|LIFE - XIPU AI general education/XPU001.json",
     "XPU|LIFE - XIPU AI general education/XPU002.json"
   ],
-  "module_file_count": 2443,
+  "module_file_count": 2446,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -3717,6 +3720,12 @@
       "path": "BIO|BIO - Biological Sciences/BIO303.json"
     },
     {
+      "full_name": "Biotechnology and Society",
+      "module_code": "BIO304",
+      "module_level": "Level 3",
+      "path": "BIO|BIO - Biological Sciences/BIO304.json"
+    },
+    {
       "full_name": "Gene Expression and Genome Analysis",
       "module_code": "BIO305",
       "module_level": "Level 3",
@@ -3745,6 +3754,12 @@
       "module_code": "BIO315",
       "module_level": "Level 3",
       "path": "BIO|BIO - Biological Sciences/BIO315.json"
+    },
+    {
+      "full_name": "High-Throughput Approaches and Systems Biology",
+      "module_code": "BIO316",
+      "module_level": "Level 3",
+      "path": "BIO|BIO - Biological Sciences/BIO316.json"
     },
     {
       "full_name": "Final Year Project in Biomedical Sciences",
@@ -5569,6 +5584,12 @@
       "module_code": "COM338",
       "module_level": "Level 3",
       "path": "COM|COM - Media and Communication/COM338.json"
+    },
+    {
+      "full_name": "Love, Sex and Food in the Digital Age",
+      "module_code": "COM339",
+      "module_level": "Level 3",
+      "path": "COM|COM - Media and Communication/COM339.json"
     },
     {
       "full_name": "Journalism and Society",
@@ -17007,7 +17028,7 @@
       "path": "UPD|UPD - Urban Planning and Design/UPD102.json"
     },
     {
-      "full_name": "Issues and practice of planning in China I",
+      "full_name": "Issues and practice of planning in China",
       "module_code": "UPD103",
       "module_level": "Level 1",
       "path": "UPD|UPD - Urban Planning and Design/UPD103.json"

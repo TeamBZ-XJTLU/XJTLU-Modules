@@ -14,21 +14,21 @@
         "domain_code": "CEN",
         "full_name": "Geology",
         "module_code": "CEN110",
-        "semester": "SEM2"
+        "semester": "SEM1"
       },
       "overview": {
         "Academic Year": "2026/27",
         "Module Credits": "2.5",
         "Module Level": "Level 1",
         "Module Title": "Geology",
-        "Semester": "SEM2"
+        "Semester": "SEM1"
       },
       "sections": {
         "Aims and Fit of Module": "The module aims to introduce the students to basic geological materials and structures, in the context of showing students how natural geological materials can be analysed for engineering purposes. The analysis methods include engineering prediction based on geological observations, basic rock mechanics (discontinuity quantification).",
         "Learning outcomes": "A. Identify and describe a range of geological materials including both rocks and minerals, and be aware of their engineering behaviours. B. Show awareness of how geological structures formed due to the application of tectonic stresses (folds, faults, boudinage etc.) affect the arrangement of geological materials, including the use of stratigraphy and basic skills to identify their arrangement C. Evaluate different active geotechnical environments in terms of the materials and structures which form within the present day environments due to the active processes. D. Identify the appropriate methods which should be applied during a site investigation including for the identification and solution of geotechnical problems. E. Assess the impact of specific geotechnical hazards on sites (earthquake, volcano, tsunami, landslide), and be aware of the importance of including such factors within engineering designs. F. Acquire preliminary engineering data from geological maps and be able to make predictions which can be verified during a later site investigation, including generation of geological cross-sections and calculation of volumes",
         "Method of teaching and learning": "The lectures are used to teach the background knowledge. Practical classes are used to teach analysis of geological maps and the identification of minerals and rocks in the hand specimen. The interpretation of geological maps is used to teach the construction of cross sections, and rock volume assessment and extraction calculations. Knowledge introduced in the lectures and the techniques introduced in the practicals are demonstrated to the students on the one day fieldclass"
       },
-      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN110&psl_code=SEM2"
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN110&psl_code=SEM1"
     }
   ]
 }
