@@ -617,6 +617,7 @@
     "DTSTC|AAC - Data Science/DTS002TC.json",
     "DTSTC|AAC - Data Science/DTS003.json",
     "DTSTC|AAC - Data Science/DTS004.json",
+    "DTSTC|AAC - Data Science/DTS101TC.json",
     "DTSTC|AAC - Data Science/DTS102TC.json",
     "DTSTC|AAC - Data Science/DTS103TC.json",
     "DTSTC|AAC - Data Science/DTS104TC.json",
@@ -1255,7 +1256,6 @@
     "IND|IND - Industrial Design/IND405.json",
     "IND|IND - Industrial Design/IND406.json",
     "IND|IND - Industrial Design/IND408.json",
-    "IND|IND - Industrial Design/IND409.json",
     "INS|INS - International Studies",
     "INS|INS - International Studies/INS006.json",
     "INS|INS - International Studies/INS101.json",
@@ -6096,6 +6096,12 @@
       "path": "DTSTC|AAC - Data Science/DTS004.json"
     },
     {
+      "full_name": "Introduction to Neural Networks",
+      "module_code": "DTS101TC",
+      "module_level": "Level 1",
+      "path": "DTSTC|AAC - Data Science/DTS101TC.json"
+    },
+    {
       "full_name": "Programming with C++",
       "module_code": "DTS102TC",
       "module_level": "Level 1",
@@ -9838,12 +9844,6 @@
       "module_code": "IND408",
       "module_level": "Level 4",
       "path": "IND|IND - Industrial Design/IND408.json"
-    },
-    {
-      "full_name": "Advanced Collaborative Project",
-      "module_code": "IND409",
-      "module_level": "Level 4",
-      "path": "IND|IND - Industrial Design/IND409.json"
     },
     {
       "full_name": "Introduction to International Relations",
