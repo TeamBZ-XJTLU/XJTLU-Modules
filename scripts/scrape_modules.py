@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import random
 import re
 import sys
 import time
@@ -141,6 +142,12 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--delay", default=0.0, type=float, help="Delay between list-page requests.")
     parser.add_argument("--timeout", default=30.0, type=float)
     parser.add_argument("--retries", default=3, type=int)
+    parser.add_argument(
+        "--retry-failed-delay",
+        default=30.0,
+        type=float,
+        help="Cooldown before retrying module detail pages that failed in the concurrent pass.",
+    )
     parser.add_argument("--prune", action="store_true", help="Remove files listed in the previous manifest.")
     parser.add_argument("--limit-domains", type=int, help="Only scrape the first N department rows.")
     parser.add_argument("--limit-modules", type=int, help="Only scrape the first N modules after domain collection.")
@@ -169,8 +176,8 @@ def fetch(url: str, timeout: float, retries: int) -> str:
             last_error = exc
             if attempt == retries:
                 break
-            time.sleep(min(2 ** (attempt - 1), 8))
-    raise RuntimeError(f"failed to fetch {url}: {last_error}")
+            time.sleep(min(2 ** (attempt - 1), 8) + random.uniform(0.0, 0.5))
+    raise RuntimeError(f"failed to fetch {url!r} ({last_error})")
 
 
 def extract_tables(root: Node) -> list[list[dict[str, object]]]:
@@ -333,6 +340,14 @@ def legacy_module_file_name(module: ModuleListing) -> str:
     return f"{safe_name(module.module_code)}_{safe_name(module.semester)}.json"
 
 
+def module_paths(department: Department, module: ModuleListing) -> tuple[str, str]:
+    folder = Path(department_folder_name(department))
+    return (
+        (folder / module_file_name(module)).as_posix(),
+        (folder / legacy_module_file_name(module)).as_posix(),
+    )
+
+
 def module_url(base_url: str, module: ModuleListing) -> str:
     if module.href:
         return module.href
@@ -450,8 +465,7 @@ def scrape_module(
     url = module_url(base_url, module)
     html = fetch(url, timeout=timeout, retries=retries)
     detail = extract_module_detail(html)
-    relative_path = Path(department_folder_name(department)) / module_file_name(module)
-    legacy_relative_path = Path(department_folder_name(department)) / legacy_module_file_name(module)
+    relative_path, legacy_relative_path = module_paths(department, module)
     offering = {
         "source_url": url,
         "listing": {
@@ -463,7 +477,7 @@ def scrape_module(
         },
         **detail,
     }
-    return relative_path.as_posix(), legacy_relative_path.as_posix(), offering
+    return relative_path, legacy_relative_path, offering
 
 
 def offering_sort_key(offering: dict[str, object]) -> tuple[str, str, str]:
@@ -543,7 +557,7 @@ def main() -> int:
         for department in departments_by_domain[domain_code]:
             for module in domain_modules:
                 module_jobs.append((department, module))
-                relative_path = (Path(department_folder_name(department)) / module_file_name(module)).as_posix()
+                relative_path, _legacy_path = module_paths(department, module)
                 departments_by_path[relative_path] = department
         if args.delay:
             time.sleep(args.delay)
@@ -561,8 +575,10 @@ def main() -> int:
         generated_paths.add(folder)
 
     offerings_by_path: dict[str, list[dict[str, object]]] = {}
+    failed_jobs: list[tuple[Department, ModuleListing, str]] = []
+    retry_errors: list[tuple[Department, ModuleListing, str]] = []
     with ThreadPoolExecutor(max_workers=max(1, args.workers)) as executor:
-        futures = [
+        futures = {
             executor.submit(
                 scrape_module,
                 base_url,
@@ -570,18 +586,50 @@ def main() -> int:
                 args.retries,
                 department,
                 module,
-            )
+            ): (department, module)
             for department, module in module_jobs
-        ]
+        }
         for future in as_completed(futures):
+            department, module = futures[future]
             try:
                 path, legacy_path, offering = future.result()
                 generated_paths.add(path)
                 legacy_current_paths.add(legacy_path)
                 offerings_by_path.setdefault(path, []).append(offering)
             except Exception as exc:  # noqa: BLE001 - keep scraping independent modules.
-                errors.append(str(exc))
+                failed_jobs.append((department, module, str(exc)))
                 print(f"warning: {exc}", file=sys.stderr)
+
+    if failed_jobs:
+        print(
+            f"retrying {len(failed_jobs)} failed module fetches after "
+            f"{args.retry_failed_delay:g}s cooldown",
+            file=sys.stderr,
+        )
+        if args.retry_failed_delay:
+            time.sleep(args.retry_failed_delay)
+        for department, module, _previous_error in failed_jobs:
+            try:
+                path, legacy_path, offering = scrape_module(
+                    base_url,
+                    args.timeout * 2,
+                    args.retries,
+                    department,
+                    module,
+                )
+                generated_paths.add(path)
+                legacy_current_paths.add(legacy_path)
+                offerings_by_path.setdefault(path, []).append(offering)
+            except Exception as exc:  # noqa: BLE001 - report all unresolved modules.
+                retry_errors.append((department, module, str(exc)))
+                print(f"warning: retry failed: {exc}", file=sys.stderr)
+        errors = [error for _department, _module, error in retry_errors]
+
+    unresolved_paths: set[str] = set()
+    if errors:
+        for department, module, _error in retry_errors:
+            path, _legacy_path = module_paths(department, module)
+            unresolved_paths.add(path)
 
     changed_count = 0
     for path, offerings in sorted(offerings_by_path.items()):
@@ -591,9 +639,15 @@ def main() -> int:
 
     renamed_paths: list[str] = []
     archived_paths: list[str] = []
-    if args.prune:
+    if args.prune and not errors:
         renamed_paths = remove_renamed_previous(output, old_manifest, legacy_current_paths)
         archived_paths = archive_previous(output, old_manifest, generated_paths, legacy_current_paths)
+    elif args.prune and errors:
+        print(
+            f"warning: skipped pruning because {len(unresolved_paths)} module files "
+            "still failed after retry",
+            file=sys.stderr,
+        )
 
     manifest = {
         "base_url": base_url,
@@ -607,14 +661,14 @@ def main() -> int:
         "errors": errors,
         "generated_paths": sorted(generated_paths),
     }
-    manifest_changed = write_json(manifest_path, manifest)
+    manifest_changed = False if errors else write_json(manifest_path, manifest)
 
     print(
         f"scraped {manifest['department_count']} department rows and "
         f"{manifest['module_file_count']} module files with {manifest['error_count']} errors; "
         f"updated {changed_count} module files, archived {len(archived_paths)} stale files, "
         f"removed {len(renamed_paths)} renamed files, "
-        f"{'updated' if manifest_changed else 'kept'} manifest"
+        f"{'updated' if manifest_changed else 'skipped' if errors else 'kept'} manifest"
     )
     return 1 if errors else 0
 
