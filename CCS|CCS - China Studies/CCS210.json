@@ -14,6 +14,29 @@
         "domain_code": "CCS",
         "full_name": "Research Methods For China Studies",
         "module_code": "CCS210",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Research Methods For China Studies",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce to students the main ideas and principles of research and methodological design in the field of China Studies. The module explains the basic structure of scientific methodology as foundation from which students will understand how socioeconomic issues are structured as core of academic research. Qualitative research methodologies will particularly be discussed in detail in this module. In addition, the module also discusses the importance of ethical implications of conducting social research in China.",
+        "Learning outcomes": "A Describe the basic steps of scientific research methods in social sciences. B Identify the main ethical and social implications of conducting social research in contemporary China. C Demonstrate understanding of the ways in which different theoretical frameworks informs research designs and methodologies. D Apply a comprehensive understanding of qualitative methodologies in order to design and implement an efficient research tool and data collection protocols. E Produce a coherent and feasible research protocol that includes a clear justification and problematization of an issue, a solid hypothesis or research question, theoretical framework and research tools for data collection and interpretation.",
+        "Method of teaching and learning": "1) Lectures. The lecturer will define the main methodological concepts of social research and provide examples of how these are used in the field of China studies. 2) Seminars. Students will demonstrate the correct understanding of the main concepts and apply them in simulations of data analysis and research design and methods in individual and collective in-class activities. 3) Online activities. These activities will support students’ learning experience, particularly through the use of diverse tools of the Learning Mall platform."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS210&psl_code=SEM1"
+    },
+    {
+      "heading": "Research Methods For China Studies",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "Research Methods For China Studies",
+        "module_code": "CCS210",
         "semester": "SEM2"
       },
       "overview": {
