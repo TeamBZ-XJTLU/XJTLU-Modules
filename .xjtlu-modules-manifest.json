@@ -1834,6 +1834,11 @@
     "MFETC|IME - Manufacturing Engineering/MFE416TC.json",
     "MFETC|IME - Manufacturing Engineering/MFE417TC.json",
     "MFETC|IME - Manufacturing Engineering/MFE418TC.json",
+    "MFETC|IME - Manufacturing Engineering/MFE419TC.json",
+    "MFETC|IME - Manufacturing Engineering/MFE420TC.json",
+    "MFETC|IME - Manufacturing Engineering/MFE421TC.json",
+    "MFETC|IME - Manufacturing Engineering/MFE422TC.json",
+    "MFETC|IME - Manufacturing Engineering/MFE423TC.json",
     "MTH|APM - Mathematical Sciences",
     "MTH|APM - Mathematical Sciences/MTH002.json",
     "MTH|APM - Mathematical Sciences/MTH004.json",
@@ -2517,7 +2522,7 @@
     "XPU|LIFE - XIPU AI general education/XPU001.json",
     "XPU|LIFE - XIPU AI general education/XPU002.json"
   ],
-  "module_file_count": 2446,
+  "module_file_count": 2451,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -13198,6 +13203,36 @@
       "module_code": "MFE418TC",
       "module_level": "Level 4",
       "path": "MFETC|IME - Manufacturing Engineering/MFE418TC.json"
+    },
+    {
+      "full_name": "Applied Research Techniques and Methodologies",
+      "module_code": "MFE419TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME - Manufacturing Engineering/MFE419TC.json"
+    },
+    {
+      "full_name": "Advanced Numerical Modelling Method",
+      "module_code": "MFE420TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME - Manufacturing Engineering/MFE420TC.json"
+    },
+    {
+      "full_name": "Intelligent Mechanical System Design and Application",
+      "module_code": "MFE421TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME - Manufacturing Engineering/MFE421TC.json"
+    },
+    {
+      "full_name": "Engineering Systems Analysis and Decision Making",
+      "module_code": "MFE422TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME - Manufacturing Engineering/MFE422TC.json"
+    },
+    {
+      "full_name": "Research Dissertation",
+      "module_code": "MFE423TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME - Manufacturing Engineering/MFE423TC.json"
     },
     {
       "full_name": "Multivariable Calculus and Statistics",

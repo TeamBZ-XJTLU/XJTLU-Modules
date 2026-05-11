@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MFETC",
+    "full_name": "Manufacturing Engineering"
+  },
+  "full_name": "Engineering Systems Analysis and Decision Making",
+  "module_code": "MFE422TC",
+  "offerings": [
+    {
+      "heading": "Engineering Systems Analysis and Decision Making",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MFETC",
+        "full_name": "Engineering Systems Analysis and Decision Making",
+        "module_code": "MFE422TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Engineering Systems Analysis and Decision Making",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "",
+        "Learning outcomes": "",
+        "Method of teaching and learning": ""
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MFE422TC&psl_code=SEM2"
+    }
+  ]
+}

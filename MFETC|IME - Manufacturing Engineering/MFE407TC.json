@@ -14,6 +14,29 @@
         "domain_code": "MFETC",
         "full_name": "Industrial Research Project",
         "module_code": "MFE407TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Industrial Research Project",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Students will carry out an individual project under the supervision of a member of academic staff and an industrial expert for a period of 6 months. They will report findings both verbally and in writing. The aims of the module is as follows: • To provide students with the opportunity to conduct a mini research project closely related to manufacturing technologies. • To prepare students for research or investigative work as a professional engineer or researcher. • To allow students to gain project management capabilities of improvement or research projects in industries. • To allow students to make contributions to improvement of technical ideas used in firms. • To expose students to an industrial type of projects. The dissertation must provide evidence of the following. • An in-depth understanding of the subject area chosen for the dissertation. • A mastery of research techniques relevant to the topic area. • The ability to collect and analyse empirical data. • The ability to evaluate project outcomes.",
+        "Learning outcomes": "A Demonstrate a critical awareness and understanding of the relevant scientific literature associated with the project; B Understand all aspects of working as an engineer or computer scientist in the planning, design and execution of academic or technical activities to solve specific problems; C Define a problem, gather and evaluate research information, identify and mitigate risks, analyse data and propose new technologies; D Utilise appropriate analysis software, IT tools or research equipment necessary to carry out relevant experimental, laboratory, or workshop activities; E Effectively communicate project work and findings through a verbal and written means. F Collaborate in the legal, social, ethical and professional framework in systems, software or information engineering.",
+        "Method of teaching and learning": "• Regular meetings/consultations with supervisor; • Laboratory and other investigative work under direct/indirect supervision (as appropriate); • Preparation of project specification and final thesis, poster or web-page and oral presentation."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MFE407TC&psl_code=SEM1"
+    },
+    {
+      "heading": "Industrial Research Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MFETC",
+        "full_name": "Industrial Research Project",
+        "module_code": "MFE407TC",
         "semester": "SEM2"
       },
       "overview": {
