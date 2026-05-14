@@ -514,7 +514,6 @@
     "COM|COM - Media and Communication/COM241.json",
     "COM|COM - Media and Communication/COM261.json",
     "COM|COM - Media and Communication/COM262.json",
-    "COM|COM - Media and Communication/COM263.json",
     "COM|COM - Media and Communication/COM264.json",
     "COM|COM - Media and Communication/COM265.json",
     "COM|COM - Media and Communication/COM267.json",
@@ -1691,7 +1690,6 @@
     "LNG|LNG - Applied Linguistics/LNG106.json",
     "LNG|LNG - Applied Linguistics/LNG107.json",
     "LNG|LNG - Applied Linguistics/LNG108.json",
-    "LNG|LNG - Applied Linguistics/LNG109.json",
     "LNG|LNG - Applied Linguistics/LNG201.json",
     "LNG|LNG - Applied Linguistics/LNG202.json",
     "LNG|LNG - Applied Linguistics/LNG203.json",
@@ -2522,7 +2520,7 @@
     "XPU|LIFE - XIPU AI general education/XPU001.json",
     "XPU|LIFE - XIPU AI general education/XPU002.json"
   ],
-  "module_file_count": 2451,
+  "module_file_count": 2449,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -5499,12 +5497,6 @@
       "module_code": "COM262",
       "module_level": "Level 2",
       "path": "COM|COM - Media and Communication/COM262.json"
-    },
-    {
-      "full_name": "European Cinema",
-      "module_code": "COM263",
-      "module_level": "Level 2",
-      "path": "COM|COM - Media and Communication/COM263.json"
     },
     {
       "full_name": "Digital Media Law and Ethics",
@@ -12363,12 +12355,6 @@
       "module_code": "LNG108",
       "module_level": "Level 1",
       "path": "LNG|LNG - Applied Linguistics/LNG108.json"
-    },
-    {
-      "full_name": "Morphology",
-      "module_code": "LNG109",
-      "module_level": "Level 1",
-      "path": "LNG|LNG - Applied Linguistics/LNG109.json"
     },
     {
       "full_name": "Language and Media",
