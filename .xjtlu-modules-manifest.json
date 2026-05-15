@@ -2323,7 +2323,18 @@
     "PHY|PHY - Physics/PHY005.json",
     "PHY|PHY - Physics/PHY006.json",
     "PHY|PHY - Physics/PHY101.json",
+    "PHY|PHY - Physics/PHY102.json",
+    "PHY|PHY - Physics/PHY103.json",
+    "PHY|PHY - Physics/PHY104.json",
+    "PHY|PHY - Physics/PHY105.json",
+    "PHY|PHY - Physics/PHY106.json",
+    "PHY|PHY - Physics/PHY107.json",
+    "PHY|PHY - Physics/PHY108.json",
+    "PHY|PHY - Physics/PHY109.json",
     "PHY|PHY - Physics/PHY201.json",
+    "PHY|PHY - Physics/PHY202.json",
+    "PHY|PHY - Physics/PHY205.json",
+    "PHY|PHY - Physics/PHY206.json",
     "PHY|PHY - Physics/PHY301.json",
     "PHY|PHY - Physics/PHY302.json",
     "RBETC|IRE - Robotics",
@@ -2520,7 +2531,7 @@
     "XPU|LIFE - XIPU AI general education/XPU001.json",
     "XPU|LIFE - XIPU AI general education/XPU002.json"
   ],
-  "module_file_count": 2449,
+  "module_file_count": 2460,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -12935,7 +12946,7 @@
     {
       "full_name": "Additive Manufacturing for Micro Devices",
       "module_code": "MES407TC",
-      "module_level": "Level 0",
+      "module_level": "Level 4",
       "path": "MESTC|CHP - Microelectronic Science and Engineering/MES407TC.json"
     },
     {
@@ -13163,7 +13174,7 @@
     {
       "full_name": "Intelligent Manufacturing Futures",
       "module_code": "MFE414TC",
-      "module_level": "Level 0",
+      "module_level": "Level 4",
       "path": "MFETC|IME - Manufacturing Engineering/MFE414TC.json"
     },
     {
@@ -16089,10 +16100,76 @@
       "path": "PHY|PHY - Physics/PHY101.json"
     },
     {
+      "full_name": "Physics III: Thermodynamics, Oscillations and Waves",
+      "module_code": "PHY102",
+      "module_level": "Level 1",
+      "path": "PHY|PHY - Physics/PHY102.json"
+    },
+    {
+      "full_name": "Physics IV: Modern Physics",
+      "module_code": "PHY103",
+      "module_level": "Level 1",
+      "path": "PHY|PHY - Physics/PHY103.json"
+    },
+    {
+      "full_name": "Practical Physics A: Mechanics",
+      "module_code": "PHY104",
+      "module_level": "Level 1",
+      "path": "PHY|PHY - Physics/PHY104.json"
+    },
+    {
+      "full_name": "Python Programming for Physics",
+      "module_code": "PHY105",
+      "module_level": "Level 1",
+      "path": "PHY|PHY - Physics/PHY105.json"
+    },
+    {
+      "full_name": "Mathematical Methods for Physics I",
+      "module_code": "PHY106",
+      "module_level": "Level 1",
+      "path": "PHY|PHY - Physics/PHY106.json"
+    },
+    {
+      "full_name": "Scientific Thinking and Research Methods",
+      "module_code": "PHY107",
+      "module_level": "Level 1",
+      "path": "PHY|PHY - Physics/PHY107.json"
+    },
+    {
+      "full_name": "Practical Physics B: Electrodynamics",
+      "module_code": "PHY108",
+      "module_level": "Level 1",
+      "path": "PHY|PHY - Physics/PHY108.json"
+    },
+    {
+      "full_name": "Computational Methods for Physics",
+      "module_code": "PHY109",
+      "module_level": "Level 1",
+      "path": "PHY|PHY - Physics/PHY109.json"
+    },
+    {
       "full_name": "Introduction to Solid State Physics",
       "module_code": "PHY201",
       "module_level": "Level 2",
       "path": "PHY|PHY - Physics/PHY201.json"
+    },
+    {
+      "full_name": "Electromagnetism I",
+      "module_code": "PHY202",
+      "module_level": "Level 2",
+      "path": "PHY|PHY - Physics/PHY202.json"
+    },
+    {
+      "full_name": "Electromagnetism II",
+      "module_code": "PHY205",
+      "module_level": "Level 2",
+      "path": "PHY|PHY - Physics/PHY205.json"
+    },
+    {
+      "full_name": "Mathematical Methods for Physicists II",
+      "module_code": "PHY206",
+      "module_level": "Level 2",
+      "path": "PHY|PHY - Physics/PHY206.json"
     },
     {
       "full_name": "Quantum Mechanics",

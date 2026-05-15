@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Physics III: Thermodynamics, Oscillations and Waves",
+  "module_code": "PHY102",
+  "offerings": [
+    {
+      "heading": "Physics III: Thermodynamics, Oscillations and Waves",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "PHY",
+        "full_name": "Physics III: Thermodynamics, Oscillations and Waves",
+        "module_code": "PHY102",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Physics III: Thermodynamics, Oscillations and Waves",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide students with a comprehensive understanding of the fundamental principles of thermodynamics, oscillations, and waves, building on their prior knowledge from introductory physics courses. This module aims to enhance students' analytical skills and deepen their understanding of key concepts in classical physics that are essential for the Applied Physics programme. By exploring the laws of thermodynamics, the behavior of oscillatory systems, and the properties of wave phenomena, students will gain a solid foundation for further studies in areas such as statistical mechanics, quantum mechanics, and advanced applications in materials science and engineering.",
+        "Learning outcomes": "A. Apply the zeroth, first, and second laws of thermodynamics to solve thermal problems B. Calculate thermodynamic quantities such as work, heat, and internal energy C. Use the principle of oscillations to describe the behavior of physical systems D. Solve problems in geometrical optics E. Describe wave phenomena such as propagation, interference, and diffraction",
+        "Method of teaching and learning": "This module is delivered over 13 teaching weeks in semester 1, year 2. Students are expected to attend four hours of formal lectures and tutorials in a typical week. During the lectures, students will be introduced to the academic content and practical skills underlying the module. Tutorials will focus on solving exercises in class, aimed at teaching students how to apply the lecture concepts in practical situations. In addition, students are required to dedicate 7-8 hours per week to independent study; this time should be used for background reading, reflection, and reviewing the lecture material. Students are encouraged to utilize AI tools and to critically explore the strengths and limitations of generative AI for enhancing their learning and comprehension, including understanding when generative AI works effectively and when it does not."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY102&psl_code=SEM1"
+    }
+  ]
+}

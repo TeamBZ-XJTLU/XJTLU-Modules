@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Computational Methods for Physics",
+  "module_code": "PHY109",
+  "offerings": [
+    {
+      "heading": "Computational Methods for Physics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "PHY",
+        "full_name": "Computational Methods for Physics",
+        "module_code": "PHY109",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Computational Methods for Physics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this core physics module is to introduce students to essential computational techniques used to solve physical problems that are challenging to solve analytically. Building on prior knowledge from mathematics and physics courses such as calculus, differential equations, and classical mechanics, the module provides hands-on experience in numerical modeling, algorithm development, and scientific programming using Python. Applications are drawn from areas including mechanics, electromagnetism, quantum physics, and data analysis. Emphasizing both conceptual understanding and practical implementation, the module prepares students for more advanced studies, such as Final-Year Research Projects involving data analysis or simulations. Aligned with the program’s focus on computational physics and physics-informed data science, PHY109 also equips students with valuable transferable skills—including coding, numerical reasoning, debugging, scientific visualization, and the use of computational libraries.",
+        "Learning outcomes": "A. Implement numerical integration and root-finding to solve ODEs. B. Analyze accuracy, stability, and errors of algorithms in physical models. C. Develop, test, and document programs in Python to simulate and visualize physical systems. D. Apply computational methods to problems in classical mechanics, electromagnetism, and statistical physics. E. Translate physical laws and boundary conditions into discretized models suitable for numerical computation and simulation.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY109&psl_code=SEM2"
+    }
+  ]
+}

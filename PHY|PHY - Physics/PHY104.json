@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Practical Physics A: Mechanics",
+  "module_code": "PHY104",
+  "offerings": [
+    {
+      "heading": "Practical Physics A: Mechanics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "PHY",
+        "full_name": "Practical Physics A: Mechanics",
+        "module_code": "PHY104",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Practical Physics A: Mechanics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is intended to be a bridge between the introductory laboratory sessions of the modules PHY005 and PHY002 that students have already taken in year 1, and the remaining Practical Physics B, C and D modules that students will take subsequently. As such, the current module has an important theoretical part that familiarizes students with the concepts of measurements, error theory, parameter estimation and model testing. The second part of the module, instead, focuses on applying these concepts to practical experiments about mechanics.",
+        "Learning outcomes": "A apply concepts of probability and statistics; B perform calculations related to error propagation; C perform measurements of mechanical quantities in the laboratory; D process experimental data and verify theoretical models in mechanical systems; E write lab reports based on experimental results and analyses.",
+        "Method of teaching and learning": "This module is delivered over 13 teaching weeks in year 2, semester 1. During 10 of these weeks, students are expected to attend two weekly in-class lectures, designed to introduce the theoretical concepts about error theory, statistics, and data analysis. During the remaining 3 weeks, students are expected to work in the lab, conducting experiments and collecting data. Each week has two lab sessions dedicated to a specific mechanics experiment. After the completion of each experiment, students have two weeks of time to prepare and submit a report on their lab activity. The three weeks dedicated to lab activities are distributed across the semester, starting from week 4. This allows students to focus on one experiment at a time and provides them with sufficient time to prepare and submit the associated lab report before the next experimental session begins. In parallel, students will be gaining further expertise on the theory side, which they can apply to their activity in the lab. Students are expected to devote 7-8 hours on a typical week to independent study, data analysis, and preparation of lab reports. Students are encouraged to utilize AI tools and to critically explore the strengths and limitations of generative AI for assisting them in data analysis tasks."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY104&psl_code=SEM1"
+    }
+  ]
+}

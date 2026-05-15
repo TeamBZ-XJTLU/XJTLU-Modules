@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Mathematical Methods for Physicists II",
+  "module_code": "PHY206",
+  "offerings": [
+    {
+      "heading": "Mathematical Methods for Physicists II",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "PHY",
+        "full_name": "Mathematical Methods for Physicists II",
+        "module_code": "PHY206",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Mathematical Methods for Physicists II",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with essential mathematical techniques required for advanced study and research in physics. It covers key concepts such as Fourier transforms, partial differential equations, special functions, and Green functions. The topics addressed in this module will prepare students to solve physical problems in various fields, including classical mechanics, quantum mechanics, and electrodynamics.",
+        "Learning outcomes": "A. Apply Fourier transform techniques to solve differential equations B. Solve partial differential equations using methods such as separation of variables, eigenfunction expansions, and integral transforms. C. Use special functions in the solution of physical boundary-value problems D. Apply the method of Green functions to solve differential equations with initial and boundary conditions",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY206&psl_code=SEM1"
+    }
+  ]
+}

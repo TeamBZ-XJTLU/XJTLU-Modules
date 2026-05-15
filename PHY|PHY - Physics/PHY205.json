@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Electromagnetism II",
+  "module_code": "PHY205",
+  "offerings": [
+    {
+      "heading": "Electromagnetism II",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "PHY",
+        "full_name": "Electromagnetism II",
+        "module_code": "PHY205",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Electromagnetism II",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module advances understanding of electromagnetic waves, waveguides, and relativistic electromagnetism. Students will analyze boundary conditions, radiation, and covariant formulations in special relativity, to further develop their problem-solving and analytic skills.",
+        "Learning outcomes": "A. Solve the wave equations for electromagnetic fields in free space and in material media. B. Analyze wave propagation and behavior at boundaries, in cavities, waveguides, and transmission lines. C. Analyze properties of electric dipole radiation. D. Apply the covariant formulation of electrodynamics to solve problems E. Use analytical and numerical methods to solve classical electrodynamics problems.",
+        "Method of teaching and learning": "Lectures: Core theory delivery. Tutorials: Problem-solving workshops with feedback. Private Study: Guided problem sets and self-directed learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY205&psl_code=SEM2"
+    }
+  ]
+}

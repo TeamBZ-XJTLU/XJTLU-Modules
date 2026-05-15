@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Scientific Thinking and Research Methods",
+  "module_code": "PHY107",
+  "offerings": [
+    {
+      "heading": "Scientific Thinking and Research Methods",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "PHY",
+        "full_name": "Scientific Thinking and Research Methods",
+        "module_code": "PHY107",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Scientific Thinking and Research Methods",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to develop students' ability to think critically and systematically about scientific problems in the context of physics. It provides students with the tools and techniques necessary to conduct independent research, including experimental design, data analysis, and the interpretation of results. The module emphasizes the application of the scientific method within physics, with the aim of developing skills in problem-solving, critical evaluation of scientific literature, and effective communication of scientific ideas. This module equips students with essential research skills that underpin advanced study and professional practice in physics. It serves as a preparation for the laboratory-based modules and research projects, and prepares students for careers in physics-related fields by emphasizing the practical application of physics principles to solve real-world problems.",
+        "Learning outcomes": "A. Apply the scientific method to formulate hypotheses, design experiments, and solve problems in physics. B. Evaluate scientific literature and assess the validity of methodologies and conclusions in scientific research. C. Interpret experimental data using appropriate techniques. D. Communicate scientific findings effectively through written reports, oral presentations, and visual representations. E. Explain the principles of academic publishing standards, research ethics, and professional research standards in the context of physics.",
+        "Method of teaching and learning": "The core concepts outlined in the syllabus will be covered during the lectures. These sessions will introduce students to the fundamentals of scientific research, including experimental design, data and error analysis, academic publishing, and effective communication of research findings. The tutorials will complement the lectures by offering students hands-on learning opportunities. Tutorial activities will be closely aligned with the topics covered during the week or will serve as preparation for upcoming topics. Students will engage in collaborative problem-solving tasks within small groups. A key component of the module will involve developing students' ability to critically analyze research papers. Students will be provided with journal articles or pre-prints and tasked with identifying essential elements of the publication, such as the rationale, research questions, methodology, and main outcomes. Students should also identify weaknesses or flaws in the publication. Each student will deliver a brief presentation on the paper, ensuring that the content is accessible and comprehensible to their peers. Students will work on developing a research proposal based on a topic provided by the lecturer. The proposal must demonstrate a solid understanding of research design, error analysis, and the application of appropriate research methods. It should also be well-structured and adhere to academic standards."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY107&psl_code=SEM1"
+    }
+  ]
+}
