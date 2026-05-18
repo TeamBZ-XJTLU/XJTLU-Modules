@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "DES",
+    "full_name": "Design"
+  },
+  "full_name": "Creative Design & Making Studio",
+  "module_code": "DES203",
+  "offerings": [
+    {
+      "heading": "Creative Design & Making Studio",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DES",
+        "full_name": "Creative Design & Making Studio",
+        "module_code": "DES203",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Creative Design & Making Studio",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "DES203 Creative Design & Making Studio is an intensive, practice-oriented design studio that positions creativity as a broad, strategic, and applied capability, expressed through making, experimentation, and material engagement. The module frames creativity not only as formal invention, but as a way of thinking, testing, and responding to complex challenges through design. The studio encourages students to explore creativity across multiple dimensions—conceptual, material, spatial, and collaborative—by engaging directly with hands-on making, prototyping, and fabrication. Design ideas are developed through iterative cycles of exploration, trial, and reflection, where thinking and making evolve together. DES215 is intentionally structured as a shared and interdisciplinary learning environment, welcoming students from different academic backgrounds and disciplinary cultures. By working collaboratively within a studio setting, students learn to translate diverse perspectives into creative outcomes, using design as a common language for experimentation and problem-solving. Aligned with the programme’s emphasis on creative agency, applied learning, and design intelligence, the module supports the development of confidence in making, innovation, and material thinking. It occupies a strategic position within the curriculum by offering an immersive experience in creativity-driven design practice, complementing more analytical or research-oriented modules and supporting future pathways in design, innovation, entrepreneurship, and creative industries.",
+        "Learning outcomes": "A. Apply creative design thinking to explore and respond to a defined challenge through hands-on making and experimentation. B. Develop design ideas through iterative processes of making, prototyping, and testing, using material exploration as a driver of creativity and innovation. C. Translate abstract concepts into tangible physical outcomes, demonstrating an understanding of how ideas evolve through material engagement and fabrication. D. Work effectively within a collaborative and interdisciplinary studio environment, contributing to shared creative processes and learning from diverse perspectives. E. Demonstrate awareness of practical constraints and feasibility, using materials, tools, and fabrication processes in a considered and responsible manner. F. Communicate creative intentions and design processes clearly using visual, physical, and verbal methods, appropriate to different audiences and contexts. G. Experiment with AI-supported and digital tools as creative aids to support ideation, variation, and reflection within the design and making process.",
+        "Method of teaching and learning": "The module is delivered as an intensive design studio, structured around a workshop-based learning model grounded in a learning-by-doing pedagogical approach. Creativity is developed through direct engagement with making, experimentation, and material exploration, positioning the studio as an applied and experiential design environment. Teaching activities combine hands-on design workshops with short lectures, demonstrations, and small-group studio tutorials. This structure supports the development of design ideas through physical making, prototyping, and fabrication, treating making as both a creative and a cognitive process within the studio context. Studio sessions emphasise active participation, iterative experimentation, and critical reflection, with continuous formative feedback provided through dialogue, review, and collective discussion. Students are encouraged to test ideas, learn from outcomes, and refine their work through cycles of trial, evaluation, and adaptation. Digital tools and AI-supported creative workflows are introduced as complementary design instruments, supporting ideation, variation, and reflection while reinforcing the primacy of hands-on making within the studio. Students are expected to undertake independent design development and making outside scheduled contact hours, working progressively towards a tangible physical outcome. The intensive studio format fosters creativity, collaboration, practical problem-solving, and confidence in translating ideas into realised design artefacts."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DES203&psl_code=SEM1"
+    }
+  ]
+}

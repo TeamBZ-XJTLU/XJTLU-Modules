@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "Experimental, Computer Skills and Sustainability",
+  "module_code": "MES102TC",
+  "offerings": [
+    {
+      "heading": "Experimental, Computer Skills and Sustainability",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Experimental, Computer Skills and Sustainability",
+        "module_code": "MES102TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "Experimental, Computer Skills and Sustainability",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "On completion of the module, a student is expected: 1. To be creative in the design and to be able to evaluate results and synthesise knowledge. 2. To provide an appreciation of electrical engineers’ responsibilities in the context of sustainable development. 3. To raise the awareness of environmental issues, and examine the principles and tools for sustainable product design. 4. To improve computer literacy and to develop the ability to solve 'real' engineering problems by numerical methods using MATLAB. 5. To recognise the basic building blocks of electrical circuits. 6. To correlate theory in textbooks with its practical application. 7. To design and construct an electronic product (e.g. LED running lights, robot and clock). 8. To know how to complete individual work and be a valuable team member. 9. To develop presentation and oral communication skills.",
+        "Learning outcomes": "A. Choose basic electronic lab equipment and design software. B. Design and construct an electronic product. C. Develop electrical engineers’ responsibilities in the context of sustainable development. D. Solve mathematically-oriented problems by programming in MATLAB. E. Evaluate results and synthesise knowledge.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This means that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contributions from industry partners. This philosophy is carried through also in terms of assessment, with a reduction in the use of exams and an increase in coursework, especially problem-based assessments that are project-focused. This module will be delivered through a combination of lectures, group discussions, case studies, hands-on practical exercises, etc. Lectures and group discussions are conducted using the Problem-Based Learning paradigm focusing on student-centred learning, where students develop critical thinking and problem-solving skills to address open-ended problems that lack a straightforward solution. This module is taught with an emphasis on student learning through practice and by projects, facilitated by a module leader, and where appropriate, industrial mentors. Students can identify particular areas of learning needs or interests according to the available project(s). They will conduct independent research to gather information and resources to better define the problem. Progress towards the learning outcomes will be facilitated and monitored, where students are guided to progressively address the given problem through tasks. Independent learning will form an important aspect of the educational activities in this module. Assessed by a project, students shall gain practical experience in undertaking independent study and research on industry-focused real-world problems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES102TC&psl_code=SEM2"
+    }
+  ]
+}

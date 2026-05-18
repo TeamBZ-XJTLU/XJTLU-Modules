@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "DES",
+    "full_name": "Design"
+  },
+  "full_name": "Contextual Design Studio",
+  "module_code": "DES102",
+  "offerings": [
+    {
+      "heading": "Contextual Design Studio",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DES",
+        "full_name": "Contextual Design Studio",
+        "module_code": "DES102",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 1",
+        "Module Title": "Contextual Design Studio",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This studio module introduces students to the core principles and shared languages of contextual spatial design, operating across interconnected scales within architecture, urban planning and design. It provides a common learning environment for ARC and UPD students to explore how spatial ideas are shaped by context, relationships, and conditions rather than isolated objects or predefined solutions. The module aims to: • Develop students’ ability to read, interpret, and respond to local context - urban or rural, translating spatial, environmental, and social observations into design intentions. • Introduce an iterative and exploratory design process, encouraging students to test, adapt, and refine ideas through progressive stages of development. • Cultivate an understanding of how design decisions operate across scales, demonstrating how broader strategies inform local interventions and how specific conditions reshape overall approaches. • Establish a shared design vocabulary and studio culture, enabling collaboration, dialogue, and mutual learning across disciplinary perspectives. • Promote awareness of interconnected systems and responsibilities, highlighting how design actions at one scale influence wider spatial, environmental, and social dynamics in urban or rural contexts. • Support the development of design agency and critical judgement through structured studio tasks of increasing complexity, enabling students to manage relationships, constraints, and decisions within a coherent design process.",
+        "Learning outcomes": "A. Analyse and interpret site and contextual conditions across different spatial scales, urban or rural, using observations and research to inform design intentions. B. Develop design proposals through a structured and iterative design process, progressing from analysis and concept to spatial strategies and initial resolutions. C. Demonstrate an understanding of how design decisions operate across scales, showing how broader spatial strategies influence local interventions and how specific conditions reshape overall approaches. D. Apply a shared spatial design vocabulary to communicate ideas clearly and to engage in constructive dialogue within a collaborative and multidisciplinary studio environment. E. Show awareness of interconnected spatial, environmental, and social systems, recognising how local design actions can impact wider contexts and responsibilities in urban or rural settings. F. Communicate design ideas and processes effectively using appropriate visual and verbal methods, including drawings, diagrams, and basic models, suited to early-stage design development. G. Experiment with digital and AI-supported tools as assistive resources for research, analysis, and exploration, supporting informed design decisions while maintaining critical judgment.",
+        "Method of teaching and learning": "The module is delivered as a studio-based learning experience and represents students’ first extended and in-depth design studio within the programme. Teaching and learning activities are structured to provide a gradual yet rigorous introduction to design thinking, spatial reasoning, and contextual analysis of urban or rural settings, supporting students as they develop confidence and autonomy in studio work. Learning is organised through a combination of lectures, studio tutorials, workshops, and guided independent study, allowing students to engage with design as a reflective and iterative process. Short lectures introduce key concepts, methods, and references related to contextual and spatial design, while studio tutorials provide continuous support through discussion, feedback, and collective review. The studio adopts a multi-agent learning approach, encouraging students to work across different forms of intelligence and modes of engagement. Design development is supported through the interaction of analytical observation, spatial reasoning, physical drawing and modelling, and digital tools, enabling students to explore ideas from multiple perspectives and scales. Students are guided to understand design as a process of informed decision-making, where ideas are tested, adapted, and refined in response to contextual conditions, constraints, and feedback. Emphasis is placed on developing critical judgement, rather than producing fixed solutions, allowing students to learn from iteration and reflection. Collaborative learning is an integral part of the studio. Students work individually and in groups, engaging in peer discussion and shared critique, fostering a supportive studio culture and a shared design language across architecture, urban planning and design. Digital tools and AI-supported resources are introduced at an introductory level as assistive instruments for research, analysis, and exploration. These tools are framed as supports for understanding complexity and generating informed insights, reinforcing critical engagement rather than automation."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DES102&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "Integrated Circuits - Fabrication and Testing",
+  "module_code": "MES304TC",
+  "offerings": [
+    {
+      "heading": "Integrated Circuits - Fabrication and Testing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Integrated Circuits - Fabrication and Testing",
+        "module_code": "MES304TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Integrated Circuits - Fabrication and Testing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to familiarise students with some basic concepts of the basic processes for micro/nano manufacturing technology and to prepare students for entering the micro/nano electronic industry.",
+        "Learning outcomes": "A. Apply the essential knowledge and skills of micro & nanofabrication integrated circuit facility in a clean room B. Understand the advanced micro & nanofabrication technology and theoretical underpinning for emerging microelectronic devices C. Apply micro & nanofabrication processes in the industry-oriented tasks D. Perform designing and fabricating materials, devices, and circuits at the micro and nanoscale E. Enhance key professional skills: independent learning and teamwork for IC technology F. Conduct various analysis and evaluating methods to fabricate technology-based project",
+        "Method of teaching and learning": "The module is taught through formal lectures, class tutorials and laboratory experiments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES304TC&psl_code=SEM2"
+    }
+  ]
+}

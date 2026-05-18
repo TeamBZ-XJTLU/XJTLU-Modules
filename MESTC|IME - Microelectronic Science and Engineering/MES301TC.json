@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "Analog Integrated Circuits Analysis and Design",
+  "module_code": "MES301TC",
+  "offerings": [
+    {
+      "heading": "Analog Integrated Circuits Analysis and Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Analog Integrated Circuits Analysis and Design",
+        "module_code": "MES301TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Analog Integrated Circuits Analysis and Design",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide students with a professional understanding of analog integrated circuit design and analysis, including current sources, output stages, operational amplifiers, frequency response, feedback analysis, stability and compensation and develop the industry standard ability for advanced integrated-circuit design techniques, analog VLSI building blocks.",
+        "Learning outcomes": "A Apply the essential IC design knowledges on building blocks, including current sources, output stages, operational amplifier B Apply the knowledge of frequency response, feedback analysis into analog integrated-circuit design C Analyze analog integrated-circuit’s stability, compensation and slew rate D Design standard analog VLSI building blocks with technology node E Develop the ability to conduct advanced analog integrated-circuit design",
+        "Method of teaching and learning": "This module is delivered through a combination of formal lectures, tutorials, design exercises and supervised laboratory sessions. There is a particular emphasis on developing industry standard design and problems solving abilities and skills."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES301TC&psl_code=SEM1"
+    }
+  ]
+}

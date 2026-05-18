@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Condensed Matter Physics",
+  "module_code": "PHY309",
+  "offerings": [
+    {
+      "heading": "Condensed Matter Physics",
+      "listing": {
+        "academic_year": "2028/29",
+        "domain_code": "PHY",
+        "full_name": "Condensed Matter Physics",
+        "module_code": "PHY309",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2028/29",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Condensed Matter Physics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To introduce and elucidate the core principles of condensed matter physics, drawing upon and reinforcing the foundational concepts established in earlier years of the applied physics programme. This module is designed to deepen students' comprehension of the physical phenomena that occur in condensed phases of matter, such as solids and liquids. By examining topics including quantum mechanics in condensed systems, phase transitions, and electronic properties of materials, students will gain a robust foundation for further exploration in specialized areas of condensed matter physics. The module aims to enhance students' ability to synthesize theoretical knowledge with practical applications, equipping them to engage with advanced topics in materials science, nanotechnology, and electronic device physics. It also seeks to foster an appreciation for the role of condensed matter physics in driving technological advancements and to prepare students for graduate studies or careers in applied physics.",
+        "Learning outcomes": "A. Identify the impact of crystal structure and dimensionality on the macroscopic properties of solids B. Describe the microscopic ordering of crystalline materials using the formal language of lattices and structure. C. Evaluate the electronic properties of materials based on their physical structure and electronic band structure models D. Analyze thermal properties in solids",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY309&psl_code=SEM2"
+    }
+  ]
+}

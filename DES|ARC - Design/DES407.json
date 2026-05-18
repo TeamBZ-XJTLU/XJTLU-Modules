@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "DES",
+    "full_name": "Design"
+  },
+  "full_name": "Digital Technologies for Process in the Built Environment",
+  "module_code": "DES407",
+  "offerings": [
+    {
+      "heading": "Digital Technologies for Process in the Built Environment",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DES",
+        "full_name": "Digital Technologies for Process in the Built Environment",
+        "module_code": "DES407",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Digital Technologies for Process in the Built Environment",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Engineering and architectural professions are increasingly reliant on technologies which support the oversight of the many stages of a construction’s processes. This module aims to provide students with an understanding of a range of digital technologies, including digital twins, GIS and BIM, for the purposes of building knowledge of engineering stakeholders’ project requirements and developing skills in digital systems management and delivery. The content focusses on best techniques and practices for engineering stakeholder management to facilitate AEC project management, operation, and delivery. The module closes the gap between virtual processes and real-time actions and out-puts, whilst simultaneously allowing for the sustainable project management of managing the built assets (infrastructures and buildings). Teaching and learning in this modules allows students to experience working in teams using practical case study approaches.",
+        "Learning outcomes": "A. Demonstrate understanding of the latest digital technological developments and applications, such as digital twins, BIM, Geographic Information Systems (GIS), Artificial Intelligence (AI)/Machine Learning (ML). B. Apply a range of contemporary project management methodologies integrating the triple bottom line accounting for environmental, economic, and social aspects. C. Measure sustainable management performance. D. Interpret and analyse best practices through real-life examples to demonstrate how to apply LCA tools to evaluate an engineering project.",
+        "Method of teaching and learning": "The module is delivered through lectures and seminars, focusing on hands-on activities. Professional experts may be invited throughout the module delivery."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DES407&psl_code=SEM1"
+    }
+  ]
+}

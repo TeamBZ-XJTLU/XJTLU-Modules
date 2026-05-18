@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "DES",
+    "full_name": "Design"
+  },
+  "full_name": "Entrepreneurialism in Design and Engineering",
+  "module_code": "DES107",
+  "offerings": [
+    {
+      "heading": "Entrepreneurialism in Design and Engineering",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DES",
+        "full_name": "Entrepreneurialism in Design and Engineering",
+        "module_code": "DES107",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Entrepreneurialism in Design and Engineering",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Entrepreneurialism in Design and Engineering aims to nurture students’ ability to identify and leverage opportunities to create new ventures, products, services and social innovations within the broad field of design. The module introduces the complex and competitive environment and market in which design and engineering professionals operate, equips students with experience and skills to process data and leverage insight into new ideas, and utilise this combined knowledge to create value by addressing unmet market and societal needs.",
+        "Learning outcomes": "A. Discuss social and market needs and trends in the design and engineering areas and identify opportunities for value creation B. Outline a business plan with components of innovation and competitiveness C. Describe the role of intellectual property in design and engineering D. Explain the role of communication and marketing in design and engineering E. Present business ideas and plans in English, demonstrating level-appropriate linguistic competence",
+        "Method of teaching and learning": "The module is taught in weekly sessions articulated in a lecture and a seminar. The former provides the theoretical framework, while the latter elicits active learning through activities such as discussions, case studies and group activities. Seminars will also support students in the development of their coursework, including the provision of formative feedback. Students are required to study and conduct research independently in their self-study time, to consolidate the knowledge discussed in class and to develop substantial coursework through which their academic attainment will be assessed. Peer Assessment may be included in the group work components. The module session will be led by Design School academics, in collaboration with language tutors and external guest speakers. Assessment will include group research, and an individual schematic business plan presented both in written/visual format and through a presentation. The latter will be produced orally or via alternative media, such as videos or podcasts, as specified in the assessment brief."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DES107&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AAC",
+    "domain_code": "AAC",
+    "full_name": "School of AI and Advanced Computing"
+  },
+  "full_name": "Exploring Data and the Digital World",
+  "module_code": "AAC001",
+  "offerings": [
+    {
+      "heading": "Exploring Data and the Digital World",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "AAC",
+        "full_name": "Exploring Data and the Digital World",
+        "module_code": "AAC001",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Exploring Data and the Digital World",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "",
+        "Learning outcomes": "",
+        "Method of teaching and learning": ""
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=AAC001&psl_code=SEM1"
+    }
+  ]
+}

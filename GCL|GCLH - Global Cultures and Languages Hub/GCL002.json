@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "GCLH",
+    "domain_code": "GCL",
+    "full_name": "Global Cultures and Languages Hub"
+  },
+  "full_name": "Culture, Language, and Community",
+  "module_code": "GCL002",
+  "offerings": [
+    {
+      "heading": "Culture, Language, and Community",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "GCL",
+        "full_name": "Culture, Language, and Community",
+        "module_code": "GCL002",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Culture, Language, and Community",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "",
+        "Learning outcomes": "",
+        "Method of teaching and learning": ""
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=GCL002&psl_code=SEM2"
+    }
+  ]
+}

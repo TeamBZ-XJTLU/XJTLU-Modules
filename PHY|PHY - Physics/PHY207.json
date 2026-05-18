@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Quantum Mechanics I",
+  "module_code": "PHY207",
+  "offerings": [
+    {
+      "heading": "Quantum Mechanics I",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "PHY",
+        "full_name": "Quantum Mechanics I",
+        "module_code": "PHY207",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Quantum Mechanics I",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Quantum mechanics is a description of matter at the atomic scale. It is one of the most far-reaching innovations of the last century and has elucidated the structure of molecules and the nature of light. Many high-technology products, such as electronic devices, lasers, and nanomaterials, have been developed using quantum concepts. Quantum mechanics makes use of a probabilistic description of matter at small scales in place of the deterministic description of classical mechanics. This module introduces the formalism and foundational concepts of quantum mechanics, focusing on how quantum systems are described using wave functions and operators, and preparing students to solve basic quantum problems involving potential wells, angular momentum, and atomic structure. The concepts and techniques developed in this module form the basis for more advanced topics in physics, including solid-state physics, condensed matter physics, and nanotechnology. A firm grasp of these quantum principles will equip students to understand the microscopic mechanisms underlying modern materials and devices studied in later modules.",
+        "Learning outcomes": "A. Describe how quantum systems are represented by wave functions and how physical predictions are obtained from probability densities. B. Solve the Schrödinger equation for one-dimensional systems, including potential wells, barriers, and scattering problems, and interpret the physical significance of the solutions. C. Apply operator methods in Hilbert space to calculate expectation values and solve eigenvalue problems for physical observables. D. Apply the theory of angular momentum and spin, to describe and solve problems involving three-dimensional quantum systems. E. Compare predictions from classical and quantum mechanics, and use appropriate quantum models to describe systems where quantum effects are significant.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY207&psl_code=SEM2"
+    }
+  ]
+}

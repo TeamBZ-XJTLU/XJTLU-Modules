@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "CMOS Digital Integrated Circuits",
+  "module_code": "MES207TC",
+  "offerings": [
+    {
+      "heading": "CMOS Digital Integrated Circuits",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "CMOS Digital Integrated Circuits",
+        "module_code": "MES207TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "CMOS Digital Integrated Circuits",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To combine CMOS integrated circuit design exercises with very relevant industrial concepts and a deeper understanding of MOSFET device physics principles and electromagnetism. To provide the background for later modules, relevant final year projects, but particularly for employment in those industries that are firmly based in microelectronics technology. To further develop the concept of design as being more than simple problem solving, but something demanding high levels of innovation based on sound physics principles.",
+        "Learning outcomes": "A. Demonstrate knowledge and understanding on CMOS-based integrated circuit design with considerations of power, speed, yield, packing density and design trade-offs associated with material, device and circuit limitations. B. Demonstrate knowledge on historical and future development of silicon-based integrated circuit technology. C. Apply knowledge on integrated circuit technology to determine design considerations when working with CMOS integrated circuits. D. Analyse and design simple CMOS logic gates. E. Demonstrate the ability to apply physics to engineering design. F. Develop independent learning, problem solving and design skill.",
+        "Method of teaching and learning": "This module will be delivered through a combination of lectures (which are embedded with short tutorial topics on the integrated circuit design after teaching MOSFET as switch) and supervised laboratory sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES207TC&psl_code=SEM2"
+    }
+  ]
+}

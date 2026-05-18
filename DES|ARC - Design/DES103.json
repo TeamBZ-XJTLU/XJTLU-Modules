@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "DES",
+    "full_name": "Design"
+  },
+  "full_name": "Multiscale Collaborative Design Studio",
+  "module_code": "DES103",
+  "offerings": [
+    {
+      "heading": "Multiscale Collaborative Design Studio",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DES",
+        "full_name": "Multiscale Collaborative Design Studio",
+        "module_code": "DES103",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Multiscale Collaborative Design Studio",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Design and engineering practice and research operate in an increasingly complex environment, characterised by uncertainty, conflicting demands and multifaceted problems requiring a collaborative approach. The module provides a platform for multidisciplinary collaboration among students enrolled in different programmes. The project developed throughout the semester models the intricacies and challenges of professional practice, including dealing with complex workflows and appreciating other stakeholders’ points of view and interests. The module also introduces Artificial Intelligence (AI) tools for addressing wicked problems and understanding contradictory perspectives.",
+        "Learning outcomes": "A. Discuss the complexities of multi-scale, collaborative design. B. Identify different roles in a collaborative undertaking and negotiate goals and priorities with other stakeholders. C. Develop a coherent design proposal within a wider collaborative project. D. Apply AI tools for selected tasks within the problem solving and design process E. Respond ethically to practical situations and adopt an inclusive approach within collaborative design practice.",
+        "Method of teaching and learning": "The module is taught in weekly meetings articulated in lectures and small-group tutorials. The former provides the relevant theoretical knowledge, while the latter promotes active learning through discussions and project-based applications, and team work to support the coursework's development. Students will be guided through the application of a range of methods, including digital tools and artificial intelligence. Students are required to study and conduct research independently during their self-study time, consolidate the knowledge discussed in class, and develop substantial coursework through which their academic attainment will be assessed. The coursework consists of an applied project involving different design scales and scopes. The brief will be addressed as a team in the first part, emphasising collaboration and multidisciplinary approaches, with a emphasis on problem setting and analysis. The second component, more focused on aspects specifically relevant to the students’ home programme, will be developed individually, but within the collaborative framework defined in the first part of the semester. Students are expected to use AI in both components, demonstrating a critical approach to the tool and an appreciation of the relevant risks and constraints. Ai use may include, among others, brainstorming, exploration, scenario building and research."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DES103&psl_code=SEM1"
+    }
+  ]
+}

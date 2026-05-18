@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Planetary Science",
+  "module_code": "PHY210",
+  "offerings": [
+    {
+      "heading": "Planetary Science",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "PHY",
+        "full_name": "Planetary Science",
+        "module_code": "PHY210",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Planetary Science",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with an interdisciplinary understanding of the physical principles governing planets. By integrating concepts from astrophysics, geology, and environmental science, the module equips students with the skills and knowledge to analyze the lithosphere, hydrosphere, and atmosphere of planets, both within the solar system and beyond. Students will also explore the role of natural resources and energy generation through physical processes, as well as the impact of human activities on Earth. The module is designed to align with the objectives of the BSc Applied Physics programme through developing critical thinking and interdisciplinary problem-solving skills. It prepares students for further studies in planetary science, space exploration, environmental research, and related fields by emphasizing the application of physics to real-world challenges, including planetary exploration, resource sustainability, and climate change.",
+        "Learning outcomes": "A. Explain the theories and physical principles governing the formation and evolution of the solar system, including the dynamics of orbital evolution B. Describe how physics principles apply to the Earth's lithosphere, hydrosphere, and atmosphere, including the processes that shape their interactions and evolution. C. Analyze and evaluate models of the lithosphere, hydrosphere, and atmosphere of terrestrial planets within the solar system, as well as exoplanets, using comparative planetology. D. Analyse the role of natural resources, including energy and non-energy minerals, and apply physical principles to explain energy generation through tidal, wind, and solar energy processes. E. Critically assess the impact of human activities on the Earth, including climate change, resource exploitation, and environmental sustainability.",
+        "Method of teaching and learning": "The module will be delivered over 13 weeks. The teaching approach combines lectures and tutorials, to provide a comprehensive understanding of planetary science. Lectures will introduce students to the core physical principles and interdisciplinary concepts, supported by visualizations, real-world data from planetary missions, and case studies of terrestrial and extraterrestrial environments. The tutorials will complement the lectures by offering students hands-on learning opportunities. Tutorial activities will be closely aligned with the topics covered during the week or will serve as preparation for upcoming topics. Interactive discussions and group activities will encourage students to critically evaluate the impact of human activities on planet Earth, explore ethical considerations in planetary exploration, and assess the sustainability of natural resource use. A key component of the module includes developing students' ability to critically analyze and present topics in planetary science. Students will be assigned topics that connect planetary science with broader societal or scientific challenges. They will examine the underlying physical principles of these topics while identifying the associated challenges and opportunities for humanity. Students will deliver a presentation and participate in a peer-led question-and-answer session, promoting the development of their communication and critical thinking skills. Additionally, students will produce a detailed report based on independent research. This will require them to critically evaluate existing literature, apply physics-based reasoning, and propose innovative solutions or directions for future research. Through these activities, students will enhance their scientific writing, analytical thinking, and research skills. By combining theoretical knowledge with practical applications, the module ensures that students develop both a deep understanding of planetary systems and the technical skills required for research and industry. The integration of AI into the teaching and learning process will enhance students' preparation for future challenges in planetary science and related fields."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY210&psl_code=SEM2"
+    }
+  ]
+}

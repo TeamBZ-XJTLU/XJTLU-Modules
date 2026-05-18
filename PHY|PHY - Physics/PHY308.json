@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Semiconductor Physics and Devices",
+  "module_code": "PHY308",
+  "offerings": [
+    {
+      "heading": "Semiconductor Physics and Devices",
+      "listing": {
+        "academic_year": "2028/29",
+        "domain_code": "PHY",
+        "full_name": "Semiconductor Physics and Devices",
+        "module_code": "PHY308",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2028/29",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Semiconductor Physics and Devices",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Through the study of this course, students are required to master the basic concepts and fundamental principles of semiconductor physics and semiconductor devices. For the foundational theories of semiconductors, students should be able to use simple models to provide qualitative explanations and perform basic mathematical analyses. Regarding the semiconductor devices portion, the aim is to enhance students' ability to analyze and solve practical problems, with an emphasis on integrating theory with practice. While elucidating the fundamental principles, the course will highlight applied technologies, enabling students to grasp the overall framework of semiconductor physics and devices, and to develop the interest and confidence to engage in the design and development of microelectronic devices.",
+        "Learning outcomes": "A. Explain the fundamental concepts of semiconductor physics, including band theory, carrier statistics, and transport mechanisms. B. Analyze the behavior of charge carriers in semiconductors under various conditions (e.g., equilibrium, non-equilibrium, and under external fields). C. Apply the principles of semiconductor physics to understand the operation of key semiconductor devices. D. Analyze simple semiconductor devices, such as p-n junctions and MOSFETs, using theoretical models. E. Interpret experimental data related to semiconductor materials and devices.",
+        "Method of teaching and learning": "Students will attend 3 hours of lectures and 1 hour of tutorials per week. Lectures will focus on delivering theoretical knowledge, while tutorials will provide problem-solving sessions and discussions on real-world applications. Students are expected to dedicate additional time to independent study, including reading assigned chapters from the mandatory textbook and supplementary materials. Assessment of student progress will be conducted through continuous assessment (e.g., homework assignments and quizzes) to evaluate understanding and application of concepts. A written examination at the end of the semester to assess overall mastery of the module content."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY308&psl_code=SEM1"
+    }
+  ]
+}

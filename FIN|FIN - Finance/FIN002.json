@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FIN",
+    "domain_code": "FIN",
+    "full_name": "Finance"
+  },
+  "full_name": "Trends in Finance and Data Analytics",
+  "module_code": "FIN002",
+  "offerings": [
+    {
+      "heading": "Trends in Finance and Data Analytics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FIN",
+        "full_name": "Trends in Finance and Data Analytics",
+        "module_code": "FIN002",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Trends in Finance and Data Analytics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "",
+        "Learning outcomes": "",
+        "Method of teaching and learning": ""
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN002&psl_code=SEM2"
+    }
+  ]
+}

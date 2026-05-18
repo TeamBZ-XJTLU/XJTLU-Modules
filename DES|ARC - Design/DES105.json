@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "DES",
+    "full_name": "Design"
+  },
+  "full_name": "Introduction to Design Languages and Artificial Intelligence",
+  "module_code": "DES105",
+  "offerings": [
+    {
+      "heading": "Introduction to Design Languages and Artificial Intelligence",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DES",
+        "full_name": "Introduction to Design Languages and Artificial Intelligence",
+        "module_code": "DES105",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Design Languages and Artificial Intelligence",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Design at all scales is conceptualised, developed and communicated through the use of different languages involving visual, textual and programming models. Such languages serve as media for interactions among humans as well as between designers and digital tools, including artificial intelligence (AI) and computational tools. Understanding their domains, differences, structures and applications is essential to appreciating contemporary design paradigms and developing problem-solving abilities and creativity to their full potential. This compulsory module shared by all Design School’s undergraduate programmes provides the foundational knowledge relevant to all design and engineering disciplines and allows students to experiment on applied problems, preparing them for the impact of AI and other emerging technologies on their learning and professional environment.",
+        "Learning outcomes": "A. Demonstrate level-appropriate linguistic competence and use effectively discipline-specific English vocabulary to describe design problems and communicate design concepts B. Identify different design dimensions and how they relate to textual, visual and programming language C. Discuss the working principles, potential, differences and limitations of AI and computational tools in design exploration, generation, optimisation and evaluation D. Demonstrate the application of AI techniques and tools to address and solve fundamental design problems in engineering and design contexts",
+        "Method of teaching and learning": "The module is taught in weekly meetings articulated in lectures and small-group tutorials. The former provides the relevant theoretical knowledge, while the latter promotes active learning through discussions, project-based applications, and teamwork to support the coursework's development through formative feedback. Students will be guided through the application of a range of methods, including digital tools and artificial intelligence. Part of the module may be supported by specialised language tutors. Students are required to study and conduct research independently during their self-study time, consolidate the knowledge discussed in class, and develop substantial coursework through which their academic attainment will be assessed. The coursework consists of an applied project involving the use of AI. When possible, the assignments in this module might be coordinated with the design brief developed in parallel design studios. The first group assignment will focus on the conceptualisation and setting of a design problem, while the second individual assessment component will include more prominently a practical application."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DES105&psl_code=SEM2"
+    }
+  ]
+}

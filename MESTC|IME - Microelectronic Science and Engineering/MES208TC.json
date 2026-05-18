@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "RF Engineering and Applied Electromagnetics",
+  "module_code": "MES208TC",
+  "offerings": [
+    {
+      "heading": "RF Engineering and Applied Electromagnetics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "RF Engineering and Applied Electromagnetics",
+        "module_code": "MES208TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "RF Engineering and Applied Electromagnetics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the concepts required to understand how an electronic system response changes as the wavelength of the operating frequency decreases to a size comparable with the physical length of the system. In modern technologies this is of particular importance for communication systems as well as embedded systems, both of which commonly operate in the Radio Frequency (region of the electromagnetic spectrum). The module will use the foundations of the transmission line to develop understanding and to demonstrate application of the concepts in real world systems.",
+        "Learning outcomes": "A. Understand the concepts of transmission lines including the factors influencing their performance. B. Understand and analyse the interplay between travelling and standing waves and the utility of the concept of power waves at high frequencies. C. Understand and analyse reflection coefficients and return losses in communication systems. D. Design matching networks for maximum power transfer. E. Understand the essential concepts and parameters relating to antennas.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES208TC&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHP",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "An rudimentary introduction to artifical intelligience and its VLSI implementation",
+  "module_code": "MES003",
+  "offerings": [
+    {
+      "heading": "An rudimentary introduction to artifical intelligience and its VLSI implementation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "An rudimentary introduction to artifical intelligience and its VLSI implementation",
+        "module_code": "MES003",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "An rudimentary introduction to artifical intelligience and its VLSI implementation",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "",
+        "Learning outcomes": "",
+        "Method of teaching and learning": ""
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES003&psl_code=SEM2"
+    }
+  ]
+}

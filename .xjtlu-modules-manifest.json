@@ -1,9 +1,12 @@
 {
   "base_url": "https://modules.xjtlu.edu.cn",
-  "department_count": 66,
+  "department_count": 70,
   "error_count": 0,
   "errors": [],
   "generated_paths": [
+    "AAC|AAC - School of AI and Advanced Computing",
+    "AAC|AAC - School of AI and Advanced Computing/AAC001.json",
+    "AAC|AAC - School of AI and Advanced Computing/AAC002.json",
     "ACC|ACC - Accounting",
     "ACC|ACC - Accounting/ACC002.json",
     "ACC|ACC - Accounting/ACC101.json",
@@ -52,6 +55,7 @@
     "APH|AOPHA - Academy of Pharmacy/APH003.json",
     "APH|AOPHA - Academy of Pharmacy/APH004.json",
     "APH|AOPHA - Academy of Pharmacy/APH005.json",
+    "APH|AOPHA - Academy of Pharmacy/APH006.json",
     "APH|AOPHA - Academy of Pharmacy/APH101.json",
     "APH|AOPHA - Academy of Pharmacy/APH103.json",
     "APH|AOPHA - Academy of Pharmacy/APH105.json",
@@ -147,6 +151,8 @@
     "ARC|ARC - Architecture",
     "ARC|ARC - Architecture/ARC001.json",
     "ARC|ARC - Architecture/ARC002.json",
+    "ARC|ARC - Architecture/ARC003.json",
+    "ARC|ARC - Architecture/ARC004.json",
     "ARC|ARC - Architecture/ARC101.json",
     "ARC|ARC - Architecture/ARC102.json",
     "ARC|ARC - Architecture/ARC103.json",
@@ -228,6 +234,7 @@
     "BNV|UPD - Built Environment",
     "BNV|UPD - Built Environment/BNV401.json",
     "BUS|IBSS - International Business School",
+    "BUS|IBSS - International Business School/BUS002.json",
     "BUS|IBSS - International Business School/BUS303.json",
     "CAN|CAN - Communications and Networking",
     "CAN|CAN - Communications and Networking/CAN102.json",
@@ -589,11 +596,35 @@
     "CPT|CPT - Computing/CPT416.json",
     "CPT|CPT - Computing/CPT417.json",
     "CPT|CPT - Computing/CPT418.json",
+    "DES|ARC - Design",
+    "DES|ARC - Design/DES002.json",
+    "DES|ARC - Design/DES003.json",
+    "DES|ARC - Design/DES004.json",
+    "DES|ARC - Design/DES005.json",
+    "DES|ARC - Design/DES006.json",
+    "DES|ARC - Design/DES101.json",
+    "DES|ARC - Design/DES102.json",
+    "DES|ARC - Design/DES103.json",
+    "DES|ARC - Design/DES105.json",
+    "DES|ARC - Design/DES107.json",
+    "DES|ARC - Design/DES201.json",
+    "DES|ARC - Design/DES202.json",
+    "DES|ARC - Design/DES203.json",
+    "DES|ARC - Design/DES301.json",
+    "DES|ARC - Design/DES302.json",
+    "DES|ARC - Design/DES402.json",
+    "DES|ARC - Design/DES404.json",
+    "DES|ARC - Design/DES405.json",
+    "DES|ARC - Design/DES406.json",
+    "DES|ARC - Design/DES407.json",
+    "DES|ARC - Design/DES408.json",
+    "DES|ARC - Design/DES409.json",
     "DES|DES - Design",
     "DES|DES - Design/DES002.json",
     "DES|DES - Design/DES003.json",
     "DES|DES - Design/DES004.json",
     "DES|DES - Design/DES005.json",
+    "DES|DES - Design/DES006.json",
     "DES|DES - Design/DES101.json",
     "DES|DES - Design/DES102.json",
     "DES|DES - Design/DES103.json",
@@ -881,6 +912,7 @@
     "EEE|EEE - Electrical and Electronic Engineering/EEE421.json",
     "ENT|CIEHX - Entrepreneurship",
     "ENT|CIEHX - Entrepreneurship/ENT003.json",
+    "ENT|CIEHX - Entrepreneurship/ENT005.json",
     "ENT|CIEHX - Entrepreneurship/ENT103TC.json",
     "ENT|CIEHX - Entrepreneurship/ENT105TC.json",
     "ENT|CIEHX - Entrepreneurship/ENT110TC.json",
@@ -923,6 +955,7 @@
     "ENT|CIEHX - Entrepreneurship/HXA411TC.json",
     "ENT|EEH - Entrepreneurship",
     "ENT|EEH - Entrepreneurship/ENT003.json",
+    "ENT|EEH - Entrepreneurship/ENT005.json",
     "ENT|EEH - Entrepreneurship/ENT103TC.json",
     "ENT|EEH - Entrepreneurship/ENT105TC.json",
     "ENT|EEH - Entrepreneurship/ENT110TC.json",
@@ -1007,6 +1040,7 @@
     "ENV|HES - Environmental Sciences/ENV407.json",
     "FIN|FIN - Finance",
     "FIN|FIN - Finance/FIN001.json",
+    "FIN|FIN - Finance/FIN002.json",
     "FIN|FIN - Finance/FIN101.json",
     "FIN|FIN - Finance/FIN102.json",
     "FIN|FIN - Finance/FIN104.json",
@@ -1056,6 +1090,8 @@
     "FTA|AFCT - Film and TV/FTA005.json",
     "FTA|AFCT - Film and TV/FTA006.json",
     "FTA|AFCT - Film and TV/FTA007.json",
+    "FTA|AFCT - Film and TV/FTA008.json",
+    "FTA|AFCT - Film and TV/FTA009.json",
     "FTA|AFCT - Film and TV/FTA102.json",
     "FTA|AFCT - Film and TV/FTA105.json",
     "FTA|AFCT - Film and TV/FTA108.json",
@@ -1140,10 +1176,15 @@
     "FTA|AFCT - Film and TV/FTA445.json",
     "FTA|AFCT - Film and TV/FTA448.json",
     "FTA|AFCT - Film and TV/FTA450.json",
+    "GCL|GCLH - Global Cultures and Languages Hub",
+    "GCL|GCLH - Global Cultures and Languages Hub/GCL001.json",
+    "GCL|GCLH - Global Cultures and Languages Hub/GCL002.json",
     "HSS|HSS - Humanities and Social Sciences",
     "HSS|HSS - Humanities and Social Sciences/HSS003.json",
     "HSS|HSS - Humanities and Social Sciences/HSS004.json",
     "HSS|HSS - Humanities and Social Sciences/HSS005.json",
+    "HSS|HSS - Humanities and Social Sciences/HSS006.json",
+    "HSS|HSS - Humanities and Social Sciences/HSS007.json",
     "HSS|HSS - Humanities and Social Sciences/HSS101.json",
     "HSS|HSS - Humanities and Social Sciences/HSS102.json",
     "HSS|HSS - Humanities and Social Sciences/HSS301.json",
@@ -1418,7 +1459,9 @@
     "IOTTC|IOT - Internet of things",
     "IOTTC|IOT - Internet of things/IOT001.json",
     "IOTTC|IOT - Internet of things/IOT003.json",
+    "IOTTC|IOT - Internet of things/IOT004TC.json",
     "IOTTC|IOT - Internet of things/IOT005TC.json",
+    "IOTTC|IOT - Internet of things/IOT006.json",
     "IOTTC|IOT - Internet of things/IOT104TC.json",
     "IOTTC|IOT - Internet of things/IOT105TC.json",
     "IOTTC|IOT - Internet of things/IOT106TC.json",
@@ -1457,6 +1500,9 @@
     "JPL|MLC - Japanese Language/JPL007.json",
     "JPL|MLC - Japanese Language/JPL008.json",
     "JPL|MLC - Japanese Language/JPL009.json",
+    "JPL|MLC - Japanese Language/JPL010.json",
+    "JPL|MLC - Japanese Language/JPL011.json",
+    "JPL|MLC - Japanese Language/JPL012.json",
     "LAN|ELC - Comprehensive Use of Language",
     "LAN|ELC - Comprehensive Use of Language/LAN007.json",
     "LAN|ELC - Comprehensive Use of Language/LAN010.json",
@@ -1759,6 +1805,7 @@
     "MESTC|CHP - Microelectronic Science and Engineering",
     "MESTC|CHP - Microelectronic Science and Engineering/MES001.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES002.json",
+    "MESTC|CHP - Microelectronic Science and Engineering/MES003.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES102TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES103TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES104TC.json",
@@ -1791,6 +1838,42 @@
     "MESTC|CHP - Microelectronic Science and Engineering/MES407TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES408TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES409TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering",
+    "MESTC|IME - Microelectronic Science and Engineering/MES001.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES002.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES003.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES102TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES103TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES104TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES105TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES106TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES201TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES202TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES203TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES204TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES205TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES207TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES208TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES209TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES210TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES211TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES301TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES302TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES303TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES304TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES305TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES306TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES307TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES311TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES401TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES402TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES403TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES404TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES405TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES406TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES407TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES408TC.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES409TC.json",
     "MFETC|IME - Manufacturing Engineering",
     "MFETC|IME - Manufacturing Engineering/MFE001.json",
     "MFETC|IME - Manufacturing Engineering/MFE002.json",
@@ -1853,8 +1936,15 @@
     "MTH|APM - Mathematical Sciences/MTH023.json",
     "MTH|APM - Mathematical Sciences/MTH024.json",
     "MTH|APM - Mathematical Sciences/MTH025.json",
+    "MTH|APM - Mathematical Sciences/MTH026.json",
     "MTH|APM - Mathematical Sciences/MTH027.json",
+    "MTH|APM - Mathematical Sciences/MTH028.json",
     "MTH|APM - Mathematical Sciences/MTH029.json",
+    "MTH|APM - Mathematical Sciences/MTH030.json",
+    "MTH|APM - Mathematical Sciences/MTH031.json",
+    "MTH|APM - Mathematical Sciences/MTH032.json",
+    "MTH|APM - Mathematical Sciences/MTH033.json",
+    "MTH|APM - Mathematical Sciences/MTH066.json",
     "MTH|APM - Mathematical Sciences/MTH101.json",
     "MTH|APM - Mathematical Sciences/MTH102.json",
     "MTH|APM - Mathematical Sciences/MTH104.json",
@@ -1966,8 +2056,15 @@
     "MTH|FAM - Mathematical Sciences/MTH023.json",
     "MTH|FAM - Mathematical Sciences/MTH024.json",
     "MTH|FAM - Mathematical Sciences/MTH025.json",
+    "MTH|FAM - Mathematical Sciences/MTH026.json",
     "MTH|FAM - Mathematical Sciences/MTH027.json",
+    "MTH|FAM - Mathematical Sciences/MTH028.json",
     "MTH|FAM - Mathematical Sciences/MTH029.json",
+    "MTH|FAM - Mathematical Sciences/MTH030.json",
+    "MTH|FAM - Mathematical Sciences/MTH031.json",
+    "MTH|FAM - Mathematical Sciences/MTH032.json",
+    "MTH|FAM - Mathematical Sciences/MTH033.json",
+    "MTH|FAM - Mathematical Sciences/MTH066.json",
     "MTH|FAM - Mathematical Sciences/MTH101.json",
     "MTH|FAM - Mathematical Sciences/MTH102.json",
     "MTH|FAM - Mathematical Sciences/MTH104.json",
@@ -2079,8 +2176,15 @@
     "MTH|MAT - Mathematical Sciences/MTH023.json",
     "MTH|MAT - Mathematical Sciences/MTH024.json",
     "MTH|MAT - Mathematical Sciences/MTH025.json",
+    "MTH|MAT - Mathematical Sciences/MTH026.json",
     "MTH|MAT - Mathematical Sciences/MTH027.json",
+    "MTH|MAT - Mathematical Sciences/MTH028.json",
     "MTH|MAT - Mathematical Sciences/MTH029.json",
+    "MTH|MAT - Mathematical Sciences/MTH030.json",
+    "MTH|MAT - Mathematical Sciences/MTH031.json",
+    "MTH|MAT - Mathematical Sciences/MTH032.json",
+    "MTH|MAT - Mathematical Sciences/MTH033.json",
+    "MTH|MAT - Mathematical Sciences/MTH066.json",
     "MTH|MAT - Mathematical Sciences/MTH101.json",
     "MTH|MAT - Mathematical Sciences/MTH102.json",
     "MTH|MAT - Mathematical Sciences/MTH104.json",
@@ -2192,8 +2296,15 @@
     "MTH|MTH - Mathematical Sciences/MTH023.json",
     "MTH|MTH - Mathematical Sciences/MTH024.json",
     "MTH|MTH - Mathematical Sciences/MTH025.json",
+    "MTH|MTH - Mathematical Sciences/MTH026.json",
     "MTH|MTH - Mathematical Sciences/MTH027.json",
+    "MTH|MTH - Mathematical Sciences/MTH028.json",
     "MTH|MTH - Mathematical Sciences/MTH029.json",
+    "MTH|MTH - Mathematical Sciences/MTH030.json",
+    "MTH|MTH - Mathematical Sciences/MTH031.json",
+    "MTH|MTH - Mathematical Sciences/MTH032.json",
+    "MTH|MTH - Mathematical Sciences/MTH033.json",
+    "MTH|MTH - Mathematical Sciences/MTH066.json",
     "MTH|MTH - Mathematical Sciences/MTH101.json",
     "MTH|MTH - Mathematical Sciences/MTH102.json",
     "MTH|MTH - Mathematical Sciences/MTH104.json",
@@ -2290,6 +2401,7 @@
     "MTH|MTH - Mathematical Sciences/MTH447.json",
     "MTH|MTH - Mathematical Sciences/MTH448.json",
     "MTS|CHE - Material Science",
+    "MTS|CHE - Material Science/MTS001.json",
     "MTS|CHE - Material Science/MTS101.json",
     "MTS|CHE - Material Science/MTS201.json",
     "MTS|CHE - Material Science/MTS202.json",
@@ -2333,10 +2445,24 @@
     "PHY|PHY - Physics/PHY109.json",
     "PHY|PHY - Physics/PHY201.json",
     "PHY|PHY - Physics/PHY202.json",
+    "PHY|PHY - Physics/PHY203.json",
+    "PHY|PHY - Physics/PHY204.json",
     "PHY|PHY - Physics/PHY205.json",
     "PHY|PHY - Physics/PHY206.json",
+    "PHY|PHY - Physics/PHY207.json",
+    "PHY|PHY - Physics/PHY208.json",
+    "PHY|PHY - Physics/PHY209.json",
+    "PHY|PHY - Physics/PHY210.json",
     "PHY|PHY - Physics/PHY301.json",
     "PHY|PHY - Physics/PHY302.json",
+    "PHY|PHY - Physics/PHY303.json",
+    "PHY|PHY - Physics/PHY304.json",
+    "PHY|PHY - Physics/PHY305.json",
+    "PHY|PHY - Physics/PHY307.json",
+    "PHY|PHY - Physics/PHY308.json",
+    "PHY|PHY - Physics/PHY309.json",
+    "PHY|PHY - Physics/PHY311.json",
+    "PHY|PHY - Physics/PHY312.json",
     "RBETC|IRE - Robotics",
     "RBETC|IRE - Robotics/RBE001.json",
     "RBETC|IRE - Robotics/RBE002.json",
@@ -2393,6 +2519,7 @@
     "SCI|SCI - Science",
     "SCI|SCI - Science/SCI002.json",
     "SCI|SCI - Science/SCI003.json",
+    "SCI|SCI - Science/SCI004.json",
     "SCI|SCI - Science/SCI101.json",
     "SCI|SCI - Science/SCI102.json",
     "SCI|SCI - Science/SCI301.json",
@@ -2469,6 +2596,9 @@
     "SPA|MLC - Spanish/SPA010.json",
     "SPA|MLC - Spanish/SPA011.json",
     "SPA|MLC - Spanish/SPA012.json",
+    "SPA|MLC - Spanish/SPA013.json",
+    "SPA|MLC - Spanish/SPA014.json",
+    "SPA|MLC - Spanish/SPA015.json",
     "TRI|LTS - Translation and Interpreting",
     "TRI|LTS - Translation and Interpreting/TRI002.json",
     "TRI|LTS - Translation and Interpreting/TRI101.json",
@@ -2531,8 +2661,20 @@
     "XPU|LIFE - XIPU AI general education/XPU001.json",
     "XPU|LIFE - XIPU AI general education/XPU002.json"
   ],
-  "module_file_count": 2460,
+  "module_file_count": 2586,
   "modules": [
+    {
+      "full_name": "Exploring Data and the Digital World",
+      "module_code": "AAC001",
+      "module_level": "Level 0",
+      "path": "AAC|AAC - School of AI and Advanced Computing/AAC001.json"
+    },
+    {
+      "full_name": "Artificial Intelligence in Practice",
+      "module_code": "AAC002",
+      "module_level": "Level 0",
+      "path": "AAC|AAC - School of AI and Advanced Computing/AAC002.json"
+    },
     {
       "full_name": "Trends in Contemporary Accounting",
       "module_code": "ACC002",
@@ -2808,6 +2950,12 @@
       "module_code": "APH005",
       "module_level": "Level 0",
       "path": "APH|AOPHA - Academy of Pharmacy/APH005.json"
+    },
+    {
+      "full_name": "Fundamental Chemistry",
+      "module_code": "APH006",
+      "module_level": "Level 0",
+      "path": "APH|AOPHA - Academy of Pharmacy/APH006.json"
     },
     {
       "full_name": "Biostatistics and R Programming",
@@ -3374,6 +3522,18 @@
       "path": "ARC|ARC - Architecture/ARC002.json"
     },
     {
+      "full_name": "Architectural Thinking and Representation",
+      "module_code": "ARC003",
+      "module_level": "Level 0",
+      "path": "ARC|ARC - Architecture/ARC003.json"
+    },
+    {
+      "full_name": "Materiality, Space and Experience",
+      "module_code": "ARC004",
+      "module_level": "Level 0",
+      "path": "ARC|ARC - Architecture/ARC004.json"
+    },
+    {
       "full_name": "Design Thinking and Articulation",
       "module_code": "ARC101",
       "module_level": "Level 1",
@@ -3840,6 +4000,12 @@
       "module_code": "BNV401",
       "module_level": "Level 4",
       "path": "BNV|UPD - Built Environment/BNV401.json"
+    },
+    {
+      "full_name": "The Business Ecosystem",
+      "module_code": "BUS002",
+      "module_level": "Level 0",
+      "path": "BUS|IBSS - International Business School/BUS002.json"
     },
     {
       "full_name": "Final Year Project",
@@ -5957,6 +6123,138 @@
       "full_name": "Design Thinking",
       "module_code": "DES002",
       "module_level": "Level 0",
+      "path": "DES|ARC - Design/DES002.json"
+    },
+    {
+      "full_name": "Principles of Design",
+      "module_code": "DES003",
+      "module_level": "Level 0",
+      "path": "DES|ARC - Design/DES003.json"
+    },
+    {
+      "full_name": "Future Cities",
+      "module_code": "DES004",
+      "module_level": "Level 0",
+      "path": "DES|ARC - Design/DES004.json"
+    },
+    {
+      "full_name": "Community Garden Innovation Lab",
+      "module_code": "DES005",
+      "module_level": "Level 0",
+      "path": "DES|ARC - Design/DES005.json"
+    },
+    {
+      "full_name": "Designing Intelligent Futures",
+      "module_code": "DES006",
+      "module_level": "Level 0",
+      "path": "DES|ARC - Design/DES006.json"
+    },
+    {
+      "full_name": "Regenerative Design",
+      "module_code": "DES101",
+      "module_level": "Level 1",
+      "path": "DES|ARC - Design/DES101.json"
+    },
+    {
+      "full_name": "Contextual Design Studio",
+      "module_code": "DES102",
+      "module_level": "Level 1",
+      "path": "DES|ARC - Design/DES102.json"
+    },
+    {
+      "full_name": "Multiscale Collaborative Design Studio",
+      "module_code": "DES103",
+      "module_level": "Level 1",
+      "path": "DES|ARC - Design/DES103.json"
+    },
+    {
+      "full_name": "Introduction to Design Languages and Artificial Intelligence",
+      "module_code": "DES105",
+      "module_level": "Level 1",
+      "path": "DES|ARC - Design/DES105.json"
+    },
+    {
+      "full_name": "Entrepreneurialism in Design and Engineering",
+      "module_code": "DES107",
+      "module_level": "Level 1",
+      "path": "DES|ARC - Design/DES107.json"
+    },
+    {
+      "full_name": "Transition Design",
+      "module_code": "DES201",
+      "module_level": "Level 2",
+      "path": "DES|ARC - Design/DES201.json"
+    },
+    {
+      "full_name": "Principle of Integrated Design Studio",
+      "module_code": "DES202",
+      "module_level": "Level 2",
+      "path": "DES|ARC - Design/DES202.json"
+    },
+    {
+      "full_name": "Creative Design & Making Studio",
+      "module_code": "DES203",
+      "module_level": "Level 2",
+      "path": "DES|ARC - Design/DES203.json"
+    },
+    {
+      "full_name": "Professional Practice",
+      "module_code": "DES301",
+      "module_level": "Level 3",
+      "path": "DES|ARC - Design/DES301.json"
+    },
+    {
+      "full_name": "Final Year Project",
+      "module_code": "DES302",
+      "module_level": "Level 3",
+      "path": "DES|ARC - Design/DES302.json"
+    },
+    {
+      "full_name": "Sustainable Project Management",
+      "module_code": "DES402",
+      "module_level": "Level 4",
+      "path": "DES|ARC - Design/DES402.json"
+    },
+    {
+      "full_name": "Facade Design Theory",
+      "module_code": "DES404",
+      "module_level": "Level 4",
+      "path": "DES|ARC - Design/DES404.json"
+    },
+    {
+      "full_name": "Facade Design Studio",
+      "module_code": "DES405",
+      "module_level": "Level 4",
+      "path": "DES|ARC - Design/DES405.json"
+    },
+    {
+      "full_name": "Design Dissertation/Project",
+      "module_code": "DES406",
+      "module_level": "Level 4",
+      "path": "DES|ARC - Design/DES406.json"
+    },
+    {
+      "full_name": "Digital Technologies for Process in the Built Environment",
+      "module_code": "DES407",
+      "module_level": "Level 4",
+      "path": "DES|ARC - Design/DES407.json"
+    },
+    {
+      "full_name": "Topics in Landscape Design and Technology",
+      "module_code": "DES408",
+      "module_level": "Level 4",
+      "path": "DES|ARC - Design/DES408.json"
+    },
+    {
+      "full_name": "Urban and Landscape Design Studio",
+      "module_code": "DES409",
+      "module_level": "Level 4",
+      "path": "DES|ARC - Design/DES409.json"
+    },
+    {
+      "full_name": "Design Thinking",
+      "module_code": "DES002",
+      "module_level": "Level 0",
       "path": "DES|DES - Design/DES002.json"
     },
     {
@@ -5976,6 +6274,12 @@
       "module_code": "DES005",
       "module_level": "Level 0",
       "path": "DES|DES - Design/DES005.json"
+    },
+    {
+      "full_name": "Designing Intelligent Futures",
+      "module_code": "DES006",
+      "module_level": "Level 0",
+      "path": "DES|DES - Design/DES006.json"
     },
     {
       "full_name": "Regenerative Design",
@@ -7658,6 +7962,12 @@
       "path": "ENT|CIEHX - Entrepreneurship/ENT003.json"
     },
     {
+      "full_name": "SE - Technology Initiatives",
+      "module_code": "ENT005",
+      "module_level": "Level 0",
+      "path": "ENT|CIEHX - Entrepreneurship/ENT005.json"
+    },
+    {
       "full_name": "Creative Innovator’s Toolkit",
       "module_code": "ENT103TC",
       "module_level": "Level 1",
@@ -7902,6 +8212,12 @@
       "module_code": "ENT003",
       "module_level": "Level 0",
       "path": "ENT|EEH - Entrepreneurship/ENT003.json"
+    },
+    {
+      "full_name": "SE - Technology Initiatives",
+      "module_code": "ENT005",
+      "module_level": "Level 0",
+      "path": "ENT|EEH - Entrepreneurship/ENT005.json"
     },
     {
       "full_name": "Creative Innovator’s Toolkit",
@@ -8396,6 +8712,12 @@
       "path": "FIN|FIN - Finance/FIN001.json"
     },
     {
+      "full_name": "Trends in Finance and Data Analytics",
+      "module_code": "FIN002",
+      "module_level": "Level 0",
+      "path": "FIN|FIN - Finance/FIN002.json"
+    },
+    {
       "full_name": "Essentials Of Finance",
       "module_code": "FIN101",
       "module_level": "Level 1",
@@ -8682,6 +9004,18 @@
       "module_code": "FTA007",
       "module_level": "Level 0",
       "path": "FTA|AFCT - Film and TV/FTA007.json"
+    },
+    {
+      "full_name": "Fundamentals of Creative Technology",
+      "module_code": "FTA008",
+      "module_level": "Level 0",
+      "path": "FTA|AFCT - Film and TV/FTA008.json"
+    },
+    {
+      "full_name": "Creativity in Digital Content Production",
+      "module_code": "FTA009",
+      "module_level": "Level 0",
+      "path": "FTA|AFCT - Film and TV/FTA009.json"
     },
     {
       "full_name": "Screen Writing for Film and TV",
@@ -9188,6 +9522,18 @@
       "path": "FTA|AFCT - Film and TV/FTA450.json"
     },
     {
+      "full_name": "Understanding Meaning in a Mediated World",
+      "module_code": "GCL001",
+      "module_level": "Level 0",
+      "path": "GCL|GCLH - Global Cultures and Languages Hub/GCL001.json"
+    },
+    {
+      "full_name": "Culture, Language, and Community",
+      "module_code": "GCL002",
+      "module_level": "Level 0",
+      "path": "GCL|GCLH - Global Cultures and Languages Hub/GCL002.json"
+    },
+    {
       "full_name": "HSS Futures: Humanities and Social Sciences in the Digital Age",
       "module_code": "HSS003",
       "module_level": "Level 0",
@@ -9204,6 +9550,18 @@
       "module_code": "HSS005",
       "module_level": "Level 0",
       "path": "HSS|HSS - Humanities and Social Sciences/HSS005.json"
+    },
+    {
+      "full_name": "Contemporary Chinese Popular Culture",
+      "module_code": "HSS006",
+      "module_level": "Level 0",
+      "path": "HSS|HSS - Humanities and Social Sciences/HSS006.json"
+    },
+    {
+      "full_name": "Understanding Gender",
+      "module_code": "HSS007",
+      "module_level": "Level 0",
+      "path": "HSS|HSS - Humanities and Social Sciences/HSS007.json"
     },
     {
       "full_name": "Artificial Intelligence for Humanities and Social Sciences: Empowering Research and Practice",
@@ -10808,10 +11166,22 @@
       "path": "IOTTC|IOT - Internet of things/IOT003.json"
     },
     {
+      "full_name": "Foundations of Computing with AI",
+      "module_code": "IOT004TC",
+      "module_level": "Level 0",
+      "path": "IOTTC|IOT - Internet of things/IOT004TC.json"
+    },
+    {
       "full_name": "Exploring Advanced Technologies and Interdisciplinary Applications",
       "module_code": "IOT005TC",
       "module_level": "Level 0",
       "path": "IOTTC|IOT - Internet of things/IOT005TC.json"
+    },
+    {
+      "full_name": "IoT Systems and Smart Solutions",
+      "module_code": "IOT006",
+      "module_level": "Level 0",
+      "path": "IOTTC|IOT - Internet of things/IOT006.json"
     },
     {
       "full_name": "Introduction to Internet of Things",
@@ -11034,6 +11404,24 @@
       "module_code": "JPL009",
       "module_level": "Level 0",
       "path": "JPL|MLC - Japanese Language/JPL009.json"
+    },
+    {
+      "full_name": "Japanese Language 1: Part 1",
+      "module_code": "JPL010",
+      "module_level": "Level 0",
+      "path": "JPL|MLC - Japanese Language/JPL010.json"
+    },
+    {
+      "full_name": "Japanese Language 1: Part 2",
+      "module_code": "JPL011",
+      "module_level": "Level 0",
+      "path": "JPL|MLC - Japanese Language/JPL011.json"
+    },
+    {
+      "full_name": "Japanese Language 2: Part 1",
+      "module_code": "JPL012",
+      "module_level": "Level 0",
+      "path": "JPL|MLC - Japanese Language/JPL012.json"
     },
     {
       "full_name": "Introduction to Sustainability",
@@ -12770,6 +13158,12 @@
       "path": "MESTC|CHP - Microelectronic Science and Engineering/MES002.json"
     },
     {
+      "full_name": "An rudimentary introduction to artifical intelligience and its VLSI implementation",
+      "module_code": "MES003",
+      "module_level": "Level 0",
+      "path": "MESTC|CHP - Microelectronic Science and Engineering/MES003.json"
+    },
+    {
       "full_name": "Experimental, Computer Skills and Sustainability",
       "module_code": "MES102TC",
       "module_level": "Level 1",
@@ -12960,6 +13354,216 @@
       "module_code": "MES409TC",
       "module_level": "Level 4",
       "path": "MESTC|CHP - Microelectronic Science and Engineering/MES409TC.json"
+    },
+    {
+      "full_name": "Introduction to Nanotechnology",
+      "module_code": "MES001",
+      "module_level": "Level 0",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES001.json"
+    },
+    {
+      "full_name": "Introduction to Microelectronics",
+      "module_code": "MES002",
+      "module_level": "Level 0",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES002.json"
+    },
+    {
+      "full_name": "An rudimentary introduction to artifical intelligience and its VLSI implementation",
+      "module_code": "MES003",
+      "module_level": "Level 0",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES003.json"
+    },
+    {
+      "full_name": "Experimental, Computer Skills and Sustainability",
+      "module_code": "MES102TC",
+      "module_level": "Level 1",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES102TC.json"
+    },
+    {
+      "full_name": "C Programming Language",
+      "module_code": "MES103TC",
+      "module_level": "Level 1",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES103TC.json"
+    },
+    {
+      "full_name": "Integrated Circuits Design and Fabrication",
+      "module_code": "MES104TC",
+      "module_level": "Level 1",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES104TC.json"
+    },
+    {
+      "full_name": "AI-centric Technology Fundamentals and Perspectives for CHIPS",
+      "module_code": "MES105TC",
+      "module_level": "Level 1",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES105TC.json"
+    },
+    {
+      "full_name": "Electronic Circuits and Systems",
+      "module_code": "MES106TC",
+      "module_level": "Level 1",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES106TC.json"
+    },
+    {
+      "full_name": "Advanced Power Electronic Devices and Electrical Circuits",
+      "module_code": "MES201TC",
+      "module_level": "Level 2",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES201TC.json"
+    },
+    {
+      "full_name": "Digital VLSI System Design and Design Automation",
+      "module_code": "MES202TC",
+      "module_level": "Level 2",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES202TC.json"
+    },
+    {
+      "full_name": "Electronic Circuits and Systems",
+      "module_code": "MES203TC",
+      "module_level": "Level 2",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES203TC.json"
+    },
+    {
+      "full_name": "Microprocessor Systems",
+      "module_code": "MES204TC",
+      "module_level": "Level 2",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES204TC.json"
+    },
+    {
+      "full_name": "Digital Electronics II",
+      "module_code": "MES205TC",
+      "module_level": "Level 2",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES205TC.json"
+    },
+    {
+      "full_name": "CMOS Digital Integrated Circuits",
+      "module_code": "MES207TC",
+      "module_level": "Level 2",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES207TC.json"
+    },
+    {
+      "full_name": "RF Engineering and Applied Electromagnetics",
+      "module_code": "MES208TC",
+      "module_level": "Level 2",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES208TC.json"
+    },
+    {
+      "full_name": "Electromagnetism and Electromechanics",
+      "module_code": "MES209TC",
+      "module_level": "Level 2",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES209TC.json"
+    },
+    {
+      "full_name": "Continuous and Discrete Time Signals and Systems",
+      "module_code": "MES210TC",
+      "module_level": "Level 2",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES210TC.json"
+    },
+    {
+      "full_name": "Semiconductor Memory Devices and Circuits",
+      "module_code": "MES211TC",
+      "module_level": "Level 2",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES211TC.json"
+    },
+    {
+      "full_name": "Analog Integrated Circuits Analysis and Design",
+      "module_code": "MES301TC",
+      "module_level": "Level 3",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES301TC.json"
+    },
+    {
+      "full_name": "IC Technology and Engineering",
+      "module_code": "MES302TC",
+      "module_level": "Level 3",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES302TC.json"
+    },
+    {
+      "full_name": "Integrated Circuits - Concepts and Design",
+      "module_code": "MES303TC",
+      "module_level": "Level 3",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES303TC.json"
+    },
+    {
+      "full_name": "Integrated Circuits - Fabrication and Testing",
+      "module_code": "MES304TC",
+      "module_level": "Level 3",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES304TC.json"
+    },
+    {
+      "full_name": "Photonics and Photonic Hybrid Systems",
+      "module_code": "MES305TC",
+      "module_level": "Level 3",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES305TC.json"
+    },
+    {
+      "full_name": "Atomic-Level Semiconductor Materials Simulation",
+      "module_code": "MES306TC",
+      "module_level": "Level 3",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES306TC.json"
+    },
+    {
+      "full_name": "Sensors and Integrated Systems",
+      "module_code": "MES307TC",
+      "module_level": "Level 3",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES307TC.json"
+    },
+    {
+      "full_name": "Final Year Project",
+      "module_code": "MES311TC",
+      "module_level": "Level 3",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES311TC.json"
+    },
+    {
+      "full_name": "Semiconductor Materials And Devices",
+      "module_code": "MES401TC",
+      "module_level": "Level 4",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES401TC.json"
+    },
+    {
+      "full_name": "Characterization Of Materials And Microelectronic Devices",
+      "module_code": "MES402TC",
+      "module_level": "Level 4",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES402TC.json"
+    },
+    {
+      "full_name": "Micro/Nano Electromechanical Systems",
+      "module_code": "MES403TC",
+      "module_level": "Level 4",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES403TC.json"
+    },
+    {
+      "full_name": "Advanced Microfabrication Technology",
+      "module_code": "MES404TC",
+      "module_level": "Level 4",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES404TC.json"
+    },
+    {
+      "full_name": "Introduction to Emerging Devices and Technology",
+      "module_code": "MES405TC",
+      "module_level": "Level 4",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES405TC.json"
+    },
+    {
+      "full_name": "Industrial Research Dissertation",
+      "module_code": "MES406TC",
+      "module_level": "Level 4",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES406TC.json"
+    },
+    {
+      "full_name": "Additive Manufacturing for Micro Devices",
+      "module_code": "MES407TC",
+      "module_level": "Level 4",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES407TC.json"
+    },
+    {
+      "full_name": "Semicondutor Microstructure and Crystal Defects",
+      "module_code": "MES408TC",
+      "module_level": "Level 4",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES408TC.json"
+    },
+    {
+      "full_name": "Research Project Development",
+      "module_code": "MES409TC",
+      "module_level": "Level 4",
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES409TC.json"
     },
     {
       "full_name": "Exploring Engineering Creation and Innovation",
@@ -13322,16 +13926,58 @@
       "path": "MTH|APM - Mathematical Sciences/MTH025.json"
     },
     {
+      "full_name": "Calculus I",
+      "module_code": "MTH026",
+      "module_level": "Level 0",
+      "path": "MTH|APM - Mathematical Sciences/MTH026.json"
+    },
+    {
       "full_name": "Introductory Calculus I",
       "module_code": "MTH027",
       "module_level": "Level 0",
       "path": "MTH|APM - Mathematical Sciences/MTH027.json"
     },
     {
+      "full_name": "Linear Algebra I",
+      "module_code": "MTH028",
+      "module_level": "Level 0",
+      "path": "MTH|APM - Mathematical Sciences/MTH028.json"
+    },
+    {
       "full_name": "Calculus (Mathematical Sciences)",
       "module_code": "MTH029",
       "module_level": "Level 0",
       "path": "MTH|APM - Mathematical Sciences/MTH029.json"
+    },
+    {
+      "full_name": "Introductory Calculus",
+      "module_code": "MTH030",
+      "module_level": "Level 0",
+      "path": "MTH|APM - Mathematical Sciences/MTH030.json"
+    },
+    {
+      "full_name": "Calculus II for Science and Engineering",
+      "module_code": "MTH031",
+      "module_level": "Level 0",
+      "path": "MTH|APM - Mathematical Sciences/MTH031.json"
+    },
+    {
+      "full_name": "Calculus II for Business and Arts",
+      "module_code": "MTH032",
+      "module_level": "Level 0",
+      "path": "MTH|APM - Mathematical Sciences/MTH032.json"
+    },
+    {
+      "full_name": "Linear Algebra II",
+      "module_code": "MTH033",
+      "module_level": "Level 0",
+      "path": "MTH|APM - Mathematical Sciences/MTH033.json"
+    },
+    {
+      "full_name": "From Mathematical Basics to Visual Data",
+      "module_code": "MTH066",
+      "module_level": "Level 0",
+      "path": "MTH|APM - Mathematical Sciences/MTH066.json"
     },
     {
       "full_name": "Engineering Mathematics I",
@@ -13994,16 +14640,58 @@
       "path": "MTH|FAM - Mathematical Sciences/MTH025.json"
     },
     {
+      "full_name": "Calculus I",
+      "module_code": "MTH026",
+      "module_level": "Level 0",
+      "path": "MTH|FAM - Mathematical Sciences/MTH026.json"
+    },
+    {
       "full_name": "Introductory Calculus I",
       "module_code": "MTH027",
       "module_level": "Level 0",
       "path": "MTH|FAM - Mathematical Sciences/MTH027.json"
     },
     {
+      "full_name": "Linear Algebra I",
+      "module_code": "MTH028",
+      "module_level": "Level 0",
+      "path": "MTH|FAM - Mathematical Sciences/MTH028.json"
+    },
+    {
       "full_name": "Calculus (Mathematical Sciences)",
       "module_code": "MTH029",
       "module_level": "Level 0",
       "path": "MTH|FAM - Mathematical Sciences/MTH029.json"
+    },
+    {
+      "full_name": "Introductory Calculus",
+      "module_code": "MTH030",
+      "module_level": "Level 0",
+      "path": "MTH|FAM - Mathematical Sciences/MTH030.json"
+    },
+    {
+      "full_name": "Calculus II for Science and Engineering",
+      "module_code": "MTH031",
+      "module_level": "Level 0",
+      "path": "MTH|FAM - Mathematical Sciences/MTH031.json"
+    },
+    {
+      "full_name": "Calculus II for Business and Arts",
+      "module_code": "MTH032",
+      "module_level": "Level 0",
+      "path": "MTH|FAM - Mathematical Sciences/MTH032.json"
+    },
+    {
+      "full_name": "Linear Algebra II",
+      "module_code": "MTH033",
+      "module_level": "Level 0",
+      "path": "MTH|FAM - Mathematical Sciences/MTH033.json"
+    },
+    {
+      "full_name": "From Mathematical Basics to Visual Data",
+      "module_code": "MTH066",
+      "module_level": "Level 0",
+      "path": "MTH|FAM - Mathematical Sciences/MTH066.json"
     },
     {
       "full_name": "Engineering Mathematics I",
@@ -14666,16 +15354,58 @@
       "path": "MTH|MAT - Mathematical Sciences/MTH025.json"
     },
     {
+      "full_name": "Calculus I",
+      "module_code": "MTH026",
+      "module_level": "Level 0",
+      "path": "MTH|MAT - Mathematical Sciences/MTH026.json"
+    },
+    {
       "full_name": "Introductory Calculus I",
       "module_code": "MTH027",
       "module_level": "Level 0",
       "path": "MTH|MAT - Mathematical Sciences/MTH027.json"
     },
     {
+      "full_name": "Linear Algebra I",
+      "module_code": "MTH028",
+      "module_level": "Level 0",
+      "path": "MTH|MAT - Mathematical Sciences/MTH028.json"
+    },
+    {
       "full_name": "Calculus (Mathematical Sciences)",
       "module_code": "MTH029",
       "module_level": "Level 0",
       "path": "MTH|MAT - Mathematical Sciences/MTH029.json"
+    },
+    {
+      "full_name": "Introductory Calculus",
+      "module_code": "MTH030",
+      "module_level": "Level 0",
+      "path": "MTH|MAT - Mathematical Sciences/MTH030.json"
+    },
+    {
+      "full_name": "Calculus II for Science and Engineering",
+      "module_code": "MTH031",
+      "module_level": "Level 0",
+      "path": "MTH|MAT - Mathematical Sciences/MTH031.json"
+    },
+    {
+      "full_name": "Calculus II for Business and Arts",
+      "module_code": "MTH032",
+      "module_level": "Level 0",
+      "path": "MTH|MAT - Mathematical Sciences/MTH032.json"
+    },
+    {
+      "full_name": "Linear Algebra II",
+      "module_code": "MTH033",
+      "module_level": "Level 0",
+      "path": "MTH|MAT - Mathematical Sciences/MTH033.json"
+    },
+    {
+      "full_name": "From Mathematical Basics to Visual Data",
+      "module_code": "MTH066",
+      "module_level": "Level 0",
+      "path": "MTH|MAT - Mathematical Sciences/MTH066.json"
     },
     {
       "full_name": "Engineering Mathematics I",
@@ -15338,16 +16068,58 @@
       "path": "MTH|MTH - Mathematical Sciences/MTH025.json"
     },
     {
+      "full_name": "Calculus I",
+      "module_code": "MTH026",
+      "module_level": "Level 0",
+      "path": "MTH|MTH - Mathematical Sciences/MTH026.json"
+    },
+    {
       "full_name": "Introductory Calculus I",
       "module_code": "MTH027",
       "module_level": "Level 0",
       "path": "MTH|MTH - Mathematical Sciences/MTH027.json"
     },
     {
+      "full_name": "Linear Algebra I",
+      "module_code": "MTH028",
+      "module_level": "Level 0",
+      "path": "MTH|MTH - Mathematical Sciences/MTH028.json"
+    },
+    {
       "full_name": "Calculus (Mathematical Sciences)",
       "module_code": "MTH029",
       "module_level": "Level 0",
       "path": "MTH|MTH - Mathematical Sciences/MTH029.json"
+    },
+    {
+      "full_name": "Introductory Calculus",
+      "module_code": "MTH030",
+      "module_level": "Level 0",
+      "path": "MTH|MTH - Mathematical Sciences/MTH030.json"
+    },
+    {
+      "full_name": "Calculus II for Science and Engineering",
+      "module_code": "MTH031",
+      "module_level": "Level 0",
+      "path": "MTH|MTH - Mathematical Sciences/MTH031.json"
+    },
+    {
+      "full_name": "Calculus II for Business and Arts",
+      "module_code": "MTH032",
+      "module_level": "Level 0",
+      "path": "MTH|MTH - Mathematical Sciences/MTH032.json"
+    },
+    {
+      "full_name": "Linear Algebra II",
+      "module_code": "MTH033",
+      "module_level": "Level 0",
+      "path": "MTH|MTH - Mathematical Sciences/MTH033.json"
+    },
+    {
+      "full_name": "From Mathematical Basics to Visual Data",
+      "module_code": "MTH066",
+      "module_level": "Level 0",
+      "path": "MTH|MTH - Mathematical Sciences/MTH066.json"
     },
     {
       "full_name": "Engineering Mathematics I",
@@ -15920,6 +16692,12 @@
       "path": "MTH|MTH - Mathematical Sciences/MTH448.json"
     },
     {
+      "full_name": "Introduction to Materials Science",
+      "module_code": "MTS001",
+      "module_level": "Level 0",
+      "path": "MTS|CHE - Material Science/MTS001.json"
+    },
+    {
       "full_name": "Introduction to AI in Materials Science",
       "module_code": "MTS101",
       "module_level": "Level 1",
@@ -16160,6 +16938,18 @@
       "path": "PHY|PHY - Physics/PHY202.json"
     },
     {
+      "full_name": "Classical Mechanics for Physics",
+      "module_code": "PHY203",
+      "module_level": "Level 2",
+      "path": "PHY|PHY - Physics/PHY203.json"
+    },
+    {
+      "full_name": "Practical Physics C: Thermodynamics, Oscillations, and Waves",
+      "module_code": "PHY204",
+      "module_level": "Level 2",
+      "path": "PHY|PHY - Physics/PHY204.json"
+    },
+    {
       "full_name": "Electromagnetism II",
       "module_code": "PHY205",
       "module_level": "Level 2",
@@ -16172,6 +16962,30 @@
       "path": "PHY|PHY - Physics/PHY206.json"
     },
     {
+      "full_name": "Quantum Mechanics I",
+      "module_code": "PHY207",
+      "module_level": "Level 2",
+      "path": "PHY|PHY - Physics/PHY207.json"
+    },
+    {
+      "full_name": "Practical Physics D: Light and Quantum Physics",
+      "module_code": "PHY208",
+      "module_level": "Level 2",
+      "path": "PHY|PHY - Physics/PHY208.json"
+    },
+    {
+      "full_name": "Astrophysics",
+      "module_code": "PHY209",
+      "module_level": "Level 2",
+      "path": "PHY|PHY - Physics/PHY209.json"
+    },
+    {
+      "full_name": "Planetary Science",
+      "module_code": "PHY210",
+      "module_level": "Level 2",
+      "path": "PHY|PHY - Physics/PHY210.json"
+    },
+    {
       "full_name": "Quantum Mechanics",
       "module_code": "PHY301",
       "module_level": "Level 3",
@@ -16182,6 +16996,54 @@
       "module_code": "PHY302",
       "module_level": "Level 3",
       "path": "PHY|PHY - Physics/PHY302.json"
+    },
+    {
+      "full_name": "Statistical Thermodynamics",
+      "module_code": "PHY303",
+      "module_level": "Level 3",
+      "path": "PHY|PHY - Physics/PHY303.json"
+    },
+    {
+      "full_name": "Quantum Mechanics II",
+      "module_code": "PHY304",
+      "module_level": "Level 3",
+      "path": "PHY|PHY - Physics/PHY304.json"
+    },
+    {
+      "full_name": "Nuclear and Particle Physics",
+      "module_code": "PHY305",
+      "module_level": "Level 3",
+      "path": "PHY|PHY - Physics/PHY305.json"
+    },
+    {
+      "full_name": "Solid State Physics",
+      "module_code": "PHY307",
+      "module_level": "Level 3",
+      "path": "PHY|PHY - Physics/PHY307.json"
+    },
+    {
+      "full_name": "Semiconductor Physics and Devices",
+      "module_code": "PHY308",
+      "module_level": "Level 3",
+      "path": "PHY|PHY - Physics/PHY308.json"
+    },
+    {
+      "full_name": "Condensed Matter Physics",
+      "module_code": "PHY309",
+      "module_level": "Level 3",
+      "path": "PHY|PHY - Physics/PHY309.json"
+    },
+    {
+      "full_name": "Fundamentals of Photonics Physics and Quantum Optics",
+      "module_code": "PHY311",
+      "module_level": "Level 3",
+      "path": "PHY|PHY - Physics/PHY311.json"
+    },
+    {
+      "full_name": "Statistical Data Analysis in Physics",
+      "module_code": "PHY312",
+      "module_level": "Level 3",
+      "path": "PHY|PHY - Physics/PHY312.json"
     },
     {
       "full_name": "Introductions to Intelligent Robotics",
@@ -16500,6 +17362,12 @@
       "module_code": "SCI003",
       "module_level": "Level 0",
       "path": "SCI|SCI - Science/SCI003.json"
+    },
+    {
+      "full_name": "LIFE in the Life Sciences",
+      "module_code": "SCI004",
+      "module_level": "Level 0",
+      "path": "SCI|SCI - Science/SCI004.json"
     },
     {
       "full_name": "Introduction to Artificial Intelligence for Science",
@@ -16944,6 +17812,24 @@
       "module_code": "SPA012",
       "module_level": "Level 0",
       "path": "SPA|MLC - Spanish/SPA012.json"
+    },
+    {
+      "full_name": "Spanish Language 1: Part 1",
+      "module_code": "SPA013",
+      "module_level": "Level 0",
+      "path": "SPA|MLC - Spanish/SPA013.json"
+    },
+    {
+      "full_name": "Spanish Language 1: Part 2",
+      "module_code": "SPA014",
+      "module_level": "Level 0",
+      "path": "SPA|MLC - Spanish/SPA014.json"
+    },
+    {
+      "full_name": "Spanish Language 2: Part 1",
+      "module_code": "SPA015",
+      "module_level": "Level 0",
+      "path": "SPA|MLC - Spanish/SPA015.json"
     },
     {
       "full_name": "Essentials of Translation and Interpreting",

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "DES",
+    "full_name": "Design"
+  },
+  "full_name": "Facade Design Studio",
+  "module_code": "DES405",
+  "offerings": [
+    {
+      "heading": "Facade Design Studio",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DES",
+        "full_name": "Facade Design Studio",
+        "module_code": "DES405",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Facade Design Studio",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to provide competencies and skills for the production of complex design proposals in the area of façade design. Delivered in a studio setting, the module offers students first-hand understanding of the design process and an opportunity to experience and learn professional methods and tools for design, visualisation, testing and assessment.",
+        "Learning outcomes": "A. Generate a comprehensive façade design proposal in response to a brief. B. Integrate architectural, technological, environmental and performance requirements balancing conflicting demands in façade design. C. Employ a comprehensive range of visual, oral and written media to model, test, analyse, critically appraise and explain façade design proposals.",
+        "Method of teaching and learning": "The module is centred around the application of knowledge and skills to the development of a design proposal in response to a brief and to analysis and research conducted by the students. The course is taught in weekly sessions articulated in lectures and design tutorials. The former set the theoretical framework and the design problem, while the latter provide guidance and supervision in the development of the project. Tutorial time includes individual and group discussion, as well as design review and critique. Students are required to study, conduct research, and develop their proposals independently in their self-study time."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DES405&psl_code=SEM2"
+    }
+  ]
+}

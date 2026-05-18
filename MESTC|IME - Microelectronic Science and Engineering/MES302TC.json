@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "IC Technology and Engineering",
+  "module_code": "MES302TC",
+  "offerings": [
+    {
+      "heading": "IC Technology and Engineering",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "IC Technology and Engineering",
+        "module_code": "MES302TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "IC Technology and Engineering",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To equip students with solid theoretical knowledge as well as practical experience in integrated circuit technology and engineering, including the overview of integrated circuit manufacturing/fabrication from wafer processing, technology node, CAD automation, fabrication procedure and equipment, cleanliness, yield to wafer test and packaging.",
+        "Learning outcomes": "A Apply the concepts of wafer processing, technology node, fabrication procedure and equipment B Apply theoretical and practical knowledge in CAD automation and its software-oriented design platform C Apply the knowledge of cleanliness, yield, wafer test and packaging to advanced IC technology development D Classify and determine the problem solving standard procedures from IC technology and CAD platform perspectives E Develop independent design skills for cross-over application ranging from IC fabrication technology to circuit design automation",
+        "Method of teaching and learning": "This module is delivered through a combination of formal lectures, tutorials, design exercises and supervised laboratory sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES302TC&psl_code=SEM2"
+    }
+  ]
+}

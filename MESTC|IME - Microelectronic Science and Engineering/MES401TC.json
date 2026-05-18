@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "Semiconductor Materials And Devices",
+  "module_code": "MES401TC",
+  "offerings": [
+    {
+      "heading": "Semiconductor Materials And Devices",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Semiconductor Materials And Devices",
+        "module_code": "MES401TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Semiconductor Materials And Devices",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to the fundamental properties of semiconductor materials and devices. Students will study fundamental aspects of semiconductor material properties and how these link to device operation, including pn-junction diodes, bipolar transistors, metal oxide semiconductor field effect transistors, power devices and photoelectric devices. Students will study the basic theory that underpins material properties and the device operation. Students will also study basic fabrication, characterization and application of semiconductor. The aim being to encourage development of problem-solving skills in order that more advanced concepts related to semiconductor materials and devices can be tackled in later years.",
+        "Learning outcomes": "A Develop a consolidate knowledge of the electronic properties and behaviors of semiconductor materials. B Analyse the operation of key electronic devices (diodes, MOSFETs, BJTs, etc.) from the bottom up. C Evaluate the fundamental parameters controlling the properties of semiconductor materials. D Develop skills of the fabrication, characterization and testing of semiconductor devices. E Analyze the properties and behaviors of advanced semiconductor devices.",
+        "Method of teaching and learning": "The module is taught through formal lectures, class tutorials, and laboratory experiments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES401TC&psl_code=SEM1"
+    }
+  ]
+}

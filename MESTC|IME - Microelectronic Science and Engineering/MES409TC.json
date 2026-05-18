@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "Research Project Development",
+  "module_code": "MES409TC",
+  "offerings": [
+    {
+      "heading": "Research Project Development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Research Project Development",
+        "module_code": "MES409TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "15",
+        "Module Level": "Level 4",
+        "Module Title": "Research Project Development",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module equips students with the foundational knowledge and practical skills essential for their research dissertation. It focuses on developing a critical literature review, formulating robust research questions, and designing a rigorous project plan. Students will learn to identify, evaluate, and select appropriate methodological approaches for their specific research contexts.",
+        "Learning outcomes": "A Conduct a systematic and critical review of relevant academic literature to identify key debates, gaps, and a theoretical framework for their research. B Formulate a clear, original, and researchable question or hypothesis that emerges from and contributes to the existing body of literature. C Design a coherent and feasible research plan that outlines the chronological stages, resources required, and ethical considerations for their proposed dissertation. D Evaluate a range of qualitative, quantitative, and mixed-method methodologies to determine their appropriateness for addressing specific research questions. E Justify the selection of a specific methodological approach and corresponding data collection/analysis techniques, demonstrating an understanding of their strengths and limitations.",
+        "Method of teaching and learning": "This module employs a blended and student-centered approach that combines direct instruction with active, hands-on learning. The goal is to transition students from passive recipients of information to active designers of their research projects. 1. Formal Lecture: The primary teaching method. These sessions will convey key concepts with practical exercises. 2. Tutorials: Small-group or one-on-one sessions with the instructor to discuss individual project ideas, provide feedback on developing components (like literature maps or draft proposals), and address specific challenges. 3. Seminars: Students will attend seminars to learn about current research and broaden their academic perspectives. 4. Private study: In a typical week, students will be expected to devote a lot of hours of unsupervised time to private study to work on their project proposal. This includes time for reflection and consolidation of lecture materials, for completion of the assessment tasks, and for regular meetings with their project supervisor."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES409TC&psl_code=SEM2"
+    }
+  ]
+}

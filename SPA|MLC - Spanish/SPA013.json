@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MLC",
+    "domain_code": "SPA",
+    "full_name": "Spanish"
+  },
+  "full_name": "Spanish Language 1: Part 1",
+  "module_code": "SPA013",
+  "offerings": [
+    {
+      "heading": "Spanish Language 1: Part 1",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SPA",
+        "full_name": "Spanish Language 1: Part 1",
+        "module_code": "SPA013",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Spanish Language 1: Part 1",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "",
+        "Learning outcomes": "",
+        "Method of teaching and learning": ""
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SPA013&psl_code=SEM1"
+    }
+  ]
+}

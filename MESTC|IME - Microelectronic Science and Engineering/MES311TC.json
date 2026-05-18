@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "Final Year Project",
+  "module_code": "MES311TC",
+  "offerings": [
+    {
+      "heading": "Final Year Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Final Year Project",
+        "module_code": "MES311TC",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 3",
+        "Module Title": "Final Year Project",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To give students the opportunity to work in a guided but independent fashion to explore a substantial problem in depth, making practical use of principles, techniques and methodologies acquired elsewhere in the course. To give experience of carrying out a large piece of individual work and in producing a dissertation. To enhance communication skills, both oral and written.",
+        "Learning outcomes": "A. Specify a substantial problem, and produce a plan to address the problem; B. Produce and follow an appropriate project plan to fit within the available time and assessment structure; C. Locate and perform a review of project related literature; D. Design, implement and test a solution to a substantial problem; E. Evaluate in a critical fashion the work they have done, and to place it in the context of related work; F. Prepare and deliver a formal presentation; G. Structure and write a dissertation describing their projects.",
+        "Method of teaching and learning": "In the project we wish to foster independent learning, under the guidance of a supervisor. There is a review, which provides an opportunity for monitoring progress and giving formative feedback. Supervisors maintain regular contact with students throughout the project to provide direction and advice as needed."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES311TC&psl_code=ACYR"
+    }
+  ]
+}

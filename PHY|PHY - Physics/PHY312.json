@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Statistical Data Analysis in Physics",
+  "module_code": "PHY312",
+  "offerings": [
+    {
+      "heading": "Statistical Data Analysis in Physics",
+      "listing": {
+        "academic_year": "2028/29",
+        "domain_code": "PHY",
+        "full_name": "Statistical Data Analysis in Physics",
+        "module_code": "PHY312",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2028/29",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Statistical Data Analysis in Physics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Data analysis is a key part of physics and science. In this module, we introduce data analysis of quantitative data in physics, including experimental design; identifying and modeling sources of error; visualizing the results of an experiment; interpreting an experiment through a statistical model; and performing tests and measurements using an experiment.",
+        "Learning outcomes": "A. Explain fundamental principles in probability and statistics, and illustrate how they are applied in data analysis; B. Identify common sources of experimental error, including systematic and statistical uncertainties, and differentiate between accuracy and precision; C. Apply appropriate data analysis techniques to interpret results from physics experiments, including performing statistical tests and measurements; D. Produce and interpret effective data visualizations for experimental results; E. Use scientific software tools to perform data analysis and generate visualizations.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures, tutorials, and computing labs. Lectures will introduce students to key principles in the analysis of data from physics experiments. Tutorials will reinforce that theoretical understanding through problem sheets and computing labs will put those principles into practice by working through real problems using scientific and statistical libraries"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY312&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "DES",
+    "full_name": "Design"
+  },
+  "full_name": "Community Garden Innovation Lab",
+  "module_code": "DES005",
+  "offerings": [
+    {
+      "heading": "Community Garden Innovation Lab",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DES",
+        "full_name": "Community Garden Innovation Lab",
+        "module_code": "DES005",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Community Garden Innovation Lab",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "As an optional choice in Year 1, Semester 1, the module aims to provide knowledge and skills that contribute to the university graduate attribute framework in any curriculum. As a prominently practical module, it aims to engage students collaboratively on the themes of sustainability and social innovation, developing key competencies in these areas. In particular, • Explore innovative approaches and methods to place-making that prioritise environmental and social sustainability. • Equip students with knowledge and practical skills of design and making of small green space, such as community garden. • Foster critical thinking, problem-solving, teamwork and communication skills essential for driving sustainable innovation. • Encourage students to become engaged and responsible global citizens committed to building a more sustainable future.",
+        "Learning outcomes": "A. Explain the principles underpinning the Sustainable Development Goals (SDGs) and their practical applications. B. Propose alternative, innovative and sustainable place-making solutions. C. Develop a team action research project to address a sustainability issue. D. Apply practical skills in sustainable place-making to small green public space.",
+        "Method of teaching and learning": "The module is a project-based module that may entail collaboration with Campus Management Office or local communities. It is mainly taught by interactive workshops including lectures to introduce the main concepts and hands-on lab tasks to develop innovative ideas and practise hands-on skills."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DES005&psl_code=SEM1"
+    }
+  ]
+}
