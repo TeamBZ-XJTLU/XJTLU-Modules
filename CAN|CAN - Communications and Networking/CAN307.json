@@ -14,29 +14,6 @@
         "domain_code": "CAN",
         "full_name": "Radio Propagation and Microwave Circuits",
         "module_code": "CAN307",
-        "semester": "SEM1"
-      },
-      "overview": {
-        "Academic Year": "2026/27",
-        "Module Credits": "5",
-        "Module Level": "Level 3",
-        "Module Title": "Radio Propagation and Microwave Circuits",
-        "Semester": "SEM1"
-      },
-      "sections": {
-        "Aims and Fit of Module": "This module introduces students to radio propagation and microwave technologies. It covers the key features of modern microwave sub-systems, their operations and design requirements. It also deals with concepts relating to microstrip line design and the design tools used to produce them. Students are shown how various microwave sub-systems are currently used in wireless telecommunication systems. The module develops analytical and design knowledge, and provides experience necessary to solve real world industrial problems.",
-        "Learning outcomes": "A understand radio propagation and microwave technologies and how they relate to the relevant underlying electromagnetic theory. B use electromagnetic theory to analyse microwave designs. C analyse real world problems and design suitable solutions based on available technologies for wireless telecommunication systems. D analyse the performance of their design using modern methods and design tools CST Studio Suite or Advanced Design System Software. E design and manufacture a passive microwave sub-system F use modern microwave design and measurement tools G perform a project in a group",
-        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures and lab sessions. The lab experiments will be carried on using CST Microwave Design Studio or Advanced Design System software tools for microwave subsystem design. For each lab, a report shall be prepared, to allow progress to be monitored and provide formative feedback. The module will be assessed via a design project requiring the students to develop a solution to an industrial problem from design to manufacture and test."
-      },
-      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAN307&psl_code=SEM1"
-    },
-    {
-      "heading": "Radio Propagation and Microwave Circuits",
-      "listing": {
-        "academic_year": "2026/27",
-        "domain_code": "CAN",
-        "full_name": "Radio Propagation and Microwave Circuits",
-        "module_code": "CAN307",
         "semester": "SEM2"
       },
       "overview": {

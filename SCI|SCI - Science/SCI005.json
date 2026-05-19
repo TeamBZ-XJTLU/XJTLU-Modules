@@ -4,31 +4,31 @@
     "domain_code": "SCI",
     "full_name": "Science"
   },
-  "full_name": "LIFE in the Sciences I",
-  "module_code": "SCI004",
+  "full_name": "LIFE in the Sciences II",
+  "module_code": "SCI005",
   "offerings": [
     {
-      "heading": "LIFE in the Sciences I",
+      "heading": "LIFE in the Sciences II",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "SCI",
-        "full_name": "LIFE in the Sciences I",
-        "module_code": "SCI004",
-        "semester": "SEM1"
+        "full_name": "LIFE in the Sciences II",
+        "module_code": "SCI005",
+        "semester": "SEM2"
       },
       "overview": {
         "Academic Year": "2026/27",
-        "Module Credits": "5",
+        "Module Credits": "2.5",
         "Module Level": "Level 0",
-        "Module Title": "LIFE in the Sciences I",
-        "Semester": "SEM1"
+        "Module Title": "LIFE in the Sciences II",
+        "Semester": "SEM2"
       },
       "sections": {
         "Aims and Fit of Module": "",
         "Learning outcomes": "",
         "Method of teaching and learning": ""
       },
-      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SCI004&psl_code=SEM1"
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SCI005&psl_code=SEM2"
     }
   ]
 }

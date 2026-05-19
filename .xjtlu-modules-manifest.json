@@ -55,7 +55,6 @@
     "APH|AOPHA - Academy of Pharmacy/APH003.json",
     "APH|AOPHA - Academy of Pharmacy/APH004.json",
     "APH|AOPHA - Academy of Pharmacy/APH005.json",
-    "APH|AOPHA - Academy of Pharmacy/APH006.json",
     "APH|AOPHA - Academy of Pharmacy/APH101.json",
     "APH|AOPHA - Academy of Pharmacy/APH103.json",
     "APH|AOPHA - Academy of Pharmacy/APH105.json",
@@ -1459,7 +1458,6 @@
     "IOTTC|IOT - Internet of things",
     "IOTTC|IOT - Internet of things/IOT001.json",
     "IOTTC|IOT - Internet of things/IOT003.json",
-    "IOTTC|IOT - Internet of things/IOT004TC.json",
     "IOTTC|IOT - Internet of things/IOT005TC.json",
     "IOTTC|IOT - Internet of things/IOT006.json",
     "IOTTC|IOT - Internet of things/IOT104TC.json",
@@ -2520,6 +2518,7 @@
     "SCI|SCI - Science/SCI002.json",
     "SCI|SCI - Science/SCI003.json",
     "SCI|SCI - Science/SCI004.json",
+    "SCI|SCI - Science/SCI005.json",
     "SCI|SCI - Science/SCI101.json",
     "SCI|SCI - Science/SCI102.json",
     "SCI|SCI - Science/SCI301.json",
@@ -2629,6 +2628,7 @@
     "TRI|LTS - Translation and Interpreting/TRI310.json",
     "UPD|UPD - Urban Planning and Design",
     "UPD|UPD - Urban Planning and Design/UPD004.json",
+    "UPD|UPD - Urban Planning and Design/UPD005.json",
     "UPD|UPD - Urban Planning and Design/UPD101.json",
     "UPD|UPD - Urban Planning and Design/UPD102.json",
     "UPD|UPD - Urban Planning and Design/UPD103.json",
@@ -2950,12 +2950,6 @@
       "module_code": "APH005",
       "module_level": "Level 0",
       "path": "APH|AOPHA - Academy of Pharmacy/APH005.json"
-    },
-    {
-      "full_name": "Fundamental Chemistry",
-      "module_code": "APH006",
-      "module_level": "Level 0",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH006.json"
     },
     {
       "full_name": "Biostatistics and R Programming",
@@ -11166,12 +11160,6 @@
       "path": "IOTTC|IOT - Internet of things/IOT003.json"
     },
     {
-      "full_name": "Foundations of Computing with AI",
-      "module_code": "IOT004TC",
-      "module_level": "Level 0",
-      "path": "IOTTC|IOT - Internet of things/IOT004TC.json"
-    },
-    {
       "full_name": "Exploring Advanced Technologies and Interdisciplinary Applications",
       "module_code": "IOT005TC",
       "module_level": "Level 0",
@@ -13974,7 +13962,7 @@
       "path": "MTH|APM - Mathematical Sciences/MTH033.json"
     },
     {
-      "full_name": "From Mathematical Basics to Visual Data",
+      "full_name": "From Mathematical Basics to Visual Data Analysis",
       "module_code": "MTH066",
       "module_level": "Level 0",
       "path": "MTH|APM - Mathematical Sciences/MTH066.json"
@@ -14688,7 +14676,7 @@
       "path": "MTH|FAM - Mathematical Sciences/MTH033.json"
     },
     {
-      "full_name": "From Mathematical Basics to Visual Data",
+      "full_name": "From Mathematical Basics to Visual Data Analysis",
       "module_code": "MTH066",
       "module_level": "Level 0",
       "path": "MTH|FAM - Mathematical Sciences/MTH066.json"
@@ -15402,7 +15390,7 @@
       "path": "MTH|MAT - Mathematical Sciences/MTH033.json"
     },
     {
-      "full_name": "From Mathematical Basics to Visual Data",
+      "full_name": "From Mathematical Basics to Visual Data Analysis",
       "module_code": "MTH066",
       "module_level": "Level 0",
       "path": "MTH|MAT - Mathematical Sciences/MTH066.json"
@@ -16116,7 +16104,7 @@
       "path": "MTH|MTH - Mathematical Sciences/MTH033.json"
     },
     {
-      "full_name": "From Mathematical Basics to Visual Data",
+      "full_name": "From Mathematical Basics to Visual Data Analysis",
       "module_code": "MTH066",
       "module_level": "Level 0",
       "path": "MTH|MTH - Mathematical Sciences/MTH066.json"
@@ -17364,10 +17352,16 @@
       "path": "SCI|SCI - Science/SCI003.json"
     },
     {
-      "full_name": "LIFE in the Life Sciences",
+      "full_name": "LIFE in the Sciences I",
       "module_code": "SCI004",
       "module_level": "Level 0",
       "path": "SCI|SCI - Science/SCI004.json"
+    },
+    {
+      "full_name": "LIFE in the Sciences II",
+      "module_code": "SCI005",
+      "module_level": "Level 0",
+      "path": "SCI|SCI - Science/SCI005.json"
     },
     {
       "full_name": "Introduction to Artificial Intelligence for Science",
@@ -17998,6 +17992,12 @@
       "module_code": "UPD004",
       "module_level": "Level 0",
       "path": "UPD|UPD - Urban Planning and Design/UPD004.json"
+    },
+    {
+      "full_name": "Future Cities 2",
+      "module_code": "UPD005",
+      "module_level": "Level 0",
+      "path": "UPD|UPD - Urban Planning and Design/UPD005.json"
     },
     {
       "full_name": "Issues and practice of planning in China I",
