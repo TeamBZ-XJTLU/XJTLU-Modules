@@ -55,6 +55,7 @@
     "APH|AOPHA - Academy of Pharmacy/APH003.json",
     "APH|AOPHA - Academy of Pharmacy/APH004.json",
     "APH|AOPHA - Academy of Pharmacy/APH005.json",
+    "APH|AOPHA - Academy of Pharmacy/APH007.json",
     "APH|AOPHA - Academy of Pharmacy/APH101.json",
     "APH|AOPHA - Academy of Pharmacy/APH103.json",
     "APH|AOPHA - Academy of Pharmacy/APH105.json",
@@ -601,6 +602,8 @@
     "DES|ARC - Design/DES004.json",
     "DES|ARC - Design/DES005.json",
     "DES|ARC - Design/DES006.json",
+    "DES|ARC - Design/DES007.json",
+    "DES|ARC - Design/DES008.json",
     "DES|ARC - Design/DES101.json",
     "DES|ARC - Design/DES102.json",
     "DES|ARC - Design/DES103.json",
@@ -624,6 +627,8 @@
     "DES|DES - Design/DES004.json",
     "DES|DES - Design/DES005.json",
     "DES|DES - Design/DES006.json",
+    "DES|DES - Design/DES007.json",
+    "DES|DES - Design/DES008.json",
     "DES|DES - Design/DES101.json",
     "DES|DES - Design/DES102.json",
     "DES|DES - Design/DES103.json",
@@ -2661,7 +2666,7 @@
     "XPU|LIFE - XIPU AI general education/XPU001.json",
     "XPU|LIFE - XIPU AI general education/XPU002.json"
   ],
-  "module_file_count": 2586,
+  "module_file_count": 2591,
   "modules": [
     {
       "full_name": "Exploring Data and the Digital World",
@@ -2950,6 +2955,12 @@
       "module_code": "APH005",
       "module_level": "Level 0",
       "path": "APH|AOPHA - Academy of Pharmacy/APH005.json"
+    },
+    {
+      "full_name": "Fundamental Chemistry",
+      "module_code": "APH007",
+      "module_level": "Level 0",
+      "path": "APH|AOPHA - Academy of Pharmacy/APH007.json"
     },
     {
       "full_name": "Biostatistics and R Programming",
@@ -6144,6 +6155,18 @@
       "path": "DES|ARC - Design/DES006.json"
     },
     {
+      "full_name": "AI-Era Ethics, Systems and Sustainability",
+      "module_code": "DES007",
+      "module_level": "Level 0",
+      "path": "DES|ARC - Design/DES007.json"
+    },
+    {
+      "full_name": "Interdisciplinary Design Challenge and Innovation",
+      "module_code": "DES008",
+      "module_level": "Level 0",
+      "path": "DES|ARC - Design/DES008.json"
+    },
+    {
       "full_name": "Regenerative Design",
       "module_code": "DES101",
       "module_level": "Level 1",
@@ -6274,6 +6297,18 @@
       "module_code": "DES006",
       "module_level": "Level 0",
       "path": "DES|DES - Design/DES006.json"
+    },
+    {
+      "full_name": "AI-Era Ethics, Systems and Sustainability",
+      "module_code": "DES007",
+      "module_level": "Level 0",
+      "path": "DES|DES - Design/DES007.json"
+    },
+    {
+      "full_name": "Interdisciplinary Design Challenge and Innovation",
+      "module_code": "DES008",
+      "module_level": "Level 0",
+      "path": "DES|DES - Design/DES008.json"
     },
     {
       "full_name": "Regenerative Design",
