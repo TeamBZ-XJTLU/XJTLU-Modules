@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOT",
+    "domain_code": "IOTTC",
+    "full_name": "Internet of things"
+  },
+  "full_name": "Foundations of Computing with AI",
+  "module_code": "IOT003TC",
+  "offerings": [
+    {
+      "heading": "Foundations of Computing with AI",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOTTC",
+        "full_name": "Foundations of Computing with AI",
+        "module_code": "IOT003TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Foundations of Computing with AI",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this Year 1 optional module is to introduce students with no programming experience to computer programming. The module will provide various programming knowledge using one or more programming languages for beginners: the module will cover various basic skills from introducing computer programs for programming and the installation/configuration, to how to use the programming languages. The basic digital knowledge for programming will be covered.",
+        "Learning outcomes": "A Understand the basic knowledge of programming B Demonstrate capacity to configure software for programming C Demonstrate basic programming skills by using a programming language",
+        "Method of teaching and learning": "This module is designed as a half-semester-long (block teaching) module considering teaching patterns for Year 1 students. A combination of lectures and lab sessions will be leveraged to enable the learning of academic content. Lectures will not only introduce various technologies or programs for programming but also deliver background knowledge of computer programming based on IoT scenarios. The students will have a set of exercises during the laboratory classes with a step-by-step analysis of example code and live programming guidance."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOT003TC&psl_code=SEM2"
+    }
+  ]
+}

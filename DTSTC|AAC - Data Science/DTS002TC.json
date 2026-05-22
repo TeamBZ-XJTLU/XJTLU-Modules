@@ -4,23 +4,23 @@
     "domain_code": "DTSTC",
     "full_name": "Data Science"
   },
-  "full_name": "Essentials of Big Data",
+  "full_name": "Introduction to Python",
   "module_code": "DTS002TC",
   "offerings": [
     {
-      "heading": "Essentials of Big Data",
+      "heading": "Introduction to Python",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "DTSTC",
-        "full_name": "Essentials of Big Data",
+        "full_name": "Introduction to Python",
         "module_code": "DTS002TC",
         "semester": "SEM2"
       },
       "overview": {
         "Academic Year": "2026/27",
-        "Module Credits": "5",
+        "Module Credits": "2.5",
         "Module Level": "Level 0",
-        "Module Title": "Essentials of Big Data",
+        "Module Title": "Introduction to Python",
         "Semester": "SEM2"
       },
       "sections": {

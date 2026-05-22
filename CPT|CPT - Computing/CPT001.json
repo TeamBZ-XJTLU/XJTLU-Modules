@@ -4,15 +4,15 @@
     "domain_code": "CPT",
     "full_name": "Computing"
   },
-  "full_name": "Professional Skills in Computer Science",
+  "full_name": "Foundations and Professional Practice in Computer Science",
   "module_code": "CPT001",
   "offerings": [
     {
-      "heading": "Professional Skills in Computer Science",
+      "heading": "Foundations and Professional Practice in Computer Science",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "CPT",
-        "full_name": "Professional Skills in Computer Science",
+        "full_name": "Foundations and Professional Practice in Computer Science",
         "module_code": "CPT001",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "2.5",
         "Module Level": "Level 0",
-        "Module Title": "Professional Skills in Computer Science",
+        "Module Title": "Foundations and Professional Practice in Computer Science",
         "Semester": "SEM2"
       },
       "sections": {

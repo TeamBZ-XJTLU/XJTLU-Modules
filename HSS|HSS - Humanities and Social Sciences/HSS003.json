@@ -4,15 +4,15 @@
     "domain_code": "HSS",
     "full_name": "Humanities and Social Sciences"
   },
-  "full_name": "HSS Futures: Humanities and Social Sciences in the Digital Age",
+  "full_name": "HSS Futures",
   "module_code": "HSS003",
   "offerings": [
     {
-      "heading": "HSS Futures: Humanities and Social Sciences in the Digital Age",
+      "heading": "HSS Futures",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "HSS",
-        "full_name": "HSS Futures: Humanities and Social Sciences in the Digital Age",
+        "full_name": "HSS Futures",
         "module_code": "HSS003",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "2.5",
         "Module Level": "Level 0",
-        "Module Title": "HSS Futures: Humanities and Social Sciences in the Digital Age",
+        "Module Title": "HSS Futures",
         "Semester": "SEM1"
       },
       "sections": {

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Exploring Intelligent Supply Chains with Smart Business Practices",
+  "module_code": "IFB001TC",
+  "offerings": [
+    {
+      "heading": "Exploring Intelligent Supply Chains with Smart Business Practices",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Exploring Intelligent Supply Chains with Smart Business Practices",
+        "module_code": "IFB001TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Exploring Intelligent Supply Chains with Smart Business Practices",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to the fundamentals of intelligent supply chains and their role in modern business practices across various industries, such as pharmaceuticals, steel, manufacturing, retail, and finance. It explores how emerging technologies like AI, IoT, and big data are reshaping supply chain operations while examining the broader impact of digital trends on business models. By integrating cross-industry analysis with practical case studies, the course equips students with critical analytical skills and foundational knowledge, fostering their interest in advanced studies and careers in supply chain management and digital business.",
+        "Learning outcomes": "A Explain the key concepts of intelligent supply chains and their applications across industries, demonstrating understanding through case study analysis and industry-specific examples. B Apply supply chain principles to analyze and address industry-specific challenges. C Evaluate the impact of emerging technologies on supply chain efficiency and resilience.",
+        "Method of teaching and learning": "This module will be delivered through a combination of lectures and seminars. • Lectures deliver foundational knowledge about intelligent supply chains, covering key concepts and technologies like AI, IoT, and big data, while incorporating interactive elements such as polls and Q&A sessions. • Seminars build on this foundation through active learning activities. Students analyze real-world case studies across various industries, participate in group discussions facilitated by industry speakers, and conduct industry comparisons through small group work. Students engage with technology demonstrations and participate in simulation activities that require decision-making about supply chain configurations. Peer teaching moments are incorporated, where small groups present their understanding of specific technologies or case studies to the larger class. These varied approaches work together to develop students' analytical skills and critical thinking abilities, preparing them to engage with the complexities of modern supply chain management."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB001TC&psl_code=SEM1"
+    }
+  ]
+}

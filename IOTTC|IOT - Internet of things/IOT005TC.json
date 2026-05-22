@@ -4,15 +4,15 @@
     "domain_code": "IOTTC",
     "full_name": "Internet of things"
   },
-  "full_name": "Exploring Advanced Technologies and Interdisciplinary Applications",
+  "full_name": "AIoT Systems and Smart Solutions",
   "module_code": "IOT005TC",
   "offerings": [
     {
-      "heading": "Exploring Advanced Technologies and Interdisciplinary Applications",
+      "heading": "AIoT Systems and Smart Solutions",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "IOTTC",
-        "full_name": "Exploring Advanced Technologies and Interdisciplinary Applications",
+        "full_name": "AIoT Systems and Smart Solutions",
         "module_code": "IOT005TC",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "2.5",
         "Module Level": "Level 0",
-        "Module Title": "Exploring Advanced Technologies and Interdisciplinary Applications",
+        "Module Title": "AIoT Systems and Smart Solutions",
         "Semester": "SEM2"
       },
       "sections": {

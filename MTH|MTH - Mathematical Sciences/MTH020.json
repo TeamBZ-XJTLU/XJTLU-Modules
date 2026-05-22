@@ -4,15 +4,15 @@
     "domain_code": "MTH",
     "full_name": "Mathematical Sciences"
   },
-  "full_name": "Introductory Mathematical Modelling",
+  "full_name": "Modelling the Real World: Gateway to Applied Math and Physics",
   "module_code": "MTH020",
   "offerings": [
     {
-      "heading": "Introductory Mathematical Modelling",
+      "heading": "Modelling the Real World: Gateway to Applied Math and Physics",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "MTH",
-        "full_name": "Introductory Mathematical Modelling",
+        "full_name": "Modelling the Real World: Gateway to Applied Math and Physics",
         "module_code": "MTH020",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "2.5",
         "Module Level": "Level 0",
-        "Module Title": "Introductory Mathematical Modelling",
+        "Module Title": "Modelling the Real World: Gateway to Applied Math and Physics",
         "Semester": "SEM1"
       },
       "sections": {
