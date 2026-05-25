@@ -5,8 +5,8 @@
   "errors": [],
   "generated_paths": [
     "AAC|AAC - School of AI and Advanced Computing",
-    "AAC|AAC - School of AI and Advanced Computing/AAC001.json",
-    "AAC|AAC - School of AI and Advanced Computing/AAC002.json",
+    "AAC|AAC - School of AI and Advanced Computing/AAC001TC.json",
+    "AAC|AAC - School of AI and Advanced Computing/AAC002TC.json",
     "ACC|ACC - Accounting",
     "ACC|ACC - Accounting/ACC002.json",
     "ACC|ACC - Accounting/ACC101.json",
@@ -149,7 +149,6 @@
     "APH|AOPHA - Academy of Pharmacy/APH438.json",
     "APH|AOPHA - Academy of Pharmacy/APH439.json",
     "ARC|ARC - Architecture",
-    "ARC|ARC - Architecture/ARC001.json",
     "ARC|ARC - Architecture/ARC002.json",
     "ARC|ARC - Architecture/ARC003.json",
     "ARC|ARC - Architecture/ARC004.json",
@@ -267,7 +266,6 @@
     "CAN|CAN - Communications and Networking/CAN408.json",
     "CAN|CAN - Communications and Networking/CAN409.json",
     "CATTC|AFCT - Cultural Technology",
-    "CATTC|AFCT - Cultural Technology/CAT001.json",
     "CATTC|AFCT - Cultural Technology/CAT001TC.json",
     "CATTC|AFCT - Cultural Technology/CAT002TC.json",
     "CATTC|AFCT - Cultural Technology/CAT003.json",
@@ -295,9 +293,7 @@
     "CATTC|AFCT - Cultural Technology/CAT302TC.json",
     "CATTC|AFCT - Cultural Technology/CAT304TC.json",
     "CATTC|AFCT - Cultural Technology/CAT401TC.json",
-    "CATTC|AFCT - Cultural Technology/CAT402TC.json",
     "CATTC|AFCT - Cultural Technology/CAT403TC.json",
-    "CATTC|AFCT - Cultural Technology/CAT404TC.json",
     "CATTC|AFCT - Cultural Technology/CAT405TC.json",
     "CATTC|AFCT - Cultural Technology/CAT406TC.json",
     "CATTC|AFCT - Cultural Technology/CAT407TC.json",
@@ -601,7 +597,6 @@
     "DES|ARC - Design/DES002.json",
     "DES|ARC - Design/DES003.json",
     "DES|ARC - Design/DES004.json",
-    "DES|ARC - Design/DES005.json",
     "DES|ARC - Design/DES006.json",
     "DES|ARC - Design/DES007.json",
     "DES|ARC - Design/DES008.json",
@@ -626,7 +621,6 @@
     "DES|DES - Design/DES002.json",
     "DES|DES - Design/DES003.json",
     "DES|DES - Design/DES004.json",
-    "DES|DES - Design/DES005.json",
     "DES|DES - Design/DES006.json",
     "DES|DES - Design/DES007.json",
     "DES|DES - Design/DES008.json",
@@ -650,7 +644,6 @@
     "DTSTC|AAC - Data Science",
     "DTSTC|AAC - Data Science/DTS001.json",
     "DTSTC|AAC - Data Science/DTS002TC.json",
-    "DTSTC|AAC - Data Science/DTS003.json",
     "DTSTC|AAC - Data Science/DTS004TC.json",
     "DTSTC|AAC - Data Science/DTS101TC.json",
     "DTSTC|AAC - Data Science/DTS102TC.json",
@@ -917,7 +910,7 @@
     "EEE|EEE - Electrical and Electronic Engineering/EEE421.json",
     "ENT|CIEHX - Entrepreneurship",
     "ENT|CIEHX - Entrepreneurship/ENT003TC.json",
-    "ENT|CIEHX - Entrepreneurship/ENT005.json",
+    "ENT|CIEHX - Entrepreneurship/ENT005TC.json",
     "ENT|CIEHX - Entrepreneurship/ENT103TC.json",
     "ENT|CIEHX - Entrepreneurship/ENT105TC.json",
     "ENT|CIEHX - Entrepreneurship/ENT110TC.json",
@@ -960,7 +953,7 @@
     "ENT|CIEHX - Entrepreneurship/HXA411TC.json",
     "ENT|EEH - Entrepreneurship",
     "ENT|EEH - Entrepreneurship/ENT003TC.json",
-    "ENT|EEH - Entrepreneurship/ENT005.json",
+    "ENT|EEH - Entrepreneurship/ENT005TC.json",
     "ENT|EEH - Entrepreneurship/ENT103TC.json",
     "ENT|EEH - Entrepreneurship/ENT105TC.json",
     "ENT|EEH - Entrepreneurship/ENT110TC.json",
@@ -1089,16 +1082,13 @@
     "FIN|FIN - Finance/FIN432.json",
     "FIN|FIN - Finance/FIN433.json",
     "FTA|AFCT - Film and TV",
-    "FTA|AFCT - Film and TV/FTA002.json",
     "FTA|AFCT - Film and TV/FTA003.json",
-    "FTA|AFCT - Film and TV/FTA004.json",
     "FTA|AFCT - Film and TV/FTA005.json",
     "FTA|AFCT - Film and TV/FTA006.json",
     "FTA|AFCT - Film and TV/FTA007.json",
     "FTA|AFCT - Film and TV/FTA008.json",
     "FTA|AFCT - Film and TV/FTA009.json",
     "FTA|AFCT - Film and TV/FTA102.json",
-    "FTA|AFCT - Film and TV/FTA105.json",
     "FTA|AFCT - Film and TV/FTA108.json",
     "FTA|AFCT - Film and TV/FTA109.json",
     "FTA|AFCT - Film and TV/FTA110.json",
@@ -1108,7 +1098,6 @@
     "FTA|AFCT - Film and TV/FTA114.json",
     "FTA|AFCT - Film and TV/FTA115.json",
     "FTA|AFCT - Film and TV/FTA116.json",
-    "FTA|AFCT - Film and TV/FTA117.json",
     "FTA|AFCT - Film and TV/FTA118.json",
     "FTA|AFCT - Film and TV/FTA119.json",
     "FTA|AFCT - Film and TV/FTA120.json",
@@ -1128,11 +1117,9 @@
     "FTA|AFCT - Film and TV/FTA210.json",
     "FTA|AFCT - Film and TV/FTA211.json",
     "FTA|AFCT - Film and TV/FTA212.json",
-    "FTA|AFCT - Film and TV/FTA213.json",
     "FTA|AFCT - Film and TV/FTA214.json",
     "FTA|AFCT - Film and TV/FTA215.json",
     "FTA|AFCT - Film and TV/FTA216.json",
-    "FTA|AFCT - Film and TV/FTA217.json",
     "FTA|AFCT - Film and TV/FTA218.json",
     "FTA|AFCT - Film and TV/FTA219.json",
     "FTA|AFCT - Film and TV/FTA220.json",
@@ -1168,16 +1155,13 @@
     "FTA|AFCT - Film and TV/FTA429.json",
     "FTA|AFCT - Film and TV/FTA430.json",
     "FTA|AFCT - Film and TV/FTA431.json",
-    "FTA|AFCT - Film and TV/FTA432.json",
     "FTA|AFCT - Film and TV/FTA433.json",
     "FTA|AFCT - Film and TV/FTA434.json",
     "FTA|AFCT - Film and TV/FTA435.json",
     "FTA|AFCT - Film and TV/FTA436.json",
-    "FTA|AFCT - Film and TV/FTA438.json",
     "FTA|AFCT - Film and TV/FTA439.json",
     "FTA|AFCT - Film and TV/FTA440.json",
     "FTA|AFCT - Film and TV/FTA441.json",
-    "FTA|AFCT - Film and TV/FTA444.json",
     "FTA|AFCT - Film and TV/FTA445.json",
     "FTA|AFCT - Film and TV/FTA448.json",
     "FTA|AFCT - Film and TV/FTA450.json",
@@ -1208,7 +1192,7 @@
     "IFBTC|IFS - Intelligent Finance and Business",
     "IFBTC|IFS - Intelligent Finance and Business/IFB001TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB002TC.json",
-    "IFBTC|IFS - Intelligent Finance and Business/IFB003.json",
+    "IFBTC|IFS - Intelligent Finance and Business/IFB003TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB101TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB102TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB103TC.json",
@@ -1278,7 +1262,6 @@
     "IFBTC|IFS - Intelligent Finance and Business/IFB432TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB433TC.json",
     "IND|IND - Industrial Design",
-    "IND|IND - Industrial Design/IND002.json",
     "IND|IND - Industrial Design/IND101.json",
     "IND|IND - Industrial Design/IND106.json",
     "IND|IND - Industrial Design/IND108.json",
@@ -1466,7 +1449,6 @@
     "IOTTC|IOT - Internet of things/IOT001TC.json",
     "IOTTC|IOT - Internet of things/IOT003TC.json",
     "IOTTC|IOT - Internet of things/IOT005TC.json",
-    "IOTTC|IOT - Internet of things/IOT006.json",
     "IOTTC|IOT - Internet of things/IOT104TC.json",
     "IOTTC|IOT - Internet of things/IOT105TC.json",
     "IOTTC|IOT - Internet of things/IOT106TC.json",
@@ -1504,7 +1486,6 @@
     "JPL|MLC - Japanese Language/JPL006.json",
     "JPL|MLC - Japanese Language/JPL007.json",
     "JPL|MLC - Japanese Language/JPL008.json",
-    "JPL|MLC - Japanese Language/JPL009.json",
     "JPL|MLC - Japanese Language/JPL010.json",
     "JPL|MLC - Japanese Language/JPL011.json",
     "JPL|MLC - Japanese Language/JPL012.json",
@@ -1808,10 +1789,9 @@
     "MEC|MEC - Mechatronics and Robotics/MEC307.json",
     "MEC|MEC - Mechatronics and Robotics/MEC309.json",
     "MESTC|CHP - Microelectronic Science and Engineering",
-    "MESTC|CHP - Microelectronic Science and Engineering/MES001.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES001TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES002.json",
-    "MESTC|CHP - Microelectronic Science and Engineering/MES003.json",
+    "MESTC|CHP - Microelectronic Science and Engineering/MES003TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES102TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES103TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES104TC.json",
@@ -1845,10 +1825,9 @@
     "MESTC|CHP - Microelectronic Science and Engineering/MES408TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES409TC.json",
     "MESTC|IME - Microelectronic Science and Engineering",
-    "MESTC|IME - Microelectronic Science and Engineering/MES001.json",
     "MESTC|IME - Microelectronic Science and Engineering/MES001TC.json",
     "MESTC|IME - Microelectronic Science and Engineering/MES002.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES003.json",
+    "MESTC|IME - Microelectronic Science and Engineering/MES003TC.json",
     "MESTC|IME - Microelectronic Science and Engineering/MES102TC.json",
     "MESTC|IME - Microelectronic Science and Engineering/MES103TC.json",
     "MESTC|IME - Microelectronic Science and Engineering/MES104TC.json",
@@ -1935,7 +1914,6 @@
     "MTH|APM - Mathematical Sciences/MTH012.json",
     "MTH|APM - Mathematical Sciences/MTH013.json",
     "MTH|APM - Mathematical Sciences/MTH015.json",
-    "MTH|APM - Mathematical Sciences/MTH016.json",
     "MTH|APM - Mathematical Sciences/MTH017.json",
     "MTH|APM - Mathematical Sciences/MTH019.json",
     "MTH|APM - Mathematical Sciences/MTH020.json",
@@ -1984,7 +1962,6 @@
     "MTH|APM - Mathematical Sciences/MTH217.json",
     "MTH|APM - Mathematical Sciences/MTH219.json",
     "MTH|APM - Mathematical Sciences/MTH222.json",
-    "MTH|APM - Mathematical Sciences/MTH223.json",
     "MTH|APM - Mathematical Sciences/MTH224.json",
     "MTH|APM - Mathematical Sciences/MTH227.json",
     "MTH|APM - Mathematical Sciences/MTH229.json",
@@ -2055,7 +2032,6 @@
     "MTH|FAM - Mathematical Sciences/MTH012.json",
     "MTH|FAM - Mathematical Sciences/MTH013.json",
     "MTH|FAM - Mathematical Sciences/MTH015.json",
-    "MTH|FAM - Mathematical Sciences/MTH016.json",
     "MTH|FAM - Mathematical Sciences/MTH017.json",
     "MTH|FAM - Mathematical Sciences/MTH019.json",
     "MTH|FAM - Mathematical Sciences/MTH020.json",
@@ -2104,7 +2080,6 @@
     "MTH|FAM - Mathematical Sciences/MTH217.json",
     "MTH|FAM - Mathematical Sciences/MTH219.json",
     "MTH|FAM - Mathematical Sciences/MTH222.json",
-    "MTH|FAM - Mathematical Sciences/MTH223.json",
     "MTH|FAM - Mathematical Sciences/MTH224.json",
     "MTH|FAM - Mathematical Sciences/MTH227.json",
     "MTH|FAM - Mathematical Sciences/MTH229.json",
@@ -2175,7 +2150,6 @@
     "MTH|MAT - Mathematical Sciences/MTH012.json",
     "MTH|MAT - Mathematical Sciences/MTH013.json",
     "MTH|MAT - Mathematical Sciences/MTH015.json",
-    "MTH|MAT - Mathematical Sciences/MTH016.json",
     "MTH|MAT - Mathematical Sciences/MTH017.json",
     "MTH|MAT - Mathematical Sciences/MTH019.json",
     "MTH|MAT - Mathematical Sciences/MTH020.json",
@@ -2224,7 +2198,6 @@
     "MTH|MAT - Mathematical Sciences/MTH217.json",
     "MTH|MAT - Mathematical Sciences/MTH219.json",
     "MTH|MAT - Mathematical Sciences/MTH222.json",
-    "MTH|MAT - Mathematical Sciences/MTH223.json",
     "MTH|MAT - Mathematical Sciences/MTH224.json",
     "MTH|MAT - Mathematical Sciences/MTH227.json",
     "MTH|MAT - Mathematical Sciences/MTH229.json",
@@ -2295,7 +2268,6 @@
     "MTH|MTH - Mathematical Sciences/MTH012.json",
     "MTH|MTH - Mathematical Sciences/MTH013.json",
     "MTH|MTH - Mathematical Sciences/MTH015.json",
-    "MTH|MTH - Mathematical Sciences/MTH016.json",
     "MTH|MTH - Mathematical Sciences/MTH017.json",
     "MTH|MTH - Mathematical Sciences/MTH019.json",
     "MTH|MTH - Mathematical Sciences/MTH020.json",
@@ -2344,7 +2316,6 @@
     "MTH|MTH - Mathematical Sciences/MTH217.json",
     "MTH|MTH - Mathematical Sciences/MTH219.json",
     "MTH|MTH - Mathematical Sciences/MTH222.json",
-    "MTH|MTH - Mathematical Sciences/MTH223.json",
     "MTH|MTH - Mathematical Sciences/MTH224.json",
     "MTH|MTH - Mathematical Sciences/MTH227.json",
     "MTH|MTH - Mathematical Sciences/MTH229.json",
@@ -2471,8 +2442,8 @@
     "PHY|PHY - Physics/PHY311.json",
     "PHY|PHY - Physics/PHY312.json",
     "RBETC|IRE - Robotics",
-    "RBETC|IRE - Robotics/RBE001.json",
-    "RBETC|IRE - Robotics/RBE002.json",
+    "RBETC|IRE - Robotics/RBE001TC.json",
+    "RBETC|IRE - Robotics/RBE002TC.json",
     "RBETC|IRE - Robotics/RBE101TC.json",
     "RBETC|IRE - Robotics/RBE102TC.json",
     "RBETC|IRE - Robotics/RBE103TC.json",
@@ -2601,8 +2572,6 @@
     "SPA|MLC - Spanish/SPA007.json",
     "SPA|MLC - Spanish/SPA008.json",
     "SPA|MLC - Spanish/SPA009.json",
-    "SPA|MLC - Spanish/SPA010.json",
-    "SPA|MLC - Spanish/SPA011.json",
     "SPA|MLC - Spanish/SPA012.json",
     "SPA|MLC - Spanish/SPA013.json",
     "SPA|MLC - Spanish/SPA014.json",
@@ -2670,19 +2639,19 @@
     "XPU|LIFE - XIPU AI general education/XPU001.json",
     "XPU|LIFE - XIPU AI general education/XPU002.json"
   ],
-  "module_file_count": 2595,
+  "module_file_count": 2564,
   "modules": [
     {
       "full_name": "Exploring Data and the Digital World",
-      "module_code": "AAC001",
+      "module_code": "AAC001TC",
       "module_level": "Level 0",
-      "path": "AAC|AAC - School of AI and Advanced Computing/AAC001.json"
+      "path": "AAC|AAC - School of AI and Advanced Computing/AAC001TC.json"
     },
     {
       "full_name": "Artificial Intelligence in Practice",
-      "module_code": "AAC002",
+      "module_code": "AAC002TC",
       "module_level": "Level 0",
-      "path": "AAC|AAC - School of AI and Advanced Computing/AAC002.json"
+      "path": "AAC|AAC - School of AI and Advanced Computing/AAC002TC.json"
     },
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -3519,12 +3488,6 @@
       "path": "APH|AOPHA - Academy of Pharmacy/APH439.json"
     },
     {
-      "full_name": "Explore Architecture and Visual Culture",
-      "module_code": "ARC001",
-      "module_level": "Level 0",
-      "path": "ARC|ARC - Architecture/ARC001.json"
-    },
-    {
       "full_name": "Architectural representation and communication",
       "module_code": "ARC002",
       "module_level": "Level 0",
@@ -4198,12 +4161,6 @@
     },
     {
       "full_name": "Exploring Game Design Concept Generation",
-      "module_code": "CAT001",
-      "module_level": "Level 0",
-      "path": "CATTC|AFCT - Cultural Technology/CAT001.json"
-    },
-    {
-      "full_name": "Exploring Game Design Concept Generation",
       "module_code": "CAT001TC",
       "module_level": "Level 0",
       "path": "CATTC|AFCT - Cultural Technology/CAT001TC.json"
@@ -4365,22 +4322,10 @@
       "path": "CATTC|AFCT - Cultural Technology/CAT401TC.json"
     },
     {
-      "full_name": "Game Industry and Culture",
-      "module_code": "CAT402TC",
-      "module_level": "Level 4",
-      "path": "CATTC|AFCT - Cultural Technology/CAT402TC.json"
-    },
-    {
       "full_name": "Interactive Technology",
       "module_code": "CAT403TC",
       "module_level": "Level 4",
       "path": "CATTC|AFCT - Cultural Technology/CAT403TC.json"
-    },
-    {
-      "full_name": "Interactive Media Research Project",
-      "module_code": "CAT404TC",
-      "module_level": "Level 4",
-      "path": "CATTC|AFCT - Cultural Technology/CAT404TC.json"
     },
     {
       "full_name": "Game Industries and Culture",
@@ -6147,16 +6092,10 @@
       "path": "DES|ARC - Design/DES003.json"
     },
     {
-      "full_name": "Future Cities",
+      "full_name": "Future Cities 1",
       "module_code": "DES004",
       "module_level": "Level 0",
       "path": "DES|ARC - Design/DES004.json"
-    },
-    {
-      "full_name": "Community Garden Innovation Lab",
-      "module_code": "DES005",
-      "module_level": "Level 0",
-      "path": "DES|ARC - Design/DES005.json"
     },
     {
       "full_name": "Designing Intelligent Futures",
@@ -6291,16 +6230,10 @@
       "path": "DES|DES - Design/DES003.json"
     },
     {
-      "full_name": "Future Cities",
+      "full_name": "Future Cities 1",
       "module_code": "DES004",
       "module_level": "Level 0",
       "path": "DES|DES - Design/DES004.json"
-    },
-    {
-      "full_name": "Community Garden Innovation Lab",
-      "module_code": "DES005",
-      "module_level": "Level 0",
-      "path": "DES|DES - Design/DES005.json"
     },
     {
       "full_name": "Designing Intelligent Futures",
@@ -6433,12 +6366,6 @@
       "module_code": "DTS002TC",
       "module_level": "Level 0",
       "path": "DTSTC|AAC - Data Science/DTS002TC.json"
-    },
-    {
-      "full_name": "AI and Entrepreneurial Innovation",
-      "module_code": "DTS003",
-      "module_level": "Level 0",
-      "path": "DTSTC|AAC - Data Science/DTS003.json"
     },
     {
       "full_name": "Introduction to AI",
@@ -8002,9 +7929,9 @@
     },
     {
       "full_name": "SE - Technology Initiatives",
-      "module_code": "ENT005",
+      "module_code": "ENT005TC",
       "module_level": "Level 0",
-      "path": "ENT|CIEHX - Entrepreneurship/ENT005.json"
+      "path": "ENT|CIEHX - Entrepreneurship/ENT005TC.json"
     },
     {
       "full_name": "Creative Innovator’s Toolkit",
@@ -8254,9 +8181,9 @@
     },
     {
       "full_name": "SE - Technology Initiatives",
-      "module_code": "ENT005",
+      "module_code": "ENT005TC",
       "module_level": "Level 0",
-      "path": "ENT|EEH - Entrepreneurship/ENT005.json"
+      "path": "ENT|EEH - Entrepreneurship/ENT005TC.json"
     },
     {
       "full_name": "Creative Innovator’s Toolkit",
@@ -9009,22 +8936,10 @@
       "path": "FIN|FIN - Finance/FIN433.json"
     },
     {
-      "full_name": "Start Digital Media Arts",
-      "module_code": "FTA002",
-      "module_level": "Level 0",
-      "path": "FTA|AFCT - Film and TV/FTA002.json"
-    },
-    {
       "full_name": "Explore Creativity in Digital Media Arts",
       "module_code": "FTA003",
       "module_level": "Level 0",
       "path": "FTA|AFCT - Film and TV/FTA003.json"
-    },
-    {
-      "full_name": "Start Film and Television Production",
-      "module_code": "FTA004",
-      "module_level": "Level 0",
-      "path": "FTA|AFCT - Film and TV/FTA004.json"
     },
     {
       "full_name": "Film Appreciation",
@@ -9061,12 +8976,6 @@
       "module_code": "FTA102",
       "module_level": "Level 1",
       "path": "FTA|AFCT - Film and TV/FTA102.json"
-    },
-    {
-      "full_name": "Documentary Theory and Practice",
-      "module_code": "FTA105",
-      "module_level": "Level 1",
-      "path": "FTA|AFCT - Film and TV/FTA105.json"
     },
     {
       "full_name": "Fiction Theory and Practice",
@@ -9121,12 +9030,6 @@
       "module_code": "FTA116",
       "module_level": "Level 1",
       "path": "FTA|AFCT - Film and TV/FTA116.json"
-    },
-    {
-      "full_name": "Introduction to Storytelling",
-      "module_code": "FTA117",
-      "module_level": "Level 1",
-      "path": "FTA|AFCT - Film and TV/FTA117.json"
     },
     {
       "full_name": "Studio Roles and Responsibilities",
@@ -9243,12 +9146,6 @@
       "path": "FTA|AFCT - Film and TV/FTA212.json"
     },
     {
-      "full_name": "Film and TV Cultures",
-      "module_code": "FTA213",
-      "module_level": "Level 2",
-      "path": "FTA|AFCT - Film and TV/FTA213.json"
-    },
-    {
       "full_name": "The Art of Cinematography",
       "module_code": "FTA214",
       "module_level": "Level 2",
@@ -9265,12 +9162,6 @@
       "module_code": "FTA216",
       "module_level": "Level 2",
       "path": "FTA|AFCT - Film and TV/FTA216.json"
-    },
-    {
-      "full_name": "Film History",
-      "module_code": "FTA217",
-      "module_level": "Level 2",
-      "path": "FTA|AFCT - Film and TV/FTA217.json"
     },
     {
       "full_name": "Minor Film Project",
@@ -9483,12 +9374,6 @@
       "path": "FTA|AFCT - Film and TV/FTA431.json"
     },
     {
-      "full_name": "Content Producing Research Project",
-      "module_code": "FTA432",
-      "module_level": "Level 4",
-      "path": "FTA|AFCT - Film and TV/FTA432.json"
-    },
-    {
       "full_name": "Advanced Visual Storytelling Techniques",
       "module_code": "FTA433",
       "module_level": "Level 4",
@@ -9513,12 +9398,6 @@
       "path": "FTA|AFCT - Film and TV/FTA436.json"
     },
     {
-      "full_name": "Creative Industries Research Project",
-      "module_code": "FTA438",
-      "module_level": "Level 4",
-      "path": "FTA|AFCT - Film and TV/FTA438.json"
-    },
-    {
       "full_name": "Techniques For Creative Industries",
       "module_code": "FTA439",
       "module_level": "Level 4",
@@ -9535,12 +9414,6 @@
       "module_code": "FTA441",
       "module_level": "Level 4",
       "path": "FTA|AFCT - Film and TV/FTA441.json"
-    },
-    {
-      "full_name": "Cultural Industries Research Project",
-      "module_code": "FTA444",
-      "module_level": "Level 4",
-      "path": "FTA|AFCT - Film and TV/FTA444.json"
     },
     {
       "full_name": "Curation Project",
@@ -9585,7 +9458,7 @@
       "path": "HSS|HSS - Humanities and Social Sciences/HSS004.json"
     },
     {
-      "full_name": "Creativity in Motion: Communicating Through Games and Digital Media",
+      "full_name": "Contemporary Pop Culture & Creativity",
       "module_code": "HSS005",
       "module_level": "Level 0",
       "path": "HSS|HSS - Humanities and Social Sciences/HSS005.json"
@@ -9700,9 +9573,9 @@
     },
     {
       "full_name": "Exploring Intelligent Supply Chains with Syntegrative Technologies",
-      "module_code": "IFB003",
+      "module_code": "IFB003TC",
       "module_level": "Level 0",
-      "path": "IFBTC|IFS - Intelligent Finance and Business/IFB003.json"
+      "path": "IFBTC|IFS - Intelligent Finance and Business/IFB003TC.json"
     },
     {
       "full_name": "Analytical Tools In Management Science",
@@ -10111,12 +9984,6 @@
       "module_code": "IFB433TC",
       "module_level": "Level 4",
       "path": "IFBTC|IFS - Intelligent Finance and Business/IFB433TC.json"
-    },
-    {
-      "full_name": "Introduction To Industrial Design",
-      "module_code": "IND002",
-      "module_level": "Level 0",
-      "path": "IND|IND - Industrial Design/IND002.json"
     },
     {
       "full_name": "Studio 1 - Design Principles",
@@ -11217,12 +11084,6 @@
       "path": "IOTTC|IOT - Internet of things/IOT005TC.json"
     },
     {
-      "full_name": "IoT Systems and Smart Solutions",
-      "module_code": "IOT006",
-      "module_level": "Level 0",
-      "path": "IOTTC|IOT - Internet of things/IOT006.json"
-    },
-    {
       "full_name": "Introduction to Internet of Things",
       "module_code": "IOT104TC",
       "module_level": "Level 1",
@@ -11437,12 +11298,6 @@
       "module_code": "JPL008",
       "module_level": "Level 0",
       "path": "JPL|MLC - Japanese Language/JPL008.json"
-    },
-    {
-      "full_name": "Japan through Anime",
-      "module_code": "JPL009",
-      "module_level": "Level 0",
-      "path": "JPL|MLC - Japanese Language/JPL009.json"
     },
     {
       "full_name": "Japanese Language 1: Part 1",
@@ -13186,12 +13041,6 @@
     },
     {
       "full_name": "Introduction to Nanotechnology",
-      "module_code": "MES001",
-      "module_level": "Level 0",
-      "path": "MESTC|CHP - Microelectronic Science and Engineering/MES001.json"
-    },
-    {
-      "full_name": "Introduction to Nanotechnology",
       "module_code": "MES001TC",
       "module_level": "Level 0",
       "path": "MESTC|CHP - Microelectronic Science and Engineering/MES001TC.json"
@@ -13204,9 +13053,9 @@
     },
     {
       "full_name": "An rudimentary introduction to artifical intelligience and its VLSI implementation",
-      "module_code": "MES003",
+      "module_code": "MES003TC",
       "module_level": "Level 0",
-      "path": "MESTC|CHP - Microelectronic Science and Engineering/MES003.json"
+      "path": "MESTC|CHP - Microelectronic Science and Engineering/MES003TC.json"
     },
     {
       "full_name": "Experimental, Computer Skills and Sustainability",
@@ -13402,12 +13251,6 @@
     },
     {
       "full_name": "Introduction to Nanotechnology",
-      "module_code": "MES001",
-      "module_level": "Level 0",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES001.json"
-    },
-    {
-      "full_name": "Introduction to Nanotechnology",
       "module_code": "MES001TC",
       "module_level": "Level 0",
       "path": "MESTC|IME - Microelectronic Science and Engineering/MES001TC.json"
@@ -13420,9 +13263,9 @@
     },
     {
       "full_name": "An rudimentary introduction to artifical intelligience and its VLSI implementation",
-      "module_code": "MES003",
+      "module_code": "MES003TC",
       "module_level": "Level 0",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES003.json"
+      "path": "MESTC|IME - Microelectronic Science and Engineering/MES003TC.json"
     },
     {
       "full_name": "Experimental, Computer Skills and Sustainability",
@@ -13929,12 +13772,6 @@
       "path": "MTH|APM - Mathematical Sciences/MTH015.json"
     },
     {
-      "full_name": "Introduction to Financial Modelling",
-      "module_code": "MTH016",
-      "module_level": "Level 0",
-      "path": "MTH|APM - Mathematical Sciences/MTH016.json"
-    },
-    {
       "full_name": "Linear Algebra for Mathematical Science",
       "module_code": "MTH017",
       "module_level": "Level 0",
@@ -14221,12 +14058,6 @@
       "module_code": "MTH222",
       "module_level": "Level 2",
       "path": "MTH|APM - Mathematical Sciences/MTH222.json"
-    },
-    {
-      "full_name": "Mathematical Risk Theory",
-      "module_code": "MTH223",
-      "module_level": "Level 2",
-      "path": "MTH|APM - Mathematical Sciences/MTH223.json"
     },
     {
       "full_name": "Metric Spaces",
@@ -14643,12 +14474,6 @@
       "path": "MTH|FAM - Mathematical Sciences/MTH015.json"
     },
     {
-      "full_name": "Introduction to Financial Modelling",
-      "module_code": "MTH016",
-      "module_level": "Level 0",
-      "path": "MTH|FAM - Mathematical Sciences/MTH016.json"
-    },
-    {
       "full_name": "Linear Algebra for Mathematical Science",
       "module_code": "MTH017",
       "module_level": "Level 0",
@@ -14935,12 +14760,6 @@
       "module_code": "MTH222",
       "module_level": "Level 2",
       "path": "MTH|FAM - Mathematical Sciences/MTH222.json"
-    },
-    {
-      "full_name": "Mathematical Risk Theory",
-      "module_code": "MTH223",
-      "module_level": "Level 2",
-      "path": "MTH|FAM - Mathematical Sciences/MTH223.json"
     },
     {
       "full_name": "Metric Spaces",
@@ -15357,12 +15176,6 @@
       "path": "MTH|MAT - Mathematical Sciences/MTH015.json"
     },
     {
-      "full_name": "Introduction to Financial Modelling",
-      "module_code": "MTH016",
-      "module_level": "Level 0",
-      "path": "MTH|MAT - Mathematical Sciences/MTH016.json"
-    },
-    {
       "full_name": "Linear Algebra for Mathematical Science",
       "module_code": "MTH017",
       "module_level": "Level 0",
@@ -15649,12 +15462,6 @@
       "module_code": "MTH222",
       "module_level": "Level 2",
       "path": "MTH|MAT - Mathematical Sciences/MTH222.json"
-    },
-    {
-      "full_name": "Mathematical Risk Theory",
-      "module_code": "MTH223",
-      "module_level": "Level 2",
-      "path": "MTH|MAT - Mathematical Sciences/MTH223.json"
     },
     {
       "full_name": "Metric Spaces",
@@ -16071,12 +15878,6 @@
       "path": "MTH|MTH - Mathematical Sciences/MTH015.json"
     },
     {
-      "full_name": "Introduction to Financial Modelling",
-      "module_code": "MTH016",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH016.json"
-    },
-    {
       "full_name": "Linear Algebra for Mathematical Science",
       "module_code": "MTH017",
       "module_level": "Level 0",
@@ -16363,12 +16164,6 @@
       "module_code": "MTH222",
       "module_level": "Level 2",
       "path": "MTH|MTH - Mathematical Sciences/MTH222.json"
-    },
-    {
-      "full_name": "Mathematical Risk Theory",
-      "module_code": "MTH223",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH223.json"
     },
     {
       "full_name": "Metric Spaces",
@@ -17098,15 +16893,15 @@
     },
     {
       "full_name": "Introductions to Intelligent Robotics",
-      "module_code": "RBE001",
+      "module_code": "RBE001TC",
       "module_level": "Level 0",
-      "path": "RBETC|IRE - Robotics/RBE001.json"
+      "path": "RBETC|IRE - Robotics/RBE001TC.json"
     },
     {
       "full_name": "Explore Intelligent Robotics Technologies",
-      "module_code": "RBE002",
+      "module_code": "RBE002TC",
       "module_level": "Level 0",
-      "path": "RBETC|IRE - Robotics/RBE002.json"
+      "path": "RBETC|IRE - Robotics/RBE002TC.json"
     },
     {
       "full_name": "Engineering Mathematics",
@@ -17851,18 +17646,6 @@
       "module_code": "SPA009",
       "module_level": "Level 0",
       "path": "SPA|MLC - Spanish/SPA009.json"
-    },
-    {
-      "full_name": "Introduction to Contemporary Spanish Pop-culture after 1975",
-      "module_code": "SPA010",
-      "module_level": "Level 0",
-      "path": "SPA|MLC - Spanish/SPA010.json"
-    },
-    {
-      "full_name": "Language Variety in Spain & Latin America",
-      "module_code": "SPA011",
-      "module_level": "Level 0",
-      "path": "SPA|MLC - Spanish/SPA011.json"
     },
     {
       "full_name": "The Dawn of Globalization: Introduction to Spain in the 15th Century",

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IRE",
+    "domain_code": "RBETC",
+    "full_name": "Robotics"
+  },
+  "full_name": "Introductions to Intelligent Robotics",
+  "module_code": "RBE001TC",
+  "offerings": [
+    {
+      "heading": "Introductions to Intelligent Robotics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "RBETC",
+        "full_name": "Introductions to Intelligent Robotics",
+        "module_code": "RBE001TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Introductions to Intelligent Robotics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to familiarize students with the core aspects of the intelligent robotics industry, including components, mechatronics, machine intelligence, and typical implementation scenarios. Encouraging an understanding of essential digital sub-systems in intelligent robotics, it reinforces their significance within the broader field of robotics technology and knowledge. The module provides fundamental concepts and applications related to intelligent robotics, while also developing students' skills in demonstrating engineering-related problem solving, fundamental system design, and oral communication.",
+        "Learning outcomes": "A. Identify and describe the main components of intelligent robotics systems, including mechatronics, machine intelligence, and their implementation in industry scenarios. B. Demonstrate understanding of fundamental intelligent robotics concepts and applications by analyzing case studies and constructing basic models that identify key technological components and their interactions. C. Analyze essential digital sub-systems in intelligent robotics and explain their functions within the broader robotics technology framework. D. Apply engineering principles to solve defined robotics problems and design basic robotic systems that meet specified requirements.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures and labs. Lectures: Lectures will cover the history and development of mechatronics and intelligent robotics, machine intelligence, and the key components of intelligent robotics, as well as related applications. Additionally, they will provide knowledge on the basic working principles of robotics-related subsystems, especially digital systems, and include detailed knowledge such as system design and fundamental programming skills based on industrial products. Industry professionals will also be introduced to bring real-world insights into the application of these technologies. Labs: Labs will offer practice-based learning focused on digital systems and their application in industrial products. A comprehensive project will be provided where students are expected to design, construct, test, and evaluate the system, fostering a hands-on understanding of the concepts discussed in lectures."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=RBE001TC&psl_code=SEM1"
+    }
+  ]
+}

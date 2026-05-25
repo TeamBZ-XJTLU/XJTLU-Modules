@@ -14,29 +14,6 @@
         "domain_code": "MTH",
         "full_name": "Modern Actuarial Statistics",
         "module_code": "MTH313",
-        "semester": "SEM1"
-      },
-      "overview": {
-        "Academic Year": "2026/27",
-        "Module Credits": "5",
-        "Module Level": "Level 3",
-        "Module Title": "Modern Actuarial Statistics",
-        "Semester": "SEM1"
-      },
-      "sections": {
-        "Aims and Fit of Module": "This module provides solid probabilistic and statistical tools to estimate parameters for a variety of actuarial models. Students are also required to understand the model selection. Students gain the ability to design models according to different type of data and a thorough understanding of credibility theories to calculate premiums.",
-        "Learning outcomes": "A Apply mathematical, statistical and probabilistic skills to solve actuarial models. B Understand, construct and estimate parameters for parametric models C Perform the estimation for complete and modified data D Select models based on hypothesis tests E Understand and estimate losses using credibility procedures F Evaluate formulas for Bühlmann and Bühlmann-Straub credibility models G Perform empirical Bayes parameter estimation",
-        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorial sessions."
-      },
-      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH313&psl_code=SEM1"
-    },
-    {
-      "heading": "Modern Actuarial Statistics",
-      "listing": {
-        "academic_year": "2026/27",
-        "domain_code": "MTH",
-        "full_name": "Modern Actuarial Statistics",
-        "module_code": "MTH313",
         "semester": "SEM2"
       },
       "overview": {

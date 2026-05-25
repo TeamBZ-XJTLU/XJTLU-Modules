@@ -4,15 +4,15 @@
     "domain_code": "DES",
     "full_name": "Design"
   },
-  "full_name": "Future Cities",
+  "full_name": "Future Cities 1",
   "module_code": "DES004",
   "offerings": [
     {
-      "heading": "Future Cities",
+      "heading": "Future Cities 1",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "DES",
-        "full_name": "Future Cities",
+        "full_name": "Future Cities 1",
         "module_code": "DES004",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "2.5",
         "Module Level": "Level 0",
-        "Module Title": "Future Cities",
+        "Module Title": "Future Cities 1",
         "Semester": "SEM1"
       },
       "sections": {
