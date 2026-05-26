@@ -483,8 +483,6 @@
     "CLT|MLC - Chinese Language/CLT023.json",
     "CLT|MLC - Chinese Language/CLT025.json",
     "CLT|MLC - Chinese Language/CLT027.json",
-    "CLT|MLC - Chinese Language/CLT031.json",
-    "CLT|MLC - Chinese Language/CLT032.json",
     "CLT|MLC - Chinese Language/CLT104.json",
     "CLT|MLC - Chinese Language/CLT106.json",
     "CLT|MLC - Chinese Language/CLT111.json",
@@ -2639,7 +2637,7 @@
     "XPU|LIFE - XIPU AI general education/XPU001.json",
     "XPU|LIFE - XIPU AI general education/XPU002.json"
   ],
-  "module_file_count": 2564,
+  "module_file_count": 2562,
   "modules": [
     {
       "full_name": "Exploring Data and the Digital World",
@@ -4490,7 +4488,7 @@
       "path": "CCS|CCS - China Studies/CCS211.json"
     },
     {
-      "full_name": "China’s Science, Technology, and Development",
+      "full_name": "China's Science, Technology, and Development",
       "module_code": "CCS212",
       "module_level": "Level 2",
       "path": "CCS|CCS - China Studies/CCS212.json"
@@ -5430,18 +5428,6 @@
       "module_code": "CLT027",
       "module_level": "Level 0",
       "path": "CLT|MLC - Chinese Language/CLT027.json"
-    },
-    {
-      "full_name": "Practical Chinese for Everyday Life 1",
-      "module_code": "CLT031",
-      "module_level": "Level 0",
-      "path": "CLT|MLC - Chinese Language/CLT031.json"
-    },
-    {
-      "full_name": "Practical Chinese for Everyday Life 2",
-      "module_code": "CLT032",
-      "module_level": "Level 0",
-      "path": "CLT|MLC - Chinese Language/CLT032.json"
     },
     {
       "full_name": "Modern Chinese 1",
