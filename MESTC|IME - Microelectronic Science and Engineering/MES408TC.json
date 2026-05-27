@@ -14,29 +14,6 @@
         "domain_code": "MESTC",
         "full_name": "Semicondutor Microstructure and Crystal Defects",
         "module_code": "MES408TC",
-        "semester": "SEM1"
-      },
-      "overview": {
-        "Academic Year": "2026/27",
-        "Module Credits": "5",
-        "Module Level": "Level 4",
-        "Module Title": "Semicondutor Microstructure and Crystal Defects",
-        "Semester": "SEM1"
-      },
-      "sections": {
-        "Aims and Fit of Module": "This module provides a deep and systematic understanding of the microstructure and crystallographic defects in semiconductor materials, which are critical determinants of their electronic, optical, and mechanical properties. It bridges the gap between fundamental solid-state theory and practical materials engineering challenges in modern semiconductor technology. The module aims to equip students with the knowledge to analyze, characterize, and evaluate the impact of defects on device performance and reliability, forming an essential foundation for careers in semiconductor materials research, process development, and advanced device manufacturing.",
-        "Learning outcomes": "A Demonstrate a systematic understanding of crystalline structures, including concepts of lattices, translation symmetry, Miller indices for directions and planes, and the atomic arrangement in key semiconductor structures. B Classify, model, and analyse the formation mechanisms of crystallographic defects (point, line, planar, and volume) in semiconductor crystals. C Critically evaluate the influence of crystal defects on the electrical, optical, and mechanical properties of semiconductors. D Operate and interpret data from advanced characterization techniques to identify and analyze defects in semiconductor materials.",
-        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures, tutorials and both supervised and unsupervised laboratory sessions."
-      },
-      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES408TC&psl_code=SEM1"
-    },
-    {
-      "heading": "Semicondutor Microstructure and Crystal Defects",
-      "listing": {
-        "academic_year": "2026/27",
-        "domain_code": "MESTC",
-        "full_name": "Semicondutor Microstructure and Crystal Defects",
-        "module_code": "MES408TC",
         "semester": "SEM2"
       },
       "overview": {

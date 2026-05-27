@@ -35,12 +35,8 @@
     "ACC|ACC - Accounting/ACC401.json",
     "ACC|ACC - Accounting/ACC402.json",
     "ACC|ACC - Accounting/ACC403.json",
-    "ACC|ACC - Accounting/ACC404.json",
-    "ACC|ACC - Accounting/ACC405.json",
     "ACC|ACC - Accounting/ACC406.json",
-    "ACC|ACC - Accounting/ACC407.json",
     "ACC|ACC - Accounting/ACC408.json",
-    "ACC|ACC - Accounting/ACC409.json",
     "ACC|ACC - Accounting/ACC410.json",
     "ACC|ACC - Accounting/ACC411.json",
     "ACC|ACC - Accounting/ACC414.json",
@@ -330,7 +326,6 @@
     "CCS|CCS - China Studies/CCS304.json",
     "CCS|CCS - China Studies/CCS305.json",
     "CCS|CCS - China Studies/CCS306.json",
-    "CCS|CCS - China Studies/CCS307.json",
     "CCS|CCS - China Studies/CCS308.json",
     "CCS|CCS - China Studies/CCS309.json",
     "CCS|CCS - China Studies/CCS310.json",
@@ -488,8 +483,6 @@
     "CLT|MLC - Chinese Language/CLT111.json",
     "CLT|MLC - Chinese Language/CLT201.json",
     "CLT|MLC - Chinese Language/CLT202.json",
-    "CLT|MLC - Chinese Language/CLT203.json",
-    "CLT|MLC - Chinese Language/CLT204.json",
     "CLT|MLC - Chinese Language/CLT226.json",
     "CLT|MLC - Chinese Language/CLT301.json",
     "CLT|MLC - Chinese Language/CLT303.json",
@@ -1059,7 +1052,6 @@
     "FIN|FIN - Finance/FIN404.json",
     "FIN|FIN - Finance/FIN405.json",
     "FIN|FIN - Finance/FIN406.json",
-    "FIN|FIN - Finance/FIN407.json",
     "FIN|FIN - Finance/FIN408.json",
     "FIN|FIN - Finance/FIN409.json",
     "FIN|FIN - Finance/FIN410.json",
@@ -1722,16 +1714,13 @@
     "LNG|LNG - Applied Linguistics/LNG108.json",
     "LNG|LNG - Applied Linguistics/LNG201.json",
     "LNG|LNG - Applied Linguistics/LNG202.json",
-    "LNG|LNG - Applied Linguistics/LNG203.json",
     "LNG|LNG - Applied Linguistics/LNG204.json",
-    "LNG|LNG - Applied Linguistics/LNG205.json",
     "LNG|LNG - Applied Linguistics/LNG206.json",
     "LNG|LNG - Applied Linguistics/LNG207.json",
     "LNG|LNG - Applied Linguistics/LNG208.json",
     "LNG|LNG - Applied Linguistics/LNG209.json",
     "LNG|LNG - Applied Linguistics/LNG210.json",
     "LNG|LNG - Applied Linguistics/LNG211.json",
-    "LNG|LNG - Applied Linguistics/LNG212.json",
     "LNG|LNG - Applied Linguistics/LNG213.json",
     "LNG|LNG - Applied Linguistics/LNG214.json",
     "LNG|LNG - Applied Linguistics/LNG216.json",
@@ -2637,7 +2626,7 @@
     "XPU|LIFE - XIPU AI general education/XPU001.json",
     "XPU|LIFE - XIPU AI general education/XPU002.json"
   ],
-  "module_file_count": 2562,
+  "module_file_count": 2551,
   "modules": [
     {
       "full_name": "Exploring Data and the Digital World",
@@ -2814,40 +2803,16 @@
       "path": "ACC|ACC - Accounting/ACC403.json"
     },
     {
-      "full_name": "Tax Compliance",
-      "module_code": "ACC404",
-      "module_level": "Level 4",
-      "path": "ACC|ACC - Accounting/ACC404.json"
-    },
-    {
-      "full_name": "Financial Accounting and Reporting: IFRS",
-      "module_code": "ACC405",
-      "module_level": "Level 4",
-      "path": "ACC|ACC - Accounting/ACC405.json"
-    },
-    {
       "full_name": "Corporate Reporting and Auditing I",
       "module_code": "ACC406",
       "module_level": "Level 4",
       "path": "ACC|ACC - Accounting/ACC406.json"
     },
     {
-      "full_name": "Audit and Assurance",
-      "module_code": "ACC407",
-      "module_level": "Level 4",
-      "path": "ACC|ACC - Accounting/ACC407.json"
-    },
-    {
       "full_name": "Strategic Business Management",
       "module_code": "ACC408",
       "module_level": "Level 4",
       "path": "ACC|ACC - Accounting/ACC408.json"
-    },
-    {
-      "full_name": "Business Strategy and Management",
-      "module_code": "ACC409",
-      "module_level": "Level 4",
-      "path": "ACC|ACC - Accounting/ACC409.json"
     },
     {
       "full_name": "Corporate Reporting and Auditing II",
@@ -4536,12 +4501,6 @@
       "path": "CCS|CCS - China Studies/CCS306.json"
     },
     {
-      "full_name": "Chinese Theatre and Performance",
-      "module_code": "CCS307",
-      "module_level": "Level 3",
-      "path": "CCS|CCS - China Studies/CCS307.json"
-    },
-    {
       "full_name": "China: The Public Sector",
       "module_code": "CCS308",
       "module_level": "Level 3",
@@ -5458,18 +5417,6 @@
       "module_code": "CLT202",
       "module_level": "Level 2",
       "path": "CLT|MLC - Chinese Language/CLT202.json"
-    },
-    {
-      "full_name": "Modern Chinese 1",
-      "module_code": "CLT203",
-      "module_level": "Level 2",
-      "path": "CLT|MLC - Chinese Language/CLT203.json"
-    },
-    {
-      "full_name": "Modern Chinese 2",
-      "module_code": "CLT204",
-      "module_level": "Level 2",
-      "path": "CLT|MLC - Chinese Language/CLT204.json"
     },
     {
       "full_name": "Pedagogical Chinese",
@@ -8800,12 +8747,6 @@
       "module_code": "FIN406",
       "module_level": "Level 4",
       "path": "FIN|FIN - Finance/FIN406.json"
-    },
-    {
-      "full_name": "Financial Strategy",
-      "module_code": "FIN407",
-      "module_level": "Level 4",
-      "path": "FIN|FIN - Finance/FIN407.json"
     },
     {
       "full_name": "Portfolio Management",
@@ -12648,22 +12589,10 @@
       "path": "LNG|LNG - Applied Linguistics/LNG202.json"
     },
     {
-      "full_name": "Language and Society",
-      "module_code": "LNG203",
-      "module_level": "Level 2",
-      "path": "LNG|LNG - Applied Linguistics/LNG203.json"
-    },
-    {
       "full_name": "Language and Gender",
       "module_code": "LNG204",
       "module_level": "Level 2",
       "path": "LNG|LNG - Applied Linguistics/LNG204.json"
-    },
-    {
-      "full_name": "Semantics and Pragmatics",
-      "module_code": "LNG205",
-      "module_level": "Level 2",
-      "path": "LNG|LNG - Applied Linguistics/LNG205.json"
     },
     {
       "full_name": "Cognitive Linguistics",
@@ -12700,12 +12629,6 @@
       "module_code": "LNG211",
       "module_level": "Level 2",
       "path": "LNG|LNG - Applied Linguistics/LNG211.json"
-    },
-    {
-      "full_name": "Morphology",
-      "module_code": "LNG212",
-      "module_level": "Level 2",
-      "path": "LNG|LNG - Applied Linguistics/LNG212.json"
     },
     {
       "full_name": "Chinese Linguistics",
