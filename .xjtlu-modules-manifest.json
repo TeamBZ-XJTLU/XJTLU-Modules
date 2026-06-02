@@ -459,7 +459,6 @@
     "CLT|MLC - Chinese Language/CLT104.json",
     "CLT|MLC - Chinese Language/CLT106.json",
     "CLT|MLC - Chinese Language/CLT111.json",
-    "CLT|MLC - Chinese Language/CLT201.json",
     "CLT|MLC - Chinese Language/CLT202.json",
     "CLT|MLC - Chinese Language/CLT226.json",
     "CLT|MLC - Chinese Language/CLT301.json",
@@ -2597,7 +2596,7 @@
     "XPU|LIFE - XIPU AI general education/XPU001.json",
     "XPU|LIFE - XIPU AI general education/XPU002.json"
   ],
-  "module_file_count": 2522,
+  "module_file_count": 2521,
   "modules": [
     {
       "full_name": "Exploring Data and the Digital World",
@@ -5244,12 +5243,6 @@
       "module_code": "CLT111",
       "module_level": "Level 1",
       "path": "CLT|MLC - Chinese Language/CLT111.json"
-    },
-    {
-      "full_name": "Classical Chinese 2",
-      "module_code": "CLT201",
-      "module_level": "Level 2",
-      "path": "CLT|MLC - Chinese Language/CLT201.json"
     },
     {
       "full_name": "Teaching Chinese as an International Language",
