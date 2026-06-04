@@ -1173,9 +1173,7 @@
     "IFBTC|IFS - Intelligent Finance and Business/IFB116TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB201TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB202TC.json",
-    "IFBTC|IFS - Intelligent Finance and Business/IFB203TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB204TC.json",
-    "IFBTC|IFS - Intelligent Finance and Business/IFB205TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB208TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB209TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB210TC.json",
@@ -1197,7 +1195,6 @@
     "IFBTC|IFS - Intelligent Finance and Business/IFB320TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB401TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB402TC.json",
-    "IFBTC|IFS - Intelligent Finance and Business/IFB403TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB404TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB405TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB406TC.json",
@@ -2596,7 +2593,7 @@
     "XPU|LIFE - XIPU AI general education/XPU001.json",
     "XPU|LIFE - XIPU AI general education/XPU002.json"
   ],
-  "module_file_count": 2521,
+  "module_file_count": 2518,
   "modules": [
     {
       "full_name": "Exploring Data and the Digital World",
@@ -8641,7 +8638,7 @@
       "path": "FIN|FIN - Finance/FIN419.json"
     },
     {
-      "full_name": "Quantatitive Trading and Asset Pricing",
+      "full_name": "Quantitative Trading and Asset Pricing",
       "module_code": "FIN420",
       "module_level": "Level 4",
       "path": "FIN|FIN - Finance/FIN420.json"
@@ -9415,22 +9412,10 @@
       "path": "IFBTC|IFS - Intelligent Finance and Business/IFB202TC.json"
     },
     {
-      "full_name": "Financial Management",
-      "module_code": "IFB203TC",
-      "module_level": "Level 2",
-      "path": "IFBTC|IFS - Intelligent Finance and Business/IFB203TC.json"
-    },
-    {
       "full_name": "Purchasing and Negotiation",
       "module_code": "IFB204TC",
       "module_level": "Level 2",
       "path": "IFBTC|IFS - Intelligent Finance and Business/IFB204TC.json"
-    },
-    {
-      "full_name": "Process Management",
-      "module_code": "IFB205TC",
-      "module_level": "Level 2",
-      "path": "IFBTC|IFS - Intelligent Finance and Business/IFB205TC.json"
     },
     {
       "full_name": "Quality Management and Lean Six Sigma",
@@ -9557,12 +9542,6 @@
       "module_code": "IFB402TC",
       "module_level": "Level 4",
       "path": "IFBTC|IFS - Intelligent Finance and Business/IFB402TC.json"
-    },
-    {
-      "full_name": "Financial Markets, Regulation And Compliance",
-      "module_code": "IFB403TC",
-      "module_level": "Level 4",
-      "path": "IFBTC|IFS - Intelligent Finance and Business/IFB403TC.json"
     },
     {
       "full_name": "Digital Marketing",
