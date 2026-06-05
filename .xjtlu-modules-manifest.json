@@ -228,8 +228,6 @@
     "BNV|UPD - Built Environment",
     "BNV|UPD - Built Environment/BNV401.json",
     "BUS|IBSS - International Business School",
-    "BUS|IBSS - International Business School/BUS002.json",
-    "BUS|IBSS - International Business School/BUS004.json",
     "BUS|IBSS - International Business School/BUS303.json",
     "CAN|CAN - Communications and Networking",
     "CAN|CAN - Communications and Networking/CAN102.json",
@@ -1006,6 +1004,7 @@
     "FIN|FIN - Finance",
     "FIN|FIN - Finance/FIN001.json",
     "FIN|FIN - Finance/FIN002.json",
+    "FIN|FIN - Finance/FIN003.json",
     "FIN|FIN - Finance/FIN101.json",
     "FIN|FIN - Finance/FIN102.json",
     "FIN|FIN - Finance/FIN104.json",
@@ -2461,6 +2460,8 @@
     "SCI|SCI - Science/SCI405.json",
     "SMO|SMO - Strategic Management and Organizations",
     "SMO|SMO - Strategic Management and Organizations/SMO001.json",
+    "SMO|SMO - Strategic Management and Organizations/SMO003.json",
+    "SMO|SMO - Strategic Management and Organizations/SMO005.json",
     "SMO|SMO - Strategic Management and Organizations/SMO008.json",
     "SMO|SMO - Strategic Management and Organizations/SMO102.json",
     "SMO|SMO - Strategic Management and Organizations/SMO103.json",
@@ -2593,7 +2594,7 @@
     "XPU|LIFE - XIPU AI general education/XPU001.json",
     "XPU|LIFE - XIPU AI general education/XPU002.json"
   ],
-  "module_file_count": 2518,
+  "module_file_count": 2519,
   "modules": [
     {
       "full_name": "Exploring Data and the Digital World",
@@ -3896,18 +3897,6 @@
       "module_code": "BNV401",
       "module_level": "Level 4",
       "path": "BNV|UPD - Built Environment/BNV401.json"
-    },
-    {
-      "full_name": "The Business Ecosystem",
-      "module_code": "BUS002",
-      "module_level": "Level 0",
-      "path": "BUS|IBSS - International Business School/BUS002.json"
-    },
-    {
-      "full_name": "TBD",
-      "module_code": "BUS004",
-      "module_level": "Level 0",
-      "path": "BUS|IBSS - International Business School/BUS004.json"
     },
     {
       "full_name": "Final Year Project",
@@ -8438,6 +8427,12 @@
       "module_code": "FIN002",
       "module_level": "Level 0",
       "path": "FIN|FIN - Finance/FIN002.json"
+    },
+    {
+      "full_name": "Data in Action",
+      "module_code": "FIN003",
+      "module_level": "Level 0",
+      "path": "FIN|FIN - Finance/FIN003.json"
     },
     {
       "full_name": "Essentials Of Finance",
@@ -16888,13 +16883,13 @@
       "path": "SCI|SCI - Science/SCI003.json"
     },
     {
-      "full_name": "LIFE in the Sciences I",
+      "full_name": "Horizons in Science",
       "module_code": "SCI004",
       "module_level": "Level 0",
       "path": "SCI|SCI - Science/SCI004.json"
     },
     {
-      "full_name": "LIFE in the Sciences II",
+      "full_name": "Seminars in Science",
       "module_code": "SCI005",
       "module_level": "Level 0",
       "path": "SCI|SCI - Science/SCI005.json"
@@ -16940,6 +16935,18 @@
       "module_code": "SMO001",
       "module_level": "Level 0",
       "path": "SMO|SMO - Strategic Management and Organizations/SMO001.json"
+    },
+    {
+      "full_name": "The Business Ecosystem",
+      "module_code": "SMO003",
+      "module_level": "Level 0",
+      "path": "SMO|SMO - Strategic Management and Organizations/SMO003.json"
+    },
+    {
+      "full_name": "Integrated Business Thinking",
+      "module_code": "SMO005",
+      "module_level": "Level 0",
+      "path": "SMO|SMO - Strategic Management and Organizations/SMO005.json"
     },
     {
       "full_name": "Trends in Management",

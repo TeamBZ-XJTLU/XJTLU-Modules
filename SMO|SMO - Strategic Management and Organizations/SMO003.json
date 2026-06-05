@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "The Business Ecosystem",
+  "module_code": "SMO003",
+  "offerings": [
+    {
+      "heading": "The Business Ecosystem",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "The Business Ecosystem",
+        "module_code": "SMO003",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "The Business Ecosystem",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "",
+        "Learning outcomes": "",
+        "Method of teaching and learning": ""
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO003&psl_code=SEM1"
+    }
+  ]
+}

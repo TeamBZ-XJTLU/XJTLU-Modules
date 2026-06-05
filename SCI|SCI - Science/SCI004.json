@@ -4,15 +4,15 @@
     "domain_code": "SCI",
     "full_name": "Science"
   },
-  "full_name": "LIFE in the Sciences I",
+  "full_name": "Horizons in Science",
   "module_code": "SCI004",
   "offerings": [
     {
-      "heading": "LIFE in the Sciences I",
+      "heading": "Horizons in Science",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "SCI",
-        "full_name": "LIFE in the Sciences I",
+        "full_name": "Horizons in Science",
         "module_code": "SCI004",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "2.5",
         "Module Level": "Level 0",
-        "Module Title": "LIFE in the Sciences I",
+        "Module Title": "Horizons in Science",
         "Semester": "SEM1"
       },
       "sections": {

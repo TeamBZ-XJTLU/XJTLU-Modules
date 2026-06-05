@@ -1,26 +1,26 @@
 {
   "department": {
-    "department_code": "SCI",
-    "domain_code": "SCI",
-    "full_name": "Science"
+    "department_code": "FIN",
+    "domain_code": "FIN",
+    "full_name": "Finance"
   },
-  "full_name": "Seminars in Science",
-  "module_code": "SCI005",
+  "full_name": "Data in Action",
+  "module_code": "FIN003",
   "offerings": [
     {
-      "heading": "Seminars in Science",
+      "heading": "Data in Action",
       "listing": {
         "academic_year": "2026/27",
-        "domain_code": "SCI",
-        "full_name": "Seminars in Science",
-        "module_code": "SCI005",
+        "domain_code": "FIN",
+        "full_name": "Data in Action",
+        "module_code": "FIN003",
         "semester": "SEM2"
       },
       "overview": {
         "Academic Year": "2026/27",
         "Module Credits": "2.5",
         "Module Level": "Level 0",
-        "Module Title": "Seminars in Science",
+        "Module Title": "Data in Action",
         "Semester": "SEM2"
       },
       "sections": {
@@ -28,7 +28,7 @@
         "Learning outcomes": "",
         "Method of teaching and learning": ""
       },
-      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SCI005&psl_code=SEM2"
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN003&psl_code=SEM2"
     }
   ]
 }
