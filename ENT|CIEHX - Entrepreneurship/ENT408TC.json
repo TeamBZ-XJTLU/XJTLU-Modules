@@ -4,15 +4,15 @@
     "domain_code": "ENT",
     "full_name": "Entrepreneurship"
   },
-  "full_name": "Leadership",
+  "full_name": "Leadership for Technopreneurs",
   "module_code": "ENT408TC",
   "offerings": [
     {
-      "heading": "Leadership",
+      "heading": "Leadership for Technopreneurs",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "ENT",
-        "full_name": "Leadership",
+        "full_name": "Leadership for Technopreneurs",
         "module_code": "ENT408TC",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Leadership",
+        "Module Title": "Leadership for Technopreneurs",
         "Semester": "SEM2"
       },
       "sections": {

@@ -4,15 +4,15 @@
     "domain_code": "LIT",
     "full_name": "Literature"
   },
-  "full_name": "Climate Change and Literature",
+  "full_name": "Literature and Environment",
   "module_code": "LIT307",
   "offerings": [
     {
-      "heading": "Climate Change and Literature",
+      "heading": "Literature and Environment",
       "listing": {
         "academic_year": "2027/28",
         "domain_code": "LIT",
-        "full_name": "Climate Change and Literature",
+        "full_name": "Literature and Environment",
         "module_code": "LIT307",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2027/28",
         "Module Credits": "5",
         "Module Level": "Level 3",
-        "Module Title": "Climate Change and Literature",
+        "Module Title": "Literature and Environment",
         "Semester": "SEM1"
       },
       "sections": {
