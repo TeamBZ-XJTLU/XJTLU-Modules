@@ -14,29 +14,6 @@
         "domain_code": "DTSTC",
         "full_name": "Pattern Recognition and Computer Vision",
         "module_code": "DTS201TC",
-        "semester": "SEM1"
-      },
-      "overview": {
-        "Academic Year": "2026/27",
-        "Module Credits": "5",
-        "Module Level": "Level 2",
-        "Module Title": "Pattern Recognition and Computer Vision",
-        "Semester": "SEM1"
-      },
-      "sections": {
-        "Aims and Fit of Module": "This module aims to provide an understanding of 1) the design and construction of a pattern recognition system 2) the major approaches in statistical and syntactic pattern recognition. The student should also have some exposure to the theoretical issues involved in pattern recognition system design such as the curse of dimensionality. Finally, the student will have a clear working knowledge of implementing pattern recognition techniques and the scientific Python computing environment. These goals are evaluated through the course project, coursework, and exams.",
-        "Learning outcomes": "A. demonstrate understanding of foundations of pattern recognition algorithms and machines, including statistical, structural and neural methods; B. demonstrate understanding of data structures for pattern representation, feature discovery and selection; C. Carry out classification vs. description, parametric and nonparametric classification, supervised and unsupervised learning; D. Utilise of contextual evidence, clustering, recognition with strings, and small sample-size problems.",
-        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. This module will be delivered by a combination of formal lectures, seminars and tutorials."
-      },
-      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS201TC&psl_code=SEM1"
-    },
-    {
-      "heading": "Pattern Recognition and Computer Vision",
-      "listing": {
-        "academic_year": "2026/27",
-        "domain_code": "DTSTC",
-        "full_name": "Pattern Recognition and Computer Vision",
-        "module_code": "DTS201TC",
         "semester": "SEM2"
       },
       "overview": {

@@ -884,14 +884,12 @@
     "ENT|CIEHX - Entrepreneurship/ENT208TC.json",
     "ENT|CIEHX - Entrepreneurship/ENT211TC.json",
     "ENT|CIEHX - Entrepreneurship/ENT301TC.json",
-    "ENT|CIEHX - Entrepreneurship/ENT302TC.json",
     "ENT|CIEHX - Entrepreneurship/ENT303TC.json",
     "ENT|CIEHX - Entrepreneurship/ENT304TC.json",
     "ENT|CIEHX - Entrepreneurship/ENT310TC.json",
     "ENT|CIEHX - Entrepreneurship/ENT403TC.json",
     "ENT|CIEHX - Entrepreneurship/ENT404TC.json",
     "ENT|CIEHX - Entrepreneurship/ENT406TC.json",
-    "ENT|CIEHX - Entrepreneurship/ENT407TC.json",
     "ENT|CIEHX - Entrepreneurship/ENT408TC.json",
     "ENT|CIEHX - Entrepreneurship/ENT409TC.json",
     "ENT|CIEHX - Entrepreneurship/ENT410TC.json",
@@ -927,14 +925,12 @@
     "ENT|EEH - Entrepreneurship/ENT208TC.json",
     "ENT|EEH - Entrepreneurship/ENT211TC.json",
     "ENT|EEH - Entrepreneurship/ENT301TC.json",
-    "ENT|EEH - Entrepreneurship/ENT302TC.json",
     "ENT|EEH - Entrepreneurship/ENT303TC.json",
     "ENT|EEH - Entrepreneurship/ENT304TC.json",
     "ENT|EEH - Entrepreneurship/ENT310TC.json",
     "ENT|EEH - Entrepreneurship/ENT403TC.json",
     "ENT|EEH - Entrepreneurship/ENT404TC.json",
     "ENT|EEH - Entrepreneurship/ENT406TC.json",
-    "ENT|EEH - Entrepreneurship/ENT407TC.json",
     "ENT|EEH - Entrepreneurship/ENT408TC.json",
     "ENT|EEH - Entrepreneurship/ENT409TC.json",
     "ENT|EEH - Entrepreneurship/ENT410TC.json",
@@ -1420,12 +1416,10 @@
     "IOTTC|IOT - Internet of things/IOT213TC.json",
     "IOTTC|IOT - Internet of things/IOT214TC.json",
     "IOTTC|IOT - Internet of things/IOT215TC.json",
-    "IOTTC|IOT - Internet of things/IOT302TC.json",
     "IOTTC|IOT - Internet of things/IOT303TC.json",
     "IOTTC|IOT - Internet of things/IOT304TC.json",
     "IOTTC|IOT - Internet of things/IOT305TC.json",
     "IOTTC|IOT - Internet of things/IOT306TC.json",
-    "IOTTC|IOT - Internet of things/IOT307TC.json",
     "IOTTC|IOT - Internet of things/IOT308TC.json",
     "IOTTC|IOT - Internet of things/IOT309TC.json",
     "IOTTC|IOT - Internet of things/IOT310TC.json",
@@ -1752,7 +1746,6 @@
     "MESTC|CHP - Microelectronic Science and Engineering/MES106TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES201TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES202TC.json",
-    "MESTC|CHP - Microelectronic Science and Engineering/MES203TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES204TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES205TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES207TC.json",
@@ -1788,7 +1781,6 @@
     "MESTC|IME - Microelectronic Science and Engineering/MES106TC.json",
     "MESTC|IME - Microelectronic Science and Engineering/MES201TC.json",
     "MESTC|IME - Microelectronic Science and Engineering/MES202TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES203TC.json",
     "MESTC|IME - Microelectronic Science and Engineering/MES204TC.json",
     "MESTC|IME - Microelectronic Science and Engineering/MES205TC.json",
     "MESTC|IME - Microelectronic Science and Engineering/MES207TC.json",
@@ -2594,7 +2586,7 @@
     "XPU|LIFE - XIPU AI general education/XPU001.json",
     "XPU|LIFE - XIPU AI general education/XPU002.json"
   ],
-  "module_file_count": 2519,
+  "module_file_count": 2511,
   "modules": [
     {
       "full_name": "Exploring Data and the Digital World",
@@ -7727,12 +7719,6 @@
       "path": "ENT|CIEHX - Entrepreneurship/ENT301TC.json"
     },
     {
-      "full_name": "Cutting-edge Practice in Innovation and Entrepreneurship",
-      "module_code": "ENT302TC",
-      "module_level": "Level 3",
-      "path": "ENT|CIEHX - Entrepreneurship/ENT302TC.json"
-    },
-    {
       "full_name": "Team Technopreneurship",
       "module_code": "ENT303TC",
       "module_level": "Level 3",
@@ -7767,12 +7753,6 @@
       "module_code": "ENT406TC",
       "module_level": "Level 4",
       "path": "ENT|CIEHX - Entrepreneurship/ENT406TC.json"
-    },
-    {
-      "full_name": "Consulting Project",
-      "module_code": "ENT407TC",
-      "module_level": "Level 4",
-      "path": "ENT|CIEHX - Entrepreneurship/ENT407TC.json"
     },
     {
       "full_name": "Leadership for Technopreneurs",
@@ -7979,12 +7959,6 @@
       "path": "ENT|EEH - Entrepreneurship/ENT301TC.json"
     },
     {
-      "full_name": "Cutting-edge Practice in Innovation and Entrepreneurship",
-      "module_code": "ENT302TC",
-      "module_level": "Level 3",
-      "path": "ENT|EEH - Entrepreneurship/ENT302TC.json"
-    },
-    {
       "full_name": "Team Technopreneurship",
       "module_code": "ENT303TC",
       "module_level": "Level 3",
@@ -8019,12 +7993,6 @@
       "module_code": "ENT406TC",
       "module_level": "Level 4",
       "path": "ENT|EEH - Entrepreneurship/ENT406TC.json"
-    },
-    {
-      "full_name": "Consulting Project",
-      "module_code": "ENT407TC",
-      "module_level": "Level 4",
-      "path": "ENT|EEH - Entrepreneurship/ENT407TC.json"
     },
     {
       "full_name": "Leadership for Technopreneurs",
@@ -10865,12 +10833,6 @@
       "path": "IOTTC|IOT - Internet of things/IOT215TC.json"
     },
     {
-      "full_name": "Wireless Sensor Networks",
-      "module_code": "IOT302TC",
-      "module_level": "Level 3",
-      "path": "IOTTC|IOT - Internet of things/IOT302TC.json"
-    },
-    {
       "full_name": "Principle and Application of RFID",
       "module_code": "IOT303TC",
       "module_level": "Level 3",
@@ -10893,12 +10855,6 @@
       "module_code": "IOT306TC",
       "module_level": "Level 3",
       "path": "IOTTC|IOT - Internet of things/IOT306TC.json"
-    },
-    {
-      "full_name": "Big Data Analytics",
-      "module_code": "IOT307TC",
-      "module_level": "Level 3",
-      "path": "IOTTC|IOT - Internet of things/IOT307TC.json"
     },
     {
       "full_name": "Programming Mobile Applications for loT",
@@ -12773,12 +12729,6 @@
       "path": "MESTC|CHP - Microelectronic Science and Engineering/MES202TC.json"
     },
     {
-      "full_name": "Electronic Circuits and Systems",
-      "module_code": "MES203TC",
-      "module_level": "Level 2",
-      "path": "MESTC|CHP - Microelectronic Science and Engineering/MES203TC.json"
-    },
-    {
       "full_name": "Microprocessor Systems",
       "module_code": "MES204TC",
       "module_level": "Level 2",
@@ -12981,12 +12931,6 @@
       "module_code": "MES202TC",
       "module_level": "Level 2",
       "path": "MESTC|IME - Microelectronic Science and Engineering/MES202TC.json"
-    },
-    {
-      "full_name": "Electronic Circuits and Systems",
-      "module_code": "MES203TC",
-      "module_level": "Level 2",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES203TC.json"
     },
     {
       "full_name": "Microprocessor Systems",
