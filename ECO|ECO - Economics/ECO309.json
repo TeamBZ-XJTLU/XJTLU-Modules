@@ -25,7 +25,7 @@
       },
       "sections": {
         "Aims and Fit of Module": "This module equips students with game theoretical techniques that are useful for investigating important problems in business and economics. Students will learn to formulate games (which are simple representations of real-world strategic interactions) and apply suitable solution concepts to analyzing these games. Such game theoretical analyses reveal rationales behind observed behaviors, and guide decision makers towards optimal outcomes.",
-        "Learning outcomes": "A. Formulate and solve games of complete information. B. Formulate and solve games of incomplete information. C. Apply game theoretical techniques to investigating a real-world problem in business and economics.",
+        "Learning outcomes": "A. Formulate and solve games of complete information. B. Formulate and solve games of incomplete information. C. Apply game theoretical techniques to investigating a real-world problem in business and economics. D. Demonstrate the ability to appropriately use AI tools to support economic analysis while maintaining independent judgment, critical thinking, and academic integrity.",
         "Method of teaching and learning": "This module will be delivered via a combination of lectures and tutorials. Each lecture will introduce new concepts and techniques. Each tutorial will demonstrate how to apply these concepts and techniques to solving various problems."
       },
       "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO309&psl_code=SEM1"
