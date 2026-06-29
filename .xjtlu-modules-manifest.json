@@ -1134,7 +1134,6 @@
     "HSS|HSS - Humanities and Social Sciences/HSS004.json",
     "HSS|HSS - Humanities and Social Sciences/HSS005.json",
     "HSS|HSS - Humanities and Social Sciences/HSS006.json",
-    "HSS|HSS - Humanities and Social Sciences/HSS007.json",
     "HSS|HSS - Humanities and Social Sciences/HSS101.json",
     "HSS|HSS - Humanities and Social Sciences/HSS102.json",
     "HSS|HSS - Humanities and Social Sciences/HSS301.json",
@@ -2586,7 +2585,7 @@
     "XPU|LIFE - XIPU AI general education/XPU001.json",
     "XPU|LIFE - XIPU AI general education/XPU002.json"
   ],
-  "module_file_count": 2511,
+  "module_file_count": 2510,
   "modules": [
     {
       "full_name": "Exploring Data and the Digital World",
@@ -5277,7 +5276,7 @@
       "path": "CLT|MLC - Chinese Language/CLT402.json"
     },
     {
-      "full_name": "Digital Media and Communication",
+      "full_name": "Introduction to Communication Studies",
       "module_code": "COM004",
       "module_level": "Level 0",
       "path": "COM|COM - Media and Communication/COM004.json"
@@ -5841,13 +5840,13 @@
       "path": "DES|ARC - Design/DES006.json"
     },
     {
-      "full_name": "AI-Era Ethics, Systems and Sustainability",
+      "full_name": "Designing AI Future",
       "module_code": "DES007",
       "module_level": "Level 0",
       "path": "DES|ARC - Design/DES007.json"
     },
     {
-      "full_name": "Interdisciplinary Design Challenge and Innovation",
+      "full_name": "Design Thinking and Innovation",
       "module_code": "DES008",
       "module_level": "Level 0",
       "path": "DES|ARC - Design/DES008.json"
@@ -5979,13 +5978,13 @@
       "path": "DES|DES - Design/DES006.json"
     },
     {
-      "full_name": "AI-Era Ethics, Systems and Sustainability",
+      "full_name": "Designing AI Future",
       "module_code": "DES007",
       "module_level": "Level 0",
       "path": "DES|DES - Design/DES007.json"
     },
     {
-      "full_name": "Interdisciplinary Design Challenge and Innovation",
+      "full_name": "Design Thinking and Innovation",
       "module_code": "DES008",
       "module_level": "Level 0",
       "path": "DES|DES - Design/DES008.json"
@@ -9147,7 +9146,7 @@
       "path": "FTA|AFCT - Film and TV/FTA450.json"
     },
     {
-      "full_name": "Understanding Meaning in a Mediated World",
+      "full_name": "Fairness in Everyday Life: A Comparative Thinking Module",
       "module_code": "GCL001",
       "module_level": "Level 0",
       "path": "GCL|GCLH - Global Cultures and Languages Hub/GCL001.json"
@@ -9177,16 +9176,10 @@
       "path": "HSS|HSS - Humanities and Social Sciences/HSS005.json"
     },
     {
-      "full_name": "Global Communication Skills",
+      "full_name": "Youth, Identity, and Society",
       "module_code": "HSS006",
       "module_level": "Level 0",
       "path": "HSS|HSS - Humanities and Social Sciences/HSS006.json"
-    },
-    {
-      "full_name": "Understanding Gender",
-      "module_code": "HSS007",
-      "module_level": "Level 0",
-      "path": "HSS|HSS - Humanities and Social Sciences/HSS007.json"
     },
     {
       "full_name": "Artificial Intelligence for Humanities and Social Sciences: Empowering Research and Practice",
@@ -17469,7 +17462,7 @@
       "path": "UPD|UPD - Urban Planning and Design/UPD004.json"
     },
     {
-      "full_name": "Future Cities 2",
+      "full_name": "Future Human Habitat",
       "module_code": "UPD005",
       "module_level": "Level 0",
       "path": "UPD|UPD - Urban Planning and Design/UPD005.json"

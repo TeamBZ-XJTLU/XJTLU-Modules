@@ -4,15 +4,15 @@
     "domain_code": "COM",
     "full_name": "Media and Communication"
   },
-  "full_name": "Digital Media and Communication",
+  "full_name": "Introduction to Communication Studies",
   "module_code": "COM004",
   "offerings": [
     {
-      "heading": "Digital Media and Communication",
+      "heading": "Introduction to Communication Studies",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "COM",
-        "full_name": "Digital Media and Communication",
+        "full_name": "Introduction to Communication Studies",
         "module_code": "COM004",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 0",
-        "Module Title": "Digital Media and Communication",
+        "Module Title": "Introduction to Communication Studies",
         "Semester": "SEM2"
       },
       "sections": {

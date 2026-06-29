@@ -4,15 +4,15 @@
     "domain_code": "HSS",
     "full_name": "Humanities and Social Sciences"
   },
-  "full_name": "Global Communication Skills",
+  "full_name": "Youth, Identity, and Society",
   "module_code": "HSS006",
   "offerings": [
     {
-      "heading": "Global Communication Skills",
+      "heading": "Youth, Identity, and Society",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "HSS",
-        "full_name": "Global Communication Skills",
+        "full_name": "Youth, Identity, and Society",
         "module_code": "HSS006",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "2.5",
         "Module Level": "Level 0",
-        "Module Title": "Global Communication Skills",
+        "Module Title": "Youth, Identity, and Society",
         "Semester": "SEM2"
       },
       "sections": {

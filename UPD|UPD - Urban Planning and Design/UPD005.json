@@ -4,15 +4,15 @@
     "domain_code": "UPD",
     "full_name": "Urban Planning and Design"
   },
-  "full_name": "Future Cities 2",
+  "full_name": "Future Human Habitat",
   "module_code": "UPD005",
   "offerings": [
     {
-      "heading": "Future Cities 2",
+      "heading": "Future Human Habitat",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "UPD",
-        "full_name": "Future Cities 2",
+        "full_name": "Future Human Habitat",
         "module_code": "UPD005",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "2.5",
         "Module Level": "Level 0",
-        "Module Title": "Future Cities 2",
+        "Module Title": "Future Human Habitat",
         "Semester": "SEM2"
       },
       "sections": {
