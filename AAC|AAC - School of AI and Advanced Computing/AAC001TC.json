@@ -4,15 +4,15 @@
     "domain_code": "AAC",
     "full_name": "School of AI and Advanced Computing"
   },
-  "full_name": "Exploring Data and the Digital World",
+  "full_name": "Exploring the Applications of AI and Large Language Models",
   "module_code": "AAC001TC",
   "offerings": [
     {
-      "heading": "Exploring Data and the Digital World",
+      "heading": "Exploring the Applications of AI and Large Language Models",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "AAC",
-        "full_name": "Exploring Data and the Digital World",
+        "full_name": "Exploring the Applications of AI and Large Language Models",
         "module_code": "AAC001TC",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "2.5",
         "Module Level": "Level 0",
-        "Module Title": "Exploring Data and the Digital World",
+        "Module Title": "Exploring the Applications of AI and Large Language Models",
         "Semester": "SEM1"
       },
       "sections": {

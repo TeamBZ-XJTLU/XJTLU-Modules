@@ -4,15 +4,15 @@
     "domain_code": "HSS",
     "full_name": "Humanities and Social Sciences"
   },
-  "full_name": "HSS Futures",
+  "full_name": "Society and Technology: Digital Life, Ethics and Social Change",
   "module_code": "HSS003",
   "offerings": [
     {
-      "heading": "HSS Futures",
+      "heading": "Society and Technology: Digital Life, Ethics and Social Change",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "HSS",
-        "full_name": "HSS Futures",
+        "full_name": "Society and Technology: Digital Life, Ethics and Social Change",
         "module_code": "HSS003",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "2.5",
         "Module Level": "Level 0",
-        "Module Title": "HSS Futures",
+        "Module Title": "Society and Technology: Digital Life, Ethics and Social Change",
         "Semester": "SEM1"
       },
       "sections": {

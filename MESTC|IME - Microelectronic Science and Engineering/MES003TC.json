@@ -4,15 +4,15 @@
     "domain_code": "MESTC",
     "full_name": "Microelectronic Science and Engineering"
   },
-  "full_name": "An rudimentary introduction to artifical intelligience and its VLSI implementation",
+  "full_name": "Introduction to Artificial Intelligence and Its VLSI Implementation",
   "module_code": "MES003TC",
   "offerings": [
     {
-      "heading": "An rudimentary introduction to artifical intelligience and its VLSI implementation",
+      "heading": "Introduction to Artificial Intelligence and Its VLSI Implementation",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "MESTC",
-        "full_name": "An rudimentary introduction to artifical intelligience and its VLSI implementation",
+        "full_name": "Introduction to Artificial Intelligence and Its VLSI Implementation",
         "module_code": "MES003TC",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "2.5",
         "Module Level": "Level 0",
-        "Module Title": "An rudimentary introduction to artifical intelligience and its VLSI implementation",
+        "Module Title": "Introduction to Artificial Intelligence and Its VLSI Implementation",
         "Semester": "SEM2"
       },
       "sections": {

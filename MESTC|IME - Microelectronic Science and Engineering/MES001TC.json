@@ -4,15 +4,15 @@
     "domain_code": "MESTC",
     "full_name": "Microelectronic Science and Engineering"
   },
-  "full_name": "Introduction to Nanotechnology",
+  "full_name": "Nanobiotechnology",
   "module_code": "MES001TC",
   "offerings": [
     {
-      "heading": "Introduction to Nanotechnology",
+      "heading": "Nanobiotechnology",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "MESTC",
-        "full_name": "Introduction to Nanotechnology",
+        "full_name": "Nanobiotechnology",
         "module_code": "MES001TC",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "2.5",
         "Module Level": "Level 0",
-        "Module Title": "Introduction to Nanotechnology",
+        "Module Title": "Nanobiotechnology",
         "Semester": "SEM1"
       },
       "sections": {

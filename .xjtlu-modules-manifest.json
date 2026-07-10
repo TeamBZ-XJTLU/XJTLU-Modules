@@ -242,7 +242,6 @@
     "CAN|CAN - Communications and Networking/CAN302.json",
     "CAN|CAN - Communications and Networking/CAN303.json",
     "CAN|CAN - Communications and Networking/CAN304.json",
-    "CAN|CAN - Communications and Networking/CAN305.json",
     "CAN|CAN - Communications and Networking/CAN306.json",
     "CAN|CAN - Communications and Networking/CAN307.json",
     "CAN|CAN - Communications and Networking/CAN308.json",
@@ -2356,6 +2355,8 @@
     "PHY|PHY - Physics/PHY003.json",
     "PHY|PHY - Physics/PHY005.json",
     "PHY|PHY - Physics/PHY006.json",
+    "PHY|PHY - Physics/PHY007.json",
+    "PHY|PHY - Physics/PHY008.json",
     "PHY|PHY - Physics/PHY101.json",
     "PHY|PHY - Physics/PHY102.json",
     "PHY|PHY - Physics/PHY103.json",
@@ -2585,10 +2586,10 @@
     "XPU|LIFE - XIPU AI general education/XPU001.json",
     "XPU|LIFE - XIPU AI general education/XPU002.json"
   ],
-  "module_file_count": 2510,
+  "module_file_count": 2511,
   "modules": [
     {
-      "full_name": "Exploring Data and the Digital World",
+      "full_name": "Exploring the Applications of AI and Large Language Models",
       "module_code": "AAC001TC",
       "module_level": "Level 0",
       "path": "AAC|AAC - School of AI and Advanced Computing/AAC001TC.json"
@@ -3968,12 +3969,6 @@
       "path": "CAN|CAN - Communications and Networking/CAN304.json"
     },
     {
-      "full_name": "Antennas",
-      "module_code": "CAN305",
-      "module_level": "Level 3",
-      "path": "CAN|CAN - Communications and Networking/CAN305.json"
-    },
-    {
       "full_name": "Photonics and Optical Communication Systems",
       "module_code": "CAN306",
       "module_level": "Level 3",
@@ -5276,7 +5271,7 @@
       "path": "CLT|MLC - Chinese Language/CLT402.json"
     },
     {
-      "full_name": "Introduction to Communication Studies",
+      "full_name": "Digital Media and Communication",
       "module_code": "COM004",
       "module_level": "Level 0",
       "path": "COM|COM - Media and Communication/COM004.json"
@@ -5828,7 +5823,7 @@
       "path": "DES|ARC - Design/DES003.json"
     },
     {
-      "full_name": "Future Cities 1",
+      "full_name": "Future Cities",
       "module_code": "DES004",
       "module_level": "Level 0",
       "path": "DES|ARC - Design/DES004.json"
@@ -5840,7 +5835,7 @@
       "path": "DES|ARC - Design/DES006.json"
     },
     {
-      "full_name": "Designing AI Future",
+      "full_name": "Designing AI Futures",
       "module_code": "DES007",
       "module_level": "Level 0",
       "path": "DES|ARC - Design/DES007.json"
@@ -5966,7 +5961,7 @@
       "path": "DES|DES - Design/DES003.json"
     },
     {
-      "full_name": "Future Cities 1",
+      "full_name": "Future Cities",
       "module_code": "DES004",
       "module_level": "Level 0",
       "path": "DES|DES - Design/DES004.json"
@@ -5978,7 +5973,7 @@
       "path": "DES|DES - Design/DES006.json"
     },
     {
-      "full_name": "Designing AI Future",
+      "full_name": "Designing AI Futures",
       "module_code": "DES007",
       "module_level": "Level 0",
       "path": "DES|DES - Design/DES007.json"
@@ -7664,7 +7659,7 @@
       "path": "ENT|CIEHX - Entrepreneurship/ENT003TC.json"
     },
     {
-      "full_name": "SE - Technology Initiatives",
+      "full_name": "Syntegrative Education – Technology Initiatives",
       "module_code": "ENT005TC",
       "module_level": "Level 0",
       "path": "ENT|CIEHX - Entrepreneurship/ENT005TC.json"
@@ -7904,7 +7899,7 @@
       "path": "ENT|EEH - Entrepreneurship/ENT003TC.json"
     },
     {
-      "full_name": "SE - Technology Initiatives",
+      "full_name": "Syntegrative Education – Technology Initiatives",
       "module_code": "ENT005TC",
       "module_level": "Level 0",
       "path": "ENT|EEH - Entrepreneurship/ENT005TC.json"
@@ -9152,13 +9147,13 @@
       "path": "GCL|GCLH - Global Cultures and Languages Hub/GCL001.json"
     },
     {
-      "full_name": "Culture, Language, and Community",
+      "full_name": "Culture, Language and Community",
       "module_code": "GCL002",
       "module_level": "Level 0",
       "path": "GCL|GCLH - Global Cultures and Languages Hub/GCL002.json"
     },
     {
-      "full_name": "HSS Futures",
+      "full_name": "Society and Technology: Digital Life, Ethics and Social Change",
       "module_code": "HSS003",
       "module_level": "Level 0",
       "path": "HSS|HSS - Humanities and Social Sciences/HSS003.json"
@@ -9170,7 +9165,7 @@
       "path": "HSS|HSS - Humanities and Social Sciences/HSS004.json"
     },
     {
-      "full_name": "Contemporary Pop Culture & Creativity",
+      "full_name": "Contemporary Pop Culture and Creativity",
       "module_code": "HSS005",
       "module_level": "Level 0",
       "path": "HSS|HSS - Humanities and Social Sciences/HSS005.json"
@@ -10724,7 +10719,7 @@
       "path": "IOTTC|IOT - Internet of things/IOT001.json"
     },
     {
-      "full_name": "Introduction to AIoT through Hands-on Projects",
+      "full_name": "Introduction to AIoT and the Internet of Intelligence",
       "module_code": "IOT001TC",
       "module_level": "Level 0",
       "path": "IOTTC|IOT - Internet of things/IOT001TC.json"
@@ -12662,7 +12657,7 @@
       "path": "MEC|MEC - Mechatronics and Robotics/MEC309.json"
     },
     {
-      "full_name": "Introduction to Nanotechnology",
+      "full_name": "Nanobiotechnology",
       "module_code": "MES001TC",
       "module_level": "Level 0",
       "path": "MESTC|CHP - Microelectronic Science and Engineering/MES001TC.json"
@@ -12674,7 +12669,7 @@
       "path": "MESTC|CHP - Microelectronic Science and Engineering/MES002.json"
     },
     {
-      "full_name": "An rudimentary introduction to artifical intelligience and its VLSI implementation",
+      "full_name": "Introduction to Artificial Intelligence and Its VLSI Implementation",
       "module_code": "MES003TC",
       "module_level": "Level 0",
       "path": "MESTC|CHP - Microelectronic Science and Engineering/MES003TC.json"
@@ -12866,7 +12861,7 @@
       "path": "MESTC|CHP - Microelectronic Science and Engineering/MES409TC.json"
     },
     {
-      "full_name": "Introduction to Nanotechnology",
+      "full_name": "Nanobiotechnology",
       "module_code": "MES001TC",
       "module_level": "Level 0",
       "path": "MESTC|IME - Microelectronic Science and Engineering/MES001TC.json"
@@ -12878,7 +12873,7 @@
       "path": "MESTC|IME - Microelectronic Science and Engineering/MES002.json"
     },
     {
-      "full_name": "An rudimentary introduction to artifical intelligience and its VLSI implementation",
+      "full_name": "Introduction to Artificial Intelligence and Its VLSI Implementation",
       "module_code": "MES003TC",
       "module_level": "Level 0",
       "path": "MESTC|IME - Microelectronic Science and Engineering/MES003TC.json"
@@ -13472,7 +13467,7 @@
       "path": "MTH|APM - Mathematical Sciences/MTH033.json"
     },
     {
-      "full_name": "From Mathematical Basics to Visual Data Analysis",
+      "full_name": "From Mathematical Basics to Visual Data Analysis with AI",
       "module_code": "MTH066",
       "module_level": "Level 0",
       "path": "MTH|APM - Mathematical Sciences/MTH066.json"
@@ -14174,7 +14169,7 @@
       "path": "MTH|FAM - Mathematical Sciences/MTH033.json"
     },
     {
-      "full_name": "From Mathematical Basics to Visual Data Analysis",
+      "full_name": "From Mathematical Basics to Visual Data Analysis with AI",
       "module_code": "MTH066",
       "module_level": "Level 0",
       "path": "MTH|FAM - Mathematical Sciences/MTH066.json"
@@ -14876,7 +14871,7 @@
       "path": "MTH|MAT - Mathematical Sciences/MTH033.json"
     },
     {
-      "full_name": "From Mathematical Basics to Visual Data Analysis",
+      "full_name": "From Mathematical Basics to Visual Data Analysis with AI",
       "module_code": "MTH066",
       "module_level": "Level 0",
       "path": "MTH|MAT - Mathematical Sciences/MTH066.json"
@@ -15578,7 +15573,7 @@
       "path": "MTH|MTH - Mathematical Sciences/MTH033.json"
     },
     {
-      "full_name": "From Mathematical Basics to Visual Data Analysis",
+      "full_name": "From Mathematical Basics to Visual Data Analysis with AI",
       "module_code": "MTH066",
       "module_level": "Level 0",
       "path": "MTH|MTH - Mathematical Sciences/MTH066.json"
@@ -16326,6 +16321,18 @@
       "module_code": "PHY006",
       "module_level": "Level 0",
       "path": "PHY|PHY - Physics/PHY006.json"
+    },
+    {
+      "full_name": "General Physics for Science and Engineering",
+      "module_code": "PHY007",
+      "module_level": "Level 0",
+      "path": "PHY|PHY - Physics/PHY007.json"
+    },
+    {
+      "full_name": "General Physics for Bioengineering",
+      "module_code": "PHY008",
+      "module_level": "Level 0",
+      "path": "PHY|PHY - Physics/PHY008.json"
     },
     {
       "full_name": "Physics for Chemistry",

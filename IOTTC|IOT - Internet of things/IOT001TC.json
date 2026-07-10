@@ -4,15 +4,15 @@
     "domain_code": "IOTTC",
     "full_name": "Internet of things"
   },
-  "full_name": "Introduction to AIoT through Hands-on Projects",
+  "full_name": "Introduction to AIoT and the Internet of Intelligence",
   "module_code": "IOT001TC",
   "offerings": [
     {
-      "heading": "Introduction to AIoT through Hands-on Projects",
+      "heading": "Introduction to AIoT and the Internet of Intelligence",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "IOTTC",
-        "full_name": "Introduction to AIoT through Hands-on Projects",
+        "full_name": "Introduction to AIoT and the Internet of Intelligence",
         "module_code": "IOT001TC",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "2.5",
         "Module Level": "Level 0",
-        "Module Title": "Introduction to AIoT through Hands-on Projects",
+        "Module Title": "Introduction to AIoT and the Internet of Intelligence",
         "Semester": "SEM1"
       },
       "sections": {

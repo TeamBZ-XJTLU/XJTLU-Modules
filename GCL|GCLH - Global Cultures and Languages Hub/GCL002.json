@@ -4,15 +4,15 @@
     "domain_code": "GCL",
     "full_name": "Global Cultures and Languages Hub"
   },
-  "full_name": "Culture, Language, and Community",
+  "full_name": "Culture, Language and Community",
   "module_code": "GCL002",
   "offerings": [
     {
-      "heading": "Culture, Language, and Community",
+      "heading": "Culture, Language and Community",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "GCL",
-        "full_name": "Culture, Language, and Community",
+        "full_name": "Culture, Language and Community",
         "module_code": "GCL002",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "2.5",
         "Module Level": "Level 0",
-        "Module Title": "Culture, Language, and Community",
+        "Module Title": "Culture, Language and Community",
         "Semester": "SEM2"
       },
       "sections": {
