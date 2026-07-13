@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMP",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Computational Methods in Finance I",
+  "module_code": "MTH401",
+  "offerings": [
+    {
+      "heading": "Computational Methods in Finance I",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Computational Methods in Finance I",
+        "module_code": "MTH401",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Computational Methods in Finance I",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course will provide a survey of numerical methods commonly used for mathematical finance with emphasis on certain computational schemes crucially important. This includes random number generation, interpolation, integral and differential equations, optimization, and simulation. Also aims to realize the numerical algorithm in computing languages such as Matlab or C++",
+        "Learning outcomes": "a. They should be able to understand and apply fundamental numerical schemes in fixed income products. b. To be able to understand and implement the binomial model c. To be able to analyze and implement finite difference methods",
+        "Method of teaching and learning": "Lectures and computer tutorials"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH401&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMP",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Introduction to Insurance",
+  "module_code": "MTH012",
+  "offerings": [
+    {
+      "heading": "Introduction to Insurance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Introduction to Insurance",
+        "module_code": "MTH012",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Introduction to Insurance",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides Year 1 students with an introductory understanding of risk, uncertainty, risk management and insurance in personal, organisational and social contexts. It helps students develop basic risk awareness, insurance literacy, case-based thinking and communication skills, while also supporting their awareness of future study and professional pathways related to risk and insurance.",
+        "Learning outcomes": "A. Explain introductory concepts of risk, uncertainty, risk management and insurance. B. Describe how insurance can be used to respond to risk in personal, organisational and social contexts. C. Use simple evidence and case materials to discuss risk and insurance-related issues. D. Communicate introductory ideas about risk and insurance clearly, and reflect on their relevance to future study and professional pathways.",
+        "Method of teaching and learning": "The module is delivered through formal lectures."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH012&psl_code=SEM2"
+    }
+  ]
+}

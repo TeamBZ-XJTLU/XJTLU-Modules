@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMP",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Multivariable Calculus and Statistics",
+  "module_code": "MTH002",
+  "offerings": [
+    {
+      "heading": "Multivariable Calculus and Statistics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Multivariable Calculus and Statistics",
+        "module_code": "MTH002",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Multivariable Calculus and Statistics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To give students an elementary of multivariable Calculus and statistics; To introduce the concept of modeling and various mathematical models in practical problems; To develop students' ability to work independently and to acquire the skill of problem solving; To improve students’ ability to learn academic contents using English.",
+        "Learning outcomes": "A. have an initial understanding of the basic concepts which are the subject of this module; B. have a good appreciation of the link between mathematics and other subjects; C. be able to understand the mathematical models for simple practical problems. D. describe statistical data; E. use the Binomial, Poisson and Normal distributions; F. understand the basic principle of inferential statistics. G. be able to utilize the new technology such as computer programs and online resources to perform self-study.",
+        "Method of teaching and learning": "The module will be typically organized as a combination of lecturers and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH002&psl_code=SEM2"
+    }
+  ]
+}

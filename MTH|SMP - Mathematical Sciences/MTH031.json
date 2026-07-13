@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMP",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Calculus II for Science and Engineering",
+  "module_code": "MTH031",
+  "offerings": [
+    {
+      "heading": "Calculus II for Science and Engineering",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Calculus II for Science and Engineering",
+        "module_code": "MTH031",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Calculus II for Science and Engineering",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide students with a broad foundation in calculus, including multivariable differentiation, infinite series, and integration techniques; To develop students' ability to apply calculus to Science and Engineering contexts; To strengthen independent learning, mathematical communication, and problem-solving skills needed for progression to Year 2; To support Year 1 academic communication and foundational academic capability through written solutions, use of notation, and discipline-focused problem solving.",
+        "Learning outcomes": "A Construct Taylor and Maclaurin series, manipulate power series, determine convergence using appropriate tests, and apply Taylor approximations with error estimates to solve calculus problems. B Perform vector operations, including dot products and cross products, and apply them to solve problems involving lines, planes, and surfaces in three-dimensional space. C Compute partial derivatives, directional derivatives, and gradients, and apply them to solve multivariable optimisation problems including constrained optimisation via Lagrange multipliers. D Calculate volumes of solids of revolution, arc lengths of curves, and surface areas using single-variable integration methods. E Evaluate double and triple integrals over rectangular and general regions using iterated integrals in polar, cylindrical, and spherical coordinates.",
+        "Method of teaching and learning": "Students will attend 3 hours of lectures and 1 hour of tutorial in a typical week. Lectures introduce core ideas and techniques through worked examples and applications to Science and Engineering contexts. Tutorials provide guided practice, feedback, and opportunities for students to explain solutions using appropriate mathematical notation and academic language. Private study is used to complete problem sets, review feedback, and consolidate foundational skills for Year 2 readiness."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH031&psl_code=SEM2"
+    }
+  ]
+}

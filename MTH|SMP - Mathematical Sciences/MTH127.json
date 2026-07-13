@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMP",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Introduction to Probability",
+  "module_code": "MTH127",
+  "offerings": [
+    {
+      "heading": "Introduction to Probability",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Introduction to Probability",
+        "module_code": "MTH127",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Probability",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides a rigorous introduction to the probability theory for students in actuarial science or related fields. The module is designed to align with the corresponding professional exam(s) in SOA and IFoA. This module is also a foundation module for many high-level modules in BSc Actuarial Science programme.",
+        "Learning outcomes": "A. Define the concept and perform calculations of various probabilities B. Explain and calculate probability, expectation, variance, and standard deviation for discrete and continuous univariate random variables C. Explain and calculate probability, expectation, variance, and covariance for discrete and continuous multivariate random variables D. Evaluate and apply generating functions of a random variable E. State and apply the central limit theorem",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH127&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMP",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Introductory Calculus",
+  "module_code": "MTH030",
+  "offerings": [
+    {
+      "heading": "Introductory Calculus",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Introductory Calculus",
+        "module_code": "MTH030",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Introductory Calculus",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides a basic, practical introduction to single-variable calculus for students from diverse international academic backgrounds. It covers elementary functions, limits, continuity, differentiation, and introductory integration, equipping students with foundational calculus knowledge for future quantitative study. It supports Y1LO2 and Y1LO5 through guided use of notation, written explanation, and problem-solving practice.",
+        "Learning outcomes": "A Analyse elementary functions such as polynomial, rational, exponential, logarithmic, trigonometric, and inverse trigonometric functions. B Compute limits and determine continuity of functions. C Calculate derivatives using standard differentiation rules. D Employ derivatives to examine the nature of functions and solve simple optimization problems. E Compute antiderivatives and definite integrals using standard integration rules.",
+        "Method of teaching and learning": "Students will attend 3 hours of lectures and 1 hour of tutorial in a typical week. Lectures introduce core calculus concepts through explanations, worked examples, and applications. Tutorials provide guided problem-solving and feedback, helping students read mathematical notation, write clear solutions, and explain methods using appropriate academic language. Private study consolidates lecture materials, problem-sheet practice, feedback use, and foundational calculus skills for progression."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH030&psl_code=SEM1"
+    }
+  ]
+}

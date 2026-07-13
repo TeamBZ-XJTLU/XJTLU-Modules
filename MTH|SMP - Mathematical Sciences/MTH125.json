@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMP",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Real Analysis for Financial Mathematics",
+  "module_code": "MTH125",
+  "offerings": [
+    {
+      "heading": "Real Analysis for Financial Mathematics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Real Analysis for Financial Mathematics",
+        "module_code": "MTH125",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Real Analysis for Financial Mathematics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide a basic understanding of the principles of Real Analysis for more advanced modules in Financial Mathematics.",
+        "Learning outcomes": "A State basics concepts of elementary Real Analysis B Present the proof of the main theorems C Apply definitions and fundamental theorems to elementary examples D Construct their own proofs of simple unseen results",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH125&psl_code=SEM1"
+    }
+  ]
+}

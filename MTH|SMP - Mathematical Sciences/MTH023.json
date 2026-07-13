@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMP",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Introductory Calculus II",
+  "module_code": "MTH023",
+  "offerings": [
+    {
+      "heading": "Introductory Calculus II",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Introductory Calculus II",
+        "module_code": "MTH023",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Introductory Calculus II",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed for non-local students who have a strong background in pre-calculus mathematics including algebra and functions. This module requires a comprehensive understanding of pre-calculus high school mathematics. Unlike MTH025/27, no significant amount of class time is spent on developing pre-calculus. The aims of the module are to: 1. Develop an understanding and intuition for the concepts of limits, differentiation and integration; 2. Build confidence in evaluating derivatives and integrals of polynomial, trigonometric, exponential and logarithmic functions; 3. Introduce advanced mathematical techniques to differentiate and integrate a wider range of complicated functions; 4. Use calculus to solve linear first-order differential equations; 5. Promote students’ ability to work independently and acquire problem solving skills.",
+        "Learning outcomes": "A. Demonstrate an understanding of the concepts of limits, continuity, the derivative of a function, and the integral of a function (definite and indefinite); B. Calculate the limit, derivative and integral (definite and indefinite) of polynomial, trigonometric, exponential and logarithmic functions using a range of techniques and interpret the results; C. Apply their knowledge of differentiation and integration to determine the critical features of functions including critical points and concavity, and calculate the areas bounded by one or multiple functions. D. Employ advanced techniques such as partial fraction of integration by parts to integrate more complicated functions; E. Make use of appropriate techniques to solve linear first-order differential equations.",
+        "Method of teaching and learning": "Students will be expected to attend about 5 hours of formal lectures and either supervised problem classes or a 1 hour tutorial in a typical week. Lectures and tutorials will introduce students to the academic content and practical skills which are the subject of the module, while tutorials and problem classes will allow students to practice those skills. In addition to the time of classes, students will be expected to devote the unsupervised time to private study. Private study will provide time for reflection and consideration of lecture material and background reading. Continuous assessment, including home assignment marking, will be used to test to what extent practical skills have been learnt. Written examinations in the middle and at the end of the semester constitute the major part of assessment of the academic achievement."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH023&psl_code=SEM1"
+    }
+  ]
+}

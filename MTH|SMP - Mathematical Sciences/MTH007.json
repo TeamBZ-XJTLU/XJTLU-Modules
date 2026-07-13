@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMP",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Linear Algebra",
+  "module_code": "MTH007",
+  "offerings": [
+    {
+      "heading": "Linear Algebra",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Linear Algebra",
+        "module_code": "MTH007",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Linear Algebra",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To give students a broad education in linear algebra To give students an appreciation of the application of linear algebra; To develop the students' ability to work independently and to acquire the skill of problem solving.",
+        "Learning outcomes": "On successful completion of this module, students are expected - to have a good understanding of the basic concepts which are the subject of this module; - to be skilful of problem solving; - to be able to establish mathematical models for simple practical problems.",
+        "Method of teaching and learning": "Students will be expected to attend about 2 hours of formal lectures and supervised problem classes or tutorials in a typical week. Lectures and tutorials will introduce students to the academic content and practical skills which are the subject of the module, while tutorials and problem classes will allow students to practice those skills. In addition to the time of classes, students will be expected to devote the unsupervised time to private study. Private study will provide time for reflection and consideration of lecture material and background reading. Continuous assessment including home assignment marking will be used to test to what extent practical skills have been learnt. Written examination at the end of the semester constitutes the major part of the assessment of the academic achievement of students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH007&psl_code=SEM1"
+    }
+  ]
+}

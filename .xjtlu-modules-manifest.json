@@ -557,30 +557,6 @@
     "CPT|CPT - Computing/CPT416.json",
     "CPT|CPT - Computing/CPT417.json",
     "CPT|CPT - Computing/CPT418.json",
-    "DES|ARC - Design",
-    "DES|ARC - Design/DES002.json",
-    "DES|ARC - Design/DES003.json",
-    "DES|ARC - Design/DES004.json",
-    "DES|ARC - Design/DES006.json",
-    "DES|ARC - Design/DES007.json",
-    "DES|ARC - Design/DES008.json",
-    "DES|ARC - Design/DES101.json",
-    "DES|ARC - Design/DES102.json",
-    "DES|ARC - Design/DES103.json",
-    "DES|ARC - Design/DES105.json",
-    "DES|ARC - Design/DES107.json",
-    "DES|ARC - Design/DES201.json",
-    "DES|ARC - Design/DES202.json",
-    "DES|ARC - Design/DES203.json",
-    "DES|ARC - Design/DES301.json",
-    "DES|ARC - Design/DES302.json",
-    "DES|ARC - Design/DES402.json",
-    "DES|ARC - Design/DES404.json",
-    "DES|ARC - Design/DES405.json",
-    "DES|ARC - Design/DES406.json",
-    "DES|ARC - Design/DES407.json",
-    "DES|ARC - Design/DES408.json",
-    "DES|ARC - Design/DES409.json",
     "DES|DES - Design",
     "DES|DES - Design/DES002.json",
     "DES|DES - Design/DES003.json",
@@ -1002,6 +978,7 @@
     "FIN|FIN - Finance/FIN003.json",
     "FIN|FIN - Finance/FIN101.json",
     "FIN|FIN - Finance/FIN102.json",
+    "FIN|FIN - Finance/FIN103.json",
     "FIN|FIN - Finance/FIN104.json",
     "FIN|FIN - Finance/FIN105.json",
     "FIN|FIN - Finance/FIN201.json",
@@ -2321,6 +2298,124 @@
     "MTH|MTH - Mathematical Sciences/MTH446.json",
     "MTH|MTH - Mathematical Sciences/MTH447.json",
     "MTH|MTH - Mathematical Sciences/MTH448.json",
+    "MTH|SMP - Mathematical Sciences",
+    "MTH|SMP - Mathematical Sciences/MTH002.json",
+    "MTH|SMP - Mathematical Sciences/MTH004.json",
+    "MTH|SMP - Mathematical Sciences/MTH007.json",
+    "MTH|SMP - Mathematical Sciences/MTH008.json",
+    "MTH|SMP - Mathematical Sciences/MTH012.json",
+    "MTH|SMP - Mathematical Sciences/MTH013.json",
+    "MTH|SMP - Mathematical Sciences/MTH015.json",
+    "MTH|SMP - Mathematical Sciences/MTH017.json",
+    "MTH|SMP - Mathematical Sciences/MTH019.json",
+    "MTH|SMP - Mathematical Sciences/MTH020.json",
+    "MTH|SMP - Mathematical Sciences/MTH022.json",
+    "MTH|SMP - Mathematical Sciences/MTH023.json",
+    "MTH|SMP - Mathematical Sciences/MTH024.json",
+    "MTH|SMP - Mathematical Sciences/MTH025.json",
+    "MTH|SMP - Mathematical Sciences/MTH026.json",
+    "MTH|SMP - Mathematical Sciences/MTH027.json",
+    "MTH|SMP - Mathematical Sciences/MTH028.json",
+    "MTH|SMP - Mathematical Sciences/MTH029.json",
+    "MTH|SMP - Mathematical Sciences/MTH030.json",
+    "MTH|SMP - Mathematical Sciences/MTH031.json",
+    "MTH|SMP - Mathematical Sciences/MTH032.json",
+    "MTH|SMP - Mathematical Sciences/MTH033.json",
+    "MTH|SMP - Mathematical Sciences/MTH066.json",
+    "MTH|SMP - Mathematical Sciences/MTH101.json",
+    "MTH|SMP - Mathematical Sciences/MTH102.json",
+    "MTH|SMP - Mathematical Sciences/MTH104.json",
+    "MTH|SMP - Mathematical Sciences/MTH106.json",
+    "MTH|SMP - Mathematical Sciences/MTH107.json",
+    "MTH|SMP - Mathematical Sciences/MTH108.json",
+    "MTH|SMP - Mathematical Sciences/MTH113.json",
+    "MTH|SMP - Mathematical Sciences/MTH116.json",
+    "MTH|SMP - Mathematical Sciences/MTH117.json",
+    "MTH|SMP - Mathematical Sciences/MTH118.json",
+    "MTH|SMP - Mathematical Sciences/MTH120.json",
+    "MTH|SMP - Mathematical Sciences/MTH122.json",
+    "MTH|SMP - Mathematical Sciences/MTH123.json",
+    "MTH|SMP - Mathematical Sciences/MTH125.json",
+    "MTH|SMP - Mathematical Sciences/MTH126.json",
+    "MTH|SMP - Mathematical Sciences/MTH127.json",
+    "MTH|SMP - Mathematical Sciences/MTH128.json",
+    "MTH|SMP - Mathematical Sciences/MTH129.json",
+    "MTH|SMP - Mathematical Sciences/MTH201.json",
+    "MTH|SMP - Mathematical Sciences/MTH202.json",
+    "MTH|SMP - Mathematical Sciences/MTH203.json",
+    "MTH|SMP - Mathematical Sciences/MTH205.json",
+    "MTH|SMP - Mathematical Sciences/MTH206.json",
+    "MTH|SMP - Mathematical Sciences/MTH207.json",
+    "MTH|SMP - Mathematical Sciences/MTH208.json",
+    "MTH|SMP - Mathematical Sciences/MTH209.json",
+    "MTH|SMP - Mathematical Sciences/MTH210.json",
+    "MTH|SMP - Mathematical Sciences/MTH212.json",
+    "MTH|SMP - Mathematical Sciences/MTH214.json",
+    "MTH|SMP - Mathematical Sciences/MTH217.json",
+    "MTH|SMP - Mathematical Sciences/MTH219.json",
+    "MTH|SMP - Mathematical Sciences/MTH222.json",
+    "MTH|SMP - Mathematical Sciences/MTH224.json",
+    "MTH|SMP - Mathematical Sciences/MTH227.json",
+    "MTH|SMP - Mathematical Sciences/MTH229.json",
+    "MTH|SMP - Mathematical Sciences/MTH230.json",
+    "MTH|SMP - Mathematical Sciences/MTH232.json",
+    "MTH|SMP - Mathematical Sciences/MTH233.json",
+    "MTH|SMP - Mathematical Sciences/MTH234.json",
+    "MTH|SMP - Mathematical Sciences/MTH236.json",
+    "MTH|SMP - Mathematical Sciences/MTH237.json",
+    "MTH|SMP - Mathematical Sciences/MTH238.json",
+    "MTH|SMP - Mathematical Sciences/MTH239.json",
+    "MTH|SMP - Mathematical Sciences/MTH301.json",
+    "MTH|SMP - Mathematical Sciences/MTH302.json",
+    "MTH|SMP - Mathematical Sciences/MTH303.json",
+    "MTH|SMP - Mathematical Sciences/MTH305.json",
+    "MTH|SMP - Mathematical Sciences/MTH306.json",
+    "MTH|SMP - Mathematical Sciences/MTH307.json",
+    "MTH|SMP - Mathematical Sciences/MTH308.json",
+    "MTH|SMP - Mathematical Sciences/MTH310.json",
+    "MTH|SMP - Mathematical Sciences/MTH312.json",
+    "MTH|SMP - Mathematical Sciences/MTH313.json",
+    "MTH|SMP - Mathematical Sciences/MTH315.json",
+    "MTH|SMP - Mathematical Sciences/MTH316.json",
+    "MTH|SMP - Mathematical Sciences/MTH318.json",
+    "MTH|SMP - Mathematical Sciences/MTH319.json",
+    "MTH|SMP - Mathematical Sciences/MTH321.json",
+    "MTH|SMP - Mathematical Sciences/MTH322.json",
+    "MTH|SMP - Mathematical Sciences/MTH323.json",
+    "MTH|SMP - Mathematical Sciences/MTH324.json",
+    "MTH|SMP - Mathematical Sciences/MTH325.json",
+    "MTH|SMP - Mathematical Sciences/MTH401.json",
+    "MTH|SMP - Mathematical Sciences/MTH402.json",
+    "MTH|SMP - Mathematical Sciences/MTH403.json",
+    "MTH|SMP - Mathematical Sciences/MTH404.json",
+    "MTH|SMP - Mathematical Sciences/MTH405.json",
+    "MTH|SMP - Mathematical Sciences/MTH406.json",
+    "MTH|SMP - Mathematical Sciences/MTH408.json",
+    "MTH|SMP - Mathematical Sciences/MTH409.json",
+    "MTH|SMP - Mathematical Sciences/MTH411.json",
+    "MTH|SMP - Mathematical Sciences/MTH412.json",
+    "MTH|SMP - Mathematical Sciences/MTH413.json",
+    "MTH|SMP - Mathematical Sciences/MTH414.json",
+    "MTH|SMP - Mathematical Sciences/MTH415.json",
+    "MTH|SMP - Mathematical Sciences/MTH416.json",
+    "MTH|SMP - Mathematical Sciences/MTH417.json",
+    "MTH|SMP - Mathematical Sciences/MTH418.json",
+    "MTH|SMP - Mathematical Sciences/MTH419.json",
+    "MTH|SMP - Mathematical Sciences/MTH420.json",
+    "MTH|SMP - Mathematical Sciences/MTH432.json",
+    "MTH|SMP - Mathematical Sciences/MTH433.json",
+    "MTH|SMP - Mathematical Sciences/MTH434.json",
+    "MTH|SMP - Mathematical Sciences/MTH435.json",
+    "MTH|SMP - Mathematical Sciences/MTH436.json",
+    "MTH|SMP - Mathematical Sciences/MTH438.json",
+    "MTH|SMP - Mathematical Sciences/MTH439.json",
+    "MTH|SMP - Mathematical Sciences/MTH442.json",
+    "MTH|SMP - Mathematical Sciences/MTH443.json",
+    "MTH|SMP - Mathematical Sciences/MTH444.json",
+    "MTH|SMP - Mathematical Sciences/MTH445.json",
+    "MTH|SMP - Mathematical Sciences/MTH446.json",
+    "MTH|SMP - Mathematical Sciences/MTH447.json",
+    "MTH|SMP - Mathematical Sciences/MTH448.json",
     "MTS|CHE - Material Science",
     "MTS|CHE - Material Science/MTS001.json",
     "MTS|CHE - Material Science/MTS101.json",
@@ -2586,7 +2681,7 @@
     "XPU|LIFE - XIPU AI general education/XPU001.json",
     "XPU|LIFE - XIPU AI general education/XPU002.json"
   ],
-  "module_file_count": 2511,
+  "module_file_count": 2606,
   "modules": [
     {
       "full_name": "Exploring the Applications of AI and Large Language Models",
@@ -5814,144 +5909,6 @@
       "full_name": "Design Thinking",
       "module_code": "DES002",
       "module_level": "Level 0",
-      "path": "DES|ARC - Design/DES002.json"
-    },
-    {
-      "full_name": "Principles of Design",
-      "module_code": "DES003",
-      "module_level": "Level 0",
-      "path": "DES|ARC - Design/DES003.json"
-    },
-    {
-      "full_name": "Future Cities",
-      "module_code": "DES004",
-      "module_level": "Level 0",
-      "path": "DES|ARC - Design/DES004.json"
-    },
-    {
-      "full_name": "Designing Intelligent Futures",
-      "module_code": "DES006",
-      "module_level": "Level 0",
-      "path": "DES|ARC - Design/DES006.json"
-    },
-    {
-      "full_name": "Designing AI Futures",
-      "module_code": "DES007",
-      "module_level": "Level 0",
-      "path": "DES|ARC - Design/DES007.json"
-    },
-    {
-      "full_name": "Design Thinking and Innovation",
-      "module_code": "DES008",
-      "module_level": "Level 0",
-      "path": "DES|ARC - Design/DES008.json"
-    },
-    {
-      "full_name": "Regenerative Design",
-      "module_code": "DES101",
-      "module_level": "Level 1",
-      "path": "DES|ARC - Design/DES101.json"
-    },
-    {
-      "full_name": "Contextual Design Studio",
-      "module_code": "DES102",
-      "module_level": "Level 1",
-      "path": "DES|ARC - Design/DES102.json"
-    },
-    {
-      "full_name": "Multiscale Collaborative Design Studio",
-      "module_code": "DES103",
-      "module_level": "Level 1",
-      "path": "DES|ARC - Design/DES103.json"
-    },
-    {
-      "full_name": "Introduction to Design Languages and Artificial Intelligence",
-      "module_code": "DES105",
-      "module_level": "Level 1",
-      "path": "DES|ARC - Design/DES105.json"
-    },
-    {
-      "full_name": "Entrepreneurialism in Design and Engineering",
-      "module_code": "DES107",
-      "module_level": "Level 1",
-      "path": "DES|ARC - Design/DES107.json"
-    },
-    {
-      "full_name": "Transition Design",
-      "module_code": "DES201",
-      "module_level": "Level 2",
-      "path": "DES|ARC - Design/DES201.json"
-    },
-    {
-      "full_name": "Principle of Integrated Design Studio",
-      "module_code": "DES202",
-      "module_level": "Level 2",
-      "path": "DES|ARC - Design/DES202.json"
-    },
-    {
-      "full_name": "Creative Design & Making Studio",
-      "module_code": "DES203",
-      "module_level": "Level 2",
-      "path": "DES|ARC - Design/DES203.json"
-    },
-    {
-      "full_name": "Professional Practice",
-      "module_code": "DES301",
-      "module_level": "Level 3",
-      "path": "DES|ARC - Design/DES301.json"
-    },
-    {
-      "full_name": "Final Year Project",
-      "module_code": "DES302",
-      "module_level": "Level 3",
-      "path": "DES|ARC - Design/DES302.json"
-    },
-    {
-      "full_name": "Sustainable Project Management",
-      "module_code": "DES402",
-      "module_level": "Level 4",
-      "path": "DES|ARC - Design/DES402.json"
-    },
-    {
-      "full_name": "Facade Design Theory",
-      "module_code": "DES404",
-      "module_level": "Level 4",
-      "path": "DES|ARC - Design/DES404.json"
-    },
-    {
-      "full_name": "Facade Design Studio",
-      "module_code": "DES405",
-      "module_level": "Level 4",
-      "path": "DES|ARC - Design/DES405.json"
-    },
-    {
-      "full_name": "Design Dissertation/Project",
-      "module_code": "DES406",
-      "module_level": "Level 4",
-      "path": "DES|ARC - Design/DES406.json"
-    },
-    {
-      "full_name": "Digital Technologies for Process in the Built Environment",
-      "module_code": "DES407",
-      "module_level": "Level 4",
-      "path": "DES|ARC - Design/DES407.json"
-    },
-    {
-      "full_name": "Topics in Landscape Design and Technology",
-      "module_code": "DES408",
-      "module_level": "Level 4",
-      "path": "DES|ARC - Design/DES408.json"
-    },
-    {
-      "full_name": "Urban and Landscape Design Studio",
-      "module_code": "DES409",
-      "module_level": "Level 4",
-      "path": "DES|ARC - Design/DES409.json"
-    },
-    {
-      "full_name": "Design Thinking",
-      "module_code": "DES002",
-      "module_level": "Level 0",
       "path": "DES|DES - Design/DES002.json"
     },
     {
@@ -8407,6 +8364,12 @@
       "module_code": "FIN102",
       "module_level": "Level 1",
       "path": "FIN|FIN - Finance/FIN102.json"
+    },
+    {
+      "full_name": "Python for Data analytics",
+      "module_code": "FIN103",
+      "module_level": "Level 1",
+      "path": "FIN|FIN - Finance/FIN103.json"
     },
     {
       "full_name": "Introduction to Finance",
@@ -16141,6 +16104,708 @@
       "module_code": "MTH448",
       "module_level": "Level 4",
       "path": "MTH|MTH - Mathematical Sciences/MTH448.json"
+    },
+    {
+      "full_name": "Multivariable Calculus and Statistics",
+      "module_code": "MTH002",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH002.json"
+    },
+    {
+      "full_name": "Multivariable Calculus (Business and Arts)",
+      "module_code": "MTH004",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH004.json"
+    },
+    {
+      "full_name": "Linear Algebra",
+      "module_code": "MTH007",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH007.json"
+    },
+    {
+      "full_name": "Multivariable Calculus (Science and Engineering)",
+      "module_code": "MTH008",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH008.json"
+    },
+    {
+      "full_name": "Introduction to Insurance",
+      "module_code": "MTH012",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH012.json"
+    },
+    {
+      "full_name": "Calculus (Science and Engineering)",
+      "module_code": "MTH013",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH013.json"
+    },
+    {
+      "full_name": "Introductory Linear Algebra",
+      "module_code": "MTH015",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH015.json"
+    },
+    {
+      "full_name": "Linear Algebra for Mathematical Science",
+      "module_code": "MTH017",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH017.json"
+    },
+    {
+      "full_name": "Calculus for Business",
+      "module_code": "MTH019",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH019.json"
+    },
+    {
+      "full_name": "Modelling the Real World: Gateway to Applied Math and Physics",
+      "module_code": "MTH020",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH020.json"
+    },
+    {
+      "full_name": "Mathematical and Statistical Models",
+      "module_code": "MTH022",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH022.json"
+    },
+    {
+      "full_name": "Introductory Calculus II",
+      "module_code": "MTH023",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH023.json"
+    },
+    {
+      "full_name": "Mathematical Reasoning",
+      "module_code": "MTH024",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH024.json"
+    },
+    {
+      "full_name": "Pre-Calculus",
+      "module_code": "MTH025",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH025.json"
+    },
+    {
+      "full_name": "Calculus I",
+      "module_code": "MTH026",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH026.json"
+    },
+    {
+      "full_name": "Introductory Calculus I",
+      "module_code": "MTH027",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH027.json"
+    },
+    {
+      "full_name": "Linear Algebra I",
+      "module_code": "MTH028",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH028.json"
+    },
+    {
+      "full_name": "Calculus (Mathematical Sciences)",
+      "module_code": "MTH029",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH029.json"
+    },
+    {
+      "full_name": "Introductory Calculus",
+      "module_code": "MTH030",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH030.json"
+    },
+    {
+      "full_name": "Calculus II for Science and Engineering",
+      "module_code": "MTH031",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH031.json"
+    },
+    {
+      "full_name": "Calculus II for Business and Arts",
+      "module_code": "MTH032",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH032.json"
+    },
+    {
+      "full_name": "Linear Algebra II",
+      "module_code": "MTH033",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH033.json"
+    },
+    {
+      "full_name": "From Mathematical Basics to Visual Data Analysis with AI",
+      "module_code": "MTH066",
+      "module_level": "Level 0",
+      "path": "MTH|SMP - Mathematical Sciences/MTH066.json"
+    },
+    {
+      "full_name": "Engineering Mathematics I",
+      "module_code": "MTH101",
+      "module_level": "Level 1",
+      "path": "MTH|SMP - Mathematical Sciences/MTH101.json"
+    },
+    {
+      "full_name": "Engineering Mathematics II",
+      "module_code": "MTH102",
+      "module_level": "Level 1",
+      "path": "MTH|SMP - Mathematical Sciences/MTH102.json"
+    },
+    {
+      "full_name": "Introduction to Statistics",
+      "module_code": "MTH104",
+      "module_level": "Level 1",
+      "path": "MTH|SMP - Mathematical Sciences/MTH104.json"
+    },
+    {
+      "full_name": "Introduction to the Methods of Applied Mathematics",
+      "module_code": "MTH106",
+      "module_level": "Level 1",
+      "path": "MTH|SMP - Mathematical Sciences/MTH106.json"
+    },
+    {
+      "full_name": "Advanced Linear Algebra",
+      "module_code": "MTH107",
+      "module_level": "Level 1",
+      "path": "MTH|SMP - Mathematical Sciences/MTH107.json"
+    },
+    {
+      "full_name": "Dynamic Modelling",
+      "module_code": "MTH108",
+      "module_level": "Level 1",
+      "path": "MTH|SMP - Mathematical Sciences/MTH108.json"
+    },
+    {
+      "full_name": "Introduction to Probability and Statistics",
+      "module_code": "MTH113",
+      "module_level": "Level 1",
+      "path": "MTH|SMP - Mathematical Sciences/MTH113.json"
+    },
+    {
+      "full_name": "Foundations of Financial Computing",
+      "module_code": "MTH116",
+      "module_level": "Level 1",
+      "path": "MTH|SMP - Mathematical Sciences/MTH116.json"
+    },
+    {
+      "full_name": "Analysis 1",
+      "module_code": "MTH117",
+      "module_level": "Level 1",
+      "path": "MTH|SMP - Mathematical Sciences/MTH117.json"
+    },
+    {
+      "full_name": "Analysis 2",
+      "module_code": "MTH118",
+      "module_level": "Level 1",
+      "path": "MTH|SMP - Mathematical Sciences/MTH118.json"
+    },
+    {
+      "full_name": "Theory of Interest",
+      "module_code": "MTH120",
+      "module_level": "Level 1",
+      "path": "MTH|SMP - Mathematical Sciences/MTH120.json"
+    },
+    {
+      "full_name": "Introduction to Abstract Algebra",
+      "module_code": "MTH122",
+      "module_level": "Level 1",
+      "path": "MTH|SMP - Mathematical Sciences/MTH122.json"
+    },
+    {
+      "full_name": "Differential Equations for Engineers",
+      "module_code": "MTH123",
+      "module_level": "Level 1",
+      "path": "MTH|SMP - Mathematical Sciences/MTH123.json"
+    },
+    {
+      "full_name": "Real Analysis for Financial Mathematics",
+      "module_code": "MTH125",
+      "module_level": "Level 1",
+      "path": "MTH|SMP - Mathematical Sciences/MTH125.json"
+    },
+    {
+      "full_name": "Differential Equations With Computer Solutions",
+      "module_code": "MTH126",
+      "module_level": "Level 1",
+      "path": "MTH|SMP - Mathematical Sciences/MTH126.json"
+    },
+    {
+      "full_name": "Introduction to Probability",
+      "module_code": "MTH127",
+      "module_level": "Level 1",
+      "path": "MTH|SMP - Mathematical Sciences/MTH127.json"
+    },
+    {
+      "full_name": "Bridging Math, Physics, and Entrepreneurship",
+      "module_code": "MTH128",
+      "module_level": "Level 1",
+      "path": "MTH|SMP - Mathematical Sciences/MTH128.json"
+    },
+    {
+      "full_name": "Introduction to AI for Mathematical Sciences",
+      "module_code": "MTH129",
+      "module_level": "Level 1",
+      "path": "MTH|SMP - Mathematical Sciences/MTH129.json"
+    },
+    {
+      "full_name": "Engineering Mathematics III",
+      "module_code": "MTH201",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH201.json"
+    },
+    {
+      "full_name": "Introduction to Financial Mathematics",
+      "module_code": "MTH202",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH202.json"
+    },
+    {
+      "full_name": "Introduction To Operational Research",
+      "module_code": "MTH203",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH203.json"
+    },
+    {
+      "full_name": "Introduction to Statistical Methods",
+      "module_code": "MTH205",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH205.json"
+    },
+    {
+      "full_name": "Statistical Distribution Theory",
+      "module_code": "MTH206",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH206.json"
+    },
+    {
+      "full_name": "Vector Fields: Theory and Applications",
+      "module_code": "MTH207",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH207.json"
+    },
+    {
+      "full_name": "Numerical Analysis",
+      "module_code": "MTH208",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH208.json"
+    },
+    {
+      "full_name": "Classical Mechanics",
+      "module_code": "MTH209",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH209.json"
+    },
+    {
+      "full_name": "Partial Differential Equations",
+      "module_code": "MTH210",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH210.json"
+    },
+    {
+      "full_name": "Ordinary Differential Equations and Control",
+      "module_code": "MTH212",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH212.json"
+    },
+    {
+      "full_name": "Life Insurance Mathematics II",
+      "module_code": "MTH214",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH214.json"
+    },
+    {
+      "full_name": "Life Insurance Mathematics I",
+      "module_code": "MTH217",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH217.json"
+    },
+    {
+      "full_name": "Complex Functions",
+      "module_code": "MTH219",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH219.json"
+    },
+    {
+      "full_name": "Financial Engineering (I)：Advanced Modelling and Derivative Securities",
+      "module_code": "MTH222",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH222.json"
+    },
+    {
+      "full_name": "Metric Spaces",
+      "module_code": "MTH224",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH224.json"
+    },
+    {
+      "full_name": "Fluid Mechanics and Vector Fields for Engineering",
+      "module_code": "MTH227",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH227.json"
+    },
+    {
+      "full_name": "Discrete Mathematics",
+      "module_code": "MTH229",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH229.json"
+    },
+    {
+      "full_name": "Symmetries In Geometry",
+      "module_code": "MTH230",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH230.json"
+    },
+    {
+      "full_name": "Stochastic Processes And Calculus",
+      "module_code": "MTH232",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH232.json"
+    },
+    {
+      "full_name": "Foundations of Quantitative Investments",
+      "module_code": "MTH233",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH233.json"
+    },
+    {
+      "full_name": "Quantitative Finance with Programming",
+      "module_code": "MTH234",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH234.json"
+    },
+    {
+      "full_name": "Statistical Methods forActuarial Science",
+      "module_code": "MTH236",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH236.json"
+    },
+    {
+      "full_name": "Stochastic Modelling in Insurance and Finance I",
+      "module_code": "MTH237",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH237.json"
+    },
+    {
+      "full_name": "Risk Modelling and Survival Analysis",
+      "module_code": "MTH238",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH238.json"
+    },
+    {
+      "full_name": "Introduction to Modern Cryptography",
+      "module_code": "MTH239",
+      "module_level": "Level 2",
+      "path": "MTH|SMP - Mathematical Sciences/MTH239.json"
+    },
+    {
+      "full_name": "Final Year Project",
+      "module_code": "MTH301",
+      "module_level": "Level 3",
+      "path": "MTH|SMP - Mathematical Sciences/MTH301.json"
+    },
+    {
+      "full_name": "Applied Probability",
+      "module_code": "MTH302",
+      "module_level": "Level 3",
+      "path": "MTH|SMP - Mathematical Sciences/MTH302.json"
+    },
+    {
+      "full_name": "Linear Statistical Models",
+      "module_code": "MTH303",
+      "module_level": "Level 3",
+      "path": "MTH|SMP - Mathematical Sciences/MTH303.json"
+    },
+    {
+      "full_name": "Risk Management",
+      "module_code": "MTH305",
+      "module_level": "Level 3",
+      "path": "MTH|SMP - Mathematical Sciences/MTH305.json"
+    },
+    {
+      "full_name": "Credibility Theory",
+      "module_code": "MTH306",
+      "module_level": "Level 3",
+      "path": "MTH|SMP - Mathematical Sciences/MTH306.json"
+    },
+    {
+      "full_name": "Population Dynamics",
+      "module_code": "MTH307",
+      "module_level": "Level 3",
+      "path": "MTH|SMP - Mathematical Sciences/MTH307.json"
+    },
+    {
+      "full_name": "Mathematical Models of Solids and Fluids",
+      "module_code": "MTH308",
+      "module_level": "Level 3",
+      "path": "MTH|SMP - Mathematical Sciences/MTH308.json"
+    },
+    {
+      "full_name": "Functional Analysis",
+      "module_code": "MTH310",
+      "module_level": "Level 3",
+      "path": "MTH|SMP - Mathematical Sciences/MTH310.json"
+    },
+    {
+      "full_name": "Stochastic Modeling in Insurance and Finance II",
+      "module_code": "MTH312",
+      "module_level": "Level 3",
+      "path": "MTH|SMP - Mathematical Sciences/MTH312.json"
+    },
+    {
+      "full_name": "Modern Actuarial Statistics",
+      "module_code": "MTH313",
+      "module_level": "Level 3",
+      "path": "MTH|SMP - Mathematical Sciences/MTH313.json"
+    },
+    {
+      "full_name": "Geometry of Curves and Surfaces",
+      "module_code": "MTH315",
+      "module_level": "Level 3",
+      "path": "MTH|SMP - Mathematical Sciences/MTH315.json"
+    },
+    {
+      "full_name": "Applied Multivariate Statistics",
+      "module_code": "MTH316",
+      "module_level": "Level 3",
+      "path": "MTH|SMP - Mathematical Sciences/MTH316.json"
+    },
+    {
+      "full_name": "Optimisation Theory",
+      "module_code": "MTH318",
+      "module_level": "Level 3",
+      "path": "MTH|SMP - Mathematical Sciences/MTH318.json"
+    },
+    {
+      "full_name": "Financial Engineering(II): Numerical Methods and Asset Models",
+      "module_code": "MTH319",
+      "module_level": "Level 3",
+      "path": "MTH|SMP - Mathematical Sciences/MTH319.json"
+    },
+    {
+      "full_name": "Numerical Analysis Of Partial Differential Equations",
+      "module_code": "MTH321",
+      "module_level": "Level 3",
+      "path": "MTH|SMP - Mathematical Sciences/MTH321.json"
+    },
+    {
+      "full_name": "Probability Measures And Asset Pricing",
+      "module_code": "MTH322",
+      "module_level": "Level 3",
+      "path": "MTH|SMP - Mathematical Sciences/MTH322.json"
+    },
+    {
+      "full_name": "Topology",
+      "module_code": "MTH323",
+      "module_level": "Level 3",
+      "path": "MTH|SMP - Mathematical Sciences/MTH323.json"
+    },
+    {
+      "full_name": "Statistical Learning Theory and Applications",
+      "module_code": "MTH324",
+      "module_level": "Level 3",
+      "path": "MTH|SMP - Mathematical Sciences/MTH324.json"
+    },
+    {
+      "full_name": "Mathematical Risk Theory",
+      "module_code": "MTH325",
+      "module_level": "Level 3",
+      "path": "MTH|SMP - Mathematical Sciences/MTH325.json"
+    },
+    {
+      "full_name": "Computational Methods in Finance I",
+      "module_code": "MTH401",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH401.json"
+    },
+    {
+      "full_name": "Fixed Income Securities",
+      "module_code": "MTH402",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH402.json"
+    },
+    {
+      "full_name": "Introduction to Pricing and Hedging",
+      "module_code": "MTH403",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH403.json"
+    },
+    {
+      "full_name": "Statistical Methods in Finance",
+      "module_code": "MTH404",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH404.json"
+    },
+    {
+      "full_name": "Financial Econometrics",
+      "module_code": "MTH405",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH405.json"
+    },
+    {
+      "full_name": "Arbitrage, Equilibrium and Pricing",
+      "module_code": "MTH406",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH406.json"
+    },
+    {
+      "full_name": "Computational Methods in Finance II",
+      "module_code": "MTH408",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH408.json"
+    },
+    {
+      "full_name": "Portfolio Theory and Risk Management",
+      "module_code": "MTH409",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH409.json"
+    },
+    {
+      "full_name": "Dissertation",
+      "module_code": "MTH411",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH411.json"
+    },
+    {
+      "full_name": "Database Management",
+      "module_code": "MTH412",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH412.json"
+    },
+    {
+      "full_name": "Mathematics And Statistics For Data Science",
+      "module_code": "MTH413",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH413.json"
+    },
+    {
+      "full_name": "Statistical Learning With Applications In Python",
+      "module_code": "MTH414",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH414.json"
+    },
+    {
+      "full_name": "Optimization Algorithms For Data Science",
+      "module_code": "MTH415",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH415.json"
+    },
+    {
+      "full_name": "Neural Networks And Deep Learning",
+      "module_code": "MTH416",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH416.json"
+    },
+    {
+      "full_name": "Dissertation",
+      "module_code": "MTH417",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH417.json"
+    },
+    {
+      "full_name": "Theory And Applications Of Partial Differential Equations",
+      "module_code": "MTH418",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH418.json"
+    },
+    {
+      "full_name": "Scientific Computing",
+      "module_code": "MTH419",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH419.json"
+    },
+    {
+      "full_name": "Measures And Integrals",
+      "module_code": "MTH420",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH420.json"
+    },
+    {
+      "full_name": "Actuarial Modelling",
+      "module_code": "MTH432",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH432.json"
+    },
+    {
+      "full_name": "Financial Mathematics for Actuarial Practice",
+      "module_code": "MTH433",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH433.json"
+    },
+    {
+      "full_name": "Life Insurance Mathematics",
+      "module_code": "MTH434",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH434.json"
+    },
+    {
+      "full_name": "Stochastic Modelling in Actuarial Science",
+      "module_code": "MTH435",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH435.json"
+    },
+    {
+      "full_name": "Advanced Statistical Learning Theory",
+      "module_code": "MTH436",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH436.json"
+    },
+    {
+      "full_name": "Corporate Finance for Insurance",
+      "module_code": "MTH438",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH438.json"
+    },
+    {
+      "full_name": "Dissertation Project",
+      "module_code": "MTH439",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH439.json"
+    },
+    {
+      "full_name": "Quantitative Risk Management",
+      "module_code": "MTH442",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH442.json"
+    },
+    {
+      "full_name": "Advanced Topics In Operational Research",
+      "module_code": "MTH443",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH443.json"
+    },
+    {
+      "full_name": "Calculus Of Variations And Optimal Control",
+      "module_code": "MTH444",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH444.json"
+    },
+    {
+      "full_name": "Computational Geometry",
+      "module_code": "MTH445",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH445.json"
+    },
+    {
+      "full_name": "Dissertation",
+      "module_code": "MTH446",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH446.json"
+    },
+    {
+      "full_name": "Deep Learning in Finance",
+      "module_code": "MTH447",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH447.json"
+    },
+    {
+      "full_name": "Quantitative Finance with Applications",
+      "module_code": "MTH448",
+      "module_level": "Level 4",
+      "path": "MTH|SMP - Mathematical Sciences/MTH448.json"
     },
     {
       "full_name": "Introduction to Materials Science",

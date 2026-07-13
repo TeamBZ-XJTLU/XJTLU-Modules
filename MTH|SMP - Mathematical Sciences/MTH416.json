@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMP",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Neural Networks And Deep Learning",
+  "module_code": "MTH416",
+  "offerings": [
+    {
+      "heading": "Neural Networks And Deep Learning",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Neural Networks And Deep Learning",
+        "module_code": "MTH416",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Neural Networks And Deep Learning",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Deep learning is a form of machine learning that enables computers to learn from experience and understand the world in terms of a hierarchy of concepts. The hierarchy of concepts allows the computer to learn complicated concepts by building them out of simpler ones. This module introduces core theories of deep learning by solving a specific problem: teaching computers to recognize written numbers, including using neural nets to recognize handwritten digits, how the backpropagation algorithm works, improving the way neural networks learn, a visual proof that neural nets can compute any function, why are deep neural networks hard to train. The problem can be solved by using a neural network. We will improve the program through many iterations, and gradually integrate the core ideas of neural networks and deep learning.",
+        "Learning outcomes": "A. Demonstrate understanding of the basic concepts in neural networks, and construct simple neural networks to solve problems. B. Use the backpropagation algorithm, and prove basic equations in the BP algorithm. C. Perform the learning procedures of neural networks, including weight initialization, regularization, and activation functions D. Show why neural networks can approximate any function. E. Demonstrate understanding of vanishing gradient phenomena, and solve this issue in the training of neural networks. F. Construct convolutional networks, and employ CNN to solve problems.",
+        "Method of teaching and learning": "This module is delivered through formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH416&psl_code=SEM2"
+    }
+  ]
+}

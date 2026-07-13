@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMP",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Engineering Mathematics II",
+  "module_code": "MTH102",
+  "offerings": [
+    {
+      "heading": "Engineering Mathematics II",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Engineering Mathematics II",
+        "module_code": "MTH102",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "Engineering Mathematics II",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To introduce the principles of Probability and Statistics to students of Engineering, discussing the potential scope of their applications within the field. To present the basic concepts and results in Random Processes. To train the students' ability to think logically and independently and to acquire the skills of problem solving.",
+        "Learning outcomes": "On successful completion of the module, the student should be able to: A. Apply statistical analysis on engineering data. B. Explain and apply Binomial, Geometric, Poisson, Exponential, Raleigh and Normal distributions. C. Explain the basic concepts related to Gaussian random variables and discuss its applications. D. Understand the Law of large numbers and Central Limit Theorem. D. Describe the basic concepts related to Poisson Process, Correlation Function, Stationarity and Ergodicity and their applications.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures, problem classes, case studies and revision seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH102&psl_code=SEM2"
+    }
+  ]
+}

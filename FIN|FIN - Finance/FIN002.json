@@ -24,9 +24,9 @@
         "Semester": "SEM2"
       },
       "sections": {
-        "Aims and Fit of Module": "",
-        "Learning outcomes": "",
-        "Method of teaching and learning": ""
+        "Aims and Fit of Module": "The aim of this Year 1 module is to prepare students for study on the programme of BSc Finance and Data Analytics. This module gives an overall introduction of: 1) basic knowledge of financial economics, including how to analyze risks and returns and evaluate investment projects and financial securities, and in particular, the credit markets (both traditional sectors and FinTech drive segments); 2) FinTech and data analytics, including artificial intelligence, blockchain, cloud computing, big data, and related financial innovations such as digital currency. The module introduces how these financial technologies change the traditional financial systems, financial services, and financial institutions.",
+        "Learning outcomes": "A Explain the fundamental concepts of traditional finance, financial economics, and the financial system, including risk-return analysis and investment evaluation. B Describe the history, development, and impact of FinTech on financial services, institutions, and the global economic system. C Analyze the role of key FinTech technologies, such as artificial intelligence, blockchain, cloud computing, and big data, in transforming traditional financial markets and services. D Evaluate the differences between traditional and FinTech-driven credit markets and their implications for financial decision-making. E Apply knowledge of FinTech innovations, including digital currencies and financial technology applications, to real-world financial scenarios.",
+        "Method of teaching and learning": "The teaching and learning strategies employed include a combination of lectures (which teach basic concepts and principles) and the university’s virtual learning environment, which will be used for the dissemination of material, as well to provide feedback to students."
       },
       "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN002&psl_code=SEM2"
     }

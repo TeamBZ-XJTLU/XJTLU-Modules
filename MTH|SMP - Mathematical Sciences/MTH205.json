@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMP",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Introduction to Statistical Methods",
+  "module_code": "MTH205",
+  "offerings": [
+    {
+      "heading": "Introduction to Statistical Methods",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Introduction to Statistical Methods",
+        "module_code": "MTH205",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Introduction to Statistical Methods",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To introduce statistical methods with a strong emphasis on applying standard statistical techniques appropriately and with clear interpretation. Interspersed with graphical and robust techniques. The emphasis is on applications.",
+        "Learning outcomes": "A Calculate summary statistics, fitted values and residuals, Construct and interpret ANOVA tables B Demonstrate understanding of the concepts of: a random variable, a distribution, a statistical model, a parameter, a fitted value and a residual C Demonstrate understanding of the sum of squares as a tool for assessing the adequacy of a model D Demonstrate understanding of the principles of hypothesis testing and confidence intervals E Demonstrate understanding of the significance of regression models and ANOVA tables F Interpret the output from standard computer packages to draw statistical conclusions G Be aware of the significance of statistical variability in relation to the interpretation of data and the confidence with which conclusions can be reached H Be aware that the validity of statistical conclusions depends in the appropriateness of the techniques used, and the skill and independent judgment with which techniques are selected and used and conclusions drawn",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH205&psl_code=SEM1"
+    }
+  ]
+}

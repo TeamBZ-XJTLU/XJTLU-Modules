@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMP",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Statistical Learning With Applications In Python",
+  "module_code": "MTH414",
+  "offerings": [
+    {
+      "heading": "Statistical Learning With Applications In Python",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Statistical Learning With Applications In Python",
+        "module_code": "MTH414",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Statistical Learning With Applications In Python",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is an advanced course in frontier statistical learning techniques using applications in Python. This module will illustrate how such statistical tools can aid in data analysis and in solving problems. The module covers many prominent topics in statistical learning, including generalized linear model, survival and censoring data analyses, unsupervised learning and multiple testing. This module is the supplement and extension of Statistics and Data Analysis II.",
+        "Learning outcomes": "A. Demonstrate understanding of the concept of survival analysis, and be able to deal with different types of censoring data. B. Perform generalized linear model to solve real-life problems. C. Demonstrate understanding of major unsupervised learning techniques. D. Demonstrate understanding of the concepts of statistical hypotheses and multiple tests. E. Use Python to solve real world problems related to statistical learning, including the use of generalized linear model, survival and censoring data analyses, unsupervised learning and multiple testing.",
+        "Method of teaching and learning": "This module is delivered through a combination of lectures, tutorials and labs over a period of 13 weeks. In lectures, students are introduced to the core principles, major methodology, and common topics and issues in the area of statistical learning. Tutorials are given as a platform to address any specific question or issue from individual students. Labs are given as a platform to solve practical problem by using Python."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH414&psl_code=SEM2"
+    }
+  ]
+}

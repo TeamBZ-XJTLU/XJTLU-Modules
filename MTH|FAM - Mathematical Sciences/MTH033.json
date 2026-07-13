@@ -24,9 +24,9 @@
         "Semester": "SEM2"
       },
       "sections": {
-        "Aims and Fit of Module": "",
-        "Learning outcomes": "",
-        "Method of teaching and learning": ""
+        "Aims and Fit of Module": "To extend students’ understanding of linear algebra to more advanced concepts and structures beyond a first course, while consolidating foundational knowledge for progression into Year 2. To develop students’ ability to apply linear algebraic techniques to solve problems in various contexts. To provide the mathematical foundation necessary for further study in areas that rely on linear algebra, including vector spaces, orthogonality, and matrix decompositions. To enhance students’ skills in handling abstract mathematical ideas and applying them to practical situations, and presenting their reasoning in appropriate academic formats.",
+        "Learning outcomes": "A Determine bases and dimensions for abstract vector spaces and subspaces, and relate the matrix representations of a linear transformation across bases. B Compute eigenvalues and eigenvectors for matrices, including cases with complex eigenvalues, and determine whether a matrix is diagonalisable. C Apply inner product concepts, orthogonal projections, and the Gram–Schmidt process to construct orthonormal bases and solve least-squares problems. D Analyse the properties of symmetric matrices, classify quadratic forms, and compute the singular value decomposition. E Apply linear algebraic methods to solve practical problems in quantitative contexts, and present the solutions in an appropriate academic format.",
+        "Method of teaching and learning": "Students will be expected to attend 2 hours of formal lectures in a typical week. In lectures, teachers will introduce the academic content and practical skills which are the subject of the module, using worked examples to demonstrate clear written mathematical reasoning. In addition to the formal lectures, students are expected to devote the unsupervised time to study the lecture materials and background readings, and to practise solving problems with coherent written solutions."
       },
       "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH033&psl_code=SEM2"
     }

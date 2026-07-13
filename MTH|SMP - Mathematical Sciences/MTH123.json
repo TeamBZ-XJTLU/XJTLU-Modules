@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMP",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Differential Equations for Engineers",
+  "module_code": "MTH123",
+  "offerings": [
+    {
+      "heading": "Differential Equations for Engineers",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Differential Equations for Engineers",
+        "module_code": "MTH123",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Differential Equations for Engineers",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to equip students with an understanding of the analytical techniques available to solve first and second order ordinary differential equations, systems of first order linear differential equations, and second order partial differential equations that are commonly used and appear in engineering problems.",
+        "Learning outcomes": "A. Solve first order ordinary differential equations. B. Solve second order linear, homogeneous, ordinary differential equations with constant and with variable coefficients. C. Solve simple systems of first order linear ordinary differential equations using eigenvalues and eigenvectors. D. Demonstrate familiarity with basic concepts of the theory of Fourier series and their application to the solution of partial differential equations. E. Solve elementary boundary value problems for second order linear partial differential equations using the method of separation of variables.",
+        "Method of teaching and learning": "The module is delivered through formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH123&psl_code=SEM1"
+    }
+  ]
+}
