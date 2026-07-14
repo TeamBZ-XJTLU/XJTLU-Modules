@@ -1,6 +1,6 @@
 {
   "base_url": "https://modules.xjtlu.edu.cn",
-  "department_count": 70,
+  "department_count": 71,
   "error_count": 0,
   "errors": [],
   "generated_paths": [
@@ -2481,6 +2481,8 @@
     "PHY|PHY - Physics/PHY309.json",
     "PHY|PHY - Physics/PHY311.json",
     "PHY|PHY - Physics/PHY312.json",
+    "PSY|SCI - Psychology",
+    "PSY|SCI - Psychology/PSY001.json",
     "RBETC|IRE - Robotics",
     "RBETC|IRE - Robotics/RBE001TC.json",
     "RBETC|IRE - Robotics/RBE002TC.json",
@@ -2681,7 +2683,7 @@
     "XPU|LIFE - XIPU AI general education/XPU001.json",
     "XPU|LIFE - XIPU AI general education/XPU002.json"
   ],
-  "module_file_count": 2606,
+  "module_file_count": 2607,
   "modules": [
     {
       "full_name": "Exploring the Applications of AI and Large Language Models",
@@ -17172,6 +17174,12 @@
       "module_code": "PHY312",
       "module_level": "Level 3",
       "path": "PHY|PHY - Physics/PHY312.json"
+    },
+    {
+      "full_name": "Introduction to Psychology",
+      "module_code": "PSY001",
+      "module_level": "Level 0",
+      "path": "PSY|SCI - Psychology/PSY001.json"
     },
     {
       "full_name": "Introductions to Intelligent Robotics",

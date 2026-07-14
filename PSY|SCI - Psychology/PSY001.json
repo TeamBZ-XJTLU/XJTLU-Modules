@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SCI",
+    "domain_code": "PSY",
+    "full_name": "Psychology"
+  },
+  "full_name": "Introduction to Psychology",
+  "module_code": "PSY001",
+  "offerings": [
+    {
+      "heading": "Introduction to Psychology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "PSY",
+        "full_name": "Introduction to Psychology",
+        "module_code": "PSY001",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Introduction to Psychology",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to: • provide students with a broad understanding of the scientific study of the mind and human behavior, • introduce key concepts, theories, and research findings across the disciplines of biological, cognitive, developmental, social, and clinical psychology. • help students connect psychological principles to real-world experiences and contemporary societal issues • introduce students to basic ethical principles in psychology, including respect for diversity, individual differences, and professional standards. *Please note that enrollment in this module will be capped at 100 students, with preference given to those enrolled in BSc Psychology.",
+        "Learning outcomes": "A Describe key psychological concepts and theories across the disciplines of biological, cognitive, developmental, social, and clinical psychology. B Describe the basic steps of the scientific method and recognise simple features of psychological research, including formulating research questions and basic methodological strengths and limitations. C Describe how psychological principles can help explain human behaviour and mental processes using simple examples from everyday experiences and societal issues. D Recognise basic ethical principles in psychology and describe the importance of respecting diversity, individual differences, and professional ethical standards.",
+        "Method of teaching and learning": "The learning and teaching strategy has been guided by the Liverpool Curriculum Framework attributes and hallmarks. In particular, the module has been designed to include research-connected teaching (lectures) and opportunities for active learning (seminars). Lectures will be used to present core concepts, theories, and findings, with materials supplemented by multimedia resources or interactive demonstrations mixed in to make abstract material more engaging. Students will also be asked to work in small groups out of class to develop a poster about one psychology topic of their choosing, with specific guidance provided about format and best practices in visual communication. The poster activity will help students practise describing key psychological concepts and illustrating how psychological principles can be used to understand everyday behaviour or mental processes. The poster presentation will include the poster itself and a Q&A session. The poster will be assessed primarily on the clarity and accuracy of the psychological content, the use of simple examples, and the effectiveness of communication. Individual contribution may be considered through the Q&A and a brief peer/self-contribution check, where appropriate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PSY001&psl_code=SEM2"
+    }
+  ]
+}
