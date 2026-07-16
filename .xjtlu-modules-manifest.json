@@ -2477,7 +2477,6 @@
     "PHY|PHY - Physics/PHY304.json",
     "PHY|PHY - Physics/PHY305.json",
     "PHY|PHY - Physics/PHY307.json",
-    "PHY|PHY - Physics/PHY308.json",
     "PHY|PHY - Physics/PHY309.json",
     "PHY|PHY - Physics/PHY311.json",
     "PHY|PHY - Physics/PHY312.json",
@@ -2683,7 +2682,7 @@
     "XPU|LIFE - XIPU AI general education/XPU001.json",
     "XPU|LIFE - XIPU AI general education/XPU002.json"
   ],
-  "module_file_count": 2607,
+  "module_file_count": 2606,
   "modules": [
     {
       "full_name": "Exploring the Applications of AI and Large Language Models",
@@ -17150,12 +17149,6 @@
       "module_code": "PHY307",
       "module_level": "Level 3",
       "path": "PHY|PHY - Physics/PHY307.json"
-    },
-    {
-      "full_name": "Semiconductor Physics and Devices",
-      "module_code": "PHY308",
-      "module_level": "Level 3",
-      "path": "PHY|PHY - Physics/PHY308.json"
     },
     {
       "full_name": "Condensed Matter Physics",
