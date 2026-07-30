@@ -180,10 +180,10 @@ def fetch(url: str, timeout: float, retries: int) -> str:
     raise RuntimeError(f"failed to fetch {url!r} ({last_error})")
 
 
-def extract_tables(root: Node) -> list[list[dict[str, object]]]:
-    tables: list[list[dict[str, object]]] = []
+def extract_tables(root: Node) -> list[tuple[tuple[str, ...], list[dict[str, object]]]]:
+    tables: list[tuple[tuple[str, ...], list[dict[str, object]]]] = []
     for table in root.find_all("table"):
-        headers = [cell.text() for cell in table.find_all("th")]
+        headers = tuple(cell.text() for cell in table.find_all("th"))
         if not headers:
             continue
         rows: list[dict[str, object]] = []
@@ -199,7 +199,7 @@ def extract_tables(root: Node) -> list[list[dict[str, object]]]:
                     "href": link.attrs.get("href") if link is not None else None,
                 }
             rows.append(row)
-        tables.append(rows)
+        tables.append((headers, rows))
     return tables
 
 
@@ -221,17 +221,15 @@ def cell_href(row: dict[str, object], column: str) -> str | None:
 
 def extract_departments(html: str) -> list[Department]:
     root = parse_html(html)
-    for table in extract_tables(root):
-        if not table:
-            continue
-        if {"Domain Code", "Full Name", "Department Code"} <= set(table[0]):
+    for headers, rows in extract_tables(root):
+        if {"Domain Code", "Full Name", "Department Code"} <= set(headers):
             return [
                 Department(
                     domain_code=cell_text(row, "Domain Code"),
                     full_name=cell_text(row, "Full Name"),
                     department_code=cell_text(row, "Department Code"),
                 )
-                for row in table
+                for row in rows
                 if cell_text(row, "Domain Code") and cell_text(row, "Department Code")
             ]
     raise RuntimeError("department table not found")
@@ -239,12 +237,10 @@ def extract_departments(html: str) -> list[Department]:
 
 def extract_modules(html: str, base_url: str) -> list[ModuleListing]:
     root = parse_html(html)
-    for table in extract_tables(root):
-        if not table:
-            continue
-        if {"Domain Code", "Mod Code", "Full Name", "Academic Year", "Semester"} <= set(table[0]):
+    for headers, rows in extract_tables(root):
+        if {"Domain Code", "Mod Code", "Full Name", "Academic Year", "Semester"} <= set(headers):
             modules: list[ModuleListing] = []
-            for row in table:
+            for row in rows:
                 module_code = cell_text(row, "Mod Code")
                 semester = cell_text(row, "Semester")
                 if not module_code or not semester:
