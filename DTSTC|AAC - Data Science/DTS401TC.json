@@ -4,15 +4,15 @@
     "domain_code": "DTSTC",
     "full_name": "Data Science"
   },
-  "full_name": "Fundamentals Of Artificial Intelligence",
+  "full_name": "Fundamentals of Artificial Intelligence",
   "module_code": "DTS401TC",
   "offerings": [
     {
-      "heading": "Fundamentals Of Artificial Intelligence",
+      "heading": "Fundamentals of Artificial Intelligence",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "DTSTC",
-        "full_name": "Fundamentals Of Artificial Intelligence",
+        "full_name": "Fundamentals of Artificial Intelligence",
         "module_code": "DTS401TC",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Fundamentals Of Artificial Intelligence",
+        "Module Title": "Fundamentals of Artificial Intelligence",
         "Semester": "SEM1"
       },
       "sections": {

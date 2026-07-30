@@ -4,15 +4,15 @@
     "domain_code": "EDS",
     "full_name": "Educational Studies"
   },
-  "full_name": "Educational Counseling And Coaching",
+  "full_name": "Educational Counseling and Coaching",
   "module_code": "EDS452",
   "offerings": [
     {
-      "heading": "Educational Counseling And Coaching",
+      "heading": "Educational Counseling and Coaching",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "EDS",
-        "full_name": "Educational Counseling And Coaching",
+        "full_name": "Educational Counseling and Coaching",
         "module_code": "EDS452",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Educational Counseling And Coaching",
+        "Module Title": "Educational Counseling and Coaching",
         "Semester": "SEM2"
       },
       "sections": {

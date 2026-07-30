@@ -4,15 +4,15 @@
     "domain_code": "ECO",
     "full_name": "Economics"
   },
-  "full_name": "Introduction To Macroeconomics",
+  "full_name": "Introduction to Macroeconomics",
   "module_code": "ECO108",
   "offerings": [
     {
-      "heading": "Introduction To Macroeconomics",
+      "heading": "Introduction to Macroeconomics",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "ECO",
-        "full_name": "Introduction To Macroeconomics",
+        "full_name": "Introduction to Macroeconomics",
         "module_code": "ECO108",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 1",
-        "Module Title": "Introduction To Macroeconomics",
+        "Module Title": "Introduction to Macroeconomics",
         "Semester": "SEM2"
       },
       "sections": {

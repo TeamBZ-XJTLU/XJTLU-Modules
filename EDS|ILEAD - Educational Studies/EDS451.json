@@ -4,15 +4,15 @@
     "domain_code": "EDS",
     "full_name": "Educational Studies"
   },
-  "full_name": "Teaching, Pedagogy, And Design",
+  "full_name": "Teaching, Pedagogy, and Design",
   "module_code": "EDS451",
   "offerings": [
     {
-      "heading": "Teaching, Pedagogy, And Design",
+      "heading": "Teaching, Pedagogy, and Design",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "EDS",
-        "full_name": "Teaching, Pedagogy, And Design",
+        "full_name": "Teaching, Pedagogy, and Design",
         "module_code": "EDS451",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Teaching, Pedagogy, And Design",
+        "Module Title": "Teaching, Pedagogy, and Design",
         "Semester": "SEM2"
       },
       "sections": {

@@ -4,15 +4,15 @@
     "domain_code": "EEE",
     "full_name": "Electrical and Electronic Engineering"
   },
-  "full_name": "Modern Power Systems Operation And Control",
+  "full_name": "Modern Power Systems Operation and Control",
   "module_code": "EEE346",
   "offerings": [
     {
-      "heading": "Modern Power Systems Operation And Control",
+      "heading": "Modern Power Systems Operation and Control",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "EEE",
-        "full_name": "Modern Power Systems Operation And Control",
+        "full_name": "Modern Power Systems Operation and Control",
         "module_code": "EEE346",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 3",
-        "Module Title": "Modern Power Systems Operation And Control",
+        "Module Title": "Modern Power Systems Operation and Control",
         "Semester": "SEM2"
       },
       "sections": {

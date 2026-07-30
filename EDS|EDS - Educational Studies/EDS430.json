@@ -4,15 +4,15 @@
     "domain_code": "EDS",
     "full_name": "Educational Studies"
   },
-  "full_name": "Administration And Organization In Higher Education",
+  "full_name": "Administration and Organization in Higher Education",
   "module_code": "EDS430",
   "offerings": [
     {
-      "heading": "Administration And Organization In Higher Education",
+      "heading": "Administration and Organization in Higher Education",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "EDS",
-        "full_name": "Administration And Organization In Higher Education",
+        "full_name": "Administration and Organization in Higher Education",
         "module_code": "EDS430",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Administration And Organization In Higher Education",
+        "Module Title": "Administration and Organization in Higher Education",
         "Semester": "SEM2"
       },
       "sections": {

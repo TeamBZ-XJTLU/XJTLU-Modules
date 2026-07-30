@@ -4,15 +4,15 @@
     "domain_code": "BIO",
     "full_name": "Biological Sciences"
   },
-  "full_name": "The Biology Of Microbes",
+  "full_name": "The Biology of Microbes",
   "module_code": "BIO106",
   "offerings": [
     {
-      "heading": "The Biology Of Microbes",
+      "heading": "The Biology of Microbes",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "BIO",
-        "full_name": "The Biology Of Microbes",
+        "full_name": "The Biology of Microbes",
         "module_code": "BIO106",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 1",
-        "Module Title": "The Biology Of Microbes",
+        "Module Title": "The Biology of Microbes",
         "Semester": "SEM2"
       },
       "sections": {

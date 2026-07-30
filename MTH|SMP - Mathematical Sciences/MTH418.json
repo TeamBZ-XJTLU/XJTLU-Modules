@@ -4,15 +4,15 @@
     "domain_code": "MTH",
     "full_name": "Mathematical Sciences"
   },
-  "full_name": "Theory And Applications Of Partial Differential Equations",
+  "full_name": "Theory and Applications of Partial Differential Equations",
   "module_code": "MTH418",
   "offerings": [
     {
-      "heading": "Theory And Applications Of Partial Differential Equations",
+      "heading": "Theory and Applications of Partial Differential Equations",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "MTH",
-        "full_name": "Theory And Applications Of Partial Differential Equations",
+        "full_name": "Theory and Applications of Partial Differential Equations",
         "module_code": "MTH418",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Theory And Applications Of Partial Differential Equations",
+        "Module Title": "Theory and Applications of Partial Differential Equations",
         "Semester": "SEM1"
       },
       "sections": {

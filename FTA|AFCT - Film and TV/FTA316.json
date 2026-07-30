@@ -4,15 +4,15 @@
     "domain_code": "FTA",
     "full_name": "Film and TV"
   },
-  "full_name": "Social Media And Video",
+  "full_name": "Social Media and Video",
   "module_code": "FTA316",
   "offerings": [
     {
-      "heading": "Social Media And Video",
+      "heading": "Social Media and Video",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "FTA",
-        "full_name": "Social Media And Video",
+        "full_name": "Social Media and Video",
         "module_code": "FTA316",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 3",
-        "Module Title": "Social Media And Video",
+        "Module Title": "Social Media and Video",
         "Semester": "SEM1"
       },
       "sections": {

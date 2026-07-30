@@ -4,15 +4,15 @@
     "domain_code": "ECO",
     "full_name": "Economics"
   },
-  "full_name": "Foundations Of Economic Analysis",
+  "full_name": "Foundations of Economic Analysis",
   "module_code": "ECO110",
   "offerings": [
     {
-      "heading": "Foundations Of Economic Analysis",
+      "heading": "Foundations of Economic Analysis",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "ECO",
-        "full_name": "Foundations Of Economic Analysis",
+        "full_name": "Foundations of Economic Analysis",
         "module_code": "ECO110",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 1",
-        "Module Title": "Foundations Of Economic Analysis",
+        "Module Title": "Foundations of Economic Analysis",
         "Semester": "SEM2"
       },
       "sections": {

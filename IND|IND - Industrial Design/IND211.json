@@ -4,15 +4,15 @@
     "domain_code": "IND",
     "full_name": "Industrial Design"
   },
-  "full_name": "Electronics For Industrial Design",
+  "full_name": "Electronics for Industrial Design",
   "module_code": "IND211",
   "offerings": [
     {
-      "heading": "Electronics For Industrial Design",
+      "heading": "Electronics for Industrial Design",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "IND",
-        "full_name": "Electronics For Industrial Design",
+        "full_name": "Electronics for Industrial Design",
         "module_code": "IND211",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 2",
-        "Module Title": "Electronics For Industrial Design",
+        "Module Title": "Electronics for Industrial Design",
         "Semester": "SEM1"
       },
       "sections": {

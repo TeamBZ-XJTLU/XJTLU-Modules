@@ -4,15 +4,15 @@
     "domain_code": "EDS",
     "full_name": "Educational Studies"
   },
-  "full_name": "Teaching, Learning And Assessment",
+  "full_name": "Teaching, Learning and Assessment",
   "module_code": "EDS428",
   "offerings": [
     {
-      "heading": "Teaching, Learning And Assessment",
+      "heading": "Teaching, Learning and Assessment",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "EDS",
-        "full_name": "Teaching, Learning And Assessment",
+        "full_name": "Teaching, Learning and Assessment",
         "module_code": "EDS428",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Teaching, Learning And Assessment",
+        "Module Title": "Teaching, Learning and Assessment",
         "Semester": "SEM2"
       },
       "sections": {

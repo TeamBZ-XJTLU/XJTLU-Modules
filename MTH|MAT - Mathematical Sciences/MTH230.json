@@ -4,15 +4,15 @@
     "domain_code": "MTH",
     "full_name": "Mathematical Sciences"
   },
-  "full_name": "Symmetries In Geometry",
+  "full_name": "Symmetries in Geometry",
   "module_code": "MTH230",
   "offerings": [
     {
-      "heading": "Symmetries In Geometry",
+      "heading": "Symmetries in Geometry",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "MTH",
-        "full_name": "Symmetries In Geometry",
+        "full_name": "Symmetries in Geometry",
         "module_code": "MTH230",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 2",
-        "Module Title": "Symmetries In Geometry",
+        "Module Title": "Symmetries in Geometry",
         "Semester": "SEM2"
       },
       "sections": {

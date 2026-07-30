@@ -4,15 +4,15 @@
     "domain_code": "MESTC",
     "full_name": "Microelectronic Science and Engineering"
   },
-  "full_name": "Semiconductor Materials And Devices",
+  "full_name": "Semiconductor Materials and Devices",
   "module_code": "MES401TC",
   "offerings": [
     {
-      "heading": "Semiconductor Materials And Devices",
+      "heading": "Semiconductor Materials and Devices",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "MESTC",
-        "full_name": "Semiconductor Materials And Devices",
+        "full_name": "Semiconductor Materials and Devices",
         "module_code": "MES401TC",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Semiconductor Materials And Devices",
+        "Module Title": "Semiconductor Materials and Devices",
         "Semester": "SEM1"
       },
       "sections": {

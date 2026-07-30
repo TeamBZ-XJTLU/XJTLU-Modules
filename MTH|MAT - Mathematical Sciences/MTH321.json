@@ -4,15 +4,15 @@
     "domain_code": "MTH",
     "full_name": "Mathematical Sciences"
   },
-  "full_name": "Numerical Analysis Of Partial Differential Equations",
+  "full_name": "Numerical Analysis of Partial Differential Equations",
   "module_code": "MTH321",
   "offerings": [
     {
-      "heading": "Numerical Analysis Of Partial Differential Equations",
+      "heading": "Numerical Analysis of Partial Differential Equations",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "MTH",
-        "full_name": "Numerical Analysis Of Partial Differential Equations",
+        "full_name": "Numerical Analysis of Partial Differential Equations",
         "module_code": "MTH321",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 3",
-        "Module Title": "Numerical Analysis Of Partial Differential Equations",
+        "Module Title": "Numerical Analysis of Partial Differential Equations",
         "Semester": "SEM1"
       },
       "sections": {

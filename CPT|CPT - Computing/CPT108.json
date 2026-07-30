@@ -4,15 +4,15 @@
     "domain_code": "CPT",
     "full_name": "Computing"
   },
-  "full_name": "Data Structures And Algorithms",
+  "full_name": "Data Structures and Algorithms",
   "module_code": "CPT108",
   "offerings": [
     {
-      "heading": "Data Structures And Algorithms",
+      "heading": "Data Structures and Algorithms",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "CPT",
-        "full_name": "Data Structures And Algorithms",
+        "full_name": "Data Structures and Algorithms",
         "module_code": "CPT108",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "2.5",
         "Module Level": "Level 1",
-        "Module Title": "Data Structures And Algorithms",
+        "Module Title": "Data Structures and Algorithms",
         "Semester": "SEM2"
       },
       "sections": {

@@ -4,15 +4,15 @@
     "domain_code": "EDS",
     "full_name": "Educational Studies"
   },
-  "full_name": "Achievement, Motivation, And Support",
+  "full_name": "Achievement, Motivation, and Support",
   "module_code": "EDS453",
   "offerings": [
     {
-      "heading": "Achievement, Motivation, And Support",
+      "heading": "Achievement, Motivation, and Support",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "EDS",
-        "full_name": "Achievement, Motivation, And Support",
+        "full_name": "Achievement, Motivation, and Support",
         "module_code": "EDS453",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Achievement, Motivation, And Support",
+        "Module Title": "Achievement, Motivation, and Support",
         "Semester": "SEM1"
       },
       "sections": {

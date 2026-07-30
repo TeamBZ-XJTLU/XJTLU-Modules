@@ -4,15 +4,15 @@
     "domain_code": "BIO",
     "full_name": "Biological Sciences"
   },
-  "full_name": "Introduction To Biochemistry",
+  "full_name": "Introduction to Biochemistry",
   "module_code": "BIO107",
   "offerings": [
     {
-      "heading": "Introduction To Biochemistry",
+      "heading": "Introduction to Biochemistry",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "BIO",
-        "full_name": "Introduction To Biochemistry",
+        "full_name": "Introduction to Biochemistry",
         "module_code": "BIO107",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 1",
-        "Module Title": "Introduction To Biochemistry",
+        "Module Title": "Introduction to Biochemistry",
         "Semester": "SEM1"
       },
       "sections": {

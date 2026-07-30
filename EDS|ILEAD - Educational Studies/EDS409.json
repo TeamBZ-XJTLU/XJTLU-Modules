@@ -4,15 +4,15 @@
     "domain_code": "EDS",
     "full_name": "Educational Studies"
   },
-  "full_name": "Education In The Asia-Pacific Region",
+  "full_name": "Education in The Asia-Pacific Region",
   "module_code": "EDS409",
   "offerings": [
     {
-      "heading": "Education In The Asia-Pacific Region",
+      "heading": "Education in The Asia-Pacific Region",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "EDS",
-        "full_name": "Education In The Asia-Pacific Region",
+        "full_name": "Education in The Asia-Pacific Region",
         "module_code": "EDS409",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Education In The Asia-Pacific Region",
+        "Module Title": "Education in The Asia-Pacific Region",
         "Semester": "SEM2"
       },
       "sections": {

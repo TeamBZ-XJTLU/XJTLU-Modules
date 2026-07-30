@@ -4,15 +4,15 @@
     "domain_code": "EEE",
     "full_name": "Electrical and Electronic Engineering"
   },
-  "full_name": "Power Circuits And Transmission",
+  "full_name": "Power Circuits and Transmission",
   "module_code": "EEE210",
   "offerings": [
     {
-      "heading": "Power Circuits And Transmission",
+      "heading": "Power Circuits and Transmission",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "EEE",
-        "full_name": "Power Circuits And Transmission",
+        "full_name": "Power Circuits and Transmission",
         "module_code": "EEE210",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 2",
-        "Module Title": "Power Circuits And Transmission",
+        "Module Title": "Power Circuits and Transmission",
         "Semester": "SEM2"
       },
       "sections": {

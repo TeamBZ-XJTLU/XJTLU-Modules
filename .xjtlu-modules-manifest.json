@@ -272,7 +272,6 @@
     "CATTC|AFCT - Cultural Technology/CAT114TC.json",
     "CATTC|AFCT - Cultural Technology/CAT115TC.json",
     "CATTC|AFCT - Cultural Technology/CAT201TC.json",
-    "CATTC|AFCT - Cultural Technology/CAT202TC.json",
     "CATTC|AFCT - Cultural Technology/CAT203TC.json",
     "CATTC|AFCT - Cultural Technology/CAT204TC.json",
     "CATTC|AFCT - Cultural Technology/CAT206TC.json",
@@ -280,7 +279,6 @@
     "CATTC|AFCT - Cultural Technology/CAT208TC.json",
     "CATTC|AFCT - Cultural Technology/CAT209TC.json",
     "CATTC|AFCT - Cultural Technology/CAT210TC.json",
-    "CATTC|AFCT - Cultural Technology/CAT214TC.json",
     "CATTC|AFCT - Cultural Technology/CAT215TC.json",
     "CATTC|AFCT - Cultural Technology/CAT301TC.json",
     "CATTC|AFCT - Cultural Technology/CAT302TC.json",
@@ -585,7 +583,6 @@
     "DTSTC|AAC - Data Science/DTS001.json",
     "DTSTC|AAC - Data Science/DTS002TC.json",
     "DTSTC|AAC - Data Science/DTS004TC.json",
-    "DTSTC|AAC - Data Science/DTS101TC.json",
     "DTSTC|AAC - Data Science/DTS102TC.json",
     "DTSTC|AAC - Data Science/DTS103TC.json",
     "DTSTC|AAC - Data Science/DTS104TC.json",
@@ -858,7 +855,6 @@
     "ENT|CIEHX - Entrepreneurship/ENT207TC.json",
     "ENT|CIEHX - Entrepreneurship/ENT208TC.json",
     "ENT|CIEHX - Entrepreneurship/ENT211TC.json",
-    "ENT|CIEHX - Entrepreneurship/ENT301TC.json",
     "ENT|CIEHX - Entrepreneurship/ENT303TC.json",
     "ENT|CIEHX - Entrepreneurship/ENT304TC.json",
     "ENT|CIEHX - Entrepreneurship/ENT310TC.json",
@@ -899,7 +895,6 @@
     "ENT|EEH - Entrepreneurship/ENT207TC.json",
     "ENT|EEH - Entrepreneurship/ENT208TC.json",
     "ENT|EEH - Entrepreneurship/ENT211TC.json",
-    "ENT|EEH - Entrepreneurship/ENT301TC.json",
     "ENT|EEH - Entrepreneurship/ENT303TC.json",
     "ENT|EEH - Entrepreneurship/ENT304TC.json",
     "ENT|EEH - Entrepreneurship/ENT310TC.json",
@@ -1133,12 +1128,10 @@
     "IFBTC|IFS - Intelligent Finance and Business/IFB102TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB103TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB104TC.json",
-    "IFBTC|IFS - Intelligent Finance and Business/IFB105TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB106TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB107TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB111TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB113TC.json",
-    "IFBTC|IFS - Intelligent Finance and Business/IFB114TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB115TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB116TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB201TC.json",
@@ -1190,7 +1183,6 @@
     "IFBTC|IFS - Intelligent Finance and Business/IFB427TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB428TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB429TC.json",
-    "IFBTC|IFS - Intelligent Finance and Business/IFB430TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB431TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB432TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB433TC.json",
@@ -1420,7 +1412,6 @@
     "LAN|ELC - Comprehensive Use of Language/LAN010.json",
     "LAN|ELC - Comprehensive Use of Language/LAN302.json",
     "LIF|LIFE - Lifelong Learning",
-    "LIF|LIFE - Lifelong Learning/LIF001.json",
     "LIT|LTS - Literature",
     "LIT|LTS - Literature/LIT101.json",
     "LIT|LTS - Literature/LIT102.json",
@@ -1462,7 +1453,6 @@
     "LM|CCTC -/LMIOM101.json",
     "LM|CCTC -/LMIOM106.json",
     "LM|CCTC -/LMIOM121.json",
-    "LM|CCTC -/LMLIF001.json",
     "LM|CCTC -/LMMTH002.json",
     "LM|CCTC -/LMMTH019.json",
     "LM|CCTC -/LMPHE001.json",
@@ -1490,7 +1480,6 @@
     "LM|CIEHX -/LMIOM101.json",
     "LM|CIEHX -/LMIOM106.json",
     "LM|CIEHX -/LMIOM121.json",
-    "LM|CIEHX -/LMLIF001.json",
     "LM|CIEHX -/LMMTH002.json",
     "LM|CIEHX -/LMMTH019.json",
     "LM|CIEHX -/LMPHE001.json",
@@ -1518,7 +1507,6 @@
     "LM|ELC -/LMIOM101.json",
     "LM|ELC -/LMIOM106.json",
     "LM|ELC -/LMIOM121.json",
-    "LM|ELC -/LMLIF001.json",
     "LM|ELC -/LMMTH002.json",
     "LM|ELC -/LMMTH019.json",
     "LM|ELC -/LMPHE001.json",
@@ -1546,7 +1534,6 @@
     "LM|IFS -/LMIOM101.json",
     "LM|IFS -/LMIOM106.json",
     "LM|IFS -/LMIOM121.json",
-    "LM|IFS -/LMLIF001.json",
     "LM|IFS -/LMMTH002.json",
     "LM|IFS -/LMMTH019.json",
     "LM|IFS -/LMPHE001.json",
@@ -1574,7 +1561,6 @@
     "LM|LIFE -/LMIOM101.json",
     "LM|LIFE -/LMIOM106.json",
     "LM|LIFE -/LMIOM121.json",
-    "LM|LIFE -/LMLIF001.json",
     "LM|LIFE -/LMMTH002.json",
     "LM|LIFE -/LMMTH019.json",
     "LM|LIFE -/LMPHE001.json",
@@ -1602,7 +1588,6 @@
     "LM|MAT -/LMIOM101.json",
     "LM|MAT -/LMIOM106.json",
     "LM|MAT -/LMIOM121.json",
-    "LM|MAT -/LMLIF001.json",
     "LM|MAT -/LMMTH002.json",
     "LM|MAT -/LMMTH019.json",
     "LM|MAT -/LMPHE001.json",
@@ -1630,7 +1615,6 @@
     "LM|PHE -/LMIOM101.json",
     "LM|PHE -/LMIOM106.json",
     "LM|PHE -/LMIOM121.json",
-    "LM|PHE -/LMLIF001.json",
     "LM|PHE -/LMMTH002.json",
     "LM|PHE -/LMMTH019.json",
     "LM|PHE -/LMPHE001.json",
@@ -2678,11 +2662,9 @@
     "UPD|UPD - Urban Planning and Design/UPD407.json",
     "UPD|UPD - Urban Planning and Design/UPD408.json",
     "UPD|UPD - Urban Planning and Design/UPD410.json",
-    "XPU|LIFE - XIPU AI general education",
-    "XPU|LIFE - XIPU AI general education/XPU001.json",
-    "XPU|LIFE - XIPU AI general education/XPU002.json"
+    "XPU|LIFE - XIPU AI general education"
   ],
-  "module_file_count": 2606,
+  "module_file_count": 2588,
   "modules": [
     {
       "full_name": "Exploring the Applications of AI and Large Language Models",
@@ -2775,13 +2757,13 @@
       "path": "ACC|ACC - Accounting/ACC206.json"
     },
     {
-      "full_name": "Econometrics In Accounting And Finance",
+      "full_name": "Econometrics in Accounting and Finance",
       "module_code": "ACC207",
       "module_level": "Level 2",
       "path": "ACC|ACC - Accounting/ACC207.json"
     },
     {
-      "full_name": "Financial Management For Accounting",
+      "full_name": "Financial Management for Accounting",
       "module_code": "ACC208",
       "module_level": "Level 2",
       "path": "ACC|ACC - Accounting/ACC208.json"
@@ -3117,13 +3099,13 @@
       "path": "APH|AOPHA - Academy of Pharmacy/APH220.json"
     },
     {
-      "full_name": "Introduction To Regulation Of Pharmaceutical And Biological Products",
+      "full_name": "Introduction to Regulation of Pharmaceutical and Biological Products",
       "module_code": "APH221",
       "module_level": "Level 2",
       "path": "APH|AOPHA - Academy of Pharmacy/APH221.json"
     },
     {
-      "full_name": "Introduction To Pharmacoeconomics",
+      "full_name": "Introduction to Pharmacoeconomics",
       "module_code": "APH222",
       "module_level": "Level 2",
       "path": "APH|AOPHA - Academy of Pharmacy/APH222.json"
@@ -3213,13 +3195,13 @@
       "path": "APH|AOPHA - Academy of Pharmacy/APH315.json"
     },
     {
-      "full_name": "Introduction To Chemistry Manufacturing and Controls",
+      "full_name": "Introduction to Chemistry Manufacturing and Controls",
       "module_code": "APH316",
       "module_level": "Level 3",
       "path": "APH|AOPHA - Academy of Pharmacy/APH316.json"
     },
     {
-      "full_name": "Introduction To Quality Assurance For Drugs and Biologics",
+      "full_name": "Introduction to Quality Assurance for Drugs and Biologics",
       "module_code": "APH317",
       "module_level": "Level 3",
       "path": "APH|AOPHA - Academy of Pharmacy/APH317.json"
@@ -3405,7 +3387,7 @@
       "path": "APH|AOPHA - Academy of Pharmacy/APH423.json"
     },
     {
-      "full_name": "Regulation Of Pharmaceutical And Biological Products",
+      "full_name": "Regulation of Pharmaceutical and Biological Products",
       "module_code": "APH424",
       "module_level": "Level 4",
       "path": "APH|AOPHA - Academy of Pharmacy/APH424.json"
@@ -3429,7 +3411,7 @@
       "path": "APH|AOPHA - Academy of Pharmacy/APH427.json"
     },
     {
-      "full_name": "Quality Systems And Standards",
+      "full_name": "Quality Systems and Standards",
       "module_code": "APH428",
       "module_level": "Level 4",
       "path": "APH|AOPHA - Academy of Pharmacy/APH428.json"
@@ -3441,19 +3423,19 @@
       "path": "APH|AOPHA - Academy of Pharmacy/APH429.json"
     },
     {
-      "full_name": "Quality Assurance For Drugs and Biologics",
+      "full_name": "Quality Assurance for Drugs and Biologics",
       "module_code": "APH430",
       "module_level": "Level 4",
       "path": "APH|AOPHA - Academy of Pharmacy/APH430.json"
     },
     {
-      "full_name": "Essential Math For Pharmacy",
+      "full_name": "Essential Math for Pharmacy",
       "module_code": "APH431",
       "module_level": "Level 4",
       "path": "APH|AOPHA - Academy of Pharmacy/APH431.json"
     },
     {
-      "full_name": "AI In Pharmacy I",
+      "full_name": "AI in Pharmacy I",
       "module_code": "APH432",
       "module_level": "Level 4",
       "path": "APH|AOPHA - Academy of Pharmacy/APH432.json"
@@ -3669,7 +3651,7 @@
       "path": "BIO|BIO - Biological Sciences/BIO006.json"
     },
     {
-      "full_name": "Biodiversity Of Animals, Plants And Microbes",
+      "full_name": "Biodiversity of Animals, Plants and Microbes",
       "module_code": "BIO101",
       "module_level": "Level 1",
       "path": "BIO|BIO - Biological Sciences/BIO101.json"
@@ -3681,25 +3663,25 @@
       "path": "BIO|BIO - Biological Sciences/BIO102.json"
     },
     {
-      "full_name": "Cellular And Molecular Biology",
+      "full_name": "Cellular and Molecular Biology",
       "module_code": "BIO103",
       "module_level": "Level 1",
       "path": "BIO|BIO - Biological Sciences/BIO103.json"
     },
     {
-      "full_name": "Chemical Principles Of Life",
+      "full_name": "Chemical Principles of Life",
       "module_code": "BIO105",
       "module_level": "Level 1",
       "path": "BIO|BIO - Biological Sciences/BIO105.json"
     },
     {
-      "full_name": "The Biology Of Microbes",
+      "full_name": "The Biology of Microbes",
       "module_code": "BIO106",
       "module_level": "Level 1",
       "path": "BIO|BIO - Biological Sciences/BIO106.json"
     },
     {
-      "full_name": "Introduction To Biochemistry",
+      "full_name": "Introduction to Biochemistry",
       "module_code": "BIO107",
       "module_level": "Level 1",
       "path": "BIO|BIO - Biological Sciences/BIO107.json"
@@ -4179,7 +4161,7 @@
       "path": "CATTC|AFCT - Cultural Technology/CAT003.json"
     },
     {
-      "full_name": "Digital Tools For XR",
+      "full_name": "Digital Tools for XR",
       "module_code": "CAT101TC",
       "module_level": "Level 1",
       "path": "CATTC|AFCT - Cultural Technology/CAT101TC.json"
@@ -4203,7 +4185,7 @@
       "path": "CATTC|AFCT - Cultural Technology/CAT105TC.json"
     },
     {
-      "full_name": "Principles Of Game Design",
+      "full_name": "Principles of Game Design",
       "module_code": "CAT106TC",
       "module_level": "Level 1",
       "path": "CATTC|AFCT - Cultural Technology/CAT106TC.json"
@@ -4237,12 +4219,6 @@
       "module_code": "CAT201TC",
       "module_level": "Level 2",
       "path": "CATTC|AFCT - Cultural Technology/CAT201TC.json"
-    },
-    {
-      "full_name": "Prototyping Experiences For Electronic Arts",
-      "module_code": "CAT202TC",
-      "module_level": "Level 2",
-      "path": "CATTC|AFCT - Cultural Technology/CAT202TC.json"
     },
     {
       "full_name": "Producing for Entertainment",
@@ -4287,12 +4263,6 @@
       "path": "CATTC|AFCT - Cultural Technology/CAT210TC.json"
     },
     {
-      "full_name": "Directing For Live Action And Animation",
-      "module_code": "CAT214TC",
-      "module_level": "Level 2",
-      "path": "CATTC|AFCT - Cultural Technology/CAT214TC.json"
-    },
-    {
       "full_name": "Post Production",
       "module_code": "CAT215TC",
       "module_level": "Level 2",
@@ -4311,7 +4281,7 @@
       "path": "CATTC|AFCT - Cultural Technology/CAT302TC.json"
     },
     {
-      "full_name": "Advanced Topics In Art, Technology, And Entertainment",
+      "full_name": "Advanced Topics in Art, Technology, and Entertainment",
       "module_code": "CAT304TC",
       "module_level": "Level 3",
       "path": "CATTC|AFCT - Cultural Technology/CAT304TC.json"
@@ -4401,7 +4371,7 @@
       "path": "CCS|CCS - China Studies/CCS201.json"
     },
     {
-      "full_name": "Professional Skills For China Studies",
+      "full_name": "Professional Skills for China Studies",
       "module_code": "CCS205",
       "module_level": "Level 2",
       "path": "CCS|CCS - China Studies/CCS205.json"
@@ -4419,7 +4389,7 @@
       "path": "CCS|CCS - China Studies/CCS209.json"
     },
     {
-      "full_name": "Research Methods For China Studies",
+      "full_name": "Research Methods for China Studies",
       "module_code": "CCS210",
       "module_level": "Level 2",
       "path": "CCS|CCS - China Studies/CCS210.json"
@@ -4869,7 +4839,7 @@
       "path": "CEN|CEN - Civil Engineering/CEN331.json"
     },
     {
-      "full_name": "Sustainable Technology And Building Materials",
+      "full_name": "Sustainable Technology and Building Materials",
       "module_code": "CEN401",
       "module_level": "Level 4",
       "path": "CEN|CEN - Civil Engineering/CEN401.json"
@@ -5151,7 +5121,7 @@
       "path": "CHE|CHE - Chemistry/CHE403.json"
     },
     {
-      "full_name": "Electronic Structure Theory With Associated Numerical Methods And Computing",
+      "full_name": "Electronic Structure Theory With Associated Numerical Methods and Computing",
       "module_code": "CHE404",
       "module_level": "Level 4",
       "path": "CHE|CHE - Chemistry/CHE404.json"
@@ -5565,13 +5535,13 @@
       "path": "COM|COM - Media and Communication/COM401.json"
     },
     {
-      "full_name": "Public Relations: Campaigns And Texts",
+      "full_name": "Public Relations: Campaigns and Texts",
       "module_code": "COM402",
       "module_level": "Level 4",
       "path": "COM|COM - Media and Communication/COM402.json"
     },
     {
-      "full_name": "Media Theory In The Digital Age",
+      "full_name": "Media Theory in The Digital Age",
       "module_code": "COM403",
       "module_level": "Level 4",
       "path": "COM|COM - Media and Communication/COM403.json"
@@ -5589,7 +5559,7 @@
       "path": "COM|COM - Media and Communication/COM406.json"
     },
     {
-      "full_name": "Video Production For The Web",
+      "full_name": "Video Production for The Web",
       "module_code": "COM408",
       "module_level": "Level 4",
       "path": "COM|COM - Media and Communication/COM408.json"
@@ -5613,7 +5583,7 @@
       "path": "COM|COM - Media and Communication/COM412.json"
     },
     {
-      "full_name": "Sociology Of Media Professionals",
+      "full_name": "Sociology of Media Professionals",
       "module_code": "COM413",
       "module_level": "Level 4",
       "path": "COM|COM - Media and Communication/COM413.json"
@@ -5709,7 +5679,7 @@
       "path": "CPT|CPT - Computing/CPT107.json"
     },
     {
-      "full_name": "Data Structures And Algorithms",
+      "full_name": "Data Structures and Algorithms",
       "module_code": "CPT108",
       "module_level": "Level 1",
       "path": "CPT|CPT - Computing/CPT108.json"
@@ -6063,12 +6033,6 @@
       "path": "DTSTC|AAC - Data Science/DTS004TC.json"
     },
     {
-      "full_name": "Introduction to Neural Networks",
-      "module_code": "DTS101TC",
-      "module_level": "Level 1",
-      "path": "DTSTC|AAC - Data Science/DTS101TC.json"
-    },
-    {
       "full_name": "Programming with C++",
       "module_code": "DTS102TC",
       "module_level": "Level 1",
@@ -6297,7 +6261,7 @@
       "path": "DTSTC|AAC - Data Science/DTS314TC.json"
     },
     {
-      "full_name": "Fundamentals Of Artificial Intelligence",
+      "full_name": "Fundamentals of Artificial Intelligence",
       "module_code": "DTS401TC",
       "module_level": "Level 4",
       "path": "DTSTC|AAC - Data Science/DTS401TC.json"
@@ -6309,7 +6273,7 @@
       "path": "DTSTC|AAC - Data Science/DTS402TC.json"
     },
     {
-      "full_name": "Applied Research Techniques And Methodologies",
+      "full_name": "Applied Research Techniques and Methodologies",
       "module_code": "DTS403TC",
       "module_level": "Level 4",
       "path": "DTSTC|AAC - Data Science/DTS403TC.json"
@@ -6423,7 +6387,7 @@
       "path": "ECO|ECO - Economics/ECO101.json"
     },
     {
-      "full_name": "Introduction To The Practice Of Statistics",
+      "full_name": "Introduction to The Practice of Statistics",
       "module_code": "ECO102",
       "module_level": "Level 1",
       "path": "ECO|ECO - Economics/ECO102.json"
@@ -6441,19 +6405,19 @@
       "path": "ECO|ECO - Economics/ECO105.json"
     },
     {
-      "full_name": "Essentials Of Economics",
+      "full_name": "Essentials of Economics",
       "module_code": "ECO106",
       "module_level": "Level 1",
       "path": "ECO|ECO - Economics/ECO106.json"
     },
     {
-      "full_name": "Introduction To Microeconomics",
+      "full_name": "Introduction to Microeconomics",
       "module_code": "ECO107",
       "module_level": "Level 1",
       "path": "ECO|ECO - Economics/ECO107.json"
     },
     {
-      "full_name": "Introduction To Macroeconomics",
+      "full_name": "Introduction to Macroeconomics",
       "module_code": "ECO108",
       "module_level": "Level 1",
       "path": "ECO|ECO - Economics/ECO108.json"
@@ -6465,7 +6429,7 @@
       "path": "ECO|ECO - Economics/ECO109.json"
     },
     {
-      "full_name": "Foundations Of Economic Analysis",
+      "full_name": "Foundations of Economic Analysis",
       "module_code": "ECO110",
       "module_level": "Level 1",
       "path": "ECO|ECO - Economics/ECO110.json"
@@ -6687,7 +6651,7 @@
       "path": "ECO|ECO - Economics/ECO312.json"
     },
     {
-      "full_name": "Firms And Markets",
+      "full_name": "Firms and Markets",
       "module_code": "ECO314",
       "module_level": "Level 3",
       "path": "ECO|ECO - Economics/ECO314.json"
@@ -6759,7 +6723,7 @@
       "path": "ECO|ECO - Economics/ECO415.json"
     },
     {
-      "full_name": "Economic Growth, Technology And Environment",
+      "full_name": "Economic Growth, Technology and Environment",
       "module_code": "ECO416",
       "module_level": "Level 4",
       "path": "ECO|ECO - Economics/ECO416.json"
@@ -6771,7 +6735,7 @@
       "path": "ECO|ECO - Economics/ECO421.json"
     },
     {
-      "full_name": "Globalization And Education: Critical Perspectives",
+      "full_name": "Globalization and Education: Critical Perspectives",
       "module_code": "EDS401",
       "module_level": "Level 4",
       "path": "EDS|EDS - Educational Studies/EDS401.json"
@@ -6807,19 +6771,19 @@
       "path": "EDS|EDS - Educational Studies/EDS406.json"
     },
     {
-      "full_name": "Culture And Learning",
+      "full_name": "Culture and Learning",
       "module_code": "EDS407",
       "module_level": "Level 4",
       "path": "EDS|EDS - Educational Studies/EDS407.json"
     },
     {
-      "full_name": "Education In The Asia-Pacific Region",
+      "full_name": "Education in The Asia-Pacific Region",
       "module_code": "EDS409",
       "module_level": "Level 4",
       "path": "EDS|EDS - Educational Studies/EDS409.json"
     },
     {
-      "full_name": "The Student Experience In Global Education",
+      "full_name": "The Student Experience in Global Education",
       "module_code": "EDS410",
       "module_level": "Level 4",
       "path": "EDS|EDS - Educational Studies/EDS410.json"
@@ -6879,7 +6843,7 @@
       "path": "EDS|EDS - Educational Studies/EDS421.json"
     },
     {
-      "full_name": "Principles And Practices Of Administration Of K-12 Schools",
+      "full_name": "Principles and Practices of Administration of K-12 Schools",
       "module_code": "EDS422",
       "module_level": "Level 4",
       "path": "EDS|EDS - Educational Studies/EDS422.json"
@@ -6891,43 +6855,43 @@
       "path": "EDS|EDS - Educational Studies/EDS423.json"
     },
     {
-      "full_name": "Introduction To Research Methods",
+      "full_name": "Introduction to Research Methods",
       "module_code": "EDS424",
       "module_level": "Level 4",
       "path": "EDS|EDS - Educational Studies/EDS424.json"
     },
     {
-      "full_name": "Development And Educational Psychology Across The Lifespan",
+      "full_name": "Development and Educational Psychology Across The Lifespan",
       "module_code": "EDS425",
       "module_level": "Level 4",
       "path": "EDS|EDS - Educational Studies/EDS425.json"
     },
     {
-      "full_name": "Monitoring And Evaluation In Educational Systems And Organizations",
+      "full_name": "Monitoring and Evaluation in Educational Systems and Organizations",
       "module_code": "EDS426",
       "module_level": "Level 4",
       "path": "EDS|EDS - Educational Studies/EDS426.json"
     },
     {
-      "full_name": "Effective Practices In Student Affairs From A Global Perspective",
+      "full_name": "Effective Practices in Student Affairs From A Global Perspective",
       "module_code": "EDS427",
       "module_level": "Level 4",
       "path": "EDS|EDS - Educational Studies/EDS427.json"
     },
     {
-      "full_name": "Teaching, Learning And Assessment",
+      "full_name": "Teaching, Learning and Assessment",
       "module_code": "EDS428",
       "module_level": "Level 4",
       "path": "EDS|EDS - Educational Studies/EDS428.json"
     },
     {
-      "full_name": "Curriculum Design In International Context",
+      "full_name": "Curriculum Design in International Context",
       "module_code": "EDS429",
       "module_level": "Level 4",
       "path": "EDS|EDS - Educational Studies/EDS429.json"
     },
     {
-      "full_name": "Administration And Organization In Higher Education",
+      "full_name": "Administration and Organization in Higher Education",
       "module_code": "EDS430",
       "module_level": "Level 4",
       "path": "EDS|EDS - Educational Studies/EDS430.json"
@@ -7029,7 +6993,7 @@
       "path": "EDS|EDS - Educational Studies/EDS446.json"
     },
     {
-      "full_name": "Scholarship Of Teaching And Learning: Research And Practices",
+      "full_name": "Scholarship of Teaching and Learning: Research and Practices",
       "module_code": "EDS447",
       "module_level": "Level 4",
       "path": "EDS|EDS - Educational Studies/EDS447.json"
@@ -7041,31 +7005,31 @@
       "path": "EDS|EDS - Educational Studies/EDS448.json"
     },
     {
-      "full_name": "Introduction To Research Methods",
+      "full_name": "Introduction to Research Methods",
       "module_code": "EDS449",
       "module_level": "Level 4",
       "path": "EDS|EDS - Educational Studies/EDS449.json"
     },
     {
-      "full_name": "Principles & Practices In Early Childhood Education",
+      "full_name": "Principles & Practices in Early Childhood Education",
       "module_code": "EDS450",
       "module_level": "Level 4",
       "path": "EDS|EDS - Educational Studies/EDS450.json"
     },
     {
-      "full_name": "Teaching, Pedagogy, And Design",
+      "full_name": "Teaching, Pedagogy, and Design",
       "module_code": "EDS451",
       "module_level": "Level 4",
       "path": "EDS|EDS - Educational Studies/EDS451.json"
     },
     {
-      "full_name": "Educational Counseling And Coaching",
+      "full_name": "Educational Counseling and Coaching",
       "module_code": "EDS452",
       "module_level": "Level 4",
       "path": "EDS|EDS - Educational Studies/EDS452.json"
     },
     {
-      "full_name": "Achievement, Motivation, And Support",
+      "full_name": "Achievement, Motivation, and Support",
       "module_code": "EDS453",
       "module_level": "Level 4",
       "path": "EDS|EDS - Educational Studies/EDS453.json"
@@ -7107,7 +7071,7 @@
       "path": "EDS|EDS - Educational Studies/EDS459.json"
     },
     {
-      "full_name": "Globalization And Education: Critical Perspectives",
+      "full_name": "Globalization and Education: Critical Perspectives",
       "module_code": "EDS401",
       "module_level": "Level 4",
       "path": "EDS|ILEAD - Educational Studies/EDS401.json"
@@ -7143,19 +7107,19 @@
       "path": "EDS|ILEAD - Educational Studies/EDS406.json"
     },
     {
-      "full_name": "Culture And Learning",
+      "full_name": "Culture and Learning",
       "module_code": "EDS407",
       "module_level": "Level 4",
       "path": "EDS|ILEAD - Educational Studies/EDS407.json"
     },
     {
-      "full_name": "Education In The Asia-Pacific Region",
+      "full_name": "Education in The Asia-Pacific Region",
       "module_code": "EDS409",
       "module_level": "Level 4",
       "path": "EDS|ILEAD - Educational Studies/EDS409.json"
     },
     {
-      "full_name": "The Student Experience In Global Education",
+      "full_name": "The Student Experience in Global Education",
       "module_code": "EDS410",
       "module_level": "Level 4",
       "path": "EDS|ILEAD - Educational Studies/EDS410.json"
@@ -7215,7 +7179,7 @@
       "path": "EDS|ILEAD - Educational Studies/EDS421.json"
     },
     {
-      "full_name": "Principles And Practices Of Administration Of K-12 Schools",
+      "full_name": "Principles and Practices of Administration of K-12 Schools",
       "module_code": "EDS422",
       "module_level": "Level 4",
       "path": "EDS|ILEAD - Educational Studies/EDS422.json"
@@ -7227,43 +7191,43 @@
       "path": "EDS|ILEAD - Educational Studies/EDS423.json"
     },
     {
-      "full_name": "Introduction To Research Methods",
+      "full_name": "Introduction to Research Methods",
       "module_code": "EDS424",
       "module_level": "Level 4",
       "path": "EDS|ILEAD - Educational Studies/EDS424.json"
     },
     {
-      "full_name": "Development And Educational Psychology Across The Lifespan",
+      "full_name": "Development and Educational Psychology Across The Lifespan",
       "module_code": "EDS425",
       "module_level": "Level 4",
       "path": "EDS|ILEAD - Educational Studies/EDS425.json"
     },
     {
-      "full_name": "Monitoring And Evaluation In Educational Systems And Organizations",
+      "full_name": "Monitoring and Evaluation in Educational Systems and Organizations",
       "module_code": "EDS426",
       "module_level": "Level 4",
       "path": "EDS|ILEAD - Educational Studies/EDS426.json"
     },
     {
-      "full_name": "Effective Practices In Student Affairs From A Global Perspective",
+      "full_name": "Effective Practices in Student Affairs From A Global Perspective",
       "module_code": "EDS427",
       "module_level": "Level 4",
       "path": "EDS|ILEAD - Educational Studies/EDS427.json"
     },
     {
-      "full_name": "Teaching, Learning And Assessment",
+      "full_name": "Teaching, Learning and Assessment",
       "module_code": "EDS428",
       "module_level": "Level 4",
       "path": "EDS|ILEAD - Educational Studies/EDS428.json"
     },
     {
-      "full_name": "Curriculum Design In International Context",
+      "full_name": "Curriculum Design in International Context",
       "module_code": "EDS429",
       "module_level": "Level 4",
       "path": "EDS|ILEAD - Educational Studies/EDS429.json"
     },
     {
-      "full_name": "Administration And Organization In Higher Education",
+      "full_name": "Administration and Organization in Higher Education",
       "module_code": "EDS430",
       "module_level": "Level 4",
       "path": "EDS|ILEAD - Educational Studies/EDS430.json"
@@ -7365,7 +7329,7 @@
       "path": "EDS|ILEAD - Educational Studies/EDS446.json"
     },
     {
-      "full_name": "Scholarship Of Teaching And Learning: Research And Practices",
+      "full_name": "Scholarship of Teaching and Learning: Research and Practices",
       "module_code": "EDS447",
       "module_level": "Level 4",
       "path": "EDS|ILEAD - Educational Studies/EDS447.json"
@@ -7377,31 +7341,31 @@
       "path": "EDS|ILEAD - Educational Studies/EDS448.json"
     },
     {
-      "full_name": "Introduction To Research Methods",
+      "full_name": "Introduction to Research Methods",
       "module_code": "EDS449",
       "module_level": "Level 4",
       "path": "EDS|ILEAD - Educational Studies/EDS449.json"
     },
     {
-      "full_name": "Principles & Practices In Early Childhood Education",
+      "full_name": "Principles & Practices in Early Childhood Education",
       "module_code": "EDS450",
       "module_level": "Level 4",
       "path": "EDS|ILEAD - Educational Studies/EDS450.json"
     },
     {
-      "full_name": "Teaching, Pedagogy, And Design",
+      "full_name": "Teaching, Pedagogy, and Design",
       "module_code": "EDS451",
       "module_level": "Level 4",
       "path": "EDS|ILEAD - Educational Studies/EDS451.json"
     },
     {
-      "full_name": "Educational Counseling And Coaching",
+      "full_name": "Educational Counseling and Coaching",
       "module_code": "EDS452",
       "module_level": "Level 4",
       "path": "EDS|ILEAD - Educational Studies/EDS452.json"
     },
     {
-      "full_name": "Achievement, Motivation, And Support",
+      "full_name": "Achievement, Motivation, and Support",
       "module_code": "EDS453",
       "module_level": "Level 4",
       "path": "EDS|ILEAD - Educational Studies/EDS453.json"
@@ -7479,7 +7443,7 @@
       "path": "EEE|EEE - Electrical and Electronic Engineering/EEE205.json"
     },
     {
-      "full_name": "Power Circuits And Transmission",
+      "full_name": "Power Circuits and Transmission",
       "module_code": "EEE210",
       "module_level": "Level 2",
       "path": "EEE|EEE - Electrical and Electronic Engineering/EEE210.json"
@@ -7527,7 +7491,7 @@
       "path": "EEE|EEE - Electrical and Electronic Engineering/EEE334.json"
     },
     {
-      "full_name": "Electrical Machines And Power Systems",
+      "full_name": "Electrical Machines and Power Systems",
       "module_code": "EEE335",
       "module_level": "Level 3",
       "path": "EEE|EEE - Electrical and Electronic Engineering/EEE335.json"
@@ -7551,7 +7515,7 @@
       "path": "EEE|EEE - Electrical and Electronic Engineering/EEE340.json"
     },
     {
-      "full_name": "Modern Power Systems Operation And Control",
+      "full_name": "Modern Power Systems Operation and Control",
       "module_code": "EEE346",
       "module_level": "Level 3",
       "path": "EEE|EEE - Electrical and Electronic Engineering/EEE346.json"
@@ -7599,13 +7563,13 @@
       "path": "EEE|EEE - Electrical and Electronic Engineering/EEE409.json"
     },
     {
-      "full_name": "Advanced Semiconductor Materials And Devices For Efficient Power Conversion",
+      "full_name": "Advanced Semiconductor Materials and Devices for Efficient Power Conversion",
       "module_code": "EEE417",
       "module_level": "Level 4",
       "path": "EEE|EEE - Electrical and Electronic Engineering/EEE417.json"
     },
     {
-      "full_name": "Integration Of Energy Strategies In The Design Of Buildings",
+      "full_name": "Integration of Energy Strategies In The Design of Buildings",
       "module_code": "EEE421",
       "module_level": "Level 4",
       "path": "EEE|EEE - Electrical and Electronic Engineering/EEE421.json"
@@ -7663,12 +7627,6 @@
       "module_code": "ENT211TC",
       "module_level": "Level 2",
       "path": "ENT|CIEHX - Entrepreneurship/ENT211TC.json"
-    },
-    {
-      "full_name": "Capstone Project",
-      "module_code": "ENT301TC",
-      "module_level": "Level 3",
-      "path": "ENT|CIEHX - Entrepreneurship/ENT301TC.json"
     },
     {
       "full_name": "Team Technopreneurship",
@@ -7903,12 +7861,6 @@
       "module_code": "ENT211TC",
       "module_level": "Level 2",
       "path": "ENT|EEH - Entrepreneurship/ENT211TC.json"
-    },
-    {
-      "full_name": "Capstone Project",
-      "module_code": "ENT301TC",
-      "module_level": "Level 3",
-      "path": "ENT|EEH - Entrepreneurship/ENT301TC.json"
     },
     {
       "full_name": "Team Technopreneurship",
@@ -8301,7 +8253,7 @@
       "path": "ENV|HES - Environmental Sciences/ENV319.json"
     },
     {
-      "full_name": "Research Project Design And Management",
+      "full_name": "Research Project Design and Management",
       "module_code": "ENV401",
       "module_level": "Level 4",
       "path": "ENV|HES - Environmental Sciences/ENV401.json"
@@ -8325,13 +8277,13 @@
       "path": "ENV|HES - Environmental Sciences/ENV404.json"
     },
     {
-      "full_name": "Advanced Statistics In Environmental Sciences",
+      "full_name": "Advanced Statistics in Environmental Sciences",
       "module_code": "ENV405",
       "module_level": "Level 4",
       "path": "ENV|HES - Environmental Sciences/ENV405.json"
     },
     {
-      "full_name": "Frontiers In Environmental Sciences",
+      "full_name": "Frontiers in Environmental Sciences",
       "module_code": "ENV407",
       "module_level": "Level 4",
       "path": "ENV|HES - Environmental Sciences/ENV407.json"
@@ -8355,7 +8307,7 @@
       "path": "FIN|FIN - Finance/FIN003.json"
     },
     {
-      "full_name": "Essentials Of Finance",
+      "full_name": "Essentials of Finance",
       "module_code": "FIN101",
       "module_level": "Level 1",
       "path": "FIN|FIN - Finance/FIN101.json"
@@ -8409,7 +8361,7 @@
       "path": "FIN|FIN - Finance/FIN206.json"
     },
     {
-      "full_name": "Fundamentals Of Financial Technology",
+      "full_name": "Fundamentals of Financial Technology",
       "module_code": "FIN208",
       "module_level": "Level 2",
       "path": "FIN|FIN - Finance/FIN208.json"
@@ -8529,7 +8481,7 @@
       "path": "FIN|FIN - Finance/FIN413.json"
     },
     {
-      "full_name": "Empirical Methods In Finance",
+      "full_name": "Empirical Methods in Finance",
       "module_code": "FIN414",
       "module_level": "Level 4",
       "path": "FIN|FIN - Finance/FIN414.json"
@@ -8709,7 +8661,7 @@
       "path": "FTA|AFCT - Film and TV/FTA118.json"
     },
     {
-      "full_name": "Tv Graphic Design And Special Effects",
+      "full_name": "Tv Graphic Design and Special Effects",
       "module_code": "FTA119",
       "module_level": "Level 1",
       "path": "FTA|AFCT - Film and TV/FTA119.json"
@@ -8889,7 +8841,7 @@
       "path": "FTA|AFCT - Film and TV/FTA226.json"
     },
     {
-      "full_name": "Screenwriting For Tv And Streaming Media",
+      "full_name": "Screenwriting for Tv and Streaming Media",
       "module_code": "FTA227",
       "module_level": "Level 2",
       "path": "FTA|AFCT - Film and TV/FTA227.json"
@@ -8913,7 +8865,7 @@
       "path": "FTA|AFCT - Film and TV/FTA239.json"
     },
     {
-      "full_name": "Production Techniques For Digital Media",
+      "full_name": "Production Techniques for Digital Media",
       "module_code": "FTA240",
       "module_level": "Level 2",
       "path": "FTA|AFCT - Film and TV/FTA240.json"
@@ -8949,7 +8901,7 @@
       "path": "FTA|AFCT - Film and TV/FTA308.json"
     },
     {
-      "full_name": "Media, Entertainment And Cultural Industry",
+      "full_name": "Media, Entertainment and Cultural Industry",
       "module_code": "FTA311",
       "module_level": "Level 3",
       "path": "FTA|AFCT - Film and TV/FTA311.json"
@@ -8973,7 +8925,7 @@
       "path": "FTA|AFCT - Film and TV/FTA315.json"
     },
     {
-      "full_name": "Social Media And Video",
+      "full_name": "Social Media and Video",
       "module_code": "FTA316",
       "module_level": "Level 3",
       "path": "FTA|AFCT - Film and TV/FTA316.json"
@@ -9069,7 +9021,7 @@
       "path": "FTA|AFCT - Film and TV/FTA436.json"
     },
     {
-      "full_name": "Techniques For Creative Industries",
+      "full_name": "Techniques for Creative Industries",
       "module_code": "FTA439",
       "module_level": "Level 4",
       "path": "FTA|AFCT - Film and TV/FTA439.json"
@@ -9081,7 +9033,7 @@
       "path": "FTA|AFCT - Film and TV/FTA440.json"
     },
     {
-      "full_name": "Event Management And Curation",
+      "full_name": "Event Management and Curation",
       "module_code": "FTA441",
       "module_level": "Level 4",
       "path": "FTA|AFCT - Film and TV/FTA441.json"
@@ -9243,7 +9195,7 @@
       "path": "IFBTC|IFS - Intelligent Finance and Business/IFB003TC.json"
     },
     {
-      "full_name": "Analytical Tools In Management Science",
+      "full_name": "Analytical Tools in Management Science",
       "module_code": "IFB101TC",
       "module_level": "Level 1",
       "path": "IFBTC|IFS - Intelligent Finance and Business/IFB101TC.json"
@@ -9265,12 +9217,6 @@
       "module_code": "IFB104TC",
       "module_level": "Level 1",
       "path": "IFBTC|IFS - Intelligent Finance and Business/IFB104TC.json"
-    },
-    {
-      "full_name": "Production Planning and Control",
-      "module_code": "IFB105TC",
-      "module_level": "Level 1",
-      "path": "IFBTC|IFS - Intelligent Finance and Business/IFB105TC.json"
     },
     {
       "full_name": "Demand Forecasting & Management",
@@ -9295,12 +9241,6 @@
       "module_code": "IFB113TC",
       "module_level": "Level 1",
       "path": "IFBTC|IFS - Intelligent Finance and Business/IFB113TC.json"
-    },
-    {
-      "full_name": "Managing Across Borders",
-      "module_code": "IFB114TC",
-      "module_level": "Level 1",
-      "path": "IFBTC|IFS - Intelligent Finance and Business/IFB114TC.json"
     },
     {
       "full_name": "Process Management",
@@ -9477,19 +9417,19 @@
       "path": "IFBTC|IFS - Intelligent Finance and Business/IFB406TC.json"
     },
     {
-      "full_name": "Consumer Behavior In A Digital World",
+      "full_name": "Consumer Behavior in A Digital World",
       "module_code": "IFB407TC",
       "module_level": "Level 4",
       "path": "IFBTC|IFS - Intelligent Finance and Business/IFB407TC.json"
     },
     {
-      "full_name": "Demand And Inventory Planning",
+      "full_name": "Demand and Inventory Planning",
       "module_code": "IFB409TC",
       "module_level": "Level 4",
       "path": "IFBTC|IFS - Intelligent Finance and Business/IFB409TC.json"
     },
     {
-      "full_name": "Venture Finance",
+      "full_name": "Venture Finance in the AI era",
       "module_code": "IFB410TC",
       "module_level": "Level 4",
       "path": "IFBTC|IFS - Intelligent Finance and Business/IFB410TC.json"
@@ -9513,13 +9453,13 @@
       "path": "IFBTC|IFS - Intelligent Finance and Business/IFB413TC.json"
     },
     {
-      "full_name": "Cryptocurrencies, Blockchain, And The Future Of Money",
+      "full_name": "Cryptocurrencies, Blockchain, and The Future of Money",
       "module_code": "IFB414TC",
       "module_level": "Level 4",
       "path": "IFBTC|IFS - Intelligent Finance and Business/IFB414TC.json"
     },
     {
-      "full_name": "Digital Economy And Management",
+      "full_name": "Digital Economy and Management",
       "module_code": "IFB415TC",
       "module_level": "Level 4",
       "path": "IFBTC|IFS - Intelligent Finance and Business/IFB415TC.json"
@@ -9609,12 +9549,6 @@
       "path": "IFBTC|IFS - Intelligent Finance and Business/IFB429TC.json"
     },
     {
-      "full_name": "Applied Risk Management",
-      "module_code": "IFB430TC",
-      "module_level": "Level 3",
-      "path": "IFBTC|IFS - Intelligent Finance and Business/IFB430TC.json"
-    },
-    {
       "full_name": "Climate Change and Corporate Environmental Management",
       "module_code": "IFB431TC",
       "module_level": "Level 4",
@@ -9645,7 +9579,7 @@
       "path": "IND|IND - Industrial Design/IND106.json"
     },
     {
-      "full_name": "Materials For Design",
+      "full_name": "Materials for Design",
       "module_code": "IND108",
       "module_level": "Level 1",
       "path": "IND|IND - Industrial Design/IND108.json"
@@ -9663,13 +9597,13 @@
       "path": "IND|IND - Industrial Design/IND112.json"
     },
     {
-      "full_name": "Studio 4: Live Projects And Competitions",
+      "full_name": "Studio 4: Live Projects and Competitions",
       "module_code": "IND206",
       "module_level": "Level 2",
       "path": "IND|IND - Industrial Design/IND206.json"
     },
     {
-      "full_name": "Studio 2: Concepts And Interactions",
+      "full_name": "Studio 2: Concepts and Interactions",
       "module_code": "IND209",
       "module_level": "Level 2",
       "path": "IND|IND - Industrial Design/IND209.json"
@@ -9681,13 +9615,13 @@
       "path": "IND|IND - Industrial Design/IND210.json"
     },
     {
-      "full_name": "Electronics For Industrial Design",
+      "full_name": "Electronics for Industrial Design",
       "module_code": "IND211",
       "module_level": "Level 2",
       "path": "IND|IND - Industrial Design/IND211.json"
     },
     {
-      "full_name": "Design For Manufacturability & Assembly",
+      "full_name": "Design for Manufacturability & Assembly",
       "module_code": "IND212",
       "module_level": "Level 2",
       "path": "IND|IND - Industrial Design/IND212.json"
@@ -9705,19 +9639,19 @@
       "path": "IND|IND - Industrial Design/IND215.json"
     },
     {
-      "full_name": "Studio 3: Design For Market",
+      "full_name": "Studio 3: Design for Market",
       "module_code": "IND217",
       "module_level": "Level 2",
       "path": "IND|IND - Industrial Design/IND217.json"
     },
     {
-      "full_name": "Design For Sustainability",
+      "full_name": "Design for Sustainability",
       "module_code": "IND302",
       "module_level": "Level 3",
       "path": "IND|IND - Industrial Design/IND302.json"
     },
     {
-      "full_name": "Design Strategy And Ethics",
+      "full_name": "Design Strategy and Ethics",
       "module_code": "IND308",
       "module_level": "Level 3",
       "path": "IND|IND - Industrial Design/IND308.json"
@@ -9735,7 +9669,7 @@
       "path": "IND|IND - Industrial Design/IND402.json"
     },
     {
-      "full_name": "Design For Social Innovation",
+      "full_name": "Design for Social Innovation",
       "module_code": "IND403",
       "module_level": "Level 4",
       "path": "IND|IND - Industrial Design/IND403.json"
@@ -9753,7 +9687,7 @@
       "path": "IND|IND - Industrial Design/IND405.json"
     },
     {
-      "full_name": "Body, Space And Machine",
+      "full_name": "Body, Space and Machine",
       "module_code": "IND406",
       "module_level": "Level 4",
       "path": "IND|IND - Industrial Design/IND406.json"
@@ -9819,13 +9753,13 @@
       "path": "INS|INS - International Studies/INS202.json"
     },
     {
-      "full_name": "International Politics Of Development In Africa",
+      "full_name": "International Politics of Development In Africa",
       "module_code": "INS203",
       "module_level": "Level 2",
       "path": "INS|INS - International Studies/INS203.json"
     },
     {
-      "full_name": "Regional Integration: The Case Of Europe",
+      "full_name": "Regional Integration: The Case of Europe",
       "module_code": "INS204",
       "module_level": "Level 2",
       "path": "INS|INS - International Studies/INS204.json"
@@ -9855,7 +9789,7 @@
       "path": "INS|INS - International Studies/INS208.json"
     },
     {
-      "full_name": "Contemporary Russian Politics And Economy",
+      "full_name": "Contemporary Russian Politics and Economy",
       "module_code": "INS209",
       "module_level": "Level 2",
       "path": "INS|INS - International Studies/INS209.json"
@@ -9891,7 +9825,7 @@
       "path": "INS|INS - International Studies/INS306.json"
     },
     {
-      "full_name": "Political Economy Of Foreign Aid",
+      "full_name": "Political Economy of Foreign Aid",
       "module_code": "INS307",
       "module_level": "Level 3",
       "path": "INS|INS - International Studies/INS307.json"
@@ -10365,7 +10299,7 @@
       "path": "IOM|IOM - Intelligent Operations and Marketing/IOM218.json"
     },
     {
-      "full_name": "Computer-Based Trading In Financial Markets",
+      "full_name": "Computer-Based Trading in Financial Markets",
       "module_code": "IOM301",
       "module_level": "Level 3",
       "path": "IOM|IOM - Intelligent Operations and Marketing/IOM301.json"
@@ -10581,7 +10515,7 @@
       "path": "IOM|IOM - Intelligent Operations and Marketing/IOM426.json"
     },
     {
-      "full_name": "Operations Management And Strategy",
+      "full_name": "Operations Management and Strategy",
       "module_code": "IOM428",
       "module_level": "Level 4",
       "path": "IOM|IOM - Intelligent Operations and Marketing/IOM428.json"
@@ -10611,7 +10545,7 @@
       "path": "IOM|IOM - Intelligent Operations and Marketing/IOM439.json"
     },
     {
-      "full_name": "Data Science For Supply Chain Management",
+      "full_name": "Data Science for Supply Chain Management",
       "module_code": "IOM440",
       "module_level": "Level 4",
       "path": "IOM|IOM - Intelligent Operations and Marketing/IOM440.json"
@@ -10941,12 +10875,6 @@
       "path": "LAN|ELC - Comprehensive Use of Language/LAN302.json"
     },
     {
-      "full_name": "Research-led and Project-based Learning",
-      "module_code": "LIF001",
-      "module_level": "Level 0",
-      "path": "LIF|LIFE - Lifelong Learning/LIF001.json"
-    },
-    {
       "full_name": "Introduction to Literary Studies",
       "module_code": "LIT101",
       "module_level": "Level 1",
@@ -11133,19 +11061,19 @@
       "path": "LM|CCTC -/LMECO004.json"
     },
     {
-      "full_name": "Essentials Of Economics",
+      "full_name": "Essentials of Economics",
       "module_code": "LMECO106",
       "module_level": "Level 1",
       "path": "LM|CCTC -/LMECO106.json"
     },
     {
-      "full_name": "Introduction To Microeconomics",
+      "full_name": "Introduction to Microeconomics",
       "module_code": "LMECO107",
       "module_level": "Level 1",
       "path": "LM|CCTC -/LMECO107.json"
     },
     {
-      "full_name": "Introduction To Macroeconomics",
+      "full_name": "Introduction to Macroeconomics",
       "module_code": "LMECO108",
       "module_level": "Level 1",
       "path": "LM|CCTC -/LMECO108.json"
@@ -11157,7 +11085,7 @@
       "path": "LM|CCTC -/LMECO118.json"
     },
     {
-      "full_name": "Essentials Of Finance",
+      "full_name": "Essentials of Finance",
       "module_code": "LMFIN101",
       "module_level": "Level 1",
       "path": "LM|CCTC -/LMFIN101.json"
@@ -11179,12 +11107,6 @@
       "module_code": "LMIOM121",
       "module_level": "Level 1",
       "path": "LM|CCTC -/LMIOM121.json"
-    },
-    {
-      "full_name": "Research-led and Project-based Learning",
-      "module_code": "LMLIF001",
-      "module_level": "Level 0",
-      "path": "LM|CCTC -/LMLIF001.json"
     },
     {
       "full_name": "Multivariable Calculus and Statistics",
@@ -11295,19 +11217,19 @@
       "path": "LM|CIEHX -/LMECO004.json"
     },
     {
-      "full_name": "Essentials Of Economics",
+      "full_name": "Essentials of Economics",
       "module_code": "LMECO106",
       "module_level": "Level 1",
       "path": "LM|CIEHX -/LMECO106.json"
     },
     {
-      "full_name": "Introduction To Microeconomics",
+      "full_name": "Introduction to Microeconomics",
       "module_code": "LMECO107",
       "module_level": "Level 1",
       "path": "LM|CIEHX -/LMECO107.json"
     },
     {
-      "full_name": "Introduction To Macroeconomics",
+      "full_name": "Introduction to Macroeconomics",
       "module_code": "LMECO108",
       "module_level": "Level 1",
       "path": "LM|CIEHX -/LMECO108.json"
@@ -11319,7 +11241,7 @@
       "path": "LM|CIEHX -/LMECO118.json"
     },
     {
-      "full_name": "Essentials Of Finance",
+      "full_name": "Essentials of Finance",
       "module_code": "LMFIN101",
       "module_level": "Level 1",
       "path": "LM|CIEHX -/LMFIN101.json"
@@ -11341,12 +11263,6 @@
       "module_code": "LMIOM121",
       "module_level": "Level 1",
       "path": "LM|CIEHX -/LMIOM121.json"
-    },
-    {
-      "full_name": "Research-led and Project-based Learning",
-      "module_code": "LMLIF001",
-      "module_level": "Level 0",
-      "path": "LM|CIEHX -/LMLIF001.json"
     },
     {
       "full_name": "Multivariable Calculus and Statistics",
@@ -11457,19 +11373,19 @@
       "path": "LM|ELC -/LMECO004.json"
     },
     {
-      "full_name": "Essentials Of Economics",
+      "full_name": "Essentials of Economics",
       "module_code": "LMECO106",
       "module_level": "Level 1",
       "path": "LM|ELC -/LMECO106.json"
     },
     {
-      "full_name": "Introduction To Microeconomics",
+      "full_name": "Introduction to Microeconomics",
       "module_code": "LMECO107",
       "module_level": "Level 1",
       "path": "LM|ELC -/LMECO107.json"
     },
     {
-      "full_name": "Introduction To Macroeconomics",
+      "full_name": "Introduction to Macroeconomics",
       "module_code": "LMECO108",
       "module_level": "Level 1",
       "path": "LM|ELC -/LMECO108.json"
@@ -11481,7 +11397,7 @@
       "path": "LM|ELC -/LMECO118.json"
     },
     {
-      "full_name": "Essentials Of Finance",
+      "full_name": "Essentials of Finance",
       "module_code": "LMFIN101",
       "module_level": "Level 1",
       "path": "LM|ELC -/LMFIN101.json"
@@ -11503,12 +11419,6 @@
       "module_code": "LMIOM121",
       "module_level": "Level 1",
       "path": "LM|ELC -/LMIOM121.json"
-    },
-    {
-      "full_name": "Research-led and Project-based Learning",
-      "module_code": "LMLIF001",
-      "module_level": "Level 0",
-      "path": "LM|ELC -/LMLIF001.json"
     },
     {
       "full_name": "Multivariable Calculus and Statistics",
@@ -11619,19 +11529,19 @@
       "path": "LM|IFS -/LMECO004.json"
     },
     {
-      "full_name": "Essentials Of Economics",
+      "full_name": "Essentials of Economics",
       "module_code": "LMECO106",
       "module_level": "Level 1",
       "path": "LM|IFS -/LMECO106.json"
     },
     {
-      "full_name": "Introduction To Microeconomics",
+      "full_name": "Introduction to Microeconomics",
       "module_code": "LMECO107",
       "module_level": "Level 1",
       "path": "LM|IFS -/LMECO107.json"
     },
     {
-      "full_name": "Introduction To Macroeconomics",
+      "full_name": "Introduction to Macroeconomics",
       "module_code": "LMECO108",
       "module_level": "Level 1",
       "path": "LM|IFS -/LMECO108.json"
@@ -11643,7 +11553,7 @@
       "path": "LM|IFS -/LMECO118.json"
     },
     {
-      "full_name": "Essentials Of Finance",
+      "full_name": "Essentials of Finance",
       "module_code": "LMFIN101",
       "module_level": "Level 1",
       "path": "LM|IFS -/LMFIN101.json"
@@ -11665,12 +11575,6 @@
       "module_code": "LMIOM121",
       "module_level": "Level 1",
       "path": "LM|IFS -/LMIOM121.json"
-    },
-    {
-      "full_name": "Research-led and Project-based Learning",
-      "module_code": "LMLIF001",
-      "module_level": "Level 0",
-      "path": "LM|IFS -/LMLIF001.json"
     },
     {
       "full_name": "Multivariable Calculus and Statistics",
@@ -11781,19 +11685,19 @@
       "path": "LM|LIFE -/LMECO004.json"
     },
     {
-      "full_name": "Essentials Of Economics",
+      "full_name": "Essentials of Economics",
       "module_code": "LMECO106",
       "module_level": "Level 1",
       "path": "LM|LIFE -/LMECO106.json"
     },
     {
-      "full_name": "Introduction To Microeconomics",
+      "full_name": "Introduction to Microeconomics",
       "module_code": "LMECO107",
       "module_level": "Level 1",
       "path": "LM|LIFE -/LMECO107.json"
     },
     {
-      "full_name": "Introduction To Macroeconomics",
+      "full_name": "Introduction to Macroeconomics",
       "module_code": "LMECO108",
       "module_level": "Level 1",
       "path": "LM|LIFE -/LMECO108.json"
@@ -11805,7 +11709,7 @@
       "path": "LM|LIFE -/LMECO118.json"
     },
     {
-      "full_name": "Essentials Of Finance",
+      "full_name": "Essentials of Finance",
       "module_code": "LMFIN101",
       "module_level": "Level 1",
       "path": "LM|LIFE -/LMFIN101.json"
@@ -11827,12 +11731,6 @@
       "module_code": "LMIOM121",
       "module_level": "Level 1",
       "path": "LM|LIFE -/LMIOM121.json"
-    },
-    {
-      "full_name": "Research-led and Project-based Learning",
-      "module_code": "LMLIF001",
-      "module_level": "Level 0",
-      "path": "LM|LIFE -/LMLIF001.json"
     },
     {
       "full_name": "Multivariable Calculus and Statistics",
@@ -11943,19 +11841,19 @@
       "path": "LM|MAT -/LMECO004.json"
     },
     {
-      "full_name": "Essentials Of Economics",
+      "full_name": "Essentials of Economics",
       "module_code": "LMECO106",
       "module_level": "Level 1",
       "path": "LM|MAT -/LMECO106.json"
     },
     {
-      "full_name": "Introduction To Microeconomics",
+      "full_name": "Introduction to Microeconomics",
       "module_code": "LMECO107",
       "module_level": "Level 1",
       "path": "LM|MAT -/LMECO107.json"
     },
     {
-      "full_name": "Introduction To Macroeconomics",
+      "full_name": "Introduction to Macroeconomics",
       "module_code": "LMECO108",
       "module_level": "Level 1",
       "path": "LM|MAT -/LMECO108.json"
@@ -11967,7 +11865,7 @@
       "path": "LM|MAT -/LMECO118.json"
     },
     {
-      "full_name": "Essentials Of Finance",
+      "full_name": "Essentials of Finance",
       "module_code": "LMFIN101",
       "module_level": "Level 1",
       "path": "LM|MAT -/LMFIN101.json"
@@ -11989,12 +11887,6 @@
       "module_code": "LMIOM121",
       "module_level": "Level 1",
       "path": "LM|MAT -/LMIOM121.json"
-    },
-    {
-      "full_name": "Research-led and Project-based Learning",
-      "module_code": "LMLIF001",
-      "module_level": "Level 0",
-      "path": "LM|MAT -/LMLIF001.json"
     },
     {
       "full_name": "Multivariable Calculus and Statistics",
@@ -12105,19 +11997,19 @@
       "path": "LM|PHE -/LMECO004.json"
     },
     {
-      "full_name": "Essentials Of Economics",
+      "full_name": "Essentials of Economics",
       "module_code": "LMECO106",
       "module_level": "Level 1",
       "path": "LM|PHE -/LMECO106.json"
     },
     {
-      "full_name": "Introduction To Microeconomics",
+      "full_name": "Introduction to Microeconomics",
       "module_code": "LMECO107",
       "module_level": "Level 1",
       "path": "LM|PHE -/LMECO107.json"
     },
     {
-      "full_name": "Introduction To Macroeconomics",
+      "full_name": "Introduction to Macroeconomics",
       "module_code": "LMECO108",
       "module_level": "Level 1",
       "path": "LM|PHE -/LMECO108.json"
@@ -12129,7 +12021,7 @@
       "path": "LM|PHE -/LMECO118.json"
     },
     {
-      "full_name": "Essentials Of Finance",
+      "full_name": "Essentials of Finance",
       "module_code": "LMFIN101",
       "module_level": "Level 1",
       "path": "LM|PHE -/LMFIN101.json"
@@ -12151,12 +12043,6 @@
       "module_code": "LMIOM121",
       "module_level": "Level 1",
       "path": "LM|PHE -/LMIOM121.json"
-    },
-    {
-      "full_name": "Research-led and Project-based Learning",
-      "module_code": "LMLIF001",
-      "module_level": "Level 0",
-      "path": "LM|PHE -/LMLIF001.json"
     },
     {
       "full_name": "Multivariable Calculus and Statistics",
@@ -12483,7 +12369,7 @@
       "path": "LNG|LNG - Applied Linguistics/LNG413.json"
     },
     {
-      "full_name": "Psycholinguistics Of Multilingualism",
+      "full_name": "Psycholinguistics of Multilingualism",
       "module_code": "LNG414",
       "module_level": "Level 4",
       "path": "LNG|LNG - Applied Linguistics/LNG414.json"
@@ -12771,13 +12657,13 @@
       "path": "MESTC|CHP - Microelectronic Science and Engineering/MES311TC.json"
     },
     {
-      "full_name": "Semiconductor Materials And Devices",
+      "full_name": "Semiconductor Materials and Devices",
       "module_code": "MES401TC",
       "module_level": "Level 4",
       "path": "MESTC|CHP - Microelectronic Science and Engineering/MES401TC.json"
     },
     {
-      "full_name": "Characterization Of Materials And Microelectronic Devices",
+      "full_name": "Characterization of Materials and Microelectronic Devices",
       "module_code": "MES402TC",
       "module_level": "Level 4",
       "path": "MESTC|CHP - Microelectronic Science and Engineering/MES402TC.json"
@@ -12975,13 +12861,13 @@
       "path": "MESTC|IME - Microelectronic Science and Engineering/MES311TC.json"
     },
     {
-      "full_name": "Semiconductor Materials And Devices",
+      "full_name": "Semiconductor Materials and Devices",
       "module_code": "MES401TC",
       "module_level": "Level 4",
       "path": "MESTC|IME - Microelectronic Science and Engineering/MES401TC.json"
     },
     {
-      "full_name": "Characterization Of Materials And Microelectronic Devices",
+      "full_name": "Characterization of Materials and Microelectronic Devices",
       "module_code": "MES402TC",
       "module_level": "Level 4",
       "path": "MESTC|IME - Microelectronic Science and Engineering/MES402TC.json"
@@ -13191,7 +13077,7 @@
       "path": "MFETC|IME - Manufacturing Engineering/MFE405TC.json"
     },
     {
-      "full_name": "Systems Thinking And Modelling",
+      "full_name": "Systems Thinking and Modelling",
       "module_code": "MFE406TC",
       "module_level": "Level 4",
       "path": "MFETC|IME - Manufacturing Engineering/MFE406TC.json"
@@ -13557,7 +13443,7 @@
       "path": "MTH|APM - Mathematical Sciences/MTH202.json"
     },
     {
-      "full_name": "Introduction To Operational Research",
+      "full_name": "Introduction to Operational Research",
       "module_code": "MTH203",
       "module_level": "Level 2",
       "path": "MTH|APM - Mathematical Sciences/MTH203.json"
@@ -13647,13 +13533,13 @@
       "path": "MTH|APM - Mathematical Sciences/MTH229.json"
     },
     {
-      "full_name": "Symmetries In Geometry",
+      "full_name": "Symmetries in Geometry",
       "module_code": "MTH230",
       "module_level": "Level 2",
       "path": "MTH|APM - Mathematical Sciences/MTH230.json"
     },
     {
-      "full_name": "Stochastic Processes And Calculus",
+      "full_name": "Stochastic Processes and Calculus",
       "module_code": "MTH232",
       "module_level": "Level 2",
       "path": "MTH|APM - Mathematical Sciences/MTH232.json"
@@ -13779,13 +13665,13 @@
       "path": "MTH|APM - Mathematical Sciences/MTH319.json"
     },
     {
-      "full_name": "Numerical Analysis Of Partial Differential Equations",
+      "full_name": "Numerical Analysis of Partial Differential Equations",
       "module_code": "MTH321",
       "module_level": "Level 3",
       "path": "MTH|APM - Mathematical Sciences/MTH321.json"
     },
     {
-      "full_name": "Probability Measures And Asset Pricing",
+      "full_name": "Probability Measures and Asset Pricing",
       "module_code": "MTH322",
       "module_level": "Level 3",
       "path": "MTH|APM - Mathematical Sciences/MTH322.json"
@@ -13869,25 +13755,25 @@
       "path": "MTH|APM - Mathematical Sciences/MTH412.json"
     },
     {
-      "full_name": "Mathematics And Statistics For Data Science",
+      "full_name": "Mathematics and Statistics for Data Science",
       "module_code": "MTH413",
       "module_level": "Level 4",
       "path": "MTH|APM - Mathematical Sciences/MTH413.json"
     },
     {
-      "full_name": "Statistical Learning With Applications In Python",
+      "full_name": "Statistical Learning With Applications in Python",
       "module_code": "MTH414",
       "module_level": "Level 4",
       "path": "MTH|APM - Mathematical Sciences/MTH414.json"
     },
     {
-      "full_name": "Optimization Algorithms For Data Science",
+      "full_name": "Optimization Algorithms for Data Science",
       "module_code": "MTH415",
       "module_level": "Level 4",
       "path": "MTH|APM - Mathematical Sciences/MTH415.json"
     },
     {
-      "full_name": "Neural Networks And Deep Learning",
+      "full_name": "Neural Networks and Deep Learning",
       "module_code": "MTH416",
       "module_level": "Level 4",
       "path": "MTH|APM - Mathematical Sciences/MTH416.json"
@@ -13899,7 +13785,7 @@
       "path": "MTH|APM - Mathematical Sciences/MTH417.json"
     },
     {
-      "full_name": "Theory And Applications Of Partial Differential Equations",
+      "full_name": "Theory and Applications of Partial Differential Equations",
       "module_code": "MTH418",
       "module_level": "Level 4",
       "path": "MTH|APM - Mathematical Sciences/MTH418.json"
@@ -13911,7 +13797,7 @@
       "path": "MTH|APM - Mathematical Sciences/MTH419.json"
     },
     {
-      "full_name": "Measures And Integrals",
+      "full_name": "Measures and Integrals",
       "module_code": "MTH420",
       "module_level": "Level 4",
       "path": "MTH|APM - Mathematical Sciences/MTH420.json"
@@ -13965,13 +13851,13 @@
       "path": "MTH|APM - Mathematical Sciences/MTH442.json"
     },
     {
-      "full_name": "Advanced Topics In Operational Research",
+      "full_name": "Advanced Topics in Operational Research",
       "module_code": "MTH443",
       "module_level": "Level 4",
       "path": "MTH|APM - Mathematical Sciences/MTH443.json"
     },
     {
-      "full_name": "Calculus Of Variations And Optimal Control",
+      "full_name": "Calculus of Variations and Optimal Control",
       "module_code": "MTH444",
       "module_level": "Level 4",
       "path": "MTH|APM - Mathematical Sciences/MTH444.json"
@@ -14259,7 +14145,7 @@
       "path": "MTH|FAM - Mathematical Sciences/MTH202.json"
     },
     {
-      "full_name": "Introduction To Operational Research",
+      "full_name": "Introduction to Operational Research",
       "module_code": "MTH203",
       "module_level": "Level 2",
       "path": "MTH|FAM - Mathematical Sciences/MTH203.json"
@@ -14349,13 +14235,13 @@
       "path": "MTH|FAM - Mathematical Sciences/MTH229.json"
     },
     {
-      "full_name": "Symmetries In Geometry",
+      "full_name": "Symmetries in Geometry",
       "module_code": "MTH230",
       "module_level": "Level 2",
       "path": "MTH|FAM - Mathematical Sciences/MTH230.json"
     },
     {
-      "full_name": "Stochastic Processes And Calculus",
+      "full_name": "Stochastic Processes and Calculus",
       "module_code": "MTH232",
       "module_level": "Level 2",
       "path": "MTH|FAM - Mathematical Sciences/MTH232.json"
@@ -14481,13 +14367,13 @@
       "path": "MTH|FAM - Mathematical Sciences/MTH319.json"
     },
     {
-      "full_name": "Numerical Analysis Of Partial Differential Equations",
+      "full_name": "Numerical Analysis of Partial Differential Equations",
       "module_code": "MTH321",
       "module_level": "Level 3",
       "path": "MTH|FAM - Mathematical Sciences/MTH321.json"
     },
     {
-      "full_name": "Probability Measures And Asset Pricing",
+      "full_name": "Probability Measures and Asset Pricing",
       "module_code": "MTH322",
       "module_level": "Level 3",
       "path": "MTH|FAM - Mathematical Sciences/MTH322.json"
@@ -14571,25 +14457,25 @@
       "path": "MTH|FAM - Mathematical Sciences/MTH412.json"
     },
     {
-      "full_name": "Mathematics And Statistics For Data Science",
+      "full_name": "Mathematics and Statistics for Data Science",
       "module_code": "MTH413",
       "module_level": "Level 4",
       "path": "MTH|FAM - Mathematical Sciences/MTH413.json"
     },
     {
-      "full_name": "Statistical Learning With Applications In Python",
+      "full_name": "Statistical Learning With Applications in Python",
       "module_code": "MTH414",
       "module_level": "Level 4",
       "path": "MTH|FAM - Mathematical Sciences/MTH414.json"
     },
     {
-      "full_name": "Optimization Algorithms For Data Science",
+      "full_name": "Optimization Algorithms for Data Science",
       "module_code": "MTH415",
       "module_level": "Level 4",
       "path": "MTH|FAM - Mathematical Sciences/MTH415.json"
     },
     {
-      "full_name": "Neural Networks And Deep Learning",
+      "full_name": "Neural Networks and Deep Learning",
       "module_code": "MTH416",
       "module_level": "Level 4",
       "path": "MTH|FAM - Mathematical Sciences/MTH416.json"
@@ -14601,7 +14487,7 @@
       "path": "MTH|FAM - Mathematical Sciences/MTH417.json"
     },
     {
-      "full_name": "Theory And Applications Of Partial Differential Equations",
+      "full_name": "Theory and Applications of Partial Differential Equations",
       "module_code": "MTH418",
       "module_level": "Level 4",
       "path": "MTH|FAM - Mathematical Sciences/MTH418.json"
@@ -14613,7 +14499,7 @@
       "path": "MTH|FAM - Mathematical Sciences/MTH419.json"
     },
     {
-      "full_name": "Measures And Integrals",
+      "full_name": "Measures and Integrals",
       "module_code": "MTH420",
       "module_level": "Level 4",
       "path": "MTH|FAM - Mathematical Sciences/MTH420.json"
@@ -14667,13 +14553,13 @@
       "path": "MTH|FAM - Mathematical Sciences/MTH442.json"
     },
     {
-      "full_name": "Advanced Topics In Operational Research",
+      "full_name": "Advanced Topics in Operational Research",
       "module_code": "MTH443",
       "module_level": "Level 4",
       "path": "MTH|FAM - Mathematical Sciences/MTH443.json"
     },
     {
-      "full_name": "Calculus Of Variations And Optimal Control",
+      "full_name": "Calculus of Variations and Optimal Control",
       "module_code": "MTH444",
       "module_level": "Level 4",
       "path": "MTH|FAM - Mathematical Sciences/MTH444.json"
@@ -14961,7 +14847,7 @@
       "path": "MTH|MAT - Mathematical Sciences/MTH202.json"
     },
     {
-      "full_name": "Introduction To Operational Research",
+      "full_name": "Introduction to Operational Research",
       "module_code": "MTH203",
       "module_level": "Level 2",
       "path": "MTH|MAT - Mathematical Sciences/MTH203.json"
@@ -15051,13 +14937,13 @@
       "path": "MTH|MAT - Mathematical Sciences/MTH229.json"
     },
     {
-      "full_name": "Symmetries In Geometry",
+      "full_name": "Symmetries in Geometry",
       "module_code": "MTH230",
       "module_level": "Level 2",
       "path": "MTH|MAT - Mathematical Sciences/MTH230.json"
     },
     {
-      "full_name": "Stochastic Processes And Calculus",
+      "full_name": "Stochastic Processes and Calculus",
       "module_code": "MTH232",
       "module_level": "Level 2",
       "path": "MTH|MAT - Mathematical Sciences/MTH232.json"
@@ -15183,13 +15069,13 @@
       "path": "MTH|MAT - Mathematical Sciences/MTH319.json"
     },
     {
-      "full_name": "Numerical Analysis Of Partial Differential Equations",
+      "full_name": "Numerical Analysis of Partial Differential Equations",
       "module_code": "MTH321",
       "module_level": "Level 3",
       "path": "MTH|MAT - Mathematical Sciences/MTH321.json"
     },
     {
-      "full_name": "Probability Measures And Asset Pricing",
+      "full_name": "Probability Measures and Asset Pricing",
       "module_code": "MTH322",
       "module_level": "Level 3",
       "path": "MTH|MAT - Mathematical Sciences/MTH322.json"
@@ -15273,25 +15159,25 @@
       "path": "MTH|MAT - Mathematical Sciences/MTH412.json"
     },
     {
-      "full_name": "Mathematics And Statistics For Data Science",
+      "full_name": "Mathematics and Statistics for Data Science",
       "module_code": "MTH413",
       "module_level": "Level 4",
       "path": "MTH|MAT - Mathematical Sciences/MTH413.json"
     },
     {
-      "full_name": "Statistical Learning With Applications In Python",
+      "full_name": "Statistical Learning With Applications in Python",
       "module_code": "MTH414",
       "module_level": "Level 4",
       "path": "MTH|MAT - Mathematical Sciences/MTH414.json"
     },
     {
-      "full_name": "Optimization Algorithms For Data Science",
+      "full_name": "Optimization Algorithms for Data Science",
       "module_code": "MTH415",
       "module_level": "Level 4",
       "path": "MTH|MAT - Mathematical Sciences/MTH415.json"
     },
     {
-      "full_name": "Neural Networks And Deep Learning",
+      "full_name": "Neural Networks and Deep Learning",
       "module_code": "MTH416",
       "module_level": "Level 4",
       "path": "MTH|MAT - Mathematical Sciences/MTH416.json"
@@ -15303,7 +15189,7 @@
       "path": "MTH|MAT - Mathematical Sciences/MTH417.json"
     },
     {
-      "full_name": "Theory And Applications Of Partial Differential Equations",
+      "full_name": "Theory and Applications of Partial Differential Equations",
       "module_code": "MTH418",
       "module_level": "Level 4",
       "path": "MTH|MAT - Mathematical Sciences/MTH418.json"
@@ -15315,7 +15201,7 @@
       "path": "MTH|MAT - Mathematical Sciences/MTH419.json"
     },
     {
-      "full_name": "Measures And Integrals",
+      "full_name": "Measures and Integrals",
       "module_code": "MTH420",
       "module_level": "Level 4",
       "path": "MTH|MAT - Mathematical Sciences/MTH420.json"
@@ -15369,13 +15255,13 @@
       "path": "MTH|MAT - Mathematical Sciences/MTH442.json"
     },
     {
-      "full_name": "Advanced Topics In Operational Research",
+      "full_name": "Advanced Topics in Operational Research",
       "module_code": "MTH443",
       "module_level": "Level 4",
       "path": "MTH|MAT - Mathematical Sciences/MTH443.json"
     },
     {
-      "full_name": "Calculus Of Variations And Optimal Control",
+      "full_name": "Calculus of Variations and Optimal Control",
       "module_code": "MTH444",
       "module_level": "Level 4",
       "path": "MTH|MAT - Mathematical Sciences/MTH444.json"
@@ -15663,7 +15549,7 @@
       "path": "MTH|MTH - Mathematical Sciences/MTH202.json"
     },
     {
-      "full_name": "Introduction To Operational Research",
+      "full_name": "Introduction to Operational Research",
       "module_code": "MTH203",
       "module_level": "Level 2",
       "path": "MTH|MTH - Mathematical Sciences/MTH203.json"
@@ -15753,13 +15639,13 @@
       "path": "MTH|MTH - Mathematical Sciences/MTH229.json"
     },
     {
-      "full_name": "Symmetries In Geometry",
+      "full_name": "Symmetries in Geometry",
       "module_code": "MTH230",
       "module_level": "Level 2",
       "path": "MTH|MTH - Mathematical Sciences/MTH230.json"
     },
     {
-      "full_name": "Stochastic Processes And Calculus",
+      "full_name": "Stochastic Processes and Calculus",
       "module_code": "MTH232",
       "module_level": "Level 2",
       "path": "MTH|MTH - Mathematical Sciences/MTH232.json"
@@ -15885,13 +15771,13 @@
       "path": "MTH|MTH - Mathematical Sciences/MTH319.json"
     },
     {
-      "full_name": "Numerical Analysis Of Partial Differential Equations",
+      "full_name": "Numerical Analysis of Partial Differential Equations",
       "module_code": "MTH321",
       "module_level": "Level 3",
       "path": "MTH|MTH - Mathematical Sciences/MTH321.json"
     },
     {
-      "full_name": "Probability Measures And Asset Pricing",
+      "full_name": "Probability Measures and Asset Pricing",
       "module_code": "MTH322",
       "module_level": "Level 3",
       "path": "MTH|MTH - Mathematical Sciences/MTH322.json"
@@ -15975,25 +15861,25 @@
       "path": "MTH|MTH - Mathematical Sciences/MTH412.json"
     },
     {
-      "full_name": "Mathematics And Statistics For Data Science",
+      "full_name": "Mathematics and Statistics for Data Science",
       "module_code": "MTH413",
       "module_level": "Level 4",
       "path": "MTH|MTH - Mathematical Sciences/MTH413.json"
     },
     {
-      "full_name": "Statistical Learning With Applications In Python",
+      "full_name": "Statistical Learning With Applications in Python",
       "module_code": "MTH414",
       "module_level": "Level 4",
       "path": "MTH|MTH - Mathematical Sciences/MTH414.json"
     },
     {
-      "full_name": "Optimization Algorithms For Data Science",
+      "full_name": "Optimization Algorithms for Data Science",
       "module_code": "MTH415",
       "module_level": "Level 4",
       "path": "MTH|MTH - Mathematical Sciences/MTH415.json"
     },
     {
-      "full_name": "Neural Networks And Deep Learning",
+      "full_name": "Neural Networks and Deep Learning",
       "module_code": "MTH416",
       "module_level": "Level 4",
       "path": "MTH|MTH - Mathematical Sciences/MTH416.json"
@@ -16005,7 +15891,7 @@
       "path": "MTH|MTH - Mathematical Sciences/MTH417.json"
     },
     {
-      "full_name": "Theory And Applications Of Partial Differential Equations",
+      "full_name": "Theory and Applications of Partial Differential Equations",
       "module_code": "MTH418",
       "module_level": "Level 4",
       "path": "MTH|MTH - Mathematical Sciences/MTH418.json"
@@ -16017,7 +15903,7 @@
       "path": "MTH|MTH - Mathematical Sciences/MTH419.json"
     },
     {
-      "full_name": "Measures And Integrals",
+      "full_name": "Measures and Integrals",
       "module_code": "MTH420",
       "module_level": "Level 4",
       "path": "MTH|MTH - Mathematical Sciences/MTH420.json"
@@ -16071,13 +15957,13 @@
       "path": "MTH|MTH - Mathematical Sciences/MTH442.json"
     },
     {
-      "full_name": "Advanced Topics In Operational Research",
+      "full_name": "Advanced Topics in Operational Research",
       "module_code": "MTH443",
       "module_level": "Level 4",
       "path": "MTH|MTH - Mathematical Sciences/MTH443.json"
     },
     {
-      "full_name": "Calculus Of Variations And Optimal Control",
+      "full_name": "Calculus of Variations and Optimal Control",
       "module_code": "MTH444",
       "module_level": "Level 4",
       "path": "MTH|MTH - Mathematical Sciences/MTH444.json"
@@ -16365,7 +16251,7 @@
       "path": "MTH|SMP - Mathematical Sciences/MTH202.json"
     },
     {
-      "full_name": "Introduction To Operational Research",
+      "full_name": "Introduction to Operational Research",
       "module_code": "MTH203",
       "module_level": "Level 2",
       "path": "MTH|SMP - Mathematical Sciences/MTH203.json"
@@ -16455,13 +16341,13 @@
       "path": "MTH|SMP - Mathematical Sciences/MTH229.json"
     },
     {
-      "full_name": "Symmetries In Geometry",
+      "full_name": "Symmetries in Geometry",
       "module_code": "MTH230",
       "module_level": "Level 2",
       "path": "MTH|SMP - Mathematical Sciences/MTH230.json"
     },
     {
-      "full_name": "Stochastic Processes And Calculus",
+      "full_name": "Stochastic Processes and Calculus",
       "module_code": "MTH232",
       "module_level": "Level 2",
       "path": "MTH|SMP - Mathematical Sciences/MTH232.json"
@@ -16587,13 +16473,13 @@
       "path": "MTH|SMP - Mathematical Sciences/MTH319.json"
     },
     {
-      "full_name": "Numerical Analysis Of Partial Differential Equations",
+      "full_name": "Numerical Analysis of Partial Differential Equations",
       "module_code": "MTH321",
       "module_level": "Level 3",
       "path": "MTH|SMP - Mathematical Sciences/MTH321.json"
     },
     {
-      "full_name": "Probability Measures And Asset Pricing",
+      "full_name": "Probability Measures and Asset Pricing",
       "module_code": "MTH322",
       "module_level": "Level 3",
       "path": "MTH|SMP - Mathematical Sciences/MTH322.json"
@@ -16677,25 +16563,25 @@
       "path": "MTH|SMP - Mathematical Sciences/MTH412.json"
     },
     {
-      "full_name": "Mathematics And Statistics For Data Science",
+      "full_name": "Mathematics and Statistics for Data Science",
       "module_code": "MTH413",
       "module_level": "Level 4",
       "path": "MTH|SMP - Mathematical Sciences/MTH413.json"
     },
     {
-      "full_name": "Statistical Learning With Applications In Python",
+      "full_name": "Statistical Learning With Applications in Python",
       "module_code": "MTH414",
       "module_level": "Level 4",
       "path": "MTH|SMP - Mathematical Sciences/MTH414.json"
     },
     {
-      "full_name": "Optimization Algorithms For Data Science",
+      "full_name": "Optimization Algorithms for Data Science",
       "module_code": "MTH415",
       "module_level": "Level 4",
       "path": "MTH|SMP - Mathematical Sciences/MTH415.json"
     },
     {
-      "full_name": "Neural Networks And Deep Learning",
+      "full_name": "Neural Networks and Deep Learning",
       "module_code": "MTH416",
       "module_level": "Level 4",
       "path": "MTH|SMP - Mathematical Sciences/MTH416.json"
@@ -16707,7 +16593,7 @@
       "path": "MTH|SMP - Mathematical Sciences/MTH417.json"
     },
     {
-      "full_name": "Theory And Applications Of Partial Differential Equations",
+      "full_name": "Theory and Applications of Partial Differential Equations",
       "module_code": "MTH418",
       "module_level": "Level 4",
       "path": "MTH|SMP - Mathematical Sciences/MTH418.json"
@@ -16719,7 +16605,7 @@
       "path": "MTH|SMP - Mathematical Sciences/MTH419.json"
     },
     {
-      "full_name": "Measures And Integrals",
+      "full_name": "Measures and Integrals",
       "module_code": "MTH420",
       "module_level": "Level 4",
       "path": "MTH|SMP - Mathematical Sciences/MTH420.json"
@@ -16773,13 +16659,13 @@
       "path": "MTH|SMP - Mathematical Sciences/MTH442.json"
     },
     {
-      "full_name": "Advanced Topics In Operational Research",
+      "full_name": "Advanced Topics in Operational Research",
       "module_code": "MTH443",
       "module_level": "Level 4",
       "path": "MTH|SMP - Mathematical Sciences/MTH443.json"
     },
     {
-      "full_name": "Calculus Of Variations And Optimal Control",
+      "full_name": "Calculus of Variations and Optimal Control",
       "module_code": "MTH444",
       "module_level": "Level 4",
       "path": "MTH|SMP - Mathematical Sciences/MTH444.json"
@@ -17847,7 +17733,7 @@
       "path": "SMO|SMO - Strategic Management and Organizations/SMO423.json"
     },
     {
-      "full_name": "Sustainability, Innovation And Change",
+      "full_name": "Sustainability, Innovation and Change",
       "module_code": "SMO424",
       "module_level": "Level 4",
       "path": "SMO|SMO - Strategic Management and Organizations/SMO424.json"
@@ -18307,18 +18193,6 @@
       "module_code": "UPD410",
       "module_level": "Level 4",
       "path": "UPD|UPD - Urban Planning and Design/UPD410.json"
-    },
-    {
-      "full_name": "Essentials of AI",
-      "module_code": "XPU001",
-      "module_level": "Level 0",
-      "path": "XPU|LIFE - XIPU AI general education/XPU001.json"
-    },
-    {
-      "full_name": "Foundations of AI",
-      "module_code": "XPU002",
-      "module_level": "Level 0",
-      "path": "XPU|LIFE - XIPU AI general education/XPU002.json"
     }
   ]
 }

@@ -4,15 +4,15 @@
     "domain_code": "MTH",
     "full_name": "Mathematical Sciences"
   },
-  "full_name": "Stochastic Processes And Calculus",
+  "full_name": "Stochastic Processes and Calculus",
   "module_code": "MTH232",
   "offerings": [
     {
-      "heading": "Stochastic Processes And Calculus",
+      "heading": "Stochastic Processes and Calculus",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "MTH",
-        "full_name": "Stochastic Processes And Calculus",
+        "full_name": "Stochastic Processes and Calculus",
         "module_code": "MTH232",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 2",
-        "Module Title": "Stochastic Processes And Calculus",
+        "Module Title": "Stochastic Processes and Calculus",
         "Semester": "SEM2"
       },
       "sections": {

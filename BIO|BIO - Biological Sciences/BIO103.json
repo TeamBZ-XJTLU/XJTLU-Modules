@@ -4,15 +4,15 @@
     "domain_code": "BIO",
     "full_name": "Biological Sciences"
   },
-  "full_name": "Cellular And Molecular Biology",
+  "full_name": "Cellular and Molecular Biology",
   "module_code": "BIO103",
   "offerings": [
     {
-      "heading": "Cellular And Molecular Biology",
+      "heading": "Cellular and Molecular Biology",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "BIO",
-        "full_name": "Cellular And Molecular Biology",
+        "full_name": "Cellular and Molecular Biology",
         "module_code": "BIO103",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 1",
-        "Module Title": "Cellular And Molecular Biology",
+        "Module Title": "Cellular and Molecular Biology",
         "Semester": "SEM1"
       },
       "sections": {

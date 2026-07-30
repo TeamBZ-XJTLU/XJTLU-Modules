@@ -4,15 +4,15 @@
     "domain_code": "APH",
     "full_name": "Academy of Pharmacy"
   },
-  "full_name": "Essential Math For Pharmacy",
+  "full_name": "Essential Math for Pharmacy",
   "module_code": "APH431",
   "offerings": [
     {
-      "heading": "Essential Math For Pharmacy",
+      "heading": "Essential Math for Pharmacy",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "APH",
-        "full_name": "Essential Math For Pharmacy",
+        "full_name": "Essential Math for Pharmacy",
         "module_code": "APH431",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Essential Math For Pharmacy",
+        "Module Title": "Essential Math for Pharmacy",
         "Semester": "SEM1"
       },
       "sections": {

@@ -4,15 +4,15 @@
     "domain_code": "ECO",
     "full_name": "Economics"
   },
-  "full_name": "Introduction To The Practice Of Statistics",
+  "full_name": "Introduction to The Practice of Statistics",
   "module_code": "ECO102",
   "offerings": [
     {
-      "heading": "Introduction To The Practice Of Statistics",
+      "heading": "Introduction to The Practice of Statistics",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "ECO",
-        "full_name": "Introduction To The Practice Of Statistics",
+        "full_name": "Introduction to The Practice of Statistics",
         "module_code": "ECO102",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 1",
-        "Module Title": "Introduction To The Practice Of Statistics",
+        "Module Title": "Introduction to The Practice of Statistics",
         "Semester": "SEM1"
       },
       "sections": {

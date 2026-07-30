@@ -4,15 +4,15 @@
     "domain_code": "ECO",
     "full_name": "Economics"
   },
-  "full_name": "Economic Growth, Technology And Environment",
+  "full_name": "Economic Growth, Technology and Environment",
   "module_code": "ECO416",
   "offerings": [
     {
-      "heading": "Economic Growth, Technology And Environment",
+      "heading": "Economic Growth, Technology and Environment",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "ECO",
-        "full_name": "Economic Growth, Technology And Environment",
+        "full_name": "Economic Growth, Technology and Environment",
         "module_code": "ECO416",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Economic Growth, Technology And Environment",
+        "Module Title": "Economic Growth, Technology and Environment",
         "Semester": "SEM2"
       },
       "sections": {

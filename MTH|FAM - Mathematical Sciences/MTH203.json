@@ -4,15 +4,15 @@
     "domain_code": "MTH",
     "full_name": "Mathematical Sciences"
   },
-  "full_name": "Introduction To Operational Research",
+  "full_name": "Introduction to Operational Research",
   "module_code": "MTH203",
   "offerings": [
     {
-      "heading": "Introduction To Operational Research",
+      "heading": "Introduction to Operational Research",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "MTH",
-        "full_name": "Introduction To Operational Research",
+        "full_name": "Introduction to Operational Research",
         "module_code": "MTH203",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 2",
-        "Module Title": "Introduction To Operational Research",
+        "Module Title": "Introduction to Operational Research",
         "Semester": "SEM2"
       },
       "sections": {

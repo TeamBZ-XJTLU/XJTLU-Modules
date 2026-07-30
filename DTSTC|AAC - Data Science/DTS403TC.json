@@ -4,15 +4,15 @@
     "domain_code": "DTSTC",
     "full_name": "Data Science"
   },
-  "full_name": "Applied Research Techniques And Methodologies",
+  "full_name": "Applied Research Techniques and Methodologies",
   "module_code": "DTS403TC",
   "offerings": [
     {
-      "heading": "Applied Research Techniques And Methodologies",
+      "heading": "Applied Research Techniques and Methodologies",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "DTSTC",
-        "full_name": "Applied Research Techniques And Methodologies",
+        "full_name": "Applied Research Techniques and Methodologies",
         "module_code": "DTS403TC",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Applied Research Techniques And Methodologies",
+        "Module Title": "Applied Research Techniques and Methodologies",
         "Semester": "SEM1"
       },
       "sections": {

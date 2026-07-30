@@ -4,15 +4,15 @@
     "domain_code": "MTH",
     "full_name": "Mathematical Sciences"
   },
-  "full_name": "Mathematics And Statistics For Data Science",
+  "full_name": "Mathematics and Statistics for Data Science",
   "module_code": "MTH413",
   "offerings": [
     {
-      "heading": "Mathematics And Statistics For Data Science",
+      "heading": "Mathematics and Statistics for Data Science",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "MTH",
-        "full_name": "Mathematics And Statistics For Data Science",
+        "full_name": "Mathematics and Statistics for Data Science",
         "module_code": "MTH413",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Mathematics And Statistics For Data Science",
+        "Module Title": "Mathematics and Statistics for Data Science",
         "Semester": "SEM1"
       },
       "sections": {

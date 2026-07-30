@@ -4,15 +4,15 @@
     "domain_code": "APH",
     "full_name": "Academy of Pharmacy"
   },
-  "full_name": "AI In Pharmacy I",
+  "full_name": "AI in Pharmacy I",
   "module_code": "APH432",
   "offerings": [
     {
-      "heading": "AI In Pharmacy I",
+      "heading": "AI in Pharmacy I",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "APH",
-        "full_name": "AI In Pharmacy I",
+        "full_name": "AI in Pharmacy I",
         "module_code": "APH432",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "AI In Pharmacy I",
+        "Module Title": "AI in Pharmacy I",
         "Semester": "SEM1"
       },
       "sections": {

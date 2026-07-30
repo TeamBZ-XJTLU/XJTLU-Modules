@@ -4,15 +4,15 @@
     "domain_code": "ENV",
     "full_name": "Environmental Sciences"
   },
-  "full_name": "Advanced Statistics In Environmental Sciences",
+  "full_name": "Advanced Statistics in Environmental Sciences",
   "module_code": "ENV405",
   "offerings": [
     {
-      "heading": "Advanced Statistics In Environmental Sciences",
+      "heading": "Advanced Statistics in Environmental Sciences",
       "listing": {
         "academic_year": "2027/28",
         "domain_code": "ENV",
-        "full_name": "Advanced Statistics In Environmental Sciences",
+        "full_name": "Advanced Statistics in Environmental Sciences",
         "module_code": "ENV405",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2027/28",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Advanced Statistics In Environmental Sciences",
+        "Module Title": "Advanced Statistics in Environmental Sciences",
         "Semester": "SEM1"
       },
       "sections": {

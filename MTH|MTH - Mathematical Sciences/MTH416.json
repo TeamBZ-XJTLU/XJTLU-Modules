@@ -4,15 +4,15 @@
     "domain_code": "MTH",
     "full_name": "Mathematical Sciences"
   },
-  "full_name": "Neural Networks And Deep Learning",
+  "full_name": "Neural Networks and Deep Learning",
   "module_code": "MTH416",
   "offerings": [
     {
-      "heading": "Neural Networks And Deep Learning",
+      "heading": "Neural Networks and Deep Learning",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "MTH",
-        "full_name": "Neural Networks And Deep Learning",
+        "full_name": "Neural Networks and Deep Learning",
         "module_code": "MTH416",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Neural Networks And Deep Learning",
+        "Module Title": "Neural Networks and Deep Learning",
         "Semester": "SEM2"
       },
       "sections": {

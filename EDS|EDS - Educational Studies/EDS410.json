@@ -4,15 +4,15 @@
     "domain_code": "EDS",
     "full_name": "Educational Studies"
   },
-  "full_name": "The Student Experience In Global Education",
+  "full_name": "The Student Experience in Global Education",
   "module_code": "EDS410",
   "offerings": [
     {
-      "heading": "The Student Experience In Global Education",
+      "heading": "The Student Experience in Global Education",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "EDS",
-        "full_name": "The Student Experience In Global Education",
+        "full_name": "The Student Experience in Global Education",
         "module_code": "EDS410",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "The Student Experience In Global Education",
+        "Module Title": "The Student Experience in Global Education",
         "Semester": "SEM2"
       },
       "sections": {

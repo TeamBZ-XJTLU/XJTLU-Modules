@@ -4,15 +4,15 @@
     "domain_code": "MTH",
     "full_name": "Mathematical Sciences"
   },
-  "full_name": "Advanced Topics In Operational Research",
+  "full_name": "Advanced Topics in Operational Research",
   "module_code": "MTH443",
   "offerings": [
     {
-      "heading": "Advanced Topics In Operational Research",
+      "heading": "Advanced Topics in Operational Research",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "MTH",
-        "full_name": "Advanced Topics In Operational Research",
+        "full_name": "Advanced Topics in Operational Research",
         "module_code": "MTH443",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Advanced Topics In Operational Research",
+        "Module Title": "Advanced Topics in Operational Research",
         "Semester": "SEM1"
       },
       "sections": {

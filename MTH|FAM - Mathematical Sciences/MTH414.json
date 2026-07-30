@@ -4,15 +4,15 @@
     "domain_code": "MTH",
     "full_name": "Mathematical Sciences"
   },
-  "full_name": "Statistical Learning With Applications In Python",
+  "full_name": "Statistical Learning With Applications in Python",
   "module_code": "MTH414",
   "offerings": [
     {
-      "heading": "Statistical Learning With Applications In Python",
+      "heading": "Statistical Learning With Applications in Python",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "MTH",
-        "full_name": "Statistical Learning With Applications In Python",
+        "full_name": "Statistical Learning With Applications in Python",
         "module_code": "MTH414",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Statistical Learning With Applications In Python",
+        "Module Title": "Statistical Learning With Applications in Python",
         "Semester": "SEM2"
       },
       "sections": {

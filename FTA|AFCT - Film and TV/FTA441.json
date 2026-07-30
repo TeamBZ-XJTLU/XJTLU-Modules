@@ -4,15 +4,15 @@
     "domain_code": "FTA",
     "full_name": "Film and TV"
   },
-  "full_name": "Event Management And Curation",
+  "full_name": "Event Management and Curation",
   "module_code": "FTA441",
   "offerings": [
     {
-      "heading": "Event Management And Curation",
+      "heading": "Event Management and Curation",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "FTA",
-        "full_name": "Event Management And Curation",
+        "full_name": "Event Management and Curation",
         "module_code": "FTA441",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Event Management And Curation",
+        "Module Title": "Event Management and Curation",
         "Semester": "SEM1"
       },
       "sections": {

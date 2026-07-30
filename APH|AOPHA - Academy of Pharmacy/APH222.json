@@ -4,15 +4,15 @@
     "domain_code": "APH",
     "full_name": "Academy of Pharmacy"
   },
-  "full_name": "Introduction To Pharmacoeconomics",
+  "full_name": "Introduction to Pharmacoeconomics",
   "module_code": "APH222",
   "offerings": [
     {
-      "heading": "Introduction To Pharmacoeconomics",
+      "heading": "Introduction to Pharmacoeconomics",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "APH",
-        "full_name": "Introduction To Pharmacoeconomics",
+        "full_name": "Introduction to Pharmacoeconomics",
         "module_code": "APH222",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 2",
-        "Module Title": "Introduction To Pharmacoeconomics",
+        "Module Title": "Introduction to Pharmacoeconomics",
         "Semester": "SEM2"
       },
       "sections": {

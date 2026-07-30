@@ -4,15 +4,15 @@
     "domain_code": "MTH",
     "full_name": "Mathematical Sciences"
   },
-  "full_name": "Calculus Of Variations And Optimal Control",
+  "full_name": "Calculus of Variations and Optimal Control",
   "module_code": "MTH444",
   "offerings": [
     {
-      "heading": "Calculus Of Variations And Optimal Control",
+      "heading": "Calculus of Variations and Optimal Control",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "MTH",
-        "full_name": "Calculus Of Variations And Optimal Control",
+        "full_name": "Calculus of Variations and Optimal Control",
         "module_code": "MTH444",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Calculus Of Variations And Optimal Control",
+        "Module Title": "Calculus of Variations and Optimal Control",
         "Semester": "SEM2"
       },
       "sections": {

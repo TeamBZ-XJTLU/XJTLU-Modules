@@ -4,15 +4,15 @@
     "domain_code": "MTH",
     "full_name": "Mathematical Sciences"
   },
-  "full_name": "Optimization Algorithms For Data Science",
+  "full_name": "Optimization Algorithms for Data Science",
   "module_code": "MTH415",
   "offerings": [
     {
-      "heading": "Optimization Algorithms For Data Science",
+      "heading": "Optimization Algorithms for Data Science",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "MTH",
-        "full_name": "Optimization Algorithms For Data Science",
+        "full_name": "Optimization Algorithms for Data Science",
         "module_code": "MTH415",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Optimization Algorithms For Data Science",
+        "Module Title": "Optimization Algorithms for Data Science",
         "Semester": "SEM2"
       },
       "sections": {

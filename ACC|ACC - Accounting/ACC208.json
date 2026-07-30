@@ -4,15 +4,15 @@
     "domain_code": "ACC",
     "full_name": "Accounting"
   },
-  "full_name": "Financial Management For Accounting",
+  "full_name": "Financial Management for Accounting",
   "module_code": "ACC208",
   "offerings": [
     {
-      "heading": "Financial Management For Accounting",
+      "heading": "Financial Management for Accounting",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "ACC",
-        "full_name": "Financial Management For Accounting",
+        "full_name": "Financial Management for Accounting",
         "module_code": "ACC208",
         "semester": "SEM2"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 2",
-        "Module Title": "Financial Management For Accounting",
+        "Module Title": "Financial Management for Accounting",
         "Semester": "SEM2"
       },
       "sections": {

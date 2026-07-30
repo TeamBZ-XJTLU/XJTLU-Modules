@@ -4,15 +4,15 @@
     "domain_code": "CHE",
     "full_name": "Chemistry"
   },
-  "full_name": "Electronic Structure Theory With Associated Numerical Methods And Computing",
+  "full_name": "Electronic Structure Theory With Associated Numerical Methods and Computing",
   "module_code": "CHE404",
   "offerings": [
     {
-      "heading": "Electronic Structure Theory With Associated Numerical Methods And Computing",
+      "heading": "Electronic Structure Theory With Associated Numerical Methods and Computing",
       "listing": {
         "academic_year": "2027/28",
         "domain_code": "CHE",
-        "full_name": "Electronic Structure Theory With Associated Numerical Methods And Computing",
+        "full_name": "Electronic Structure Theory With Associated Numerical Methods and Computing",
         "module_code": "CHE404",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2027/28",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Electronic Structure Theory With Associated Numerical Methods And Computing",
+        "Module Title": "Electronic Structure Theory With Associated Numerical Methods and Computing",
         "Semester": "SEM1"
       },
       "sections": {

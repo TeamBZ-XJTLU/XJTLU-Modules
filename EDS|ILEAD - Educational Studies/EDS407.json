@@ -4,15 +4,15 @@
     "domain_code": "EDS",
     "full_name": "Educational Studies"
   },
-  "full_name": "Culture And Learning",
+  "full_name": "Culture and Learning",
   "module_code": "EDS407",
   "offerings": [
     {
-      "heading": "Culture And Learning",
+      "heading": "Culture and Learning",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "EDS",
-        "full_name": "Culture And Learning",
+        "full_name": "Culture and Learning",
         "module_code": "EDS407",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Culture And Learning",
+        "Module Title": "Culture and Learning",
         "Semester": "SEM1"
       },
       "sections": {

@@ -4,15 +4,15 @@
     "domain_code": "EEE",
     "full_name": "Electrical and Electronic Engineering"
   },
-  "full_name": "Electrical Machines And Power Systems",
+  "full_name": "Electrical Machines and Power Systems",
   "module_code": "EEE335",
   "offerings": [
     {
-      "heading": "Electrical Machines And Power Systems",
+      "heading": "Electrical Machines and Power Systems",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "EEE",
-        "full_name": "Electrical Machines And Power Systems",
+        "full_name": "Electrical Machines and Power Systems",
         "module_code": "EEE335",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 3",
-        "Module Title": "Electrical Machines And Power Systems",
+        "Module Title": "Electrical Machines and Power Systems",
         "Semester": "SEM1"
       },
       "sections": {

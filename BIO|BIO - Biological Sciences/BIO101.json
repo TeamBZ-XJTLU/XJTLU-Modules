@@ -4,15 +4,15 @@
     "domain_code": "BIO",
     "full_name": "Biological Sciences"
   },
-  "full_name": "Biodiversity Of Animals, Plants And Microbes",
+  "full_name": "Biodiversity of Animals, Plants and Microbes",
   "module_code": "BIO101",
   "offerings": [
     {
-      "heading": "Biodiversity Of Animals, Plants And Microbes",
+      "heading": "Biodiversity of Animals, Plants and Microbes",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "BIO",
-        "full_name": "Biodiversity Of Animals, Plants And Microbes",
+        "full_name": "Biodiversity of Animals, Plants and Microbes",
         "module_code": "BIO101",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 1",
-        "Module Title": "Biodiversity Of Animals, Plants And Microbes",
+        "Module Title": "Biodiversity of Animals, Plants and Microbes",
         "Semester": "SEM1"
       },
       "sections": {

@@ -4,15 +4,15 @@
     "domain_code": "APH",
     "full_name": "Academy of Pharmacy"
   },
-  "full_name": "Introduction To Chemistry Manufacturing and Controls",
+  "full_name": "Introduction to Chemistry Manufacturing and Controls",
   "module_code": "APH316",
   "offerings": [
     {
-      "heading": "Introduction To Chemistry Manufacturing and Controls",
+      "heading": "Introduction to Chemistry Manufacturing and Controls",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "APH",
-        "full_name": "Introduction To Chemistry Manufacturing and Controls",
+        "full_name": "Introduction to Chemistry Manufacturing and Controls",
         "module_code": "APH316",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 3",
-        "Module Title": "Introduction To Chemistry Manufacturing and Controls",
+        "Module Title": "Introduction to Chemistry Manufacturing and Controls",
         "Semester": "SEM1"
       },
       "sections": {

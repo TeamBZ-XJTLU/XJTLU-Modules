@@ -4,15 +4,15 @@
     "domain_code": "MTH",
     "full_name": "Mathematical Sciences"
   },
-  "full_name": "Measures And Integrals",
+  "full_name": "Measures and Integrals",
   "module_code": "MTH420",
   "offerings": [
     {
-      "heading": "Measures And Integrals",
+      "heading": "Measures and Integrals",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "MTH",
-        "full_name": "Measures And Integrals",
+        "full_name": "Measures and Integrals",
         "module_code": "MTH420",
         "semester": "SEM1"
       },
@@ -20,7 +20,7 @@
         "Academic Year": "2026/27",
         "Module Credits": "5",
         "Module Level": "Level 4",
-        "Module Title": "Measures And Integrals",
+        "Module Title": "Measures and Integrals",
         "Semester": "SEM1"
       },
       "sections": {
