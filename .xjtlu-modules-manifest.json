@@ -735,8 +735,6 @@
     "EDS|EDS - Educational Studies/EDS433.json",
     "EDS|EDS - Educational Studies/EDS434.json",
     "EDS|EDS - Educational Studies/EDS435.json",
-    "EDS|EDS - Educational Studies/EDS436.json",
-    "EDS|EDS - Educational Studies/EDS437.json",
     "EDS|EDS - Educational Studies/EDS438.json",
     "EDS|EDS - Educational Studies/EDS439.json",
     "EDS|EDS - Educational Studies/EDS440.json",
@@ -792,8 +790,6 @@
     "EDS|ILEAD - Educational Studies/EDS433.json",
     "EDS|ILEAD - Educational Studies/EDS434.json",
     "EDS|ILEAD - Educational Studies/EDS435.json",
-    "EDS|ILEAD - Educational Studies/EDS436.json",
-    "EDS|ILEAD - Educational Studies/EDS437.json",
     "EDS|ILEAD - Educational Studies/EDS438.json",
     "EDS|ILEAD - Educational Studies/EDS439.json",
     "EDS|ILEAD - Educational Studies/EDS440.json",
@@ -2664,7 +2660,7 @@
     "UPD|UPD - Urban Planning and Design/UPD410.json",
     "XPU|LIFE - XIPU AI general education"
   ],
-  "module_file_count": 2588,
+  "module_file_count": 2584,
   "modules": [
     {
       "full_name": "Exploring the Applications of AI and Large Language Models",
@@ -6927,18 +6923,6 @@
       "path": "EDS|EDS - Educational Studies/EDS435.json"
     },
     {
-      "full_name": "Syntegrative Learning",
-      "module_code": "EDS436",
-      "module_level": "Level 4",
-      "path": "EDS|EDS - Educational Studies/EDS436.json"
-    },
-    {
-      "full_name": "Research Project",
-      "module_code": "EDS437",
-      "module_level": "Level 4",
-      "path": "EDS|EDS - Educational Studies/EDS437.json"
-    },
-    {
       "full_name": "Curriculum Design in International Context",
       "module_code": "EDS438",
       "module_level": "Level 4",
@@ -7261,18 +7245,6 @@
       "module_code": "EDS435",
       "module_level": "Level 4",
       "path": "EDS|ILEAD - Educational Studies/EDS435.json"
-    },
-    {
-      "full_name": "Syntegrative Learning",
-      "module_code": "EDS436",
-      "module_level": "Level 4",
-      "path": "EDS|ILEAD - Educational Studies/EDS436.json"
-    },
-    {
-      "full_name": "Research Project",
-      "module_code": "EDS437",
-      "module_level": "Level 4",
-      "path": "EDS|ILEAD - Educational Studies/EDS437.json"
     },
     {
       "full_name": "Curriculum Design in International Context",
