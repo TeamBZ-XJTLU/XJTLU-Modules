@@ -14,29 +14,6 @@
         "domain_code": "DTSTC",
         "full_name": "Big Data Mining, Analysis, and Management",
         "module_code": "DTS408TC",
-        "semester": "SEM1"
-      },
-      "overview": {
-        "Academic Year": "2026/27",
-        "Module Credits": "5",
-        "Module Level": "Level 4",
-        "Module Title": "Big Data Mining, Analysis, and Management",
-        "Semester": "SEM1"
-      },
-      "sections": {
-        "Aims and Fit of Module": "This module aims to address the challenges and opportunities of data mining and big data analytics in engineering and intelligent manufacturing environment. It will introduce fundamental concepts and algorithms of big data analytics and data mining. Students will also learn about various technology, tools and platforms used in developing and deploying big data solutions to practical engineering and manufacturing problems. The module will cover various techniques, methods and algorithms for effectively dealing with structured and unstructured data at a scale without compromising performance, reliability, security and privacy using appropriate tools and technologies. Topics may cover how to identify, collect and process useful data from manufacturing and engineering environment and then, how to process them further using advanced analytics and machine learning techniques to aid data-driven decision making and application development. Heterogeneous datasets such as, data collected from the industrial environment (e.g., IoT devices and sensors) as well as other publicly available numerical, textual, audiovisual and social media dataset and databases will be used as example throughout this module.",
-        "Learning outcomes": "A Demonstrate familiarity of general concepts, processes, algorithms and methodologies in data mining, big data analytics and management. B Determine appropriate platform and architecture together with algorithms and techniques to implement data-driven solution to real world problems. C Develop practical skills in using data mining and analytics tools for diverse data analytics tasks including data exploration, machine learning, and visualization D Show awareness of privacy, security, legal and ethical issues related to data management. E Identify challenges and opportunities and recommend appropriate big data solutions for manufacturing and engineering environment.",
-        "Method of teaching and learning": "The teaching philosophy of the module adopts the philosophy of Syntegrative Education, with emphasis on industry engagement, reduced reliance on examinations, and greater focus on coursework and project-based assessments. This module will be delivered through lectures, lab and tutorials. Teaching will be conducted using problem-based learning, with problems and case-studies embedded in the lectures. Lab and Tutorial sessions are to assist students to develop practical skills in using tools and techniques commonly used in data mining and big data analytics so that they can confidently undertake an individual project in big data analytics. General transferable skills are developed through the presentation of written and oral reports."
-      },
-      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DTS408TC&psl_code=SEM1"
-    },
-    {
-      "heading": "Big Data Mining, Analysis, and Management",
-      "listing": {
-        "academic_year": "2026/27",
-        "domain_code": "DTSTC",
-        "full_name": "Big Data Mining, Analysis, and Management",
-        "module_code": "DTS408TC",
         "semester": "SEM2"
       },
       "overview": {

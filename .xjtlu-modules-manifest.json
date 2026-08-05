@@ -148,16 +148,12 @@
     "ARC|ARC - Architecture/ARC003.json",
     "ARC|ARC - Architecture/ARC004.json",
     "ARC|ARC - Architecture/ARC101.json",
-    "ARC|ARC - Architecture/ARC102.json",
     "ARC|ARC - Architecture/ARC103.json",
     "ARC|ARC - Architecture/ARC104.json",
     "ARC|ARC - Architecture/ARC107.json",
     "ARC|ARC - Architecture/ARC201.json",
     "ARC|ARC - Architecture/ARC202.json",
     "ARC|ARC - Architecture/ARC203.json",
-    "ARC|ARC - Architecture/ARC204.json",
-    "ARC|ARC - Architecture/ARC205.json",
-    "ARC|ARC - Architecture/ARC207.json",
     "ARC|ARC - Architecture/ARC209.json",
     "ARC|ARC - Architecture/ARC301.json",
     "ARC|ARC - Architecture/ARC303.json",
@@ -342,27 +338,20 @@
     "CEN|CEN - Civil Engineering/CEN002.json",
     "CEN|CEN - Civil Engineering/CEN102.json",
     "CEN|CEN - Civil Engineering/CEN103.json",
-    "CEN|CEN - Civil Engineering/CEN105.json",
     "CEN|CEN - Civil Engineering/CEN106.json",
     "CEN|CEN - Civil Engineering/CEN107.json",
     "CEN|CEN - Civil Engineering/CEN108.json",
     "CEN|CEN - Civil Engineering/CEN110.json",
     "CEN|CEN - Civil Engineering/CEN112.json",
-    "CEN|CEN - Civil Engineering/CEN201.json",
-    "CEN|CEN - Civil Engineering/CEN202.json",
     "CEN|CEN - Civil Engineering/CEN203.json",
     "CEN|CEN - Civil Engineering/CEN204.json",
     "CEN|CEN - Civil Engineering/CEN205.json",
-    "CEN|CEN - Civil Engineering/CEN206.json",
     "CEN|CEN - Civil Engineering/CEN207.json",
-    "CEN|CEN - Civil Engineering/CEN208.json",
     "CEN|CEN - Civil Engineering/CEN210.json",
     "CEN|CEN - Civil Engineering/CEN212.json",
-    "CEN|CEN - Civil Engineering/CEN214.json",
     "CEN|CEN - Civil Engineering/CEN215.json",
     "CEN|CEN - Civil Engineering/CEN216.json",
     "CEN|CEN - Civil Engineering/CEN217.json",
-    "CEN|CEN - Civil Engineering/CEN221.json",
     "CEN|CEN - Civil Engineering/CEN222.json",
     "CEN|CEN - Civil Engineering/CEN304.json",
     "CEN|CEN - Civil Engineering/CEN306.json",
@@ -562,7 +551,6 @@
     "DES|DES - Design/DES006.json",
     "DES|DES - Design/DES007.json",
     "DES|DES - Design/DES008.json",
-    "DES|DES - Design/DES101.json",
     "DES|DES - Design/DES102.json",
     "DES|DES - Design/DES103.json",
     "DES|DES - Design/DES105.json",
@@ -580,7 +568,6 @@
     "DES|DES - Design/DES408.json",
     "DES|DES - Design/DES409.json",
     "DTSTC|AAC - Data Science",
-    "DTSTC|AAC - Data Science/DTS001.json",
     "DTSTC|AAC - Data Science/DTS002TC.json",
     "DTSTC|AAC - Data Science/DTS004TC.json",
     "DTSTC|AAC - Data Science/DTS102TC.json",
@@ -1184,9 +1171,7 @@
     "IFBTC|IFS - Intelligent Finance and Business/IFB433TC.json",
     "IND|IND - Industrial Design",
     "IND|IND - Industrial Design/IND101.json",
-    "IND|IND - Industrial Design/IND106.json",
     "IND|IND - Industrial Design/IND108.json",
-    "IND|IND - Industrial Design/IND109.json",
     "IND|IND - Industrial Design/IND112.json",
     "IND|IND - Industrial Design/IND206.json",
     "IND|IND - Industrial Design/IND209.json",
@@ -1195,7 +1180,6 @@
     "IND|IND - Industrial Design/IND212.json",
     "IND|IND - Industrial Design/IND213.json",
     "IND|IND - Industrial Design/IND215.json",
-    "IND|IND - Industrial Design/IND217.json",
     "IND|IND - Industrial Design/IND302.json",
     "IND|IND - Industrial Design/IND308.json",
     "IND|IND - Industrial Design/IND314.json",
@@ -1817,7 +1801,6 @@
     "MTH|APM - Mathematical Sciences/MTH017.json",
     "MTH|APM - Mathematical Sciences/MTH019.json",
     "MTH|APM - Mathematical Sciences/MTH020.json",
-    "MTH|APM - Mathematical Sciences/MTH022.json",
     "MTH|APM - Mathematical Sciences/MTH023.json",
     "MTH|APM - Mathematical Sciences/MTH024.json",
     "MTH|APM - Mathematical Sciences/MTH025.json",
@@ -1917,7 +1900,6 @@
     "MTH|APM - Mathematical Sciences/MTH436.json",
     "MTH|APM - Mathematical Sciences/MTH438.json",
     "MTH|APM - Mathematical Sciences/MTH439.json",
-    "MTH|APM - Mathematical Sciences/MTH442.json",
     "MTH|APM - Mathematical Sciences/MTH443.json",
     "MTH|APM - Mathematical Sciences/MTH444.json",
     "MTH|APM - Mathematical Sciences/MTH445.json",
@@ -1935,7 +1917,6 @@
     "MTH|FAM - Mathematical Sciences/MTH017.json",
     "MTH|FAM - Mathematical Sciences/MTH019.json",
     "MTH|FAM - Mathematical Sciences/MTH020.json",
-    "MTH|FAM - Mathematical Sciences/MTH022.json",
     "MTH|FAM - Mathematical Sciences/MTH023.json",
     "MTH|FAM - Mathematical Sciences/MTH024.json",
     "MTH|FAM - Mathematical Sciences/MTH025.json",
@@ -2035,7 +2016,6 @@
     "MTH|FAM - Mathematical Sciences/MTH436.json",
     "MTH|FAM - Mathematical Sciences/MTH438.json",
     "MTH|FAM - Mathematical Sciences/MTH439.json",
-    "MTH|FAM - Mathematical Sciences/MTH442.json",
     "MTH|FAM - Mathematical Sciences/MTH443.json",
     "MTH|FAM - Mathematical Sciences/MTH444.json",
     "MTH|FAM - Mathematical Sciences/MTH445.json",
@@ -2053,7 +2033,6 @@
     "MTH|MAT - Mathematical Sciences/MTH017.json",
     "MTH|MAT - Mathematical Sciences/MTH019.json",
     "MTH|MAT - Mathematical Sciences/MTH020.json",
-    "MTH|MAT - Mathematical Sciences/MTH022.json",
     "MTH|MAT - Mathematical Sciences/MTH023.json",
     "MTH|MAT - Mathematical Sciences/MTH024.json",
     "MTH|MAT - Mathematical Sciences/MTH025.json",
@@ -2153,7 +2132,6 @@
     "MTH|MAT - Mathematical Sciences/MTH436.json",
     "MTH|MAT - Mathematical Sciences/MTH438.json",
     "MTH|MAT - Mathematical Sciences/MTH439.json",
-    "MTH|MAT - Mathematical Sciences/MTH442.json",
     "MTH|MAT - Mathematical Sciences/MTH443.json",
     "MTH|MAT - Mathematical Sciences/MTH444.json",
     "MTH|MAT - Mathematical Sciences/MTH445.json",
@@ -2171,7 +2149,6 @@
     "MTH|MTH - Mathematical Sciences/MTH017.json",
     "MTH|MTH - Mathematical Sciences/MTH019.json",
     "MTH|MTH - Mathematical Sciences/MTH020.json",
-    "MTH|MTH - Mathematical Sciences/MTH022.json",
     "MTH|MTH - Mathematical Sciences/MTH023.json",
     "MTH|MTH - Mathematical Sciences/MTH024.json",
     "MTH|MTH - Mathematical Sciences/MTH025.json",
@@ -2271,7 +2248,6 @@
     "MTH|MTH - Mathematical Sciences/MTH436.json",
     "MTH|MTH - Mathematical Sciences/MTH438.json",
     "MTH|MTH - Mathematical Sciences/MTH439.json",
-    "MTH|MTH - Mathematical Sciences/MTH442.json",
     "MTH|MTH - Mathematical Sciences/MTH443.json",
     "MTH|MTH - Mathematical Sciences/MTH444.json",
     "MTH|MTH - Mathematical Sciences/MTH445.json",
@@ -2289,7 +2265,6 @@
     "MTH|SMP - Mathematical Sciences/MTH017.json",
     "MTH|SMP - Mathematical Sciences/MTH019.json",
     "MTH|SMP - Mathematical Sciences/MTH020.json",
-    "MTH|SMP - Mathematical Sciences/MTH022.json",
     "MTH|SMP - Mathematical Sciences/MTH023.json",
     "MTH|SMP - Mathematical Sciences/MTH024.json",
     "MTH|SMP - Mathematical Sciences/MTH025.json",
@@ -2389,7 +2364,6 @@
     "MTH|SMP - Mathematical Sciences/MTH436.json",
     "MTH|SMP - Mathematical Sciences/MTH438.json",
     "MTH|SMP - Mathematical Sciences/MTH439.json",
-    "MTH|SMP - Mathematical Sciences/MTH442.json",
     "MTH|SMP - Mathematical Sciences/MTH443.json",
     "MTH|SMP - Mathematical Sciences/MTH444.json",
     "MTH|SMP - Mathematical Sciences/MTH445.json",
@@ -2427,7 +2401,6 @@
     "PHY|PHY - Physics",
     "PHY|PHY - Physics/PHY001.json",
     "PHY|PHY - Physics/PHY002.json",
-    "PHY|PHY - Physics/PHY003.json",
     "PHY|PHY - Physics/PHY005.json",
     "PHY|PHY - Physics/PHY006.json",
     "PHY|PHY - Physics/PHY007.json",
@@ -2630,17 +2603,14 @@
     "UPD|UPD - Urban Planning and Design",
     "UPD|UPD - Urban Planning and Design/UPD004.json",
     "UPD|UPD - Urban Planning and Design/UPD005.json",
-    "UPD|UPD - Urban Planning and Design/UPD101.json",
     "UPD|UPD - Urban Planning and Design/UPD102.json",
     "UPD|UPD - Urban Planning and Design/UPD103.json",
     "UPD|UPD - Urban Planning and Design/UPD105.json",
     "UPD|UPD - Urban Planning and Design/UPD106.json",
     "UPD|UPD - Urban Planning and Design/UPD109.json",
-    "UPD|UPD - Urban Planning and Design/UPD110.json",
     "UPD|UPD - Urban Planning and Design/UPD202.json",
     "UPD|UPD - Urban Planning and Design/UPD203.json",
     "UPD|UPD - Urban Planning and Design/UPD204.json",
-    "UPD|UPD - Urban Planning and Design/UPD206.json",
     "UPD|UPD - Urban Planning and Design/UPD209.json",
     "UPD|UPD - Urban Planning and Design/UPD211.json",
     "UPD|UPD - Urban Planning and Design/UPD301.json",
@@ -2650,8 +2620,6 @@
     "UPD|UPD - Urban Planning and Design/UPD312.json",
     "UPD|UPD - Urban Planning and Design/UPD313.json",
     "UPD|UPD - Urban Planning and Design/UPD314.json",
-    "UPD|UPD - Urban Planning and Design/UPD315.json",
-    "UPD|UPD - Urban Planning and Design/UPD317.json",
     "UPD|UPD - Urban Planning and Design/UPD402.json",
     "UPD|UPD - Urban Planning and Design/UPD404.json",
     "UPD|UPD - Urban Planning and Design/UPD406.json",
@@ -2660,7 +2628,7 @@
     "UPD|UPD - Urban Planning and Design/UPD410.json",
     "XPU|LIFE - XIPU AI general education"
   ],
-  "module_file_count": 2584,
+  "module_file_count": 2552,
   "modules": [
     {
       "full_name": "Exploring the Applications of AI and Large Language Models",
@@ -3503,12 +3471,6 @@
       "path": "ARC|ARC - Architecture/ARC101.json"
     },
     {
-      "full_name": "Small Scale Architectural Design",
-      "module_code": "ARC102",
-      "module_level": "Level 1",
-      "path": "ARC|ARC - Architecture/ARC102.json"
-    },
-    {
       "full_name": "Introduction to Environmental Science",
       "module_code": "ARC103",
       "module_level": "Level 1",
@@ -3543,24 +3505,6 @@
       "module_code": "ARC203",
       "module_level": "Level 2",
       "path": "ARC|ARC - Architecture/ARC203.json"
-    },
-    {
-      "full_name": "Small Urban Buildings",
-      "module_code": "ARC204",
-      "module_level": "Level 2",
-      "path": "ARC|ARC - Architecture/ARC204.json"
-    },
-    {
-      "full_name": "Design and Building Typology",
-      "module_code": "ARC205",
-      "module_level": "Level 2",
-      "path": "ARC|ARC - Architecture/ARC205.json"
-    },
-    {
-      "full_name": "Building Typology in Integrated Architectural Design",
-      "module_code": "ARC207",
-      "module_level": "Level 2",
-      "path": "ARC|ARC - Architecture/ARC207.json"
     },
     {
       "full_name": "Generative Design Studio",
@@ -4619,12 +4563,6 @@
       "path": "CEN|CEN - Civil Engineering/CEN103.json"
     },
     {
-      "full_name": "Introduction to Environmental Science",
-      "module_code": "CEN105",
-      "module_level": "Level 1",
-      "path": "CEN|CEN - Civil Engineering/CEN105.json"
-    },
-    {
       "full_name": "Introduction to Materials",
       "module_code": "CEN106",
       "module_level": "Level 1",
@@ -4655,18 +4593,6 @@
       "path": "CEN|CEN - Civil Engineering/CEN112.json"
     },
     {
-      "full_name": "Construction Methods",
-      "module_code": "CEN201",
-      "module_level": "Level 2",
-      "path": "CEN|CEN - Civil Engineering/CEN201.json"
-    },
-    {
-      "full_name": "Civil Engineering Project Management",
-      "module_code": "CEN202",
-      "module_level": "Level 2",
-      "path": "CEN|CEN - Civil Engineering/CEN202.json"
-    },
-    {
       "full_name": "Mechanics of Materials",
       "module_code": "CEN203",
       "module_level": "Level 2",
@@ -4685,22 +4611,10 @@
       "path": "CEN|CEN - Civil Engineering/CEN205.json"
     },
     {
-      "full_name": "Structural Behaviour",
-      "module_code": "CEN206",
-      "module_level": "Level 2",
-      "path": "CEN|CEN - Civil Engineering/CEN206.json"
-    },
-    {
       "full_name": "Construction Materials",
       "module_code": "CEN207",
       "module_level": "Level 2",
       "path": "CEN|CEN - Civil Engineering/CEN207.json"
-    },
-    {
-      "full_name": "Capstone Design 1",
-      "module_code": "CEN208",
-      "module_level": "Level 2",
-      "path": "CEN|CEN - Civil Engineering/CEN208.json"
     },
     {
       "full_name": "Environmental Engineering: Water Resources and Wastewater",
@@ -4713,12 +4627,6 @@
       "module_code": "CEN212",
       "module_level": "Level 2",
       "path": "CEN|CEN - Civil Engineering/CEN212.json"
-    },
-    {
-      "full_name": "Fracture Mechanics",
-      "module_code": "CEN214",
-      "module_level": "Level 2",
-      "path": "CEN|CEN - Civil Engineering/CEN214.json"
     },
     {
       "full_name": "Numerical Methods",
@@ -4737,12 +4645,6 @@
       "module_code": "CEN217",
       "module_level": "Level 2",
       "path": "CEN|CEN - Civil Engineering/CEN217.json"
-    },
-    {
-      "full_name": "Architectural Engineering Project",
-      "module_code": "CEN221",
-      "module_level": "Level 2",
-      "path": "CEN|CEN - Civil Engineering/CEN221.json"
     },
     {
       "full_name": "Building Services Engineering",
@@ -5909,12 +5811,6 @@
       "path": "DES|DES - Design/DES008.json"
     },
     {
-      "full_name": "Regenerative Design",
-      "module_code": "DES101",
-      "module_level": "Level 1",
-      "path": "DES|DES - Design/DES101.json"
-    },
-    {
       "full_name": "Contextual Design Studio",
       "module_code": "DES102",
       "module_level": "Level 1",
@@ -6009,12 +5905,6 @@
       "module_code": "DES409",
       "module_level": "Level 4",
       "path": "DES|DES - Design/DES409.json"
-    },
-    {
-      "full_name": "Data Analytics for Entrepreneurship",
-      "module_code": "DTS001",
-      "module_level": "Level 0",
-      "path": "DTSTC|AAC - Data Science/DTS001.json"
     },
     {
       "full_name": "Introduction to Python",
@@ -9545,22 +9435,10 @@
       "path": "IND|IND - Industrial Design/IND101.json"
     },
     {
-      "full_name": "Fluid Mechanics and Thermodynamics",
-      "module_code": "IND106",
-      "module_level": "Level 1",
-      "path": "IND|IND - Industrial Design/IND106.json"
-    },
-    {
       "full_name": "Materials for Design",
       "module_code": "IND108",
       "module_level": "Level 1",
       "path": "IND|IND - Industrial Design/IND108.json"
-    },
-    {
-      "full_name": "Statics and Solids",
-      "module_code": "IND109",
-      "module_level": "Level 1",
-      "path": "IND|IND - Industrial Design/IND109.json"
     },
     {
       "full_name": "Computer Aided Design and Modeling (3-D)",
@@ -9609,12 +9487,6 @@
       "module_code": "IND215",
       "module_level": "Level 2",
       "path": "IND|IND - Industrial Design/IND215.json"
-    },
-    {
-      "full_name": "Studio 3: Design for Market",
-      "module_code": "IND217",
-      "module_level": "Level 2",
-      "path": "IND|IND - Industrial Design/IND217.json"
     },
     {
       "full_name": "Design for Sustainability",
@@ -13217,12 +13089,6 @@
       "path": "MTH|APM - Mathematical Sciences/MTH020.json"
     },
     {
-      "full_name": "Mathematical and Statistical Models",
-      "module_code": "MTH022",
-      "module_level": "Level 0",
-      "path": "MTH|APM - Mathematical Sciences/MTH022.json"
-    },
-    {
       "full_name": "Introductory Calculus II",
       "module_code": "MTH023",
       "module_level": "Level 0",
@@ -13817,12 +13683,6 @@
       "path": "MTH|APM - Mathematical Sciences/MTH439.json"
     },
     {
-      "full_name": "Quantitative Risk Management",
-      "module_code": "MTH442",
-      "module_level": "Level 4",
-      "path": "MTH|APM - Mathematical Sciences/MTH442.json"
-    },
-    {
       "full_name": "Advanced Topics in Operational Research",
       "module_code": "MTH443",
       "module_level": "Level 4",
@@ -13917,12 +13777,6 @@
       "module_code": "MTH020",
       "module_level": "Level 0",
       "path": "MTH|FAM - Mathematical Sciences/MTH020.json"
-    },
-    {
-      "full_name": "Mathematical and Statistical Models",
-      "module_code": "MTH022",
-      "module_level": "Level 0",
-      "path": "MTH|FAM - Mathematical Sciences/MTH022.json"
     },
     {
       "full_name": "Introductory Calculus II",
@@ -14519,12 +14373,6 @@
       "path": "MTH|FAM - Mathematical Sciences/MTH439.json"
     },
     {
-      "full_name": "Quantitative Risk Management",
-      "module_code": "MTH442",
-      "module_level": "Level 4",
-      "path": "MTH|FAM - Mathematical Sciences/MTH442.json"
-    },
-    {
       "full_name": "Advanced Topics in Operational Research",
       "module_code": "MTH443",
       "module_level": "Level 4",
@@ -14619,12 +14467,6 @@
       "module_code": "MTH020",
       "module_level": "Level 0",
       "path": "MTH|MAT - Mathematical Sciences/MTH020.json"
-    },
-    {
-      "full_name": "Mathematical and Statistical Models",
-      "module_code": "MTH022",
-      "module_level": "Level 0",
-      "path": "MTH|MAT - Mathematical Sciences/MTH022.json"
     },
     {
       "full_name": "Introductory Calculus II",
@@ -15221,12 +15063,6 @@
       "path": "MTH|MAT - Mathematical Sciences/MTH439.json"
     },
     {
-      "full_name": "Quantitative Risk Management",
-      "module_code": "MTH442",
-      "module_level": "Level 4",
-      "path": "MTH|MAT - Mathematical Sciences/MTH442.json"
-    },
-    {
       "full_name": "Advanced Topics in Operational Research",
       "module_code": "MTH443",
       "module_level": "Level 4",
@@ -15321,12 +15157,6 @@
       "module_code": "MTH020",
       "module_level": "Level 0",
       "path": "MTH|MTH - Mathematical Sciences/MTH020.json"
-    },
-    {
-      "full_name": "Mathematical and Statistical Models",
-      "module_code": "MTH022",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH022.json"
     },
     {
       "full_name": "Introductory Calculus II",
@@ -15923,12 +15753,6 @@
       "path": "MTH|MTH - Mathematical Sciences/MTH439.json"
     },
     {
-      "full_name": "Quantitative Risk Management",
-      "module_code": "MTH442",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH442.json"
-    },
-    {
       "full_name": "Advanced Topics in Operational Research",
       "module_code": "MTH443",
       "module_level": "Level 4",
@@ -16023,12 +15847,6 @@
       "module_code": "MTH020",
       "module_level": "Level 0",
       "path": "MTH|SMP - Mathematical Sciences/MTH020.json"
-    },
-    {
-      "full_name": "Mathematical and Statistical Models",
-      "module_code": "MTH022",
-      "module_level": "Level 0",
-      "path": "MTH|SMP - Mathematical Sciences/MTH022.json"
     },
     {
       "full_name": "Introductory Calculus II",
@@ -16625,12 +16443,6 @@
       "path": "MTH|SMP - Mathematical Sciences/MTH439.json"
     },
     {
-      "full_name": "Quantitative Risk Management",
-      "module_code": "MTH442",
-      "module_level": "Level 4",
-      "path": "MTH|SMP - Mathematical Sciences/MTH442.json"
-    },
-    {
       "full_name": "Advanced Topics in Operational Research",
       "module_code": "MTH443",
       "module_level": "Level 4",
@@ -16827,12 +16639,6 @@
       "module_code": "PHY002",
       "module_level": "Level 0",
       "path": "PHY|PHY - Physics/PHY002.json"
-    },
-    {
-      "full_name": "Introductory Electromagnetism and Quantum Physics",
-      "module_code": "PHY003",
-      "module_level": "Level 0",
-      "path": "PHY|PHY - Physics/PHY003.json"
     },
     {
       "full_name": "Physics I: Mechanics",
@@ -17273,7 +17079,7 @@
       "path": "SAT|SAT - Advanced Technology/SAT005.json"
     },
     {
-      "full_name": "Foundations of Computer Science and Engineering",
+      "full_name": "Engineering in Society: Systems, Sustainability, and Professional Context",
       "module_code": "SAT006",
       "module_level": "Level 0",
       "path": "SAT|SAT - Advanced Technology/SAT006.json"
@@ -17999,12 +17805,6 @@
       "path": "UPD|UPD - Urban Planning and Design/UPD005.json"
     },
     {
-      "full_name": "Issues and practice of planning in China I",
-      "module_code": "UPD101",
-      "module_level": "Level 1",
-      "path": "UPD|UPD - Urban Planning and Design/UPD101.json"
-    },
-    {
       "full_name": "Contemporary Planning Practice in Western Europe and the North America",
       "module_code": "UPD102",
       "module_level": "Level 1",
@@ -18035,12 +17835,6 @@
       "path": "UPD|UPD - Urban Planning and Design/UPD109.json"
     },
     {
-      "full_name": "Neighborhood Planning",
-      "module_code": "UPD110",
-      "module_level": "Level 1",
-      "path": "UPD|UPD - Urban Planning and Design/UPD110.json"
-    },
-    {
       "full_name": "Rural Planning",
       "module_code": "UPD202",
       "module_level": "Level 2",
@@ -18057,12 +17851,6 @@
       "module_code": "UPD204",
       "module_level": "Level 2",
       "path": "UPD|UPD - Urban Planning and Design/UPD204.json"
-    },
-    {
-      "full_name": "Projecting and managing urban futures",
-      "module_code": "UPD206",
-      "module_level": "Level 2",
-      "path": "UPD|UPD - Urban Planning and Design/UPD206.json"
     },
     {
       "full_name": "Planning and Research Methodology",
@@ -18117,18 +17905,6 @@
       "module_code": "UPD314",
       "module_level": "Level 3",
       "path": "UPD|UPD - Urban Planning and Design/UPD314.json"
-    },
-    {
-      "full_name": "Planning Practice Studio",
-      "module_code": "UPD315",
-      "module_level": "Level 3",
-      "path": "UPD|UPD - Urban Planning and Design/UPD315.json"
-    },
-    {
-      "full_name": "Urban Design Studio",
-      "module_code": "UPD317",
-      "module_level": "Level 3",
-      "path": "UPD|UPD - Urban Planning and Design/UPD317.json"
     },
     {
       "full_name": "Sustainable Urban Planning Strategies",
