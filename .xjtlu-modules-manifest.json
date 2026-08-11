@@ -119,9 +119,7 @@
     "APH|AOPHA - Academy of Pharmacy/APH413.json",
     "APH|AOPHA - Academy of Pharmacy/APH414.json",
     "APH|AOPHA - Academy of Pharmacy/APH415.json",
-    "APH|AOPHA - Academy of Pharmacy/APH416.json",
     "APH|AOPHA - Academy of Pharmacy/APH417.json",
-    "APH|AOPHA - Academy of Pharmacy/APH418.json",
     "APH|AOPHA - Academy of Pharmacy/APH419.json",
     "APH|AOPHA - Academy of Pharmacy/APH420.json",
     "APH|AOPHA - Academy of Pharmacy/APH421.json",
@@ -257,7 +255,6 @@
     "CATTC|AFCT - Cultural Technology",
     "CATTC|AFCT - Cultural Technology/CAT001TC.json",
     "CATTC|AFCT - Cultural Technology/CAT002TC.json",
-    "CATTC|AFCT - Cultural Technology/CAT003.json",
     "CATTC|AFCT - Cultural Technology/CAT101TC.json",
     "CATTC|AFCT - Cultural Technology/CAT102TC.json",
     "CATTC|AFCT - Cultural Technology/CAT104TC.json",
@@ -997,10 +994,7 @@
     "FIN|FIN - Finance/FIN432.json",
     "FIN|FIN - Finance/FIN433.json",
     "FTA|AFCT - Film and TV",
-    "FTA|AFCT - Film and TV/FTA003.json",
     "FTA|AFCT - Film and TV/FTA005.json",
-    "FTA|AFCT - Film and TV/FTA006.json",
-    "FTA|AFCT - Film and TV/FTA007.json",
     "FTA|AFCT - Film and TV/FTA008.json",
     "FTA|AFCT - Film and TV/FTA009.json",
     "FTA|AFCT - Film and TV/FTA102.json",
@@ -1038,10 +1032,8 @@
     "FTA|AFCT - Film and TV/FTA218.json",
     "FTA|AFCT - Film and TV/FTA219.json",
     "FTA|AFCT - Film and TV/FTA220.json",
-    "FTA|AFCT - Film and TV/FTA221.json",
     "FTA|AFCT - Film and TV/FTA222.json",
     "FTA|AFCT - Film and TV/FTA223.json",
-    "FTA|AFCT - Film and TV/FTA224.json",
     "FTA|AFCT - Film and TV/FTA225.json",
     "FTA|AFCT - Film and TV/FTA226.json",
     "FTA|AFCT - Film and TV/FTA227.json",
@@ -1345,7 +1337,6 @@
     "IOM|IOM - Intelligent Operations and Marketing/IOM449.json",
     "IOM|IOM - Intelligent Operations and Marketing/IOM450.json",
     "IOTTC|IOT - Internet of things",
-    "IOTTC|IOT - Internet of things/IOT001.json",
     "IOTTC|IOT - Internet of things/IOT001TC.json",
     "IOTTC|IOT - Internet of things/IOT003TC.json",
     "IOTTC|IOT - Internet of things/IOT005TC.json",
@@ -1388,8 +1379,6 @@
     "JPL|MLC - Japanese Language/JPL011.json",
     "JPL|MLC - Japanese Language/JPL012.json",
     "LAN|ELC - Comprehensive Use of Language",
-    "LAN|ELC - Comprehensive Use of Language/LAN007.json",
-    "LAN|ELC - Comprehensive Use of Language/LAN010.json",
     "LAN|ELC - Comprehensive Use of Language/LAN302.json",
     "LIF|LIFE - Lifelong Learning",
     "LIT|LTS - Literature",
@@ -1604,7 +1593,6 @@
     "LM|PHE -/LMSMO103.json",
     "LNG|LNG - Applied Linguistics",
     "LNG|LNG - Applied Linguistics/LNG001.json",
-    "LNG|LNG - Applied Linguistics/LNG002.json",
     "LNG|LNG - Applied Linguistics/LNG101.json",
     "LNG|LNG - Applied Linguistics/LNG103.json",
     "LNG|LNG - Applied Linguistics/LNG104.json",
@@ -1676,7 +1664,6 @@
     "MEC|MEC - Mechatronics and Robotics/MEC309.json",
     "MESTC|CHP - Microelectronic Science and Engineering",
     "MESTC|CHP - Microelectronic Science and Engineering/MES001TC.json",
-    "MESTC|CHP - Microelectronic Science and Engineering/MES002.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES003TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES102TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES103TC.json",
@@ -1711,7 +1698,6 @@
     "MESTC|CHP - Microelectronic Science and Engineering/MES409TC.json",
     "MESTC|IME - Microelectronic Science and Engineering",
     "MESTC|IME - Microelectronic Science and Engineering/MES001TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES002.json",
     "MESTC|IME - Microelectronic Science and Engineering/MES003TC.json",
     "MESTC|IME - Microelectronic Science and Engineering/MES102TC.json",
     "MESTC|IME - Microelectronic Science and Engineering/MES103TC.json",
@@ -1791,23 +1777,12 @@
     "MFETC|IME - Manufacturing Engineering/MFE422TC.json",
     "MFETC|IME - Manufacturing Engineering/MFE423TC.json",
     "MTH|APM - Mathematical Sciences",
-    "MTH|APM - Mathematical Sciences/MTH002.json",
-    "MTH|APM - Mathematical Sciences/MTH004.json",
-    "MTH|APM - Mathematical Sciences/MTH007.json",
-    "MTH|APM - Mathematical Sciences/MTH008.json",
     "MTH|APM - Mathematical Sciences/MTH012.json",
-    "MTH|APM - Mathematical Sciences/MTH013.json",
     "MTH|APM - Mathematical Sciences/MTH015.json",
-    "MTH|APM - Mathematical Sciences/MTH017.json",
-    "MTH|APM - Mathematical Sciences/MTH019.json",
     "MTH|APM - Mathematical Sciences/MTH020.json",
-    "MTH|APM - Mathematical Sciences/MTH023.json",
     "MTH|APM - Mathematical Sciences/MTH024.json",
-    "MTH|APM - Mathematical Sciences/MTH025.json",
     "MTH|APM - Mathematical Sciences/MTH026.json",
-    "MTH|APM - Mathematical Sciences/MTH027.json",
     "MTH|APM - Mathematical Sciences/MTH028.json",
-    "MTH|APM - Mathematical Sciences/MTH029.json",
     "MTH|APM - Mathematical Sciences/MTH030.json",
     "MTH|APM - Mathematical Sciences/MTH031.json",
     "MTH|APM - Mathematical Sciences/MTH032.json",
@@ -1907,23 +1882,12 @@
     "MTH|APM - Mathematical Sciences/MTH447.json",
     "MTH|APM - Mathematical Sciences/MTH448.json",
     "MTH|FAM - Mathematical Sciences",
-    "MTH|FAM - Mathematical Sciences/MTH002.json",
-    "MTH|FAM - Mathematical Sciences/MTH004.json",
-    "MTH|FAM - Mathematical Sciences/MTH007.json",
-    "MTH|FAM - Mathematical Sciences/MTH008.json",
     "MTH|FAM - Mathematical Sciences/MTH012.json",
-    "MTH|FAM - Mathematical Sciences/MTH013.json",
     "MTH|FAM - Mathematical Sciences/MTH015.json",
-    "MTH|FAM - Mathematical Sciences/MTH017.json",
-    "MTH|FAM - Mathematical Sciences/MTH019.json",
     "MTH|FAM - Mathematical Sciences/MTH020.json",
-    "MTH|FAM - Mathematical Sciences/MTH023.json",
     "MTH|FAM - Mathematical Sciences/MTH024.json",
-    "MTH|FAM - Mathematical Sciences/MTH025.json",
     "MTH|FAM - Mathematical Sciences/MTH026.json",
-    "MTH|FAM - Mathematical Sciences/MTH027.json",
     "MTH|FAM - Mathematical Sciences/MTH028.json",
-    "MTH|FAM - Mathematical Sciences/MTH029.json",
     "MTH|FAM - Mathematical Sciences/MTH030.json",
     "MTH|FAM - Mathematical Sciences/MTH031.json",
     "MTH|FAM - Mathematical Sciences/MTH032.json",
@@ -2023,23 +1987,12 @@
     "MTH|FAM - Mathematical Sciences/MTH447.json",
     "MTH|FAM - Mathematical Sciences/MTH448.json",
     "MTH|MAT - Mathematical Sciences",
-    "MTH|MAT - Mathematical Sciences/MTH002.json",
-    "MTH|MAT - Mathematical Sciences/MTH004.json",
-    "MTH|MAT - Mathematical Sciences/MTH007.json",
-    "MTH|MAT - Mathematical Sciences/MTH008.json",
     "MTH|MAT - Mathematical Sciences/MTH012.json",
-    "MTH|MAT - Mathematical Sciences/MTH013.json",
     "MTH|MAT - Mathematical Sciences/MTH015.json",
-    "MTH|MAT - Mathematical Sciences/MTH017.json",
-    "MTH|MAT - Mathematical Sciences/MTH019.json",
     "MTH|MAT - Mathematical Sciences/MTH020.json",
-    "MTH|MAT - Mathematical Sciences/MTH023.json",
     "MTH|MAT - Mathematical Sciences/MTH024.json",
-    "MTH|MAT - Mathematical Sciences/MTH025.json",
     "MTH|MAT - Mathematical Sciences/MTH026.json",
-    "MTH|MAT - Mathematical Sciences/MTH027.json",
     "MTH|MAT - Mathematical Sciences/MTH028.json",
-    "MTH|MAT - Mathematical Sciences/MTH029.json",
     "MTH|MAT - Mathematical Sciences/MTH030.json",
     "MTH|MAT - Mathematical Sciences/MTH031.json",
     "MTH|MAT - Mathematical Sciences/MTH032.json",
@@ -2139,23 +2092,12 @@
     "MTH|MAT - Mathematical Sciences/MTH447.json",
     "MTH|MAT - Mathematical Sciences/MTH448.json",
     "MTH|MTH - Mathematical Sciences",
-    "MTH|MTH - Mathematical Sciences/MTH002.json",
-    "MTH|MTH - Mathematical Sciences/MTH004.json",
-    "MTH|MTH - Mathematical Sciences/MTH007.json",
-    "MTH|MTH - Mathematical Sciences/MTH008.json",
     "MTH|MTH - Mathematical Sciences/MTH012.json",
-    "MTH|MTH - Mathematical Sciences/MTH013.json",
     "MTH|MTH - Mathematical Sciences/MTH015.json",
-    "MTH|MTH - Mathematical Sciences/MTH017.json",
-    "MTH|MTH - Mathematical Sciences/MTH019.json",
     "MTH|MTH - Mathematical Sciences/MTH020.json",
-    "MTH|MTH - Mathematical Sciences/MTH023.json",
     "MTH|MTH - Mathematical Sciences/MTH024.json",
-    "MTH|MTH - Mathematical Sciences/MTH025.json",
     "MTH|MTH - Mathematical Sciences/MTH026.json",
-    "MTH|MTH - Mathematical Sciences/MTH027.json",
     "MTH|MTH - Mathematical Sciences/MTH028.json",
-    "MTH|MTH - Mathematical Sciences/MTH029.json",
     "MTH|MTH - Mathematical Sciences/MTH030.json",
     "MTH|MTH - Mathematical Sciences/MTH031.json",
     "MTH|MTH - Mathematical Sciences/MTH032.json",
@@ -2255,23 +2197,12 @@
     "MTH|MTH - Mathematical Sciences/MTH447.json",
     "MTH|MTH - Mathematical Sciences/MTH448.json",
     "MTH|SMP - Mathematical Sciences",
-    "MTH|SMP - Mathematical Sciences/MTH002.json",
-    "MTH|SMP - Mathematical Sciences/MTH004.json",
-    "MTH|SMP - Mathematical Sciences/MTH007.json",
-    "MTH|SMP - Mathematical Sciences/MTH008.json",
     "MTH|SMP - Mathematical Sciences/MTH012.json",
-    "MTH|SMP - Mathematical Sciences/MTH013.json",
     "MTH|SMP - Mathematical Sciences/MTH015.json",
-    "MTH|SMP - Mathematical Sciences/MTH017.json",
-    "MTH|SMP - Mathematical Sciences/MTH019.json",
     "MTH|SMP - Mathematical Sciences/MTH020.json",
-    "MTH|SMP - Mathematical Sciences/MTH023.json",
     "MTH|SMP - Mathematical Sciences/MTH024.json",
-    "MTH|SMP - Mathematical Sciences/MTH025.json",
     "MTH|SMP - Mathematical Sciences/MTH026.json",
-    "MTH|SMP - Mathematical Sciences/MTH027.json",
     "MTH|SMP - Mathematical Sciences/MTH028.json",
-    "MTH|SMP - Mathematical Sciences/MTH029.json",
     "MTH|SMP - Mathematical Sciences/MTH030.json",
     "MTH|SMP - Mathematical Sciences/MTH031.json",
     "MTH|SMP - Mathematical Sciences/MTH032.json",
@@ -2372,7 +2303,6 @@
     "MTH|SMP - Mathematical Sciences/MTH448.json",
     "MTS|CHE - Material Science",
     "MTS|CHE - Material Science/MTS001.json",
-    "MTS|CHE - Material Science/MTS101.json",
     "MTS|CHE - Material Science/MTS201.json",
     "MTS|CHE - Material Science/MTS202.json",
     "MTS|CHE - Material Science/MTS203.json",
@@ -2399,10 +2329,7 @@
     "PHE|PHE - Physical Education/PHE001.json",
     "PHE|PHE - Physical Education/PHE002.json",
     "PHY|PHY - Physics",
-    "PHY|PHY - Physics/PHY001.json",
-    "PHY|PHY - Physics/PHY002.json",
     "PHY|PHY - Physics/PHY005.json",
-    "PHY|PHY - Physics/PHY006.json",
     "PHY|PHY - Physics/PHY007.json",
     "PHY|PHY - Physics/PHY008.json",
     "PHY|PHY - Physics/PHY101.json",
@@ -2489,7 +2416,6 @@
     "SAT|SAT - Advanced Technology/SAT410.json",
     "SAT|SAT - Advanced Technology/SAT411.json",
     "SCI|SCI - Science",
-    "SCI|SCI - Science/SCI002.json",
     "SCI|SCI - Science/SCI003.json",
     "SCI|SCI - Science/SCI004.json",
     "SCI|SCI - Science/SCI005.json",
@@ -2567,8 +2493,6 @@
     "SPA|MLC - Spanish/SPA006.json",
     "SPA|MLC - Spanish/SPA007.json",
     "SPA|MLC - Spanish/SPA008.json",
-    "SPA|MLC - Spanish/SPA009.json",
-    "SPA|MLC - Spanish/SPA012.json",
     "SPA|MLC - Spanish/SPA013.json",
     "SPA|MLC - Spanish/SPA014.json",
     "SPA|MLC - Spanish/SPA015.json",
@@ -2628,7 +2552,7 @@
     "UPD|UPD - Urban Planning and Design/UPD410.json",
     "XPU|LIFE - XIPU AI general education"
   ],
-  "module_file_count": 2552,
+  "module_file_count": 2476,
   "modules": [
     {
       "full_name": "Exploring the Applications of AI and Large Language Models",
@@ -3303,22 +3227,10 @@
       "path": "APH|AOPHA - Academy of Pharmacy/APH415.json"
     },
     {
-      "full_name": "Applied Regression Analyses",
-      "module_code": "APH416",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH416.json"
-    },
-    {
       "full_name": "Statistical Computing Using SAS",
       "module_code": "APH417",
       "module_level": "Level 4",
       "path": "APH|AOPHA - Academy of Pharmacy/APH417.json"
-    },
-    {
-      "full_name": "Analysis of Categorical Data",
-      "module_code": "APH418",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH418.json"
     },
     {
       "full_name": "Clinical Trials: Design and Analysis",
@@ -4093,12 +4005,6 @@
       "module_code": "CAT002TC",
       "module_level": "Level 0",
       "path": "CATTC|AFCT - Cultural Technology/CAT002TC.json"
-    },
-    {
-      "full_name": "Exploring Cultural Events",
-      "module_code": "CAT003",
-      "module_level": "Level 0",
-      "path": "CATTC|AFCT - Cultural Technology/CAT003.json"
     },
     {
       "full_name": "Digital Tools for XR",
@@ -8421,28 +8327,10 @@
       "path": "FIN|FIN - Finance/FIN433.json"
     },
     {
-      "full_name": "Explore Creativity in Digital Media Arts",
-      "module_code": "FTA003",
-      "module_level": "Level 0",
-      "path": "FTA|AFCT - Film and TV/FTA003.json"
-    },
-    {
       "full_name": "Film Appreciation",
       "module_code": "FTA005",
       "module_level": "Level 0",
       "path": "FTA|AFCT - Film and TV/FTA005.json"
-    },
-    {
-      "full_name": "Start Filmmaking",
-      "module_code": "FTA006",
-      "module_level": "Level 0",
-      "path": "FTA|AFCT - Film and TV/FTA006.json"
-    },
-    {
-      "full_name": "TV and Short Video Production",
-      "module_code": "FTA007",
-      "module_level": "Level 0",
-      "path": "FTA|AFCT - Film and TV/FTA007.json"
     },
     {
       "full_name": "Fundamentals of Creative Technology",
@@ -8667,12 +8555,6 @@
       "path": "FTA|AFCT - Film and TV/FTA220.json"
     },
     {
-      "full_name": "Advanced Editing",
-      "module_code": "FTA221",
-      "module_level": "Level 2",
-      "path": "FTA|AFCT - Film and TV/FTA221.json"
-    },
-    {
       "full_name": "Minor Digital Arts Project",
       "module_code": "FTA222",
       "module_level": "Level 2",
@@ -8683,12 +8565,6 @@
       "module_code": "FTA223",
       "module_level": "Level 2",
       "path": "FTA|AFCT - Film and TV/FTA223.json"
-    },
-    {
-      "full_name": "Minor TV Project",
-      "module_code": "FTA224",
-      "module_level": "Level 2",
-      "path": "FTA|AFCT - Film and TV/FTA224.json"
     },
     {
       "full_name": "Sound",
@@ -10455,12 +10331,6 @@
       "path": "IOM|IOM - Intelligent Operations and Marketing/IOM450.json"
     },
     {
-      "full_name": "Fundamentals of IoT and its applications",
-      "module_code": "IOT001",
-      "module_level": "Level 0",
-      "path": "IOTTC|IOT - Internet of things/IOT001.json"
-    },
-    {
       "full_name": "Introduction to AIoT and the Internet of Intelligence",
       "module_code": "IOT001TC",
       "module_level": "Level 0",
@@ -10699,18 +10569,6 @@
       "module_code": "JPL012",
       "module_level": "Level 0",
       "path": "JPL|MLC - Japanese Language/JPL012.json"
-    },
-    {
-      "full_name": "Introduction to Sustainability",
-      "module_code": "LAN007",
-      "module_level": "Level 0",
-      "path": "LAN|ELC - Comprehensive Use of Language/LAN007.json"
-    },
-    {
-      "full_name": "Introduction to Intercultural Communication",
-      "module_code": "LAN010",
-      "module_level": "Level 0",
-      "path": "LAN|ELC - Comprehensive Use of Language/LAN010.json"
     },
     {
       "full_name": "Introduction to Second Language Acquisition",
@@ -11937,12 +11795,6 @@
       "path": "LNG|LNG - Applied Linguistics/LNG001.json"
     },
     {
-      "full_name": "Introduction to English Studies",
-      "module_code": "LNG002",
-      "module_level": "Level 0",
-      "path": "LNG|LNG - Applied Linguistics/LNG002.json"
-    },
-    {
       "full_name": "Sounds of English",
       "module_code": "LNG101",
       "module_level": "Level 1",
@@ -12357,12 +12209,6 @@
       "path": "MESTC|CHP - Microelectronic Science and Engineering/MES001TC.json"
     },
     {
-      "full_name": "Introduction to Microelectronics",
-      "module_code": "MES002",
-      "module_level": "Level 0",
-      "path": "MESTC|CHP - Microelectronic Science and Engineering/MES002.json"
-    },
-    {
       "full_name": "Introduction to Artificial Intelligence and Its VLSI Implementation",
       "module_code": "MES003TC",
       "module_level": "Level 0",
@@ -12559,12 +12405,6 @@
       "module_code": "MES001TC",
       "module_level": "Level 0",
       "path": "MESTC|IME - Microelectronic Science and Engineering/MES001TC.json"
-    },
-    {
-      "full_name": "Introduction to Microelectronics",
-      "module_code": "MES002",
-      "module_level": "Level 0",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES002.json"
     },
     {
       "full_name": "Introduction to Artificial Intelligence and Its VLSI Implementation",
@@ -13029,40 +12869,10 @@
       "path": "MFETC|IME - Manufacturing Engineering/MFE423TC.json"
     },
     {
-      "full_name": "Multivariable Calculus and Statistics",
-      "module_code": "MTH002",
-      "module_level": "Level 0",
-      "path": "MTH|APM - Mathematical Sciences/MTH002.json"
-    },
-    {
-      "full_name": "Multivariable Calculus (Business and Arts)",
-      "module_code": "MTH004",
-      "module_level": "Level 0",
-      "path": "MTH|APM - Mathematical Sciences/MTH004.json"
-    },
-    {
-      "full_name": "Linear Algebra",
-      "module_code": "MTH007",
-      "module_level": "Level 0",
-      "path": "MTH|APM - Mathematical Sciences/MTH007.json"
-    },
-    {
-      "full_name": "Multivariable Calculus (Science and Engineering)",
-      "module_code": "MTH008",
-      "module_level": "Level 0",
-      "path": "MTH|APM - Mathematical Sciences/MTH008.json"
-    },
-    {
       "full_name": "Introduction to Insurance",
       "module_code": "MTH012",
       "module_level": "Level 0",
       "path": "MTH|APM - Mathematical Sciences/MTH012.json"
-    },
-    {
-      "full_name": "Calculus (Science and Engineering)",
-      "module_code": "MTH013",
-      "module_level": "Level 0",
-      "path": "MTH|APM - Mathematical Sciences/MTH013.json"
     },
     {
       "full_name": "Introductory Linear Algebra",
@@ -13071,28 +12881,10 @@
       "path": "MTH|APM - Mathematical Sciences/MTH015.json"
     },
     {
-      "full_name": "Linear Algebra for Mathematical Science",
-      "module_code": "MTH017",
-      "module_level": "Level 0",
-      "path": "MTH|APM - Mathematical Sciences/MTH017.json"
-    },
-    {
-      "full_name": "Calculus for Business",
-      "module_code": "MTH019",
-      "module_level": "Level 0",
-      "path": "MTH|APM - Mathematical Sciences/MTH019.json"
-    },
-    {
       "full_name": "Modelling the Real World: Gateway to Applied Math and Physics",
       "module_code": "MTH020",
       "module_level": "Level 0",
       "path": "MTH|APM - Mathematical Sciences/MTH020.json"
-    },
-    {
-      "full_name": "Introductory Calculus II",
-      "module_code": "MTH023",
-      "module_level": "Level 0",
-      "path": "MTH|APM - Mathematical Sciences/MTH023.json"
     },
     {
       "full_name": "Mathematical Reasoning",
@@ -13101,34 +12893,16 @@
       "path": "MTH|APM - Mathematical Sciences/MTH024.json"
     },
     {
-      "full_name": "Pre-Calculus",
-      "module_code": "MTH025",
-      "module_level": "Level 0",
-      "path": "MTH|APM - Mathematical Sciences/MTH025.json"
-    },
-    {
       "full_name": "Calculus I",
       "module_code": "MTH026",
       "module_level": "Level 0",
       "path": "MTH|APM - Mathematical Sciences/MTH026.json"
     },
     {
-      "full_name": "Introductory Calculus I",
-      "module_code": "MTH027",
-      "module_level": "Level 0",
-      "path": "MTH|APM - Mathematical Sciences/MTH027.json"
-    },
-    {
       "full_name": "Linear Algebra I",
       "module_code": "MTH028",
       "module_level": "Level 0",
       "path": "MTH|APM - Mathematical Sciences/MTH028.json"
-    },
-    {
-      "full_name": "Calculus (Mathematical Sciences)",
-      "module_code": "MTH029",
-      "module_level": "Level 0",
-      "path": "MTH|APM - Mathematical Sciences/MTH029.json"
     },
     {
       "full_name": "Introductory Calculus",
@@ -13719,40 +13493,10 @@
       "path": "MTH|APM - Mathematical Sciences/MTH448.json"
     },
     {
-      "full_name": "Multivariable Calculus and Statistics",
-      "module_code": "MTH002",
-      "module_level": "Level 0",
-      "path": "MTH|FAM - Mathematical Sciences/MTH002.json"
-    },
-    {
-      "full_name": "Multivariable Calculus (Business and Arts)",
-      "module_code": "MTH004",
-      "module_level": "Level 0",
-      "path": "MTH|FAM - Mathematical Sciences/MTH004.json"
-    },
-    {
-      "full_name": "Linear Algebra",
-      "module_code": "MTH007",
-      "module_level": "Level 0",
-      "path": "MTH|FAM - Mathematical Sciences/MTH007.json"
-    },
-    {
-      "full_name": "Multivariable Calculus (Science and Engineering)",
-      "module_code": "MTH008",
-      "module_level": "Level 0",
-      "path": "MTH|FAM - Mathematical Sciences/MTH008.json"
-    },
-    {
       "full_name": "Introduction to Insurance",
       "module_code": "MTH012",
       "module_level": "Level 0",
       "path": "MTH|FAM - Mathematical Sciences/MTH012.json"
-    },
-    {
-      "full_name": "Calculus (Science and Engineering)",
-      "module_code": "MTH013",
-      "module_level": "Level 0",
-      "path": "MTH|FAM - Mathematical Sciences/MTH013.json"
     },
     {
       "full_name": "Introductory Linear Algebra",
@@ -13761,28 +13505,10 @@
       "path": "MTH|FAM - Mathematical Sciences/MTH015.json"
     },
     {
-      "full_name": "Linear Algebra for Mathematical Science",
-      "module_code": "MTH017",
-      "module_level": "Level 0",
-      "path": "MTH|FAM - Mathematical Sciences/MTH017.json"
-    },
-    {
-      "full_name": "Calculus for Business",
-      "module_code": "MTH019",
-      "module_level": "Level 0",
-      "path": "MTH|FAM - Mathematical Sciences/MTH019.json"
-    },
-    {
       "full_name": "Modelling the Real World: Gateway to Applied Math and Physics",
       "module_code": "MTH020",
       "module_level": "Level 0",
       "path": "MTH|FAM - Mathematical Sciences/MTH020.json"
-    },
-    {
-      "full_name": "Introductory Calculus II",
-      "module_code": "MTH023",
-      "module_level": "Level 0",
-      "path": "MTH|FAM - Mathematical Sciences/MTH023.json"
     },
     {
       "full_name": "Mathematical Reasoning",
@@ -13791,34 +13517,16 @@
       "path": "MTH|FAM - Mathematical Sciences/MTH024.json"
     },
     {
-      "full_name": "Pre-Calculus",
-      "module_code": "MTH025",
-      "module_level": "Level 0",
-      "path": "MTH|FAM - Mathematical Sciences/MTH025.json"
-    },
-    {
       "full_name": "Calculus I",
       "module_code": "MTH026",
       "module_level": "Level 0",
       "path": "MTH|FAM - Mathematical Sciences/MTH026.json"
     },
     {
-      "full_name": "Introductory Calculus I",
-      "module_code": "MTH027",
-      "module_level": "Level 0",
-      "path": "MTH|FAM - Mathematical Sciences/MTH027.json"
-    },
-    {
       "full_name": "Linear Algebra I",
       "module_code": "MTH028",
       "module_level": "Level 0",
       "path": "MTH|FAM - Mathematical Sciences/MTH028.json"
-    },
-    {
-      "full_name": "Calculus (Mathematical Sciences)",
-      "module_code": "MTH029",
-      "module_level": "Level 0",
-      "path": "MTH|FAM - Mathematical Sciences/MTH029.json"
     },
     {
       "full_name": "Introductory Calculus",
@@ -14409,40 +14117,10 @@
       "path": "MTH|FAM - Mathematical Sciences/MTH448.json"
     },
     {
-      "full_name": "Multivariable Calculus and Statistics",
-      "module_code": "MTH002",
-      "module_level": "Level 0",
-      "path": "MTH|MAT - Mathematical Sciences/MTH002.json"
-    },
-    {
-      "full_name": "Multivariable Calculus (Business and Arts)",
-      "module_code": "MTH004",
-      "module_level": "Level 0",
-      "path": "MTH|MAT - Mathematical Sciences/MTH004.json"
-    },
-    {
-      "full_name": "Linear Algebra",
-      "module_code": "MTH007",
-      "module_level": "Level 0",
-      "path": "MTH|MAT - Mathematical Sciences/MTH007.json"
-    },
-    {
-      "full_name": "Multivariable Calculus (Science and Engineering)",
-      "module_code": "MTH008",
-      "module_level": "Level 0",
-      "path": "MTH|MAT - Mathematical Sciences/MTH008.json"
-    },
-    {
       "full_name": "Introduction to Insurance",
       "module_code": "MTH012",
       "module_level": "Level 0",
       "path": "MTH|MAT - Mathematical Sciences/MTH012.json"
-    },
-    {
-      "full_name": "Calculus (Science and Engineering)",
-      "module_code": "MTH013",
-      "module_level": "Level 0",
-      "path": "MTH|MAT - Mathematical Sciences/MTH013.json"
     },
     {
       "full_name": "Introductory Linear Algebra",
@@ -14451,28 +14129,10 @@
       "path": "MTH|MAT - Mathematical Sciences/MTH015.json"
     },
     {
-      "full_name": "Linear Algebra for Mathematical Science",
-      "module_code": "MTH017",
-      "module_level": "Level 0",
-      "path": "MTH|MAT - Mathematical Sciences/MTH017.json"
-    },
-    {
-      "full_name": "Calculus for Business",
-      "module_code": "MTH019",
-      "module_level": "Level 0",
-      "path": "MTH|MAT - Mathematical Sciences/MTH019.json"
-    },
-    {
       "full_name": "Modelling the Real World: Gateway to Applied Math and Physics",
       "module_code": "MTH020",
       "module_level": "Level 0",
       "path": "MTH|MAT - Mathematical Sciences/MTH020.json"
-    },
-    {
-      "full_name": "Introductory Calculus II",
-      "module_code": "MTH023",
-      "module_level": "Level 0",
-      "path": "MTH|MAT - Mathematical Sciences/MTH023.json"
     },
     {
       "full_name": "Mathematical Reasoning",
@@ -14481,34 +14141,16 @@
       "path": "MTH|MAT - Mathematical Sciences/MTH024.json"
     },
     {
-      "full_name": "Pre-Calculus",
-      "module_code": "MTH025",
-      "module_level": "Level 0",
-      "path": "MTH|MAT - Mathematical Sciences/MTH025.json"
-    },
-    {
       "full_name": "Calculus I",
       "module_code": "MTH026",
       "module_level": "Level 0",
       "path": "MTH|MAT - Mathematical Sciences/MTH026.json"
     },
     {
-      "full_name": "Introductory Calculus I",
-      "module_code": "MTH027",
-      "module_level": "Level 0",
-      "path": "MTH|MAT - Mathematical Sciences/MTH027.json"
-    },
-    {
       "full_name": "Linear Algebra I",
       "module_code": "MTH028",
       "module_level": "Level 0",
       "path": "MTH|MAT - Mathematical Sciences/MTH028.json"
-    },
-    {
-      "full_name": "Calculus (Mathematical Sciences)",
-      "module_code": "MTH029",
-      "module_level": "Level 0",
-      "path": "MTH|MAT - Mathematical Sciences/MTH029.json"
     },
     {
       "full_name": "Introductory Calculus",
@@ -15099,40 +14741,10 @@
       "path": "MTH|MAT - Mathematical Sciences/MTH448.json"
     },
     {
-      "full_name": "Multivariable Calculus and Statistics",
-      "module_code": "MTH002",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH002.json"
-    },
-    {
-      "full_name": "Multivariable Calculus (Business and Arts)",
-      "module_code": "MTH004",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH004.json"
-    },
-    {
-      "full_name": "Linear Algebra",
-      "module_code": "MTH007",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH007.json"
-    },
-    {
-      "full_name": "Multivariable Calculus (Science and Engineering)",
-      "module_code": "MTH008",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH008.json"
-    },
-    {
       "full_name": "Introduction to Insurance",
       "module_code": "MTH012",
       "module_level": "Level 0",
       "path": "MTH|MTH - Mathematical Sciences/MTH012.json"
-    },
-    {
-      "full_name": "Calculus (Science and Engineering)",
-      "module_code": "MTH013",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH013.json"
     },
     {
       "full_name": "Introductory Linear Algebra",
@@ -15141,28 +14753,10 @@
       "path": "MTH|MTH - Mathematical Sciences/MTH015.json"
     },
     {
-      "full_name": "Linear Algebra for Mathematical Science",
-      "module_code": "MTH017",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH017.json"
-    },
-    {
-      "full_name": "Calculus for Business",
-      "module_code": "MTH019",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH019.json"
-    },
-    {
       "full_name": "Modelling the Real World: Gateway to Applied Math and Physics",
       "module_code": "MTH020",
       "module_level": "Level 0",
       "path": "MTH|MTH - Mathematical Sciences/MTH020.json"
-    },
-    {
-      "full_name": "Introductory Calculus II",
-      "module_code": "MTH023",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH023.json"
     },
     {
       "full_name": "Mathematical Reasoning",
@@ -15171,34 +14765,16 @@
       "path": "MTH|MTH - Mathematical Sciences/MTH024.json"
     },
     {
-      "full_name": "Pre-Calculus",
-      "module_code": "MTH025",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH025.json"
-    },
-    {
       "full_name": "Calculus I",
       "module_code": "MTH026",
       "module_level": "Level 0",
       "path": "MTH|MTH - Mathematical Sciences/MTH026.json"
     },
     {
-      "full_name": "Introductory Calculus I",
-      "module_code": "MTH027",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH027.json"
-    },
-    {
       "full_name": "Linear Algebra I",
       "module_code": "MTH028",
       "module_level": "Level 0",
       "path": "MTH|MTH - Mathematical Sciences/MTH028.json"
-    },
-    {
-      "full_name": "Calculus (Mathematical Sciences)",
-      "module_code": "MTH029",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH029.json"
     },
     {
       "full_name": "Introductory Calculus",
@@ -15789,40 +15365,10 @@
       "path": "MTH|MTH - Mathematical Sciences/MTH448.json"
     },
     {
-      "full_name": "Multivariable Calculus and Statistics",
-      "module_code": "MTH002",
-      "module_level": "Level 0",
-      "path": "MTH|SMP - Mathematical Sciences/MTH002.json"
-    },
-    {
-      "full_name": "Multivariable Calculus (Business and Arts)",
-      "module_code": "MTH004",
-      "module_level": "Level 0",
-      "path": "MTH|SMP - Mathematical Sciences/MTH004.json"
-    },
-    {
-      "full_name": "Linear Algebra",
-      "module_code": "MTH007",
-      "module_level": "Level 0",
-      "path": "MTH|SMP - Mathematical Sciences/MTH007.json"
-    },
-    {
-      "full_name": "Multivariable Calculus (Science and Engineering)",
-      "module_code": "MTH008",
-      "module_level": "Level 0",
-      "path": "MTH|SMP - Mathematical Sciences/MTH008.json"
-    },
-    {
       "full_name": "Introduction to Insurance",
       "module_code": "MTH012",
       "module_level": "Level 0",
       "path": "MTH|SMP - Mathematical Sciences/MTH012.json"
-    },
-    {
-      "full_name": "Calculus (Science and Engineering)",
-      "module_code": "MTH013",
-      "module_level": "Level 0",
-      "path": "MTH|SMP - Mathematical Sciences/MTH013.json"
     },
     {
       "full_name": "Introductory Linear Algebra",
@@ -15831,28 +15377,10 @@
       "path": "MTH|SMP - Mathematical Sciences/MTH015.json"
     },
     {
-      "full_name": "Linear Algebra for Mathematical Science",
-      "module_code": "MTH017",
-      "module_level": "Level 0",
-      "path": "MTH|SMP - Mathematical Sciences/MTH017.json"
-    },
-    {
-      "full_name": "Calculus for Business",
-      "module_code": "MTH019",
-      "module_level": "Level 0",
-      "path": "MTH|SMP - Mathematical Sciences/MTH019.json"
-    },
-    {
       "full_name": "Modelling the Real World: Gateway to Applied Math and Physics",
       "module_code": "MTH020",
       "module_level": "Level 0",
       "path": "MTH|SMP - Mathematical Sciences/MTH020.json"
-    },
-    {
-      "full_name": "Introductory Calculus II",
-      "module_code": "MTH023",
-      "module_level": "Level 0",
-      "path": "MTH|SMP - Mathematical Sciences/MTH023.json"
     },
     {
       "full_name": "Mathematical Reasoning",
@@ -15861,34 +15389,16 @@
       "path": "MTH|SMP - Mathematical Sciences/MTH024.json"
     },
     {
-      "full_name": "Pre-Calculus",
-      "module_code": "MTH025",
-      "module_level": "Level 0",
-      "path": "MTH|SMP - Mathematical Sciences/MTH025.json"
-    },
-    {
       "full_name": "Calculus I",
       "module_code": "MTH026",
       "module_level": "Level 0",
       "path": "MTH|SMP - Mathematical Sciences/MTH026.json"
     },
     {
-      "full_name": "Introductory Calculus I",
-      "module_code": "MTH027",
-      "module_level": "Level 0",
-      "path": "MTH|SMP - Mathematical Sciences/MTH027.json"
-    },
-    {
       "full_name": "Linear Algebra I",
       "module_code": "MTH028",
       "module_level": "Level 0",
       "path": "MTH|SMP - Mathematical Sciences/MTH028.json"
-    },
-    {
-      "full_name": "Calculus (Mathematical Sciences)",
-      "module_code": "MTH029",
-      "module_level": "Level 0",
-      "path": "MTH|SMP - Mathematical Sciences/MTH029.json"
     },
     {
       "full_name": "Introductory Calculus",
@@ -16485,12 +15995,6 @@
       "path": "MTS|CHE - Material Science/MTS001.json"
     },
     {
-      "full_name": "Introduction to AI in Materials Science",
-      "module_code": "MTS101",
-      "module_level": "Level 1",
-      "path": "MTS|CHE - Material Science/MTS101.json"
-    },
-    {
       "full_name": "Materials for Engineering 1",
       "module_code": "MTS201",
       "module_level": "Level 2",
@@ -16629,28 +16133,10 @@
       "path": "PHE|PHE - Physical Education/PHE002.json"
     },
     {
-      "full_name": "Classical Physics for Engineers",
-      "module_code": "PHY001",
-      "module_level": "Level 0",
-      "path": "PHY|PHY - Physics/PHY001.json"
-    },
-    {
-      "full_name": "Physics (Physics II: Electromagnetism)",
-      "module_code": "PHY002",
-      "module_level": "Level 0",
-      "path": "PHY|PHY - Physics/PHY002.json"
-    },
-    {
       "full_name": "Physics I: Mechanics",
       "module_code": "PHY005",
       "module_level": "Level 0",
       "path": "PHY|PHY - Physics/PHY005.json"
-    },
-    {
-      "full_name": "Physics II: Introduction to Electromagnetism",
-      "module_code": "PHY006",
-      "module_level": "Level 0",
-      "path": "PHY|PHY - Physics/PHY006.json"
     },
     {
       "full_name": "General Physics for Science and Engineering",
@@ -17145,12 +16631,6 @@
       "path": "SAT|SAT - Advanced Technology/SAT411.json"
     },
     {
-      "full_name": "Scientific Principles and Methods",
-      "module_code": "SCI002",
-      "module_level": "Level 0",
-      "path": "SCI|SCI - Science/SCI002.json"
-    },
-    {
       "full_name": "Scientific Communication and Integrity",
       "module_code": "SCI003",
       "module_level": "Level 0",
@@ -17599,18 +17079,6 @@
       "module_code": "SPA008",
       "module_level": "Level 0",
       "path": "SPA|MLC - Spanish/SPA008.json"
-    },
-    {
-      "full_name": "The Sounds of Spanish",
-      "module_code": "SPA009",
-      "module_level": "Level 0",
-      "path": "SPA|MLC - Spanish/SPA009.json"
-    },
-    {
-      "full_name": "The Dawn of Globalization: Introduction to Spain in the 15th Century",
-      "module_code": "SPA012",
-      "module_level": "Level 0",
-      "path": "SPA|MLC - Spanish/SPA012.json"
     },
     {
       "full_name": "Spanish Language 1: Part 1",
