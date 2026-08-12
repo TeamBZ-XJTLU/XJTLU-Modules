@@ -33,11 +33,7 @@
     "ACC|ACC - Accounting/ACC309.json",
     "ACC|ACC - Accounting/ACC310.json",
     "ACC|ACC - Accounting/ACC401.json",
-    "ACC|ACC - Accounting/ACC402.json",
     "ACC|ACC - Accounting/ACC403.json",
-    "ACC|ACC - Accounting/ACC406.json",
-    "ACC|ACC - Accounting/ACC408.json",
-    "ACC|ACC - Accounting/ACC410.json",
     "ACC|ACC - Accounting/ACC411.json",
     "ACC|ACC - Accounting/ACC414.json",
     "ACC|ACC - Accounting/ACC415.json",
@@ -255,32 +251,23 @@
     "CATTC|AFCT - Cultural Technology",
     "CATTC|AFCT - Cultural Technology/CAT001TC.json",
     "CATTC|AFCT - Cultural Technology/CAT002TC.json",
-    "CATTC|AFCT - Cultural Technology/CAT101TC.json",
     "CATTC|AFCT - Cultural Technology/CAT102TC.json",
     "CATTC|AFCT - Cultural Technology/CAT104TC.json",
     "CATTC|AFCT - Cultural Technology/CAT105TC.json",
     "CATTC|AFCT - Cultural Technology/CAT106TC.json",
-    "CATTC|AFCT - Cultural Technology/CAT107TC.json",
-    "CATTC|AFCT - Cultural Technology/CAT113TC.json",
     "CATTC|AFCT - Cultural Technology/CAT114TC.json",
     "CATTC|AFCT - Cultural Technology/CAT115TC.json",
     "CATTC|AFCT - Cultural Technology/CAT201TC.json",
-    "CATTC|AFCT - Cultural Technology/CAT203TC.json",
     "CATTC|AFCT - Cultural Technology/CAT204TC.json",
     "CATTC|AFCT - Cultural Technology/CAT206TC.json",
     "CATTC|AFCT - Cultural Technology/CAT207TC.json",
     "CATTC|AFCT - Cultural Technology/CAT208TC.json",
     "CATTC|AFCT - Cultural Technology/CAT209TC.json",
-    "CATTC|AFCT - Cultural Technology/CAT210TC.json",
-    "CATTC|AFCT - Cultural Technology/CAT215TC.json",
     "CATTC|AFCT - Cultural Technology/CAT301TC.json",
     "CATTC|AFCT - Cultural Technology/CAT302TC.json",
-    "CATTC|AFCT - Cultural Technology/CAT304TC.json",
-    "CATTC|AFCT - Cultural Technology/CAT401TC.json",
     "CATTC|AFCT - Cultural Technology/CAT403TC.json",
     "CATTC|AFCT - Cultural Technology/CAT405TC.json",
     "CATTC|AFCT - Cultural Technology/CAT406TC.json",
-    "CATTC|AFCT - Cultural Technology/CAT407TC.json",
     "CCS|CCS - China Studies",
     "CCS|CCS - China Studies/CCS004.json",
     "CCS|CCS - China Studies/CCS101.json",
@@ -439,7 +426,6 @@
     "CLT|MLC - Chinese Language/CLT027.json",
     "CLT|MLC - Chinese Language/CLT104.json",
     "CLT|MLC - Chinese Language/CLT106.json",
-    "CLT|MLC - Chinese Language/CLT111.json",
     "CLT|MLC - Chinese Language/CLT202.json",
     "CLT|MLC - Chinese Language/CLT226.json",
     "CLT|MLC - Chinese Language/CLT301.json",
@@ -1124,8 +1110,6 @@
     "IFBTC|IFS - Intelligent Finance and Business/IFB301TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB304TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB308TC.json",
-    "IFBTC|IFS - Intelligent Finance and Business/IFB313TC.json",
-    "IFBTC|IFS - Intelligent Finance and Business/IFB314TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB315TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB317TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB318TC.json",
@@ -1141,14 +1125,12 @@
     "IFBTC|IFS - Intelligent Finance and Business/IFB410TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB411TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB412TC.json",
-    "IFBTC|IFS - Intelligent Finance and Business/IFB413TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB414TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB415TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB416TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB417TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB418TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB419TC.json",
-    "IFBTC|IFS - Intelligent Finance and Business/IFB420TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB421TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB422TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB423TC.json",
@@ -1159,8 +1141,6 @@
     "IFBTC|IFS - Intelligent Finance and Business/IFB428TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB429TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB431TC.json",
-    "IFBTC|IFS - Intelligent Finance and Business/IFB432TC.json",
-    "IFBTC|IFS - Intelligent Finance and Business/IFB433TC.json",
     "IND|IND - Industrial Design",
     "IND|IND - Industrial Design/IND101.json",
     "IND|IND - Industrial Design/IND108.json",
@@ -1354,10 +1334,8 @@
     "IOTTC|IOT - Internet of things/IOT213TC.json",
     "IOTTC|IOT - Internet of things/IOT214TC.json",
     "IOTTC|IOT - Internet of things/IOT215TC.json",
-    "IOTTC|IOT - Internet of things/IOT303TC.json",
     "IOTTC|IOT - Internet of things/IOT304TC.json",
     "IOTTC|IOT - Internet of things/IOT305TC.json",
-    "IOTTC|IOT - Internet of things/IOT306TC.json",
     "IOTTC|IOT - Internet of things/IOT308TC.json",
     "IOTTC|IOT - Internet of things/IOT309TC.json",
     "IOTTC|IOT - Internet of things/IOT310TC.json",
@@ -1379,7 +1357,6 @@
     "JPL|MLC - Japanese Language/JPL011.json",
     "JPL|MLC - Japanese Language/JPL012.json",
     "LAN|ELC - Comprehensive Use of Language",
-    "LAN|ELC - Comprehensive Use of Language/LAN302.json",
     "LIF|LIFE - Lifelong Learning",
     "LIT|LTS - Literature",
     "LIT|LTS - Literature/LIT101.json",
@@ -1756,12 +1733,9 @@
     "MFETC|IME - Manufacturing Engineering/MFE401TC.json",
     "MFETC|IME - Manufacturing Engineering/MFE402TC.json",
     "MFETC|IME - Manufacturing Engineering/MFE403TC.json",
-    "MFETC|IME - Manufacturing Engineering/MFE404TC.json",
     "MFETC|IME - Manufacturing Engineering/MFE405TC.json",
     "MFETC|IME - Manufacturing Engineering/MFE406TC.json",
     "MFETC|IME - Manufacturing Engineering/MFE407TC.json",
-    "MFETC|IME - Manufacturing Engineering/MFE408TC.json",
-    "MFETC|IME - Manufacturing Engineering/MFE409TC.json",
     "MFETC|IME - Manufacturing Engineering/MFE410TC.json",
     "MFETC|IME - Manufacturing Engineering/MFE411TC.json",
     "MFETC|IME - Manufacturing Engineering/MFE412TC.json",
@@ -2552,7 +2526,7 @@
     "UPD|UPD - Urban Planning and Design/UPD410.json",
     "XPU|LIFE - XIPU AI general education"
   ],
-  "module_file_count": 2476,
+  "module_file_count": 2450,
   "modules": [
     {
       "full_name": "Exploring the Applications of AI and Large Language Models",
@@ -2717,34 +2691,10 @@
       "path": "ACC|ACC - Accounting/ACC401.json"
     },
     {
-      "full_name": "Business Planning - Taxation",
-      "module_code": "ACC402",
-      "module_level": "Level 4",
-      "path": "ACC|ACC - Accounting/ACC402.json"
-    },
-    {
       "full_name": "Accounting and Financial Management",
       "module_code": "ACC403",
       "module_level": "Level 4",
       "path": "ACC|ACC - Accounting/ACC403.json"
-    },
-    {
-      "full_name": "Corporate Reporting and Auditing I",
-      "module_code": "ACC406",
-      "module_level": "Level 4",
-      "path": "ACC|ACC - Accounting/ACC406.json"
-    },
-    {
-      "full_name": "Strategic Business Management",
-      "module_code": "ACC408",
-      "module_level": "Level 4",
-      "path": "ACC|ACC - Accounting/ACC408.json"
-    },
-    {
-      "full_name": "Corporate Reporting and Auditing II",
-      "module_code": "ACC410",
-      "module_level": "Level 4",
-      "path": "ACC|ACC - Accounting/ACC410.json"
     },
     {
       "full_name": "Integrated Case Study",
@@ -4007,12 +3957,6 @@
       "path": "CATTC|AFCT - Cultural Technology/CAT002TC.json"
     },
     {
-      "full_name": "Digital Tools for XR",
-      "module_code": "CAT101TC",
-      "module_level": "Level 1",
-      "path": "CATTC|AFCT - Cultural Technology/CAT101TC.json"
-    },
-    {
       "full_name": "Form, Innovation and Culture",
       "module_code": "CAT102TC",
       "module_level": "Level 1",
@@ -4037,18 +3981,6 @@
       "path": "CATTC|AFCT - Cultural Technology/CAT106TC.json"
     },
     {
-      "full_name": "Minor Project Design and Delivery",
-      "module_code": "CAT107TC",
-      "module_level": "Level 1",
-      "path": "CATTC|AFCT - Cultural Technology/CAT107TC.json"
-    },
-    {
-      "full_name": "Audiovisual Production Techniques",
-      "module_code": "CAT113TC",
-      "module_level": "Level 1",
-      "path": "CATTC|AFCT - Cultural Technology/CAT113TC.json"
-    },
-    {
       "full_name": "AI-centric and Computational Storytelling",
       "module_code": "CAT114TC",
       "module_level": "Level 1",
@@ -4065,12 +3997,6 @@
       "module_code": "CAT201TC",
       "module_level": "Level 2",
       "path": "CATTC|AFCT - Cultural Technology/CAT201TC.json"
-    },
-    {
-      "full_name": "Producing for Entertainment",
-      "module_code": "CAT203TC",
-      "module_level": "Level 2",
-      "path": "CATTC|AFCT - Cultural Technology/CAT203TC.json"
     },
     {
       "full_name": "Advanced Game Development",
@@ -4103,18 +4029,6 @@
       "path": "CATTC|AFCT - Cultural Technology/CAT209TC.json"
     },
     {
-      "full_name": "Film and TV Culture",
-      "module_code": "CAT210TC",
-      "module_level": "Level 2",
-      "path": "CATTC|AFCT - Cultural Technology/CAT210TC.json"
-    },
-    {
-      "full_name": "Post Production",
-      "module_code": "CAT215TC",
-      "module_level": "Level 2",
-      "path": "CATTC|AFCT - Cultural Technology/CAT215TC.json"
-    },
-    {
       "full_name": "Industrial Project Design and Realisation",
       "module_code": "CAT301TC",
       "module_level": "Level 3",
@@ -4125,18 +4039,6 @@
       "module_code": "CAT302TC",
       "module_level": "Level 3",
       "path": "CATTC|AFCT - Cultural Technology/CAT302TC.json"
-    },
-    {
-      "full_name": "Advanced Topics in Art, Technology, and Entertainment",
-      "module_code": "CAT304TC",
-      "module_level": "Level 3",
-      "path": "CATTC|AFCT - Cultural Technology/CAT304TC.json"
-    },
-    {
-      "full_name": "Cultural and Creative Innovation",
-      "module_code": "CAT401TC",
-      "module_level": "Level 4",
-      "path": "CATTC|AFCT - Cultural Technology/CAT401TC.json"
     },
     {
       "full_name": "Interactive Technology",
@@ -4155,12 +4057,6 @@
       "module_code": "CAT406TC",
       "module_level": "Level 4",
       "path": "CATTC|AFCT - Cultural Technology/CAT406TC.json"
-    },
-    {
-      "full_name": "Foundation in Creative Technology",
-      "module_code": "CAT407TC",
-      "module_level": "Level 4",
-      "path": "CATTC|AFCT - Cultural Technology/CAT407TC.json"
     },
     {
       "full_name": "Introduction to China Studies",
@@ -5079,12 +4975,6 @@
       "module_code": "CLT106",
       "module_level": "Level 1",
       "path": "CLT|MLC - Chinese Language/CLT106.json"
-    },
-    {
-      "full_name": "Classical Chinese 1",
-      "module_code": "CLT111",
-      "module_level": "Level 1",
-      "path": "CLT|MLC - Chinese Language/CLT111.json"
     },
     {
       "full_name": "Teaching Chinese as an International Language",
@@ -9083,18 +8973,6 @@
       "path": "IFBTC|IFS - Intelligent Finance and Business/IFB308TC.json"
     },
     {
-      "full_name": "Supply Chain ESG Management",
-      "module_code": "IFB313TC",
-      "module_level": "Level 3",
-      "path": "IFBTC|IFS - Intelligent Finance and Business/IFB313TC.json"
-    },
-    {
-      "full_name": "Retail and Service Supply Chains",
-      "module_code": "IFB314TC",
-      "module_level": "Level 3",
-      "path": "IFBTC|IFS - Intelligent Finance and Business/IFB314TC.json"
-    },
-    {
       "full_name": "Supply Chain Modelling and Optimisation",
       "module_code": "IFB315TC",
       "module_level": "Level 3",
@@ -9185,12 +9063,6 @@
       "path": "IFBTC|IFS - Intelligent Finance and Business/IFB412TC.json"
     },
     {
-      "full_name": "Creative Marketing",
-      "module_code": "IFB413TC",
-      "module_level": "Level 4",
-      "path": "IFBTC|IFS - Intelligent Finance and Business/IFB413TC.json"
-    },
-    {
       "full_name": "Cryptocurrencies, Blockchain, and The Future of Money",
       "module_code": "IFB414TC",
       "module_level": "Level 4",
@@ -9225,12 +9097,6 @@
       "module_code": "IFB419TC",
       "module_level": "Level 4",
       "path": "IFBTC|IFS - Intelligent Finance and Business/IFB419TC.json"
-    },
-    {
-      "full_name": "Industrial Economics",
-      "module_code": "IFB420TC",
-      "module_level": "Level 4",
-      "path": "IFBTC|IFS - Intelligent Finance and Business/IFB420TC.json"
     },
     {
       "full_name": "Work Placement",
@@ -9291,18 +9157,6 @@
       "module_code": "IFB431TC",
       "module_level": "Level 4",
       "path": "IFBTC|IFS - Intelligent Finance and Business/IFB431TC.json"
-    },
-    {
-      "full_name": "Sustainable Supply Chain Management",
-      "module_code": "IFB432TC",
-      "module_level": "Level 4",
-      "path": "IFBTC|IFS - Intelligent Finance and Business/IFB432TC.json"
-    },
-    {
-      "full_name": "Social Entrepreneurship",
-      "module_code": "IFB433TC",
-      "module_level": "Level 4",
-      "path": "IFBTC|IFS - Intelligent Finance and Business/IFB433TC.json"
     },
     {
       "full_name": "Studio 1 - Design Principles",
@@ -10433,12 +10287,6 @@
       "path": "IOTTC|IOT - Internet of things/IOT215TC.json"
     },
     {
-      "full_name": "Principle and Application of RFID",
-      "module_code": "IOT303TC",
-      "module_level": "Level 3",
-      "path": "IOTTC|IOT - Internet of things/IOT303TC.json"
-    },
-    {
       "full_name": "Cloud Computing",
       "module_code": "IOT304TC",
       "module_level": "Level 3",
@@ -10449,12 +10297,6 @@
       "module_code": "IOT305TC",
       "module_level": "Level 3",
       "path": "IOTTC|IOT - Internet of things/IOT305TC.json"
-    },
-    {
-      "full_name": "Image Processing",
-      "module_code": "IOT306TC",
-      "module_level": "Level 3",
-      "path": "IOTTC|IOT - Internet of things/IOT306TC.json"
     },
     {
       "full_name": "Programming Mobile Applications for loT",
@@ -10569,12 +10411,6 @@
       "module_code": "JPL012",
       "module_level": "Level 0",
       "path": "JPL|MLC - Japanese Language/JPL012.json"
-    },
-    {
-      "full_name": "Introduction to Second Language Acquisition",
-      "module_code": "LAN302",
-      "module_level": "Level 3",
-      "path": "LAN|ELC - Comprehensive Use of Language/LAN302.json"
     },
     {
       "full_name": "Introduction to Literary Studies",
@@ -12749,12 +12585,6 @@
       "path": "MFETC|IME - Manufacturing Engineering/MFE403TC.json"
     },
     {
-      "full_name": "Additive Manufacturing for Micro Devices",
-      "module_code": "MFE404TC",
-      "module_level": "Level 4",
-      "path": "MFETC|IME - Manufacturing Engineering/MFE404TC.json"
-    },
-    {
       "full_name": "Bespoke Industrial Studio 2",
       "module_code": "MFE405TC",
       "module_level": "Level 4",
@@ -12771,18 +12601,6 @@
       "module_code": "MFE407TC",
       "module_level": "Level 4",
       "path": "MFETC|IME - Manufacturing Engineering/MFE407TC.json"
-    },
-    {
-      "full_name": "Internship",
-      "module_code": "MFE408TC",
-      "module_level": "Level 4",
-      "path": "MFETC|IME - Manufacturing Engineering/MFE408TC.json"
-    },
-    {
-      "full_name": "Work-Integrated-Learning Project",
-      "module_code": "MFE409TC",
-      "module_level": "Level 4",
-      "path": "MFETC|IME - Manufacturing Engineering/MFE409TC.json"
     },
     {
       "full_name": "Research, Development, and Innovation",

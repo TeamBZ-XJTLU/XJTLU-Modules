@@ -29,29 +29,6 @@
         "Method of teaching and learning": "The module is delivered through formal seminars, tutorials, and lab sessions. Students will master the fabrication technologies through the industry-oriented project."
       },
       "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES404TC&psl_code=SEM1"
-    },
-    {
-      "heading": "Advanced Microfabrication Technology",
-      "listing": {
-        "academic_year": "2026/27",
-        "domain_code": "MESTC",
-        "full_name": "Advanced Microfabrication Technology",
-        "module_code": "MES404TC",
-        "semester": "SEM2"
-      },
-      "overview": {
-        "Academic Year": "2026/27",
-        "Module Credits": "5",
-        "Module Level": "Level 4",
-        "Module Title": "Advanced Microfabrication Technology",
-        "Semester": "SEM2"
-      },
-      "sections": {
-        "Aims and Fit of Module": "The course starts with micro and nanostructures and device applications, aiming to cultivate students' important understanding of semiconductor process and integration technologies and analysis methods widely used in the manufacture of modern electronic devices, which mainly contain clean room and a variety of substrate and thin film materials, a variety of advanced fabrication technologies, micro and nanopattern preparation technology, pattern transfer technology, thin film growth and deposition technology, doping and annealing technology, wet technology, micro, and nanostructures obtaining and releasing technology, chip, and device packaging and bonding technology, materials, devices, and structural characterization technology, and so on.",
-        "Learning outcomes": "A Develop the ability to identify appropriate materials and fabrication technologies for semiconductor devices. B Gain expertise in identifying and optimizing the critical parameters for various fabrication processes and analyzing the characterization results. C Demonstrate the working principles and theories of the fabrication technologies D Demonstrate a comprehensive understanding of the working principles, underlying theories, and practical applications of advanced microfabrication technologies.",
-        "Method of teaching and learning": "The module is delivered through formal seminars, tutorials, and lab sessions. Students will master the fabrication technologies through the industry-oriented project."
-      },
-      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES404TC&psl_code=SEM2"
     }
   ]
 }
