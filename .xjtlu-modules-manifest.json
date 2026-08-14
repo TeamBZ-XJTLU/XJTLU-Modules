@@ -994,13 +994,11 @@
     "FTA|AFCT - Film and TV/FTA115.json",
     "FTA|AFCT - Film and TV/FTA116.json",
     "FTA|AFCT - Film and TV/FTA118.json",
-    "FTA|AFCT - Film and TV/FTA119.json",
     "FTA|AFCT - Film and TV/FTA120.json",
     "FTA|AFCT - Film and TV/FTA121.json",
     "FTA|AFCT - Film and TV/FTA122.json",
     "FTA|AFCT - Film and TV/FTA123.json",
     "FTA|AFCT - Film and TV/FTA124.json",
-    "FTA|AFCT - Film and TV/FTA127.json",
     "FTA|AFCT - Film and TV/FTA129.json",
     "FTA|AFCT - Film and TV/FTA132.json",
     "FTA|AFCT - Film and TV/FTA134.json",
@@ -1019,7 +1017,6 @@
     "FTA|AFCT - Film and TV/FTA219.json",
     "FTA|AFCT - Film and TV/FTA220.json",
     "FTA|AFCT - Film and TV/FTA222.json",
-    "FTA|AFCT - Film and TV/FTA223.json",
     "FTA|AFCT - Film and TV/FTA225.json",
     "FTA|AFCT - Film and TV/FTA226.json",
     "FTA|AFCT - Film and TV/FTA227.json",
@@ -1639,6 +1636,8 @@
     "MEC|MEC - Mechatronics and Robotics/MEC306.json",
     "MEC|MEC - Mechatronics and Robotics/MEC307.json",
     "MEC|MEC - Mechatronics and Robotics/MEC309.json",
+    "MEC|MEC - Mechatronics and Robotics/MEC401.json",
+    "MEC|MEC - Mechatronics and Robotics/MEC402.json",
     "MESTC|CHP - Microelectronic Science and Engineering",
     "MESTC|CHP - Microelectronic Science and Engineering/MES001TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES003TC.json",
@@ -2526,7 +2525,7 @@
     "UPD|UPD - Urban Planning and Design/UPD410.json",
     "XPU|LIFE - XIPU AI general education"
   ],
-  "module_file_count": 2450,
+  "module_file_count": 2449,
   "modules": [
     {
       "full_name": "Exploring the Applications of AI and Large Language Models",
@@ -8301,12 +8300,6 @@
       "path": "FTA|AFCT - Film and TV/FTA118.json"
     },
     {
-      "full_name": "Tv Graphic Design and Special Effects",
-      "module_code": "FTA119",
-      "module_level": "Level 1",
-      "path": "FTA|AFCT - Film and TV/FTA119.json"
-    },
-    {
       "full_name": "Introduction to Visual Communication",
       "module_code": "FTA120",
       "module_level": "Level 1",
@@ -8335,12 +8328,6 @@
       "module_code": "FTA124",
       "module_level": "Level 1",
       "path": "FTA|AFCT - Film and TV/FTA124.json"
-    },
-    {
-      "full_name": "Inserts Production",
-      "module_code": "FTA127",
-      "module_level": "Level 1",
-      "path": "FTA|AFCT - Film and TV/FTA127.json"
     },
     {
       "full_name": "Computer Applications for Digital Media Arts",
@@ -8449,12 +8436,6 @@
       "module_code": "FTA222",
       "module_level": "Level 2",
       "path": "FTA|AFCT - Film and TV/FTA222.json"
-    },
-    {
-      "full_name": "Documentary Production",
-      "module_code": "FTA223",
-      "module_level": "Level 2",
-      "path": "FTA|AFCT - Film and TV/FTA223.json"
     },
     {
       "full_name": "Sound",
@@ -12037,6 +12018,18 @@
       "module_code": "MEC309",
       "module_level": "Level 3",
       "path": "MEC|MEC - Mechatronics and Robotics/MEC309.json"
+    },
+    {
+      "full_name": "Human-Robot Interaction",
+      "module_code": "MEC401",
+      "module_level": "Level 4",
+      "path": "MEC|MEC - Mechatronics and Robotics/MEC401.json"
+    },
+    {
+      "full_name": "Digital Twin Engineering",
+      "module_code": "MEC402",
+      "module_level": "Level 4",
+      "path": "MEC|MEC - Mechatronics and Robotics/MEC402.json"
     },
     {
       "full_name": "Nanobiotechnology",
