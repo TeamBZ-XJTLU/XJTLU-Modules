@@ -1,12 +1,9 @@
 {
   "base_url": "https://modules.xjtlu.edu.cn",
-  "department_count": 71,
+  "department_count": 70,
   "error_count": 0,
   "errors": [],
   "generated_paths": [
-    "AAC|AAC - School of AI and Advanced Computing",
-    "AAC|AAC - School of AI and Advanced Computing/AAC001TC.json",
-    "AAC|AAC - School of AI and Advanced Computing/AAC002TC.json",
     "ACC|ACC - Accounting",
     "ACC|ACC - Accounting/ACC002.json",
     "ACC|ACC - Accounting/ACC101.json",
@@ -220,34 +217,7 @@
     "BUS|IBSS - International Business School",
     "BUS|IBSS - International Business School/BUS303.json",
     "CAN|CAN - Communications and Networking",
-    "CAN|CAN - Communications and Networking/CAN102.json",
-    "CAN|CAN - Communications and Networking/CAN201.json",
-    "CAN|CAN - Communications and Networking/CAN202.json",
     "CAN|CAN - Communications and Networking/CAN206.json",
-    "CAN|CAN - Communications and Networking/CAN207.json",
-    "CAN|CAN - Communications and Networking/CAN209.json",
-    "CAN|CAN - Communications and Networking/CAN210.json",
-    "CAN|CAN - Communications and Networking/CAN211.json",
-    "CAN|CAN - Communications and Networking/CAN301.json",
-    "CAN|CAN - Communications and Networking/CAN302.json",
-    "CAN|CAN - Communications and Networking/CAN303.json",
-    "CAN|CAN - Communications and Networking/CAN304.json",
-    "CAN|CAN - Communications and Networking/CAN306.json",
-    "CAN|CAN - Communications and Networking/CAN307.json",
-    "CAN|CAN - Communications and Networking/CAN308.json",
-    "CAN|CAN - Communications and Networking/CAN309.json",
-    "CAN|CAN - Communications and Networking/CAN310.json",
-    "CAN|CAN - Communications and Networking/CAN311.json",
-    "CAN|CAN - Communications and Networking/CAN312.json",
-    "CAN|CAN - Communications and Networking/CAN401.json",
-    "CAN|CAN - Communications and Networking/CAN402.json",
-    "CAN|CAN - Communications and Networking/CAN403.json",
-    "CAN|CAN - Communications and Networking/CAN404.json",
-    "CAN|CAN - Communications and Networking/CAN405.json",
-    "CAN|CAN - Communications and Networking/CAN406.json",
-    "CAN|CAN - Communications and Networking/CAN407.json",
-    "CAN|CAN - Communications and Networking/CAN408.json",
-    "CAN|CAN - Communications and Networking/CAN409.json",
     "CATTC|AFCT - Cultural Technology",
     "CATTC|AFCT - Cultural Technology/CAT001TC.json",
     "CATTC|AFCT - Cultural Technology/CAT002TC.json",
@@ -487,46 +457,8 @@
     "COM|COM - Media and Communication/COM420.json",
     "COM|COM - Media and Communication/COM421.json",
     "CPT|CPT - Computing",
-    "CPT|CPT - Computing/CPT001.json",
-    "CPT|CPT - Computing/CPT101.json",
-    "CPT|CPT - Computing/CPT102.json",
-    "CPT|CPT - Computing/CPT103.json",
-    "CPT|CPT - Computing/CPT104.json",
-    "CPT|CPT - Computing/CPT105.json",
-    "CPT|CPT - Computing/CPT107.json",
-    "CPT|CPT - Computing/CPT108.json",
-    "CPT|CPT - Computing/CPT109.json",
-    "CPT|CPT - Computing/CPT111.json",
-    "CPT|CPT - Computing/CPT112.json",
-    "CPT|CPT - Computing/CPT201.json",
-    "CPT|CPT - Computing/CPT202.json",
-    "CPT|CPT - Computing/CPT203.json",
-    "CPT|CPT - Computing/CPT204.json",
-    "CPT|CPT - Computing/CPT205.json",
-    "CPT|CPT - Computing/CPT208.json",
-    "CPT|CPT - Computing/CPT210.json",
-    "CPT|CPT - Computing/CPT301.json",
-    "CPT|CPT - Computing/CPT302.json",
-    "CPT|CPT - Computing/CPT304.json",
-    "CPT|CPT - Computing/CPT306.json",
-    "CPT|CPT - Computing/CPT307.json",
-    "CPT|CPT - Computing/CPT401.json",
-    "CPT|CPT - Computing/CPT402.json",
-    "CPT|CPT - Computing/CPT403.json",
-    "CPT|CPT - Computing/CPT404.json",
-    "CPT|CPT - Computing/CPT405.json",
-    "CPT|CPT - Computing/CPT406.json",
-    "CPT|CPT - Computing/CPT407.json",
-    "CPT|CPT - Computing/CPT408.json",
-    "CPT|CPT - Computing/CPT409.json",
-    "CPT|CPT - Computing/CPT411.json",
-    "CPT|CPT - Computing/CPT412.json",
-    "CPT|CPT - Computing/CPT413.json",
     "CPT|CPT - Computing/CPT414.json",
     "CPT|CPT - Computing/CPT415.json",
-    "CPT|CPT - Computing/CPT416.json",
-    "CPT|CPT - Computing/CPT417.json",
-    "CPT|CPT - Computing/CPT418.json",
     "DES|DES - Design",
     "DES|DES - Design/DES002.json",
     "DES|DES - Design/DES003.json",
@@ -551,57 +483,6 @@
     "DES|DES - Design/DES408.json",
     "DES|DES - Design/DES409.json",
     "DTSTC|AAC - Data Science",
-    "DTSTC|AAC - Data Science/DTS002TC.json",
-    "DTSTC|AAC - Data Science/DTS004TC.json",
-    "DTSTC|AAC - Data Science/DTS102TC.json",
-    "DTSTC|AAC - Data Science/DTS103TC.json",
-    "DTSTC|AAC - Data Science/DTS104TC.json",
-    "DTSTC|AAC - Data Science/DTS106TC.json",
-    "DTSTC|AAC - Data Science/DTS107TC.json",
-    "DTSTC|AAC - Data Science/DTS108TC.json",
-    "DTSTC|AAC - Data Science/DTS109TC.json",
-    "DTSTC|AAC - Data Science/DTS110TC.json",
-    "DTSTC|AAC - Data Science/DTS111TC.json",
-    "DTSTC|AAC - Data Science/DTS112TC.json",
-    "DTSTC|AAC - Data Science/DTS114TC.json",
-    "DTSTC|AAC - Data Science/DTS115TC.json",
-    "DTSTC|AAC - Data Science/DTS201TC.json",
-    "DTSTC|AAC - Data Science/DTS202TC.json",
-    "DTSTC|AAC - Data Science/DTS206TC.json",
-    "DTSTC|AAC - Data Science/DTS207TC.json",
-    "DTSTC|AAC - Data Science/DTS208TC.json",
-    "DTSTC|AAC - Data Science/DTS209TC.json",
-    "DTSTC|AAC - Data Science/DTS211TC.json",
-    "DTSTC|AAC - Data Science/DTS212TC.json",
-    "DTSTC|AAC - Data Science/DTS213TC.json",
-    "DTSTC|AAC - Data Science/DTS214TC.json",
-    "DTSTC|AAC - Data Science/DTS215TC.json",
-    "DTSTC|AAC - Data Science/DTS216TC.json",
-    "DTSTC|AAC - Data Science/DTS217TC.json",
-    "DTSTC|AAC - Data Science/DTS218TC.json",
-    "DTSTC|AAC - Data Science/DTS219TC.json",
-    "DTSTC|AAC - Data Science/DTS304TC.json",
-    "DTSTC|AAC - Data Science/DTS305TC.json",
-    "DTSTC|AAC - Data Science/DTS306TC.json",
-    "DTSTC|AAC - Data Science/DTS307TC.json",
-    "DTSTC|AAC - Data Science/DTS308TC.json",
-    "DTSTC|AAC - Data Science/DTS309TC.json",
-    "DTSTC|AAC - Data Science/DTS310TC.json",
-    "DTSTC|AAC - Data Science/DTS311TC.json",
-    "DTSTC|AAC - Data Science/DTS312TC.json",
-    "DTSTC|AAC - Data Science/DTS313TC.json",
-    "DTSTC|AAC - Data Science/DTS314TC.json",
-    "DTSTC|AAC - Data Science/DTS401TC.json",
-    "DTSTC|AAC - Data Science/DTS402TC.json",
-    "DTSTC|AAC - Data Science/DTS403TC.json",
-    "DTSTC|AAC - Data Science/DTS404TC.json",
-    "DTSTC|AAC - Data Science/DTS405TC.json",
-    "DTSTC|AAC - Data Science/DTS406TC.json",
-    "DTSTC|AAC - Data Science/DTS407TC.json",
-    "DTSTC|AAC - Data Science/DTS408TC.json",
-    "DTSTC|AAC - Data Science/DTS409TC.json",
-    "DTSTC|AAC - Data Science/DTS410TC.json",
-    "DTSTC|AAC - Data Science/DTS411TC.json",
     "EAP|ELC - English for Academic Purposes",
     "EAP|ELC - English for Academic Purposes/EAP039.json",
     "EAP|ELC - English for Academic Purposes/EAP041.json",
@@ -1205,36 +1086,6 @@
     "INS|INS - International Studies/INS420.json",
     "INS|INS - International Studies/INS421.json",
     "INT|INT - Intelligent Science",
-    "INT|INT - Intelligent Science/INT101.json",
-    "INT|INT - Intelligent Science/INT102.json",
-    "INT|INT - Intelligent Science/INT104.json",
-    "INT|INT - Intelligent Science/INT105.json",
-    "INT|INT - Intelligent Science/INT106.json",
-    "INT|INT - Intelligent Science/INT201.json",
-    "INT|INT - Intelligent Science/INT202.json",
-    "INT|INT - Intelligent Science/INT203.json",
-    "INT|INT - Intelligent Science/INT204.json",
-    "INT|INT - Intelligent Science/INT205.json",
-    "INT|INT - Intelligent Science/INT206.json",
-    "INT|INT - Intelligent Science/INT301.json",
-    "INT|INT - Intelligent Science/INT302.json",
-    "INT|INT - Intelligent Science/INT303.json",
-    "INT|INT - Intelligent Science/INT304.json",
-    "INT|INT - Intelligent Science/INT305.json",
-    "INT|INT - Intelligent Science/INT306.json",
-    "INT|INT - Intelligent Science/INT307.json",
-    "INT|INT - Intelligent Science/INT309.json",
-    "INT|INT - Intelligent Science/INT310.json",
-    "INT|INT - Intelligent Science/INT311.json",
-    "INT|INT - Intelligent Science/INT401.json",
-    "INT|INT - Intelligent Science/INT402.json",
-    "INT|INT - Intelligent Science/INT403.json",
-    "INT|INT - Intelligent Science/INT404.json",
-    "INT|INT - Intelligent Science/INT405.json",
-    "INT|INT - Intelligent Science/INT406.json",
-    "INT|INT - Intelligent Science/INT408.json",
-    "INT|INT - Intelligent Science/INT410.json",
-    "INT|INT - Intelligent Science/INT411.json",
     "IOM|IOM - Intelligent Operations and Marketing",
     "IOM|IOM - Intelligent Operations and Marketing/IOM006.json",
     "IOM|IOM - Intelligent Operations and Marketing/IOM101.json",
@@ -1620,22 +1471,18 @@
     "LNG|LNG - Applied Linguistics/LNG423.json",
     "MEC|MEC - Mechatronics and Robotics",
     "MEC|MEC - Mechatronics and Robotics/MEC103.json",
-    "MEC|MEC - Mechatronics and Robotics/MEC104.json",
     "MEC|MEC - Mechatronics and Robotics/MEC106.json",
     "MEC|MEC - Mechatronics and Robotics/MEC108.json",
-    "MEC|MEC - Mechatronics and Robotics/MEC202.json",
     "MEC|MEC - Mechatronics and Robotics/MEC203.json",
     "MEC|MEC - Mechatronics and Robotics/MEC204.json",
     "MEC|MEC - Mechatronics and Robotics/MEC206.json",
     "MEC|MEC - Mechatronics and Robotics/MEC208.json",
     "MEC|MEC - Mechatronics and Robotics/MEC301.json",
-    "MEC|MEC - Mechatronics and Robotics/MEC302.json",
     "MEC|MEC - Mechatronics and Robotics/MEC303.json",
     "MEC|MEC - Mechatronics and Robotics/MEC304.json",
     "MEC|MEC - Mechatronics and Robotics/MEC305.json",
     "MEC|MEC - Mechatronics and Robotics/MEC306.json",
     "MEC|MEC - Mechatronics and Robotics/MEC307.json",
-    "MEC|MEC - Mechatronics and Robotics/MEC309.json",
     "MEC|MEC - Mechatronics and Robotics/MEC401.json",
     "MEC|MEC - Mechatronics and Robotics/MEC402.json",
     "MESTC|CHP - Microelectronic Science and Engineering",
@@ -2376,18 +2223,6 @@
     "RBETC|IRE - Robotics/RBE413TC.json",
     "RBETC|IRE - Robotics/RBE414TC.json",
     "SAT|SAT - Advanced Technology",
-    "SAT|SAT - Advanced Technology/SAT005.json",
-    "SAT|SAT - Advanced Technology/SAT006.json",
-    "SAT|SAT - Advanced Technology/SAT101.json",
-    "SAT|SAT - Advanced Technology/SAT102.json",
-    "SAT|SAT - Advanced Technology/SAT301.json",
-    "SAT|SAT - Advanced Technology/SAT404.json",
-    "SAT|SAT - Advanced Technology/SAT405.json",
-    "SAT|SAT - Advanced Technology/SAT406.json",
-    "SAT|SAT - Advanced Technology/SAT408.json",
-    "SAT|SAT - Advanced Technology/SAT409.json",
-    "SAT|SAT - Advanced Technology/SAT410.json",
-    "SAT|SAT - Advanced Technology/SAT411.json",
     "SCI|SCI - Science",
     "SCI|SCI - Science/SCI003.json",
     "SCI|SCI - Science/SCI004.json",
@@ -2525,20 +2360,8 @@
     "UPD|UPD - Urban Planning and Design/UPD410.json",
     "XPU|LIFE - XIPU AI general education"
   ],
-  "module_file_count": 2449,
+  "module_file_count": 2285,
   "modules": [
-    {
-      "full_name": "Exploring the Applications of AI and Large Language Models",
-      "module_code": "AAC001TC",
-      "module_level": "Level 0",
-      "path": "AAC|AAC - School of AI and Advanced Computing/AAC001TC.json"
-    },
-    {
-      "full_name": "Artificial Intelligence in Practice",
-      "module_code": "AAC002TC",
-      "module_level": "Level 0",
-      "path": "AAC|AAC - School of AI and Advanced Computing/AAC002TC.json"
-    },
     {
       "full_name": "Trends in Contemporary Accounting",
       "module_code": "ACC002",
@@ -3776,172 +3599,10 @@
       "path": "BUS|IBSS - International Business School/BUS303.json"
     },
     {
-      "full_name": "Electromagnetism and Electromechanics",
-      "module_code": "CAN102",
-      "module_level": "Level 1",
-      "path": "CAN|CAN - Communications and Networking/CAN102.json"
-    },
-    {
-      "full_name": "Introduction to Networking",
-      "module_code": "CAN201",
-      "module_level": "Level 2",
-      "path": "CAN|CAN - Communications and Networking/CAN201.json"
-    },
-    {
-      "full_name": "Analogue and Digital Communications I",
-      "module_code": "CAN202",
-      "module_level": "Level 2",
-      "path": "CAN|CAN - Communications and Networking/CAN202.json"
-    },
-    {
       "full_name": "RF Engineering and Applied Electromagnetics",
       "module_code": "CAN206",
       "module_level": "Level 2",
       "path": "CAN|CAN - Communications and Networking/CAN206.json"
-    },
-    {
-      "full_name": "Continuous and Discrete Time Signals and Systems",
-      "module_code": "CAN207",
-      "module_level": "Level 2",
-      "path": "CAN|CAN - Communications and Networking/CAN207.json"
-    },
-    {
-      "full_name": "Advanced Electrical Circuits and Electromagnetics",
-      "module_code": "CAN209",
-      "module_level": "Level 2",
-      "path": "CAN|CAN - Communications and Networking/CAN209.json"
-    },
-    {
-      "full_name": "Digital Signal Processing",
-      "module_code": "CAN210",
-      "module_level": "Level 2",
-      "path": "CAN|CAN - Communications and Networking/CAN210.json"
-    },
-    {
-      "full_name": "Signal Processing and Information Theory",
-      "module_code": "CAN211",
-      "module_level": "Level 2",
-      "path": "CAN|CAN - Communications and Networking/CAN211.json"
-    },
-    {
-      "full_name": "Mobile Computing",
-      "module_code": "CAN301",
-      "module_level": "Level 3",
-      "path": "CAN|CAN - Communications and Networking/CAN301.json"
-    },
-    {
-      "full_name": "Technologies for E-Commerce",
-      "module_code": "CAN302",
-      "module_level": "Level 3",
-      "path": "CAN|CAN - Communications and Networking/CAN302.json"
-    },
-    {
-      "full_name": "Analogue and Digital Communications II",
-      "module_code": "CAN303",
-      "module_level": "Level 3",
-      "path": "CAN|CAN - Communications and Networking/CAN303.json"
-    },
-    {
-      "full_name": "Computer Systems Security",
-      "module_code": "CAN304",
-      "module_level": "Level 3",
-      "path": "CAN|CAN - Communications and Networking/CAN304.json"
-    },
-    {
-      "full_name": "Photonics and Optical Communication Systems",
-      "module_code": "CAN306",
-      "module_level": "Level 3",
-      "path": "CAN|CAN - Communications and Networking/CAN306.json"
-    },
-    {
-      "full_name": "Radio Propagation and Microwave Circuits",
-      "module_code": "CAN307",
-      "module_level": "Level 3",
-      "path": "CAN|CAN - Communications and Networking/CAN307.json"
-    },
-    {
-      "full_name": "Wireless systems",
-      "module_code": "CAN308",
-      "module_level": "Level 3",
-      "path": "CAN|CAN - Communications and Networking/CAN308.json"
-    },
-    {
-      "full_name": "Information Theory and Data Communications",
-      "module_code": "CAN309",
-      "module_level": "Level 3",
-      "path": "CAN|CAN - Communications and Networking/CAN309.json"
-    },
-    {
-      "full_name": "Signal Processing and Digital Filtering",
-      "module_code": "CAN310",
-      "module_level": "Level 3",
-      "path": "CAN|CAN - Communications and Networking/CAN310.json"
-    },
-    {
-      "full_name": "Wireless Sensor Networks-based IoT",
-      "module_code": "CAN311",
-      "module_level": "Level 3",
-      "path": "CAN|CAN - Communications and Networking/CAN311.json"
-    },
-    {
-      "full_name": "Applied Electromagnetics and Antennas",
-      "module_code": "CAN312",
-      "module_level": "Level 3",
-      "path": "CAN|CAN - Communications and Networking/CAN312.json"
-    },
-    {
-      "full_name": "Cloud Computing",
-      "module_code": "CAN401",
-      "module_level": "Level 4",
-      "path": "CAN|CAN - Communications and Networking/CAN401.json"
-    },
-    {
-      "full_name": "Social Web Programming",
-      "module_code": "CAN402",
-      "module_level": "Level 4",
-      "path": "CAN|CAN - Communications and Networking/CAN402.json"
-    },
-    {
-      "full_name": "Advanced Signal Processing",
-      "module_code": "CAN403",
-      "module_level": "Level 4",
-      "path": "CAN|CAN - Communications and Networking/CAN403.json"
-    },
-    {
-      "full_name": "Social Network Analysis",
-      "module_code": "CAN404",
-      "module_level": "Level 4",
-      "path": "CAN|CAN - Communications and Networking/CAN404.json"
-    },
-    {
-      "full_name": "Data Communication and Communication Networks",
-      "module_code": "CAN405",
-      "module_level": "Level 4",
-      "path": "CAN|CAN - Communications and Networking/CAN405.json"
-    },
-    {
-      "full_name": "Multimedia Communications",
-      "module_code": "CAN406",
-      "module_level": "Level 4",
-      "path": "CAN|CAN - Communications and Networking/CAN406.json"
-    },
-    {
-      "full_name": "Mobile Communications",
-      "module_code": "CAN407",
-      "module_level": "Level 4",
-      "path": "CAN|CAN - Communications and Networking/CAN407.json"
-    },
-    {
-      "full_name": "Coding and Cryptography",
-      "module_code": "CAN408",
-      "module_level": "Level 4",
-      "path": "CAN|CAN - Communications and Networking/CAN408.json"
-    },
-    {
-      "full_name": "Information Security",
-      "module_code": "CAN409",
-      "module_level": "Level 4",
-      "path": "CAN|CAN - Communications and Networking/CAN409.json"
     },
     {
       "full_name": "Exploring Game Design Concept Generation",
@@ -5330,216 +4991,6 @@
       "path": "COM|COM - Media and Communication/COM421.json"
     },
     {
-      "full_name": "Foundations and Professional Practice in Computer Science",
-      "module_code": "CPT001",
-      "module_level": "Level 0",
-      "path": "CPT|CPT - Computing/CPT001.json"
-    },
-    {
-      "full_name": "Computer Systems",
-      "module_code": "CPT101",
-      "module_level": "Level 1",
-      "path": "CPT|CPT - Computing/CPT101.json"
-    },
-    {
-      "full_name": "Data Structures",
-      "module_code": "CPT102",
-      "module_level": "Level 1",
-      "path": "CPT|CPT - Computing/CPT102.json"
-    },
-    {
-      "full_name": "Introduction to Databases",
-      "module_code": "CPT103",
-      "module_level": "Level 1",
-      "path": "CPT|CPT - Computing/CPT103.json"
-    },
-    {
-      "full_name": "Operating Systems Concepts",
-      "module_code": "CPT104",
-      "module_level": "Level 1",
-      "path": "CPT|CPT - Computing/CPT104.json"
-    },
-    {
-      "full_name": "Introduction to Programming in Java",
-      "module_code": "CPT105",
-      "module_level": "Level 1",
-      "path": "CPT|CPT - Computing/CPT105.json"
-    },
-    {
-      "full_name": "Discrete Mathematics and Statistics",
-      "module_code": "CPT107",
-      "module_level": "Level 1",
-      "path": "CPT|CPT - Computing/CPT107.json"
-    },
-    {
-      "full_name": "Data Structures and Algorithms",
-      "module_code": "CPT108",
-      "module_level": "Level 1",
-      "path": "CPT|CPT - Computing/CPT108.json"
-    },
-    {
-      "full_name": "C Programming and Software Engineering",
-      "module_code": "CPT109",
-      "module_level": "Level 1",
-      "path": "CPT|CPT - Computing/CPT109.json"
-    },
-    {
-      "full_name": "Java Programming",
-      "module_code": "CPT111",
-      "module_level": "Level 1",
-      "path": "CPT|CPT - Computing/CPT111.json"
-    },
-    {
-      "full_name": "C/C++ Programming",
-      "module_code": "CPT112",
-      "module_level": "Level 1",
-      "path": "CPT|CPT - Computing/CPT112.json"
-    },
-    {
-      "full_name": "Database Development and Design",
-      "module_code": "CPT201",
-      "module_level": "Level 2",
-      "path": "CPT|CPT - Computing/CPT201.json"
-    },
-    {
-      "full_name": "Software Engineering Group Project",
-      "module_code": "CPT202",
-      "module_level": "Level 2",
-      "path": "CPT|CPT - Computing/CPT202.json"
-    },
-    {
-      "full_name": "Software Engineering I",
-      "module_code": "CPT203",
-      "module_level": "Level 2",
-      "path": "CPT|CPT - Computing/CPT203.json"
-    },
-    {
-      "full_name": "Advanced OO Programming",
-      "module_code": "CPT204",
-      "module_level": "Level 2",
-      "path": "CPT|CPT - Computing/CPT204.json"
-    },
-    {
-      "full_name": "Computer Graphics",
-      "module_code": "CPT205",
-      "module_level": "Level 2",
-      "path": "CPT|CPT - Computing/CPT205.json"
-    },
-    {
-      "full_name": "Human-Centric Computing",
-      "module_code": "CPT208",
-      "module_level": "Level 2",
-      "path": "CPT|CPT - Computing/CPT208.json"
-    },
-    {
-      "full_name": "Microprocessor Systems",
-      "module_code": "CPT210",
-      "module_level": "Level 2",
-      "path": "CPT|CPT - Computing/CPT210.json"
-    },
-    {
-      "full_name": "Formal Methods",
-      "module_code": "CPT301",
-      "module_level": "Level 3",
-      "path": "CPT|CPT - Computing/CPT301.json"
-    },
-    {
-      "full_name": "Multi-Agent Systems",
-      "module_code": "CPT302",
-      "module_level": "Level 3",
-      "path": "CPT|CPT - Computing/CPT302.json"
-    },
-    {
-      "full_name": "Software Engineering II",
-      "module_code": "CPT304",
-      "module_level": "Level 3",
-      "path": "CPT|CPT - Computing/CPT304.json"
-    },
-    {
-      "full_name": "Game Design Theory and Practice",
-      "module_code": "CPT306",
-      "module_level": "Level 3",
-      "path": "CPT|CPT - Computing/CPT306.json"
-    },
-    {
-      "full_name": "Advanced Operating System and Programming",
-      "module_code": "CPT307",
-      "module_level": "Level 3",
-      "path": "CPT|CPT - Computing/CPT307.json"
-    },
-    {
-      "full_name": "Research Methods",
-      "module_code": "CPT401",
-      "module_level": "Level 4",
-      "path": "CPT|CPT - Computing/CPT401.json"
-    },
-    {
-      "full_name": "Software Architectures",
-      "module_code": "CPT402",
-      "module_level": "Level 4",
-      "path": "CPT|CPT - Computing/CPT402.json"
-    },
-    {
-      "full_name": "Object Oriented Programming",
-      "module_code": "CPT403",
-      "module_level": "Level 4",
-      "path": "CPT|CPT - Computing/CPT403.json"
-    },
-    {
-      "full_name": "Technological Project Management",
-      "module_code": "CPT404",
-      "module_level": "Level 4",
-      "path": "CPT|CPT - Computing/CPT404.json"
-    },
-    {
-      "full_name": "Interactive Systems",
-      "module_code": "CPT405",
-      "module_level": "Level 4",
-      "path": "CPT|CPT - Computing/CPT405.json"
-    },
-    {
-      "full_name": "Artificial Intelligence",
-      "module_code": "CPT406",
-      "module_level": "Level 4",
-      "path": "CPT|CPT - Computing/CPT406.json"
-    },
-    {
-      "full_name": "Databases and Data Management",
-      "module_code": "CPT407",
-      "module_level": "Level 4",
-      "path": "CPT|CPT - Computing/CPT407.json"
-    },
-    {
-      "full_name": "Game Design and Development",
-      "module_code": "CPT408",
-      "module_level": "Level 4",
-      "path": "CPT|CPT - Computing/CPT408.json"
-    },
-    {
-      "full_name": "Research Project Management",
-      "module_code": "CPT409",
-      "module_level": "Level 4",
-      "path": "CPT|CPT - Computing/CPT409.json"
-    },
-    {
-      "full_name": "Evaluation Methods and Statistics",
-      "module_code": "CPT411",
-      "module_level": "Level 4",
-      "path": "CPT|CPT - Computing/CPT411.json"
-    },
-    {
-      "full_name": "Human-Robot Interaction",
-      "module_code": "CPT412",
-      "module_level": "Level 4",
-      "path": "CPT|CPT - Computing/CPT412.json"
-    },
-    {
-      "full_name": "Information Visualization",
-      "module_code": "CPT413",
-      "module_level": "Level 4",
-      "path": "CPT|CPT - Computing/CPT413.json"
-    },
-    {
       "full_name": "Affective Computing",
       "module_code": "CPT414",
       "module_level": "Level 4",
@@ -5550,24 +5001,6 @@
       "module_code": "CPT415",
       "module_level": "Level 4",
       "path": "CPT|CPT - Computing/CPT415.json"
-    },
-    {
-      "full_name": "Animation Technology for Games and Interactive Media",
-      "module_code": "CPT416",
-      "module_level": "Level 4",
-      "path": "CPT|CPT - Computing/CPT416.json"
-    },
-    {
-      "full_name": "Affective Computing",
-      "module_code": "CPT417",
-      "module_level": "Level 4",
-      "path": "CPT|CPT - Computing/CPT417.json"
-    },
-    {
-      "full_name": "Human-AI Interaction",
-      "module_code": "CPT418",
-      "module_level": "Level 4",
-      "path": "CPT|CPT - Computing/CPT418.json"
     },
     {
       "full_name": "Design Thinking",
@@ -5700,312 +5133,6 @@
       "module_code": "DES409",
       "module_level": "Level 4",
       "path": "DES|DES - Design/DES409.json"
-    },
-    {
-      "full_name": "Introduction to Python",
-      "module_code": "DTS002TC",
-      "module_level": "Level 0",
-      "path": "DTSTC|AAC - Data Science/DTS002TC.json"
-    },
-    {
-      "full_name": "Introduction to AI",
-      "module_code": "DTS004TC",
-      "module_level": "Level 0",
-      "path": "DTSTC|AAC - Data Science/DTS004TC.json"
-    },
-    {
-      "full_name": "Programming with C++",
-      "module_code": "DTS102TC",
-      "module_level": "Level 1",
-      "path": "DTSTC|AAC - Data Science/DTS102TC.json"
-    },
-    {
-      "full_name": "Data Structure and Algorithms",
-      "module_code": "DTS103TC",
-      "module_level": "Level 1",
-      "path": "DTSTC|AAC - Data Science/DTS103TC.json"
-    },
-    {
-      "full_name": "Numerical Methods",
-      "module_code": "DTS104TC",
-      "module_level": "Level 1",
-      "path": "DTSTC|AAC - Data Science/DTS104TC.json"
-    },
-    {
-      "full_name": "Introduction to Databases",
-      "module_code": "DTS106TC",
-      "module_level": "Level 1",
-      "path": "DTSTC|AAC - Data Science/DTS106TC.json"
-    },
-    {
-      "full_name": "Python for AI",
-      "module_code": "DTS107TC",
-      "module_level": "Level 1",
-      "path": "DTSTC|AAC - Data Science/DTS107TC.json"
-    },
-    {
-      "full_name": "Object-Oriented Programming",
-      "module_code": "DTS108TC",
-      "module_level": "Level 1",
-      "path": "DTSTC|AAC - Data Science/DTS108TC.json"
-    },
-    {
-      "full_name": "Mathematics for AI and Data Science",
-      "module_code": "DTS109TC",
-      "module_level": "Level 1",
-      "path": "DTSTC|AAC - Data Science/DTS109TC.json"
-    },
-    {
-      "full_name": "Technology Fundamentals and Perspectives for AI and Big Data Industry",
-      "module_code": "DTS110TC",
-      "module_level": "Level 1",
-      "path": "DTSTC|AAC - Data Science/DTS110TC.json"
-    },
-    {
-      "full_name": "Computer Architecture and Operating Systems",
-      "module_code": "DTS111TC",
-      "module_level": "Level 1",
-      "path": "DTSTC|AAC - Data Science/DTS111TC.json"
-    },
-    {
-      "full_name": "Data Modelling Techniques",
-      "module_code": "DTS112TC",
-      "module_level": "Level 1",
-      "path": "DTSTC|AAC - Data Science/DTS112TC.json"
-    },
-    {
-      "full_name": "AI software engineering",
-      "module_code": "DTS114TC",
-      "module_level": "Level 1",
-      "path": "DTSTC|AAC - Data Science/DTS114TC.json"
-    },
-    {
-      "full_name": "Intelligent User Interaction",
-      "module_code": "DTS115TC",
-      "module_level": "Level 1",
-      "path": "DTSTC|AAC - Data Science/DTS115TC.json"
-    },
-    {
-      "full_name": "Pattern Recognition and Computer Vision",
-      "module_code": "DTS201TC",
-      "module_level": "Level 2",
-      "path": "DTSTC|AAC - Data Science/DTS201TC.json"
-    },
-    {
-      "full_name": "Fundamentals of Parallel Computing",
-      "module_code": "DTS202TC",
-      "module_level": "Level 2",
-      "path": "DTSTC|AAC - Data Science/DTS202TC.json"
-    },
-    {
-      "full_name": "Applied Linear Statistical Models",
-      "module_code": "DTS206TC",
-      "module_level": "Level 2",
-      "path": "DTSTC|AAC - Data Science/DTS206TC.json"
-    },
-    {
-      "full_name": "Database Development and Design",
-      "module_code": "DTS207TC",
-      "module_level": "Level 2",
-      "path": "DTSTC|AAC - Data Science/DTS207TC.json"
-    },
-    {
-      "full_name": "Data Analytics and Visualisation",
-      "module_code": "DTS208TC",
-      "module_level": "Level 2",
-      "path": "DTSTC|AAC - Data Science/DTS208TC.json"
-    },
-    {
-      "full_name": "Signal and Image Processing",
-      "module_code": "DTS209TC",
-      "module_level": "Level 2",
-      "path": "DTSTC|AAC - Data Science/DTS209TC.json"
-    },
-    {
-      "full_name": "Deep Learning",
-      "module_code": "DTS211TC",
-      "module_level": "Level 2",
-      "path": "DTSTC|AAC - Data Science/DTS211TC.json"
-    },
-    {
-      "full_name": "Optimisation",
-      "module_code": "DTS212TC",
-      "module_level": "Level 2",
-      "path": "DTSTC|AAC - Data Science/DTS212TC.json"
-    },
-    {
-      "full_name": "Multi-Agent Systems",
-      "module_code": "DTS213TC",
-      "module_level": "Level 2",
-      "path": "DTSTC|AAC - Data Science/DTS213TC.json"
-    },
-    {
-      "full_name": "Networking and Distributed Computing",
-      "module_code": "DTS214TC",
-      "module_level": "Level 2",
-      "path": "DTSTC|AAC - Data Science/DTS214TC.json"
-    },
-    {
-      "full_name": "AI in Autonomous Vehicles",
-      "module_code": "DTS215TC",
-      "module_level": "Level 2",
-      "path": "DTSTC|AAC - Data Science/DTS215TC.json"
-    },
-    {
-      "full_name": "AI in Healthcare and Biomedical Engineering",
-      "module_code": "DTS216TC",
-      "module_level": "Level 2",
-      "path": "DTSTC|AAC - Data Science/DTS216TC.json"
-    },
-    {
-      "full_name": "AI in XR, Gaming and Entertainment Industry",
-      "module_code": "DTS217TC",
-      "module_level": "Level 2",
-      "path": "DTSTC|AAC - Data Science/DTS217TC.json"
-    },
-    {
-      "full_name": "AI for Multimodal data",
-      "module_code": "DTS218TC",
-      "module_level": "Level 2",
-      "path": "DTSTC|AAC - Data Science/DTS218TC.json"
-    },
-    {
-      "full_name": "Machine Learning",
-      "module_code": "DTS219TC",
-      "module_level": "Level 2",
-      "path": "DTSTC|AAC - Data Science/DTS219TC.json"
-    },
-    {
-      "full_name": "Machine Learning",
-      "module_code": "DTS304TC",
-      "module_level": "Level 3",
-      "path": "DTSTC|AAC - Data Science/DTS304TC.json"
-    },
-    {
-      "full_name": "Natural Language Processing",
-      "module_code": "DTS305TC",
-      "module_level": "Level 3",
-      "path": "DTSTC|AAC - Data Science/DTS305TC.json"
-    },
-    {
-      "full_name": "Security, Privacy and Ethics",
-      "module_code": "DTS306TC",
-      "module_level": "Level 3",
-      "path": "DTSTC|AAC - Data Science/DTS306TC.json"
-    },
-    {
-      "full_name": "Reinforcement Learning",
-      "module_code": "DTS307TC",
-      "module_level": "Level 3",
-      "path": "DTSTC|AAC - Data Science/DTS307TC.json"
-    },
-    {
-      "full_name": "Final Year Project",
-      "module_code": "DTS308TC",
-      "module_level": "Level 3",
-      "path": "DTSTC|AAC - Data Science/DTS308TC.json"
-    },
-    {
-      "full_name": "Generative AI",
-      "module_code": "DTS309TC",
-      "module_level": "Level 3",
-      "path": "DTSTC|AAC - Data Science/DTS309TC.json"
-    },
-    {
-      "full_name": "Time Series Data Analysis",
-      "module_code": "DTS310TC",
-      "module_level": "Level 3",
-      "path": "DTSTC|AAC - Data Science/DTS310TC.json"
-    },
-    {
-      "full_name": "Final Year Project",
-      "module_code": "DTS311TC",
-      "module_level": "Level 3",
-      "path": "DTSTC|AAC - Data Science/DTS311TC.json"
-    },
-    {
-      "full_name": "AI in Smart Cities",
-      "module_code": "DTS312TC",
-      "module_level": "Level 3",
-      "path": "DTSTC|AAC - Data Science/DTS312TC.json"
-    },
-    {
-      "full_name": "Intelligent Robotics",
-      "module_code": "DTS313TC",
-      "module_level": "Level 3",
-      "path": "DTSTC|AAC - Data Science/DTS313TC.json"
-    },
-    {
-      "full_name": "Data Mining/Knowledge Discovery in Databases",
-      "module_code": "DTS314TC",
-      "module_level": "Level 3",
-      "path": "DTSTC|AAC - Data Science/DTS314TC.json"
-    },
-    {
-      "full_name": "Fundamentals of Artificial Intelligence",
-      "module_code": "DTS401TC",
-      "module_level": "Level 4",
-      "path": "DTSTC|AAC - Data Science/DTS401TC.json"
-    },
-    {
-      "full_name": "Machine Learning",
-      "module_code": "DTS402TC",
-      "module_level": "Level 4",
-      "path": "DTSTC|AAC - Data Science/DTS402TC.json"
-    },
-    {
-      "full_name": "Applied Research Techniques and Methodologies",
-      "module_code": "DTS403TC",
-      "module_level": "Level 4",
-      "path": "DTSTC|AAC - Data Science/DTS403TC.json"
-    },
-    {
-      "full_name": "Ethics, Privacy, Artificial Intelligence in Society",
-      "module_code": "DTS404TC",
-      "module_level": "Level 4",
-      "path": "DTSTC|AAC - Data Science/DTS404TC.json"
-    },
-    {
-      "full_name": "Image Processing and Computer Vision",
-      "module_code": "DTS405TC",
-      "module_level": "Level 4",
-      "path": "DTSTC|AAC - Data Science/DTS405TC.json"
-    },
-    {
-      "full_name": "Natural Language Processing",
-      "module_code": "DTS406TC",
-      "module_level": "Level 4",
-      "path": "DTSTC|AAC - Data Science/DTS406TC.json"
-    },
-    {
-      "full_name": "Large Model Techniques",
-      "module_code": "DTS407TC",
-      "module_level": "Level 4",
-      "path": "DTSTC|AAC - Data Science/DTS407TC.json"
-    },
-    {
-      "full_name": "Big Data Mining, Analysis, and Management",
-      "module_code": "DTS408TC",
-      "module_level": "Level 4",
-      "path": "DTSTC|AAC - Data Science/DTS408TC.json"
-    },
-    {
-      "full_name": "Reinforcement Learning and its Applications",
-      "module_code": "DTS409TC",
-      "module_level": "Level 4",
-      "path": "DTSTC|AAC - Data Science/DTS409TC.json"
-    },
-    {
-      "full_name": "Generative Artificial Intelligence",
-      "module_code": "DTS410TC",
-      "module_level": "Level 4",
-      "path": "DTSTC|AAC - Data Science/DTS410TC.json"
-    },
-    {
-      "full_name": "Dissertation Project",
-      "module_code": "DTS411TC",
-      "module_level": "Level 4",
-      "path": "DTSTC|AAC - Data Science/DTS411TC.json"
     },
     {
       "full_name": "Foundation English for Academic Purposes",
@@ -9524,186 +8651,6 @@
       "path": "INS|INS - International Studies/INS421.json"
     },
     {
-      "full_name": "Python for AI",
-      "module_code": "INT101",
-      "module_level": "Level 1",
-      "path": "INT|INT - Intelligent Science/INT101.json"
-    },
-    {
-      "full_name": "Algorithmic Foundations and Problem Solving",
-      "module_code": "INT102",
-      "module_level": "Level 1",
-      "path": "INT|INT - Intelligent Science/INT102.json"
-    },
-    {
-      "full_name": "Artificial Intelligence",
-      "module_code": "INT104",
-      "module_level": "Level 1",
-      "path": "INT|INT - Intelligent Science/INT104.json"
-    },
-    {
-      "full_name": "AI Fundamentals & Ethics",
-      "module_code": "INT105",
-      "module_level": "Level 1",
-      "path": "INT|INT - Intelligent Science/INT105.json"
-    },
-    {
-      "full_name": "Maths for Machine Learning",
-      "module_code": "INT106",
-      "module_level": "Level 1",
-      "path": "INT|INT - Intelligent Science/INT106.json"
-    },
-    {
-      "full_name": "Decision Computation and Language",
-      "module_code": "INT201",
-      "module_level": "Level 2",
-      "path": "INT|INT - Intelligent Science/INT201.json"
-    },
-    {
-      "full_name": "Complexity of Algorithms",
-      "module_code": "INT202",
-      "module_level": "Level 2",
-      "path": "INT|INT - Intelligent Science/INT202.json"
-    },
-    {
-      "full_name": "Principles of Machine Learning",
-      "module_code": "INT203",
-      "module_level": "Level 2",
-      "path": "INT|INT - Intelligent Science/INT203.json"
-    },
-    {
-      "full_name": "Data Engineering",
-      "module_code": "INT204",
-      "module_level": "Level 2",
-      "path": "INT|INT - Intelligent Science/INT204.json"
-    },
-    {
-      "full_name": "AI Agents",
-      "module_code": "INT205",
-      "module_level": "Level 2",
-      "path": "INT|INT - Intelligent Science/INT205.json"
-    },
-    {
-      "full_name": "Deep Learning",
-      "module_code": "INT206",
-      "module_level": "Level 2",
-      "path": "INT|INT - Intelligent Science/INT206.json"
-    },
-    {
-      "full_name": "Bio-Computation",
-      "module_code": "INT301",
-      "module_level": "Level 3",
-      "path": "INT|INT - Intelligent Science/INT301.json"
-    },
-    {
-      "full_name": "Image Processing",
-      "module_code": "INT302",
-      "module_level": "Level 3",
-      "path": "INT|INT - Intelligent Science/INT302.json"
-    },
-    {
-      "full_name": "Big Data Analytics",
-      "module_code": "INT303",
-      "module_level": "Level 3",
-      "path": "INT|INT - Intelligent Science/INT303.json"
-    },
-    {
-      "full_name": "Pattern Recognition in Computer Vision",
-      "module_code": "INT304",
-      "module_level": "Level 3",
-      "path": "INT|INT - Intelligent Science/INT304.json"
-    },
-    {
-      "full_name": "Machine Learning",
-      "module_code": "INT305",
-      "module_level": "Level 3",
-      "path": "INT|INT - Intelligent Science/INT305.json"
-    },
-    {
-      "full_name": "Computer Auditory Systems",
-      "module_code": "INT306",
-      "module_level": "Level 3",
-      "path": "INT|INT - Intelligent Science/INT306.json"
-    },
-    {
-      "full_name": "Multimedia Security Systems",
-      "module_code": "INT307",
-      "module_level": "Level 3",
-      "path": "INT|INT - Intelligent Science/INT307.json"
-    },
-    {
-      "full_name": "Multimedia Information Retrieval and Technology",
-      "module_code": "INT309",
-      "module_level": "Level 3",
-      "path": "INT|INT - Intelligent Science/INT309.json"
-    },
-    {
-      "full_name": "AI Security",
-      "module_code": "INT310",
-      "module_level": "Level 3",
-      "path": "INT|INT - Intelligent Science/INT310.json"
-    },
-    {
-      "full_name": "Principles of Natural Language Processing",
-      "module_code": "INT311",
-      "module_level": "Level 3",
-      "path": "INT|INT - Intelligent Science/INT311.json"
-    },
-    {
-      "full_name": "Fundamentals of Machine Learning",
-      "module_code": "INT401",
-      "module_level": "Level 4",
-      "path": "INT|INT - Intelligent Science/INT401.json"
-    },
-    {
-      "full_name": "Data Mining and Big Data Analytics",
-      "module_code": "INT402",
-      "module_level": "Level 4",
-      "path": "INT|INT - Intelligent Science/INT402.json"
-    },
-    {
-      "full_name": "Spoken Language Processing",
-      "module_code": "INT403",
-      "module_level": "Level 4",
-      "path": "INT|INT - Intelligent Science/INT403.json"
-    },
-    {
-      "full_name": "Image and Video Processing",
-      "module_code": "INT404",
-      "module_level": "Level 4",
-      "path": "INT|INT - Intelligent Science/INT404.json"
-    },
-    {
-      "full_name": "Natural Language Processing",
-      "module_code": "INT405",
-      "module_level": "Level 4",
-      "path": "INT|INT - Intelligent Science/INT405.json"
-    },
-    {
-      "full_name": "Data Mining and Machine Learning",
-      "module_code": "INT406",
-      "module_level": "Level 4",
-      "path": "INT|INT - Intelligent Science/INT406.json"
-    },
-    {
-      "full_name": "Deep Learning in Computer Vision",
-      "module_code": "INT408",
-      "module_level": "Level 4",
-      "path": "INT|INT - Intelligent Science/INT408.json"
-    },
-    {
-      "full_name": "Advanced Pattern Recognition",
-      "module_code": "INT410",
-      "module_level": "Level 4",
-      "path": "INT|INT - Intelligent Science/INT410.json"
-    },
-    {
-      "full_name": "Reinforcement Learning",
-      "module_code": "INT411",
-      "module_level": "Level 4",
-      "path": "INT|INT - Intelligent Science/INT411.json"
-    },
-    {
       "full_name": "Trends in marketing and information technology",
       "module_code": "IOM006",
       "module_level": "Level 0",
@@ -11924,12 +10871,6 @@
       "path": "MEC|MEC - Mechatronics and Robotics/MEC103.json"
     },
     {
-      "full_name": "Experimental, Computer Skills and Sustainability",
-      "module_code": "MEC104",
-      "module_level": "Level 1",
-      "path": "MEC|MEC - Mechatronics and Robotics/MEC104.json"
-    },
-    {
       "full_name": "Engineering Drawing",
       "module_code": "MEC106",
       "module_level": "Level 1",
@@ -11940,12 +10881,6 @@
       "module_code": "MEC108",
       "module_level": "Level 1",
       "path": "MEC|MEC - Mechatronics and Robotics/MEC108.json"
-    },
-    {
-      "full_name": "Industrial Awareness and Group Project",
-      "module_code": "MEC202",
-      "module_level": "Level 2",
-      "path": "MEC|MEC - Mechatronics and Robotics/MEC202.json"
     },
     {
       "full_name": "Introductory Solid Mechanics",
@@ -11978,12 +10913,6 @@
       "path": "MEC|MEC - Mechatronics and Robotics/MEC301.json"
     },
     {
-      "full_name": "Embedded Computer Systems",
-      "module_code": "MEC302",
-      "module_level": "Level 3",
-      "path": "MEC|MEC - Mechatronics and Robotics/MEC302.json"
-    },
-    {
       "full_name": "Industrial Automation and Robot Control",
       "module_code": "MEC303",
       "module_level": "Level 3",
@@ -12012,12 +10941,6 @@
       "module_code": "MEC307",
       "module_level": "Level 3",
       "path": "MEC|MEC - Mechatronics and Robotics/MEC307.json"
-    },
-    {
-      "full_name": "Professional Practice",
-      "module_code": "MEC309",
-      "module_level": "Level 3",
-      "path": "MEC|MEC - Mechatronics and Robotics/MEC309.json"
     },
     {
       "full_name": "Human-Robot Interaction",
@@ -16368,78 +15291,6 @@
       "module_code": "RBE414TC",
       "module_level": "Level 4",
       "path": "RBETC|IRE - Robotics/RBE414TC.json"
-    },
-    {
-      "full_name": "Introduction to Emerging Technologies",
-      "module_code": "SAT005",
-      "module_level": "Level 0",
-      "path": "SAT|SAT - Advanced Technology/SAT005.json"
-    },
-    {
-      "full_name": "Engineering in Society: Systems, Sustainability, and Professional Context",
-      "module_code": "SAT006",
-      "module_level": "Level 0",
-      "path": "SAT|SAT - Advanced Technology/SAT006.json"
-    },
-    {
-      "full_name": "AI Application Design",
-      "module_code": "SAT101",
-      "module_level": "Level 1",
-      "path": "SAT|SAT - Advanced Technology/SAT101.json"
-    },
-    {
-      "full_name": "Entrepreneurial Skills for Advanced Technologies",
-      "module_code": "SAT102",
-      "module_level": "Level 1",
-      "path": "SAT|SAT - Advanced Technology/SAT102.json"
-    },
-    {
-      "full_name": "Final Year Project",
-      "module_code": "SAT301",
-      "module_level": "Level 3",
-      "path": "SAT|SAT - Advanced Technology/SAT301.json"
-    },
-    {
-      "full_name": "MRes Project Preparation",
-      "module_code": "SAT404",
-      "module_level": "Level 4",
-      "path": "SAT|SAT - Advanced Technology/SAT404.json"
-    },
-    {
-      "full_name": "MRes Dissertation Project",
-      "module_code": "SAT405",
-      "module_level": "Level 4",
-      "path": "SAT|SAT - Advanced Technology/SAT405.json"
-    },
-    {
-      "full_name": "MSc Dissertation Project",
-      "module_code": "SAT406",
-      "module_level": "Level 4",
-      "path": "SAT|SAT - Advanced Technology/SAT406.json"
-    },
-    {
-      "full_name": "Artificial Intelligence for Energy Sciences",
-      "module_code": "SAT408",
-      "module_level": "Level 4",
-      "path": "SAT|SAT - Advanced Technology/SAT408.json"
-    },
-    {
-      "full_name": "Digital Twin Engineering",
-      "module_code": "SAT409",
-      "module_level": "Level 4",
-      "path": "SAT|SAT - Advanced Technology/SAT409.json"
-    },
-    {
-      "full_name": "Large-Scale Machine Learning Models for Industry",
-      "module_code": "SAT410",
-      "module_level": "Level 4",
-      "path": "SAT|SAT - Advanced Technology/SAT410.json"
-    },
-    {
-      "full_name": "Machine Learning for Industry",
-      "module_code": "SAT411",
-      "module_level": "Level 4",
-      "path": "SAT|SAT - Advanced Technology/SAT411.json"
     },
     {
       "full_name": "Scientific Communication and Integrity",
