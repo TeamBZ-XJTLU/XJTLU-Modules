@@ -1,6 +1,6 @@
 {
   "base_url": "https://modules.xjtlu.edu.cn",
-  "department_count": 70,
+  "department_count": 66,
   "error_count": 0,
   "errors": [],
   "generated_paths": [
@@ -40,102 +40,12 @@
     "ACC|ACC - Accounting/ACC419.json",
     "ACC|ACC - Accounting/ACC420.json",
     "APH|AOPHA - Academy of Pharmacy",
-    "APH|AOPHA - Academy of Pharmacy/APH002.json",
-    "APH|AOPHA - Academy of Pharmacy/APH003.json",
-    "APH|AOPHA - Academy of Pharmacy/APH004.json",
-    "APH|AOPHA - Academy of Pharmacy/APH005.json",
-    "APH|AOPHA - Academy of Pharmacy/APH007.json",
-    "APH|AOPHA - Academy of Pharmacy/APH101.json",
-    "APH|AOPHA - Academy of Pharmacy/APH103.json",
-    "APH|AOPHA - Academy of Pharmacy/APH105.json",
-    "APH|AOPHA - Academy of Pharmacy/APH106.json",
-    "APH|AOPHA - Academy of Pharmacy/APH108.json",
-    "APH|AOPHA - Academy of Pharmacy/APH109.json",
-    "APH|AOPHA - Academy of Pharmacy/APH110.json",
-    "APH|AOPHA - Academy of Pharmacy/APH111.json",
-    "APH|AOPHA - Academy of Pharmacy/APH112.json",
-    "APH|AOPHA - Academy of Pharmacy/APH113.json",
-    "APH|AOPHA - Academy of Pharmacy/APH114.json",
-    "APH|AOPHA - Academy of Pharmacy/APH115.json",
-    "APH|AOPHA - Academy of Pharmacy/APH201.json",
-    "APH|AOPHA - Academy of Pharmacy/APH203.json",
-    "APH|AOPHA - Academy of Pharmacy/APH204.json",
-    "APH|AOPHA - Academy of Pharmacy/APH205.json",
-    "APH|AOPHA - Academy of Pharmacy/APH207.json",
-    "APH|AOPHA - Academy of Pharmacy/APH211.json",
-    "APH|AOPHA - Academy of Pharmacy/APH212.json",
-    "APH|AOPHA - Academy of Pharmacy/APH213.json",
-    "APH|AOPHA - Academy of Pharmacy/APH214.json",
-    "APH|AOPHA - Academy of Pharmacy/APH215.json",
-    "APH|AOPHA - Academy of Pharmacy/APH216.json",
-    "APH|AOPHA - Academy of Pharmacy/APH217.json",
-    "APH|AOPHA - Academy of Pharmacy/APH218.json",
-    "APH|AOPHA - Academy of Pharmacy/APH219.json",
     "APH|AOPHA - Academy of Pharmacy/APH220.json",
     "APH|AOPHA - Academy of Pharmacy/APH221.json",
-    "APH|AOPHA - Academy of Pharmacy/APH222.json",
-    "APH|AOPHA - Academy of Pharmacy/APH223.json",
-    "APH|AOPHA - Academy of Pharmacy/APH224.json",
     "APH|AOPHA - Academy of Pharmacy/APH225.json",
-    "APH|AOPHA - Academy of Pharmacy/APH226.json",
-    "APH|AOPHA - Academy of Pharmacy/APH301.json",
-    "APH|AOPHA - Academy of Pharmacy/APH306.json",
-    "APH|AOPHA - Academy of Pharmacy/APH308.json",
-    "APH|AOPHA - Academy of Pharmacy/APH309.json",
-    "APH|AOPHA - Academy of Pharmacy/APH310.json",
-    "APH|AOPHA - Academy of Pharmacy/APH311.json",
-    "APH|AOPHA - Academy of Pharmacy/APH312.json",
-    "APH|AOPHA - Academy of Pharmacy/APH313.json",
-    "APH|AOPHA - Academy of Pharmacy/APH314.json",
-    "APH|AOPHA - Academy of Pharmacy/APH315.json",
-    "APH|AOPHA - Academy of Pharmacy/APH316.json",
     "APH|AOPHA - Academy of Pharmacy/APH317.json",
-    "APH|AOPHA - Academy of Pharmacy/APH318.json",
-    "APH|AOPHA - Academy of Pharmacy/APH319.json",
     "APH|AOPHA - Academy of Pharmacy/APH320.json",
-    "APH|AOPHA - Academy of Pharmacy/APH321.json",
-    "APH|AOPHA - Academy of Pharmacy/APH322.json",
-    "APH|AOPHA - Academy of Pharmacy/APH323.json",
-    "APH|AOPHA - Academy of Pharmacy/APH324.json",
-    "APH|AOPHA - Academy of Pharmacy/APH401.json",
-    "APH|AOPHA - Academy of Pharmacy/APH402.json",
-    "APH|AOPHA - Academy of Pharmacy/APH403.json",
-    "APH|AOPHA - Academy of Pharmacy/APH404.json",
-    "APH|AOPHA - Academy of Pharmacy/APH405.json",
-    "APH|AOPHA - Academy of Pharmacy/APH406.json",
-    "APH|AOPHA - Academy of Pharmacy/APH407.json",
-    "APH|AOPHA - Academy of Pharmacy/APH408.json",
-    "APH|AOPHA - Academy of Pharmacy/APH409.json",
-    "APH|AOPHA - Academy of Pharmacy/APH410.json",
-    "APH|AOPHA - Academy of Pharmacy/APH411.json",
-    "APH|AOPHA - Academy of Pharmacy/APH412.json",
-    "APH|AOPHA - Academy of Pharmacy/APH413.json",
-    "APH|AOPHA - Academy of Pharmacy/APH414.json",
-    "APH|AOPHA - Academy of Pharmacy/APH415.json",
-    "APH|AOPHA - Academy of Pharmacy/APH417.json",
-    "APH|AOPHA - Academy of Pharmacy/APH419.json",
-    "APH|AOPHA - Academy of Pharmacy/APH420.json",
-    "APH|AOPHA - Academy of Pharmacy/APH421.json",
-    "APH|AOPHA - Academy of Pharmacy/APH422.json",
-    "APH|AOPHA - Academy of Pharmacy/APH423.json",
-    "APH|AOPHA - Academy of Pharmacy/APH424.json",
-    "APH|AOPHA - Academy of Pharmacy/APH425.json",
-    "APH|AOPHA - Academy of Pharmacy/APH426.json",
-    "APH|AOPHA - Academy of Pharmacy/APH427.json",
-    "APH|AOPHA - Academy of Pharmacy/APH428.json",
-    "APH|AOPHA - Academy of Pharmacy/APH429.json",
-    "APH|AOPHA - Academy of Pharmacy/APH430.json",
-    "APH|AOPHA - Academy of Pharmacy/APH431.json",
-    "APH|AOPHA - Academy of Pharmacy/APH432.json",
-    "APH|AOPHA - Academy of Pharmacy/APH433.json",
-    "APH|AOPHA - Academy of Pharmacy/APH434.json",
-    "APH|AOPHA - Academy of Pharmacy/APH435.json",
-    "APH|AOPHA - Academy of Pharmacy/APH436.json",
-    "APH|AOPHA - Academy of Pharmacy/APH437.json",
-    "APH|AOPHA - Academy of Pharmacy/APH438.json",
-    "APH|AOPHA - Academy of Pharmacy/APH439.json",
     "ARC|ARC - Architecture",
-    "ARC|ARC - Architecture/ARC002.json",
     "ARC|ARC - Architecture/ARC003.json",
     "ARC|ARC - Architecture/ARC004.json",
     "ARC|ARC - Architecture/ARC101.json",
@@ -158,60 +68,11 @@
     "ARC|ARC - Architecture/ARC412.json",
     "ARC|ARC - Architecture/ARC413.json",
     "BIO|BIO - Biological Sciences",
-    "BIO|BIO - Biological Sciences/BIO002.json",
-    "BIO|BIO - Biological Sciences/BIO006.json",
-    "BIO|BIO - Biological Sciences/BIO101.json",
-    "BIO|BIO - Biological Sciences/BIO102.json",
-    "BIO|BIO - Biological Sciences/BIO103.json",
-    "BIO|BIO - Biological Sciences/BIO105.json",
-    "BIO|BIO - Biological Sciences/BIO106.json",
-    "BIO|BIO - Biological Sciences/BIO107.json",
-    "BIO|BIO - Biological Sciences/BIO109.json",
-    "BIO|BIO - Biological Sciences/BIO110.json",
-    "BIO|BIO - Biological Sciences/BIO112.json",
-    "BIO|BIO - Biological Sciences/BIO113.json",
-    "BIO|BIO - Biological Sciences/BIO201.json",
-    "BIO|BIO - Biological Sciences/BIO202.json",
-    "BIO|BIO - Biological Sciences/BIO203.json",
-    "BIO|BIO - Biological Sciences/BIO204.json",
-    "BIO|BIO - Biological Sciences/BIO205.json",
-    "BIO|BIO - Biological Sciences/BIO206.json",
-    "BIO|BIO - Biological Sciences/BIO207.json",
-    "BIO|BIO - Biological Sciences/BIO208.json",
-    "BIO|BIO - Biological Sciences/BIO210.json",
-    "BIO|BIO - Biological Sciences/BIO211.json",
-    "BIO|BIO - Biological Sciences/BIO212.json",
-    "BIO|BIO - Biological Sciences/BIO214.json",
-    "BIO|BIO - Biological Sciences/BIO215.json",
-    "BIO|BIO - Biological Sciences/BIO216.json",
-    "BIO|BIO - Biological Sciences/BIO217.json",
-    "BIO|BIO - Biological Sciences/BIO218.json",
-    "BIO|BIO - Biological Sciences/BIO219.json",
-    "BIO|BIO - Biological Sciences/BIO220.json",
-    "BIO|BIO - Biological Sciences/BIO221.json",
-    "BIO|BIO - Biological Sciences/BIO222.json",
-    "BIO|BIO - Biological Sciences/BIO223.json",
-    "BIO|BIO - Biological Sciences/BIO224.json",
-    "BIO|BIO - Biological Sciences/BIO301.json",
-    "BIO|BIO - Biological Sciences/BIO302.json",
-    "BIO|BIO - Biological Sciences/BIO303.json",
     "BIO|BIO - Biological Sciences/BIO304.json",
-    "BIO|BIO - Biological Sciences/BIO305.json",
-    "BIO|BIO - Biological Sciences/BIO309.json",
-    "BIO|BIO - Biological Sciences/BIO311.json",
-    "BIO|BIO - Biological Sciences/BIO312.json",
     "BIO|BIO - Biological Sciences/BIO315.json",
     "BIO|BIO - Biological Sciences/BIO316.json",
     "BIO|BIO - Biological Sciences/BIO317.json",
     "BIO|BIO - Biological Sciences/BIO318.json",
-    "BIO|BIO - Biological Sciences/BIO319.json",
-    "BIO|BIO - Biological Sciences/BIO401.json",
-    "BIO|BIO - Biological Sciences/BIO403.json",
-    "BIO|BIO - Biological Sciences/BIO404.json",
-    "BIO|BIO - Biological Sciences/BIO405.json",
-    "BIO|BIO - Biological Sciences/BIO406.json",
-    "BIO|BIO - Biological Sciences/BIO407.json",
-    "BIO|BIO - Biological Sciences/BIO408.json",
     "BNV|UPD - Built Environment",
     "BNV|UPD - Built Environment/BNV401.json",
     "BUS|IBSS - International Business School",
@@ -337,46 +198,10 @@
     "CEN|CEN - Civil Engineering/CEN422.json",
     "CEN|CEN - Civil Engineering/CEN423.json",
     "CHE|CHE - Chemistry",
-    "CHE|CHE - Chemistry/CHE002.json",
-    "CHE|CHE - Chemistry/CHE102.json",
-    "CHE|CHE - Chemistry/CHE103.json",
-    "CHE|CHE - Chemistry/CHE105.json",
-    "CHE|CHE - Chemistry/CHE106.json",
-    "CHE|CHE - Chemistry/CHE109.json",
-    "CHE|CHE - Chemistry/CHE111.json",
-    "CHE|CHE - Chemistry/CHE112.json",
-    "CHE|CHE - Chemistry/CHE113.json",
-    "CHE|CHE - Chemistry/CHE114.json",
-    "CHE|CHE - Chemistry/CHE115.json",
-    "CHE|CHE - Chemistry/CHE201.json",
-    "CHE|CHE - Chemistry/CHE202.json",
-    "CHE|CHE - Chemistry/CHE203.json",
-    "CHE|CHE - Chemistry/CHE204.json",
-    "CHE|CHE - Chemistry/CHE206.json",
-    "CHE|CHE - Chemistry/CHE207.json",
-    "CHE|CHE - Chemistry/CHE214.json",
-    "CHE|CHE - Chemistry/CHE215.json",
-    "CHE|CHE - Chemistry/CHE216.json",
-    "CHE|CHE - Chemistry/CHE218.json",
-    "CHE|CHE - Chemistry/CHE301.json",
-    "CHE|CHE - Chemistry/CHE302.json",
-    "CHE|CHE - Chemistry/CHE303.json",
-    "CHE|CHE - Chemistry/CHE309.json",
-    "CHE|CHE - Chemistry/CHE310.json",
-    "CHE|CHE - Chemistry/CHE315.json",
-    "CHE|CHE - Chemistry/CHE316.json",
-    "CHE|CHE - Chemistry/CHE317.json",
-    "CHE|CHE - Chemistry/CHE401.json",
-    "CHE|CHE - Chemistry/CHE402.json",
-    "CHE|CHE - Chemistry/CHE403.json",
     "CHE|CHE - Chemistry/CHE404.json",
-    "CHE|CHE - Chemistry/CHE405.json",
-    "CHE|CHE - Chemistry/CHE406.json",
-    "CHE|CHE - Chemistry/CHE407.json",
     "CHE|CHE - Chemistry/CHE408.json",
     "CHE|CHE - Chemistry/CHE409.json",
     "CHE|CHE - Chemistry/CHE410.json",
-    "CHE|CHE - Chemistry/CHE421.json",
     "CLT|MLC - Chinese Language",
     "CLT|MLC - Chinese Language/CLT001.json",
     "CLT|MLC - Chinese Language/CLT002.json",
@@ -460,8 +285,6 @@
     "CPT|CPT - Computing/CPT414.json",
     "CPT|CPT - Computing/CPT415.json",
     "DES|DES - Design",
-    "DES|DES - Design/DES002.json",
-    "DES|DES - Design/DES003.json",
     "DES|DES - Design/DES004.json",
     "DES|DES - Design/DES006.json",
     "DES|DES - Design/DES007.json",
@@ -772,48 +595,6 @@
     "ENT|EEH - Entrepreneurship/HXA409TC.json",
     "ENT|EEH - Entrepreneurship/HXA410TC.json",
     "ENT|EEH - Entrepreneurship/HXA411TC.json",
-    "ENV|HES - Environmental Sciences",
-    "ENV|HES - Environmental Sciences/ENV002.json",
-    "ENV|HES - Environmental Sciences/ENV101.json",
-    "ENV|HES - Environmental Sciences/ENV107.json",
-    "ENV|HES - Environmental Sciences/ENV111.json",
-    "ENV|HES - Environmental Sciences/ENV112.json",
-    "ENV|HES - Environmental Sciences/ENV113.json",
-    "ENV|HES - Environmental Sciences/ENV114.json",
-    "ENV|HES - Environmental Sciences/ENV115.json",
-    "ENV|HES - Environmental Sciences/ENV116.json",
-    "ENV|HES - Environmental Sciences/ENV117.json",
-    "ENV|HES - Environmental Sciences/ENV201.json",
-    "ENV|HES - Environmental Sciences/ENV204.json",
-    "ENV|HES - Environmental Sciences/ENV209.json",
-    "ENV|HES - Environmental Sciences/ENV212.json",
-    "ENV|HES - Environmental Sciences/ENV213.json",
-    "ENV|HES - Environmental Sciences/ENV214.json",
-    "ENV|HES - Environmental Sciences/ENV215.json",
-    "ENV|HES - Environmental Sciences/ENV216.json",
-    "ENV|HES - Environmental Sciences/ENV217.json",
-    "ENV|HES - Environmental Sciences/ENV218.json",
-    "ENV|HES - Environmental Sciences/ENV219.json",
-    "ENV|HES - Environmental Sciences/ENV220.json",
-    "ENV|HES - Environmental Sciences/ENV221.json",
-    "ENV|HES - Environmental Sciences/ENV222.json",
-    "ENV|HES - Environmental Sciences/ENV223.json",
-    "ENV|HES - Environmental Sciences/ENV224.json",
-    "ENV|HES - Environmental Sciences/ENV301.json",
-    "ENV|HES - Environmental Sciences/ENV311.json",
-    "ENV|HES - Environmental Sciences/ENV312.json",
-    "ENV|HES - Environmental Sciences/ENV313.json",
-    "ENV|HES - Environmental Sciences/ENV314.json",
-    "ENV|HES - Environmental Sciences/ENV315.json",
-    "ENV|HES - Environmental Sciences/ENV316.json",
-    "ENV|HES - Environmental Sciences/ENV317.json",
-    "ENV|HES - Environmental Sciences/ENV319.json",
-    "ENV|HES - Environmental Sciences/ENV401.json",
-    "ENV|HES - Environmental Sciences/ENV402.json",
-    "ENV|HES - Environmental Sciences/ENV403.json",
-    "ENV|HES - Environmental Sciences/ENV404.json",
-    "ENV|HES - Environmental Sciences/ENV405.json",
-    "ENV|HES - Environmental Sciences/ENV407.json",
     "FIN|FIN - Finance",
     "FIN|FIN - Finance/FIN001.json",
     "FIN|FIN - Finance/FIN002.json",
@@ -1205,7 +986,6 @@
     "JPL|MLC - Japanese Language/JPL011.json",
     "JPL|MLC - Japanese Language/JPL012.json",
     "LAN|ELC - Comprehensive Use of Language",
-    "LIF|LIFE - Lifelong Learning",
     "LIT|LTS - Literature",
     "LIT|LTS - Literature/LIT101.json",
     "LIT|LTS - Literature/LIT102.json",
@@ -2122,21 +1902,11 @@
     "MTH|SMP - Mathematical Sciences/MTH447.json",
     "MTH|SMP - Mathematical Sciences/MTH448.json",
     "MTS|CHE - Material Science",
-    "MTS|CHE - Material Science/MTS001.json",
-    "MTS|CHE - Material Science/MTS201.json",
-    "MTS|CHE - Material Science/MTS202.json",
-    "MTS|CHE - Material Science/MTS203.json",
-    "MTS|CHE - Material Science/MTS204.json",
-    "MTS|CHE - Material Science/MTS205.json",
-    "MTS|CHE - Material Science/MTS206.json",
     "MTS|CHE - Material Science/MTS301.json",
     "MTS|CHE - Material Science/MTS302.json",
-    "MTS|CHE - Material Science/MTS303.json",
     "MTS|CHE - Material Science/MTS304.json",
     "MTS|CHE - Material Science/MTS305.json",
     "MTS|CHE - Material Science/MTS306.json",
-    "MTS|CHE - Material Science/MTS412.json",
-    "MTS|CHE - Material Science/MTS425.json",
     "PGC|EDU - Professional Studies",
     "PGC|EDU - Professional Studies/PGC401.json",
     "PGC|EDU - Professional Studies/PGC402.json",
@@ -2180,8 +1950,6 @@
     "PHY|PHY - Physics/PHY309.json",
     "PHY|PHY - Physics/PHY311.json",
     "PHY|PHY - Physics/PHY312.json",
-    "PSY|SCI - Psychology",
-    "PSY|SCI - Psychology/PSY001.json",
     "RBETC|IRE - Robotics",
     "RBETC|IRE - Robotics/RBE001TC.json",
     "RBETC|IRE - Robotics/RBE002TC.json",
@@ -2224,15 +1992,7 @@
     "RBETC|IRE - Robotics/RBE414TC.json",
     "SAT|SAT - Advanced Technology",
     "SCI|SCI - Science",
-    "SCI|SCI - Science/SCI003.json",
-    "SCI|SCI - Science/SCI004.json",
     "SCI|SCI - Science/SCI005.json",
-    "SCI|SCI - Science/SCI101.json",
-    "SCI|SCI - Science/SCI102.json",
-    "SCI|SCI - Science/SCI301.json",
-    "SCI|SCI - Science/SCI402.json",
-    "SCI|SCI - Science/SCI404.json",
-    "SCI|SCI - Science/SCI405.json",
     "SMO|SMO - Strategic Management and Organizations",
     "SMO|SMO - Strategic Management and Organizations/SMO001.json",
     "SMO|SMO - Strategic Management and Organizations/SMO003.json",
@@ -2357,10 +2117,9 @@
     "UPD|UPD - Urban Planning and Design/UPD406.json",
     "UPD|UPD - Urban Planning and Design/UPD407.json",
     "UPD|UPD - Urban Planning and Design/UPD408.json",
-    "UPD|UPD - Urban Planning and Design/UPD410.json",
-    "XPU|LIFE - XIPU AI general education"
+    "UPD|UPD - Urban Planning and Design/UPD410.json"
   ],
-  "module_file_count": 2285,
+  "module_file_count": 2048,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -2567,192 +2326,6 @@
       "path": "ACC|ACC - Accounting/ACC420.json"
     },
     {
-      "full_name": "Introduction to Basic Science of Medicine",
-      "module_code": "APH002",
-      "module_level": "Level 0",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH002.json"
-    },
-    {
-      "full_name": "Exploring the World Through Data",
-      "module_code": "APH003",
-      "module_level": "Level 0",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH003.json"
-    },
-    {
-      "full_name": "From Ancient Remedies to Modern Breakthroughs",
-      "module_code": "APH004",
-      "module_level": "Level 0",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH004.json"
-    },
-    {
-      "full_name": "Diseases, Healthcare and Society",
-      "module_code": "APH005",
-      "module_level": "Level 0",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH005.json"
-    },
-    {
-      "full_name": "Fundamental Chemistry",
-      "module_code": "APH007",
-      "module_level": "Level 0",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH007.json"
-    },
-    {
-      "full_name": "Biostatistics and R Programming",
-      "module_code": "APH101",
-      "module_level": "Level 1",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH101.json"
-    },
-    {
-      "full_name": "Survey Sampling",
-      "module_code": "APH103",
-      "module_level": "Level 1",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH103.json"
-    },
-    {
-      "full_name": "Chemistry for Pharmacy",
-      "module_code": "APH105",
-      "module_level": "Level 1",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH105.json"
-    },
-    {
-      "full_name": "Key Skills for Pharmaceutical Sciences",
-      "module_code": "APH106",
-      "module_level": "Level 1",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH106.json"
-    },
-    {
-      "full_name": "Fundamental Biochemistry in Pharmacy",
-      "module_code": "APH108",
-      "module_level": "Level 1",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH108.json"
-    },
-    {
-      "full_name": "Introduction to Physiology and Pharmacology",
-      "module_code": "APH109",
-      "module_level": "Level 1",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH109.json"
-    },
-    {
-      "full_name": "Biology for Pharmacy",
-      "module_code": "APH110",
-      "module_level": "Level 1",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH110.json"
-    },
-    {
-      "full_name": "Practical Molecular Biology for Pharmacy",
-      "module_code": "APH111",
-      "module_level": "Level 1",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH111.json"
-    },
-    {
-      "full_name": "Physical Chemistry for Pharmacy",
-      "module_code": "APH112",
-      "module_level": "Level 1",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH112.json"
-    },
-    {
-      "full_name": "Artificial Intelligence in Healthcare & Pharmaceutical Research",
-      "module_code": "APH113",
-      "module_level": "Level 1",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH113.json"
-    },
-    {
-      "full_name": "Pharmaceutical Leadership: From Concept to Market",
-      "module_code": "APH114",
-      "module_level": "Level 1",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH114.json"
-    },
-    {
-      "full_name": "Human Physiology and Disease",
-      "module_code": "APH115",
-      "module_level": "Level 1",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH115.json"
-    },
-    {
-      "full_name": "SAS for Data Analysis",
-      "module_code": "APH201",
-      "module_level": "Level 2",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH201.json"
-    },
-    {
-      "full_name": "Statistics Forecast and Decision Making",
-      "module_code": "APH203",
-      "module_level": "Level 2",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH203.json"
-    },
-    {
-      "full_name": "Medicinal Chemistry",
-      "module_code": "APH204",
-      "module_level": "Level 2",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH204.json"
-    },
-    {
-      "full_name": "Epidemiology and Evidence-based Medicine",
-      "module_code": "APH205",
-      "module_level": "Level 2",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH205.json"
-    },
-    {
-      "full_name": "Pharmacokinetics and Pharmacodynamics",
-      "module_code": "APH207",
-      "module_level": "Level 2",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH207.json"
-    },
-    {
-      "full_name": "Principle of Chemical Engineering",
-      "module_code": "APH211",
-      "module_level": "Level 2",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH211.json"
-    },
-    {
-      "full_name": "Biopharmaceutics and Biopharmaceutical Technology",
-      "module_code": "APH212",
-      "module_level": "Level 2",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH212.json"
-    },
-    {
-      "full_name": "Pharmaceutics",
-      "module_code": "APH213",
-      "module_level": "Level 2",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH213.json"
-    },
-    {
-      "full_name": "Pharmaceutical Analysis",
-      "module_code": "APH214",
-      "module_level": "Level 2",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH214.json"
-    },
-    {
-      "full_name": "Pharmaceutical Separation and Fermentation Engineering",
-      "module_code": "APH215",
-      "module_level": "Level 2",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH215.json"
-    },
-    {
-      "full_name": "Drug Action",
-      "module_code": "APH216",
-      "module_level": "Level 2",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH216.json"
-    },
-    {
-      "full_name": "Clinical Pharmacy",
-      "module_code": "APH217",
-      "module_level": "Level 2",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH217.json"
-    },
-    {
-      "full_name": "Principles of Pharmacology",
-      "module_code": "APH218",
-      "module_level": "Level 2",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH218.json"
-    },
-    {
-      "full_name": "Practical Pharmacology",
-      "module_code": "APH219",
-      "module_level": "Level 2",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH219.json"
-    },
-    {
       "full_name": "Introduction to Artificial Intelligence in Pharmacy I",
       "module_code": "APH220",
       "module_level": "Level 2",
@@ -2765,100 +2338,10 @@
       "path": "APH|AOPHA - Academy of Pharmacy/APH221.json"
     },
     {
-      "full_name": "Introduction to Pharmacoeconomics",
-      "module_code": "APH222",
-      "module_level": "Level 2",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH222.json"
-    },
-    {
-      "full_name": "Introductory Computational Pharmacy",
-      "module_code": "APH223",
-      "module_level": "Level 2",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH223.json"
-    },
-    {
-      "full_name": "Advanced Chemistry for Pharmacy",
-      "module_code": "APH224",
-      "module_level": "Level 2",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH224.json"
-    },
-    {
       "full_name": "Key Skills for Computational Sciences",
       "module_code": "APH225",
       "module_level": "Level 2",
       "path": "APH|AOPHA - Academy of Pharmacy/APH225.json"
-    },
-    {
-      "full_name": "Advanced Biochemistry",
-      "module_code": "APH226",
-      "module_level": "Level 2",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH226.json"
-    },
-    {
-      "full_name": "Final Year Project",
-      "module_code": "APH301",
-      "module_level": "Level 3",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH301.json"
-    },
-    {
-      "full_name": "Statistical Methods for Clinical Trials",
-      "module_code": "APH306",
-      "module_level": "Level 3",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH306.json"
-    },
-    {
-      "full_name": "Computer Aided Drug Design",
-      "module_code": "APH308",
-      "module_level": "Level 3",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH308.json"
-    },
-    {
-      "full_name": "Biopharmaceutical Engineering",
-      "module_code": "APH309",
-      "module_level": "Level 3",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH309.json"
-    },
-    {
-      "full_name": "Regulatory Sciences and Project Management",
-      "module_code": "APH310",
-      "module_level": "Level 3",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH310.json"
-    },
-    {
-      "full_name": "Pharmaceutical Equipment and Engineering Design",
-      "module_code": "APH311",
-      "module_level": "Level 3",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH311.json"
-    },
-    {
-      "full_name": "Principles of GxP",
-      "module_code": "APH312",
-      "module_level": "Level 3",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH312.json"
-    },
-    {
-      "full_name": "Automation Solutions for the Pharmaceutical Industry",
-      "module_code": "APH313",
-      "module_level": "Level 3",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH313.json"
-    },
-    {
-      "full_name": "Final Year Project",
-      "module_code": "APH314",
-      "module_level": "Level 3",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH314.json"
-    },
-    {
-      "full_name": "Drug Delivery and Nanomedicine",
-      "module_code": "APH315",
-      "module_level": "Level 3",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH315.json"
-    },
-    {
-      "full_name": "Introduction to Chemistry Manufacturing and Controls",
-      "module_code": "APH316",
-      "module_level": "Level 3",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH316.json"
     },
     {
       "full_name": "Introduction to Quality Assurance for Drugs and Biologics",
@@ -2867,274 +2350,10 @@
       "path": "APH|AOPHA - Academy of Pharmacy/APH317.json"
     },
     {
-      "full_name": "Artificial Intelligence in Healthcare",
-      "module_code": "APH318",
-      "module_level": "Level 3",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH318.json"
-    },
-    {
-      "full_name": "Biofabrication and Regenerative Medicine",
-      "module_code": "APH319",
-      "module_level": "Level 3",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH319.json"
-    },
-    {
       "full_name": "Introduction to Artificial Intelligence in Pharmacy II",
       "module_code": "APH320",
       "module_level": "Level 3",
       "path": "APH|AOPHA - Academy of Pharmacy/APH320.json"
-    },
-    {
-      "full_name": "Vaccine Development: From Concept to Clinic",
-      "module_code": "APH321",
-      "module_level": "Level 3",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH321.json"
-    },
-    {
-      "full_name": "Cell and Gene Therapy",
-      "module_code": "APH322",
-      "module_level": "Level 3",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH322.json"
-    },
-    {
-      "full_name": "Processes in Biopharmaceutical Manufacturing and Control",
-      "module_code": "APH323",
-      "module_level": "Level 3",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH323.json"
-    },
-    {
-      "full_name": "Biomedical Engineering in Drug Delivery Systems",
-      "module_code": "APH324",
-      "module_level": "Level 3",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH324.json"
-    },
-    {
-      "full_name": "Advanced Medicinal Chemistry",
-      "module_code": "APH401",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH401.json"
-    },
-    {
-      "full_name": "Modern Instrumentation Analytical Technologies",
-      "module_code": "APH402",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH402.json"
-    },
-    {
-      "full_name": "Advanced Organic Chemistry",
-      "module_code": "APH403",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH403.json"
-    },
-    {
-      "full_name": "Modern Pharmaceutical Activity Screening",
-      "module_code": "APH404",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH404.json"
-    },
-    {
-      "full_name": "Modern Separation Techniques and Applications",
-      "module_code": "APH405",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH405.json"
-    },
-    {
-      "full_name": "Advanced Pharmacology",
-      "module_code": "APH406",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH406.json"
-    },
-    {
-      "full_name": "Advanced Drug Formulation",
-      "module_code": "APH407",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH407.json"
-    },
-    {
-      "full_name": "Computer-assisted Drug Development",
-      "module_code": "APH408",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH408.json"
-    },
-    {
-      "full_name": "Advanced Pharmaceutical Analysis",
-      "module_code": "APH409",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH409.json"
-    },
-    {
-      "full_name": "Applications of Organic Chemistry in Drug Synthesis",
-      "module_code": "APH410",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH410.json"
-    },
-    {
-      "full_name": "Thesis Research Project",
-      "module_code": "APH411",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH411.json"
-    },
-    {
-      "full_name": "Probability",
-      "module_code": "APH412",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH412.json"
-    },
-    {
-      "full_name": "Advanced Methods in Biostatistics",
-      "module_code": "APH413",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH413.json"
-    },
-    {
-      "full_name": "Principles of Epidemiology",
-      "module_code": "APH414",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH414.json"
-    },
-    {
-      "full_name": "Survival Analyses",
-      "module_code": "APH415",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH415.json"
-    },
-    {
-      "full_name": "Statistical Computing Using SAS",
-      "module_code": "APH417",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH417.json"
-    },
-    {
-      "full_name": "Clinical Trials: Design and Analysis",
-      "module_code": "APH419",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH419.json"
-    },
-    {
-      "full_name": "Generalized Linear Models",
-      "module_code": "APH420",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH420.json"
-    },
-    {
-      "full_name": "Analysis of Longitudinal Data",
-      "module_code": "APH421",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH421.json"
-    },
-    {
-      "full_name": "Dissertation",
-      "module_code": "APH422",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH422.json"
-    },
-    {
-      "full_name": "Principles of Toxicology",
-      "module_code": "APH423",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH423.json"
-    },
-    {
-      "full_name": "Regulation of Pharmaceutical and Biological Products",
-      "module_code": "APH424",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH424.json"
-    },
-    {
-      "full_name": "Thesis Research Project",
-      "module_code": "APH425",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH425.json"
-    },
-    {
-      "full_name": "Chemistry Manufacturing & Controls",
-      "module_code": "APH426",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH426.json"
-    },
-    {
-      "full_name": "Advanced Principles of GxP and Their Applications",
-      "module_code": "APH427",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH427.json"
-    },
-    {
-      "full_name": "Quality Systems and Standards",
-      "module_code": "APH428",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH428.json"
-    },
-    {
-      "full_name": "Research Ethics and Research Methodology",
-      "module_code": "APH429",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH429.json"
-    },
-    {
-      "full_name": "Quality Assurance for Drugs and Biologics",
-      "module_code": "APH430",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH430.json"
-    },
-    {
-      "full_name": "Essential Math for Pharmacy",
-      "module_code": "APH431",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH431.json"
-    },
-    {
-      "full_name": "AI in Pharmacy I",
-      "module_code": "APH432",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH432.json"
-    },
-    {
-      "full_name": "AI in Pharmacy II",
-      "module_code": "APH433",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH433.json"
-    },
-    {
-      "full_name": "Advanced Pharmacotherapy",
-      "module_code": "APH434",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH434.json"
-    },
-    {
-      "full_name": "Pharmacoeconomics",
-      "module_code": "APH435",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH435.json"
-    },
-    {
-      "full_name": "Principles of Translational Science in Medicine",
-      "module_code": "APH436",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH436.json"
-    },
-    {
-      "full_name": "Personalized Medicine",
-      "module_code": "APH437",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH437.json"
-    },
-    {
-      "full_name": "Pharma Commercialization and Marketing",
-      "module_code": "APH438",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH438.json"
-    },
-    {
-      "full_name": "Healthcare Supply Chain Management",
-      "module_code": "APH439",
-      "module_level": "Level 4",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH439.json"
-    },
-    {
-      "full_name": "Architectural representation and communication",
-      "module_code": "ARC002",
-      "module_level": "Level 0",
-      "path": "ARC|ARC - Architecture/ARC002.json"
     },
     {
       "full_name": "Architectural Thinking and Representation",
@@ -3263,256 +2482,10 @@
       "path": "ARC|ARC - Architecture/ARC413.json"
     },
     {
-      "full_name": "Introductory Biology",
-      "module_code": "BIO002",
-      "module_level": "Level 0",
-      "path": "BIO|BIO - Biological Sciences/BIO002.json"
-    },
-    {
-      "full_name": "Key Skills for Life Scientists",
-      "module_code": "BIO006",
-      "module_level": "Level 0",
-      "path": "BIO|BIO - Biological Sciences/BIO006.json"
-    },
-    {
-      "full_name": "Biodiversity of Animals, Plants and Microbes",
-      "module_code": "BIO101",
-      "module_level": "Level 1",
-      "path": "BIO|BIO - Biological Sciences/BIO101.json"
-    },
-    {
-      "full_name": "Experimental Design and Analysis",
-      "module_code": "BIO102",
-      "module_level": "Level 1",
-      "path": "BIO|BIO - Biological Sciences/BIO102.json"
-    },
-    {
-      "full_name": "Cellular and Molecular Biology",
-      "module_code": "BIO103",
-      "module_level": "Level 1",
-      "path": "BIO|BIO - Biological Sciences/BIO103.json"
-    },
-    {
-      "full_name": "Chemical Principles of Life",
-      "module_code": "BIO105",
-      "module_level": "Level 1",
-      "path": "BIO|BIO - Biological Sciences/BIO105.json"
-    },
-    {
-      "full_name": "The Biology of Microbes",
-      "module_code": "BIO106",
-      "module_level": "Level 1",
-      "path": "BIO|BIO - Biological Sciences/BIO106.json"
-    },
-    {
-      "full_name": "Introduction to Biochemistry",
-      "module_code": "BIO107",
-      "module_level": "Level 1",
-      "path": "BIO|BIO - Biological Sciences/BIO107.json"
-    },
-    {
-      "full_name": "Introduction to Evolution and Genetics",
-      "module_code": "BIO109",
-      "module_level": "Level 1",
-      "path": "BIO|BIO - Biological Sciences/BIO109.json"
-    },
-    {
-      "full_name": "Physics for Life Sciences",
-      "module_code": "BIO110",
-      "module_level": "Level 1",
-      "path": "BIO|BIO - Biological Sciences/BIO110.json"
-    },
-    {
-      "full_name": "Developmental Biology",
-      "module_code": "BIO112",
-      "module_level": "Level 1",
-      "path": "BIO|BIO - Biological Sciences/BIO112.json"
-    },
-    {
-      "full_name": "Molecular Biology Techniques",
-      "module_code": "BIO113",
-      "module_level": "Level 1",
-      "path": "BIO|BIO - Biological Sciences/BIO113.json"
-    },
-    {
-      "full_name": "Genome Expression and Maintenance",
-      "module_code": "BIO201",
-      "module_level": "Level 2",
-      "path": "BIO|BIO - Biological Sciences/BIO201.json"
-    },
-    {
-      "full_name": "Biochemical Methods",
-      "module_code": "BIO202",
-      "module_level": "Level 2",
-      "path": "BIO|BIO - Biological Sciences/BIO202.json"
-    },
-    {
-      "full_name": "Medical Microbiology and Virology",
-      "module_code": "BIO203",
-      "module_level": "Level 2",
-      "path": "BIO|BIO - Biological Sciences/BIO203.json"
-    },
-    {
-      "full_name": "Advanced Genetics",
-      "module_code": "BIO204",
-      "module_level": "Level 2",
-      "path": "BIO|BIO - Biological Sciences/BIO204.json"
-    },
-    {
-      "full_name": "Cell Biology Techniques",
-      "module_code": "BIO205",
-      "module_level": "Level 2",
-      "path": "BIO|BIO - Biological Sciences/BIO205.json"
-    },
-    {
-      "full_name": "Practical Bioinformatics",
-      "module_code": "BIO206",
-      "module_level": "Level 2",
-      "path": "BIO|BIO - Biological Sciences/BIO206.json"
-    },
-    {
-      "full_name": "Proteins in Action",
-      "module_code": "BIO207",
-      "module_level": "Level 2",
-      "path": "BIO|BIO - Biological Sciences/BIO207.json"
-    },
-    {
-      "full_name": "Cell Signalling",
-      "module_code": "BIO208",
-      "module_level": "Level 2",
-      "path": "BIO|BIO - Biological Sciences/BIO208.json"
-    },
-    {
-      "full_name": "Biotechnology",
-      "module_code": "BIO210",
-      "module_level": "Level 2",
-      "path": "BIO|BIO - Biological Sciences/BIO210.json"
-    },
-    {
-      "full_name": "Bioinformatics I",
-      "module_code": "BIO211",
-      "module_level": "Level 2",
-      "path": "BIO|BIO - Biological Sciences/BIO211.json"
-    },
-    {
-      "full_name": "Structure and Dynamics of Biomolecules",
-      "module_code": "BIO212",
-      "module_level": "Level 2",
-      "path": "BIO|BIO - Biological Sciences/BIO212.json"
-    },
-    {
-      "full_name": "Bioinformatics II",
-      "module_code": "BIO214",
-      "module_level": "Level 2",
-      "path": "BIO|BIO - Biological Sciences/BIO214.json"
-    },
-    {
-      "full_name": "Bioinformatics Project",
-      "module_code": "BIO215",
-      "module_level": "Level 2",
-      "path": "BIO|BIO - Biological Sciences/BIO215.json"
-    },
-    {
-      "full_name": "Artificial Intelligence for Life Science",
-      "module_code": "BIO216",
-      "module_level": "Level 2",
-      "path": "BIO|BIO - Biological Sciences/BIO216.json"
-    },
-    {
-      "full_name": "Human Anatomy and Physiology I",
-      "module_code": "BIO217",
-      "module_level": "Level 2",
-      "path": "BIO|BIO - Biological Sciences/BIO217.json"
-    },
-    {
-      "full_name": "Epidemiology",
-      "module_code": "BIO218",
-      "module_level": "Level 2",
-      "path": "BIO|BIO - Biological Sciences/BIO218.json"
-    },
-    {
-      "full_name": "Nutrition and Metabolism",
-      "module_code": "BIO219",
-      "module_level": "Level 2",
-      "path": "BIO|BIO - Biological Sciences/BIO219.json"
-    },
-    {
-      "full_name": "Introduction to Computational Biology",
-      "module_code": "BIO220",
-      "module_level": "Level 2",
-      "path": "BIO|BIO - Biological Sciences/BIO220.json"
-    },
-    {
-      "full_name": "Epidemiology",
-      "module_code": "BIO221",
-      "module_level": "Level 2",
-      "path": "BIO|BIO - Biological Sciences/BIO221.json"
-    },
-    {
-      "full_name": "Global Health and Society",
-      "module_code": "BIO222",
-      "module_level": "Level 2",
-      "path": "BIO|BIO - Biological Sciences/BIO222.json"
-    },
-    {
-      "full_name": "Communicable and Non-communicable Diseases in Public Health",
-      "module_code": "BIO223",
-      "module_level": "Level 2",
-      "path": "BIO|BIO - Biological Sciences/BIO223.json"
-    },
-    {
-      "full_name": "Human Anatomy and Physiology II",
-      "module_code": "BIO224",
-      "module_level": "Level 2",
-      "path": "BIO|BIO - Biological Sciences/BIO224.json"
-    },
-    {
-      "full_name": "Biology of Disease",
-      "module_code": "BIO301",
-      "module_level": "Level 3",
-      "path": "BIO|BIO - Biological Sciences/BIO301.json"
-    },
-    {
-      "full_name": "Biochemical Messengers",
-      "module_code": "BIO302",
-      "module_level": "Level 3",
-      "path": "BIO|BIO - Biological Sciences/BIO302.json"
-    },
-    {
-      "full_name": "Final Year Project",
-      "module_code": "BIO303",
-      "module_level": "Level 3",
-      "path": "BIO|BIO - Biological Sciences/BIO303.json"
-    },
-    {
       "full_name": "Biotechnology and Society",
       "module_code": "BIO304",
       "module_level": "Level 3",
       "path": "BIO|BIO - Biological Sciences/BIO304.json"
-    },
-    {
-      "full_name": "Gene Expression and Genome Analysis",
-      "module_code": "BIO305",
-      "module_level": "Level 3",
-      "path": "BIO|BIO - Biological Sciences/BIO305.json"
-    },
-    {
-      "full_name": "Molecular Immunology",
-      "module_code": "BIO309",
-      "module_level": "Level 3",
-      "path": "BIO|BIO - Biological Sciences/BIO309.json"
-    },
-    {
-      "full_name": "Modeling for Computational Biology",
-      "module_code": "BIO311",
-      "module_level": "Level 3",
-      "path": "BIO|BIO - Biological Sciences/BIO311.json"
-    },
-    {
-      "full_name": "Protein Structure and Function",
-      "module_code": "BIO312",
-      "module_level": "Level 3",
-      "path": "BIO|BIO - Biological Sciences/BIO312.json"
     },
     {
       "full_name": "Pharmacology and Therapeutics",
@@ -3537,54 +2510,6 @@
       "module_code": "BIO318",
       "module_level": "Level 3",
       "path": "BIO|BIO - Biological Sciences/BIO318.json"
-    },
-    {
-      "full_name": "Final Year Project",
-      "module_code": "BIO319",
-      "module_level": "Level 3",
-      "path": "BIO|BIO - Biological Sciences/BIO319.json"
-    },
-    {
-      "full_name": "Research Methods in Biotechnology",
-      "module_code": "BIO401",
-      "module_level": "Level 4",
-      "path": "BIO|BIO - Biological Sciences/BIO401.json"
-    },
-    {
-      "full_name": "Research Methods in Post-Genomic Biology",
-      "module_code": "BIO403",
-      "module_level": "Level 4",
-      "path": "BIO|BIO - Biological Sciences/BIO403.json"
-    },
-    {
-      "full_name": "Research Project",
-      "module_code": "BIO404",
-      "module_level": "Level 4",
-      "path": "BIO|BIO - Biological Sciences/BIO404.json"
-    },
-    {
-      "full_name": "Research Methods in Bioinformatics",
-      "module_code": "BIO405",
-      "module_level": "Level 4",
-      "path": "BIO|BIO - Biological Sciences/BIO405.json"
-    },
-    {
-      "full_name": "Research Plan",
-      "module_code": "BIO406",
-      "module_level": "Level 4",
-      "path": "BIO|BIO - Biological Sciences/BIO406.json"
-    },
-    {
-      "full_name": "Research Project",
-      "module_code": "BIO407",
-      "module_level": "Level 4",
-      "path": "BIO|BIO - Biological Sciences/BIO407.json"
-    },
-    {
-      "full_name": "Research Plan",
-      "module_code": "BIO408",
-      "module_level": "Level 4",
-      "path": "BIO|BIO - Biological Sciences/BIO408.json"
     },
     {
       "full_name": "Topics of Urban Design",
@@ -4289,220 +3214,10 @@
       "path": "CEN|CEN - Civil Engineering/CEN423.json"
     },
     {
-      "full_name": "Introduction to Chemistry",
-      "module_code": "CHE002",
-      "module_level": "Level 0",
-      "path": "CHE|CHE - Chemistry/CHE002.json"
-    },
-    {
-      "full_name": "Introductory Spectroscopy",
-      "module_code": "CHE102",
-      "module_level": "Level 1",
-      "path": "CHE|CHE - Chemistry/CHE102.json"
-    },
-    {
-      "full_name": "Introductory Inorganic Chemistry",
-      "module_code": "CHE103",
-      "module_level": "Level 1",
-      "path": "CHE|CHE - Chemistry/CHE103.json"
-    },
-    {
-      "full_name": "Introductory Organic Chemistry for Non-Chemists",
-      "module_code": "CHE105",
-      "module_level": "Level 1",
-      "path": "CHE|CHE - Chemistry/CHE105.json"
-    },
-    {
-      "full_name": "Introductory Physical Chemistry",
-      "module_code": "CHE106",
-      "module_level": "Level 1",
-      "path": "CHE|CHE - Chemistry/CHE106.json"
-    },
-    {
-      "full_name": "Introductory Inorganic Chemistry for Non-Chemists",
-      "module_code": "CHE109",
-      "module_level": "Level 1",
-      "path": "CHE|CHE - Chemistry/CHE109.json"
-    },
-    {
-      "full_name": "Key Skills for Chemistry and Materials Science",
-      "module_code": "CHE111",
-      "module_level": "Level 1",
-      "path": "CHE|CHE - Chemistry/CHE111.json"
-    },
-    {
-      "full_name": "Introductory Organic Chemistry II",
-      "module_code": "CHE112",
-      "module_level": "Level 1",
-      "path": "CHE|CHE - Chemistry/CHE112.json"
-    },
-    {
-      "full_name": "Introductory Organic Chemistry I",
-      "module_code": "CHE113",
-      "module_level": "Level 1",
-      "path": "CHE|CHE - Chemistry/CHE113.json"
-    },
-    {
-      "full_name": "Introductory Physical Chemistry for Non-Chemists",
-      "module_code": "CHE114",
-      "module_level": "Level 1",
-      "path": "CHE|CHE - Chemistry/CHE114.json"
-    },
-    {
-      "full_name": "Laboratory Techniques",
-      "module_code": "CHE115",
-      "module_level": "Level 1",
-      "path": "CHE|CHE - Chemistry/CHE115.json"
-    },
-    {
-      "full_name": "Intermediate Organic Chemistry",
-      "module_code": "CHE201",
-      "module_level": "Level 2",
-      "path": "CHE|CHE - Chemistry/CHE201.json"
-    },
-    {
-      "full_name": "Intermediate Physical Chemistry",
-      "module_code": "CHE202",
-      "module_level": "Level 2",
-      "path": "CHE|CHE - Chemistry/CHE202.json"
-    },
-    {
-      "full_name": "Further Key Skills in Chemistry",
-      "module_code": "CHE203",
-      "module_level": "Level 2",
-      "path": "CHE|CHE - Chemistry/CHE203.json"
-    },
-    {
-      "full_name": "Intermediate Inorganic Chemistry",
-      "module_code": "CHE204",
-      "module_level": "Level 2",
-      "path": "CHE|CHE - Chemistry/CHE204.json"
-    },
-    {
-      "full_name": "Measurements in Chemistry",
-      "module_code": "CHE206",
-      "module_level": "Level 2",
-      "path": "CHE|CHE - Chemistry/CHE206.json"
-    },
-    {
-      "full_name": "Preparative Chemistry: Synthesis and Characterisation",
-      "module_code": "CHE207",
-      "module_level": "Level 2",
-      "path": "CHE|CHE - Chemistry/CHE207.json"
-    },
-    {
-      "full_name": "Biological Chemistry",
-      "module_code": "CHE214",
-      "module_level": "Level 2",
-      "path": "CHE|CHE - Chemistry/CHE214.json"
-    },
-    {
-      "full_name": "Analytical Chemistry",
-      "module_code": "CHE215",
-      "module_level": "Level 2",
-      "path": "CHE|CHE - Chemistry/CHE215.json"
-    },
-    {
-      "full_name": "Inorganic Applications of Group Theory",
-      "module_code": "CHE216",
-      "module_level": "Level 2",
-      "path": "CHE|CHE - Chemistry/CHE216.json"
-    },
-    {
-      "full_name": "Introduction to Polymer Chemistry",
-      "module_code": "CHE218",
-      "module_level": "Level 2",
-      "path": "CHE|CHE - Chemistry/CHE218.json"
-    },
-    {
-      "full_name": "Advanced Inorganic Chemistry",
-      "module_code": "CHE301",
-      "module_level": "Level 3",
-      "path": "CHE|CHE - Chemistry/CHE301.json"
-    },
-    {
-      "full_name": "Advanced Physical Chemistry",
-      "module_code": "CHE302",
-      "module_level": "Level 3",
-      "path": "CHE|CHE - Chemistry/CHE302.json"
-    },
-    {
-      "full_name": "Advanced Organic Chemistry",
-      "module_code": "CHE303",
-      "module_level": "Level 3",
-      "path": "CHE|CHE - Chemistry/CHE303.json"
-    },
-    {
-      "full_name": "Final Year Project",
-      "module_code": "CHE309",
-      "module_level": "Level 3",
-      "path": "CHE|CHE - Chemistry/CHE309.json"
-    },
-    {
-      "full_name": "Introduction to Medicinal Chemistry",
-      "module_code": "CHE310",
-      "module_level": "Level 3",
-      "path": "CHE|CHE - Chemistry/CHE310.json"
-    },
-    {
-      "full_name": "Introduction to Electrochemistry",
-      "module_code": "CHE315",
-      "module_level": "Level 3",
-      "path": "CHE|CHE - Chemistry/CHE315.json"
-    },
-    {
-      "full_name": "Nanotechnology and Advanced Materials",
-      "module_code": "CHE316",
-      "module_level": "Level 3",
-      "path": "CHE|CHE - Chemistry/CHE316.json"
-    },
-    {
-      "full_name": "Computational Chemistry",
-      "module_code": "CHE317",
-      "module_level": "Level 3",
-      "path": "CHE|CHE - Chemistry/CHE317.json"
-    },
-    {
-      "full_name": "Advanced Analytical Chemistry",
-      "module_code": "CHE401",
-      "module_level": "Level 4",
-      "path": "CHE|CHE - Chemistry/CHE401.json"
-    },
-    {
-      "full_name": "Research Project",
-      "module_code": "CHE402",
-      "module_level": "Level 4",
-      "path": "CHE|CHE - Chemistry/CHE402.json"
-    },
-    {
-      "full_name": "Nanotechnology and Advanced Materials",
-      "module_code": "CHE403",
-      "module_level": "Level 4",
-      "path": "CHE|CHE - Chemistry/CHE403.json"
-    },
-    {
       "full_name": "Electronic Structure Theory With Associated Numerical Methods and Computing",
       "module_code": "CHE404",
       "module_level": "Level 4",
       "path": "CHE|CHE - Chemistry/CHE404.json"
-    },
-    {
-      "full_name": "Topics in Advanced Organic Chemistry",
-      "module_code": "CHE405",
-      "module_level": "Level 4",
-      "path": "CHE|CHE - Chemistry/CHE405.json"
-    },
-    {
-      "full_name": "Research Project Design",
-      "module_code": "CHE406",
-      "module_level": "Level 4",
-      "path": "CHE|CHE - Chemistry/CHE406.json"
-    },
-    {
-      "full_name": "Personal and Employability Skills for Chemists",
-      "module_code": "CHE407",
-      "module_level": "Level 4",
-      "path": "CHE|CHE - Chemistry/CHE407.json"
     },
     {
       "full_name": "Classical Molecular Simulation for Materials Science",
@@ -4521,12 +3236,6 @@
       "module_code": "CHE410",
       "module_level": "Level 4",
       "path": "CHE|CHE - Chemistry/CHE410.json"
-    },
-    {
-      "full_name": "Computational Materials Science",
-      "module_code": "CHE421",
-      "module_level": "Level 4",
-      "path": "CHE|CHE - Chemistry/CHE421.json"
     },
     {
       "full_name": "Chinese Language 1",
@@ -5001,18 +3710,6 @@
       "module_code": "CPT415",
       "module_level": "Level 4",
       "path": "CPT|CPT - Computing/CPT415.json"
-    },
-    {
-      "full_name": "Design Thinking",
-      "module_code": "DES002",
-      "module_level": "Level 0",
-      "path": "DES|DES - Design/DES002.json"
-    },
-    {
-      "full_name": "Principles of Design",
-      "module_code": "DES003",
-      "module_level": "Level 0",
-      "path": "DES|DES - Design/DES003.json"
     },
     {
       "full_name": "Future Cities",
@@ -6825,252 +5522,6 @@
       "module_code": "HXA411TC",
       "module_level": "Level 4",
       "path": "ENT|EEH - Entrepreneurship/HXA411TC.json"
-    },
-    {
-      "full_name": "Global Environmental Issues",
-      "module_code": "ENV002",
-      "module_level": "Level 0",
-      "path": "ENV|HES - Environmental Sciences/ENV002.json"
-    },
-    {
-      "full_name": "Geographic Information Systems",
-      "module_code": "ENV101",
-      "module_level": "Level 1",
-      "path": "ENV|HES - Environmental Sciences/ENV101.json"
-    },
-    {
-      "full_name": "Introduction In Ecology",
-      "module_code": "ENV107",
-      "module_level": "Level 1",
-      "path": "ENV|HES - Environmental Sciences/ENV107.json"
-    },
-    {
-      "full_name": "Introductory Field Skills for Environmental Scientists",
-      "module_code": "ENV111",
-      "module_level": "Level 1",
-      "path": "ENV|HES - Environmental Sciences/ENV111.json"
-    },
-    {
-      "full_name": "Quantitative Field Skills, Data Collection and Analysis for Environmental Scientists",
-      "module_code": "ENV112",
-      "module_level": "Level 1",
-      "path": "ENV|HES - Environmental Sciences/ENV112.json"
-    },
-    {
-      "full_name": "Introduction to ecology, evolution and Earth system",
-      "module_code": "ENV113",
-      "module_level": "Level 1",
-      "path": "ENV|HES - Environmental Sciences/ENV113.json"
-    },
-    {
-      "full_name": "Introduction to Environmental Chemistry and Monitoring",
-      "module_code": "ENV114",
-      "module_level": "Level 1",
-      "path": "ENV|HES - Environmental Sciences/ENV114.json"
-    },
-    {
-      "full_name": "General Laboratory Techniques and Experiments in Environmental Science",
-      "module_code": "ENV115",
-      "module_level": "Level 1",
-      "path": "ENV|HES - Environmental Sciences/ENV115.json"
-    },
-    {
-      "full_name": "Field/Laboratory Experiments of Environmental Monitoring",
-      "module_code": "ENV116",
-      "module_level": "Level 1",
-      "path": "ENV|HES - Environmental Sciences/ENV116.json"
-    },
-    {
-      "full_name": "Foundational Research Skills for Environmental Scientists",
-      "module_code": "ENV117",
-      "module_level": "Level 1",
-      "path": "ENV|HES - Environmental Sciences/ENV117.json"
-    },
-    {
-      "full_name": "Research Design",
-      "module_code": "ENV201",
-      "module_level": "Level 2",
-      "path": "ENV|HES - Environmental Sciences/ENV201.json"
-    },
-    {
-      "full_name": "Remote Sensing of the Environment",
-      "module_code": "ENV204",
-      "module_level": "Level 2",
-      "path": "ENV|HES - Environmental Sciences/ENV204.json"
-    },
-    {
-      "full_name": "Biogeochemistry and global change",
-      "module_code": "ENV209",
-      "module_level": "Level 2",
-      "path": "ENV|HES - Environmental Sciences/ENV209.json"
-    },
-    {
-      "full_name": "Air and the Environment",
-      "module_code": "ENV212",
-      "module_level": "Level 2",
-      "path": "ENV|HES - Environmental Sciences/ENV212.json"
-    },
-    {
-      "full_name": "Soil and the Environment",
-      "module_code": "ENV213",
-      "module_level": "Level 2",
-      "path": "ENV|HES - Environmental Sciences/ENV213.json"
-    },
-    {
-      "full_name": "Aquatic Ecology",
-      "module_code": "ENV214",
-      "module_level": "Level 2",
-      "path": "ENV|HES - Environmental Sciences/ENV214.json"
-    },
-    {
-      "full_name": "Environmental Instrumental Analysis",
-      "module_code": "ENV215",
-      "module_level": "Level 2",
-      "path": "ENV|HES - Environmental Sciences/ENV215.json"
-    },
-    {
-      "full_name": "Microbial Ecology",
-      "module_code": "ENV216",
-      "module_level": "Level 2",
-      "path": "ENV|HES - Environmental Sciences/ENV216.json"
-    },
-    {
-      "full_name": "Water and the Environment",
-      "module_code": "ENV217",
-      "module_level": "Level 2",
-      "path": "ENV|HES - Environmental Sciences/ENV217.json"
-    },
-    {
-      "full_name": "Environmental Policy and Governance",
-      "module_code": "ENV218",
-      "module_level": "Level 2",
-      "path": "ENV|HES - Environmental Sciences/ENV218.json"
-    },
-    {
-      "full_name": "Terrestrial Ecology",
-      "module_code": "ENV219",
-      "module_level": "Level 2",
-      "path": "ENV|HES - Environmental Sciences/ENV219.json"
-    },
-    {
-      "full_name": "Sustainable Energy",
-      "module_code": "ENV220",
-      "module_level": "Level 2",
-      "path": "ENV|HES - Environmental Sciences/ENV220.json"
-    },
-    {
-      "full_name": "Introductory Statistics for Natural Sciences",
-      "module_code": "ENV221",
-      "module_level": "Level 2",
-      "path": "ENV|HES - Environmental Sciences/ENV221.json"
-    },
-    {
-      "full_name": "Advanced Statistics for Natural Sciences",
-      "module_code": "ENV222",
-      "module_level": "Level 2",
-      "path": "ENV|HES - Environmental Sciences/ENV222.json"
-    },
-    {
-      "full_name": "Environmental Economics for Environmental Sciences",
-      "module_code": "ENV223",
-      "module_level": "Level 2",
-      "path": "ENV|HES - Environmental Sciences/ENV223.json"
-    },
-    {
-      "full_name": "Climate Change and Risk",
-      "module_code": "ENV224",
-      "module_level": "Level 2",
-      "path": "ENV|HES - Environmental Sciences/ENV224.json"
-    },
-    {
-      "full_name": "Final Year Project",
-      "module_code": "ENV301",
-      "module_level": "Level 3",
-      "path": "ENV|HES - Environmental Sciences/ENV301.json"
-    },
-    {
-      "full_name": "Environmental Management",
-      "module_code": "ENV311",
-      "module_level": "Level 3",
-      "path": "ENV|HES - Environmental Sciences/ENV311.json"
-    },
-    {
-      "full_name": "Environmental Impact Assessment",
-      "module_code": "ENV312",
-      "module_level": "Level 3",
-      "path": "ENV|HES - Environmental Sciences/ENV312.json"
-    },
-    {
-      "full_name": "Environmental Restoration and Remediation - Field Class",
-      "module_code": "ENV313",
-      "module_level": "Level 3",
-      "path": "ENV|HES - Environmental Sciences/ENV313.json"
-    },
-    {
-      "full_name": "Managed ecosystems",
-      "module_code": "ENV314",
-      "module_level": "Level 3",
-      "path": "ENV|HES - Environmental Sciences/ENV314.json"
-    },
-    {
-      "full_name": "Critical Reading, Reviewing & Writing Scientific Environmental & Ecology Papers",
-      "module_code": "ENV315",
-      "module_level": "Level 3",
-      "path": "ENV|HES - Environmental Sciences/ENV315.json"
-    },
-    {
-      "full_name": "Environmental Engineering",
-      "module_code": "ENV316",
-      "module_level": "Level 3",
-      "path": "ENV|HES - Environmental Sciences/ENV316.json"
-    },
-    {
-      "full_name": "Environment and Society",
-      "module_code": "ENV317",
-      "module_level": "Level 3",
-      "path": "ENV|HES - Environmental Sciences/ENV317.json"
-    },
-    {
-      "full_name": "Humans and environmental pollution",
-      "module_code": "ENV319",
-      "module_level": "Level 3",
-      "path": "ENV|HES - Environmental Sciences/ENV319.json"
-    },
-    {
-      "full_name": "Research Project Design and Management",
-      "module_code": "ENV401",
-      "module_level": "Level 4",
-      "path": "ENV|HES - Environmental Sciences/ENV401.json"
-    },
-    {
-      "full_name": "Research Plan",
-      "module_code": "ENV402",
-      "module_level": "Level 4",
-      "path": "ENV|HES - Environmental Sciences/ENV402.json"
-    },
-    {
-      "full_name": "Common Research Issues in Environmental Sciences",
-      "module_code": "ENV403",
-      "module_level": "Level 4",
-      "path": "ENV|HES - Environmental Sciences/ENV403.json"
-    },
-    {
-      "full_name": "Research Project",
-      "module_code": "ENV404",
-      "module_level": "Level 4",
-      "path": "ENV|HES - Environmental Sciences/ENV404.json"
-    },
-    {
-      "full_name": "Advanced Statistics in Environmental Sciences",
-      "module_code": "ENV405",
-      "module_level": "Level 4",
-      "path": "ENV|HES - Environmental Sciences/ENV405.json"
-    },
-    {
-      "full_name": "Frontiers in Environmental Sciences",
-      "module_code": "ENV407",
-      "module_level": "Level 4",
-      "path": "ENV|HES - Environmental Sciences/ENV407.json"
     },
     {
       "full_name": "Finance and Society",
@@ -14723,48 +13174,6 @@
       "path": "MTH|SMP - Mathematical Sciences/MTH448.json"
     },
     {
-      "full_name": "Introduction to Materials Science",
-      "module_code": "MTS001",
-      "module_level": "Level 0",
-      "path": "MTS|CHE - Material Science/MTS001.json"
-    },
-    {
-      "full_name": "Materials for Engineering 1",
-      "module_code": "MTS201",
-      "module_level": "Level 2",
-      "path": "MTS|CHE - Material Science/MTS201.json"
-    },
-    {
-      "full_name": "Materials Processing",
-      "module_code": "MTS202",
-      "module_level": "Level 2",
-      "path": "MTS|CHE - Material Science/MTS202.json"
-    },
-    {
-      "full_name": "AI Materials Design Project",
-      "module_code": "MTS203",
-      "module_level": "Level 2",
-      "path": "MTS|CHE - Material Science/MTS203.json"
-    },
-    {
-      "full_name": "Functional Materials",
-      "module_code": "MTS204",
-      "module_level": "Level 2",
-      "path": "MTS|CHE - Material Science/MTS204.json"
-    },
-    {
-      "full_name": "Polymer Materials",
-      "module_code": "MTS205",
-      "module_level": "Level 2",
-      "path": "MTS|CHE - Material Science/MTS205.json"
-    },
-    {
-      "full_name": "Introduction to AI Materials Design",
-      "module_code": "MTS206",
-      "module_level": "Level 2",
-      "path": "MTS|CHE - Material Science/MTS206.json"
-    },
-    {
       "full_name": "Materials for Engineering 2",
       "module_code": "MTS301",
       "module_level": "Level 3",
@@ -14775,12 +13184,6 @@
       "module_code": "MTS302",
       "module_level": "Level 3",
       "path": "MTS|CHE - Material Science/MTS302.json"
-    },
-    {
-      "full_name": "Semiconductor Materials",
-      "module_code": "MTS303",
-      "module_level": "Level 3",
-      "path": "MTS|CHE - Material Science/MTS303.json"
     },
     {
       "full_name": "Energy Materials",
@@ -14799,18 +13202,6 @@
       "module_code": "MTS306",
       "module_level": "Level 3",
       "path": "MTS|CHE - Material Science/MTS306.json"
-    },
-    {
-      "full_name": "Characterisation of Materials",
-      "module_code": "MTS412",
-      "module_level": "Level 4",
-      "path": "MTS|CHE - Material Science/MTS412.json"
-    },
-    {
-      "full_name": "Experimental Methods in Materials and Mechanics",
-      "module_code": "MTS425",
-      "module_level": "Level 4",
-      "path": "MTS|CHE - Material Science/MTS425.json"
     },
     {
       "full_name": "Learning, Teaching and Assessment",
@@ -15053,12 +13444,6 @@
       "path": "PHY|PHY - Physics/PHY312.json"
     },
     {
-      "full_name": "Introduction to Psychology",
-      "module_code": "PSY001",
-      "module_level": "Level 0",
-      "path": "PSY|SCI - Psychology/PSY001.json"
-    },
-    {
       "full_name": "Introductions to Intelligent Robotics",
       "module_code": "RBE001TC",
       "module_level": "Level 0",
@@ -15293,58 +13678,10 @@
       "path": "RBETC|IRE - Robotics/RBE414TC.json"
     },
     {
-      "full_name": "Scientific Communication and Integrity",
-      "module_code": "SCI003",
-      "module_level": "Level 0",
-      "path": "SCI|SCI - Science/SCI003.json"
-    },
-    {
-      "full_name": "Horizons in Science",
-      "module_code": "SCI004",
-      "module_level": "Level 0",
-      "path": "SCI|SCI - Science/SCI004.json"
-    },
-    {
       "full_name": "Seminars in Science",
       "module_code": "SCI005",
       "module_level": "Level 0",
       "path": "SCI|SCI - Science/SCI005.json"
-    },
-    {
-      "full_name": "Introduction to Artificial Intelligence for Science",
-      "module_code": "SCI101",
-      "module_level": "Level 1",
-      "path": "SCI|SCI - Science/SCI101.json"
-    },
-    {
-      "full_name": "Entrepreneurial Education in Science: Innovating for Tomorrow",
-      "module_code": "SCI102",
-      "module_level": "Level 1",
-      "path": "SCI|SCI - Science/SCI102.json"
-    },
-    {
-      "full_name": "Critical Thinking and Applied Skills in Science Research",
-      "module_code": "SCI301",
-      "module_level": "Level 3",
-      "path": "SCI|SCI - Science/SCI301.json"
-    },
-    {
-      "full_name": "Machine Learning for Science",
-      "module_code": "SCI402",
-      "module_level": "Level 4",
-      "path": "SCI|SCI - Science/SCI402.json"
-    },
-    {
-      "full_name": "Fundamentals of AI in Science",
-      "module_code": "SCI404",
-      "module_level": "Level 4",
-      "path": "SCI|SCI - Science/SCI404.json"
-    },
-    {
-      "full_name": "Data Mining and Big Data Analytics",
-      "module_code": "SCI405",
-      "module_level": "Level 4",
-      "path": "SCI|SCI - Science/SCI405.json"
     },
     {
       "full_name": "Communication Skills for Personal Success",
