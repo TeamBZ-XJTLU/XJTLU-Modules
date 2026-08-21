@@ -1992,7 +1992,6 @@
     "RBETC|IRE - Robotics/RBE414TC.json",
     "SAT|SAT - Advanced Technology",
     "SCI|SCI - Science",
-    "SCI|SCI - Science/SCI005.json",
     "SMO|SMO - Strategic Management and Organizations",
     "SMO|SMO - Strategic Management and Organizations/SMO001.json",
     "SMO|SMO - Strategic Management and Organizations/SMO003.json",
@@ -2119,7 +2118,7 @@
     "UPD|UPD - Urban Planning and Design/UPD408.json",
     "UPD|UPD - Urban Planning and Design/UPD410.json"
   ],
-  "module_file_count": 2048,
+  "module_file_count": 2047,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -13678,12 +13677,6 @@
       "path": "RBETC|IRE - Robotics/RBE414TC.json"
     },
     {
-      "full_name": "Seminars in Science",
-      "module_code": "SCI005",
-      "module_level": "Level 0",
-      "path": "SCI|SCI - Science/SCI005.json"
-    },
-    {
       "full_name": "Communication Skills for Personal Success",
       "module_code": "SMO001",
       "module_level": "Level 0",
@@ -14278,7 +14271,7 @@
       "path": "UPD|UPD - Urban Planning and Design/UPD102.json"
     },
     {
-      "full_name": "Issues and practice of planning in China",
+      "full_name": "Issues and Practice of Planning in China",
       "module_code": "UPD103",
       "module_level": "Level 1",
       "path": "UPD|UPD - Urban Planning and Design/UPD103.json"
