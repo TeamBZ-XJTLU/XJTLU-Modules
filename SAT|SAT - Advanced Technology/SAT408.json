@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SAT",
+    "domain_code": "SAT",
+    "full_name": "Advanced Technology"
+  },
+  "full_name": "Artificial Intelligence for Energy Sciences",
+  "module_code": "SAT408",
+  "offerings": [
+    {
+      "heading": "Artificial Intelligence for Energy Sciences",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SAT",
+        "full_name": "Artificial Intelligence for Energy Sciences",
+        "module_code": "SAT408",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Artificial Intelligence for Energy Sciences",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with the necessary knowledge and skills required for researching artificial intelligence within the realm of energy science. Leveraging the support technology of artificial intelligence provided by our industry partners, this module offers students an opportunity to gain comprehensive understanding and training for conducting research. Furthermore, it includes practical components focused on the creation of intelligent design strategies, incorporating both technical and economic decision-making aspects within energy science.",
+        "Learning outcomes": "A Critically evaluate the current theoretical and practical issues related to energy science. B Analyse mechanisms for using artificial intelligence methods to address issues related to energy science. C Solve theoretical and practical issues related to energy science through the application of appropriate AI methods. D Evaluate AI algorithms and models for industrially relevant problems related to energy science. E Function effectively as an individual, and as a member or leader of a team. Evaluate effectiveness of own and team performance.",
+        "Method of teaching and learning": "Students are expected to attend two hours of formal (theoretical) lectures and engage in two hours of supervised (practical) training weekly. The lectures and supervised training sessions will introduce students to the content and practical skills relevant to the subject of the module. Additionally, students are required to allocate time to participate in workshops, where they will collaborate on their projects. Studies in conjunction with industrial partners will also provide time for reflection and consideration of lecture material and background reading."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SAT408&psl_code=SEM2"
+    }
+  ]
+}

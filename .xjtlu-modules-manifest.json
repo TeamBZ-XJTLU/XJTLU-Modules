@@ -1991,6 +1991,10 @@
     "RBETC|IRE - Robotics/RBE413TC.json",
     "RBETC|IRE - Robotics/RBE414TC.json",
     "SAT|SAT - Advanced Technology",
+    "SAT|SAT - Advanced Technology/SAT408.json",
+    "SAT|SAT - Advanced Technology/SAT409.json",
+    "SAT|SAT - Advanced Technology/SAT410.json",
+    "SAT|SAT - Advanced Technology/SAT411.json",
     "SCI|SCI - Science",
     "SMO|SMO - Strategic Management and Organizations",
     "SMO|SMO - Strategic Management and Organizations/SMO001.json",
@@ -2118,7 +2122,7 @@
     "UPD|UPD - Urban Planning and Design/UPD408.json",
     "UPD|UPD - Urban Planning and Design/UPD410.json"
   ],
-  "module_file_count": 2047,
+  "module_file_count": 2051,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -13675,6 +13679,30 @@
       "module_code": "RBE414TC",
       "module_level": "Level 4",
       "path": "RBETC|IRE - Robotics/RBE414TC.json"
+    },
+    {
+      "full_name": "Artificial Intelligence for Energy Sciences",
+      "module_code": "SAT408",
+      "module_level": "Level 4",
+      "path": "SAT|SAT - Advanced Technology/SAT408.json"
+    },
+    {
+      "full_name": "Digital Twin Engineering",
+      "module_code": "SAT409",
+      "module_level": "Level 4",
+      "path": "SAT|SAT - Advanced Technology/SAT409.json"
+    },
+    {
+      "full_name": "Large-Scale Machine Learning Models for Industry",
+      "module_code": "SAT410",
+      "module_level": "Level 4",
+      "path": "SAT|SAT - Advanced Technology/SAT410.json"
+    },
+    {
+      "full_name": "Machine Learning for Industry",
+      "module_code": "SAT411",
+      "module_level": "Level 4",
+      "path": "SAT|SAT - Advanced Technology/SAT411.json"
     },
     {
       "full_name": "Communication Skills for Personal Success",
