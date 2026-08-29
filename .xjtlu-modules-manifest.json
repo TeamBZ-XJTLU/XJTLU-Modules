@@ -651,11 +651,9 @@
     "FTA|AFCT - Film and TV/FTA110.json",
     "FTA|AFCT - Film and TV/FTA111.json",
     "FTA|AFCT - Film and TV/FTA112.json",
-    "FTA|AFCT - Film and TV/FTA113.json",
     "FTA|AFCT - Film and TV/FTA114.json",
     "FTA|AFCT - Film and TV/FTA115.json",
     "FTA|AFCT - Film and TV/FTA116.json",
-    "FTA|AFCT - Film and TV/FTA118.json",
     "FTA|AFCT - Film and TV/FTA120.json",
     "FTA|AFCT - Film and TV/FTA121.json",
     "FTA|AFCT - Film and TV/FTA122.json",
@@ -2122,7 +2120,7 @@
     "UPD|UPD - Urban Planning and Design/UPD408.json",
     "UPD|UPD - Urban Planning and Design/UPD410.json"
   ],
-  "module_file_count": 2051,
+  "module_file_count": 2049,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -5851,12 +5849,6 @@
       "path": "FTA|AFCT - Film and TV/FTA112.json"
     },
     {
-      "full_name": "Introduction to Film and Television",
-      "module_code": "FTA113",
-      "module_level": "Level 1",
-      "path": "FTA|AFCT - Film and TV/FTA113.json"
-    },
-    {
       "full_name": "Media Aesthetics",
       "module_code": "FTA114",
       "module_level": "Level 1",
@@ -5873,12 +5865,6 @@
       "module_code": "FTA116",
       "module_level": "Level 1",
       "path": "FTA|AFCT - Film and TV/FTA116.json"
-    },
-    {
-      "full_name": "Studio Roles and Responsibilities",
-      "module_code": "FTA118",
-      "module_level": "Level 1",
-      "path": "FTA|AFCT - Film and TV/FTA118.json"
     },
     {
       "full_name": "Introduction to Visual Communication",
