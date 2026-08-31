@@ -4,15 +4,15 @@
     "domain_code": "MTH",
     "full_name": "Mathematical Sciences"
   },
-  "full_name": "Modelling the Real World: Gateway to Applied Math and Physics",
+  "full_name": "Modelling the Real World",
   "module_code": "MTH020",
   "offerings": [
     {
-      "heading": "Modelling the Real World: Gateway to Applied Math and Physics",
+      "heading": "Modelling the Real World",
       "listing": {
         "academic_year": "2026/27",
         "domain_code": "MTH",
-        "full_name": "Modelling the Real World: Gateway to Applied Math and Physics",
+        "full_name": "Modelling the Real World",
         "module_code": "MTH020",
         "semester": "SEM1"
       },
@@ -20,12 +20,12 @@
         "Academic Year": "2026/27",
         "Module Credits": "2.5",
         "Module Level": "Level 0",
-        "Module Title": "Modelling the Real World: Gateway to Applied Math and Physics",
+        "Module Title": "Modelling the Real World",
         "Semester": "SEM1"
       },
       "sections": {
         "Aims and Fit of Module": "This module introduces first-year students to the core principles of mathematical modelling and its physical applications. Students will learn how to translate real-world phenomena into mathematical language and use basic analytical tools to derive meaningful predictions. The module builds essential skills in logical reasoning, problem formulation, and quantitative thinking. No advanced background is assumed—just curiosity about how math and physics describe the world around us.",
-        "Learning outcomes": "A Recognise basic mathematical and physical concepts. B Apply elementary mathematical and physical methods to simple problems. C Demonstrate familiarity with the general procedure of mathematical modelling. D Describe how basic mathematical ideas can be used to describe physical phenomena.",
+        "Learning outcomes": "A Identify basic mathematical and physical concepts. B Apply elementary mathematical and physical methods to simple problems. C Explain the general procedure of mathematical modelling. D Describe how basic mathematical ideas can be used to describe physical phenomena.",
         "Method of teaching and learning": "Each week, students are expected to attend two hours of formal lectures delivered by the School of Mathematics and Physics and one hour of tutorial delivered by LIFE as part of the common Semester 1 Academic Horizons spine."
       },
       "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH020&psl_code=SEM1"
