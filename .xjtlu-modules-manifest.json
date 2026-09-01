@@ -282,8 +282,6 @@
     "COM|COM - Media and Communication/COM420.json",
     "COM|COM - Media and Communication/COM421.json",
     "CPT|CPT - Computing",
-    "CPT|CPT - Computing/CPT414.json",
-    "CPT|CPT - Computing/CPT415.json",
     "DES|DES - Design",
     "DES|DES - Design/DES004.json",
     "DES|DES - Design/DES006.json",
@@ -2120,7 +2118,7 @@
     "UPD|UPD - Urban Planning and Design/UPD408.json",
     "UPD|UPD - Urban Planning and Design/UPD410.json"
   ],
-  "module_file_count": 2049,
+  "module_file_count": 2047,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -3699,18 +3697,6 @@
       "module_code": "COM421",
       "module_level": "Level 4",
       "path": "COM|COM - Media and Communication/COM421.json"
-    },
-    {
-      "full_name": "Affective Computing",
-      "module_code": "CPT414",
-      "module_level": "Level 4",
-      "path": "CPT|CPT - Computing/CPT414.json"
-    },
-    {
-      "full_name": "Animation Technology for Computer Game and Interactive Media",
-      "module_code": "CPT415",
-      "module_level": "Level 4",
-      "path": "CPT|CPT - Computing/CPT415.json"
     },
     {
       "full_name": "Future Cities",
