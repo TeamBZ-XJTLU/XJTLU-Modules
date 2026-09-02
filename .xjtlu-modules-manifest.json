@@ -1245,22 +1245,22 @@
     "LNG|LNG - Applied Linguistics/LNG418.json",
     "LNG|LNG - Applied Linguistics/LNG419.json",
     "LNG|LNG - Applied Linguistics/LNG423.json",
-    "MEC|MEC - Mechatronics and Robotics",
-    "MEC|MEC - Mechatronics and Robotics/MEC103.json",
-    "MEC|MEC - Mechatronics and Robotics/MEC106.json",
-    "MEC|MEC - Mechatronics and Robotics/MEC108.json",
-    "MEC|MEC - Mechatronics and Robotics/MEC203.json",
-    "MEC|MEC - Mechatronics and Robotics/MEC204.json",
-    "MEC|MEC - Mechatronics and Robotics/MEC206.json",
-    "MEC|MEC - Mechatronics and Robotics/MEC208.json",
-    "MEC|MEC - Mechatronics and Robotics/MEC301.json",
-    "MEC|MEC - Mechatronics and Robotics/MEC303.json",
-    "MEC|MEC - Mechatronics and Robotics/MEC304.json",
-    "MEC|MEC - Mechatronics and Robotics/MEC305.json",
-    "MEC|MEC - Mechatronics and Robotics/MEC306.json",
-    "MEC|MEC - Mechatronics and Robotics/MEC307.json",
-    "MEC|MEC - Mechatronics and Robotics/MEC401.json",
-    "MEC|MEC - Mechatronics and Robotics/MEC402.json",
+    "MEC|MEC - Mechatronic Systems",
+    "MEC|MEC - Mechatronic Systems/MEC103.json",
+    "MEC|MEC - Mechatronic Systems/MEC106.json",
+    "MEC|MEC - Mechatronic Systems/MEC108.json",
+    "MEC|MEC - Mechatronic Systems/MEC203.json",
+    "MEC|MEC - Mechatronic Systems/MEC204.json",
+    "MEC|MEC - Mechatronic Systems/MEC206.json",
+    "MEC|MEC - Mechatronic Systems/MEC208.json",
+    "MEC|MEC - Mechatronic Systems/MEC301.json",
+    "MEC|MEC - Mechatronic Systems/MEC303.json",
+    "MEC|MEC - Mechatronic Systems/MEC304.json",
+    "MEC|MEC - Mechatronic Systems/MEC305.json",
+    "MEC|MEC - Mechatronic Systems/MEC306.json",
+    "MEC|MEC - Mechatronic Systems/MEC307.json",
+    "MEC|MEC - Mechatronic Systems/MEC401.json",
+    "MEC|MEC - Mechatronic Systems/MEC402.json",
     "MESTC|CHP - Microelectronic Science and Engineering",
     "MESTC|CHP - Microelectronic Science and Engineering/MES001TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES003TC.json",
@@ -9294,91 +9294,91 @@
       "full_name": "Statics",
       "module_code": "MEC103",
       "module_level": "Level 1",
-      "path": "MEC|MEC - Mechatronics and Robotics/MEC103.json"
+      "path": "MEC|MEC - Mechatronic Systems/MEC103.json"
     },
     {
       "full_name": "Engineering Drawing",
       "module_code": "MEC106",
       "module_level": "Level 1",
-      "path": "MEC|MEC - Mechatronics and Robotics/MEC106.json"
+      "path": "MEC|MEC - Mechatronic Systems/MEC106.json"
     },
     {
       "full_name": "Introduction to Mechatronics",
       "module_code": "MEC108",
       "module_level": "Level 1",
-      "path": "MEC|MEC - Mechatronics and Robotics/MEC108.json"
+      "path": "MEC|MEC - Mechatronic Systems/MEC108.json"
     },
     {
       "full_name": "Introductory Solid Mechanics",
       "module_code": "MEC203",
       "module_level": "Level 2",
-      "path": "MEC|MEC - Mechatronics and Robotics/MEC203.json"
+      "path": "MEC|MEC - Mechatronic Systems/MEC203.json"
     },
     {
       "full_name": "Mechanical Engineering Design",
       "module_code": "MEC204",
       "module_level": "Level 2",
-      "path": "MEC|MEC - Mechatronics and Robotics/MEC204.json"
+      "path": "MEC|MEC - Mechatronic Systems/MEC204.json"
     },
     {
       "full_name": "Dynamic Systems",
       "module_code": "MEC206",
       "module_level": "Level 2",
-      "path": "MEC|MEC - Mechatronics and Robotics/MEC206.json"
+      "path": "MEC|MEC - Mechatronic Systems/MEC206.json"
     },
     {
       "full_name": "Instrumentation and Control System",
       "module_code": "MEC208",
       "module_level": "Level 2",
-      "path": "MEC|MEC - Mechatronics and Robotics/MEC208.json"
+      "path": "MEC|MEC - Mechatronic Systems/MEC208.json"
     },
     {
       "full_name": "Digital Control and Automatic Control",
       "module_code": "MEC301",
       "module_level": "Level 3",
-      "path": "MEC|MEC - Mechatronics and Robotics/MEC301.json"
+      "path": "MEC|MEC - Mechatronic Systems/MEC301.json"
     },
     {
       "full_name": "Industrial Automation and Robot Control",
       "module_code": "MEC303",
       "module_level": "Level 3",
-      "path": "MEC|MEC - Mechatronics and Robotics/MEC303.json"
+      "path": "MEC|MEC - Mechatronic Systems/MEC303.json"
     },
     {
       "full_name": "Optimization",
       "module_code": "MEC304",
       "module_level": "Level 3",
-      "path": "MEC|MEC - Mechatronics and Robotics/MEC304.json"
+      "path": "MEC|MEC - Mechatronic Systems/MEC304.json"
     },
     {
       "full_name": "Robotic Systems",
       "module_code": "MEC305",
       "module_level": "Level 3",
-      "path": "MEC|MEC - Mechatronics and Robotics/MEC305.json"
+      "path": "MEC|MEC - Mechatronic Systems/MEC305.json"
     },
     {
       "full_name": "Manufacturing Engineering",
       "module_code": "MEC306",
       "module_level": "Level 3",
-      "path": "MEC|MEC - Mechatronics and Robotics/MEC306.json"
+      "path": "MEC|MEC - Mechatronic Systems/MEC306.json"
     },
     {
       "full_name": "Mechatronic Systems Development",
       "module_code": "MEC307",
       "module_level": "Level 3",
-      "path": "MEC|MEC - Mechatronics and Robotics/MEC307.json"
+      "path": "MEC|MEC - Mechatronic Systems/MEC307.json"
     },
     {
       "full_name": "Human-Robot Interaction",
       "module_code": "MEC401",
       "module_level": "Level 4",
-      "path": "MEC|MEC - Mechatronics and Robotics/MEC401.json"
+      "path": "MEC|MEC - Mechatronic Systems/MEC401.json"
     },
     {
       "full_name": "Digital Twin Engineering",
       "module_code": "MEC402",
       "module_level": "Level 4",
-      "path": "MEC|MEC - Mechatronics and Robotics/MEC402.json"
+      "path": "MEC|MEC - Mechatronic Systems/MEC402.json"
     },
     {
       "full_name": "Nanobiotechnology",

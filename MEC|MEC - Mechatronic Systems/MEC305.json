@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MEC",
+    "domain_code": "MEC",
+    "full_name": "Mechatronic Systems"
+  },
+  "full_name": "Robotic Systems",
+  "module_code": "MEC305",
+  "offerings": [
+    {
+      "heading": "Robotic Systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MEC",
+        "full_name": "Robotic Systems",
+        "module_code": "MEC305",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Robotic Systems",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The Robotic Systems module provides students with fundamental knowledge and practical skills in modern robotics, preparing them for careers in automation and intelligent systems. Through a combination of theoretical instruction and hands-on practice, students will develop competencies in robotic component selection, system integration, control algorithm development, and programming for robotic applications. By emphasizing both conceptual understanding and practical implementation, this module enables students to bridge theoretical knowledge with real-world robotic applications, support capstone projects and future specialization in areas such as autonomous systems, industrial automation, and robotic software development.",
+        "Learning outcomes": "A. Identify and explain the role of key components in electro-mechanical systems and industrial robotic systems. B. Evaluate the functionality and efficiency of robot components within a given robotic system, providing reasoned justifications for their suitability. C. Design and implement robot controllers using robot programming languages, and apply controller tuning methods to optimize performance. D. Configure and control robotic hardware systems to meet predefined objectives.",
+        "Method of teaching and learning": "This module combines theoretical instruction and hands-on practice to develop skills in designing, analyzing, and controlling robotic systems. Formal lectures introduce foundational concepts, such as the roles of electro-mechanical components, typical controllers in robotic systems, supported by case studies to contextualize their real-world applications. Tutorials focus on collaborative problem-solving, where students evaluate the efficiency of robotic components, propose design improvements, and simulate controller-tuning strategies to optimize performance. Laboratory sessions immerse students in practical tasks, such as programming robotic hardware and refining controllers to implement robot control tasks. Independent learning is integrated through tasks like analyzing robotic system case studies, prototyping controller logic in software, and reviewing technical documentation to justify design choices. Students receive ongoing support via structured feedback during labs, peer discussions in tutorials, and access to simulation tools for self-paced experimentation."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MEC305&psl_code=SEM2"
+    }
+  ]
+}

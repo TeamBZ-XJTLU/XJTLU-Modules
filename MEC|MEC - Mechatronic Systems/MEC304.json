@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MEC",
+    "domain_code": "MEC",
+    "full_name": "Mechatronic Systems"
+  },
+  "full_name": "Optimization",
+  "module_code": "MEC304",
+  "offerings": [
+    {
+      "heading": "Optimization",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MEC",
+        "full_name": "Optimization",
+        "module_code": "MEC304",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Optimization",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to equip students with a solid understanding of various engineering optimization problems and the methods used to solve them. It enables students to identify and select appropriate optimization techniques for specific engineering applications, and to develop computational solutions for these problems. Through this module, students will also build a strong foundation in optimization theory and practice, fostering the ability to independently extend their knowledge and apply optimization concepts to more advanced and diverse engineering challenges.",
+        "Learning outcomes": "A. Apply optimisation techniques to analyse, model, and solve complex engineering problems. B. Design and implement optimisation algorithms to solve defined engineering problems, and evaluate their effectiveness. C. Select and utilise appropriate programming, design, and simulation tools to solve fundamental engineering optimisation problems, justifying the approach taken.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures and supervised laboratory sessions. Lectures will introduce and explain the key theoretical concepts that form the basis of the subject, while laboratory sessions will allow students to apply these concepts in practice through hands-on experiments and problem-solving activities. This approach helps students connect theory with practice and develop both understanding and practical skills."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MEC304&psl_code=SEM1"
+    }
+  ]
+}

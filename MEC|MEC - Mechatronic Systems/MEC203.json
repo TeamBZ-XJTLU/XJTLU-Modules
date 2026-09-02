@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MEC",
+    "domain_code": "MEC",
+    "full_name": "Mechatronic Systems"
+  },
+  "full_name": "Introductory Solid Mechanics",
+  "module_code": "MEC203",
+  "offerings": [
+    {
+      "heading": "Introductory Solid Mechanics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MEC",
+        "full_name": "Introductory Solid Mechanics",
+        "module_code": "MEC203",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Introductory Solid Mechanics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Introductory Solid Mechanics provides students with a fundamental understanding of stress analysis, material deformation, and failure criteria, equipping them with the analytical and numerical skills essential for designing and evaluating load-bearing mechanical structures. This module prepares students for the dynamic systems module and supports students in their final dissertation projects by providing the core knowledge required for structural design and stress analysis in real-world engineering applications.",
+        "Learning outcomes": "A Apply solid mechanics principles to analyse simple solid structures and elements, including calculations of internal stress and strain, deformation, failure criteria, etc. B Determine the internal stresses, displacements, and eigenfrequencies in engineering structures using appropriate finite element analysis (FEA) methods. C Solve problems related to free and forced vibration of simple mechanical systems by applying mechanical vibration theory. D Design and analyse a solid structure to safely support loads, considering structural integrity, inclusivity, and environmental impact. E Clearly communicate the design and stress analysis process and outcomes, while actively planning self-directed learning and development through continuous reflective practice.",
+        "Method of teaching and learning": "Introductory Solid Mechanics utilizes a diverse range of teaching and learning methods to support students in mastering fundamental analytical and numerical solid mechanics skills. These include interactive lectures to introduce key concepts and theories, tutorials to apply these principles to real problems, and labs to reinforce learning through hands-on application, enabling students to design and analyse mechanical structures using solid mechanics techniques. Independent study is strongly encouraged, with students expected to engage in solving problems and conducting structural analysis using both analytical and numerical methods."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MEC203&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MEC",
+    "domain_code": "MEC",
+    "full_name": "Mechatronic Systems"
+  },
+  "full_name": "Industrial Automation and Robot Control",
+  "module_code": "MEC303",
+  "offerings": [
+    {
+      "heading": "Industrial Automation and Robot Control",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MEC",
+        "full_name": "Industrial Automation and Robot Control",
+        "module_code": "MEC303",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Industrial Automation and Robot Control",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course aims to introduce fundamental robotics concepts, including theoretical ​​forward/inverse kinematics, workspace analysis, trajectory planning, and control systems​, with the empirical skills to ​​design, model, and evaluate industrial robotic systems​​. Building upon prior knowledge of linear algebra, kinematics, dynamics, and control theory, the module strengthens students’ ability to critically assess the performance and constraints of robotic systems in real-world scenarios. This analytical rigor is central to the field of mechatronics and prepares students for advanced study or industrial challenges, where the integration of mechanical, electrical, and computational systems is essential.",
+        "Learning outcomes": "A. Analyze the fundamental principles of industrial robotic design and application, evaluating the advantages of different types of manipulators in solving real-world industrial problems. B. Model and analyze the kinematics and velocity kinematics of robotic manipulators, applying coordinate transformations and analytical methods to solve both forward and inverse kinematic problems. C. Design and implement control algorithms for robotic joints, evaluating their performance against specifications for stability, accuracy, and response. D. Integrate and validate robotic systems by developing functional programs and troubleshooting operational issues in an industrial automation context. E. Formulate and justify solutions to complex automation challenges by synthesizing knowledge of kinematics, dynamics, control, and system integration.",
+        "Method of teaching and learning": "This module employs a blended approach to develop both ​​theoretical understanding​​ and ​​practical proficiency​​ in robotics. Interactive lectures establish foundational principles in kinematics, dynamics, and control, enriched with real-world case studies to contextualize theory. This module is primarily assessed through a structured assessment portfolio. Designed to comprehensively cover all module Learning Outcomes, the portfolio consists of several tasks that evaluate students' competencies in all key areas of the module, including: Assignment: Derivation & Coding in Kinematics, Dynamics & Path Plan Lab: Kinematics Implementation on Manipulator and a Class Test. Assignment includes three sub-Assessments, set for theoretical derivations and MATLAB-based coding and verifications, with aerial robots dynamics analysis and path planning. Lab includes hands-on laboratory sessions​​ serve as the cornerstone of the module, where students apply concepts through programming industrial manipulators, gaining direct experience in system implementation. Very detailed programming instructions and vivid in-lab demonstrations would be provided for students to get familiar with hardware components and coding tools. Formative assessments—including mid-term exercise and in-class tasks—provide structured feedback, ensuring steady progress while reinforcing key concepts."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MEC303&psl_code=SEM1"
+    }
+  ]
+}
