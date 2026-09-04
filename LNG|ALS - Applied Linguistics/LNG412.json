@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Individual Differences In Language Learning",
+  "module_code": "LNG412",
+  "offerings": [
+    {
+      "heading": "Individual Differences In Language Learning",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Individual Differences In Language Learning",
+        "module_code": "LNG412",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Individual Differences In Language Learning",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This optional module on the MA TESOL programme is suitable for in-service and new language practitioners who are interested in the individual differences that characterise their learners and who wish to benefit from an in-depth understanding of how such differences impact or predict language learning success so as to inform teaching practice that enables learners to achieve their full potential. This module is likely to appeal to students who have continued interest in the selection of individual difference variables introduced in the S1 compulsory module LNG407 Second Language Acquisition (SLA), want to further their study or specialise in this subfield of SLA and wish to conduct their Masters thesis on individual differences variables. This optional module builds on and extends LNG407 SLA, elaborating and expanding upon the selection of psycholinguistic and sociolinguistic differences found among learners from a research-oriented and pedagogy-informed perspective. Specifically, the module connects theory and research by dedicating a situated lens into the theories and hypotheses underlying individual difference variables against empirical studies in diverse settings while placing a heavy focus on reviewing the methodological advancements in the investigation of such variables. This module also complements LNG406(S2) Research Methods with ample real-world adaptations of research methods in examining various language learning phenomena. The strong emphasis on integrating theory with empirical work bridges knowledge with practice, facilitating students in preparing for their dissertation projects. This optional module contributes a pedagogical dimension, with each session targeting one aspect of individual differences while examining and reflecting upon the implications of such differences for language teaching pedagogy, which is crucial for language practitioners in the TESOL profession. Such a pedagogical focus not only draws on and consolidates the knowledge of another S1 compulsory module LNG403 Methods in English Language Teaching, but also goes hand-in-hand with the S2 compulsory module LNG404 Speaking and Listening which shares a reflective teaching component, in promoting students’ awareness and knowledge to practice research-led teaching in their classrooms. This optional module provides an overview of the subfield of individual differences in SLA, offering the opportunity for students to consider learners as individuals and to discuss and develop pedagogical approaches that take into account learner commonalities and distinctions and to situate the individual differences in the wider context of language teaching and learning theories.",
+        "Learning outcomes": "A:Demonstrate critical understanding of the theoretical debates underpinning the individual learner differences and how such individual differences may facilitate or impede language learning outcomes B:Apply broad theories and concepts of language learning to the specific field of individual learner differences C:Analyse research studies and evaluate research methodologies that pertain to the investigation of individual learner differences D:Critically reflect on their own teaching context and draw implications from research in individual differences to this specific context E: Develop language teaching strategies and techniques to practically address individual learner differences",
+        "Method of teaching and learning": "The teaching sessions consist of lectures and seminar discussions. Students are expected to complete the weekly essential reading prior to each session, with the assistance of guiding questions designed to stimulate discussion during the sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG412&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "TRI",
+    "full_name": "Translation and Interpreting"
+  },
+  "full_name": "Translation in Context",
+  "module_code": "TRI108",
+  "offerings": [
+    {
+      "heading": "Translation in Context",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "TRI",
+        "full_name": "Translation in Context",
+        "module_code": "TRI108",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Translation in Context",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This is a foundation module that prepares students for various forms of translation practices suited to different societal contexts. It first introduces students to the concepts of “context” and “contextualization”, developing students’ awareness of how changing contexts dynamically shape the understanding of source text and the production of target texts. It then familiarises students with different common societal contexts of translation by sharing basic contextual knowledge and simulating contextual scenarios in which students exercise applying the contextual knowledge to translation.",
+        "Learning outcomes": "A. Demonstrate knowledge of the concepts of “context” and “contextualization”; B. Describe how translation is a dynamic process shaped by its changing contexts; C. Distinguish major societal contextual variables of translation; D. Apply contextual knowledge to translation practice.",
+        "Method of teaching and learning": "This module is delivered by a combination of lectures and tutorials. Lectures are designed to introduce students to the basic concepts of “context” and “contextualization” and how various contextual factors contribute to the understanding of source texts and the production of target texts. Tutorials simulate societal translation contexts in which students have hands-on opportunities to exercise applying the contextual knowledge to translation, deepening their understanding of translation in context."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=TRI108&psl_code=SEM2"
+    }
+  ]
+}

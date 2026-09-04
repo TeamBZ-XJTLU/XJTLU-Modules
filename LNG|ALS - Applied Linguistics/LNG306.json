@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Forensic Linguistics",
+  "module_code": "LNG306",
+  "offerings": [
+    {
+      "heading": "Forensic Linguistics",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "LNG",
+        "full_name": "Forensic Linguistics",
+        "module_code": "LNG306",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Forensic Linguistics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module offers an in-depth exploration of the intersection between language and law, equipping students with both theoretical knowledge and practical tools for analyzing linguistic evidence in legal contexts. Students will be introduced to foundational concepts and methodologies in forensic linguistics, with a special emphasis on the application of linguistic analysis to real-world legal issues. Through a combination of case studies, text analysis, and legal scenarios, students will critically evaluate legal discourse, authorship disputes, and language crimes. Key topics include authorship attribution, plagiarism detection, courtroom discourse, and forensic data analysis, enabling students to develop practical skills for interdisciplinary research. Additionally, the module highlights the ethical and methodological challenges in forensic linguistics, preparing students for both academic study and professional application in the field.",
+        "Learning outcomes": "A. Apply forensic linguistic techniques to analyze authorship, deception, and courtroom discourse. B. Critically evaluate the role of language in legal and forensic contexts, including police interviews, legal proceedings, and textual evidence. C. Present coherent forensic linguistic analyses both orally and in written form, using real or simulated legal data. D. Address gaps in forensic research to demonstrate understanding of the limitations and strengths of various linguistic approaches to legal problems. E. Critically engage with ethical issues in forensic linguistic work, particularly regarding privacy, data handling, and courtroom testimony.",
+        "Method of teaching and learning": "Interactive lectures and seminars, introducing concepts, methodologies, and providing practical workshops during seminar times."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG306&psl_code=SEM2"
+    }
+  ]
+}

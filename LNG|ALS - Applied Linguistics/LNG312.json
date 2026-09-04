@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Ecolinguistics: Language and the Environment",
+  "module_code": "LNG312",
+  "offerings": [
+    {
+      "heading": "Ecolinguistics: Language and the Environment",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "LNG",
+        "full_name": "Ecolinguistics: Language and the Environment",
+        "module_code": "LNG312",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Ecolinguistics: Language and the Environment",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This Year 4 module introduces students to the interdisciplinary field of ecolinguistics, which explores the relationship between language, communication, and the environment. Through a combination of theoretical and practical approaches, students will examine how language shapes our perceptions, beliefs, and behaviors towards the natural world. Students will also explore the role of language in environmental and sustainability efforts. This module aims to develop critical thinking skills and raise awareness about the importance of linguistic choices in addressing environmental challenges.",
+        "Learning outcomes": "A. Demonstrate an understanding of basic concepts and theories of ecolinguistics through analysis. B. Analyze and interpret how language constructs and reflects environmental attitudes and practices. C. Evaluate the impact of linguistic choices on environmental advocacy and sustainability efforts. D. Critically reflect on the role of language in shaping our relationship with the natural world.",
+        "Method of teaching and learning": "Interactive lectures and seminars, introducing concepts, methodologies, and providing practical workshops during seminar times."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG312&psl_code=SEM2"
+    }
+  ]
+}

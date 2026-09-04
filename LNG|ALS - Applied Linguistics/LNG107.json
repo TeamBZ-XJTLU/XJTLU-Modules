@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Introduction to Linguistics: Spoken & Written Discourse",
+  "module_code": "LNG107",
+  "offerings": [
+    {
+      "heading": "Introduction to Linguistics: Spoken & Written Discourse",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Introduction to Linguistics: Spoken & Written Discourse",
+        "module_code": "LNG107",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Linguistics: Spoken & Written Discourse",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course introduces students to some key concepts, analytical tools and approaches, and some popular and emergent topics in the field of discourse analysis, relating to both spoken and written discourse. To do this, spoken and written texts drawn from a variety of genres, and from varied social, cultural or professional contexts, will be used to illustrate how meaning can be organised and conveyed in human communication. Through guiding the students to examine naturally-occurring spoken and written discourse, the module aims to develop students’ critical understanding of how context influences languages in use The module prepares students for their later studies/future career in mainly three ways. Firstly, students will gain critical understanding of how meaning can be skillfully negotiated through spoken and written discourse. Such understanding is crucial to various professions that the students will pursue. Secondly, students will learn some fundamental theories which help them to see how discourse reproduces social and cultural values. This in turn nurtures students’ critical thinking and their sensitivity to the social functions of discourse. Thirdly, students will be introduced to a range of topics in the investigation of spoken and written discourse, such as discourse and gender, work place discourse, multilingual discourse, multimodal discourse, classroom discourse, or internet discourse etc. This gives the students general understanding of the disciplinary studies related to discourse analysis and encourages them to consider the implications of discourse analysis for the research into how language is used to get things done in specific contexts.",
+        "Learning outcomes": "A Demonstrate clear understanding of some key topics related to the role that spoken and written discourse play in various professions; B Demonstrate an awareness of some key subfields under discourse analysis; C Become familiar with some fundamental frameworks for critical analysis of written and spoken texts; D Examine the relationships between the contexts of use and linguistic features in a variety of written and spoken discourse genres; E Use appropriate tools for studying discourse features of spoken and written texts; F Apply discourse analysis to describe social practices and cultural phenomena.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: lectures and tutorials. The lectures cover theories, demonstrate engaging examples and sample analysis; while the tutorials invite students to put their newly gained knowledge into active practice."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG107&psl_code=SEM1"
+    }
+  ]
+}

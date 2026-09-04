@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "TRI",
+    "full_name": "Translation and Interpreting"
+  },
+  "full_name": "Essentials of Translation and Interpreting",
+  "module_code": "TRI002",
+  "offerings": [
+    {
+      "heading": "Essentials of Translation and Interpreting",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "TRI",
+        "full_name": "Essentials of Translation and Interpreting",
+        "module_code": "TRI002",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Essentials of Translation and Interpreting",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module prepares students for progression to the BA Translation and Interpreting programme by providing a structured introduction to the discipline’s core concepts, modes and professional contexts. Through case studies, guided discussion and introductory translation and interpreting tasks, students explore the interplay between theory and practice and examine how translation is shaped by wider social, cultural and technological change. The module establishes the foundational disciplinary knowledge and critical judgement required for subsequent study in translation and interpreting.",
+        "Learning outcomes": "A. demonstrate a foundational understanding of the Translation and Interpreting in the digital age. B. demonstrate knowledge of general principles and major concepts in Translation and Interpreting. C. analyse some of the fundamental questions addressed in Translation and Interpreting using appropriate disciplinary terminology. D. apply basic strategies to translation and interpreting tasks with awareness of quality and professional responsibility.",
+        "Method of teaching and learning": "The module is delivered through a combination of lectures and tutorial. Lectures introduce foundational concepts, major areas of translation and interpreting, changing professional contexts and emerging digital practices. Tutorials consolidate learning through guided discussion, case analysis, and hands-on translation and interpreting activities."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=TRI002&psl_code=SEM2"
+    }
+  ]
+}

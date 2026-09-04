@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Intercultural Communication",
+  "module_code": "LNG308",
+  "offerings": [
+    {
+      "heading": "Intercultural Communication",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Intercultural Communication",
+        "module_code": "LNG308",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Intercultural Communication",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the comparative study of cultures through a range of conceptual and theoretical frameworks. It aims to equip students with knowledge of key concepts of cultural and ideational diversity, develop their awareness of the cultural mediation of communication, and heighten their sensitivity to intercultural differences. Learners should be able to identify and explore the ways that cultural factors relate to communication strategies and styles, and to analyze and reflect on the implications for intercultural communicative practice in corporate, professional, and pedagogical contexts.",
+        "Learning outcomes": "A. demonstrate knowledge of key concepts in the relevant areas of linguistics, communication, anthropology, psychology and sociology, and of key developmental stages in the modern field of intercultural communication B. critically evaluate and discuss conceptualizations of culture and diverse cultures, and how they are connected with language practice C. demonstrate awareness of the ways in which concepts of culture are used for verbal and nonverbal communication, and for analytical and explanatory purposes D. analyse specific cases of cross-cultural conflict or miscommunication with language-related approaches E. demonstrate reflexive awareness of the influence of cultural conditioning on the attitudes and behavior of themselves and others, and on language practice, particularly in intercultural contexts F. reflect on the implications of intercultural communication concepts and empirical research for their own learning in an intercultural educational environment, and for their future career in the area of, say, international business.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (Lectures and Seminars). Lectures which will offer information on key concepts and research in the field, as well as ideas and instances of how they might be understood. Seminars link the lecture material to specific case-studies, give the students time to discuss concepts and cases in detail, and provide opportunities for learners to develop their own interpretations, reactions, and analytical skills."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG308&psl_code=SEM2"
+    }
+  ]
+}

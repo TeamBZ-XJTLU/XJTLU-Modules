@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "TRI",
+    "full_name": "Translation and Interpreting"
+  },
+  "full_name": "Translation and Culture",
+  "module_code": "TRI207",
+  "offerings": [
+    {
+      "heading": "Translation and Culture",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "TRI",
+        "full_name": "Translation and Culture",
+        "module_code": "TRI207",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Translation and Culture",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module explores key issues concerning both translation and culture. The translated cultural texts typically included in this module concern theatre/opera, classics/philosophy, travel/missionary, museum/gallery, film/TV, science fiction, fable/idiom/proverb, musical/visual and fine arts. Half of the texts are translated from Chinese to English, and half from English to Chinese. By examining a wide range of cultural themes, formats and their cross-cultural translations, this module aims to equip students with fundamental knowledge about the translation of disparate cultural forms, and the ways in which translators have approached them and reflected on their translations. In doing so students will develop their ability to think critically about appropriate methods of cultural genre analysis. Through translation practice, students will develop advanced skills in translation, trans-editing, trans-creation and ultimately, persuasive translation-writing in the target language.",
+        "Learning outcomes": "A. Gain knowledge of cultural differences, text types and forms in translation B. Analyse and evaluate selected translated cultural texts in the historical, literary, and cultural context of the source text and the target text C. Use translating tools to make effective responses to various translated cultural texts D. Demonstrate familiarity in translating cultural texts, reflect on translation strategies, and improve translation skills E. Critically evaluate the cultural differences between Chinese-speaking and English-speaking worlds, and ways to deal with these differences in translation from local and global perspectives",
+        "Method of teaching and learning": "The teaching is divided into lectures and tutorials. Lectures are designed to equip students with a comprehensive understanding of major cultural text types and their representative translations, and to provide critical and conceptual frameworks for thinking about and translating these cultural texts. Tutorials intend to offer students a space to practice translation of different text types, and to present their translations and reflections on individual or group basis so as to encourage discussion and debate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=TRI207&psl_code=SEM2"
+    }
+  ]
+}

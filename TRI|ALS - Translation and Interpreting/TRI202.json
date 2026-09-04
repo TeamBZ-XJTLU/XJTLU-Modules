@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "TRI",
+    "full_name": "Translation and Interpreting"
+  },
+  "full_name": "Interpreting",
+  "module_code": "TRI202",
+  "offerings": [
+    {
+      "heading": "Interpreting",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "TRI",
+        "full_name": "Interpreting",
+        "module_code": "TRI202",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Interpreting",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "• To provide an overview of the key principles and technological developments underpinning contemporary interpreting practice; • To develop students’ fundamental interpreting skills while exploring how emerging technologies such as AI, ASR, MT and CAI tools reshape interpreting processes and professional roles; • To examine the evolving social and ethical roles of interpreters in technology-mediated communication settings; • To enhance students’ awareness of cognitive, analytical, and decision-making processes in both traditional and technology-supported interpreting contexts; • To cultivate digital and reflective competences by integrating technology into note-taking, self-assessment, and performance enhancement; • To prepare students to critically evaluate and effectively apply interpreting technologies, fostering adaptability and future-readiness within the rapidly changing language service industry.",
+        "Learning outcomes": "A. Identify the core principles of interpreting and evaluate how technological advances (e.g. AI, ASR and CAI tools) are transforming interpreting practices; B. Demonstrate understanding of ethical, cognitive, and practical issues in both human and technology-mediated interpreting contexts; C. Apply basic interpreting techniques in consecutive interpreting and technology-assisted interpreting tasks across a range of general topics; D. Use digital and AI-based tools critically and reflectively to enhance interpreting performance and self-assessment; E. Understand the implications of technological developments for the professional roles, responsibilities, and employability of interpreters in the evolving language service industry.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (Lectures and Tutorials/workshops). Lectures Tutorials/ workshop"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=TRI202&psl_code=SEM2"
+    }
+  ]
+}

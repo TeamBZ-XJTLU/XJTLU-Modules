@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LIT",
+    "full_name": "Literature"
+  },
+  "full_name": "Gothic Literature in Global Context",
+  "module_code": "LIT304",
+  "offerings": [
+    {
+      "heading": "Gothic Literature in Global Context",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "LIT",
+        "full_name": "Gothic Literature in Global Context",
+        "module_code": "LIT304",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Gothic Literature in Global Context",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course introduces students to the critical study of Gothic literature in historical perspective and in contemporary global settings. We will explore ways of understanding the Gothic as a global phenomenon over the past 250 years, tracking interconnections and divergences between national and regional varieties. Reading Gothic texts from Britain and Ireland and North America, as well as from other regions such as East Asia, the Middle East, and Scandinavia, we will think about Gothic not only as a genre but as a ‘mode’ that responds to historical processes including decolonization and globalization. We will explore continuities and differences in the definition of the Gothic between cultures, attending to the relationship in a number of literatures to older local folkloric traditions such as Chinese zhiguai, Japanese kaidan, and Scandinavian sagas. By studying and discussing Gothic texts, learners will develop advanced skills in critical thinking, persuasive writing, and genre analysis. By exploring works from around the world either originally in English or in impactful English translations, students will gain insights into the plurality of Englishes in spoken, written and electronically mediated form. The module fits the global scope of the English Studies programme, and directly addresses a number of key programme-level learning outcomes. Students completing the module will widen and deepen their knowledge and understanding of literature in English (including in translation) from a variety of historical periods and global contexts, including a number of texts from before 1800. They will also gain significant further practice in analysing texts using a diversity of critical frameworks, while also attending to the significance of historical, cultural, and linguistic contexts, as well as issues of form, mode, and genre. Overall the module aims to: • Introduce students to the cultural phenomenon and traditions of the Gothic, covering texts which are common cultural reference points, historic and contemporary; • Provide critical and conceptual frameworks for thinking about and interpreting these texts; • Encourage students to consider relationships between texts and contexts, production and reception, in local and global perspectives; • Encourage students to develop original and persuasive readings of texts, informed by close reading and knowledge of key contexts and critical perspectives.",
+        "Learning outcomes": "A. produce independent critical analyses of the Gothic in literature and culture B. demonstrate awareness and critical understanding of the cultural phenomenon of the Gothic in historical and global contexts, including the role of English as a lingua franca C. structure coherent, perceptive and reflective responses to a variety of Gothic texts produced in a range of different media (prints, novels, audio recordings, films, etc.)",
+        "Method of teaching and learning": "The teaching sessions are divided into lectures and seminars. Lectures introduce relevant knowledge and ideas. Seminars facilitate reflective critical discussions about specific texts and contexts and allow students to produce, share and edit work on their portfolios. Seminars will also provide continuous guidance on the use and abuse of generative AI in the production of coursework assessments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LIT304&psl_code=SEM2"
+    }
+  ]
+}

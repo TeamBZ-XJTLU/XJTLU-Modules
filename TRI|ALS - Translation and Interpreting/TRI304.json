@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "TRI",
+    "full_name": "Translation and Interpreting"
+  },
+  "full_name": "Translation Workshop II",
+  "module_code": "TRI304",
+  "offerings": [
+    {
+      "heading": "Translation Workshop II",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "TRI",
+        "full_name": "Translation Workshop II",
+        "module_code": "TRI304",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Translation Workshop II",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with knowledge and skills needed in the professional translation world. It gives students intensive training in translating a wide variety of non-literary texts from English to Chinese and vice versa, in particular technical and scientific fields such as medicine, pharmacology, engineering, IT, technical product development and the full range of natural and applied sciences. The module is essentially practical in that it concentrates on translating representative material through regular home and class assignments.",
+        "Learning outcomes": "A. grasp key concepts involved in specialized translation B. conduct text analysis in terms of genre and/or register; C. translate non-literary texts from English into Chinese and vice versa.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (Lectures and Workshops). Lectures introduce students to relevant theories involved and skills used in the translation of professional texts; Workshops train students in the use of translation skills and provide students with hands-on practice of translation of various non-literary texts. The interactive approach will be adopted in class teaching."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=TRI304&psl_code=SEM2"
+    }
+  ]
+}

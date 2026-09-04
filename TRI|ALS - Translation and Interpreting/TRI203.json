@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "TRI",
+    "full_name": "Translation and Interpreting"
+  },
+  "full_name": "Language Studies for Translation",
+  "module_code": "TRI203",
+  "offerings": [
+    {
+      "heading": "Language Studies for Translation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "TRI",
+        "full_name": "Language Studies for Translation",
+        "module_code": "TRI203",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Language Studies for Translation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to linguistic knowledge relevant to translation and linguistic features of Chinese and English, and on this basis equips them with necessary skills to solve translation issues arising from language differences, aiming at preparing them for their future translation study.",
+        "Learning outcomes": "A. recognise Chinese and English as two languages with distinct grammatical features; B. identify the relationships between linguistic knowledge and translation; C. understand how language works at different text levels and how language details contribute to the textual effect; D. use appropriate translation strategies based on a proper understanding of language differences between Chinese and English.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: lectures and tutorials. Lectures are designed to help students understand the relevance of the science of language to translation; In the tutorial session, students develop their understanding of language differences through various real-life examples. Such examples will also put language knowledge in a context and help to enhance their understanding of topics on linguistics as well as their translation skills."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=TRI203&psl_code=SEM1"
+    }
+  ]
+}

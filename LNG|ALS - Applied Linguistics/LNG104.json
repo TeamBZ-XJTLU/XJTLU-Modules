@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Syntax",
+  "module_code": "LNG104",
+  "offerings": [
+    {
+      "heading": "Syntax",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Syntax",
+        "module_code": "LNG104",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Syntax",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to syntactic theories. The module builds on the more introductory treatment of grammatical structure that is provided at Level 1 in Introduction to Linguistics: Grammar, and asks students to apply and consider the virtues of different theories in syntactic analysis.",
+        "Learning outcomes": "A. Demonstrate knowledge of some key aspects of syntactic theories and approaches to language, including Generative Grammar and Cognitive Linguistics B. Analyse language at phrasal, clausal and sentential levels. C. Evaluate some key assumptions of approaches to grammar D. Apply syntactic theories to linguistic phenomena.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: Lectures and Tutorials//workshops."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG104&psl_code=SEM2"
+    }
+  ]
+}

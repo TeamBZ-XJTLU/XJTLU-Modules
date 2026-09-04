@@ -982,27 +982,27 @@
     "JPL|MLC - Japanese Language/JPL011.json",
     "JPL|MLC - Japanese Language/JPL012.json",
     "LAN|ELC - Comprehensive Use of Language",
-    "LIT|LTS - Literature",
-    "LIT|LTS - Literature/LIT101.json",
-    "LIT|LTS - Literature/LIT102.json",
-    "LIT|LTS - Literature/LIT103.json",
-    "LIT|LTS - Literature/LIT105.json",
-    "LIT|LTS - Literature/LIT201.json",
-    "LIT|LTS - Literature/LIT202.json",
-    "LIT|LTS - Literature/LIT203.json",
-    "LIT|LTS - Literature/LIT204.json",
-    "LIT|LTS - Literature/LIT205.json",
-    "LIT|LTS - Literature/LIT207.json",
-    "LIT|LTS - Literature/LIT208.json",
-    "LIT|LTS - Literature/LIT209.json",
-    "LIT|LTS - Literature/LIT211.json",
-    "LIT|LTS - Literature/LIT301.json",
-    "LIT|LTS - Literature/LIT304.json",
-    "LIT|LTS - Literature/LIT306.json",
-    "LIT|LTS - Literature/LIT307.json",
-    "LIT|LTS - Literature/LIT309.json",
-    "LIT|LTS - Literature/LIT310.json",
-    "LIT|LTS - Literature/LIT311.json",
+    "LIT|ALS - Literature",
+    "LIT|ALS - Literature/LIT101.json",
+    "LIT|ALS - Literature/LIT102.json",
+    "LIT|ALS - Literature/LIT103.json",
+    "LIT|ALS - Literature/LIT105.json",
+    "LIT|ALS - Literature/LIT201.json",
+    "LIT|ALS - Literature/LIT202.json",
+    "LIT|ALS - Literature/LIT203.json",
+    "LIT|ALS - Literature/LIT204.json",
+    "LIT|ALS - Literature/LIT205.json",
+    "LIT|ALS - Literature/LIT207.json",
+    "LIT|ALS - Literature/LIT208.json",
+    "LIT|ALS - Literature/LIT209.json",
+    "LIT|ALS - Literature/LIT211.json",
+    "LIT|ALS - Literature/LIT301.json",
+    "LIT|ALS - Literature/LIT304.json",
+    "LIT|ALS - Literature/LIT306.json",
+    "LIT|ALS - Literature/LIT307.json",
+    "LIT|ALS - Literature/LIT309.json",
+    "LIT|ALS - Literature/LIT310.json",
+    "LIT|ALS - Literature/LIT311.json",
     "LM|CCTC -",
     "LM|CCTC -/LMACC002.json",
     "LM|CCTC -/LMACC102.json",
@@ -1192,6 +1192,59 @@
     "LM|PHE -/LMSMO008.json",
     "LM|PHE -/LMSMO102.json",
     "LM|PHE -/LMSMO103.json",
+    "LNG|ALS - Applied Linguistics",
+    "LNG|ALS - Applied Linguistics/LNG001.json",
+    "LNG|ALS - Applied Linguistics/LNG101.json",
+    "LNG|ALS - Applied Linguistics/LNG103.json",
+    "LNG|ALS - Applied Linguistics/LNG104.json",
+    "LNG|ALS - Applied Linguistics/LNG105.json",
+    "LNG|ALS - Applied Linguistics/LNG106.json",
+    "LNG|ALS - Applied Linguistics/LNG107.json",
+    "LNG|ALS - Applied Linguistics/LNG108.json",
+    "LNG|ALS - Applied Linguistics/LNG201.json",
+    "LNG|ALS - Applied Linguistics/LNG202.json",
+    "LNG|ALS - Applied Linguistics/LNG204.json",
+    "LNG|ALS - Applied Linguistics/LNG206.json",
+    "LNG|ALS - Applied Linguistics/LNG207.json",
+    "LNG|ALS - Applied Linguistics/LNG208.json",
+    "LNG|ALS - Applied Linguistics/LNG209.json",
+    "LNG|ALS - Applied Linguistics/LNG210.json",
+    "LNG|ALS - Applied Linguistics/LNG213.json",
+    "LNG|ALS - Applied Linguistics/LNG214.json",
+    "LNG|ALS - Applied Linguistics/LNG216.json",
+    "LNG|ALS - Applied Linguistics/LNG301.json",
+    "LNG|ALS - Applied Linguistics/LNG302.json",
+    "LNG|ALS - Applied Linguistics/LNG303.json",
+    "LNG|ALS - Applied Linguistics/LNG304.json",
+    "LNG|ALS - Applied Linguistics/LNG305.json",
+    "LNG|ALS - Applied Linguistics/LNG306.json",
+    "LNG|ALS - Applied Linguistics/LNG307.json",
+    "LNG|ALS - Applied Linguistics/LNG308.json",
+    "LNG|ALS - Applied Linguistics/LNG309.json",
+    "LNG|ALS - Applied Linguistics/LNG310.json",
+    "LNG|ALS - Applied Linguistics/LNG311.json",
+    "LNG|ALS - Applied Linguistics/LNG312.json",
+    "LNG|ALS - Applied Linguistics/LNG313.json",
+    "LNG|ALS - Applied Linguistics/LNG314.json",
+    "LNG|ALS - Applied Linguistics/LNG401.json",
+    "LNG|ALS - Applied Linguistics/LNG402.json",
+    "LNG|ALS - Applied Linguistics/LNG403.json",
+    "LNG|ALS - Applied Linguistics/LNG404.json",
+    "LNG|ALS - Applied Linguistics/LNG405.json",
+    "LNG|ALS - Applied Linguistics/LNG406.json",
+    "LNG|ALS - Applied Linguistics/LNG407.json",
+    "LNG|ALS - Applied Linguistics/LNG408.json",
+    "LNG|ALS - Applied Linguistics/LNG409.json",
+    "LNG|ALS - Applied Linguistics/LNG410.json",
+    "LNG|ALS - Applied Linguistics/LNG411.json",
+    "LNG|ALS - Applied Linguistics/LNG412.json",
+    "LNG|ALS - Applied Linguistics/LNG413.json",
+    "LNG|ALS - Applied Linguistics/LNG414.json",
+    "LNG|ALS - Applied Linguistics/LNG415.json",
+    "LNG|ALS - Applied Linguistics/LNG417.json",
+    "LNG|ALS - Applied Linguistics/LNG418.json",
+    "LNG|ALS - Applied Linguistics/LNG419.json",
+    "LNG|ALS - Applied Linguistics/LNG423.json",
     "LNG|LNG - Applied Linguistics",
     "LNG|LNG - Applied Linguistics/LNG001.json",
     "LNG|LNG - Applied Linguistics/LNG101.json",
@@ -1687,111 +1740,6 @@
     "MTH|MAT - Mathematical Sciences/MTH446.json",
     "MTH|MAT - Mathematical Sciences/MTH447.json",
     "MTH|MAT - Mathematical Sciences/MTH448.json",
-    "MTH|MTH - Mathematical Sciences",
-    "MTH|MTH - Mathematical Sciences/MTH012.json",
-    "MTH|MTH - Mathematical Sciences/MTH015.json",
-    "MTH|MTH - Mathematical Sciences/MTH020.json",
-    "MTH|MTH - Mathematical Sciences/MTH024.json",
-    "MTH|MTH - Mathematical Sciences/MTH026.json",
-    "MTH|MTH - Mathematical Sciences/MTH028.json",
-    "MTH|MTH - Mathematical Sciences/MTH030.json",
-    "MTH|MTH - Mathematical Sciences/MTH031.json",
-    "MTH|MTH - Mathematical Sciences/MTH032.json",
-    "MTH|MTH - Mathematical Sciences/MTH033.json",
-    "MTH|MTH - Mathematical Sciences/MTH066.json",
-    "MTH|MTH - Mathematical Sciences/MTH101.json",
-    "MTH|MTH - Mathematical Sciences/MTH102.json",
-    "MTH|MTH - Mathematical Sciences/MTH104.json",
-    "MTH|MTH - Mathematical Sciences/MTH106.json",
-    "MTH|MTH - Mathematical Sciences/MTH107.json",
-    "MTH|MTH - Mathematical Sciences/MTH108.json",
-    "MTH|MTH - Mathematical Sciences/MTH113.json",
-    "MTH|MTH - Mathematical Sciences/MTH116.json",
-    "MTH|MTH - Mathematical Sciences/MTH117.json",
-    "MTH|MTH - Mathematical Sciences/MTH118.json",
-    "MTH|MTH - Mathematical Sciences/MTH120.json",
-    "MTH|MTH - Mathematical Sciences/MTH122.json",
-    "MTH|MTH - Mathematical Sciences/MTH123.json",
-    "MTH|MTH - Mathematical Sciences/MTH125.json",
-    "MTH|MTH - Mathematical Sciences/MTH126.json",
-    "MTH|MTH - Mathematical Sciences/MTH127.json",
-    "MTH|MTH - Mathematical Sciences/MTH128.json",
-    "MTH|MTH - Mathematical Sciences/MTH129.json",
-    "MTH|MTH - Mathematical Sciences/MTH201.json",
-    "MTH|MTH - Mathematical Sciences/MTH202.json",
-    "MTH|MTH - Mathematical Sciences/MTH203.json",
-    "MTH|MTH - Mathematical Sciences/MTH205.json",
-    "MTH|MTH - Mathematical Sciences/MTH206.json",
-    "MTH|MTH - Mathematical Sciences/MTH207.json",
-    "MTH|MTH - Mathematical Sciences/MTH208.json",
-    "MTH|MTH - Mathematical Sciences/MTH209.json",
-    "MTH|MTH - Mathematical Sciences/MTH210.json",
-    "MTH|MTH - Mathematical Sciences/MTH212.json",
-    "MTH|MTH - Mathematical Sciences/MTH214.json",
-    "MTH|MTH - Mathematical Sciences/MTH217.json",
-    "MTH|MTH - Mathematical Sciences/MTH219.json",
-    "MTH|MTH - Mathematical Sciences/MTH222.json",
-    "MTH|MTH - Mathematical Sciences/MTH224.json",
-    "MTH|MTH - Mathematical Sciences/MTH227.json",
-    "MTH|MTH - Mathematical Sciences/MTH229.json",
-    "MTH|MTH - Mathematical Sciences/MTH230.json",
-    "MTH|MTH - Mathematical Sciences/MTH232.json",
-    "MTH|MTH - Mathematical Sciences/MTH233.json",
-    "MTH|MTH - Mathematical Sciences/MTH234.json",
-    "MTH|MTH - Mathematical Sciences/MTH236.json",
-    "MTH|MTH - Mathematical Sciences/MTH237.json",
-    "MTH|MTH - Mathematical Sciences/MTH238.json",
-    "MTH|MTH - Mathematical Sciences/MTH239.json",
-    "MTH|MTH - Mathematical Sciences/MTH301.json",
-    "MTH|MTH - Mathematical Sciences/MTH302.json",
-    "MTH|MTH - Mathematical Sciences/MTH303.json",
-    "MTH|MTH - Mathematical Sciences/MTH305.json",
-    "MTH|MTH - Mathematical Sciences/MTH306.json",
-    "MTH|MTH - Mathematical Sciences/MTH307.json",
-    "MTH|MTH - Mathematical Sciences/MTH308.json",
-    "MTH|MTH - Mathematical Sciences/MTH310.json",
-    "MTH|MTH - Mathematical Sciences/MTH312.json",
-    "MTH|MTH - Mathematical Sciences/MTH313.json",
-    "MTH|MTH - Mathematical Sciences/MTH315.json",
-    "MTH|MTH - Mathematical Sciences/MTH316.json",
-    "MTH|MTH - Mathematical Sciences/MTH318.json",
-    "MTH|MTH - Mathematical Sciences/MTH319.json",
-    "MTH|MTH - Mathematical Sciences/MTH321.json",
-    "MTH|MTH - Mathematical Sciences/MTH322.json",
-    "MTH|MTH - Mathematical Sciences/MTH323.json",
-    "MTH|MTH - Mathematical Sciences/MTH324.json",
-    "MTH|MTH - Mathematical Sciences/MTH325.json",
-    "MTH|MTH - Mathematical Sciences/MTH401.json",
-    "MTH|MTH - Mathematical Sciences/MTH402.json",
-    "MTH|MTH - Mathematical Sciences/MTH403.json",
-    "MTH|MTH - Mathematical Sciences/MTH404.json",
-    "MTH|MTH - Mathematical Sciences/MTH405.json",
-    "MTH|MTH - Mathematical Sciences/MTH406.json",
-    "MTH|MTH - Mathematical Sciences/MTH408.json",
-    "MTH|MTH - Mathematical Sciences/MTH409.json",
-    "MTH|MTH - Mathematical Sciences/MTH411.json",
-    "MTH|MTH - Mathematical Sciences/MTH412.json",
-    "MTH|MTH - Mathematical Sciences/MTH413.json",
-    "MTH|MTH - Mathematical Sciences/MTH414.json",
-    "MTH|MTH - Mathematical Sciences/MTH415.json",
-    "MTH|MTH - Mathematical Sciences/MTH416.json",
-    "MTH|MTH - Mathematical Sciences/MTH417.json",
-    "MTH|MTH - Mathematical Sciences/MTH418.json",
-    "MTH|MTH - Mathematical Sciences/MTH419.json",
-    "MTH|MTH - Mathematical Sciences/MTH420.json",
-    "MTH|MTH - Mathematical Sciences/MTH432.json",
-    "MTH|MTH - Mathematical Sciences/MTH433.json",
-    "MTH|MTH - Mathematical Sciences/MTH434.json",
-    "MTH|MTH - Mathematical Sciences/MTH435.json",
-    "MTH|MTH - Mathematical Sciences/MTH436.json",
-    "MTH|MTH - Mathematical Sciences/MTH438.json",
-    "MTH|MTH - Mathematical Sciences/MTH439.json",
-    "MTH|MTH - Mathematical Sciences/MTH443.json",
-    "MTH|MTH - Mathematical Sciences/MTH444.json",
-    "MTH|MTH - Mathematical Sciences/MTH445.json",
-    "MTH|MTH - Mathematical Sciences/MTH446.json",
-    "MTH|MTH - Mathematical Sciences/MTH447.json",
-    "MTH|MTH - Mathematical Sciences/MTH448.json",
     "MTH|SMP - Mathematical Sciences",
     "MTH|SMP - Mathematical Sciences/MTH012.json",
     "MTH|SMP - Mathematical Sciences/MTH015.json",
@@ -2063,34 +2011,34 @@
     "SPA|MLC - Spanish/SPA013.json",
     "SPA|MLC - Spanish/SPA014.json",
     "SPA|MLC - Spanish/SPA015.json",
-    "TRI|LTS - Translation and Interpreting",
-    "TRI|LTS - Translation and Interpreting/TRI002.json",
-    "TRI|LTS - Translation and Interpreting/TRI101.json",
-    "TRI|LTS - Translation and Interpreting/TRI102.json",
-    "TRI|LTS - Translation and Interpreting/TRI104.json",
-    "TRI|LTS - Translation and Interpreting/TRI106.json",
-    "TRI|LTS - Translation and Interpreting/TRI108.json",
-    "TRI|LTS - Translation and Interpreting/TRI201.json",
-    "TRI|LTS - Translation and Interpreting/TRI202.json",
-    "TRI|LTS - Translation and Interpreting/TRI203.json",
-    "TRI|LTS - Translation and Interpreting/TRI205.json",
-    "TRI|LTS - Translation and Interpreting/TRI206.json",
-    "TRI|LTS - Translation and Interpreting/TRI207.json",
-    "TRI|LTS - Translation and Interpreting/TRI208.json",
-    "TRI|LTS - Translation and Interpreting/TRI209.json",
-    "TRI|LTS - Translation and Interpreting/TRI210.json",
-    "TRI|LTS - Translation and Interpreting/TRI211.json",
-    "TRI|LTS - Translation and Interpreting/TRI212.json",
-    "TRI|LTS - Translation and Interpreting/TRI301.json",
-    "TRI|LTS - Translation and Interpreting/TRI302.json",
-    "TRI|LTS - Translation and Interpreting/TRI303.json",
-    "TRI|LTS - Translation and Interpreting/TRI304.json",
-    "TRI|LTS - Translation and Interpreting/TRI305.json",
-    "TRI|LTS - Translation and Interpreting/TRI306.json",
-    "TRI|LTS - Translation and Interpreting/TRI307.json",
-    "TRI|LTS - Translation and Interpreting/TRI308.json",
-    "TRI|LTS - Translation and Interpreting/TRI309.json",
-    "TRI|LTS - Translation and Interpreting/TRI310.json",
+    "TRI|ALS - Translation and Interpreting",
+    "TRI|ALS - Translation and Interpreting/TRI002.json",
+    "TRI|ALS - Translation and Interpreting/TRI101.json",
+    "TRI|ALS - Translation and Interpreting/TRI102.json",
+    "TRI|ALS - Translation and Interpreting/TRI104.json",
+    "TRI|ALS - Translation and Interpreting/TRI106.json",
+    "TRI|ALS - Translation and Interpreting/TRI108.json",
+    "TRI|ALS - Translation and Interpreting/TRI201.json",
+    "TRI|ALS - Translation and Interpreting/TRI202.json",
+    "TRI|ALS - Translation and Interpreting/TRI203.json",
+    "TRI|ALS - Translation and Interpreting/TRI205.json",
+    "TRI|ALS - Translation and Interpreting/TRI206.json",
+    "TRI|ALS - Translation and Interpreting/TRI207.json",
+    "TRI|ALS - Translation and Interpreting/TRI208.json",
+    "TRI|ALS - Translation and Interpreting/TRI209.json",
+    "TRI|ALS - Translation and Interpreting/TRI210.json",
+    "TRI|ALS - Translation and Interpreting/TRI211.json",
+    "TRI|ALS - Translation and Interpreting/TRI212.json",
+    "TRI|ALS - Translation and Interpreting/TRI301.json",
+    "TRI|ALS - Translation and Interpreting/TRI302.json",
+    "TRI|ALS - Translation and Interpreting/TRI303.json",
+    "TRI|ALS - Translation and Interpreting/TRI304.json",
+    "TRI|ALS - Translation and Interpreting/TRI305.json",
+    "TRI|ALS - Translation and Interpreting/TRI306.json",
+    "TRI|ALS - Translation and Interpreting/TRI307.json",
+    "TRI|ALS - Translation and Interpreting/TRI308.json",
+    "TRI|ALS - Translation and Interpreting/TRI309.json",
+    "TRI|ALS - Translation and Interpreting/TRI310.json",
     "UPD|UPD - Urban Planning and Design",
     "UPD|UPD - Urban Planning and Design/UPD004.json",
     "UPD|UPD - Urban Planning and Design/UPD005.json",
@@ -2118,7 +2066,7 @@
     "UPD|UPD - Urban Planning and Design/UPD408.json",
     "UPD|UPD - Urban Planning and Design/UPD410.json"
   ],
-  "module_file_count": 2047,
+  "module_file_count": 1995,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -7770,121 +7718,121 @@
       "full_name": "Introduction to Literary Studies",
       "module_code": "LIT101",
       "module_level": "Level 1",
-      "path": "LIT|LTS - Literature/LIT101.json"
+      "path": "LIT|ALS - Literature/LIT101.json"
     },
     {
       "full_name": "Literature and AI",
       "module_code": "LIT102",
       "module_level": "Level 1",
-      "path": "LIT|LTS - Literature/LIT102.json"
+      "path": "LIT|ALS - Literature/LIT102.json"
     },
     {
       "full_name": "Literature and Film",
       "module_code": "LIT103",
       "module_level": "Level 1",
-      "path": "LIT|LTS - Literature/LIT103.json"
+      "path": "LIT|ALS - Literature/LIT103.json"
     },
     {
       "full_name": "Introduction to World Literature",
       "module_code": "LIT105",
       "module_level": "Level 1",
-      "path": "LIT|LTS - Literature/LIT105.json"
+      "path": "LIT|ALS - Literature/LIT105.json"
     },
     {
       "full_name": "Enlightenment: Literature and Philosophy (1690-1795)",
       "module_code": "LIT201",
       "module_level": "Level 2",
-      "path": "LIT|LTS - Literature/LIT201.json"
+      "path": "LIT|ALS - Literature/LIT201.json"
     },
     {
       "full_name": "Postcolonial Literatures",
       "module_code": "LIT202",
       "module_level": "Level 2",
-      "path": "LIT|LTS - Literature/LIT202.json"
+      "path": "LIT|ALS - Literature/LIT202.json"
     },
     {
       "full_name": "Literature and Gender",
       "module_code": "LIT203",
       "module_level": "Level 2",
-      "path": "LIT|LTS - Literature/LIT203.json"
+      "path": "LIT|ALS - Literature/LIT203.json"
     },
     {
       "full_name": "Jane Austen",
       "module_code": "LIT204",
       "module_level": "Level 2",
-      "path": "LIT|LTS - Literature/LIT204.json"
+      "path": "LIT|ALS - Literature/LIT204.json"
     },
     {
       "full_name": "Tragedy in the Age of Shakespeare",
       "module_code": "LIT205",
       "module_level": "Level 2",
-      "path": "LIT|LTS - Literature/LIT205.json"
+      "path": "LIT|ALS - Literature/LIT205.json"
     },
     {
       "full_name": "Modern British Fiction on Page and Screen",
       "module_code": "LIT207",
       "module_level": "Level 2",
-      "path": "LIT|LTS - Literature/LIT207.json"
+      "path": "LIT|ALS - Literature/LIT207.json"
     },
     {
       "full_name": "The Short Story",
       "module_code": "LIT208",
       "module_level": "Level 2",
-      "path": "LIT|LTS - Literature/LIT208.json"
+      "path": "LIT|ALS - Literature/LIT208.json"
     },
     {
       "full_name": "Contemporary Western Approaches to Literature",
       "module_code": "LIT209",
       "module_level": "Level 2",
-      "path": "LIT|LTS - Literature/LIT209.json"
+      "path": "LIT|ALS - Literature/LIT209.json"
     },
     {
       "full_name": "Romanticism: Nature, Mind, and Society (1780-1840)",
       "module_code": "LIT211",
       "module_level": "Level 2",
-      "path": "LIT|LTS - Literature/LIT211.json"
+      "path": "LIT|ALS - Literature/LIT211.json"
     },
     {
       "full_name": "Literature: Final Year Project",
       "module_code": "LIT301",
       "module_level": "Level 3",
-      "path": "LIT|LTS - Literature/LIT301.json"
+      "path": "LIT|ALS - Literature/LIT301.json"
     },
     {
       "full_name": "Gothic Literature in Global Context",
       "module_code": "LIT304",
       "module_level": "Level 3",
-      "path": "LIT|LTS - Literature/LIT304.json"
+      "path": "LIT|ALS - Literature/LIT304.json"
     },
     {
       "full_name": "Postmodern Literature (1945-present)",
       "module_code": "LIT306",
       "module_level": "Level 3",
-      "path": "LIT|LTS - Literature/LIT306.json"
+      "path": "LIT|ALS - Literature/LIT306.json"
     },
     {
       "full_name": "Literature and Environment",
       "module_code": "LIT307",
       "module_level": "Level 3",
-      "path": "LIT|LTS - Literature/LIT307.json"
+      "path": "LIT|ALS - Literature/LIT307.json"
     },
     {
       "full_name": "Utopia: The History of an Idea",
       "module_code": "LIT309",
       "module_level": "Level 3",
-      "path": "LIT|LTS - Literature/LIT309.json"
+      "path": "LIT|ALS - Literature/LIT309.json"
     },
     {
       "full_name": "Literature of Modernity (1900-1940)",
       "module_code": "LIT310",
       "module_level": "Level 3",
-      "path": "LIT|LTS - Literature/LIT310.json"
+      "path": "LIT|ALS - Literature/LIT310.json"
     },
     {
       "full_name": "Digital Humanities Research and Practice",
       "module_code": "LIT311",
       "module_level": "Level 3",
-      "path": "LIT|LTS - Literature/LIT311.json"
+      "path": "LIT|ALS - Literature/LIT311.json"
     },
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -8977,6 +8925,318 @@
       "module_code": "LMSMO103",
       "module_level": "Level 1",
       "path": "LM|PHE -/LMSMO103.json"
+    },
+    {
+      "full_name": "Thinking like a Linguist",
+      "module_code": "LNG001",
+      "module_level": "Level 0",
+      "path": "LNG|ALS - Applied Linguistics/LNG001.json"
+    },
+    {
+      "full_name": "Sounds of English",
+      "module_code": "LNG101",
+      "module_level": "Level 1",
+      "path": "LNG|ALS - Applied Linguistics/LNG101.json"
+    },
+    {
+      "full_name": "Introduction to Linguistics: Grammar",
+      "module_code": "LNG103",
+      "module_level": "Level 1",
+      "path": "LNG|ALS - Applied Linguistics/LNG103.json"
+    },
+    {
+      "full_name": "Syntax",
+      "module_code": "LNG104",
+      "module_level": "Level 1",
+      "path": "LNG|ALS - Applied Linguistics/LNG104.json"
+    },
+    {
+      "full_name": "History of English",
+      "module_code": "LNG105",
+      "module_level": "Level 1",
+      "path": "LNG|ALS - Applied Linguistics/LNG105.json"
+    },
+    {
+      "full_name": "Language and Society",
+      "module_code": "LNG106",
+      "module_level": "Level 1",
+      "path": "LNG|ALS - Applied Linguistics/LNG106.json"
+    },
+    {
+      "full_name": "Introduction to Linguistics: Spoken & Written Discourse",
+      "module_code": "LNG107",
+      "module_level": "Level 1",
+      "path": "LNG|ALS - Applied Linguistics/LNG107.json"
+    },
+    {
+      "full_name": "Semantics and Pragmatics",
+      "module_code": "LNG108",
+      "module_level": "Level 1",
+      "path": "LNG|ALS - Applied Linguistics/LNG108.json"
+    },
+    {
+      "full_name": "Language and Media",
+      "module_code": "LNG201",
+      "module_level": "Level 2",
+      "path": "LNG|ALS - Applied Linguistics/LNG201.json"
+    },
+    {
+      "full_name": "Bilingual and Multilingual Development",
+      "module_code": "LNG202",
+      "module_level": "Level 2",
+      "path": "LNG|ALS - Applied Linguistics/LNG202.json"
+    },
+    {
+      "full_name": "Language and Gender",
+      "module_code": "LNG204",
+      "module_level": "Level 2",
+      "path": "LNG|ALS - Applied Linguistics/LNG204.json"
+    },
+    {
+      "full_name": "Cognitive Linguistics",
+      "module_code": "LNG206",
+      "module_level": "Level 2",
+      "path": "LNG|ALS - Applied Linguistics/LNG206.json"
+    },
+    {
+      "full_name": "Language Acquisition",
+      "module_code": "LNG207",
+      "module_level": "Level 2",
+      "path": "LNG|ALS - Applied Linguistics/LNG207.json"
+    },
+    {
+      "full_name": "Psycholinguistics",
+      "module_code": "LNG208",
+      "module_level": "Level 2",
+      "path": "LNG|ALS - Applied Linguistics/LNG208.json"
+    },
+    {
+      "full_name": "Corpus Linguistics",
+      "module_code": "LNG209",
+      "module_level": "Level 2",
+      "path": "LNG|ALS - Applied Linguistics/LNG209.json"
+    },
+    {
+      "full_name": "Language Documentation",
+      "module_code": "LNG210",
+      "module_level": "Level 2",
+      "path": "LNG|ALS - Applied Linguistics/LNG210.json"
+    },
+    {
+      "full_name": "Chinese Linguistics",
+      "module_code": "LNG213",
+      "module_level": "Level 2",
+      "path": "LNG|ALS - Applied Linguistics/LNG213.json"
+    },
+    {
+      "full_name": "Historical Linguistics",
+      "module_code": "LNG214",
+      "module_level": "Level 2",
+      "path": "LNG|ALS - Applied Linguistics/LNG214.json"
+    },
+    {
+      "full_name": "Computational Linguistics",
+      "module_code": "LNG216",
+      "module_level": "Level 2",
+      "path": "LNG|ALS - Applied Linguistics/LNG216.json"
+    },
+    {
+      "full_name": "Stylistics",
+      "module_code": "LNG301",
+      "module_level": "Level 3",
+      "path": "LNG|ALS - Applied Linguistics/LNG301.json"
+    },
+    {
+      "full_name": "Interpersonal communication in the workplace",
+      "module_code": "LNG302",
+      "module_level": "Level 3",
+      "path": "LNG|ALS - Applied Linguistics/LNG302.json"
+    },
+    {
+      "full_name": "Final Year Project",
+      "module_code": "LNG303",
+      "module_level": "Level 3",
+      "path": "LNG|ALS - Applied Linguistics/LNG303.json"
+    },
+    {
+      "full_name": "Language and Power",
+      "module_code": "LNG304",
+      "module_level": "Level 3",
+      "path": "LNG|ALS - Applied Linguistics/LNG304.json"
+    },
+    {
+      "full_name": "Chinese Linguistics",
+      "module_code": "LNG305",
+      "module_level": "Level 3",
+      "path": "LNG|ALS - Applied Linguistics/LNG305.json"
+    },
+    {
+      "full_name": "Forensic Linguistics",
+      "module_code": "LNG306",
+      "module_level": "Level 3",
+      "path": "LNG|ALS - Applied Linguistics/LNG306.json"
+    },
+    {
+      "full_name": "Historical Linguistics",
+      "module_code": "LNG307",
+      "module_level": "Level 3",
+      "path": "LNG|ALS - Applied Linguistics/LNG307.json"
+    },
+    {
+      "full_name": "Intercultural Communication",
+      "module_code": "LNG308",
+      "module_level": "Level 3",
+      "path": "LNG|ALS - Applied Linguistics/LNG308.json"
+    },
+    {
+      "full_name": "Artificial Intelligence (AI) and Applied Linguistics",
+      "module_code": "LNG309",
+      "module_level": "Level 3",
+      "path": "LNG|ALS - Applied Linguistics/LNG309.json"
+    },
+    {
+      "full_name": "Language Education",
+      "module_code": "LNG310",
+      "module_level": "Level 3",
+      "path": "LNG|ALS - Applied Linguistics/LNG310.json"
+    },
+    {
+      "full_name": "Final Year Project for English and Business Studies",
+      "module_code": "LNG311",
+      "module_level": "Level 3",
+      "path": "LNG|ALS - Applied Linguistics/LNG311.json"
+    },
+    {
+      "full_name": "Ecolinguistics: Language and the Environment",
+      "module_code": "LNG312",
+      "module_level": "Level 3",
+      "path": "LNG|ALS - Applied Linguistics/LNG312.json"
+    },
+    {
+      "full_name": "Language and Consumer Behaviours",
+      "module_code": "LNG313",
+      "module_level": "Level 3",
+      "path": "LNG|ALS - Applied Linguistics/LNG313.json"
+    },
+    {
+      "full_name": "Language Pathology",
+      "module_code": "LNG314",
+      "module_level": "Level 3",
+      "path": "LNG|ALS - Applied Linguistics/LNG314.json"
+    },
+    {
+      "full_name": "Linguistics for Language Teachers",
+      "module_code": "LNG401",
+      "module_level": "Level 4",
+      "path": "LNG|ALS - Applied Linguistics/LNG401.json"
+    },
+    {
+      "full_name": "Language Testing and Assessment",
+      "module_code": "LNG402",
+      "module_level": "Level 4",
+      "path": "LNG|ALS - Applied Linguistics/LNG402.json"
+    },
+    {
+      "full_name": "Artificial Intelligence (AI) Technologies for Language Education",
+      "module_code": "LNG403",
+      "module_level": "Level 4",
+      "path": "LNG|ALS - Applied Linguistics/LNG403.json"
+    },
+    {
+      "full_name": "Methods and research in teaching EFL skills",
+      "module_code": "LNG404",
+      "module_level": "Level 4",
+      "path": "LNG|ALS - Applied Linguistics/LNG404.json"
+    },
+    {
+      "full_name": "Principles of Course and Materials Design",
+      "module_code": "LNG405",
+      "module_level": "Level 4",
+      "path": "LNG|ALS - Applied Linguistics/LNG405.json"
+    },
+    {
+      "full_name": "Research Methods",
+      "module_code": "LNG406",
+      "module_level": "Level 4",
+      "path": "LNG|ALS - Applied Linguistics/LNG406.json"
+    },
+    {
+      "full_name": "Second Language Acquisition",
+      "module_code": "LNG407",
+      "module_level": "Level 4",
+      "path": "LNG|ALS - Applied Linguistics/LNG407.json"
+    },
+    {
+      "full_name": "Discourse Analysis",
+      "module_code": "LNG408",
+      "module_level": "Level 4",
+      "path": "LNG|ALS - Applied Linguistics/LNG408.json"
+    },
+    {
+      "full_name": "Dissertation",
+      "module_code": "LNG409",
+      "module_level": "Level 4",
+      "path": "LNG|ALS - Applied Linguistics/LNG409.json"
+    },
+    {
+      "full_name": "English for Specific Purposes",
+      "module_code": "LNG410",
+      "module_level": "Level 4",
+      "path": "LNG|ALS - Applied Linguistics/LNG410.json"
+    },
+    {
+      "full_name": "Introduction to multilingualism",
+      "module_code": "LNG411",
+      "module_level": "Level 4",
+      "path": "LNG|ALS - Applied Linguistics/LNG411.json"
+    },
+    {
+      "full_name": "Individual Differences In Language Learning",
+      "module_code": "LNG412",
+      "module_level": "Level 4",
+      "path": "LNG|ALS - Applied Linguistics/LNG412.json"
+    },
+    {
+      "full_name": "Multilingualism in society",
+      "module_code": "LNG413",
+      "module_level": "Level 4",
+      "path": "LNG|ALS - Applied Linguistics/LNG413.json"
+    },
+    {
+      "full_name": "Psycholinguistics of Multilingualism",
+      "module_code": "LNG414",
+      "module_level": "Level 4",
+      "path": "LNG|ALS - Applied Linguistics/LNG414.json"
+    },
+    {
+      "full_name": "Language, globalization and mobility",
+      "module_code": "LNG415",
+      "module_level": "Level 4",
+      "path": "LNG|ALS - Applied Linguistics/LNG415.json"
+    },
+    {
+      "full_name": "The politics of language in a globalized world",
+      "module_code": "LNG417",
+      "module_level": "Level 4",
+      "path": "LNG|ALS - Applied Linguistics/LNG417.json"
+    },
+    {
+      "full_name": "Language and Health in a Multilingual World",
+      "module_code": "LNG418",
+      "module_level": "Level 4",
+      "path": "LNG|ALS - Applied Linguistics/LNG418.json"
+    },
+    {
+      "full_name": "Multilingual education and multilingual literacies",
+      "module_code": "LNG419",
+      "module_level": "Level 4",
+      "path": "LNG|ALS - Applied Linguistics/LNG419.json"
+    },
+    {
+      "full_name": "Dissertation",
+      "module_code": "LNG423",
+      "module_level": "Level 4",
+      "path": "LNG|ALS - Applied Linguistics/LNG423.json"
     },
     {
       "full_name": "Thinking like a Linguist",
@@ -11904,630 +12164,6 @@
       "full_name": "Introduction to Insurance",
       "module_code": "MTH012",
       "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH012.json"
-    },
-    {
-      "full_name": "Introductory Linear Algebra",
-      "module_code": "MTH015",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH015.json"
-    },
-    {
-      "full_name": "Modelling the Real World",
-      "module_code": "MTH020",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH020.json"
-    },
-    {
-      "full_name": "Mathematical Reasoning",
-      "module_code": "MTH024",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH024.json"
-    },
-    {
-      "full_name": "Calculus I",
-      "module_code": "MTH026",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH026.json"
-    },
-    {
-      "full_name": "Linear Algebra I",
-      "module_code": "MTH028",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH028.json"
-    },
-    {
-      "full_name": "Introductory Calculus",
-      "module_code": "MTH030",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH030.json"
-    },
-    {
-      "full_name": "Calculus II for Science and Engineering",
-      "module_code": "MTH031",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH031.json"
-    },
-    {
-      "full_name": "Calculus II for Business and Arts",
-      "module_code": "MTH032",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH032.json"
-    },
-    {
-      "full_name": "Linear Algebra II",
-      "module_code": "MTH033",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH033.json"
-    },
-    {
-      "full_name": "From Mathematical Basics to Visual Data Analysis with AI",
-      "module_code": "MTH066",
-      "module_level": "Level 0",
-      "path": "MTH|MTH - Mathematical Sciences/MTH066.json"
-    },
-    {
-      "full_name": "Engineering Mathematics I",
-      "module_code": "MTH101",
-      "module_level": "Level 1",
-      "path": "MTH|MTH - Mathematical Sciences/MTH101.json"
-    },
-    {
-      "full_name": "Engineering Mathematics II",
-      "module_code": "MTH102",
-      "module_level": "Level 1",
-      "path": "MTH|MTH - Mathematical Sciences/MTH102.json"
-    },
-    {
-      "full_name": "Introduction to Statistics",
-      "module_code": "MTH104",
-      "module_level": "Level 1",
-      "path": "MTH|MTH - Mathematical Sciences/MTH104.json"
-    },
-    {
-      "full_name": "Introduction to the Methods of Applied Mathematics",
-      "module_code": "MTH106",
-      "module_level": "Level 1",
-      "path": "MTH|MTH - Mathematical Sciences/MTH106.json"
-    },
-    {
-      "full_name": "Advanced Linear Algebra",
-      "module_code": "MTH107",
-      "module_level": "Level 1",
-      "path": "MTH|MTH - Mathematical Sciences/MTH107.json"
-    },
-    {
-      "full_name": "Dynamic Modelling",
-      "module_code": "MTH108",
-      "module_level": "Level 1",
-      "path": "MTH|MTH - Mathematical Sciences/MTH108.json"
-    },
-    {
-      "full_name": "Introduction to Probability and Statistics",
-      "module_code": "MTH113",
-      "module_level": "Level 1",
-      "path": "MTH|MTH - Mathematical Sciences/MTH113.json"
-    },
-    {
-      "full_name": "Foundations of Financial Computing",
-      "module_code": "MTH116",
-      "module_level": "Level 1",
-      "path": "MTH|MTH - Mathematical Sciences/MTH116.json"
-    },
-    {
-      "full_name": "Analysis 1",
-      "module_code": "MTH117",
-      "module_level": "Level 1",
-      "path": "MTH|MTH - Mathematical Sciences/MTH117.json"
-    },
-    {
-      "full_name": "Analysis 2",
-      "module_code": "MTH118",
-      "module_level": "Level 1",
-      "path": "MTH|MTH - Mathematical Sciences/MTH118.json"
-    },
-    {
-      "full_name": "Theory of Interest",
-      "module_code": "MTH120",
-      "module_level": "Level 1",
-      "path": "MTH|MTH - Mathematical Sciences/MTH120.json"
-    },
-    {
-      "full_name": "Introduction to Abstract Algebra",
-      "module_code": "MTH122",
-      "module_level": "Level 1",
-      "path": "MTH|MTH - Mathematical Sciences/MTH122.json"
-    },
-    {
-      "full_name": "Differential Equations for Engineers",
-      "module_code": "MTH123",
-      "module_level": "Level 1",
-      "path": "MTH|MTH - Mathematical Sciences/MTH123.json"
-    },
-    {
-      "full_name": "Real Analysis for Financial Mathematics",
-      "module_code": "MTH125",
-      "module_level": "Level 1",
-      "path": "MTH|MTH - Mathematical Sciences/MTH125.json"
-    },
-    {
-      "full_name": "Differential Equations With Computer Solutions",
-      "module_code": "MTH126",
-      "module_level": "Level 1",
-      "path": "MTH|MTH - Mathematical Sciences/MTH126.json"
-    },
-    {
-      "full_name": "Introduction to Probability",
-      "module_code": "MTH127",
-      "module_level": "Level 1",
-      "path": "MTH|MTH - Mathematical Sciences/MTH127.json"
-    },
-    {
-      "full_name": "Bridging Math, Physics, and Entrepreneurship",
-      "module_code": "MTH128",
-      "module_level": "Level 1",
-      "path": "MTH|MTH - Mathematical Sciences/MTH128.json"
-    },
-    {
-      "full_name": "Introduction to AI for Mathematical Sciences",
-      "module_code": "MTH129",
-      "module_level": "Level 1",
-      "path": "MTH|MTH - Mathematical Sciences/MTH129.json"
-    },
-    {
-      "full_name": "Engineering Mathematics III",
-      "module_code": "MTH201",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH201.json"
-    },
-    {
-      "full_name": "Introduction to Financial Mathematics",
-      "module_code": "MTH202",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH202.json"
-    },
-    {
-      "full_name": "Introduction to Operational Research",
-      "module_code": "MTH203",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH203.json"
-    },
-    {
-      "full_name": "Introduction to Statistical Methods",
-      "module_code": "MTH205",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH205.json"
-    },
-    {
-      "full_name": "Statistical Distribution Theory",
-      "module_code": "MTH206",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH206.json"
-    },
-    {
-      "full_name": "Vector Fields: Theory and Applications",
-      "module_code": "MTH207",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH207.json"
-    },
-    {
-      "full_name": "Numerical Analysis",
-      "module_code": "MTH208",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH208.json"
-    },
-    {
-      "full_name": "Classical Mechanics",
-      "module_code": "MTH209",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH209.json"
-    },
-    {
-      "full_name": "Partial Differential Equations",
-      "module_code": "MTH210",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH210.json"
-    },
-    {
-      "full_name": "Ordinary Differential Equations and Control",
-      "module_code": "MTH212",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH212.json"
-    },
-    {
-      "full_name": "Life Insurance Mathematics II",
-      "module_code": "MTH214",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH214.json"
-    },
-    {
-      "full_name": "Life Insurance Mathematics I",
-      "module_code": "MTH217",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH217.json"
-    },
-    {
-      "full_name": "Complex Functions",
-      "module_code": "MTH219",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH219.json"
-    },
-    {
-      "full_name": "Financial Engineering (I)：Advanced Modelling and Derivative Securities",
-      "module_code": "MTH222",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH222.json"
-    },
-    {
-      "full_name": "Metric Spaces",
-      "module_code": "MTH224",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH224.json"
-    },
-    {
-      "full_name": "Fluid Mechanics and Vector Fields for Engineering",
-      "module_code": "MTH227",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH227.json"
-    },
-    {
-      "full_name": "Discrete Mathematics",
-      "module_code": "MTH229",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH229.json"
-    },
-    {
-      "full_name": "Symmetries in Geometry",
-      "module_code": "MTH230",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH230.json"
-    },
-    {
-      "full_name": "Stochastic Processes and Calculus",
-      "module_code": "MTH232",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH232.json"
-    },
-    {
-      "full_name": "Foundations of Quantitative Investments",
-      "module_code": "MTH233",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH233.json"
-    },
-    {
-      "full_name": "Quantitative Finance with Programming",
-      "module_code": "MTH234",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH234.json"
-    },
-    {
-      "full_name": "Statistical Methods forActuarial Science",
-      "module_code": "MTH236",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH236.json"
-    },
-    {
-      "full_name": "Stochastic Modelling in Insurance and Finance I",
-      "module_code": "MTH237",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH237.json"
-    },
-    {
-      "full_name": "Risk Modelling and Survival Analysis",
-      "module_code": "MTH238",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH238.json"
-    },
-    {
-      "full_name": "Introduction to Modern Cryptography",
-      "module_code": "MTH239",
-      "module_level": "Level 2",
-      "path": "MTH|MTH - Mathematical Sciences/MTH239.json"
-    },
-    {
-      "full_name": "Final Year Project",
-      "module_code": "MTH301",
-      "module_level": "Level 3",
-      "path": "MTH|MTH - Mathematical Sciences/MTH301.json"
-    },
-    {
-      "full_name": "Applied Probability",
-      "module_code": "MTH302",
-      "module_level": "Level 3",
-      "path": "MTH|MTH - Mathematical Sciences/MTH302.json"
-    },
-    {
-      "full_name": "Linear Statistical Models",
-      "module_code": "MTH303",
-      "module_level": "Level 3",
-      "path": "MTH|MTH - Mathematical Sciences/MTH303.json"
-    },
-    {
-      "full_name": "Risk Management",
-      "module_code": "MTH305",
-      "module_level": "Level 3",
-      "path": "MTH|MTH - Mathematical Sciences/MTH305.json"
-    },
-    {
-      "full_name": "Credibility Theory",
-      "module_code": "MTH306",
-      "module_level": "Level 3",
-      "path": "MTH|MTH - Mathematical Sciences/MTH306.json"
-    },
-    {
-      "full_name": "Population Dynamics",
-      "module_code": "MTH307",
-      "module_level": "Level 3",
-      "path": "MTH|MTH - Mathematical Sciences/MTH307.json"
-    },
-    {
-      "full_name": "Mathematical Models of Solids and Fluids",
-      "module_code": "MTH308",
-      "module_level": "Level 3",
-      "path": "MTH|MTH - Mathematical Sciences/MTH308.json"
-    },
-    {
-      "full_name": "Functional Analysis",
-      "module_code": "MTH310",
-      "module_level": "Level 3",
-      "path": "MTH|MTH - Mathematical Sciences/MTH310.json"
-    },
-    {
-      "full_name": "Stochastic Modeling in Insurance and Finance II",
-      "module_code": "MTH312",
-      "module_level": "Level 3",
-      "path": "MTH|MTH - Mathematical Sciences/MTH312.json"
-    },
-    {
-      "full_name": "Modern Actuarial Statistics",
-      "module_code": "MTH313",
-      "module_level": "Level 3",
-      "path": "MTH|MTH - Mathematical Sciences/MTH313.json"
-    },
-    {
-      "full_name": "Geometry of Curves and Surfaces",
-      "module_code": "MTH315",
-      "module_level": "Level 3",
-      "path": "MTH|MTH - Mathematical Sciences/MTH315.json"
-    },
-    {
-      "full_name": "Applied Multivariate Statistics",
-      "module_code": "MTH316",
-      "module_level": "Level 3",
-      "path": "MTH|MTH - Mathematical Sciences/MTH316.json"
-    },
-    {
-      "full_name": "Optimisation Theory",
-      "module_code": "MTH318",
-      "module_level": "Level 3",
-      "path": "MTH|MTH - Mathematical Sciences/MTH318.json"
-    },
-    {
-      "full_name": "Financial Engineering(II): Numerical Methods and Asset Models",
-      "module_code": "MTH319",
-      "module_level": "Level 3",
-      "path": "MTH|MTH - Mathematical Sciences/MTH319.json"
-    },
-    {
-      "full_name": "Numerical Analysis of Partial Differential Equations",
-      "module_code": "MTH321",
-      "module_level": "Level 3",
-      "path": "MTH|MTH - Mathematical Sciences/MTH321.json"
-    },
-    {
-      "full_name": "Probability Measures and Asset Pricing",
-      "module_code": "MTH322",
-      "module_level": "Level 3",
-      "path": "MTH|MTH - Mathematical Sciences/MTH322.json"
-    },
-    {
-      "full_name": "Topology",
-      "module_code": "MTH323",
-      "module_level": "Level 3",
-      "path": "MTH|MTH - Mathematical Sciences/MTH323.json"
-    },
-    {
-      "full_name": "Statistical Learning Theory and Applications",
-      "module_code": "MTH324",
-      "module_level": "Level 3",
-      "path": "MTH|MTH - Mathematical Sciences/MTH324.json"
-    },
-    {
-      "full_name": "Mathematical Risk Theory",
-      "module_code": "MTH325",
-      "module_level": "Level 3",
-      "path": "MTH|MTH - Mathematical Sciences/MTH325.json"
-    },
-    {
-      "full_name": "Computational Methods in Finance I",
-      "module_code": "MTH401",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH401.json"
-    },
-    {
-      "full_name": "Fixed Income Securities",
-      "module_code": "MTH402",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH402.json"
-    },
-    {
-      "full_name": "Introduction to Pricing and Hedging",
-      "module_code": "MTH403",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH403.json"
-    },
-    {
-      "full_name": "Statistical Methods in Finance",
-      "module_code": "MTH404",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH404.json"
-    },
-    {
-      "full_name": "Financial Econometrics",
-      "module_code": "MTH405",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH405.json"
-    },
-    {
-      "full_name": "Arbitrage, Equilibrium and Pricing",
-      "module_code": "MTH406",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH406.json"
-    },
-    {
-      "full_name": "Computational Methods in Finance II",
-      "module_code": "MTH408",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH408.json"
-    },
-    {
-      "full_name": "Portfolio Theory and Risk Management",
-      "module_code": "MTH409",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH409.json"
-    },
-    {
-      "full_name": "Dissertation",
-      "module_code": "MTH411",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH411.json"
-    },
-    {
-      "full_name": "Database Management",
-      "module_code": "MTH412",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH412.json"
-    },
-    {
-      "full_name": "Mathematics and Statistics for Data Science",
-      "module_code": "MTH413",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH413.json"
-    },
-    {
-      "full_name": "Statistical Learning With Applications in Python",
-      "module_code": "MTH414",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH414.json"
-    },
-    {
-      "full_name": "Optimization Algorithms for Data Science",
-      "module_code": "MTH415",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH415.json"
-    },
-    {
-      "full_name": "Neural Networks and Deep Learning",
-      "module_code": "MTH416",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH416.json"
-    },
-    {
-      "full_name": "Dissertation",
-      "module_code": "MTH417",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH417.json"
-    },
-    {
-      "full_name": "Theory and Applications of Partial Differential Equations",
-      "module_code": "MTH418",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH418.json"
-    },
-    {
-      "full_name": "Scientific Computing",
-      "module_code": "MTH419",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH419.json"
-    },
-    {
-      "full_name": "Measures and Integrals",
-      "module_code": "MTH420",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH420.json"
-    },
-    {
-      "full_name": "Actuarial Modelling",
-      "module_code": "MTH432",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH432.json"
-    },
-    {
-      "full_name": "Financial Mathematics for Actuarial Practice",
-      "module_code": "MTH433",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH433.json"
-    },
-    {
-      "full_name": "Life Insurance Mathematics",
-      "module_code": "MTH434",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH434.json"
-    },
-    {
-      "full_name": "Stochastic Modelling in Actuarial Science",
-      "module_code": "MTH435",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH435.json"
-    },
-    {
-      "full_name": "Advanced Statistical Learning Theory",
-      "module_code": "MTH436",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH436.json"
-    },
-    {
-      "full_name": "Corporate Finance for Insurance",
-      "module_code": "MTH438",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH438.json"
-    },
-    {
-      "full_name": "Dissertation Project",
-      "module_code": "MTH439",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH439.json"
-    },
-    {
-      "full_name": "Advanced Topics in Operational Research",
-      "module_code": "MTH443",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH443.json"
-    },
-    {
-      "full_name": "Calculus of Variations and Optimal Control",
-      "module_code": "MTH444",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH444.json"
-    },
-    {
-      "full_name": "Computational Geometry",
-      "module_code": "MTH445",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH445.json"
-    },
-    {
-      "full_name": "Dissertation",
-      "module_code": "MTH446",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH446.json"
-    },
-    {
-      "full_name": "Deep Learning in Finance",
-      "module_code": "MTH447",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH447.json"
-    },
-    {
-      "full_name": "Quantitative Finance with Applications",
-      "module_code": "MTH448",
-      "module_level": "Level 4",
-      "path": "MTH|MTH - Mathematical Sciences/MTH448.json"
-    },
-    {
-      "full_name": "Introduction to Insurance",
-      "module_code": "MTH012",
-      "module_level": "Level 0",
       "path": "MTH|SMP - Mathematical Sciences/MTH012.json"
     },
     {
@@ -14094,163 +13730,163 @@
       "full_name": "Essentials of Translation and Interpreting",
       "module_code": "TRI002",
       "module_level": "Level 0",
-      "path": "TRI|LTS - Translation and Interpreting/TRI002.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI002.json"
     },
     {
       "full_name": "AI-Empowered Translation and Intercultural Communication",
       "module_code": "TRI101",
       "module_level": "Level 1",
-      "path": "TRI|LTS - Translation and Interpreting/TRI101.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI101.json"
     },
     {
       "full_name": "Introduction to Translation and Interpreting",
       "module_code": "TRI102",
       "module_level": "Level 1",
-      "path": "TRI|LTS - Translation and Interpreting/TRI102.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI102.json"
     },
     {
       "full_name": "Business Communication with Interpreting",
       "module_code": "TRI104",
       "module_level": "Level 1",
-      "path": "TRI|LTS - Translation and Interpreting/TRI104.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI104.json"
     },
     {
       "full_name": "Translation and Globalisation",
       "module_code": "TRI106",
       "module_level": "Level 1",
-      "path": "TRI|LTS - Translation and Interpreting/TRI106.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI106.json"
     },
     {
       "full_name": "Translation in Context",
       "module_code": "TRI108",
       "module_level": "Level 1",
-      "path": "TRI|LTS - Translation and Interpreting/TRI108.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI108.json"
     },
     {
       "full_name": "Translation: Theory and Practice",
       "module_code": "TRI201",
       "module_level": "Level 2",
-      "path": "TRI|LTS - Translation and Interpreting/TRI201.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI201.json"
     },
     {
       "full_name": "Interpreting",
       "module_code": "TRI202",
       "module_level": "Level 2",
-      "path": "TRI|LTS - Translation and Interpreting/TRI202.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI202.json"
     },
     {
       "full_name": "Language Studies for Translation",
       "module_code": "TRI203",
       "module_level": "Level 2",
-      "path": "TRI|LTS - Translation and Interpreting/TRI203.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI203.json"
     },
     {
       "full_name": "Sight Translation",
       "module_code": "TRI205",
       "module_level": "Level 2",
-      "path": "TRI|LTS - Translation and Interpreting/TRI205.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI205.json"
     },
     {
       "full_name": "Translation and AI Technology",
       "module_code": "TRI206",
       "module_level": "Level 2",
-      "path": "TRI|LTS - Translation and Interpreting/TRI206.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI206.json"
     },
     {
       "full_name": "Translation and Culture",
       "module_code": "TRI207",
       "module_level": "Level 2",
-      "path": "TRI|LTS - Translation and Interpreting/TRI207.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI207.json"
     },
     {
       "full_name": "Translation and Journalism",
       "module_code": "TRI208",
       "module_level": "Level 2",
-      "path": "TRI|LTS - Translation and Interpreting/TRI208.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI208.json"
     },
     {
       "full_name": "Literary Translation",
       "module_code": "TRI209",
       "module_level": "Level 2",
-      "path": "TRI|LTS - Translation and Interpreting/TRI209.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI209.json"
     },
     {
       "full_name": "Translation and Computation",
       "module_code": "TRI210",
       "module_level": "Level 2",
-      "path": "TRI|LTS - Translation and Interpreting/TRI210.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI210.json"
     },
     {
       "full_name": "Translation and Interpreting for International Business",
       "module_code": "TRI211",
       "module_level": "Level 2",
-      "path": "TRI|LTS - Translation and Interpreting/TRI211.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI211.json"
     },
     {
       "full_name": "Translation for Legal Purposes",
       "module_code": "TRI212",
       "module_level": "Level 2",
-      "path": "TRI|LTS - Translation and Interpreting/TRI212.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI212.json"
     },
     {
       "full_name": "Translation and Interpreting: Final Year Project",
       "module_code": "TRI301",
       "module_level": "Level 3",
-      "path": "TRI|LTS - Translation and Interpreting/TRI301.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI301.json"
     },
     {
       "full_name": "Technology-Enhanced Audiovisual Translation",
       "module_code": "TRI302",
       "module_level": "Level 3",
-      "path": "TRI|LTS - Translation and Interpreting/TRI302.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI302.json"
     },
     {
       "full_name": "Conference Interpreting",
       "module_code": "TRI303",
       "module_level": "Level 3",
-      "path": "TRI|LTS - Translation and Interpreting/TRI303.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI303.json"
     },
     {
       "full_name": "Translation Workshop II",
       "module_code": "TRI304",
       "module_level": "Level 3",
-      "path": "TRI|LTS - Translation and Interpreting/TRI304.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI304.json"
     },
     {
       "full_name": "Translation Workshop I",
       "module_code": "TRI305",
       "module_level": "Level 3",
-      "path": "TRI|LTS - Translation and Interpreting/TRI305.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI305.json"
     },
     {
       "full_name": "Translation and Society",
       "module_code": "TRI306",
       "module_level": "Level 3",
-      "path": "TRI|LTS - Translation and Interpreting/TRI306.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI306.json"
     },
     {
       "full_name": "Translating China I: Culture and History",
       "module_code": "TRI307",
       "module_level": "Level 3",
-      "path": "TRI|LTS - Translation and Interpreting/TRI307.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI307.json"
     },
     {
       "full_name": "Translation and Interpreting as a Profession",
       "module_code": "TRI308",
       "module_level": "Level 3",
-      "path": "TRI|LTS - Translation and Interpreting/TRI308.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI308.json"
     },
     {
       "full_name": "Localisation and Translation Project Management",
       "module_code": "TRI309",
       "module_level": "Level 3",
-      "path": "TRI|LTS - Translation and Interpreting/TRI309.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI309.json"
     },
     {
       "full_name": "Translating China II: Society and Economy",
       "module_code": "TRI310",
       "module_level": "Level 3",
-      "path": "TRI|LTS - Translation and Interpreting/TRI310.json"
+      "path": "TRI|ALS - Translation and Interpreting/TRI310.json"
     },
     {
       "full_name": "Introduction to Urban Planning and Design",
