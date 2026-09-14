@@ -1,6 +1,6 @@
 {
   "base_url": "https://modules.xjtlu.edu.cn",
-  "department_count": 66,
+  "department_count": 67,
   "error_count": 0,
   "errors": [],
   "generated_paths": [
@@ -1894,6 +1894,11 @@
     "PHY|PHY - Physics/PHY309.json",
     "PHY|PHY - Physics/PHY311.json",
     "PHY|PHY - Physics/PHY312.json",
+    "PSY|DBS - Psychology",
+    "PSY|DBS - Psychology/PSY103.json",
+    "PSY|DBS - Psychology/PSY104.json",
+    "PSY|DBS - Psychology/PSY105.json",
+    "PSY|DBS - Psychology/PSY106.json",
     "RBETC|IRE - Robotics",
     "RBETC|IRE - Robotics/RBE001TC.json",
     "RBETC|IRE - Robotics/RBE002TC.json",
@@ -2066,7 +2071,7 @@
     "UPD|UPD - Urban Planning and Design/UPD408.json",
     "UPD|UPD - Urban Planning and Design/UPD410.json"
   ],
-  "module_file_count": 1995,
+  "module_file_count": 1999,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -13053,6 +13058,30 @@
       "module_code": "PHY312",
       "module_level": "Level 3",
       "path": "PHY|PHY - Physics/PHY312.json"
+    },
+    {
+      "full_name": "Research Methods and Statistics I",
+      "module_code": "PSY103",
+      "module_level": "Level 1",
+      "path": "PSY|DBS - Psychology/PSY103.json"
+    },
+    {
+      "full_name": "Biological Psychology",
+      "module_code": "PSY104",
+      "module_level": "Level 1",
+      "path": "PSY|DBS - Psychology/PSY104.json"
+    },
+    {
+      "full_name": "Social Psychology and Individual Differences",
+      "module_code": "PSY105",
+      "module_level": "Level 1",
+      "path": "PSY|DBS - Psychology/PSY105.json"
+    },
+    {
+      "full_name": "Research Methods and Statistics II",
+      "module_code": "PSY106",
+      "module_level": "Level 1",
+      "path": "PSY|DBS - Psychology/PSY106.json"
     },
     {
       "full_name": "Introductions to Intelligent Robotics",

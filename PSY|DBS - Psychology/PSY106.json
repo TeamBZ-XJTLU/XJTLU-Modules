@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DBS",
+    "domain_code": "PSY",
+    "full_name": "Psychology"
+  },
+  "full_name": "Research Methods and Statistics II",
+  "module_code": "PSY106",
+  "offerings": [
+    {
+      "heading": "Research Methods and Statistics II",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "PSY",
+        "full_name": "Research Methods and Statistics II",
+        "module_code": "PSY106",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Research Methods and Statistics II",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to: • Introduce students to more complex quantitative data analysis (when compared to the content of Research Methods and Statistics I) using statistical software; • Introduce students to basic qualitative data collection and analysis; • Support students in reporting data analysis in accordance with American Psychological Association guidelines; • Promote understanding of ethical, methodological, and reproducibility issues in psychological research.",
+        "Learning outcomes": "A Describe basic qualitative data collection and analysis techniques and report qualitative findings in an appropriate format. B Recognise appropriate statistical tests in the context of specific research designs and data types. C Conduct basic quantitative analyses using statistical software and present the results in American Psychological Association format. D Describe and discuss ethical, methodological, and reproducibility issues that influence the practice of psychological research. E Produce a structured practical report report based on a provided dataset, including appropriate analysis and reporting of quantitative data.",
+        "Method of teaching and learning": "The learning and teaching strategy has been guided by the Liverpool Curriculum Framework attributes and hallmarks. In particular, the module has been designed to include research-connected teaching and opportunities for active learning. Teaching Method 1 - Lectures Attendance Recorded: Yes The lectures introduce students to core methodological approaches and statistical techniques that build on Research Methods and Statistics I. Topics will include quantitative analysis using statistical software, basic qualitative data collection and analysis, APA-style reporting, replication and reproducibility, and ethical, methodological, and reproducibility issues issues in psychological research. Teaching Method 2 - Tutorials Attendance Recorded: Yes Tutorials will provide direct experience of material covered in lectures. Students will practise identifying appropriate statistical tests, conducting basic quantitative analyses using statistical software, interpreting statistical output, reporting results in APA format, and discussing basic qualitative analysis. Tutorials will also provide structured opportunities for formative feedback. Teaching Method 3 - Group Project Attendance Recorded: Yes The group project provides students with the opportunity to analyse a provided set of data relating to a specific area of psychology and communicate the findings. Students will practise preparing a structured practical report, presenting research findings, and considering relevant ethical and methodological issues. Self- and peer-assessment activities may be included to support reflection on collaborative learning and individual contribution."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PSY106&psl_code=SEM2"
+    }
+  ]
+}

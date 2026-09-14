@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DBS",
+    "domain_code": "PSY",
+    "full_name": "Psychology"
+  },
+  "full_name": "Research Methods and Statistics I",
+  "module_code": "PSY103",
+  "offerings": [
+    {
+      "heading": "Research Methods and Statistics I",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "PSY",
+        "full_name": "Research Methods and Statistics I",
+        "module_code": "PSY103",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Research Methods and Statistics I",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to: • Introduce the basic theoretical and practical issues involved in designing empirical investigations in psychology. • Support students in describing, analysing, and reporting basic psychological data using appropriate statistical methods and statistical software. • Enable students to present the results of basic statistical analyses in written form in accordance with the American Psychological Association (APA) guidelines. • Introduce students to the concept of replication and reproducibility and their importance when interpreting empirical findings.",
+        "Learning outcomes": "A Describe basic empirical design in psychological research and recognise appropriate applications of these designs. B Distinguish between different types of data and select appropriate basic methods for describing, analysing, and reporting them. C Explain null hypothesis significance testing and conduct basic statistical analysis using statistical software. D Formulate simple research questions or hypotheses and identify appropriate introductory research designs to address them. E Present the results of basic statistical analyses in written form using American Psychological Association (APA) guidelines. F Describe the concepts of replication and reproducibility and explain their importance when interpreting empirical findings.",
+        "Method of teaching and learning": "The learning and teaching strategy has been guided by the Liverpool Curriculum Framework attributes and hallmarks. In particular, the module has been designed to include research-connected teaching (lectures) and opportunities for active learning (group-work). Teaching Method 1 – Lecture Attendance Recorded: Yes The lectures will introduce students to core methodological approaches and statistical techniques used in psychological research. Topics will include empirical design, data types, descriptive statistics, probability, null hypothesis significance testing, introductory statistical tests, APA-style reporting, and the concepts of replication and reproducibility. Teaching Method 2 - Tutorials Attendance Recorded: Yes These practical classes will provide direct experience of material covered in lectures. Students will practise identifying research designs, distinguishing between types of data, selecting appropriate basic analyses, using statistical software, interpreting basic statistical output, and presenting results in written form. Tutorials will also provide structured opportunities for formative feedback. Teaching Method 3 - Group Project Attendance Recorded: Yes The group project provides students with the opportunity to develop and communicate an introductory research idea in psychology Students will practise formulating a simple research question or hypothesis, identifying an appropriate introductory research design, considering basic ethical issues, and explaining how replication and reproducibility are relevant to the proposed research. Self- and peer-assessment activities will be included to support reflection on collaborative learning and individual contribution."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PSY103&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DBS",
+    "domain_code": "PSY",
+    "full_name": "Psychology"
+  },
+  "full_name": "Biological Psychology",
+  "module_code": "PSY104",
+  "offerings": [
+    {
+      "heading": "Biological Psychology",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "PSY",
+        "full_name": "Biological Psychology",
+        "module_code": "PSY104",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "7.5",
+        "Module Level": "Level 1",
+        "Module Title": "Biological Psychology",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to: • introduce students to the basic concepts and principles associated with the neural and biological bases of human behaviour; • support students in understanding the structure and function of the nervous and endocrine systems; • illustrate how biological processes contribute to psychological functions and behaviour, including variability and diversity of psychological functions; • introduce students to common research strategies and methods of investigation in Biological Psychology.",
+        "Learning outcomes": "A Define and discuss the basic structure and function of the human nervous system. B Define and discuss the basic concepts of cell anatomy, neural transmission, and endocrine signalling. C Explain how brain structure and function contribute to psychological function and individual variation in behaviour. D Discuss the brain mechanisms involved in a range of goal-directed behaviours, such as sleep, eating, and aggression. E Describe common research methods used in biological psychology and explain how they contribute to understanding brain–behaviour relationships.",
+        "Method of teaching and learning": "The learning and teaching strategy has been guided by the Liverpool Curriculum Framework attributes and hallmarks. In particular, the module has been designed to include research-connected teaching and opportunities for active learning. Teaching Method 1 - Lecture Attendance Recorded: Yes Lectures will introduce core concepts, principles, and findings in biological psychology. Topics include the structure and function of the nervous and endocrine systems, neural transmission, biological bases of behaviour, and examples of normal and abnormal human functioning. Research-focused lectures will introduce common forms of evidence used in biological psychology and show how biological processes contribute to variability and diversity in psychological functions and behaviour. Teaching Method 2 - Research seminars Attendance Recorded: Yes Research seminars will provide opportunities for active learning and guided discussion. Activities will include reviewing and discussing prior research in biological psychology, identifying common research methods and measurement techniques, and considering how these methods are used to investigate brain–behaviour relationships. Students will practise describing research approaches such as lesion studies, pharmacological approaches, neuroimaging, electrophysiology, and psychophysiological measurement. Teaching Method 3 - Online activities Attendance Recorded: No Tasks will be set to consolidate seminar and lecture content and provide formative feedback. These tasks may include short readings, guided questions, concept-check activities, and introductory exercises designed to help students identify biological mechanisms and describe patterns in behaviour."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PSY104&psl_code=SEM2"
+    }
+  ]
+}

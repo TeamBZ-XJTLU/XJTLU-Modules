@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DBS",
+    "domain_code": "PSY",
+    "full_name": "Psychology"
+  },
+  "full_name": "Social Psychology and Individual Differences",
+  "module_code": "PSY105",
+  "offerings": [
+    {
+      "heading": "Social Psychology and Individual Differences",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "PSY",
+        "full_name": "Social Psychology and Individual Differences",
+        "module_code": "PSY105",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "7.5",
+        "Module Level": "Level 1",
+        "Module Title": "Social Psychology and Individual Differences",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to: • introduce students to key research, theories, and concepts in social psychology and individual differences; • Support students in interpretating empirical findings in social psychology and individual differences at an introductory level; • introduce students to common research methods used in social psychology and individual differences • help students recognise how theories and research in social psychology and individual differences can be used to understand real-world issues.",
+        "Learning outcomes": "A Describe important research in social psychology and individual differences. B Identify and describe major debates or issues in social psychology and individual differences. C Describe and compare basic theoretical models and concepts in social psychology and individual differences, noting simple strengths or limitations. D Describe common research methods used in social psychology and individual differences and recognise how they can be used to understand real-world issues.",
+        "Method of teaching and learning": "The learning and teaching strategy has been guided by the Liverpool Curriculum Framework attributes and hallmarks. In particular, the module has been designed to include research-connected teaching and opportunities for active learning. Teaching Method 1 - Lectures Attendance Recorded: Yes Lectures will introduce core topics, theories, concepts, and empirical findings in social psychology and individual differences. Research-focused lectures will examine selected topics in more detail and highlight how individual differences and social contexts contribute to variation in human behaviour. Teaching Method 2 - Seminars Attendance Recorded: Yes Seminars will provide opportunities for active learning and guided discussion. Activities will include reviewing and discussing prior research in social psychology and individual differences, identifying major debates or issues, comparing basic theoretical explanations, and considering how research methods are used to study social behaviour and individual differences. Structured activities will help students connect module content to real-world issues and practise introductory interpretation of research evidence. Tasks relating to equality, diversity, inclusion, and sustainability may be included where they are directly relevant to social psychology and individual differences. Guidance will also be provided on respectful and constructive peer discussion. Teaching Method 3 - Online activities Attendance Recorded: No Online activities set to consolidate seminar and lecture content and provide formative feedback. These tasks may include short readings, guided questions, concept-check activities, and introductory exercises involving interpretation of simple numerical, textual, or graphical information relevant to social psychology and individual differences."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PSY105&psl_code=SEM2"
+    }
+  ]
+}
