@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DBS",
+    "domain_code": "PSY",
+    "full_name": "Psychology"
+  },
+  "full_name": "Research Methods and Statistics III",
+  "module_code": "PSY203",
+  "offerings": [
+    {
+      "heading": "Research Methods and Statistics III",
+      "listing": {
+        "academic_year": "2028/29",
+        "domain_code": "PSY",
+        "full_name": "Research Methods and Statistics III",
+        "module_code": "PSY203",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2028/29",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Research Methods and Statistics III",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to: • Introduce students to regression and Analysis of Variance (ANOVA) methods; • Enable students to perform quantitative statistical analyses on a computer using statistical software; • Provide students with the opportunity to present the results of statistical analyses in accordance with the APA guidelines; • Develop student's understanding of ethical issues and ethical approval procedures; • Enhance students’ ability to identify and review empirical literature.",
+        "Learning outcomes": "A Explain the theoretical concepts that underlie regression and ANOVA, different methods, strengths and limitations, and appropriate application in psychology research. B Report the results of quantitative analyses in psychology accurately and completely using an internationally recognised format. C Use statistical software to analyse research data using regression and ANOVA methods and accurately interpret the statistical output. D Interpret key assumptions and diagnostic outputs associated with regression and ANOVA models, and evaluate their implications for psychological research. E Identify and review empirical literature relating to research in psychology. F Create an ethics research application in an area of psychological research, taking into account key ethical issues and considerations.",
+        "Method of teaching and learning": "The learning and teaching strategy has been guided by the Liverpool Curriculum Framework attributes and hallmarks. In particular, the module has been designed to include research-connected teaching (lectures) and opportunities for active learning (practical classes and tutorials). Teaching Method 1 - Lecture Attendance Recorded: Yes Lectures will introduce students to core methodological approaches, regression and ANOVA methods, statistical assumptions and diagnostics, statistical reporting, and ethical approval procedures. Lectures will also support students in understanding how statistical modelling, empirical literature review, and ethical review contribute to psychological research. Teaching Method 2 - Practical classes Attendance Recorded: Yes Practical classes will provide direct experience of material covered in lectures. Students will practise analysing data using regression and ANOVA methods, checking assumptions, interpreting diagnostic outputs, and preparing results sections in American Psychological Association (APA)format. Practical classes will also include exam practice and formative feedback.. Teaching Method 3 - Tutorials Attendance Recorded: Yes The group project will provides students with the opportunity to explore a specific area of research with particular emphasis on literature review, hypothesis/research question development, and ethical considerations. Activities will support students in identifying and reviewing empirical literature and preparing an ethics application for a psychological research study. Self- and peer-assessment activities will be included to support reflection on collaborative learning and individual contribution."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PSY203&psl_code=SEM1"
+    }
+  ]
+}

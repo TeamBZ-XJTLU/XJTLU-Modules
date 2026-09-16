@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DBS",
+    "domain_code": "PSY",
+    "full_name": "Psychology"
+  },
+  "full_name": "Clinical and Forensic Psychology",
+  "module_code": "PSY201",
+  "offerings": [
+    {
+      "heading": "Clinical and Forensic Psychology",
+      "listing": {
+        "academic_year": "2028/29",
+        "domain_code": "PSY",
+        "full_name": "Clinical and Forensic Psychology",
+        "module_code": "PSY201",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2028/29",
+        "Module Credits": "7.5",
+        "Module Level": "Level 2",
+        "Module Title": "Clinical and Forensic Psychology",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to: • Provide students with an overview of key issues, debates, and applications in clinical and forensic psychology; • Support students in engaging with research-led learning and current empirical research in clinical and forensic psychology; • Introduce students to central theoretical models, research methods, and forms of evidence used in clinical and forensic psychology; • Help students consider how clinical and forensic psychological knowledge can be applied in real world settings.",
+        "Learning outcomes": "A Evaluate key debates within clinical and forensic psychology. B Critically appraise the central theoretical models and concepts in clinical and forensic psychology. C Analyse the utility of selected research methods in clinical and forensic psychology. D Use empirical findings from clinical and forensic psychology to support a reasoned position. E Consider cross-cultural, ethical, and social factors relevant to clinical and forensic psychological research and practice.",
+        "Method of teaching and learning": "The learning and teaching strategy has been guided by the Liverpool Curriculum Framework attributes and hallmarks. In particular, the module has been designed to include research-connected teaching (lectures) and opportunities for active learning (seminars). Teaching Method 1 - Lectures Attendance Recorded: Yes Lectures will introduce core topics, debates, theoretical models, research methods, and applications in clinical and forensic psychology. Research-focused lectures will examine selected empirical studies and applied issues in more detail, with attention to how clinical and forensic psychology inform assessment, formulation, treatment, intervention, risk assessment, and real-world practice. Teaching Method 2 - Seminars Attendance Recorded: Yes Seminars will provide opportunities for active learning, guided critical discussion, and research-led learning. Activities will include reviewing and critically discussing in clinical and forensic psychology, appraising theoretical models, analysing the utility of selected research methods, and using empirical findings to support reasoned positions. Seminars will also include structured discussions of cross-cultural, ethical, and social factors relevant to clinical and forensic psychological research and practice. Explicit guidance will be provided for best practices during discussion, particularly when considering sensitive topics related to mental health, offending, diagnosis, treatment, risk, and social context. Teaching Method 3 - Online activities Attendance Recorded: No Online activities will be set to consolidate lecture and seminar content and provide formative feedback. These tasks may include short readings, guided questions, case-based exercises, and activities requiring students to interpret empirical findings, consider methodological strengths and limitations, and connect clinical and forensic psychological concepts to real-world examples."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PSY201&psl_code=SEM1"
+    }
+  ]
+}

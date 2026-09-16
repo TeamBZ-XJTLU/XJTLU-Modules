@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DBS",
+    "domain_code": "PSY",
+    "full_name": "Psychology"
+  },
+  "full_name": "Research Methods and Statistics IV",
+  "module_code": "PSY206",
+  "offerings": [
+    {
+      "heading": "Research Methods and Statistics IV",
+      "listing": {
+        "academic_year": "2028/29",
+        "domain_code": "PSY",
+        "full_name": "Research Methods and Statistics IV",
+        "module_code": "PSY206",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2028/29",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Research Methods and Statistics IV",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to • build on knowledge (obtained in Year 2) about qualitative data and ANOVA to further research method and statistical competence; • introduce students to psychometrics, including factor analysis and reliability; • further develop student abilities to perform quantitative statistical analyses on a computer using statistical software; • further develop student familiarity with American Psychological Association (APA) guidelines for the presentation of the results of statistical analysis; and • provide students with experience of ethical approval procedure.",
+        "Learning outcomes": "A Produce qualitative analyses of data using appropriate qualitative software (NVIVO) and report results in a complete and internationally accepted format in psychology. B Appraise the theoretical concepts of psychometric data analysis and their role in psychological research. C Analyse psychometric data independently and efficiently using statistical software to conduct factor and reliability analyses and accurately interpret the statistical output. D Relate data obtained through psychometric testing to experimental design and apply appropriate analysis techniques on psychological data. E Produce a complete and coherent research project report in Psychology, with appropriate information about ethics approval.",
+        "Method of teaching and learning": "The learning and teaching strategy has been guided by the Liverpool Curriculum Framework attributes and hallmarks. In particular, the module has been designed to include research-connected teaching and opportunities for active learning. Teaching Method 1 - Lecture Attendance Recorded: Yes The lectures introduce students to core methodological approaches, statistical techniques, and procedures of ethical approval. Teaching Method 2 - Group-work Attendance Recorded: Yes Practical classes will involve analysing data using techniques from the previous week’s lecture, completing APA format write ups of this data and exam practice with formative assessment. Teaching Method 3 - Group Project Attendance Recorded: Yes The group project provides students with the opportunity to explore and investigate a specific area of research with particular emphasis on the reporting of results, practical report writing, and ethical considerations. Self- and peer-assessment activities (conducted using questionnaires) will be included to give students the opportunity to reflect on and evaluate peer performance and personal strengths and weaknesses for the purposes of improving future learning. Performance on this project will be assessed using the \"Written report\" component, which will be a full quantitative report at Level 5. This report will be graded using instructor double-marking, with student peer-evaluations used to adjust scores to account for uneven student contributions to the final product. Student self-evaluations will contribute to the “Written Report” mark through a 10% completion score only, with the content of these reflections otherwise not being marked."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PSY206&psl_code=SEM2"
+    }
+  ]
+}

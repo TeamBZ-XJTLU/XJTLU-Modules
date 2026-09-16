@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DBS",
+    "domain_code": "PSY",
+    "full_name": "Psychology"
+  },
+  "full_name": "Lifespan, Health and Wellbeing",
+  "module_code": "PSY205",
+  "offerings": [
+    {
+      "heading": "Lifespan, Health and Wellbeing",
+      "listing": {
+        "academic_year": "2028/29",
+        "domain_code": "PSY",
+        "full_name": "Lifespan, Health and Wellbeing",
+        "module_code": "PSY205",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2028/29",
+        "Module Credits": "7.5",
+        "Module Level": "Level 2",
+        "Module Title": "Lifespan, Health and Wellbeing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to: • introduce students to key lifespan transitions and their impact on health and wellbeing across the adult life course; • enable students to apply theory relating to adult lifespan, health and wellbeing to real-world issues, problems and contexts; and • enable students to examine the research strategies and methods of investigation used in the areas of adult lifespan, health and wellbeing.",
+        "Learning outcomes": "A Apply theories and research evidence relating to the impact of major lifespan transitions on health and wellbeing across the adult life course. B Discuss the personal and socio-cultural relevance of theories relating to adult lifespan transitions, health and wellbeing. C Analyse facts and situations critically to develop appropriate solutions to structure psychology scenarios. D Prepare a qualitative report examining the impact of a key adult lifespan transition on health and wellbeing. E Practice information literacy online by finding, reporting, applying, and sharing information.",
+        "Method of teaching and learning": "The learning and teaching strategy has been guided by the Liverpool Curriculum Framework attributes and hallmarks. In particular, the module has been designed to include research-connected teaching and opportunities for active learning. Teaching Method 1 - Lecture Attendance Recorded: Yes Content and research-focused lectures will include guest speakers and alumni as well as research experts within Psychology, with content usually focusing on understanding cutting-edge specialized areas and human health applications in a demographically-specific manner. Teaching Method 2 - Seminar Attendance Recorded: Yes Students will engage in small group discussions and problem-based learning activities on topics related to the module content, many of which will emphasize the use of analytical skills learned in the Research Methods and Statistics modules. A subset of these will be designed to learn about the subjective and variable nature of individual experiences in a demographically specific manner. Tasks emphasizing issues related to equality, diversity, inclusion, or sustainability action in Psychology contexts will also be included. Teaching Method 3 - Online activities Tasks will be set at the end of each seminar and need to be completed before the start of the next session. These tasks will further examine seminar content and enable provision of formative feedback. Many of these activities will focus on practicing the detection of meaningful patterns in behaviour and evaluating their significance. Attendance Recorded: No The \"Written report\" component will be a full qualitative report at Level 5 and graded by instructor double-marking using a detailed rubric that is revealed to students well in advance of the deadline. This report will require students to choose a topic with personal, societal, or socio-cultural relevance relating to a real-world issue pertaining to adult lifespan, health or wellbeing, requiring them to use online resources to collect facts, theories, and research evidence pertaining to the topic and apply this information to explain the scope of the issue, key challenges, and potential solutions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PSY205&psl_code=SEM2"
+    }
+  ]
+}

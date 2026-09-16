@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DBS",
+    "domain_code": "PSY",
+    "full_name": "Psychology"
+  },
+  "full_name": "Topics in Applied Social Psychology",
+  "module_code": "PSY304",
+  "offerings": [
+    {
+      "heading": "Topics in Applied Social Psychology",
+      "listing": {
+        "academic_year": "2029/30",
+        "domain_code": "PSY",
+        "full_name": "Topics in Applied Social Psychology",
+        "module_code": "PSY304",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2029/30",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Topics in Applied Social Psychology",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to: • enable students to develop an in-depth, detailed knowledge and critical understanding of contemporary and research in Social Psychology. • enable students to apply their knowledge of Social Psychology theory and research in solving a variety of social concerns in an applied context. • develop students' skills at communicating",
+        "Learning outcomes": "A Critically evaluate complex issues in a specialised area of Applied Social Psychology through independent enquiry, demonstrating intellectual autonomy B Synthesise and apply underlying concepts to novel situations, demonstrating the ability to generate innovative solutions by extrapolating principles from their original context. C Critically evaluate theories and models used in current social psychology research. D Communicate social psychological theories effectively to a non-scientific audience.",
+        "Method of teaching and learning": "The learning and teaching strategy has been guided by the Liverpool Curriculum Framework attributes and hallmarks. In particular, the module has been designed to include research-connected teaching (lectures) and opportunities for active learning (seminars). A digital fluency component is included via written assignments that require students to communicate about scientific research using a blog and interact with the blogs of their classmates. Teaching Method 1 - Lectures Lectures will be delivered using a flipped-classroom format. Attendance Recorded: Yes Teaching Method 2 - Seminars Students will be organized in small groups and discuss module content and assessment materials, including core studies identified in lectures and materials allocated for blog assignments. A subset of discussions will involve critically evaluating the appropriateness of employing different Applied Social Psychology approaches and methodologies to solve real-work problems. Tasks emphasizing issues related to social justice, equality, diversity, inclusion, or sustainability action in Psychology contexts will also be included, especially those relating to gender, marital status, socio-economic status and ethnicity. Attendance Recorded: Yes Both the “Written Assignments” (blog) and “Portfolio” will require students to choose topics with personal, societal, or socio-cultural relevance relating to real-world issues pertaining to social psychology, requiring them to use online resources to collect facts, theories, and research evidence pertaining to the topic and apply this information to explain the scope of the issue, key challenges, and potential solutions. The Written Assignments (blog) will be aimed to give students a platform to more informally share their findings and thoughts about their topics with each other while the Portfolio will aim to offer a more formal final product meant to be evaluated by instructors."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PSY304&psl_code=SEM2"
+    }
+  ]
+}

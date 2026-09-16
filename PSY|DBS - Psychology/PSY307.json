@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DBS",
+    "domain_code": "PSY",
+    "full_name": "Psychology"
+  },
+  "full_name": "Conflict Psychology",
+  "module_code": "PSY307",
+  "offerings": [
+    {
+      "heading": "Conflict Psychology",
+      "listing": {
+        "academic_year": "2029/30",
+        "domain_code": "PSY",
+        "full_name": "Conflict Psychology",
+        "module_code": "PSY307",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2029/30",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Conflict Psychology",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to: • provide students with a comprehensive understanding of the psychological principles that underlie interpersonal conflict • equip students with evidence-based strategies for managing and resolving such conflicts effectively • enable students to develop critical thinking, emotional intelligence, and interpersonal communication skills • prepare students to navigate conflict constructively in diverse relationships, workplaces, and multicultural environments.",
+        "Learning outcomes": "A Analyze the psychological foundations of interpersonal conflict by applying theories of perception, emotion, motivation, and identity to real-world conflict situations. B Identify and evaluate conflict types, sources, and dynamics — including communication barriers, cultural influences, and escalation/de-escalation patterns — to better understand and predict conflict outcomes. C Develop and implement personal conflict resolution strategies that integrate ethical considerations, cultural awareness, and self-reflection to manage and prevent conflicts constructively.",
+        "Method of teaching and learning": "The course will employ a blended learning approach that integrates both knowledge delivery and practical skill development. Core concepts and theoretical foundations of interpersonal conflict will be introduced through interactive lectures, enabling students to build their understanding of key psychological principles, conflict types, and communication dynamics. To deepen engagement and foster critical thinking, group discussions (seminars) will be used to explore case studies, compare perspectives, and analyze real-world scenarios. Roleplay exercises will provide hands-on opportunities for students to practice negotiation, mediation, and other conflict resolution strategies in a safe, structured environment, encouraging reflection on their own conflict styles and enhancing their ability to apply theory to practice. This combination of lectures, collaborative discussion, and experiential activities is designed to ensure that students not only grasp the academic content but also develop the interpersonal skills necessary for effective conflict management. Tasks emphasizing issues related to social justice, equality, diversity, inclusion, or sustainability action in Psychology contexts will also be included. A series of short Written Assignments will be used to help students develop their thinking about different conflict scenarios provided by the instructor. The Group Presentation provides students with the opportunity to further explore and investigate a specific type of conflict from a psychological perspective, requiring them to use online resources to collect facts, theories, and research evidence pertaining to the topic and apply this information to explain the scope of the issue, key challenges, and potential solutions. Self- and peer-assessment activities (conducted using questionnaires) will be included to give students the opportunity to reflect on and evaluate peer performance and personal strengths and weaknesses for the purposes of improving future learning. Student peer-evaluations will be used to adjust Group Presentation scores to account for uneven student contributions to the final product. Student self-evaluations will contribute to the “Written Report” mark through a completion score only, with the content of these reflections otherwise not being marked."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PSY307&psl_code=SEM2"
+    }
+  ]
+}

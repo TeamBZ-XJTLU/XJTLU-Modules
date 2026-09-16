@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DBS",
+    "domain_code": "PSY",
+    "full_name": "Psychology"
+  },
+  "full_name": "Family Psychology: Recognizing the System behind the Symptom",
+  "module_code": "PSY305",
+  "offerings": [
+    {
+      "heading": "Family Psychology: Recognizing the System behind the Symptom",
+      "listing": {
+        "academic_year": "2029/30",
+        "domain_code": "PSY",
+        "full_name": "Family Psychology: Recognizing the System behind the Symptom",
+        "module_code": "PSY305",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2029/30",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Family Psychology: Recognizing the System behind the Symptom",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to equip students to: • Move beyond the individual as the sole focus of analysis and site of disease. • Develop the capacity to critically evaluate how the nuclear family system shapes individual development and contributes to the causes and maintenance of psychopathology, using both qualitative and quantitative information. • Consolidate an understanding of family psychology as a distinct and identifiable specialty field. • Promote a critical appreciation of family psychology’s unique theoretical foundations and its evolving research methods.",
+        "Learning outcomes": "A Evaluate critically Bowen Family Systems Theory’s central notion that nuclear families may contribute to the aetiology and maintenance of symptoms. B Critically evaluate Bowen Family Systems Theory’s capacity to incorporate monadic (e.g., identity development, emotion regulation) and dyadic (e.g., attachment theory, parentification) psychological theories. C Critically debate current issues in Family Psychology such as love, intimate relationships, communication, and power and conflict in families. D Critically analyse current empirical research and methodology in Family Psychology. E Critically analyse and evaluate research theories and results to develop new empirical questions.",
+        "Method of teaching and learning": "The learning and teaching strategy has been guided by the Liverpool Curriculum Framework attributes and hallmarks. In particular, the module has been designed to include research-connected teaching (lectures) and opportunities for active learning (e.g., discussions, personal reflections). Teaching/Learning Method: Lectures Lectures will include opportunities for plenary discussions, small group discussions, polls, brief exercises, case studies, and time for personal reflections. Research-connected teaching and active learning will be central to lectures. Lecture attendance will be recorded. Teaching/Learning Method: Tutorials Tutorials will be delivered primarily through peer learning with the use of flipped classroom methodologies. The pre-session material will be forwarded to the students one week before the session for self-directed studying. During the session, students will lead/direct a number of the following activities depending on the type of the material and enrolment numbers: self-development exercises, case studies, small group/plenary discussions, quizzes, topic summaries, presentations, personal reflections. Tasks emphasizing issues related to social justice, equality, diversity, inclusion, or sustainability action in Psychology contexts will also be included, especially within the contexts of gender, marital status, socio-economic status and ethnicity. Teaching/Learning method: Film screening and discussion (Seminar) Module content will be reviewed through a directed plenary discussion on a movie that students will be required to view prior to the session. Guiding questions will be shared along with the movie so that the module’s central themes and topics will be revisited and revised. In such, the movie will be carefully chosen to relate to the module's topics/content. Both the “Written Research Proposal” and “Portfolio” will require students to choose topics with personal, societal, or socio-cultural relevance relating to real-world issues pertaining to family psychology, requiring them to use online resources to collect facts, theories, and research evidence pertaining to the topic and apply this information to explain the scope of the issue, key challenges, and potential solutions. The Research Proposal will further require them to present a research plan relevant to the topic they have chosen."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PSY305&psl_code=SEM2"
+    }
+  ]
+}

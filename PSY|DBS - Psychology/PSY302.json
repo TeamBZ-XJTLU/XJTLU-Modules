@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DBS",
+    "domain_code": "PSY",
+    "full_name": "Psychology"
+  },
+  "full_name": "Psychobiology of Pain",
+  "module_code": "PSY302",
+  "offerings": [
+    {
+      "heading": "Psychobiology of Pain",
+      "listing": {
+        "academic_year": "2029/30",
+        "domain_code": "PSY",
+        "full_name": "Psychobiology of Pain",
+        "module_code": "PSY302",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2029/30",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Psychobiology of Pain",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to • develop students' critical understanding of the psychology of pain; • provide students with comprehensive information about acute and chronic pain ranging from pain sensors and qualitative measures to higher order cognitive modulation of pain; • develop student understanding of the physiological and psychological changes which occur in chronic pain patients; and • introduce students to cognitive-behavioural and other methods of pain treatment.",
+        "Learning outcomes": "A Critically evaluate the neurophysiological mechanisms mediating acute and chronic pain states. B Choose and apply appropriate psychodiagnostic tools to assess pain in healthy people and chronic pain patients. C Appraise the applicability of cognitive-behavioural therapies for pain relief. D Critically assess the importance of individual biological and psycho-social predictors in the development of chronic pain. E Critically appraise the brain mechanisms participating in inhibitory control of pain and their roles in pain therapy.",
+        "Method of teaching and learning": "The module learning and teaching strategy has been guided by the Liverpool Curriculum Framework attributes and hallmarks. In particular, the module has been designed to include research-connected teaching (lectures) and opportunities for active learning (seminars). Digital fluency is included via written assignments that require students to communicate about scientific research using a blog and interact with the blogs of their classmates. Teaching Method 1 – Lectures Lectures will be delivered using a flipped-classroom format. Attendance Recorded: Yes Teaching Method 2 - Seminars Attendance Recorded: Yes Students will be organized in small groups and discuss module content and assessment materials, including core studies identified in lectures and materials allocated for discussion, roleplaying, or blog assignments. A specific subset of discussions and roleplaying activities will involve debating the efficacy of pain relief interventions, allowing students to adopt multiple perspectives and systematically analyse the relationships between them while exploring the importance of individual differences. Tasks emphasizing issues related to equality, diversity, inclusion, or sustainability action in Psychology contexts will also be included. Both the “Writing Assignments” (blog) and “Case Study” will require students to choose topics with personal, societal, or socio-cultural relevance relating to real-world issues pertaining to the psychology of pain, requiring them to use online resources to collect facts, theories, and research evidence pertaining to the topic and apply this information to explain the scope of the issue, key challenges, and potential solutions. The Writing Assignments (blog) will be aimed to give students a platform to more informally share their findings and thoughts about their topics with each other while the Case Study will aim to offer a more formal final product meant to be evaluated by instructors."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PSY302&psl_code=SEM1"
+    }
+  ]
+}

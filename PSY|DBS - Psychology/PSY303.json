@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DBS",
+    "domain_code": "PSY",
+    "full_name": "Psychology"
+  },
+  "full_name": "Psychological Issues in Adult Ageing",
+  "module_code": "PSY303",
+  "offerings": [
+    {
+      "heading": "Psychological Issues in Adult Ageing",
+      "listing": {
+        "academic_year": "2029/30",
+        "domain_code": "PSY",
+        "full_name": "Psychological Issues in Adult Ageing",
+        "module_code": "PSY303",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2029/30",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Psychological Issues in Adult Ageing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To develop in students an understanding of the: • way that increasing age influences the psychological experiences of adults and • interactions that ageing has with other individual differences such as gender, marital status, socio-economic status and ethnicity.",
+        "Learning outcomes": "A Critically evaluate the influence that ageing has on psychological experience in adulthood. B Critically analyse the interactions that ageing has with other individual differences such as gender, marital status, socio-economic status and ethnicity. C Critically evaluate the range of factors which contribute to the complexities inherent in understanding the psychology of ageing. D Critically discuss controversial topics within human ageing.",
+        "Method of teaching and learning": "The learning and teaching strategy has been guided by the Liverpool Curriculum Framework attributes and hallmarks. In particular, the module has been designed to include research-connected teaching (lectures) and opportunities for active learning (seminars). A digital fluency component is included via written assignments that require students to communicate about scientific research using a blog and interact with the blogs of their classmates. Teaching Method 1 - Lectures Description: Lectures will be delivered using a flipped-classroom format. Attendance Recorded: Yes Teaching method 2 – Seminars Description: These interactive debate sessions will be facilitated by the lecturer. Each session will start with an initial briefing in which the task is outlined, then students will be split into small groups to discuss the debate topic with one another. Students will then return to full-class discussion and plenary. The interactive debate sessions will require students to read a mix of peer-reviewed papers and grey literature in advance of the session. Padlets will be used, amongst other things, to facilitate idea tracking, with that content then made available for subsequence use in blog writing. Special attention will be paid to issues involving social justice, diversity, and inclusion, especially within the contexts of gender, marital status, socio-economic status and ethnicity. Attendance recorded: Yes Both the “Written Assignments” (blog) and “Case Study” will require students to choose topics with personal, societal, or socio-cultural relevance relating to real-world issues pertaining to the psychology of ageing, requiring them to use online resources to collect facts, theories, and research evidence pertaining to the topic and apply this information to explain the scope of the issue, key challenges, and potential solutions. The Written Assignments (blog) will be aimed to give students a platform to more informally share their findings and thoughts about their topics with each other while the Case Study will aim to offer a more formal final product meant to be evaluated by instructors."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PSY303&psl_code=SEM1"
+    }
+  ]
+}

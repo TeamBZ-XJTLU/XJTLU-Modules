@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DBS",
+    "domain_code": "PSY",
+    "full_name": "Psychology"
+  },
+  "full_name": "Psychobiology and Motivation",
+  "module_code": "PSY202",
+  "offerings": [
+    {
+      "heading": "Psychobiology and Motivation",
+      "listing": {
+        "academic_year": "2028/29",
+        "domain_code": "PSY",
+        "full_name": "Psychobiology and Motivation",
+        "module_code": "PSY202",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2028/29",
+        "Module Credits": "7.5",
+        "Module Level": "Level 2",
+        "Module Title": "Psychobiology and Motivation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to: • Expand students’ understanding of key concepts and principles in biological psychology; • Examine the biological processes involved in motivated behaviour and psychological functioning; • Develop students’ understanding of research strategies and methods in psychobiology and motivation; • Support students in evaluating evidence relating to biological explanations, animal models, and evidence-based interventions.",
+        "Learning outcomes": "A Discuss how brain structure and function contribute to psychological functioning and dysfunction. B Evaluate the utility of animal models of human behaviour. C Evaluate evidence on how altering brain or bodily function can be used to treat psychological dysfunction. D Identify and recommend appropriate evidence-based practice in psychobiology and motivation. E Compare key research strategies used in psychobiology and motivation, including their methodological strengths and limitations.",
+        "Method of teaching and learning": "The learning and teaching strategy has been guided by the Liverpool Curriculum Framework attributes and hallmarks. In particular, the module has been designed to include research-connected teaching (lectures) and opportunities for active learning (seminars). Teaching Method 1 - Lectures Attendance Recorded: Yes Lectures expand students’ understanding of key concepts, principles, and evidence in psychobiology and motivation. Content lectures will cover cover biological processes involved in motivated behaviour and psychological functioning. Research-focused lectures will examine selected specialised topics, animal models, research strategies, and biological interventions in more detail. Teaching Method 2 - Seminars Attendance Recorded: Yes Seminars will provide opportunities for active learning, guided critical discussion, and research-led learning. Activities will include evaluating evidence on brain–behaviour relationships, comparing research strategies used in psychobiology and motivation, considering the utility and limitations of animal models, and discussing the evidence base for biological interventions and treatment approaches. Where relevant, seminars will also consider ethical, cultural, and social issues in interpreting psychobiological evidence and applying evidence-based practice. Guidance will be provided on constructive peer discussion and appropriate use of empirical evidence. Teaching Method 3 - Group Project Attendance Recorded: No The group project will provide students with the opportunity to engage with empirical evidence in psychobiology and motivation. Students will use a structured research report format to compare research strategies, interpret findings, and consider implications for evidence-based practice. Self- and peer-assessment activities will be included to support reflection on collaborative learning and individual contribution."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PSY202&psl_code=SEM1"
+    }
+  ]
+}

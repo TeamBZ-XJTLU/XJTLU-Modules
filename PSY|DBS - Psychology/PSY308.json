@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DBS",
+    "domain_code": "PSY",
+    "full_name": "Psychology"
+  },
+  "full_name": "The Psychology of Psychosis",
+  "module_code": "PSY308",
+  "offerings": [
+    {
+      "heading": "The Psychology of Psychosis",
+      "listing": {
+        "academic_year": "2029/30",
+        "domain_code": "PSY",
+        "full_name": "The Psychology of Psychosis",
+        "module_code": "PSY308",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2029/30",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "The Psychology of Psychosis",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to: • introduce the clinical phenomena associated with diagnoses such as schizophrenia and bipolar disorder • provide an overview of the historical origins of contemporary approaches to diagnosing, explaining, and treating these conditions • provide students with the skills necessary to critically appraise biomedical models of severe mental illness • explore contemporary neuropsychological models of specific symptoms such as hallucinations and paranoid delusions • provide an overview of the role of genes, environments and interactions between genetic and environmental factors in the development of severe mental illness • explore the value and limitations of pharmacological and psychological interventions for psychosis.",
+        "Learning outcomes": "A Critically appraise the main historical developments and theories in the study and treatment of psychosis. B Critically appraise contemporary theories of psychosis symptoms and approaches to the assessment and diagnosis of psychotic disorders. C Evaluate the strengths and limitations of a range of treatments for people with experiences of psychosis. D Critically evaluate a range of biological and psychological accounts of schizophrenia and bipolar disorder and associated treatments.",
+        "Method of teaching and learning": "The learning and teaching strategy has been guided by the Liverpool Curriculum Framework attributes and hallmarks. In particular, the module has been designed to include research-connected teaching (lectures) and opportunities for active learning (seminars). Teaching Method 1 - Lectures Research-based lectures covering what psychosis is, why we think it occurs, and how we might approach treatment. Guest lectures from researchers, academics, and experts by experience provide additional expertise and perspectives throughout the course, with content usually focusing on understanding cutting-edge specialized areas and human health applications in a demographically-specific manner. Attendance Recorded: Yes Teaching Method 2 - Seminars Students will be organized in small groups to learn about and practice using the PANSS (positive and negative symptom schedule) clinical assessment. Recorded: Yes A series of short Written Assignments spaced out across the semester will be used to help students develop their thinking about different scenarios involving psychosis that are provided by the instructor."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PSY308&psl_code=SEM2"
+    }
+  ]
+}

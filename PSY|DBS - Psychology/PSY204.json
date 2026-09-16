@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DBS",
+    "domain_code": "PSY",
+    "full_name": "Psychology"
+  },
+  "full_name": "Cognition and Cognitive Neuroscience",
+  "module_code": "PSY204",
+  "offerings": [
+    {
+      "heading": "Cognition and Cognitive Neuroscience",
+      "listing": {
+        "academic_year": "2028/29",
+        "domain_code": "PSY",
+        "full_name": "Cognition and Cognitive Neuroscience",
+        "module_code": "PSY204",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2028/29",
+        "Module Credits": "7.5",
+        "Module Level": "Level 2",
+        "Module Title": "Cognition and Cognitive Neuroscience",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to: • Provide students with a detailed overview of important topics in cognition and cognitive neuroscience, including perception, attention, memory, and language; • Illustrate how evidence from behavioural, neurophysiological and neuroimaging studies with healthy individuals and neurological or psychiatric patients can be combined to advance our understanding of cognition and its neural substrates. • Develop students’ ability to evaluate experimental designs and research methodologies used to study cognition in healthy and impaired populations; • Support students in communicating research findings clearly and accurately in scientific formats.",
+        "Learning outcomes": "A Critically discuss important themes and debates in core areas of cognition and cognitive neuroscience. B Evaluate the extent to which different research methodologies involving healthy and impaired populations inform the study of cognition. C Select and justify appropriate experimental designs and cognitive/neuroscientific methods for specific research questions, interpret relevant data outputs, and critically evaluate threats to validity and reliability. D Present research findings succinctly and accurately in scientific poster format.",
+        "Method of teaching and learning": "The learning and teaching strategy has been guided by the Liverpool Curriculum Framework attributes and hallmarks. The module includes research-connected teaching through lectures and active learning through seminars. Online tasks provide opportunities to consolidate learning and receive formative feedback. Teaching Method 1 - Lectures Attendance Recorded: Yes Lectures will provide an in-depth examination of core topics in cognition and cognitive neuroscience, including perception, attention, memory, and language. Lectures may include guest speakers, alumni, and research experts, with a focus on current research, specialised areas, and applications in cognition and cognitive neuroscience. Teaching Method 2 - Seminars Attendance Recorded: Yes Seminars will provide opportunities for active learning, guided critical discussion, and research-led learning. Students will discuss important themes and debates in cognition and cognitive neuroscience, evaluate research methodologies involving healthy and impaired populations, and consider how behavioural, neurophysiological, neuroimaging, and patient-based evidence can be integrated to explain cognitive processes. Seminar activities will also support students in developing and communicating research ideas for the poster presentation. Tasks relating to equality, diversity, inclusion, or sustainability may be included where they are directly relevant to cognition, cognitive neuroscience, and individual variation in cognitive experience or functioning. Teaching Method 3 - Online activities Attendance Recorded: No Online activities will be set to consolidate lecture and seminar content and provide formative feedback. These tasks may include short readings, guided questions, evidence-interpretation exercises, and activities supporting preparation for the poster presentation and final exam."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PSY204&psl_code=SEM2"
+    }
+  ]
+}

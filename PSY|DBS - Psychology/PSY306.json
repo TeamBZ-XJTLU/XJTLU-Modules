@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DBS",
+    "domain_code": "PSY",
+    "full_name": "Psychology"
+  },
+  "full_name": "Cyber-psychology, Human-Computer Interaction",
+  "module_code": "PSY306",
+  "offerings": [
+    {
+      "heading": "Cyber-psychology, Human-Computer Interaction",
+      "listing": {
+        "academic_year": "2029/30",
+        "domain_code": "PSY",
+        "full_name": "Cyber-psychology, Human-Computer Interaction",
+        "module_code": "PSY306",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2029/30",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Cyber-psychology, Human-Computer Interaction",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to: • explore the topic of Cyberpsychology from different angles that refer to different core domains of psychology including Cognitive, Social, Educational, Health, and Forensic psychology • provide students with the opportunity to apply the core knowledge acquired in their previous years of studies into applied and currently relevant contexts • prepare students for the digital world requirements of jobs with an online presence or where an understanding of human-computer interaction would be expected.",
+        "Learning outcomes": "A Critically appraise the psychology of human-computer interaction with reference to core domains of Psychology (e.g., Human Cognition and Social Psychology) B Critically evaluate the impact of digital technology on humans’ behaviour in both individual and social contexts C Develop and articulate reasoned arguments and creative ideas through proficient use of digital tools, producing outputs such as blog posts and audio-visual presentations.",
+        "Method of teaching and learning": "The learning and teaching strategy has been guided by the Liverpool Curriculum Framework attributes and hallmarks. In particular, lectures provide research-connected teaching and seminars and online discussions support digital fluency and provide opportunities for active learning. A digital fluency component is included via written assignments that require students to communicate about scientific research using a blog and interact with the blogs of their classmates. The module will be taught through a combination of lectures and seminars. Lectures will cover theoretical material and prior research. Seminars will be designed to assist students to develop their own blog and apply the principles of cyberpsychology on real world examples. The students will have the opportunity to interact with relevant online learning material and participate in discussion activities in order to develop their own blog. An online module space will support their learning by providing learning materials, promoting discussions, and other online collaborations through relevant activities. Students will participate in a debate regarding the positive outcomes of the use of technology (e.g., becoming supportive through virtual communities) and negative outcomes (e.g., being addictive) by preparing and delivering presentations that will be formatively peer-assessed. A component of this debate will involve the roleplaying of different stakeholders to explore the contexts in which online presence and an understanding of human-computer interactions may be valued. Tasks emphasizing issues related to equality, diversity, inclusion, or sustainability action in Psychology contexts will also be included. The “Written Assignments” (blog) will require students to choose topics with personal, societal, or socio-cultural relevance relating to real-world issues pertaining to cyber-psychology, requiring them to use online resources to collect facts, theories, and research evidence pertaining to the topic and apply this information to explain the scope of the issue, key challenges, and potential solutions. These assignments are aimed at giving students a platform to more informally share their findings and thoughts about their topics with each other, with active participation in the commenting on peer blog posts comprising 15% of the final coursework component mark."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PSY306&psl_code=SEM2"
+    }
+  ]
+}

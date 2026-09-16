@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DBS",
+    "domain_code": "PSY",
+    "full_name": "Psychology"
+  },
+  "full_name": "Appetite Regulation and Obesity: Health and Neuroscience Perspectives",
+  "module_code": "PSY301",
+  "offerings": [
+    {
+      "heading": "Appetite Regulation and Obesity: Health and Neuroscience Perspectives",
+      "listing": {
+        "academic_year": "2029/30",
+        "domain_code": "PSY",
+        "full_name": "Appetite Regulation and Obesity: Health and Neuroscience Perspectives",
+        "module_code": "PSY301",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2029/30",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Appetite Regulation and Obesity: Health and Neuroscience Perspectives",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to 1. Provide students with an understanding of psychological, physiological and pharmacological aspects of the control of appetite for food. 2. Provide students with an understanding of the nature, causes and consequences of the world obesity pandemic.",
+        "Learning outcomes": "A Analyse key aspects of the psychology of appetite, nutrition and eating behaviour, including innate and learnt factors determining food choice, as well as implications of the current obesity epidemic. B Evaluate theories relating to the psychology of appetite, nutrition and eating behaviour, and debate topical issues in appetite research, adopting multiple perspectives and systematically analysing the relationships between them. C Critically evaluate research methodologies from studies of appetite research and analyse their findings to detect meaningful patterns in behaviour and evaluate their significance. D Create distinctive written work relevant to appetite, nutrition and eating behaviour that is evidence-based and personally relevant, emphasizing individual experiences.",
+        "Method of teaching and learning": "The module learning and teaching strategy has been guided by the Liverpool Curriculum Framework attributes and hallmarks. In particular, the module has been designed to include research-connected teaching (lectures) and opportunities for active learning (seminars). A digital fluency component is included via written assignments that require students to communicate about scientific research using a blog and interact with the blogs of their classmates. Teaching Method 1 – Lectures Lectures will be delivered using a flipped-classroom format. Attendance Recorded: Yes Teaching Method 2 - Seminars Attendance Recorded: Yes Students will be organized in small groups and discuss module content and assessment materials, including core studies identified in lectures and materials allocated for blog assignments. A subset of discussions will involve debating and roleplaying topical issues in appetite research, allowing students to adopt multiple perspectives and systematically analyse the relationships between them while exploring the importance of individual differences. Tasks emphasizing issues related to equality, diversity, inclusion, or sustainability action in Psychology contexts will also be included. The “Written Assignments” (blog) will require students to choose topics with personal, societal, or socio-cultural relevance relating to real-world issues pertaining to the psychology of appetite, obesity, and body image, requiring them to use online resources to collect facts, theories, and research evidence pertaining to the topic and apply this information to explain the scope of the issue, key challenges, and potential solutions. These assignments will be aimed to give students a platform to more informally share their findings and thoughts about their topics with each other."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PSY301&psl_code=SEM1"
+    }
+  ]
+}

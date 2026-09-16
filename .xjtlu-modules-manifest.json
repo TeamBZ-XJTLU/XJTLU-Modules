@@ -703,6 +703,7 @@
     "FTA|AFCT - Film and TV/FTA429.json",
     "FTA|AFCT - Film and TV/FTA430.json",
     "FTA|AFCT - Film and TV/FTA431.json",
+    "FTA|AFCT - Film and TV/FTA432.json",
     "FTA|AFCT - Film and TV/FTA433.json",
     "FTA|AFCT - Film and TV/FTA434.json",
     "FTA|AFCT - Film and TV/FTA435.json",
@@ -1899,6 +1900,21 @@
     "PSY|DBS - Psychology/PSY104.json",
     "PSY|DBS - Psychology/PSY105.json",
     "PSY|DBS - Psychology/PSY106.json",
+    "PSY|DBS - Psychology/PSY201.json",
+    "PSY|DBS - Psychology/PSY202.json",
+    "PSY|DBS - Psychology/PSY203.json",
+    "PSY|DBS - Psychology/PSY204.json",
+    "PSY|DBS - Psychology/PSY205.json",
+    "PSY|DBS - Psychology/PSY206.json",
+    "PSY|DBS - Psychology/PSY301.json",
+    "PSY|DBS - Psychology/PSY302.json",
+    "PSY|DBS - Psychology/PSY303.json",
+    "PSY|DBS - Psychology/PSY304.json",
+    "PSY|DBS - Psychology/PSY305.json",
+    "PSY|DBS - Psychology/PSY306.json",
+    "PSY|DBS - Psychology/PSY307.json",
+    "PSY|DBS - Psychology/PSY308.json",
+    "PSY|DBS - Psychology/PSY309.json",
     "RBETC|IRE - Robotics",
     "RBETC|IRE - Robotics/RBE001TC.json",
     "RBETC|IRE - Robotics/RBE002TC.json",
@@ -2071,7 +2087,7 @@
     "UPD|UPD - Urban Planning and Design/UPD408.json",
     "UPD|UPD - Urban Planning and Design/UPD410.json"
   ],
-  "module_file_count": 1999,
+  "module_file_count": 2015,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -6110,6 +6126,12 @@
       "module_code": "FTA431",
       "module_level": "Level 4",
       "path": "FTA|AFCT - Film and TV/FTA431.json"
+    },
+    {
+      "full_name": "Content Producing Research Project",
+      "module_code": "FTA432",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT - Film and TV/FTA432.json"
     },
     {
       "full_name": "Advanced Visual Storytelling Techniques",
@@ -13082,6 +13104,96 @@
       "module_code": "PSY106",
       "module_level": "Level 1",
       "path": "PSY|DBS - Psychology/PSY106.json"
+    },
+    {
+      "full_name": "Clinical and Forensic Psychology",
+      "module_code": "PSY201",
+      "module_level": "Level 2",
+      "path": "PSY|DBS - Psychology/PSY201.json"
+    },
+    {
+      "full_name": "Psychobiology and Motivation",
+      "module_code": "PSY202",
+      "module_level": "Level 2",
+      "path": "PSY|DBS - Psychology/PSY202.json"
+    },
+    {
+      "full_name": "Research Methods and Statistics III",
+      "module_code": "PSY203",
+      "module_level": "Level 2",
+      "path": "PSY|DBS - Psychology/PSY203.json"
+    },
+    {
+      "full_name": "Cognition and Cognitive Neuroscience",
+      "module_code": "PSY204",
+      "module_level": "Level 2",
+      "path": "PSY|DBS - Psychology/PSY204.json"
+    },
+    {
+      "full_name": "Lifespan, Health and Wellbeing",
+      "module_code": "PSY205",
+      "module_level": "Level 2",
+      "path": "PSY|DBS - Psychology/PSY205.json"
+    },
+    {
+      "full_name": "Research Methods and Statistics IV",
+      "module_code": "PSY206",
+      "module_level": "Level 2",
+      "path": "PSY|DBS - Psychology/PSY206.json"
+    },
+    {
+      "full_name": "Appetite Regulation and Obesity: Health and Neuroscience Perspectives",
+      "module_code": "PSY301",
+      "module_level": "Level 3",
+      "path": "PSY|DBS - Psychology/PSY301.json"
+    },
+    {
+      "full_name": "Psychobiology of Pain",
+      "module_code": "PSY302",
+      "module_level": "Level 3",
+      "path": "PSY|DBS - Psychology/PSY302.json"
+    },
+    {
+      "full_name": "Psychological Issues in Adult Ageing",
+      "module_code": "PSY303",
+      "module_level": "Level 3",
+      "path": "PSY|DBS - Psychology/PSY303.json"
+    },
+    {
+      "full_name": "Topics in Applied Social Psychology",
+      "module_code": "PSY304",
+      "module_level": "Level 3",
+      "path": "PSY|DBS - Psychology/PSY304.json"
+    },
+    {
+      "full_name": "Family Psychology: Recognizing the System behind the Symptom",
+      "module_code": "PSY305",
+      "module_level": "Level 3",
+      "path": "PSY|DBS - Psychology/PSY305.json"
+    },
+    {
+      "full_name": "Cyber-psychology, Human-Computer Interaction",
+      "module_code": "PSY306",
+      "module_level": "Level 3",
+      "path": "PSY|DBS - Psychology/PSY306.json"
+    },
+    {
+      "full_name": "Conflict Psychology",
+      "module_code": "PSY307",
+      "module_level": "Level 3",
+      "path": "PSY|DBS - Psychology/PSY307.json"
+    },
+    {
+      "full_name": "The Psychology of Psychosis",
+      "module_code": "PSY308",
+      "module_level": "Level 3",
+      "path": "PSY|DBS - Psychology/PSY308.json"
+    },
+    {
+      "full_name": "Final Year Project",
+      "module_code": "PSY309",
+      "module_level": "Level 3",
+      "path": "PSY|DBS - Psychology/PSY309.json"
     },
     {
       "full_name": "Introductions to Intelligent Robotics",
