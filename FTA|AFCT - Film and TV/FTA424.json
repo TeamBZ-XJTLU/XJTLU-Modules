@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Audience Reception and Perception",
+  "module_code": "FTA424",
+  "offerings": [
+    {
+      "heading": "Audience Reception and Perception",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Audience Reception and Perception",
+        "module_code": "FTA424",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Audience Reception and Perception",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: This module helps students in identifying media audience through the relevant theories and research techniques. Cultural and Creative Industries serve to the consumers’ needs at psychological levels involving culturally-influenced interpretations, emotional engagement, self-image, social impact… etc. Objectives: Identifying target audience and exploring potential audience thus become a crucial aspect in pursuing both research and industrial projects. It is expected that after completing this module, students will develop the insight of audience roles in the subject discipline and be equipped with a set of knowledge and skills for studying the audience.",
+        "Learning outcomes": "A Develop critically the understanding of audience role and dynamics in cultural and creative consumption B Formulate a original audience research initiative investigating an identified group of audience C Communicate effectively the audience profile, needs and reception established through rigorous research processes",
+        "Method of teaching and learning": "Theories contributing to understanding audience will be delivered and discussed through lectures and seminars. Tutorials at the later half of the teaching will be used for guiding and supporting students to carry out an audience research project. The module at the postgraduate level also requires students to be proactive in pursuing specific research topic. They will utilise more private study time to conduct background investigation, literature review and the subsequent research process in generating insightful findings."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA424&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEH",
+    "domain_code": "ENT",
+    "full_name": "Entrepreneurship"
+  },
+  "full_name": "Organizational Culture and Cross-Cultural Management",
+  "module_code": "HXA405TC",
+  "offerings": [
+    {
+      "heading": "Organizational Culture and Cross-Cultural Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENT",
+        "full_name": "Organizational Culture and Cross-Cultural Management",
+        "module_code": "HXA405TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Organizational Culture and Cross-Cultural Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce key concepts concerning organisational culture and cross-cultural management in the digitalised and AI era. Through highlighting the importance of organisational culture, this module intends to show students the generation and evolution of organisational culture, the impacts of cultural differences on organisation management, and the challenges organisations face during globalisation and digital transformation. The module emphasises real-world applications, incorporating case studies and examples from diverse industries to ensure practical, industry-relevant learning. The module will also explore how AI tools can be leveraged for innovative approaches to cross-cultural management. Through this module, students will be equipped with comprehensive knowledge and application skills on how to employ cultural intelligence and cross-cultural frameworks to diverse entrepreneurship and innovation context from a strategic perspective. From a managerial perspective, students will develop an entrepreneurial and HeXie mindset to navigate these cultural complexities and drive innovation within organisations across various industries and sectors.",
+        "Learning outcomes": "A. Explain and critically evaluate the key theories, concepts and evolutionary steps of organisational culture in the digitalised and AI era. B. Analyse and evaluate cultural differences and their impacts on cross-cultural management. C. Discuss the impacts of globalisation and digital transformation on organisational culture development and cross-cultural management.",
+        "Method of teaching and learning": "Based on the philosophy of Syntegrative Education, this module’s delivery pattern follows more intensive block teaching, and allows more meaningful contribution from industry partners. This delivery pattern provides space for students to concentrate on completing the problem-based and project-oriented assessments. This module will be delivered through a series of key lectures/seminars. In addition, students will be required to analyse a number of cases, determining what worked and why."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=HXA405TC&psl_code=SEM1"
+    }
+  ]
+}

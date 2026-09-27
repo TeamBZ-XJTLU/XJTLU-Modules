@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Global Media: Dynamics and Challenges",
+  "module_code": "COM401",
+  "offerings": [
+    {
+      "heading": "Global Media: Dynamics and Challenges",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Global Media: Dynamics and Challenges",
+        "module_code": "COM401",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Global Media: Dynamics and Challenges",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to equip students with the knowledge and skills necessary for critically evaluating the dynamics and challenges within the global media landscape. Through an engagement with theories from media and communication studies, international communication, and international relations, it offers a comprehensive discussion and analysis of the structure, practices, and impacts involved in the production and distribution of global media content and phenomena. Additionally, the module facilitates a deep and critical understanding of the concepts of power, soft power, and media imperialism as they relate to the global media industry. It aligns perfectly with the Global Media and China track by providing valuable insights into the global media ecosystem, along with the research skills and critical thinking abilities that are central to the pathway's aims and objectives.",
+        "Learning outcomes": "A. Demonstrate in-depth understanding of theories and concepts related to global media systems B. Critically assess phenomena and products of global media across different contexts C. Critically examine the power dynamics in global media and their impact on international relations and cultural perceptions D. Demonstrate enhanced academic writing and referencing skills",
+        "Method of teaching and learning": "The lectures provide a comprehensive framework for contextualising, explaining, and analysing key concepts, theories, and phenomena associated with global media. During the seminars, students are afforded the opportunity to enhance their grasp of the lecture material and associated module readings through engaging activities and discussions. Additionally, the seminars serve as a platform for students to acquire and refine academic research skills."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM401&psl_code=SEM1"
+    }
+  ]
+}

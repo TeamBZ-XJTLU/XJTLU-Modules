@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "European Cinema",
+  "module_code": "COM309",
+  "offerings": [
+    {
+      "heading": "European Cinema",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "European Cinema",
+        "module_code": "COM309",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "European Cinema",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module belongs to the film studies pathway in the BA Media and Communication Studies and BA English and Communication Studies. It explores a range of phenomena, case studies and perspectives, such as the development of auteur cinema, art cinema, national and transnational cinemas, as well as the emergence, spread and critical reception of film movements and waves within the European context, with a view to understanding what European cinema has contributed to the development of film conventions, practices and discourses. The module closely engages with a diverse corpus of films, spanning several European countries, historical periods and themes, and it seeks to account for the richness of the European cinematic tradition. Research and argumentation skills are fostered through the textual and contextual analysis of landmark European films.",
+        "Learning outcomes": "A. Demonstrate an informed understanding of the sociocultural context of landmark European films B. Critically engage with European cinema scholarship C. Apply the analytical approaches and concepts introduced in the module to individual films D. Use appropriate film terminology in the critical appraisal of films E. Formulate evidence-based answers in response to set questions",
+        "Method of teaching and learning": "Lectures Tutorials Screenings"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM309&psl_code=SEM1"
+    }
+  ]
+}

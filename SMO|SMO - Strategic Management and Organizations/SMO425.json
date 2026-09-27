@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "People Resourcing",
+  "module_code": "SMO425",
+  "offerings": [
+    {
+      "heading": "People Resourcing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "People Resourcing",
+        "module_code": "SMO425",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 4",
+        "Module Title": "People Resourcing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to teach students about managing the people resourcing process to improve organizational performance. In this context they will be challenged to do workforce planning and job design; manage the recruitment and selection process; and evaluate individual performance. They will also learn and practice the following applications and skills: psychometrics, competency framework, feedback and behavioural interviewing.",
+        "Learning outcomes": "A Understand the key principles and objectives of people resourcing and workforce planning B Understand how organisations can find, develop and nurture talent for a better organisational performance C Use appropriate interventions ad skills for recruitment, selection and performance appraisal",
+        "Method of teaching and learning": "Seminars, class discussion, in-class simulation, individual assignment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO425&psl_code=SEM2"
+    }
+  ]
+}

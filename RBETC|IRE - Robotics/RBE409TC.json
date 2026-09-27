@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IRE",
+    "domain_code": "RBETC",
+    "full_name": "Robotics"
+  },
+  "full_name": "Immersive Robotics Studio 2",
+  "module_code": "RBE409TC",
+  "offerings": [
+    {
+      "heading": "Immersive Robotics Studio 2",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "RBETC",
+        "full_name": "Immersive Robotics Studio 2",
+        "module_code": "RBE409TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Immersive Robotics Studio 2",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The Immersive Robotics Studio 2 module is a continuation of the immersive and industry-led studio experience in the MSc Advanced Robotics System program. Building upon the foundations established in Immersive Robotics Studio 1, this module further immerses students in real-world robotics projects, providing them with advanced practical skills and a deeper understanding of industrial applications. Students will continue working closely with industry professionals, engaging in multidisciplinary teamwork, and tackling complex robotics challenges to develop innovative solutions. Module Aims: 1. Build upon the practical skills, industry insights, and understanding of real-world robotics challenges gained in Immersive Robotics Studio 1. 2. Deepen students' expertise in advanced robotics technologies through hands-on experience in an industrial environment. 3. Foster collaborative and multidisciplinary teamwork to solve complex robotics problems and develop innovative solutions. 4. Enhance project management, problem-solving, and communication skills in an industry-driven context. 5. Cultivate a professional and adaptable mindset, enabling students to thrive in dynamic and rapidly evolving robotics industries.",
+        "Learning outcomes": "A. Deepen practical expertise in advanced robotics technologies through continued engagement in real-world robotics projects. B. Apply advanced problem-solving strategies and innovative thinking to address complex robotics challenges. C. Collaborate effectively with industry professionals and multidisciplinary teams to develop and implement advanced robotics solutions. D. Enhance project management skills by successfully navigating and executing complex robotics projects within industry constraints. E. Demonstrate a comprehensive understanding of industrial practices, ethical considerations, and emerging trends in the field of advanced robotics.",
+        "Method of teaching and learning": "The teaching approach of the module is aligned with the principles of Syntegrative Education, emphasizing industry collaboration and practical application of knowledge. This is reflected in the delivery pattern, which includes intensive block teaching to facilitate meaningful involvement of industry partners. Similarly, the assessment methodology prioritizes coursework and project-focused assessments, reducing reliance on exams. This approach allows students to focus on completing assessments and promotes problem-based learning. The Immersive Robotics Studio 2 will be particularly influenced by industry experts, ensuring students gain extensive exposure to real-world challenges. The classes will foster discussions centered around practical problems encountered in industry."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=RBE409TC&psl_code=SEM2"
+    }
+  ]
+}

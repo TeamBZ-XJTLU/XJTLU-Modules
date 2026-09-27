@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Visual Cultures",
+  "module_code": "FTA427",
+  "offerings": [
+    {
+      "heading": "Visual Cultures",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Visual Cultures",
+        "module_code": "FTA427",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Visual Cultures",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: This module is designed to lead students in critically discussing and debating theories and aesthetics of visual culture. The study of visual culture takes as one of its core ideas that images from different social realms are interconnected, with art, advertising, science, news media, and entertainment interrelated and cross-influential. Objectives: Students will develop their critical thinking skills that inform how they view the range of visual imagery in still and motion forms that are engaged with within the realm of the everyday and their cultural impacts on societies and individuals.",
+        "Learning outcomes": "A Demonstrate the critical understading of key theories in visual culture studies B Apply appropriately the terms and concepts of visual culture studies C Interpret and articulate meanings and receptions of visual artefacts D Devise an original communication plan incorporating advanced visual communication techniques",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures and seminars. Lectures will be designed to provide essential information and introduce students to the basic theories and tools of visual culture studies. Seminars will be used for guided and unguided activities such as group discussions, informal presentations, workshop activities and peer-to-peer learning activities."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA427&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MAT",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Introduction to the Methods of Applied Mathematics",
+  "module_code": "MTH106",
+  "offerings": [
+    {
+      "heading": "Introduction to the Methods of Applied Mathematics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Introduction to the Methods of Applied Mathematics",
+        "module_code": "MTH106",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to the Methods of Applied Mathematics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To recognise and solve equations in the common classes of soluble ordinary differential equations. To provide a grounding in elementary approaches to solution of some of the standard partial differential equations encountered in the applications of mathematics. To introduce some of the basic tools,for example,fourier series and matrix methods, used in the solution of differential equations and other applications of mathematics.",
+        "Learning outcomes": "A. Solve basic ordinary differential equations, including systems of first order equations. B. Be familiar with the concept of Fourier series and their potential application to the solution of partial differential equations. C. Solve simple first order partial differential equations. D. Solve basic boundary value problems for second order linear partial differential equations using the method of separation of variables.",
+        "Method of teaching and learning": "Students will be expected to attend about three hours of formal lectures and about one hours of supervised tutorials (problem classes)in a typical week. Lectures and tutorials will introduce students to the academic content and practical skills which are the subject of the module, while tutorials, problem classes and computer practicals will allow students to practice those skills. In addition, students will be expected to devote two hours of unsupervised time to private study. Private study will provide time for reflection and consideration of lecture material and background reading. This module is assessed by course work, a midterm and a written examination at the end of the module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH106&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Visual Effects",
+  "module_code": "FTA210",
+  "offerings": [
+    {
+      "heading": "Visual Effects",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Visual Effects",
+        "module_code": "FTA210",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Visual Effects",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to introduce students to visual effects, and allows them to become familiar with the processes involved in integrating live action with computer generated effects. They will encounter the notion that VFX needs early planning in the production process, the role of the VFX supervisor on set during production and then in post-production, the use of standard VFX software (e.g., Maya and Nuke) and the digital manipulation of images in post production.",
+        "Learning outcomes": "A Demonstrate an in-depth knowledge of VFX principles B Operate and manage VFX software C Apply a range of VFX techniques to a short moving image sequence D Inform practice choices by placing them in a historical and conceptual framework",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (seminars and practical workshops in studio). The seminars will provide the opportunity to discuss the principles that underpin VFX work, as well as the work of some leading VFX practitioners. The practical workshops will focus on the processes employed in VFX creation and finishing in a project based environment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA210&psl_code=SEM2"
+    }
+  ]
+}

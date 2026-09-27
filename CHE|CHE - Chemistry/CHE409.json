@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Advanced Applications of Computational Chemistry",
+  "module_code": "CHE409",
+  "offerings": [
+    {
+      "heading": "Advanced Applications of Computational Chemistry",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "CHE",
+        "full_name": "Advanced Applications of Computational Chemistry",
+        "module_code": "CHE409",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Applications of Computational Chemistry",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a diverse range of knowledge and skills related to advanced applications of modern computational chemical techniques across various subjects, such as batteries, catalysts, soft materials, and sustainable materials. Specifically: 1. To introduce modern methods of computational chemistry from quantum mechanical level to molecular interactions with case studies in aforementioned subjects; 2. To impart a practical understanding of diverse computational chemical methods and the corresponding software tools for various tasks.; 3. To explore the research applications of computational chemical techniques for developing advanced materials.",
+        "Learning outcomes": "A cultivate the ability to critically evaluate the credibility and soundness of computational chemistry studies in scientific literature, B determine the suitable computational chemistry approach according to its relevance to the research application, and formulate a computational chemical strategy applicable to address the specific problem, C attain a thorough comprehension of the capabilities and limitations of conventional computational chemistry software across different methods.",
+        "Method of teaching and learning": "26 two-hour lectures and 13 two-hour problem classes"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE409&psl_code=SEM2"
+    }
+  ]
+}

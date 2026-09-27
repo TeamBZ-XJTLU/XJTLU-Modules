@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "UPD",
+    "full_name": "Urban Planning and Design"
+  },
+  "full_name": "History and Theory of Urban Interventions",
+  "module_code": "UPD406",
+  "offerings": [
+    {
+      "heading": "History and Theory of Urban Interventions",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "History and Theory of Urban Interventions",
+        "module_code": "UPD406",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "History and Theory of Urban Interventions",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module provides students with an in-depth understanding of urban dynamics and urban interventions through an historical and theoretical approach. Students will engage with classic readings to develop knowledge of the city and how and why urban planning and design has gone through transformative and paradigm shifts. The module will provide insights into the processes, debates, and projects that have shaped urban development over the past 150 years. Students will explore how design and planning projects are grounded in theoretical ideas, modes, and models of practice. Students will understand the impact of urban planning and design on essential topics of contemporary societies.",
+        "Learning outcomes": "A. Critically engage with current debates on urbanization, exploring issues such as the socio-political, economic, and environmental dimensions of cities in contemporary discourse. B. Analyze key historical developments in urban planning and design from the 19th century to the present, with an emphasis on how these developments have shaped modern cities and urban interventions. C. Evaluate the evolution of planning tools, identifying their historical development, underlying assumptions, and practical applications in shaping urban spaces. D. Synthesize key urban theories and apply them to assess current urban planning practices, identifying how historical theories continue to influence modern interventions.",
+        "Method of teaching and learning": "This module is delivered based on a series of weekly lectures. Students will be given readings and expected to use various types of materials to extend their knowledge and bridge the gap between historical or theoretical concepts and practical urban interventions to engage in classroom discussion."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD406&psl_code=SEM1"
+    }
+  ]
+}

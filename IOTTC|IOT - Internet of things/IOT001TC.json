@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOT",
+    "domain_code": "IOTTC",
+    "full_name": "Internet of things"
+  },
+  "full_name": "Introduction to AIoT and the Internet of Intelligence",
+  "module_code": "IOT001TC",
+  "offerings": [
+    {
+      "heading": "Introduction to AIoT and the Internet of Intelligence",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOTTC",
+        "full_name": "Introduction to AIoT and the Internet of Intelligence",
+        "module_code": "IOT001TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Introduction to AIoT and the Internet of Intelligence",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces Year 1 students to the broad and future-oriented field of the Internet of Things (IoT) and Artificial Intelligence of Things (AIoT). It provides an accessible disciplinary context in which students explore how sensing, embedded devices, connectivity, data, and environments interact in intelligent systems and real-world applications. The module is designed as a broad exploratory experience. Through a beginner-level IoT/AIoT challenge, students will move from curiosity and question formation to evidence-informed inquiry, project development, and reflection. The School of Internet of Things provides the disciplinary and academic context, with co-delivery by LIFE supporting the exploratory inquiry process, evidence use, responsible and transparent AI/digital practice, feedback use, teamwork, and the project experience. By completing the module, students will develop a solid understanding of IoT/AIoT as a possible academic and professional pathway and connect their learning, interests, and strengths to provisional pathway alignment for later study.",
+        "Learning outcomes": "A. Describe the principal elements of a basic IoT/AIoT system and explain their roles in selected real-world applications. B. Identify an inquiry question or problem statement for an IoT/AIoT challenge considering relevant stakeholders. C. Apply feedback to reflect on personal learning, teamwork, interests, and strengths, and describe a provisional academic pathway alignment through a module project or equivalent reflective evidence. D. Design a beginner-level IoT/AIoT project that applies relevant knowledge to the selected challenge. E. Apply appropriate sources, data, and examples in an evidence-informed investigation, demonstrating responsible, transparent, and verified use of AI/digital tools.",
+        "Method of teaching and learning": "This module will be delivered through integrated lectures, tutorial activities, and project-focused learning, with co-delivery by LIFE. School-led teaching will introduce the broad IoT/AIoT field through short concept-based inputs, accessible examples, and beginner-level activities. LIFE-led or jointly delivered activities will support inquiry methods, evidence use, responsible and transparent AI/digital practice, communication, teamwork, feedback use, reflection, and Project Passport development. Students will work through one integrated exploratory IoT/AIoT challenge. Learning activities will guide students from initial curiosity and question to evidence mapping, systems/stakeholder analysis, project planning, iterative development, communication, and reflection. Feedback, peer discussion, and short project clinics will support revision and the learning journey. The module will remain accessible to students with no prior technical experience. It will emphasise exploration and informed judgement, helping students connect the module experience to possible academic and professional pathways."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOT001TC&psl_code=SEM1"
+    }
+  ]
+}

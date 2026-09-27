@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Project Stakeholder Management",
+  "module_code": "IOM420",
+  "offerings": [
+    {
+      "heading": "Project Stakeholder Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Project Stakeholder Management",
+        "module_code": "IOM420",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Project Stakeholder Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with knowledge of stakeholder engagement, developing skills for applying best practices, techniques for stakeholder management to facilitate successful project delivery. The module provides students with a review of origins of stakeholder management and the tools and techniques—complemented by AI-driven case studies, analogies, and simulations—to identify and engage project stakeholders in a professional and ethical manner, to prioritise their importance based on their influence, involvement, power and contributions to project success. Their impact on Projects, Programmes and Portfolios as well as the role of the Project Management Office (PMO) are introduced along with the role of the project team in managing expectations, perspectives and concerns of diverse stakeholders in order to create a win-win outcome for projects.",
+        "Learning outcomes": "A. Demonstrate a critical understanding of fundamental principles and concepts in stakeholder engagement and management, their needs and expectations; and how stakeholder management relates to the successful delivery of projects and overall project performance. B. Recognize and critically evaluate the importance of processes within PMBOK Stakeholder management knowledge area and relevant managerial theories for stakeholder engagement. C. Apply contemporary (project management) tools and techniques for stakeholder identification and determine which stakeholders are relevant to the project. D. Determine which stakeholders demonstrate an engagement gap, and determine the appropriate (communication) strategies for reaching desired stakeholder engagement level. E. Develop an understanding of ethical and professional issues relevant to effective stakeholder management and practice such understanding in management of real world projects",
+        "Method of teaching and learning": "Lectures, workshops, class participation, group work, online discussion forum participation, online self-study, and private study."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM420&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Introduction to Video Production",
+  "module_code": "COM154",
+  "offerings": [
+    {
+      "heading": "Introduction to Video Production",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Introduction to Video Production",
+        "module_code": "COM154",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Video Production",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module will equip students with the technical skills required to operate camera, microphones and basic battery-powered lighting equipment, providing them with a sense of the range of technical options they have when tackling a production brief and instructing them on different shooting techniques. It will reinforce the importance of safe working practices, teaching students how to ensure electrical safety and how to conduct practical troubleshooting during equipment use. The module will also enable them to develop an understanding of the video editing process and to acquire the basic skills to edit a short 90-second project from start to finish. It will also allow students to learn how to control different aspects of the production process in a timely and efficient manner.",
+        "Learning outcomes": "A Operate camera, sound recording and lighting equipment at a basic and safe level B Demonstrate a practical knowledge of post-production software whilst editing a short sequence and managing workflow C Manage to completion the production of a short video to a given brief D Critically reflect on the video production process",
+        "Method of teaching and learning": "COM154 is delivered using a combination of lectures and lab/practical sessions. Students first learn main knowledge points and/or practical skills in each week's lecture. They then apply these knowledge and skills to reality through lab/practical sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM154&psl_code=SEM1"
+    }
+  ]
+}

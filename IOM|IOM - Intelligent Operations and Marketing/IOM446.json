@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Entrepreneurship, Innovation and Family Business",
+  "module_code": "IOM446",
+  "offerings": [
+    {
+      "heading": "Entrepreneurship, Innovation and Family Business",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Entrepreneurship, Innovation and Family Business",
+        "module_code": "IOM446",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Entrepreneurship, Innovation and Family Business",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to enhance students’ understanding and skills in the realm of entrepreneurship and family business, with a focus on future development, including business succession and innovation. It delves into the motivations and societal roles of family firms, as well as the strategies and approaches they utilize for growth, sustainability, governance, succession, conflict resolution, and innovation. The module seeks to broaden students’ perspectives with interdisciplinary knowledge, prompting them to reflect on relevant topics and aspects based on their disciplinary backgrounds, and empowering them to contemplate their career planning and competence through the lens of innovation and entrepreneurship.",
+        "Learning outcomes": "A Demonstrate in-depth understanding of the generic characteristics and paradoxes of family businesses B Identify and evaluate the key factors of transgenerational entrepreneurship and responsibility C Analyse major aspects and facets of succession in family businesses D Develop capabilities of recognizing family business opportunities under current technological changes E Understand and discuss family business strategy for new product development and innovations",
+        "Method of teaching and learning": "Seminars with instructions and interactive group discussions. Case studies, hands-on projects, and peer collaboration ensure engagement and practical skill development."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM446&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCTC",
+    "domain_code": "CCT",
+    "full_name": "Chinese Culture"
+  },
+  "full_name": "Introduction to Chinese Language and Culture 1",
+  "module_code": "CCT005",
+  "offerings": [
+    {
+      "heading": "Introduction to Chinese Language and Culture 1",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCT",
+        "full_name": "Introduction to Chinese Language and Culture 1",
+        "module_code": "CCT005",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Introduction to Chinese Language and Culture 1",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "教学目标： 《中国文化概论（上）》是针对一年级台港地区新生开设的一门中国文化类基础课。本课程旨在通过对中国文化的概略性学习、体会。增强对中国传统文化的认知，提升学生文化素养。",
+        "Learning outcomes": "After the whole session was completed, all students will be able to grasp the basic development and outstanding features of traditional Chinese culture.",
+        "Method of teaching and learning": "教学手段： 理论讲授与实地考察实践相结合。"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCT005&psl_code=SEM1"
+    }
+  ]
+}

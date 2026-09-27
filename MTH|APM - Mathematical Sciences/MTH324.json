@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "APM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Statistical Learning Theory and Applications",
+  "module_code": "MTH324",
+  "offerings": [
+    {
+      "heading": "Statistical Learning Theory and Applications",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Statistical Learning Theory and Applications",
+        "module_code": "MTH324",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Statistical Learning Theory and Applications",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is an advanced course in statistics and data analysis, which focuses on introducing students to frontier statistical learning techniques with R/Python programming. This module will illustrate how such statistical tools can aid in data analysis and in solving problems in insurance and finance. The module covers many prominent topics in statistical learning, including resampling methods, model selection and regularization, decision tree and random forest, neural networks, and support vector machine.",
+        "Learning outcomes": "A. Explain and apply linear regression and classification for data analysis. B. Identify and implement resample methods, including various cross-validation methods and Bootstrap. C. Explain the shrinkage methods, Lasso, and Ridge regression. D. Classify and make use of regression and classification trees E. Illustrate and utilize the concepts of Bagging, Random Forest, and Boosting in data analysis. F. Explain and apply basic neural networks for regression and classification purposes. G. Identify and implement support vector machine for data analysis.",
+        "Method of teaching and learning": "This module is delivered through formal lectures and computer labs"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH324&psl_code=SEM1"
+    }
+  ]
+}

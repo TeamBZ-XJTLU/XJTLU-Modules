@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LIT",
+    "full_name": "Literature"
+  },
+  "full_name": "The Short Story",
+  "module_code": "LIT208",
+  "offerings": [
+    {
+      "heading": "The Short Story",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LIT",
+        "full_name": "The Short Story",
+        "module_code": "LIT208",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "The Short Story",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide an overview of the development of the short story, charting its evolution from the spoken tale, and focusing on its formal differences from the novel. Students will be asked to analyze the relationship between this particular form of fiction and those societies (e.g. nineteenth-century Russia and United States) in which it has flourished, and also to consider its particular suitability for certain genres of fiction (supernatural, detective, science-fiction).",
+        "Learning outcomes": "A. Engage with literature in an international context. B. Read and analyze various short stories in English and in translation. C. Combine skills of close reading with relevant theoretical and contextual approaches. D. Develop skills in argument, persuasion, and analysis. E. Structure a coherent and critically-informed literary essay.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components. Lectures introduce students to relevant knowledge of the short story as a genre and a variety of short stories. Seminars develop critical discussions about the topic."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LIT208&psl_code=SEM2"
+    }
+  ]
+}

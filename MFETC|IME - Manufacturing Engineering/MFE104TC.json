@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MFETC",
+    "full_name": "Manufacturing Engineering"
+  },
+  "full_name": "Electrical Circuits",
+  "module_code": "MFE104TC",
+  "offerings": [
+    {
+      "heading": "Electrical Circuits",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MFETC",
+        "full_name": "Electrical Circuits",
+        "module_code": "MFE104TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Electrical Circuits",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to familiarise students with the physical principles underlying the behavior of electrical circuits. Through developing a systematic approach to circuit analysis problems, students will master the necessary skills in analyzing DC and AC circuits using appropriate circuits analysis techniques. We will also cultivate the ability to derive solutions for time-, frequency-, and s-domain responses for both RC and RL circuits.",
+        "Learning outcomes": "A Demonstrate understanding of the various laws and theorems in electrical circuit analysis B Perform the AC steady-state analysis and calculation of relevant power C Understand the characteristics of operational amplifiers and are able to conduct circuit analysis for op amp circuits D Understand the influence of capacitor and inductor in an electrical circuit E Utilise the circuit analysis of RL and RC circuits in both source-free and driven conditions F Appreciate the Laplace transform as an alternative in analyzing RC and RL circuits",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. This module will be delivered through formal lectures, seminar, tutorials, and supervised laboratory sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MFE104TC&psl_code=SEM1"
+    }
+  ]
+}

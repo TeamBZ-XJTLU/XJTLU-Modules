@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Climate Change and Corporate Environmental Management",
+  "module_code": "IFB431TC",
+  "offerings": [
+    {
+      "heading": "Climate Change and Corporate Environmental Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Climate Change and Corporate Environmental Management",
+        "module_code": "IFB431TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Climate Change and Corporate Environmental Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with systematic knowledge of climate change science, its business impacts, and corporate environmental management practices, integrated with digital tools and ESG principles. It bridges climate change theory with practical corporate environmental management and leverages digital technologies to address modern ESG challenges. Key aims include:  Developing a critical understanding of climate change’s scientific basis, global policy frameworks, and their implications for corporate operations.  Building proficiency in using digital tools to measure, monitor, and mitigate corporate environmental impacts for carbon credit tracking and data analytics for energy efficiency optimization.  Cultivating the ability to design and implement evidence-based corporate environmental management strategies that align with climate goals, regulatory requirements, and stakeholder expectations (e.g., investors, customers, communities). As a core module in the Intelligent ESG pathway, this module aligns with the programme’s mission to prepare graduates for roles in ESG consulting, corporate sustainability management, and climate tech innovation.",
+        "Learning outcomes": "A. Analyze how digital technologies enhance the accuracy, transparency, and efficiency of corporate environmental management. B. Evaluate the trade-offs between environmental goals, financial performance, and stakeholder needs. C. Develop a comprehensive corporate environmental management plan for companies. D. Collaborate effectively in teams to design and present environmental management strategies.",
+        "Method of teaching and learning": "The module is guided by the Syntegrative Education philosophy, using intensive block teaching to enable deeper engagement with industry partners and practical challenges. This format supports a shift away from traditional exams toward coursework-based assessment, with a strong focus on problem-based, project-oriented tasks. Teaching methods include a mix of lectures, seminars, and tutorials to develop an understanding of key concepts in sustainable supply chain management, along with the analytical tools and techniques needed to address real-world supply chain issues."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB431TC&psl_code=SEM2"
+    }
+  ]
+}

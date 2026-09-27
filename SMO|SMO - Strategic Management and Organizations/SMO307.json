@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "People and Workforce Analytics",
+  "module_code": "SMO307",
+  "offerings": [
+    {
+      "heading": "People and Workforce Analytics",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "SMO",
+        "full_name": "People and Workforce Analytics",
+        "module_code": "SMO307",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "People and Workforce Analytics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Develop a cutting-edge people analytics function in organisation and master practical analytical techniques and AI-driven insights is highly demanded in business. Human resource leaders and people managers are being called upon to make decisions that enhance outcomes for both people and businesses. This module will give student an understanding of the analytics needed to mine employee data, successfully address strategic challenges and align decision-making with corporate objectives. Students will learn statistical methods necessary to deal with business problems, increase knowledge and skills in planning and managing HR analytics projects, and develop an understanding of major legal and ethical considerationsrelated to people and workforce analytics projects.",
+        "Learning outcomes": "A. Demonstrate an in-depth understanding of people analytics and poeple-AI interction as a tool to solve business problems; B, Apply practical and analytical techniques tools and AI tools to people analytics problems; C. Interpret statistical inference, apply the concepts of people analytics in business context; D. Apply people analytics skills to solve pressing business challenges and assist decision making",
+        "Method of teaching and learning": "Methods of teaching and learning include a combination of lectures (which teach basic concepts and principles), tutorials (which are interactive and designed to enable students to apply and discuss their knowledge to analyse real cases), lab tutorials, guest lecturers, as well as the university's virtual learning environment (i.e., Learning Mall), which will be used for dissemination of materials and providing feedback to students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO307&psl_code=SEM1"
+    }
+  ]
+}

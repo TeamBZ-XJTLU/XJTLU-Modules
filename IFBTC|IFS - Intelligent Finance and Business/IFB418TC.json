@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Social Media and Marketing",
+  "module_code": "IFB418TC",
+  "offerings": [
+    {
+      "heading": "Social Media and Marketing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Social Media and Marketing",
+        "module_code": "IFB418TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Social Media and Marketing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Social media marketing is an emerging and rapidly developing discipline with substantive changes periodically occurring in industry and academic research. While much of social media marketing is focused on the promotional mix, it also is used for customer care, research and more. The field has shifted from one focused on the influence of individual consumers in social channels to one including bots, AI, and influencers. This module provides students with both academic (theories and concepts) and practical grounding underlying strategic decisions for the use of social media for marketing and the implications of the emerging developments in the area. Discussions, study cases and examples will bring these theories to life.",
+        "Learning outcomes": "A. Critically analyze the social media environment and use social media marketing tools to assess a business practice. B. Apply project management and communication skills in devising a credible social media marketing strategy & tactical planning and execution. C. Assess the psychological factors that underpin digital consumer behaviors through social media marketing and cross-cultural communications. D. Critically reflect on the value generated from social media marketing with consideration for the implications of public relations and brand management.",
+        "Method of teaching and learning": "Based on the philosophy of Syntegrative Education, this module’s delivery pattern follows more intensive block teaching, and allows more meaningful contribution from industry partners. This delivery pattern provides space for students to concentrate on completing the problem-based and project-oriented assessments. This module will be delivered through a series of key lectures/seminars. In addition, students will be required to analyse a number of cases, determining what worked and why."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB418TC&psl_code=SEM2"
+    }
+  ]
+}

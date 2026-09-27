@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Fundamentals of Project Management",
+  "module_code": "IOM417",
+  "offerings": [
+    {
+      "heading": "Fundamentals of Project Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Fundamentals of Project Management",
+        "module_code": "IOM417",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Fundamentals of Project Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to develop in students an understanding of project management and its principles in a contemporary and diverse project environment, as well as the strategies to achieve a successful project outcome. Students will broadly learn ten knowledge areas (i.e. scope, time, cost, integration, risk, quality, communication, procurement, stakeholder, human resources), as per the Project Management Body Of Knowledge (PMBOK) framework, with a special focus on understanding the scope, time, cost, and quality management-related issues in detail. The module will also develop skills in the use of various processes, tools, techniques, and methodologies as applied in a project management context. The students will learn how to plan, implement and control a project through to its successful delivery.",
+        "Learning outcomes": "A Recognise and demonstrate a critical understanding of the fundamental properties of projects, as well as be able to apply project management skills and knowledge across different disciplines. B Comprehend, and apply theoretical knowledge and best practices learning to management of projects. C Apply a range of techniques to determine, document and refine project goals, feasibility, deliverables, and constraints. D Demonstrate an understanding of ten knowledge areas of project management as per the Project Management Body Of Knowledge (PMBOK) framework with specific focus and application of scope, time, cost, and quality management in the lifecycle of a project. E Demonstrate a critical understanding and be able to apply contemporary project management processes, tools, techniques and methodologies for management of projects in a variety of environments. F Critically evaluate from both a practical and theoretical standpoint the project management methodologies. G Demonstrate skills in use of project management software tools to project planning, execution and control and apply the skills learned in real life projects context.",
+        "Method of teaching and learning": "Lectures, Workshops, Class participation, Self Study"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM417&psl_code=SEM1"
+    },
+    {
+      "heading": "Fundamentals of Project Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Fundamentals of Project Management",
+        "module_code": "IOM417",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Fundamentals of Project Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to develop in students an understanding of project management and its principles in a contemporary and globalized business environment, as well as the strategies to achieve a successful project outcome. The content is broadly connected with the ten knowledge areas (i.e. scope, time, cost, integration, risk, quality, communication, procurement, stakeholder, human resources), as per the Project Management Body Of Knowledge (PMBOK) framework. The module also develops skills, processes, tools, techniques, and methodologies as applied in a project management context. The students will learn how to plan, implement and control a project from conception through to successful delivery.",
+        "Learning outcomes": "A Recognise and demonstrate a critical understanding of the fundamental properties of projects, as well as be able to apply project management skills and knowledge across different disciplines. B Comprehend, and apply theoretical knowledge and best practices learning to management of projects. C Apply a range of techniques to determine, document and refine project goals, feasibility, deliverables, and constraints. D Demonstrate an understanding of ten knowledge areas of project management as per the Project Management Body Of Knowledge (PMBOK) framework with specific focus and application of scope, time, cost, and quality management in the lifecycle of a project. E Demonstrate a critical understanding and be able to apply contemporary project management processes, tools, techniques and methodologies for management of projects in a variety of environments. F Critically evaluate from both a practical and theoretical standpoint the project management methodologies. G Demonstrate skills in use of project management software tools to project planning, execution and control and apply the skills learned in real life projects context.",
+        "Method of teaching and learning": "Lectures, Workshops, Class participation, Self Study"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM417&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Marketing and Distribution of Content in a Global Context",
+  "module_code": "FTA307",
+  "offerings": [
+    {
+      "heading": "Marketing and Distribution of Content in a Global Context",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Marketing and Distribution of Content in a Global Context",
+        "module_code": "FTA307",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Marketing and Distribution of Content in a Global Context",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to allow the student to understand the importance of marketing and distribution globally and the factors that impact it. Students will develop a critical awareness of several factors that affect the marketing, distribution and exhibition of independent film in a global context. The module takes a practical focus into marketing and distribution, providing students with opportunities to express their knowledge and understanding through practical projects on marketing and distribution. Students will be able to use the knowledge, understanding, and skills that they develop in this module for marketing and distribution of their own content or work in these areas.",
+        "Learning outcomes": "A. Demonstrate a strong understanding of the relationship between audiences and marketing B. Demonstrate a strong understanding of distribution C. Demonstrate the ability to think creatively about marketing solutions for given projects",
+        "Method of teaching and learning": "The teaching sessions are divided into three components: lectures, seminars, and tutorials. Lecturers will take a variety of approaches. In some lectures, the lecturer will focus on presenting new material, often explaining arguments and presenting examples. In other lectures, the session will be interactive to develop understanding. Seminars will include a range of learning activities aimed to reinforce the learning of new content. Tutorials will address the assessments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA307&psl_code=SEM1"
+    }
+  ]
+}

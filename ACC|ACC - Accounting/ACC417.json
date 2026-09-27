@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Assurance, Risk and Reporting",
+  "module_code": "ACC417",
+  "offerings": [
+    {
+      "heading": "Assurance, Risk and Reporting",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Assurance, Risk and Reporting",
+        "module_code": "ACC417",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Assurance, Risk and Reporting",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To develop students’ understanding of the critical aspects of managing an assurance engagement (including audit engagements): acceptance, planning, managing, concluding and reporting. To enable students to prepare complete single entity financial statements, and extracts from those financial statements, covering a wide range of International Financial Reporting Standards (IFRS® Standards). Students will also be required to explain accounting and reporting concepts and the application of IFRS® Accounting Standards and IFRS® Sustainability Standards to specified single entity scenarios.",
+        "Learning outcomes": "A. understand and advise on the regulatory, professional and ethical issues relevant to those carrying out assurance work; B. understand the processes involved in accepting and managing assurance engagements; C. plan assurance engagements in accordance with the terms of the engagements and appropriate international auditing and assurance standards; D. conclude and report on assurance engagements in accordance with the terms of the engagements and international auditing and assurance pronouncements. E. explain the contribution and inherent limitations of financial statements, apply the IFRS Foundation’s conceptual framework for financial reporting and identify and explain key ethical issues; F. prepare and present financial statements from accounting data for single entities in conformity with IFRS® Accounting Standards; G. explain the application of IFRS® Accounting Standards and IFRS® Sustainability Standards to specified single entity scenarios.",
+        "Method of teaching and learning": "A range of teaching and learning methods will be utilized on this module. Core substantive knowledge will be delivered via lectures, and the knowledge covered in lectures will be reinforced by practical student group work, culminating in participative tutorials. Longer, case-based work will be delivered by means of seminars, which will again be participative in nature."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC417&psl_code=SEM1"
+    }
+  ]
+}

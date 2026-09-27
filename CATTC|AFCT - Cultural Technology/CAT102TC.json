@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "CATTC",
+    "full_name": "Cultural Technology"
+  },
+  "full_name": "Form, Innovation and Culture",
+  "module_code": "CAT102TC",
+  "offerings": [
+    {
+      "heading": "Form, Innovation and Culture",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CATTC",
+        "full_name": "Form, Innovation and Culture",
+        "module_code": "CAT102TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Form, Innovation and Culture",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module investigates how form, space, and material operate within artistic and creative technological practices. Students explore the relationships between physical structure, spatial composition, interactive systems, and cultural meaning. Through both historical study and hands-on experimentation, the module develops an understanding of how artistic form emerges from the interplay between material properties, spatial dynamics, and technological processes. Students learn to analyse formal strategies in key movements across modern and contemporary art, and apply these insights to create their own works. Emphasis is placed on material exploration, interactive experimentation, and the development of a coherent artistic proposal culminating in a realised artefact or event supported by research and documentation.",
+        "Learning outcomes": "A Demonstrate knowledge of major historical and contemporary approaches to form, materiality, space, and interactive artistic practices. B Use appropriate materials, tools, and technologies to plan and produce a creative artefact. C Apply aesthetic, conceptual, and technical skills to articulate ideas through form, spatial composition, material experimentation, or basic interactivity. D Critically evaluate their project in relation to artistic intention, material decisions, and relevant historical or contemporary contexts.",
+        "Method of teaching and learning": "Teaching is delivered through lectures, seminars, practical workshops, tutorials, and studio-based project work, in line with Syntegrative Education principles emphasising intensive, project-led learning and collaboration with external partners. • Lectures introduce key theories, artistic movements, and historical frameworks related to form, spatial practice, material experimentation, and interactive or process-based art. • Seminars provide opportunities for discussion of artworks, readings, and student project ideas, enabling critical engagement with the formal and conceptual issues explored in the module. • Workshops emphasize practical skills, including material handling, spatial prototyping, and introductory interactive or sensor-based techniques. These sessions support the translation of formal investigations into tangible creative outcomes. • Tutorials offer individual or small-group guidance to support students’ research, project development, and technical refinement. • Studio/project work allows students to explore form, structure, and interaction through iterative making, leading toward the production of a final artefact accompanied by a supporting portfolio. The delivery pattern provides structured time for students to focus on completing project-based assessments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAT102TC&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "UPD",
+    "full_name": "Urban Planning and Design"
+  },
+  "full_name": "International Planning Studies",
+  "module_code": "UPD310",
+  "offerings": [
+    {
+      "heading": "International Planning Studies",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "International Planning Studies",
+        "module_code": "UPD310",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "International Planning Studies",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims for making students conversant with the urban planning, social and environmental issues of the developing world. It also involves relevant practices in developed regions to allow case study and comparative learning. The module exposes students to theory and practice of planning, implementation challenges and political dimensions of planning. Students’ understanding of the subject will be broadened through case studies, national and international site visits, lectures, discussions and presentation.",
+        "Learning outcomes": "Students completing the module successfully should: A. Evaluate current international urban development initiatives critically. B. Understand the roles of planning policies for sustainable urban growth. C. Gain a comprehensive understanding of planning issues in the developing world. D. Critically assess these urban problems, understand the contemporary urban policies and offer their own reflection on the subject.",
+        "Method of teaching and learning": "The module seeks to provide a varied learning experience that focuses on both knowledge and practice. The teaching and learning strategy combines lectures, tutorials, seminars and an international field trip. Case studies, group discussions and presentations will encourage active learning and teamwork. Two courseworks will not only help develop students’ analytical and writing skills on selected issue, but also guide them towards a fuller grasp of the diverse topics covered by the module. *Should the University decide to cancel or postpone the field trip due to unforeseen environmental and/or political circumstances, the Department will either plan an appropriate substitute activity to meet the intended learning outcomes of the trip or make necessary arrangements to organise the trip at a later time, as appropriate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD310&psl_code=SEM1"
+    }
+  ]
+}

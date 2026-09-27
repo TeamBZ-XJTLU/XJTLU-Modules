@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "TRI",
+    "full_name": "Translation and Interpreting"
+  },
+  "full_name": "Introduction to Translation and Interpreting",
+  "module_code": "TRI102",
+  "offerings": [
+    {
+      "heading": "Introduction to Translation and Interpreting",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "TRI",
+        "full_name": "Introduction to Translation and Interpreting",
+        "module_code": "TRI102",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Translation and Interpreting",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module serves as a foundational basis for translation and interpreting learning. It provides an overview of the field and skills necessary to the profession and covers the general problems involved in translation and interpreting. It acquaints students with the history, objectives, general principles and main approaches of translation and interpreting with interesting anecdotes, examples and hands-on exercises. Discussions will be held in-class of translation examples so that students will be in a better position to learn the basic translation and interpreting concepts and principles.",
+        "Learning outcomes": "A demonstrate knowledge of some basic translation and interpreting concepts; B display awareness of principles in translation and interpreting; C understand translation and interpreting processes; D demonstrate knowledge of the main translation approaches and basic interpreting skills.",
+        "Method of teaching and learning": "The teaching sessions have two components: lectures and tutorials. Lectures are designed to help students understand basic translation and interpreting concepts and translation /interpreting processes; whereas tutorials aim to help students apply what they have learnt in class to translation practice and hone their translation skills through hands-on translation exercises."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=TRI102&psl_code=SEM1"
+    }
+  ]
+}

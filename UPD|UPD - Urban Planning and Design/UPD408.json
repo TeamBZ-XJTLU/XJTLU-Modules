@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "UPD",
+    "full_name": "Urban Planning and Design"
+  },
+  "full_name": "Spatial Analysis and Visualisation",
+  "module_code": "UPD408",
+  "offerings": [
+    {
+      "heading": "Spatial Analysis and Visualisation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "Spatial Analysis and Visualisation",
+        "module_code": "UPD408",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Spatial Analysis and Visualisation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to familiarise students with the theoretical and practical aspects of the technologically-enabled spatial analysis methods that can be adopted in the urban planning and design process. This will be achieved via several key objectives as follows: (1) formulating evolving types of spatial analysis and digital methods for the modern city, considering the transition from traditional theoretical models and planning practices; and (2) developing practically-oriented analysis methods in relation to the spatial usage of urban space, particularly the acquisition of practical skills associated with the use of the computerised packages introducing analytical spatial modelling, simulation and visualisation.",
+        "Learning outcomes": "A have an awareness of the trend of urban regeneration in the digital age B have an understanding of issues relating the data quality and common use of geo-spatial software C be able to appreciate the practical use of computerised packages and practical oriented research methods for urban regeneration projects D acquire the software skills required for implementing urban regeneration projects E be competent in handing spatial data using relevant software to simulate, model and visualise urban regeneration projects in selected areas",
+        "Method of teaching and learning": "The module consists of lectures, tutorials, and field studies. The lectures will deliver knowledge relating to the theory, principles and applications of analytical computer modelling, in order to tackle spatially-referenced issues in a real life urban context. A number of different urban modelling methods in relation to land use, transportation and micro simulation will be outlined. Working principles of the technologically-enabled spatial analysis methods will be introduced to develop skills and practical experience in handling spatial data and analysis methods. This module will provide case studies, a series of handouts, multimedia materials and practical worksheets."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD408&psl_code=SEM1"
+    }
+  ]
+}

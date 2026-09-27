@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDU",
+    "domain_code": "PGC",
+    "full_name": "Professional Studies"
+  },
+  "full_name": "Student-centred Pedagogies in Higher Education",
+  "module_code": "PGC406",
+  "offerings": [
+    {
+      "heading": "Student-centred Pedagogies in Higher Education",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "PGC",
+        "full_name": "Student-centred Pedagogies in Higher Education",
+        "module_code": "PGC406",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Student-centred Pedagogies in Higher Education",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is part of a professional development programme for teaching staff at XJTLU, and all the aims take into consideration the XJTLU context. Its aims are to enable participants to: • Critically reflect on the concept of student-centred learning, including the benefits and challenges for their own practice. • Develop the ability of academic staff to plan, develop, implement and evaluate educationally effective learning, teaching and assessment utilising new, emerging forms of pedagogy in higher education. • Critically reflect on the role of professional development in professional learning. • Generate awareness of, and engagement with, the Professional Standards Framework. The aims of this module are aligned with the Professional Standards Framework, which is mapped to Programme-level learning outcomes and module assessments; the descriptors for Fellowship from AdvanceHE are embedded in the assessment regime of the module. See Programme Specifications for details. Alignment of module learning outcomes and PSF dimensions is also indicated in the table below.",
+        "Learning outcomes": "A Implement effective learning activities and assessment tasks utilising student-centred learning to achieve the required learning outcomes for either a specific teaching session, module or programme that evidence a critically reflective response to the wider context in which higher education operates, including the benefits and challenges for your own practice. B Critically reflect on successful engagement in continuing professional development in relation to effective and inclusive teaching, learning and assessment and how this has enhanced learning and teaching your practice in a transnational context. C Critically reflect on the requirements for quality assurance and enhancement have had implications for your practice in the context of design, implementation and evaluation of student-centred education.",
+        "Method of teaching and learning": "This module will be delivered using a combination of asynchronous online class time, synchronous HyFlex class time, and independent work. The asynchronous online portion of the class will consist of content delivery provided in the form of interactive, self-paced lessons that cover specific student-centred pedagogical techniques. The synchronous HyFlex portion of the class will consist of active-learning based activities for learners to practice the techniques learned in the online portion of the class. The independent work will involve students implementing new techniques they have learned, reflecting on the new techniques, and completing the two assignments required for this module. The module also incorporates a pedagogically driven AI Agent embedded within the Learning Mall site. The AI Agent is designed to enhance students’ understanding of module concepts and assessment tasks, while supporting engagement, motivation, and self-directed learning. Its inclusion models the critical, ethical, and transparent use of generative AI in higher education, consistent with the principles of digital literacy, human-centered learning, and responsible technology use."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PGC406&psl_code=SEM2"
+    }
+  ]
+}

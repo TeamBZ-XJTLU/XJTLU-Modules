@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "The Organisation in the Strategic Context",
+  "module_code": "SMO407",
+  "offerings": [
+    {
+      "heading": "The Organisation in the Strategic Context",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "The Organisation in the Strategic Context",
+        "module_code": "SMO407",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "The Organisation in the Strategic Context",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module teaches IMBA students how to analyse strategic organisational challenges and make evidence-based recommendations within an international context. The essence of strategy is in successfully achieving the appropriate fit between resources and environment, especially in the long-term; whilst being cognizant of the potential threats from disruptive change, whether they be triggered by technological, commercial, political, physical or other causes. The module draws on academic theories and established approaches in the area of strategy and applies them to practical cases. IMBA students are encouraged to bring their own experience to the classroom and discuss how ideas from the strategy field can be applied to their own businesses.",
+        "Learning outcomes": "A. Identify and apply key elements of strategic management from mission through to strategy implementation. B. Conduct strategic analysis of organisations and identify their strategic position. C.Demonstrate understanding of the complex nature of the organisational context – both internal and external, and its impact on organisational strategy. D. Identify, design and select strategic options and draw up an implementation plan. E. Critically appraise different mode of corporate organisation (including business models) and governance systems, particularly with regard to international business and cross-border market entry. F. Integrate issues of internationalisation, sustainability and ethics into strategy development.",
+        "Method of teaching and learning": "The learning and teaching mainly takes a case-based approach, with class discussions and group-based work playing an active role in the learning design."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO407&psl_code=SEM1"
+    }
+  ]
+}

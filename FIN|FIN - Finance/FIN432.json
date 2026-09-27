@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FIN",
+    "domain_code": "FIN",
+    "full_name": "Finance"
+  },
+  "full_name": "Spreadsheet Modeling",
+  "module_code": "FIN432",
+  "offerings": [
+    {
+      "heading": "Spreadsheet Modeling",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FIN",
+        "full_name": "Spreadsheet Modeling",
+        "module_code": "FIN432",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Spreadsheet Modeling",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This ESS module focuses on using spreadsheet modeling techniques to solve the real world-problems. It introduces Excel applications and basic spreadsheeting skills and functions. It teaches how to write VBA user-defined functions and sub procedures. It demonstrates the use of Excel to develop spreadsheet models and tackle analytical questions such as loan and pension problems, corporate finance, portfolio analysis, fixed income and derivatives, and simulation modelling, and shows the differences between Excel and other statistical modeling software, such as R.",
+        "Learning outcomes": "A Understand common spreadsheeting skills and functions B Use financial calculation and VBA programming in Excel C Use Excel to implement commonly-used financial theories and models D Use Excel to apply theories and models to real-world financial and investment problems.",
+        "Method of teaching and learning": "This module will be taught using a combination of lectures, tutorial and seminars in a financial lab. The three hours of lecture/seminar per week will be used flexibly by the lecturer for discussing the core principles and concepts of the subject and their applications with students and carrying out other learning activities with them. Students are expected to play an active role to interact with their lecturer and other classmates and to “learn by playing”."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN432&psl_code=SEM2"
+    }
+  ]
+}

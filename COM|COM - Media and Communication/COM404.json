@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Contemporary Chinese Media",
+  "module_code": "COM404",
+  "offerings": [
+    {
+      "heading": "Contemporary Chinese Media",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Contemporary Chinese Media",
+        "module_code": "COM404",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Contemporary Chinese Media",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims and fit of the module: This module is designed to introduce students to the media environment and content of the contemporary Chinese mediascape. After giving an outline of media theories and strategies of localisation, it examines recent developments in Chinese media and how such changes affect media consumption in China and abroad. It will also investigate the social implications of new media and their marketisation and critically discuss the usage of new media technologies.",
+        "Learning outcomes": "Learning outcomes: A. Demonstrate critical understanding of contemporary Chinese media B. Critically evaluate empirical and theoretical approaches to the study of the changes in the Chinese media C. Present a cogent, realistic and original research proposal D. Conduct original research into contemporary Chinese media E. Apply an academic referencing style correctly and consistently",
+        "Method of teaching and learning": "The lectures contextualize and explain the module readings, and key concepts and theories. In the seminars students delve deeper into the materials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM404&psl_code=SEM1"
+    }
+  ]
+}

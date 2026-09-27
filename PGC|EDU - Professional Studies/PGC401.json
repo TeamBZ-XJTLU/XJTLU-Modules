@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDU",
+    "domain_code": "PGC",
+    "full_name": "Professional Studies"
+  },
+  "full_name": "Learning, Teaching and Assessment",
+  "module_code": "PGC401",
+  "offerings": [
+    {
+      "heading": "Learning, Teaching and Assessment",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "PGC",
+        "full_name": "Learning, Teaching and Assessment",
+        "module_code": "PGC401",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Learning, Teaching and Assessment",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is part of a professional development programme for teaching staff at XJTLU, and all the aims take into consideration the XJTLU context. Its aims are: • To introduce participants to current theories of learning, teaching and assessment. • To promote a range of strategies that lead to the enhancement of learning and teaching in higher education, and within a transnational context, including evaluation, reflective practice and engagement/collaboration with colleagues. • To provide an underpinning base of knowledge in relation to assessment and feedback in higher education. • To introduce students to the use of technology in higher education. • To facilitate the development of inclusive and effective practice. • To help students gain awareness of, and engagement with, the Professional Standards Framework. The aims of this module are aligned with the Professional Standards Framework 2023, which is mapped to Programme-level learning outcomes and module assessments.",
+        "Learning outcomes": "A Use and justify learning and teaching methods that respect individual learners and meet the needs of a diverse student body within the unique context of your practice. B Critically reflect on how you collaborate with others to enhance your practice in learning, teaching and assessments. C Critically reflect on how your practice in higher education is informed by your understanding of how learners learn, generally and within specific subjects. with particular attention to the specific context of your practice D Critically reflect on how your practice is informed by your knowledge of digital and/or other technologies and resources for learning in a transnational context. E Critically reflect on how you use appropriate approaches for effective and inclusive teaching and/or support for of learning and manage the learning environments. F Critique examples of assessment of student learning and feedback strategies from your practice. G Identify areas of learning and development from two summative observations of their teaching.",
+        "Method of teaching and learning": "• Teaching is through the delivery of a range of compulsory interactive workshops. • Participants will be expected to reflect upon their own practice and changes to their practice they have introduced as a result of their experience of the module and attendance at workshops. • Participants will be required to submit Peer Review reports on two of their teaching sessions at XJTLU where they critically comment on the feedback they have received and propose strategies for change in their practice. • Support from a mentor (normally a more senior colleague from the same discipline as the participant and/or a colleague with a Senior Fellowship of the HEA). • Use of the wide variety of resources that are available via Learning Mall Core, and the Higher Education Academy (www.heacademy.ac.uk)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PGC401&psl_code=SEM1"
+    }
+  ]
+}

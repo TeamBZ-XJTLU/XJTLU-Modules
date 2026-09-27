@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Collaborative Project",
+  "module_code": "FTA305",
+  "offerings": [
+    {
+      "heading": "Collaborative Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Collaborative Project",
+        "module_code": "FTA305",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Collaborative Project",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to allow the student to: work on a collaborative project with students from other disciplines within the university, or with external partners. manage their relationship between project partner(s) and client(s). negotiate a senior role within a collaborative project and cement their knowledge of filmmaking craft by completing a project using a high skills base. work to advanced safe and healthy practices. reflect on their role within the project and offer a clear and concise evaluation of their skills.",
+        "Learning outcomes": "A Demonstrate a professional level of technical competence in a specialist area to realise a short project. B Demonstrate the ability to work both autonomously and collaboratively whilst managing their own and others’ time within a project based environment. C Deliver an advanced level of creative output in a specialist role to allow the completion of a short project. D Effectively synthesize ideas to generate solutions within a collaborative environment. E Critically evaluate practice by placing it in a reflective framework.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (Lectures and mentoring). A short series of lectures will provide the understanding of collaboration and project management. Tutorials will focus on project management, creative decision making. Seminars will focus on reviewing work in progress."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA305&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LIFE",
+    "domain_code": "IET",
+    "full_name": "Industry and Enterprise Tailored Education"
+  },
+  "full_name": "Supply Chain Management",
+  "module_code": "IET205",
+  "offerings": [
+    {
+      "heading": "Supply Chain Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IET",
+        "full_name": "Supply Chain Management",
+        "module_code": "IET205",
+        "semester": "SEMS"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Supply Chain Management",
+        "Semester": "SEMS"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a systematic understanding of successful supply chain management principles and strategies, including an assessment of make versus buy decisions and the relationships that exist between all members of the supply chain.",
+        "Learning outcomes": "A Critically evaluate supply chain strategies for different products and services. B Identify and evaluate variables and relationships of importance to effective supply chain management. C Collect, organise, analyse and present data and information relevant to supply chain management decisions.",
+        "Method of teaching and learning": "The module involves a range of teaching strategies including lectures, seminars and case study analysis. Independent research and study will be encouraged throughout to complement classroom teaching. Student-led case analysis will facilitate the sharing of knowledge and experiences of class members. Additional material will be in the form of web-based reading and research, selected texts, and contemporary magazine and press articles."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IET205&psl_code=SEMS"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Econometrics of Time Series",
+  "module_code": "ECO310",
+  "offerings": [
+    {
+      "heading": "Econometrics of Time Series",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Econometrics of Time Series",
+        "module_code": "ECO310",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Econometrics of Time Series",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is concerned with the testing of economic theory in the framework of time series analysis. The principles of Ordinary Least Squares will be adapted to deal with time series data. The module will provide students with practical experience via laboratory sessions.",
+        "Learning outcomes": "A. Specify and demonstrate the characteristics of a range of time series models. B. Understand the univariate models of financial time series and estimate appropriate models for the purposes of forecasts and inference. C. Use and critically apply time series data to conduct different tests of hypotheses for financial time series. D. Understand the implications of conditional heteroscedasticity, and be able to build appropriate models of volatility. E. Critically apply multivariate model selection and evaluation methods. F. Demonstrate understanding of advanced topics in financial econometrics.",
+        "Method of teaching and learning": "The lectures will be delivered by a combination of lectures, and tutorials/labs. Lectures will be designed to provide essential information and introduce students to the basic tools and concepts of time series analysis and related issues. Tutorials will provide students with the opportunity to further develop their learning through the exploration of theoretical and empirical studies and data"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO310&psl_code=SEM2"
+    }
+  ]
+}

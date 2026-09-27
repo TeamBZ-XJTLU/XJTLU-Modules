@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Multilingualism in society",
+  "module_code": "LNG413",
+  "offerings": [
+    {
+      "heading": "Multilingualism in society",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Multilingualism in society",
+        "module_code": "LNG413",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Multilingualism in society",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module serves as an advanced introduction to the field of sociolinguistics, centered around multilingualism and linguistic diversity in contemporary globalized societies. It will answer the following question: How do languages and their speakers interact in the context of the great global changes taking place on many different levels considering increased mobility across borders The objectives of this module are to examine multilingualism at the individual level, focusing on phenomena such as language choice and code-switching, and multilingualism at the societal level, where students can explore the co-existence of more than one language or dialect in society. It also examines various sociolinguistic phenomena such as language contact, language maintenance, language shift, language death, language endangerment, language rights, and the notion of linguistic capital.",
+        "Learning outcomes": "A Describe and discuss evidence in multilingualism research B Analyze the use of language in multilingual contexts C Critically evaluate theoretical and empirical research in multilingualism D Demonstrate through the presentation and essay a critical understanding of how culture comes into play in multilingual interaction E Display through the presentation and essay substantial knowledge of the implications of multilingualism for society",
+        "Method of teaching and learning": "Teaching and learning will take place by means of lectures, seminars, and independent research to optimize students’ learning experience and learning outcomes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG413&psl_code=SEM1"
+    }
+  ]
+}

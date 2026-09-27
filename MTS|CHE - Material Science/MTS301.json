@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "MTS",
+    "full_name": "Material Science"
+  },
+  "full_name": "Materials for Engineering 2",
+  "module_code": "MTS301",
+  "offerings": [
+    {
+      "heading": "Materials for Engineering 2",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "MTS",
+        "full_name": "Materials for Engineering 2",
+        "module_code": "MTS301",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Materials for Engineering 2",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to introduce the significance of glasses, ceramics, polymeric materials, and composite materials within an engineering context. The focus will be on the chemical composition of these materials, their related properties, forming processes, strengthening techniques, and types of failure. The module is designed to equip students with a comprehensive understanding of advanced materials, preparing them for careers in materials engineering, product development, and manufacturing processes.",
+        "Learning outcomes": "A. Analyse the chemical composition and properties of glasses, ceramics, organic polymers, and composites, and explain how these factors influence material performance in engineering applications. B. Evaluate the forming and processing techniques used for the manufacturing of glasses, ceramics, polymeric materials, and composites, linking these processes to the resulting microstructure and properties. C. Assess the mechanisms of failure in advanced materials, including glass and ceramic fracture, polymer degradation, and composite delamination, and relate these mechanisms to the underlying material structure and processing. D. Demonstrate an understanding of the applications of these materials in various engineering contexts, including construction, aerospace, automotive, and electronics, by applying theoretical knowledge to practical scenarios.",
+        "Method of teaching and learning": "The module is delivered through a combination of lectures, tutorial and lab sessions. Lectures (2 hours per week): Each lecture will cover theoretical principles related to the structure, properties, and processing of advanced materials, supplemented with case studies and industry applications. Tutorials (2 hours per week): Tutorials will involve problem-solving exercises, group discussions, and analysis of real-world case studies. Labs (3 sessions): These labs will provide students with hands-on experience to apply their knowledge in practical contexts. Students will be expected to engage in independent study, including reading, research, and project work, to reinforce lecture and tutorial content."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTS301&psl_code=SEM1"
+    }
+  ]
+}

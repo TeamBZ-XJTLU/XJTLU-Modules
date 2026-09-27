@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "ESG for Managers and Investors",
+  "module_code": "IFB425TC",
+  "offerings": [
+    {
+      "heading": "ESG for Managers and Investors",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "ESG for Managers and Investors",
+        "module_code": "IFB425TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "ESG for Managers and Investors",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with a critical and comprehensive understanding of how Environmental, Social, and Governance (ESG) factors are reshaping managerial decision-making, corporate strategy, and investment practices in the digital age. The module will introduce students to the frameworks, tools, and metrics used to assess ESG performance, current reporting requirements and reporting practices, the impact of ESG on firm value, and ESG investing strategies. More importantly, this module explores how intelligent technologies—such as AI, big data, and blockchain—are transforming ESG reporting, risk analysis, and investment. This module is a core pillar of the Intelligent ESG pathway, linking foundational ESG principles with cutting-edge digital technology. It emphasizes the growing role of managers and investors as key agents in driving sustainable business transformation and value creation. By bridging traditional ESG literacy with digital business, this module prepares students to lead in roles that demand accountability, transparency, and innovation in ESG—whether in corporate, consulting, or investment environments.",
+        "Learning outcomes": "A. Critically evaluate the role of ESG factors in shaping managerial decision-making, corporate strategy, and investment practices in a digital business context. B. Interpret and apply key ESG reporting frameworks, standards, and metrics (e.g., GRI, SASB, TCFD) to assess corporate ESG performance and disclosures. C. Communicate complex ESG insights effectively to both specialist and non-specialist stakeholders using appropriate tools, language, and visualizations. D. Assess the financial and non-financial implications of ESG risks and opportunities on firm valuation, investor decisions, and long-term value creation. E. Examine the role of intelligent technologies—such as AI, big data, and blockchain—in enhancing ESG reporting, transparency, and decision-making. F. Synthesize ESG risk and performance data to formulate responsible, data-driven business or investment recommendations aligned with ethical, strategic, and sustainability goals.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education of the school. This means that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution and insights from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and an increase in coursework, especially problem-based assessments that are project focused. This delivery pattern provides space in the semester for students to concentrate on completing the assessments. A combination of formal lectures, seminars as well as tutorials will be leveraged to enable the appreciation of technical aspects of ESG management and the ability to use the relevant numerical tools and analysis methods."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB425TC&psl_code=SEM1"
+    }
+  ]
+}

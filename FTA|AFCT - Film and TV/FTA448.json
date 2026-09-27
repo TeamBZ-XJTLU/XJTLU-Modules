@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Cultural Heritage & Tourism",
+  "module_code": "FTA448",
+  "offerings": [
+    {
+      "heading": "Cultural Heritage & Tourism",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Cultural Heritage & Tourism",
+        "module_code": "FTA448",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Cultural Heritage & Tourism",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: The aims of the module are to help students establish a critical understanding about the cultural heritage and tourism, to analyse the cultural consumptions and needs nowadays, and to research the transformation of cultural tourism. Objectives: Students will learn the key literatures and texts in cultural heritage and tourism and conduct a small-scale study on the subject.",
+        "Learning outcomes": "A Demonstrate a critical understanding of cultural heritage and tourism, as well as cultural consumptions B Apply critically and appropriately the analyse and research methods to the cases in heritage and tourism C Apply critically the knowledge and skills to develop cultural and tourism projects and events",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures, seminars, and fieldworks. Lectures will be designed to provide essential information, knowledge and theories in cultural heritage and tourism. Seminars will be based on the case study and projects. The filed works will be provided the opportunities to students investigate cultural heritage and tourism in place (virtually) for their projects."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA448&psl_code=SEM2"
+    }
+  ]
+}

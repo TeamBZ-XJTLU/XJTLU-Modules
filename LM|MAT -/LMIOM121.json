@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MAT",
+    "domain_code": "LM",
+    "full_name": ""
+  },
+  "full_name": "Statistics for Business",
+  "module_code": "LMIOM121",
+  "offerings": [
+    {
+      "heading": "Statistics for Business",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LM",
+        "full_name": "Statistics for Business",
+        "module_code": "LMIOM121",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Statistics for Business",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with an introduction to business statistics for the non-specialist. The module will provide a broad understanding of the nature of variability and how business statistics can be applied by managers. It will also enable students to derive and understand a variety of graphs and statistics; these skills provide a means for managers to make effective use of statistics in the process of management and decision-making.",
+        "Learning outcomes": "A. Assess basic mathematical tools and apply them to management field; B. Describe and analyse data, by using frequency tables, frequency distributions, graphic presentation, and different numerical measures; C. Apply fundamental concepts of statistics, including sampling and probability in management context; D. Interpret statistical inference, apply the basic concepts of confidence interval and statistical hypothesis testing; E. Compare the relationship between quantitative variables using simple correlation and regression techniques.",
+        "Method of teaching and learning": "This module is taught in both lecture and tutorial sessions. Lectures shall include a presentation of the key theoretical knowledge with problem solving examples. Tutorials allow students to discuss the subject matter, and develop their mathematical problem-solving skills under the direction of the teaching staff. It is expected that students spend their self-study time practicing problem solving, using textbook questions, previous years’ exam questions and any other extra material provided by the lecturer. Material is placed in a broad business context, which provides students with an important link between the fundamentals of statistics and their applications for management and decision making."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LMIOM121&psl_code=SEM1"
+    }
+  ]
+}

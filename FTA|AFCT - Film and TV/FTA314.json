@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Major TV Studio Project",
+  "module_code": "FTA314",
+  "offerings": [
+    {
+      "heading": "Major TV Studio Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Major TV Studio Project",
+        "module_code": "FTA314",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "15",
+        "Module Level": "Level 3",
+        "Module Title": "Major TV Studio Project",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Run over two semesters this module engages students working in groups in the production of a significant media project as the culmination of their undergraduate practical film and TV production studies. This may take the form of Documentary (maximum 10-20 minutes), Drama (maximum 10-12 minutes) or another genre in consultation with their module convenor. It may also be a paper-based exercise for students who are unable to attend campus for their studies and who cannot make a practical project. Pitching sessions will be held where production groups pitch their proposals prior to each production being given a green light to proceed. Each production group will have a supervising tutor who they will meet regularly with for production tutorials through the year. Pitches can be by groups or individuals and may be online, pre-recorded or in person to accommodate off-campus students. The primary goal of the first semester is to support students in refining their project plans and preparing for potential challenges each project might face. Therefore, throughout both semesters, the module will provide personalized one-on-one tutorials to reinforce the creative knowledge students gain in class and offer tailored guidance on all aspects of their projects, including problem-solving, plan and script development, scouting, pitch, and improvement strategies. To successfully complete this module, students should possess technical skills in shooting works across various subjects as well as proficiency in using equipment in year2 and year3. For areas where students may need additional development, two specialized workshops will be offered during the first semester. These workshops aim to address skills that TVP students currently lack. In addition to the group production, each group will be required to submit a substantial Production File, evidencing the production planning, development and management. Off-campus students will submit a planning production file based upon an agreed idea.",
+        "Learning outcomes": "A.Evidence advanced skills in media production, as demonstrated in individual roles and team work, and culminating in the production of an original production or an agreed plan for a major production (for off-campus students) B.Demonstrate advanced skills in research and media management; C.Negotiate and pitch a proposal to a hypothetical commissioning panel; D.Critically evaluate and contextualise production or production planning work, within appropriate industrial and critical contexts via a written, critical essay.",
+        "Method of teaching and learning": "Lectures, tutorials, group presentations, critical reflection (both in person and/or online)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA314&psl_code=ACYR"
+    }
+  ]
+}

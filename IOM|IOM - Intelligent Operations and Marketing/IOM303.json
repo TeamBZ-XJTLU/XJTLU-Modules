@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "International Marketing",
+  "module_code": "IOM303",
+  "offerings": [
+    {
+      "heading": "International Marketing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "International Marketing",
+        "module_code": "IOM303",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "International Marketing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with an understanding of international marketing concepts and analytical processes in international marketing operations. This involves studying the various forces which influence the behaviour of national and international firms, thereby fostering students' skills as professional international marketers.",
+        "Learning outcomes": "A. Identify the major differences between the domestic market and the international market and their impact on the marketing activities of global businesses B. Critically assess existing international marketing strategies based on theories and frameworks and provide strategic recommendations C. Critically investigate and analyse the international markets using relevant data and information D. Develop an international marketing strategy and market entry decisions based on a clear definition of marketing problems E. Logically communicate suggestions of international marketing strategies using appropriate supporting evidence and justification",
+        "Method of teaching and learning": "The module involves a range of teaching strategies including lectures, student-led seminars, case studies and guest lectures. Additional material will be in the form of web-based reading and research, selected texts, journal articles and contemporary magazine and press articles. Independent research and study will be encouraged throughout to complement group work activities. Students will also be exposed to case studies on a range of organisations. Student-led seminars will facilitate the sharing of knowledge and experiences of cohort members."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM303&psl_code=SEM1"
+    }
+  ]
+}

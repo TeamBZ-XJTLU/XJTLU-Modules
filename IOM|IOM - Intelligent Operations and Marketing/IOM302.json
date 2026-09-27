@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "E-Business Models and Strategies",
+  "module_code": "IOM302",
+  "offerings": [
+    {
+      "heading": "E-Business Models and Strategies",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "E-Business Models and Strategies",
+        "module_code": "IOM302",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "E-Business Models and Strategies",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide an introduction to the appraisal and formulation of e-business strategy and contemporary e-business models.",
+        "Learning outcomes": "A. To understand the basic concepts and components of business models. B. To understand, analyze and critically evaluate various types of e-business models applied in the current Internet market. C. To understand the basics as well as the capabilities of business strategies enabled by the Internet. D. To be able to analyze, understand, critically evaluate, improve and formulate various types of e-business strategies.",
+        "Method of teaching and learning": "Lectures, workshops, class participation, group work, online learning, and private study."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM302&psl_code=SEM2"
+    }
+  ]
+}

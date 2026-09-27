@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Social Data Science",
+  "module_code": "COM306",
+  "offerings": [
+    {
+      "heading": "Social Data Science",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Social Data Science",
+        "module_code": "COM306",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Social Data Science",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The contemporary media landscape has become increasingly digital, with social media taking a central place. Digital media produce a large amount of data, which constitutes both a great opportunity and a challenge for social scientists to conduct big data informed research. This module aims to introduce students to the theories and techniques of social data science. It will enable students to analyse large datasets from social media and other digital sources, using cutting-edge computational techniques, and contextualize their findings within social science theory. More specifically, the module will equip students with basic programming skills, and familiarize them with topics like web scraping, digital trace analysis, social network analysis, algorithmic text analysis, machine learning and large language models (LLMs). Throughout the module, state-of-the-art AI tools will be used to facilitate learning and teaching. This module teaches advanced quantitative methodology, and therefore requires the successful completion of COM265 ‘Foundations in Quantitative Research Methods’ or a similar quantitative methods module. Offered in Y4S1, it is also meant to support students with a digital media focused Final Year Project.",
+        "Learning outcomes": "A Identify relevant topics and develop suitable research questions within the field of Social Data Science B Acquire, clean and pre-process data from online sources such as websites, social media and online archives C Use appropriate data analysis techniques and statistical procedures D Interpret and contextualize statistical outcomes within social science theory E Create informative and appealing data visualizations",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures and computer lab practicals. Lectures will introduce students to the basic concepts, techniques and theories of Social Data Science. Practicals will give students the opportunity to practice data analysis techniques using interactive programming environments and AI tools, under the guidance of the instructor."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM306&psl_code=SEM1"
+    }
+  ]
+}

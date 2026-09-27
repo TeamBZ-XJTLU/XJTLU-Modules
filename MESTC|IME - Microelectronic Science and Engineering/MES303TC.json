@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "Integrated Circuits - Concepts and Design",
+  "module_code": "MES303TC",
+  "offerings": [
+    {
+      "heading": "Integrated Circuits - Concepts and Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Integrated Circuits - Concepts and Design",
+        "module_code": "MES303TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Integrated Circuits - Concepts and Design",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to familiarise students with some basic concepts of silicon based microelectronics, IC technology, and IC design by using a professional design tool; to prepare students for entering the Si semiconductor industry.",
+        "Learning outcomes": "A. Apply the knowledge of how to analyse, design and lay-out simple MOS integrated circuits (ICs) B. Understand advanced silicon IC technology and its theoretical underpinning to design CMOS ICs C. Understand essential fabrication steps and related manufacturing issues for MOS-based IC design to apply industry standard circuit design D. implement a professional design tool to design, layout and test by simulation digital circuit cells E. consider fundamental design issues for silicon IC's taking into account manufacturing and technology variation F. apply knowledge and understanding of current R&D practice for integrated circuit design industry",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures, tutorials and both supervised and unsupervised laboratory (CMOS IC design) sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES303TC&psl_code=SEM1"
+    }
+  ]
+}

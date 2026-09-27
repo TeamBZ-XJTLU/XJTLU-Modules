@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Conflict and International Intervention",
+  "module_code": "INS402",
+  "offerings": [
+    {
+      "heading": "Conflict and International Intervention",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Conflict and International Intervention",
+        "module_code": "INS402",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Conflict and International Intervention",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the study of armed conflicts their causes and the responses articulated by international organisations and states when facing national, regional or global security crises. It aims to develop in students a critical understanding of the political, practical and normative challenges of contemporary conflicts and interventions. The module takes a structural, actor and agency perspective by examining the decision-making and implementation of policy by states and international organisations. Paying attention to elements of continuity and change, the module offers a historically- and empirically-rich overview of interventions spanning from the Cold War to the post-Cold War period. The module also prepares students to think more critically about global security governance, facilitating a broader understanding of the context in which interventions take place and of the controversial consequences they generate.",
+        "Learning outcomes": "A Identify and contextualise the main issues, debates, causes and consequences in the study of conflicts and interventions. B Apply theories within the fields of International Relations and Conflict Studies to better understand how and why conflicts escalate and terminate, as well as understand the intervention decision-making process. C Critically analyse past and present intervention trajectories, policies and their implications. D Identify and organise different forms of data to support arguments and analyses E Develop independent critical argumentations.",
+        "Method of teaching and learning": "The module will be delivered by lectures and seminars, supported by independent study and research."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS402&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LIFE",
+    "domain_code": "IET",
+    "full_name": "Industry and Enterprise Tailored Education"
+  },
+  "full_name": "Industrial Advances in regional development",
+  "module_code": "IET105",
+  "offerings": [
+    {
+      "heading": "Industrial Advances in regional development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IET",
+        "full_name": "Industrial Advances in regional development",
+        "module_code": "IET105",
+        "semester": "SEMS"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Industrial Advances in regional development",
+        "Semester": "SEMS"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with an insight into the built environment related disciplines from an integrated and practical perspective, focusing on the collaborations across Urban Planning and Design, Architecture, Civil Engineering, and industry design. Based on real projects from the industry, students will learn sustainable planning-design-build strategies via a learning-by-doing process and based on an interdisciplinary team work.",
+        "Learning outcomes": "A. Understand sustainable urban and rural planning strategies and the potential of implementing them to solve real-world problems. B. Analyse and implement design strategies that support the development of sustainable built environment. C. Assess the feasibilities of applying new technologies in construction sector and urbanization process.",
+        "Method of teaching and learning": "Classroom teaching, case study, seminars and on-the-spot investigation."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IET105&psl_code=SEMS"
+    }
+  ]
+}

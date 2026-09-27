@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Business in the Asia - Pacific Region",
+  "module_code": "SMO305",
+  "offerings": [
+    {
+      "heading": "Business in the Asia - Pacific Region",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Business in the Asia - Pacific Region",
+        "module_code": "SMO305",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Business in the Asia - Pacific Region",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with an understanding of the unique and contrasting business environment in the Asia Pacific region and for students to use concepts and theories from the international business and management literature to evaluate and explain this environment.",
+        "Learning outcomes": "A. Appreciate and identify the consequences of globalization and national differences in the business and management systems in Asia Pacific region. B. Evaluate the principal economic, political and social trends in Asia Pacific region and their consequence for the conduct of business. C. Identify the differences in culture, human resource management, corporate governance, and technology development in the Asia Pacific region. D. Conduct an analysis of the strategic issues involved in entering the markets in Asia Pacific region. E. Conduct a comparative analysis of different countries and businesses within Asia Pacific region.",
+        "Method of teaching and learning": "Key themes, topics and concepts will be introduced in the lectures and consolidated by learning activities in the seminars. Additional workshops will be used to enable students to develop a project proposal and make a short presentation. The project will require independent research activities to be undertaken."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO305&psl_code=SEM1"
+    }
+  ]
+}

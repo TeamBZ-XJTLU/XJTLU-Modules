@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Theories of International Relations",
+  "module_code": "INS401",
+  "offerings": [
+    {
+      "heading": "Theories of International Relations",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Theories of International Relations",
+        "module_code": "INS401",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Theories of International Relations",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module explores current debates in the theory of International Relations, also preparing students to later situate their own research interests and formulate their own research questions and designs with reference to these debates.",
+        "Learning outcomes": "A.Recognise the advantages and disadvantages of the different international relations (IR) theories, critically positioning themselves in the interdisciplinary debate B. Apply different IR theories to explain and better understand the empirical reality of international relations C. Combine different IR theories, where possible, to explain and better understand the empirical reality of international relations D. Identify different research designs and position themselves with regard to the main methodological debates in IR studies E. Critically reflect on the discipline’s main epistemological and methodological foundations and premises F. Develop independent research and study skills as well as a critical and reflective mindset",
+        "Method of teaching and learning": "Bringing together traditional instruction methods and interactive and reflective modes of teaching, the module consists of lectures and seminars. During the latter, students will actively engage in group discussions about the taught topics, with the purpose of developing analytical and critical skills towards different sub-areas of international relations."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS401&psl_code=SEM1"
+    }
+  ]
+}

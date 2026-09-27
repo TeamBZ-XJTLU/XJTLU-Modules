@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Traffic and Highways Design",
+  "module_code": "CEN310",
+  "offerings": [
+    {
+      "heading": "Traffic and Highways Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Traffic and Highways Design",
+        "module_code": "CEN310",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Traffic and Highways Design",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide understanding the engineering background of basic aspects of modern transport infrastructure design and construction with particular reference to soil properties and pavement materials and their design.",
+        "Learning outcomes": "A. Analyse traffic data and build traffic models; Apply network analysis for existing traffic system using GIS software package; B. Solve urban traffic problems and apply the method of transportation planning, forecasting, and evaluation; understand the requirements of a sustainable transport system; C. Design a typical highway section, including horizontal and vertical alignment, highway facilities; D. Consider the nature, properties and behavior of materials in highway construction; E. Perform characterization tests for asphalt materials.",
+        "Method of teaching and learning": "The material in this module is delivered through a combination of formal lectures, laboratory classes, and supervised practical sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN310&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Econometrics I",
+  "module_code": "ECO205",
+  "offerings": [
+    {
+      "heading": "Econometrics I",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Econometrics I",
+        "module_code": "ECO205",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Econometrics I",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Econometrics I is concerned with the testing of economic theory using real world data. This module introduces the subject by focusing on the principles of Ordinary Least Squares regression analysis, which is the cornerstone of econometrics. The module will provide practical experience via regular laboratory session.",
+        "Learning outcomes": "A. understand the nature and classical methodology of econometrics B. estimate and interpret bivariate regression models using formulas and econometric software C. estimate and interpret multivariate regression models using econometric software D. explain the assumptions underpinning valid estimation and inference in regression models E. explain the consequences of violations of assumptions and what tests and remedies are available to detect and deal with violations of assumptions F. formulate and conduct tests of hypotheses using regression models G. formulate models incorporating dummy variables and explain their interpretation H. extend the least square principles to deal with nonlinear population regression functions I. have a good understanding of the use of instrumental variables J. understand and make use of robust standard errors",
+        "Method of teaching and learning": "The module will be taught using a combination of lectures, computer lab and directed study. The lectures are intended to provide an introduction to the topics covered in the syllabus. This will be built upon by practical experience using econometric models in laboratory sessions and the regular completion of structured exercises. Learning will be reinforced by appropriate readings from the course text."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO205&psl_code=SEM1"
+    }
+  ]
+}

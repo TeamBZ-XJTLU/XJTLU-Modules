@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Corporate Governance and Strategy",
+  "module_code": "IFB406TC",
+  "offerings": [
+    {
+      "heading": "Corporate Governance and Strategy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Corporate Governance and Strategy",
+        "module_code": "IFB406TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Corporate Governance and Strategy",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module focuses on the principles and practices that guide the management and control of organisations, ensuring accountability, transparency, and fairness in their operations. The aim of it is to provide students with a comprehensive understanding of the principles, frameworks, and practices of corporate governance and strategy in both national and international contexts. It involves the understanding the roles and responsibilities of the key players in corporate governance, such as boards of directors, executives, and stakeholders in fostering ethical decision-making and promoting a culture of integrity. It also highlights the critical role that ethical behaviour plays in maintaining public trust, enhancing corporate reputation, and ensuring long-term sustainability. Key topics include corporate social responsibility (CSR), regulatory compliance, and the ethical challenges that arise in complex business environments. The module will equip students with both theoretical frameworks and practical tools to assess governance structures, evaluate ethical risks, and contribute to responsible business conduct.",
+        "Learning outcomes": "Students completing the module successfully should be able to: A. Critically evaluate the principles, frameworks, and global variations of corporate governance systems. B. Evaluate the effectiveness of governance structures, including the composition and function of boards, committees, and stakeholder mechanisms. C. Interpret and assess corporate governance reports, codes of conduct, and CSR/sustainability disclosures. D. Assess the roles and responsibilities of key players in corporate governance, such as boards, executives, and stakeholders in promoting ethical conduct. E. Reflect on contemporary governance and ethical challenges presented by industry practitioners and apply insights to professional practice.",
+        "Method of teaching and learning": "The module adopts a blended approach to teaching and learning, combining lectures, seminars, and interactive case-based discussions to facilitate both theoretical understanding and practical application. Real-world case studies, ethical dilemmas, and corporate governance failures are used to encourage critical thinking and debate. Students engage in group projects, role-plays, and simulations to deepen their insight into governance structures and ethical leadership. Guest lectures from industry practitioners and governance professionals further enrich the learning experience by offering contemporary, real-world perspectives."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB406TC&psl_code=SEM2"
+    }
+  ]
+}

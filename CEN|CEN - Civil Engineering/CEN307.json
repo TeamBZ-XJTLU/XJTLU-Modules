@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Structural Dynamics",
+  "module_code": "CEN307",
+  "offerings": [
+    {
+      "heading": "Structural Dynamics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Structural Dynamics",
+        "module_code": "CEN307",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Structural Dynamics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to progress students’ knowledge in structural analysis to include dynamic behaviour and to lay a solid foundation for subsequent work involving the response of civil engineering structures to earthquake excitations.",
+        "Learning outcomes": "A. Select the appropriate mathematical models in order to explain the dynamic behavior of Simple Degree of Freedom Systems in terms of their dynamic properties, i.e. the natural frequencies, the stiffness and the damping coefficient factor. B. Analyze and classify the response of SDoF systems subjected to various dynamic excitations (Harmonic loads, periodic loads, transient loads etc.) C. Make use of appropriate numerical methods in order to predict the time history response of SDoF systems. D. Combine and apply the principles of the response of SDoF systems with advanced mathematical knowledge in order to investigate the response of Multi Degree of Freedom Systems. E. Model simple structural systems having various degrees of freedom subjected to dynamic loads F. Combine the use of computer software and programming skills in order to perform dynamic analysis of simple cases of dynamic loading.",
+        "Method of teaching and learning": "Basic information is presented in the form of lectures on each material. The lectures are supplemented by a number of tutorial problems and practical classes. Coursework involving analysis of SDOF and MDOF structures under dynamic loading."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN307&psl_code=SEM1"
+    }
+  ]
+}

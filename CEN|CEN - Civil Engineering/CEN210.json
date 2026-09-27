@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Environmental Engineering: Water Resources and Wastewater",
+  "module_code": "CEN210",
+  "offerings": [
+    {
+      "heading": "Environmental Engineering: Water Resources and Wastewater",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Environmental Engineering: Water Resources and Wastewater",
+        "module_code": "CEN210",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Environmental Engineering: Water Resources and Wastewater",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to provide students with a background in hydrology and give them an understanding of the types of problems arising in water engineering including drinking water treatment, reservoir design and water distribution system design, main systems, unit operations and processes in urban wastewater treatment, and their principles, analysis, process design and operation. Further to give the students the necessary tools for designing drinking water supply systems.",
+        "Learning outcomes": "A. Analyse the hydrologic cycle and apply the most common models for the analysis of the rainfall-runoff characteristics of specific catchments. B. Analyse groundwater flow phenomena and associated processes occurring in aquifers and flow into wells. C. Understand and analyze the main systems and the principles of unit operations, processes and design in urban wastewater treatment. D. Apply the appropriate models for the unit process design, calculation and analysis and assess the impacts of unit processes on the treatment systems and relevant environmental constraints and regulatory framework.",
+        "Method of teaching and learning": "The module is taught through formal lectures, class tutorials and computer laboratories."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN210&psl_code=SEM2"
+    }
+  ]
+}

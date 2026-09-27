@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Final Year Project: Moving Image",
+  "module_code": "FTA312",
+  "offerings": [
+    {
+      "heading": "Final Year Project: Moving Image",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Final Year Project: Moving Image",
+        "module_code": "FTA312",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 3",
+        "Module Title": "Final Year Project: Moving Image",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The main aim of this module is to enable students to further develop their research skills in their chosen specialism. This means that the module will : A. enable students to carry out and write up a piece of independent research in their chosen specialism ; B. Extend students’ knowledge, skills and critical understanding to evidence their capacity for independent thinking; C. Develop a range of transferrable research skills including the ability to organize time and resources effectively; as well as communicate with their colleagues and their supervisor.",
+        "Learning outcomes": "A Demonstrate an ability to think independently in the context of a research question within their specialism that they set for themselves B Critically appraise and make use of relevant literature as they work through their research question, including appropriate academic referencing in order to produce a clear, coherent and sustained argument C Synthesize and apply relevant theoretical constructs and appropriate research methodology to an original piece of research D Clearly structure and produce a substantial piece of work as appropriate to an original piece of research",
+        "Method of teaching and learning": "Each semester will involve a total of 150 hours of study, thus making this module worth 300 hours of study. Students will identify a research topic and meet regularly with their supervisor in order to create a research proposal. They will then outline the proposal formally, conduct independent research, pitch their project orally and create a final dissertation. The emphasis in the teaching will be on original, independent research."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA312&psl_code=ACYR"
+    }
+  ]
+}

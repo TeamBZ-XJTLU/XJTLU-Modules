@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Photojournalism",
+  "module_code": "COM269",
+  "offerings": [
+    {
+      "heading": "Photojournalism",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Photojournalism",
+        "module_code": "COM269",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Photojournalism",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will provide a practical introduction to photojournalism, as well as an overview of the development of photojournalism as a profession and as a genre. It will discuss a variety of tenants of quality photojournalism and the ethical issues associated with it. The module will also familiarise students with critically acclaimed examples of photojournalism. Students will be introduced to a wide range of photographic techniques and to the use of editing software. They will also explore the relationship between photographs and newspaper and magazine page layouts and will be equipped with an understanding of how to use the camera to capture an event, tell a story and communicate meanings and ideas.",
+        "Learning outcomes": "A Operate photo cameras correctly and safely B Produce quality journalistic photos and captions C Use software programs to edit images D Critically reflect on their own production and work process, including ethical issues",
+        "Method of teaching and learning": "COM269 is delivered using a combination of lectures, seminars, lab sessions and fieldwork. Students first learn the main knowledge points and/or practical skills in each week's lecture. They then apply these knowledge and skills either through a seminar or lab (computer) session. Students will also be led to take photos on site one week."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM269&psl_code=SEM2"
+    }
+  ]
+}

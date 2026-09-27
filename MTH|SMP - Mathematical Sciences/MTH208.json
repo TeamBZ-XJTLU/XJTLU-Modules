@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMP",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Numerical Analysis",
+  "module_code": "MTH208",
+  "offerings": [
+    {
+      "heading": "Numerical Analysis",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Numerical Analysis",
+        "module_code": "MTH208",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Numerical Analysis",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This modules is intended to provide a background in numerical analysis allowing students to design, analyse and implement fundamental numerical methods commonly used to solve mathematical problems.",
+        "Learning outcomes": "A. Analyse and estimate the different errors when approximating solutions to mathematical problems originated by the topics covered in the other learning outcomes. B. Solve nonlinear equations in one variable to a given precision. C. Approximate nonlinear functions and estimate its precision. D. Develop quadrature methods for numerical integration and analyse their accuracy. E. Solve initial value problems for first and second ordinary differential equations and analyse their precision. F. Apply numerical methods in a number of different contexts.",
+        "Method of teaching and learning": "The delivery of the module consists of a series of lectures, tutorials and lab sessions. Lectures cover the theory of numerical analysis, paying special attention to the development/construction of the different methods and their analysis. They also contain a wide range of examples showing how to address theoretical questions. The lab sessions are intended to provide students with the opportunity to write their own computer code to implement the different methods studied during the lectures."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH208&psl_code=SEM2"
+    }
+  ]
+}

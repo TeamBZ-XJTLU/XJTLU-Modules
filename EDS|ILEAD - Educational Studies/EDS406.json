@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Educational Internship",
+  "module_code": "EDS406",
+  "offerings": [
+    {
+      "heading": "Educational Internship",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Educational Internship",
+        "module_code": "EDS406",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Educational Internship",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module cultivates career-ready education professionals by integrating applied research, work-based inquiry, and cross-contextual problem-solving. Working with authentic challenges drawn from K-12, vocational, higher education, and global transnational education environments, students will develop and demonstrate the critical thinking, digital and AI literacy, and collaborative capabilities that are in high demand across the education sector. The module intentionally bridges theory and practice, enabling students to produce actionable, evidence-informed solutions and to build a professional portfolio that showcases their readiness for diverse educational roles.",
+        "Learning outcomes": "A. Construct a reflective professional portfolio that synthesises internship experiences and demonstrates readiness for a range of career roles in the global education sector; B. Critically evaluate organisational contexts to identify career development opportunities and propose meaningful, context-sensitive improvements; C. Integrate digital tools and AI literacy into collaborative professional practice to gather, analyse, and communicate data-driven insights, supporting decision-making and innovation in education.",
+        "Method of teaching and learning": "In Week 1 and & Week 2, students will receive intensive training on campus to prepare for the syntegrative education embedded in an internship, focus on capacity building for: ·Professional Identity & Communication ·Self-Management & Productivity ·Organisational & Ethical Awareness ·Growth & Reflective Practice ·AI literacy development for workplace use From Week 3 through -Week 12, students will work on field site for their internship and a seminar will be held for advising every week, with focuses on: ·Structured reflection on the progression of the internship ·Real-Time Coaching for Incremental Professional Confidence ·Developmental Review and Career Synthesis ·Long-standing AI usage supervision In Week 13, students will have seminars to reflect on their internship via presentation"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS406&psl_code=SEM2"
+    }
+  ]
+}

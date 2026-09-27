@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Curriculum Design in International Context",
+  "module_code": "EDS438",
+  "offerings": [
+    {
+      "heading": "Curriculum Design in International Context",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Curriculum Design in International Context",
+        "module_code": "EDS438",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Curriculum Design in International Context",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of the module include: 1. To equip students with the knowledge and skills for curriculum design, curriculum development, and evaluation in an internationalized context, while fostering their capacity to engage in project-based and practice-based learning. 2. To develop students’ understanding of curricula implemented across different international programmes and schools, as well as their ability to critically and effectively integrate AI technologies into learning and teaching practices.",
+        "Learning outcomes": "A. Critically critique and evaluate the design of existing curricula, and propose contextually appropriate improvements through project-based and practice-based approaches. B. Analyze curricula by applying knowledge of internationalized, institutional, and policy contexts, while considering the role of AI and emerging technologies in learning and teaching. C. Design and develop curricula through systematic planning processes that integrate innovative pedagogies, project-based learning, practice-based learning, and AI-enhanced educational strategies. D. Critically reflect on the fundamental principles, theories, and practices of curriculum design and development, with reference to authentic educational contexts. E. Critically evaluate the impact of educational policies, theories, and technological advancements on curriculum practice, teaching, and student learning outcomes.",
+        "Method of teaching and learning": "This module will be delivered through a combination of introductory lectures, tutorials, project-based learning activities, and extended fieldwork placements. Lectures will provide essential theoretical foundations in curriculum design, development, policy, internationalized education, and the integration of AI into learning and teaching. Tutorials and workshops will support critical reflection, collaborative inquiry, and the practical application of theory to curriculum practice. Teaching and learning activities will be conducted in a blended learning format, including asynchronous online learning. During placements, students will work closely with school mentors on curriculum-related projects. Fieldwork activities may include classroom observation, curriculum analysis, participation in professional learning communities, curriculum planning or redesign, implementation of curriculum practices, and critical evaluation of teaching and learning in authentic educational settings."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS438&psl_code=SEM2"
+    }
+  ]
+}

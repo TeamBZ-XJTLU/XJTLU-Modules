@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Microeconomics I",
+  "module_code": "ECO217",
+  "offerings": [
+    {
+      "heading": "Microeconomics I",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Microeconomics I",
+        "module_code": "ECO217",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Microeconomics I",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a solid foundation of intermediate level microeconomics. It develops and extends three of the topics introduced in Principles of Microeconomics, namely, Consumer Theory, Producer Theory and Industrial Organization. It prepares the students for the more advanced modules in the second and third year such as Microeconomics 2 and Game Theory.",
+        "Learning outcomes": "A. Demonstrate a thorough understanding of the core concepts and models used in consumer theory, producer theory B. Analyse problems in consumer theory, producer theory and industrial organization in a range of theoretical and empirical settings using graphical and mathematical methods, in addition to verbal and written expositions. C. Demonstrate a critical perspective regarding the assumptions underlying microeconomics models.",
+        "Method of teaching and learning": "This module will be delivered via a combination of lectures and tutorials. Lectures are designed to provide essential information and introduce students to the basic tools of analysis used in Microeconomics. Tutorials will provide students with a learning opportunity designed to extend the material introduced in the lectures through the in-depth analysis of specific problems from various topics covered in the module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO217&psl_code=SEM1"
+    }
+  ]
+}

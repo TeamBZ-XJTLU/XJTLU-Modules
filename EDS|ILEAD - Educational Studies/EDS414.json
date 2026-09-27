@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Counselling in Child and Family Education: Practice and Skills",
+  "module_code": "EDS414",
+  "offerings": [
+    {
+      "heading": "Counselling in Child and Family Education: Practice and Skills",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Counselling in Child and Family Education: Practice and Skills",
+        "module_code": "EDS414",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Counselling in Child and Family Education: Practice and Skills",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module explores key theories and techniques in counselling for children and families, with a strong emphasis on the integration of theory and practice in real-world contexts. Students engage in practice-based learning, including simulated and case-based counselling scenarios, supported by digital tools and AI-enabled feedback systems (e.g., transcript analysis and AI tutoring). The module further develops students’ ability to critically evaluate practice and design evidence-informed interventions to address complex educational and family-related challenges.",
+        "Learning outcomes": "A. Integrate counselling theories, developmental frameworks, and multicultural perspectives to inform evidence-based practice in child and family education contexts. B. Demonstrate and critically reflect on core counselling skills (e.g., active listening, empathy, formulation, intervention planning) through simulated or practice-based contexts. C. Critically evaluate and apply ethical, safeguarding, and legal frameworks to decision-making in complex counselling scenarios involving children and families. D. Analyse practice-based evidence and design research-informed counselling or family support interventions to address real-world needs.",
+        "Method of teaching and learning": "The module adopts a Research-Led Project-Based Learning (RLPBL) approach, integrating lectures, seminars, and practice-based workshops. Teaching combines theoretical input with experiential learning through counselling simulations, case-based discussions, and collaborative problem-solving tasks. Learning is structured around iterative cycles of observation, analysis, practice, and reflection. AI-supported tools (e.g., AI tutors, transcript analysis, and feedback systems) are embedded to enhance skill development, reflective practice, and evidence-based decision-making. Real-world cases and scenarios are incorporated to strengthen authenticity and professional relevance."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS414&psl_code=SEM2"
+    }
+  ]
+}

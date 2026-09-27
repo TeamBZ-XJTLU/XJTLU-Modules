@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Introduction to Digital Media and Communication",
+  "module_code": "COM158",
+  "offerings": [
+    {
+      "heading": "Introduction to Digital Media and Communication",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Introduction to Digital Media and Communication",
+        "module_code": "COM158",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Digital Media and Communication",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to provide a historical overview of the development of information and communication technologies (ICTs) together with a consideration of the promise and risks associated with this development. It will address the mediation of identities and social relations enabled by digital media and the interplay between digital technologies, capital, culture and people’s everyday life. Students will explore the different uses and experiences of digital media, ranging from identity construction and self-presentation online, to new forms of sociality, creativity, civic engagement and mobilisation. Issues such as virtual communities, youth culture and privacy will also be discussed and students will have the opportunity to reflect on the affordances and constraints of computer-mediated communication.",
+        "Learning outcomes": "A Demonstrate an understanding of essential concepts, theories and debates regarding digital media and communication B Critically evaluate the implications of digital media for social change C Demonstrate the ability to apply concepts and theories to analysing and reflecting on recent developments of digital media D Present a critical and sociological view of digital media and communication in a visually engaging form",
+        "Method of teaching and learning": "Lectures Seminars Film screenings"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM158&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Motion Design",
+  "module_code": "FTA228",
+  "offerings": [
+    {
+      "heading": "Motion Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Motion Design",
+        "module_code": "FTA228",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Motion Design",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to: • Explore further the foundations of motion graphics. Design for screen, effective use of typography, graphical elements, HD video, and motion in order to produce animation and digital video product. • Increase the opportunities to initiate and negotiate students’ own assignments. This module will ensure that students are fully involved and committed to their own learning. Technical and craft skills are further developed through active participation in solving specific design problems and the need to communicate ideas through skilled manipulation of various processes and software skills.",
+        "Learning outcomes": "A Illustrate a developing working knowledge of software appropriate to delivering more advanced, as well as experimental, concepts in Motion design based media. B Establish expanded visual and verbal vocabularies as related to motion graphic design. C Creating high quality motion design, effective storytelling, and attractive visual communication.",
+        "Method of teaching and learning": "The teaching sessions are divided into three components (Lectures, seminars and Lab practicals). In addition, students will be expected to attend at least 2 tutorials per semester Lectures will focus on the more advanced aspects of Motion Graphics, including the use of image, typography, colour, space, format, etc. as well as developing technical proficiency in software and hardware. Seminars will allow technical discussion about the techniques of Motion design various media An intensive series of practical workshops will equip the students with the technical design skills, covering animation timing and motion graphics techniques with practical troubleshooting of software."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA228&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Global Environmental Policy",
+  "module_code": "INS415",
+  "offerings": [
+    {
+      "heading": "Global Environmental Policy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Global Environmental Policy",
+        "module_code": "INS415",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Global Environmental Policy",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides an introduction to the study of global environmental policy and environmental issues from an international political economy (IPE) perspective. By studying the causes and consequences of global environmental change, we explore systemic legacies of colonialism, the emergence of global environmental governance, environmental movements, as well as the impacts of the globalization on the environment. The module includes project-based learning in small groups that will explore specific case studies along the semester.",
+        "Learning outcomes": "A. Investigate and explain different political-economic views on environmental issues; B. Critically evaluate the history of global environmental politics and governance; C. Analyze the role and influence of environmental issues in the IPE; D. Demonstrate understanding of the historical legacies of colonialism and their impact on the divide between the Global North and South;",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures and seminars. Lectures will be designed to provide essential information and discuss the weekly readings. The seminars will be used for project-based learning and applying the theories and examples in the readings to each group’s case studies."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS415&psl_code=SEM1"
+    }
+  ]
+}

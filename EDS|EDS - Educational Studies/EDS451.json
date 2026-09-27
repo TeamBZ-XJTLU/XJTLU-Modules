@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Teaching, Pedagogy, and Design",
+  "module_code": "EDS451",
+  "offerings": [
+    {
+      "heading": "Teaching, Pedagogy, and Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Teaching, Pedagogy, and Design",
+        "module_code": "EDS451",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Teaching, Pedagogy, and Design",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module adopts a Syntegrative Research-Led Project-Based Learning approach. Students step into the role of educational designers, applying psychological and pedagogical frameworks and developing technological competencies to resolve genuine challenges within diverse real-world contexts, including schools, families, industry, and other educational settings. Through a cycle of interactive design studios and practice-based micro-testing enabled by the new fieldwork component, students leverage digital tools and emerging technologies (including AI and AI-enabled tools and platforms) in the iterative development of educational prototypes. This fosters their capacity as innovative problem‑solvers who can transfer their skills across any educational context, from schools and families to industry and beyond.",
+        "Learning outcomes": "A Synthesize and integrate core educational, pedagogical, and psychological theories to critically evaluate and solve authentic educational problems in diverse real-world settings B Design research-informed educational solutions (e.g., courses, materials, or digital prototypes) tailored to learners’ varied levels, interests, needs, backgrounds, and contexts C Apply critical analysis and synthesis to evidence from the implementation of educational solutions, iteratively refining those solutions to resolve real-world complexities",
+        "Method of teaching and learning": "The teaching sessions include both lectures and lab/practicals which work together to engage students with key conceptual, theoretical, and methodological insights. These sessions provide dedicated opportunities for collaborative and individual practice, critical reflection, and the iterative development of pedagogical projects. Furthermore, a real-world pilot phase is integrated into the fieldwork/placement component, requiring students to develop their projects in real-life contexts and gather evidence to facilitate project iteration and synthesis. Learning strategies focus on student-centred interactive activities and, where possible, integrating technology (including AI and AI-enabled tools and platforms) to facilitate learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS451&psl_code=SEM2"
+    }
+  ]
+}

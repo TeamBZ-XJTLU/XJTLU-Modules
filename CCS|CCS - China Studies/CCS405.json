@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "Chinese Governance and Society: Transition, Development, and Social Change",
+  "module_code": "CCS405",
+  "offerings": [
+    {
+      "heading": "Chinese Governance and Society: Transition, Development, and Social Change",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "Chinese Governance and Society: Transition, Development, and Social Change",
+        "module_code": "CCS405",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Chinese Governance and Society: Transition, Development, and Social Change",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to guide students through hands-on exploration of key areas of research on society and governance in the context of China’s recent history of market transition, rapid economic development, and corresponding social change. Through a series of case studies, focused on prominent issues in contemporary Chinese society, students will develop critical understandings of how domestic and international researchers, policymakers, and analysts have approached governance and economic reforms, development, and social change in contemporary China. By developing a critical interpretation on these existing analyses, students will build and implement frameworks for understanding a key contemporary issue of their choice. This required module is particularly suited for students entering into careers where a critical understanding of social change and development in contemporary China is useful, including education, public service, and others.",
+        "Learning outcomes": "A. Summarise key debates in academic literature on Chinese governance, development, and social change. B. Extrapolate from specific case studies to link specific changes to broader prospects for social development in contemporary China C. Apply social science theories to critically evaluate the impact of governance and economic development on contemporary Chinese society D. Generate effective research frameworks for understanding key questions in contemporary China",
+        "Method of teaching and learning": "This is a seminar-based module in which students are expected to actively contribute to their own and each other’s learning through active discussion in structured weekly seminar discussions and periodic workshops addressing special topics. The module leader will use minimal lectures to provide introductions to weekly seminar sessions, but students should expect to actively speak and contribute. Generative AI will be integrated into learning and teaching, as well as in the assessment process."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS405&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Sustainable business transformation",
+  "module_code": "SMO212",
+  "offerings": [
+    {
+      "heading": "Sustainable business transformation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Sustainable business transformation",
+        "module_code": "SMO212",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Sustainable business transformation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Companies need to align their purpose, governance, culture, leadership and strategy with long-term value creation for society to motivate their people and thrive commercially as sustainable businesses. This module provides comprehensive knowledge and broad perspective on sustainable business transformation. This model will help students understand how companies adjust their business strategy, products, HRM practice and information reporting to satisfy the stakeholders’ expectation and develop the capability to deal with new opportunities and threats. The module also provides students with skills to propose sustainable business solutions in real business context.",
+        "Learning outcomes": "A Acquire comprehensive knowledge of the most important terms and concept of sustainability, sustainable ecosystem, stakeholders, and non-financial information disclosure B Comprehend the complexity of SDG goals, three bottom lies, and sustainable business transformation C Acquire comprehensive knowledge of sustainable business practices including ESG strategy and reporting, sustainable HRM, and sustainable marketing D Critically evaluate and propose sustainable business transformation on action for climate E Critically evaluate and propose sustainable business transformation on action for people",
+        "Method of teaching and learning": "Methods of teaching and learning include a combination of lectures (which teach basic concepts and principles), tutorials (which are interactive and designed to enable students to apply and discuss their knowledge to analyse real cases), as well as the university's virtual learning environment (i.e., Learning Mall), which will be used for dissemination of materials and providing feedback to students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO212&psl_code=SEM1"
+    }
+  ]
+}

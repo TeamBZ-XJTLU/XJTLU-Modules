@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "UPD",
+    "full_name": "Urban Planning and Design"
+  },
+  "full_name": "Thematic Studio of Urban Planning/Design",
+  "module_code": "UPD308",
+  "offerings": [
+    {
+      "heading": "Thematic Studio of Urban Planning/Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "Thematic Studio of Urban Planning/Design",
+        "module_code": "UPD308",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Thematic Studio of Urban Planning/Design",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides practical studio experience that combines various analytical and interpretive skills essential for the integrated discipline of urban planning and design. The main goal is to identify key issues and debates within a specific area of study and to develop an urban development framework, including action strategies and urban protocols, to address critical concerns. This module acts as a bridge between theoretical knowledge and practical exercises in urban planning and design.",
+        "Learning outcomes": "A. critically evaluate the global agenda for planning and be capable of relating it to the contemporary practice of urban planning and design; B. examine complexities in the practice of urban planning and design, such as strategic decision-making processes and urban protocol development procedures; C. allocate appropriate instruments, techniques and methods to establish the urban development framework to address concrete examples of urban and rural issues; D. demonstrate comprehensive verbal, written and graphical presentation skills to communicate the urban development framework professionally.",
+        "Method of teaching and learning": "The module aims to offer a diverse learning experience that emphasises both knowledge and skill development. It includes lectures, seminars, case studies, practical exercises, and tutorials. By exposing students to various issues and debates, as well as the techniques and methods used in planning and design, the module deepens students' understanding of the complexities involved in contemporary urban and rural issues. It also highlights empirical approaches to global planning agendas in real-world contexts. Studio-based tutorials will facilitate learning, equipping students with the tools and techniques needed to successfully complete their projects. Special attention will be given to specific spatial and social contexts where particular planning and design approaches are applied. The site selection, programmes, and scales of intervention will be based on the spatial, environmental, and socio-economic issues affecting the area."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD308&psl_code=SEM1"
+    }
+  ]
+}

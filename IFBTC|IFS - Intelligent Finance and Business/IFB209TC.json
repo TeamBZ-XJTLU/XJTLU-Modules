@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Logistics and Distribution",
+  "module_code": "IFB209TC",
+  "offerings": [
+    {
+      "heading": "Logistics and Distribution",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Logistics and Distribution",
+        "module_code": "IFB209TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Logistics and Distribution",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module is to provide students with a thorough grounding in contemporary logistics operations and transportation. Specific topics include intermodal operations, transportation selection, distribution management, third-party logistics, reverse and green logistics services, maritime logistics, the concept of adding value in logistics and optimising logistics operations",
+        "Learning outcomes": "A. Critically understand the role and importance of logistics in competitive business performance. B. Demonstrate an in-depth understanding of the various transportation modes. C. Understand and design the logistics network. D. Demonstrate an in-depth understanding of the importance of green logistics and the impact on the environment and business sustainability. E. Identify and apply methods and techniques for improving logistics efficiency and sustainability.",
+        "Method of teaching and learning": "A wide range of textbooks are suggested as supplementary reading and video cases are used to support the lecture material. References to journal articles will expose students to current developments and applications as well as providing a critical view of the concepts covered. Use of best-practice websites will be utilised to further expose students to practical case studies. Case studies will be used to support the teaching and learning; Practical sessions will be held to use planning and analysis tools"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB209TC&psl_code=SEM2"
+    }
+  ]
+}

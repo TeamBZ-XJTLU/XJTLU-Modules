@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DES",
+    "domain_code": "DES",
+    "full_name": "Design"
+  },
+  "full_name": "Urban and Landscape Design Studio",
+  "module_code": "DES409",
+  "offerings": [
+    {
+      "heading": "Urban and Landscape Design Studio",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DES",
+        "full_name": "Urban and Landscape Design Studio",
+        "module_code": "DES409",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Urban and Landscape Design Studio",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The Urban and Landscape Design Studio provides students with a dynamic and interactive studio environment, aimed at applying advanced knowledge of urban design and landscape design. This module emphasizes the practical application of historical and theoretical insights to develop tangible design solutions. These solutions address complex spatial issues in urban and rural development and regeneration projects, incorporating diverse social, cultural, economic, or environmental considerations. The main objectives of the module include offering a multi-scalar approach to urban and landscape design, where the analysis of anthropized and stratified urban spaces and landscapes is crucial to the design process. Mapping geographical, morphological, topological and human activities serves as a foundation for initiating the transformative design process within the projects undertaken in the module. The module aims to cultivate a research-oriented understanding of urban and landscape design as catalysts for new creative and productive processes that promote circular economy and sustainability. Design projects within the module are structured to engage diverse social groups and alternative lifestyles, fostering inclusivity and integration. Exploration of new policies for urbanized and digitalized built environments is encouraged, with a focus on integrating technological advancements into urban and rural spatial transformation. The incorporation of technology in the design process becomes an integral part of new planning, design, and management system in contemporary living environment. Students are encouraged to explore new typologies and design solutions that respond to contemporary needs and unique lifestyles. The module serves as a collaborative platform for students, faculty, and external stakeholders, promoting critical discourse, creative exploration, and the application of diverse design and presentation skills. The holistic approach of the module ensures that students gain a deep theoretical understanding of urban and landscape design as an interdisciplinary tool for developing innovative and practical solutions to identified contemporary challenges. The module contributes significantly to the creation of sustainable, culturally-enriched, and ecologically-responsive urban environments, aligning with the educational goals of fostering interdisciplinary learning, critical thinking, and innovative problem-solving in urban processes.",
+        "Learning outcomes": "A. Recognize and analyse the historical stratification of urban spaces and landscapes, effectively mapping geographical, morphological, topological and human activities to conceptualize the evolving narrative of the environment. B. Interpret and integrate key theoretical principles that support the conceptual and operative role of urban and landscape design and apply them to design projects. C. Demonstrate an ability to identify research resources to set and explore a relevant research question critically and in relation to design projects. D. Effectively combine design techniques, including advanced digital technologies like AI generative software, to explore complex contemporary situations and propose innovative and practical solutions with site-specific design strategies. E. Manage a comprehensive range of visual, oral, and written media and methods to test, analyze, critically appraise and explain design proposals effectively.",
+        "Method of teaching and learning": "The module is centred around the application of knowledge and skills to the development of a design proposal in response to a brief and to analysis and research conducted by the students. The course is taught in weekly sessions articulated in lectures and design tutorials. The former set the theoretical framework and the design problem, while the latter provide guidance and supervision in the development of the project. Tutorial time includes individual and group discussion, as well as design review and critique. Students are required to study, conduct research, and develop their proposals independently in their self-study time."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DES409&psl_code=SEM2"
+    }
+  ]
+}

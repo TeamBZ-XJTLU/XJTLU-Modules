@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MFETC",
+    "full_name": "Manufacturing Engineering"
+  },
+  "full_name": "Additive Manufacturing",
+  "module_code": "MFE208TC",
+  "offerings": [
+    {
+      "heading": "Additive Manufacturing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MFETC",
+        "full_name": "Additive Manufacturing",
+        "module_code": "MFE208TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Additive Manufacturing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to cover the fundamentals of additive manufacturing processes through introducing the student to modern manufacturing with the emphasis of fundamental principles, models, processing technologies and materials. The student will learn additive manufacturing processes including fused deposition molding, selective laser sintering, injet printing, stereolithography and so on. The student will learn how to choose the additive manufacturing technologies under specific requirements to simplify production processes, and to minimize energy use and environmental impact. A project is an integral part of this course and exposes the student to various additive manufacturing processes and practices.",
+        "Learning outcomes": "A Demonstrate understanding of basic concepts, history, classification and principles of Additive Manufacturing. B Master the necessary skills and tools to design, analyze and test models in Additive Manufacturing. C Demonstrate understanding of the fundamental principles, processing technologies and characteristics in Additive Manufacturing with different types of materials. D Demonstrate understanding of the core techniques, principles and functions of Additive Manufacturing applications in different major domains.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures, tutorials, supervised laboratory sessions and projects."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MFE208TC&psl_code=SEM2"
+    }
+  ]
+}

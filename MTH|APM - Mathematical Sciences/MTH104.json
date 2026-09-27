@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "APM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Introduction to Statistics",
+  "module_code": "MTH104",
+  "offerings": [
+    {
+      "heading": "Introduction to Statistics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Introduction to Statistics",
+        "module_code": "MTH104",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Statistics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To introduce topics in Statistics and to describe and discuss the potential scope of their applications. To describe the scope of the application of these methods.",
+        "Learning outcomes": "A. Describe statistical data. B. Use the Binomial, Poisson, Exponential and Normal distributions. C. Perform simple goodness-of-fit tests.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH104&psl_code=SEM2"
+    }
+  ]
+}

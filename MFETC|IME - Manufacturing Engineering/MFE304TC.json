@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MFETC",
+    "full_name": "Manufacturing Engineering"
+  },
+  "full_name": "Haier Ren Dan He Yi Management Model(Haier)",
+  "module_code": "MFE304TC",
+  "offerings": [
+    {
+      "heading": "Haier Ren Dan He Yi Management Model(Haier)",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MFETC",
+        "full_name": "Haier Ren Dan He Yi Management Model(Haier)",
+        "module_code": "MFE304TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Haier Ren Dan He Yi Management Model(Haier)",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students the innovative “Ren Dan He Yi” management model proposed by Haier, which is also regarded as the “Win-win model of Individual-Goal Combination”. This model fits in with the internet age by shifting the center from the company to the users, and has shown great success. Students will also have opportunities to apply this model to practice in the industry after graduating from this programme.",
+        "Learning outcomes": "A. Demonstrate understanding of the background, history and the logic of reform of Haier’s “Ren dan he yi” management model; B. Show familiarity with the concepts and implementation of the “Ren dan he yi” model; C. Master the 5-step implementation approach: strategies, organization, operation, driving mechanisms and close-loop optimization; D. Demonstrate appreciation of the “Vertical and Horizontal Axis Matching Table”, the “User-Oriented Gathering and Dismiss” model, the “Win-win Profit Table”, The “Individual-pay” scheme and the “Dynamic Partnership” model in practice; E. Demonstrate understanding of the schemes, methodology, and essentials of innovation; F. Show knowledge of the ecological value of the “Ren dan he yi” model; G. Apply the innovation theories to practice.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. This module will be delivered through formal lectures, seminars and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MFE304TC&psl_code=SEM2"
+    }
+  ]
+}

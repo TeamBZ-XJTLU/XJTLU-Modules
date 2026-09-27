@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "Paths to Wisdom: Chinese Philosophy and its Contemporary Significance",
+  "module_code": "CCS313",
+  "offerings": [
+    {
+      "heading": "Paths to Wisdom: Chinese Philosophy and its Contemporary Significance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "Paths to Wisdom: Chinese Philosophy and its Contemporary Significance",
+        "module_code": "CCS313",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Paths to Wisdom: Chinese Philosophy and its Contemporary Significance",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module brings voices from the past into modern contexts, facilitating an understanding of the continuity and transformation of intellectual traditions and their application to contemporary Chinese society. The module, utilising the concept of ‘Wisdom’ as a research tool, aims to explore the modern significance of specific traits of Classical Chinese thought. It is designed to clarify how ideas and principles from Classical Chinese Philosophy remain a vital force in contemporary society, influencing ethical standards and guiding individuals towards self-realisation. Through various learning activities—such as in-class discussions, debates, textual and visual analyses, and interactive use of digital tools and sources—it will enable students to develop a critical understanding of intellectual traditions and their role in shaping the Chinese way of life. Upon completion of the module, students shall not only be well-acquainted with the core ideas of Classical Chinese philosophy but also be able to grasp the dynamic interplay between the tradition and modernity.",
+        "Learning outcomes": "A Utilise the source texts for building compelling arguments and empirical grounds for presented conclusions. B Critically evaluate the genesis and coherence of philosophical concepts and theories, particularly in the context of their contemporary utility. C Articulate the significance of the ‘voices of the past’ in the context of modern society. D Articulate and defend a philosophical thesis concerning the tension between the past and present, particularly in the context of perpetuating values and socio-ethical ideals.",
+        "Method of teaching and learning": "This module is a research-led endeavour delivered through a series of lectures, seminars, and individual research tasks. Lectures, divided into three interconnected blocks, aim to provide participants with in-depth knowledge of the selected schools of thought, the ideas they promote, arguments they utilise, and their relevance in a broader socio-historical context. Seminars will employ various learning activities, such as in-class discussions, debates, textual and visual analyses, and interactive use of online tools and sources, to encourage a critical appreciation of ancient wisdom within the context of modern society. Finally, through individual projects, participants will deepen their understanding of the module content, enhancing their critical thinking skills and their ability to apply philosophical concepts to everyday life."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS313&psl_code=SEM2"
+    }
+  ]
+}

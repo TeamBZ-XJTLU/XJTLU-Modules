@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ELC",
+    "domain_code": "EAP",
+    "full_name": "English for Academic Purposes"
+  },
+  "full_name": "Essential Research Skills for Academic Achievement",
+  "module_code": "EAP048",
+  "offerings": [
+    {
+      "heading": "Essential Research Skills for Academic Achievement",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EAP",
+        "full_name": "Essential Research Skills for Academic Achievement",
+        "module_code": "EAP048",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Essential Research Skills for Academic Achievement",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to extend students’ general and academic English language and study skills, with an emphasis on critical thinking and independent learning, in order to allow them to function more effectively in other university modules, as well as in their overall academic career. The module curriculum and assessments are designed to permit students from the majority of degree programs to develop their academic skills and written and spoken linguistic competencies as far as possible towards CEFR (Common European Framework of Reference for Languages) C2 level. This module is primarily designed for international students who enroll with an English proficiency of CEFR B2 level or higher.",
+        "Learning outcomes": "A. Demonstrate a range of academic reading skills, including locating relevant source material, and the ability to select appropriate information to complete academic tasks B. Demonstrate a range of academic research skills, including selecting and refining research questions, conducting small-scale research, and presenting and analysing this research C. Demonstrate a range of academic writing skills, including following structural outlines for academic tasks (e.g. a research report), using academic language, and applying academic integrity requirements. D. Demonstrate a range of academic speaking skills, including producing fluent and organised presentations, and responding relevantly to questions.",
+        "Method of teaching and learning": "Students will have four hours of classroom contact time (seminars) and approximately 8 hours of self-study per week. The seminars will be conducted using various EAP teaching approaches and methodologies that encourage communication, collaboration, and autonomous learning. All relevant EAP skills will be taught on the module, including sufficient linguistic input to maintain and/or increase students’ CEFR B2+ level. Students will also be given guidance on, and opportunities to practice the various skills mentioned in the learning outcomes. The self-study activities will be extensions and/or consolidation of work carried out in the seminars. Speaking coursework assessments will be conducted during regular teaching weeks. Educational technologies, such as Generative Al tools, will be utilized in the teaching and learning activities of the module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EAP048&psl_code=SEM1"
+    }
+  ]
+}

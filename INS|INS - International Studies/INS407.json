@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Global Transformations and Crises",
+  "module_code": "INS407",
+  "offerings": [
+    {
+      "heading": "Global Transformations and Crises",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Global Transformations and Crises",
+        "module_code": "INS407",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Global Transformations and Crises",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "After a long period of integration since the 1980s, the process of globalisation has in recent years turned from cooperative to conflictual. The Global Financial Crisis of 2008, the European Sovereign Debt Crisis, Brexit, and the rise in geoeconomic and geopolitical conflicts, such as the US-China ‘trade war’, are all phenomena pointing to a reordering or even retreat of globalisation. These processes have spurred new directions of research in political economy to investigate and explain the dynamic processes of transformation in the fields of trade, production and finance, and their relationship to domestic growth models, economic conflicts and crises. In this module, students will critically engage with these debates with two aims. On the one hand, to understand the processes in trade, production and finance that transform today’s global economy and critically evaluate their relationship with and effects on politics and society. On the other hand, students will engage with theoretical debates in the fields of international and comparative political economy to develop a critical understanding of competing analyses of the relationship between the political and the economic. This module equips students with a deep understanding of the complexities of international trade, production, and finance, which are crucial for navigating the political and economic challenges of contemporary international affairs and global business. The module’s emphasis on critical engagement with theoretical knowledge will support students in developing topics and questions for their MA dissertations. This is an advanced module in International and Comparative Political Economy. Students who are unfamiliar with basic concepts of Global Political Economy are recommended to take INS4XX in semester 1.",
+        "Learning outcomes": "A. Critically engage with and appraise current theoretical debates in Comparative and International Political Economy. B. Analyse and critically evaluate transformations in global trade, production, and finance. C. Analyse and critically evaluate the political economy of global economic imbalances. D. Analyse and critically evaluate the political economy of global economic crises. E. Analyse and critically evaluate how economic transformations drive political conflict and cooperation.",
+        "Method of teaching and learning": "The module is composed of lectures and seminars organised around structured reading group activities to facilitate deep reading and discussion. Additionally, the module relies on independent study and research."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS407&psl_code=SEM2"
+    }
+  ]
+}

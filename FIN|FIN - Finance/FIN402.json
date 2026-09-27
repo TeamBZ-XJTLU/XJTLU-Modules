@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FIN",
+    "domain_code": "FIN",
+    "full_name": "Finance"
+  },
+  "full_name": "Money and Banking",
+  "module_code": "FIN402",
+  "offerings": [
+    {
+      "heading": "Money and Banking",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FIN",
+        "full_name": "Money and Banking",
+        "module_code": "FIN402",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Money and Banking",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with a comprehensive overview of the modern financial system and an understanding of the relevant theory and practice. Through a series of learning activities on the following topics: money and money supply, interest rate, banks and other financial intermediaries, central bank and monetary policy, and financial crisis, students will be equipped with knowledge and analytical skills to analyze the problems in the real financial world.",
+        "Learning outcomes": "A. demonstrate knowledge of the various elements in the financial system sufficient for them to analyse and discuss their role in an economy, and how they relate to each other. B. demonstrate a theoretical background sufficient for them to understand why banks and other financial intermediaries exist and how they work. C. understand how a financial crisis may arise, how it can influence economic activity, and what the implications are for key policy issues. D. critically apply analytical skills to analyse key trends in banking, and to discuss the implications of policy change or other financial events.",
+        "Method of teaching and learning": "Lectures and seminars will be employed. In the lectures, students will acquire knowledge on relevant concepts and theories. In the seminars, students will have opportunity to apply the knowledge in various types of learning activities including problem solving, case study, paper discussion and presentations on certain topics."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN402&psl_code=SEM1"
+    }
+  ]
+}

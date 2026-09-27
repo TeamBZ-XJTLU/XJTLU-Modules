@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEH",
+    "domain_code": "ENT",
+    "full_name": "Entrepreneurship"
+  },
+  "full_name": "Doing Business in China",
+  "module_code": "ENT110TC",
+  "offerings": [
+    {
+      "heading": "Doing Business in China",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENT",
+        "full_name": "Doing Business in China",
+        "module_code": "ENT110TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Doing Business in China",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to help students understand the regionally diverse and dynamic business environment of China through consideration of the social and institutional variables in the context of informatization technologies.",
+        "Learning outcomes": "A Identify the main corporate institutions that shape the business environment in China. B Compare and contrast the different local ‘business models’ in China. C Demonstrate understanding of the business environment in China as a dynamic, informatized and hybrid sector that combines labour-intensive manufacturing with knowledge-based innovation. D Analyse case studies of foreign companies from different industries that have entered the Chinese market. E Analyse and discuss the ways in which different kinds of sources treat information. F Identify potential cross-cultural challenges in managing businesses in China and relevant strategies that effectively address these challenges.",
+        "Method of teaching and learning": "This module is integral to contemporary entrepreneurial education within XEC industry schools. Its teaching methodology is rooted in Syntegrative Education, focusing on supporting students in Syntegrative projects within a studio setting. Emphasising project-based learning and cross-disciplinary collaboration among XEC Industry Schools and industry partners. This module serves as a collaborative space for students to apply theoretical knowledge to real-world challenges, engaging in problem-based assessments. Industry experts' involvement enriches students' projects, fostering critical thinking skills essential for innovative problem-solving within the Chinese industry contexts. This methodology cultivates an inclusive, dynamic learning environment, equipping students with holistic skills necessary for success in China."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENT110TC&psl_code=SEM2"
+    }
+  ]
+}

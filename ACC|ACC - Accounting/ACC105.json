@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Introduction to Financial Accounting and Accountability",
+  "module_code": "ACC105",
+  "offerings": [
+    {
+      "heading": "Introduction to Financial Accounting and Accountability",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Introduction to Financial Accounting and Accountability",
+        "module_code": "ACC105",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Financial Accounting and Accountability",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to 1. provide students with an understanding of the basic principles of financial accounting. 2. teach students about the structure and content of the key financial statements of business organisations and the basic techniques for preparing such statements. 3. teach students an understanding of the fundamentals of the regulatory structure surrounding financial statements, who the main users of such financial statements are, and the main uses to which financial accounting information is put by users. 4. teach students the nature of accountability and its relevance to financial statements and their main users.",
+        "Learning outcomes": "A. Demonstrate an understanding of the structure and contents of the key financial statements of business organisations. B. Articulate the basic principles of financial accounting. C. Prepare basic financial statements of business organisations. D. Demonstrate an understanding of the fundamentals of the regulatory structure surrounding the statements. E. Demonstrate an understanding of who are the main users of financial statements and of the main uses to which financial accounting information is put by users. F. Demonstrate an understanding of the nature of accountability and its relevance to financial statements and their main users. G. Understand the relevance of financial accounting and accountability to students of business-related subjects who are non-accounting specialists.",
+        "Method of teaching and learning": "This module will be taught by using a combination of lectures and tutorials. Lectures will cover accounting principles and the preparation and the analysis of financial statements. Tutorials will be used to reinforce practical application through examples and discussion. Interactive Communications Environment (ICE), XJTLU's virtual learning environment, will be used to distribute lecture materials and relevant contemporary and academic articles."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC105&psl_code=SEM1"
+    }
+  ]
+}

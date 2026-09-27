@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Quantum Chemical Simulation for Molecular Properties",
+  "module_code": "CHE410",
+  "offerings": [
+    {
+      "heading": "Quantum Chemical Simulation for Molecular Properties",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "CHE",
+        "full_name": "Quantum Chemical Simulation for Molecular Properties",
+        "module_code": "CHE410",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Quantum Chemical Simulation for Molecular Properties",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to give the student a thorought understahding of a wide range of standard’ techniques that are used in determining molecular properties. These include the following spectroscopic techniques: 1H and 13C nuclear magnetic resonance (NMR) spectroscopy, infrared and Raman vibrational spectroscopy, UV-Vis absorption spectroscopy, UV-Vis emission spectroscopy. In addition, there are standard techniques to characterise the reaction thermodynamics and the rates of reactions. This new 5-credit module aims to give the student expertise in the calculation/simulation of a range of these standard chemical analysis techniques. These include: (a) Geometry optimization strategies; (b) modelling x-ray and ultra-violet photoelectron spectra (electronic ground state); (c) modelling excited electronic states, time-dependent DFT, simulating electronic absorption and emission spectra and determining vertical and adiabatic ionization potentials and electron affinities; (d) methods of frequency calculations (IR, Raman, and optically silent modes), modelling rotational broadening in frequency calculations, and modelling vibrational broadening in electronic absorption and emission spectra; (e) Simulating NMR spectra, including shielding tensors, and spin-spin couplings; (f) Reaction kinetics and thermodynamic, including potential energy surfaces, internal coordinates, predicting bond strengths and bond strain, heats of reaction, formation, etc., determining reaction pathways, predicting transition state energies and geometries, predicting reaction kinetics and rates of reaction. This Semester 2 module is a natural follow-on from CHE4XD taught in Semester 2. After completion of the module, the student will be in a position to undertake a final-year research project in any are of molecular computational chemistry.",
+        "Learning outcomes": "A Understand the various geometry optimization methods so that they can choose, with justification, a suitable geometry optimization method appropriate to their molecular problem, B Understand the principles underpinning the calculation of various spectroscopic transitions, including frontier orbital energy levels (i.e., modelling photoelectron, and electronic absorption and emission spectra), simulating vibrational IR and Raman spectra, and simulating NMR spectra – including chemical shifts and spin-spin coupling, C Understand quantum chemical methods for determining thermodynamical properties of molecules, including heats of formation and reaction, bond strengths and bond strain energies, reaction kinetics, including predicting rates of reaction, transition states, and reaction pathways.",
+        "Method of teaching and learning": "26 one-hour hour lectures and 8 two-hour computer labs."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE410&psl_code=SEM2"
+    }
+  ]
+}

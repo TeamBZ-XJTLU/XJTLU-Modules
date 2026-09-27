@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DES",
+    "domain_code": "DES",
+    "full_name": "Design"
+  },
+  "full_name": "Final Year Project",
+  "module_code": "DES302",
+  "offerings": [
+    {
+      "heading": "Final Year Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DES",
+        "full_name": "Final Year Project",
+        "module_code": "DES302",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 3",
+        "Module Title": "Final Year Project",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The Final Year Project is a capstone module that enables students to demonstrate their ability to independently conceive, develop, and execute a substantial design or research project within their discipline (Architecture, Civil Engineering, Industrial Design, Urban Planning & Design). The module aims to: • Foster independent critical thinking, problem-solving and creativity. • Develop advanced analytical and technical skills. • Encourage interdisciplinary and innovative approaches. • Refine communication skills, including an academically rigorous use of discipline-specific English language • Promote an ethical, sustainable, and socially responsible approach to Design and Engineering • Reinforce students’ understanding of AI and other emerging technologies, and their ability to apply them to complex projects in an impactful, ethical and reflective fashion. • Prepare students for professional practice or further academic study.",
+        "Learning outcomes": "A. Critically and creatively engage with theoretical, technical, and contextual frameworks and discourses relevant to their discipline. B. Formulate and justify a clear project rationale, objectives, and methodology, based on a comprehensive review of recent developments in the subject area. C. Identify and apply appropriate AI and other emerging-technologies tools to assist in research and/or project development. D. Plan, manage and execute a complex and project demonstrating a coherent synthesis of knowledge and skills meeting the relevant degree-level learning outcomes. E. Communicate ideas effectively with a variety of media, demonstrating level-appropriate linguistic competence, academic rigour and adherence to relevant professional standards. F. Critically evaluate and reflect on the ethical, social, and environmental implications of their projects.",
+        "Method of teaching and learning": "The Final Year Project is centred around independent and self-directed learning, whereby each student develops their work individually, under the guidance of one main academic supervisor and, where appropriate, co-supervisors. Their work is supported by formal teaching delivered through a structured blend of lectures, seminars and tutorials. The latter are not timetabled, but arranged by the supervisor(s) individually or in small groups to provide targeted guidance and formative feedback for the development of each project. The assessment is conducted through two interim components that ensure adequate progress monitoring and integrative feedback, and a final submission and defence, when students will present a complete and coherent project through which their academic attainment will be assessed."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DES302&psl_code=ACYR"
+    }
+  ]
+}

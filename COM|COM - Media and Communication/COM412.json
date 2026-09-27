@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Popular Culture and Fandom Studies",
+  "module_code": "COM412",
+  "offerings": [
+    {
+      "heading": "Popular Culture and Fandom Studies",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Popular Culture and Fandom Studies",
+        "module_code": "COM412",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Popular Culture and Fandom Studies",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Popular Culture and Fandom Studies promotes reflective engagement with the world around us and provides tools for thinking critically about how meaning is created, reinforced, and circulated. By privileging diverse approaches, the module equips students with a robust framework for analyzing popular culture. The first part of the module, “The Pop Culture Toolbox,” outlines the development of pop culture studies and explains the digital ethnography, introducing students to a variety of critical lenses including Marxism, feminism, postcolonialism, and critical cultural theories. This foundation enables students to approach popular culture from diverse perspectives, fostering a comprehensive understanding. The second part of the module provides a series of units built around topics central to popular culture studies: television and film, music, comics, gaming, social media, and fandom. These units are prepared in consultation with subject area experts, ensuring that the content is both current and relevant. This structure not only broadens students’ knowledge base but also allows them to engage deeply with specific areas of interest. Overall, this module examines popular culture from both Chinese and global perspectives. As such, it provides students with critical knowledge and research skills that particularly complement (but are not limited to) the Global Media and China stream of the MSc Media and Communication programme. Specifically, the module will help students develop: 1. Critical Thinking Skills: Critically analyze and interpret popular culture texts and phenomena using diverse frameworks. 2. Interdisciplinary Approach: Explorea variety of critical lenses, including Marxism, feminism, postcolonialism, and cultural theories, to foster a multifaceted understanding of popular culture. 3. Reflective Engagement: Reflect on their own engagement with popular culture - and how it shapes and is shaped by societal values and norms - through digital ethnography. 4. Understandings of Cultural Significance: Provide tools for thinking critically about how meaning is created, reinforced, and circulated in popular culture. 5. Examination of Popular Culture Pivot Points: Explore key and complex concepts within popular culture, such as authenticity, intersectionality, intertextuality, and subculture. 6. Diverse Media Approaches: Examine various media forms (e.g., television, film, music, comics, gaming, social media) and associated fandom, considering the ways they impact and reflect contemporary society.",
+        "Learning outcomes": "A. Use digital ethnography to research specific areas of popular culture (e.g., television, film, music, comics, gaming, social media, fandom), demonstrating an ability to produce well-supported arguments and critically reflect on their own engagement with popular culture. B. Evaluate the significance of key concepts such as authenticity, intersectionality, intertextuality, and subculture in the context of popular culture, and explain how these concepts influence the production and consumption of media. C.Critically analyze popular culture texts and phenomena using diverse frameworks, identifying how meaning is created, reinforced, and circulated within various media. D. Apply a range of key theories to the study of popular culture, illustrating how these perspectives can uncover underlying power dynamics and social structures.",
+        "Method of teaching and learning": "Lectures: • Purpose: Provide knowledge on key concepts, theories, and frameworks in popular culture and fandom studies. • Approach: Interactive lectures with multimedia presentations, incorporating film clips, music samples, and other pop culture artifacts to illustrate theoretical points. Seminars: • Purpose: Facilitate in-depth discussion and critical engagement with readings and lecture content. • Approach: Small group seminars encouraging active participation, debate, and collaborative analysis of case studies and popular culture texts. Media Screenings and Analysis Sessions: • Purpose: Enhance understanding of media texts through collective viewing and critical discussion. • Approach: Scheduled screenings of relevant television shows, films, music videos, and other media, followed by guided analysis and group discussions. Fieldwork Assignments: • Research Projects: Students undertake mini ethnographic projects, choosing a specific online community or digital platform to study. • Data Collection: Guided exercises in gathering data through methods like screen capturing, social media monitoring, and online surveys."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM412&psl_code=SEM2"
+    }
+  ]
+}

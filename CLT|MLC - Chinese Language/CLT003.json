@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MLC",
+    "domain_code": "CLT",
+    "full_name": "Chinese Language"
+  },
+  "full_name": "Chinese Language 3",
+  "module_code": "CLT003",
+  "offerings": [
+    {
+      "heading": "Chinese Language 3",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CLT",
+        "full_name": "Chinese Language 3",
+        "module_code": "CLT003",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Chinese Language 3",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to extend students’ Chinese language and cultural knowledge, so that they can deal with most situations likely to arise while living and studying in China; this module will help to bring their Chinese language skills to a level equivalent to CEFR A2-. All the Chinese language modules have been developed taking into account the QAA benchmark statements for a full or minor component in a language. QAA benchmark statements relate to the language component comprising at least one-third of the study total, resulting in students at the end of the relevant degree programme being at level C1. These Chinese modules make up less than one third of study and so the realistic minimum that would be achieved for a student starting at a beginner level in year 1 is CEFR B1+, though students with some initial knowledge would be at B2+.",
+        "Learning outcomes": "A. Demonstrate understanding of everyday topics when spoken slowly in Chinese B. Demonstrate understanding of short and simple texts in Chinese containing familiar vocabulary C. Describe past events and future plans orally, and ask and answer simple questions on very familiar topics in Chinese D. Write about everyday topics in Chinese using simple structures E. Demonstrate basic knowledge and understanding of Chinese cultures and societies",
+        "Method of teaching and learning": "Communicative language teaching involves a high level of interaction between teacher and students. Teaching and assessment will revolve around the setting and completion of specified language tasks. This module includes 2*2 hours seminars plus 1 hour lecture per week. Students will have 4 hours per week of integrated skills class, covering reading, writing, listening and speaking skills. The lecture, which is a large group practice and review session, will be designed to support student learning in and after class."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CLT003&psl_code=SEM1"
+    }
+  ]
+}

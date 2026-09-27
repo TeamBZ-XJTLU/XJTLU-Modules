@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Digital Business Technology and Management",
+  "module_code": "IOM430",
+  "offerings": [
+    {
+      "heading": "Digital Business Technology and Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Digital Business Technology and Management",
+        "module_code": "IOM430",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Digital Business Technology and Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The Digital Business Technology Management module introduces essential technologies and management practices for optimizing digital value chains and supply chains. Students will explore the architecture of digital business applications, communication technologies, and information management systems that enhance operational efficiency across various supply chain processes. The module covers data management techniques for big data applications and the implications of disruptive technologies on both value chain and supply chain dynamics. Students will identify and evaluate digital business and AI solutions, developing a critical understanding of the technical issues involved. Through hands-on experience with innovative tools, students will learn to leverage technology for enhancing value creation and operational performance. Emphasizing digital business and technology innovation, this module prepares students to effectively navigate the dynamic digital environment of value and supply chain management.",
+        "Learning outcomes": "A) Demonstrate a critical awareness of the development and impact of digital business and AI technologies, equipping them to address real-world business challenges. B) Understand how various digital technologies and management practices can enhance business efficiency and effectiveness. C) Identify key digital business solutions that address specific needs in various contexts. D) Develop problem-solving skills through the analysis of case studies relevant to digital business scenarios.",
+        "Method of teaching and learning": "Lectures and Interactive Discussions: Lectures will provide foundational knowledge on digital business technologies and management practices, while interactive discussions will encourage students to engage actively with the material and share their perspectives. This approach fosters a collaborative learning environment, promoting critical thinking and deeper exploration of key topics. Case Studies: Students will analyze real-world case studies to develop problem-solving skills and apply theoretical knowledge to practical situations. This method enhances understanding of digital business challenges and innovative solutions. Guest Speakers: Industry professionals will be invited to share insights on current trends and challenges in digital business, offering practical perspectives and networking opportunities."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM430&psl_code=SEM1"
+    },
+    {
+      "heading": "Digital Business Technology and Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Digital Business Technology and Management",
+        "module_code": "IOM430",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Digital Business Technology and Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The Digital Business Technology Management module introduces essential technologies and management practices for optimizing digital value chains and supply chains. Students will explore the architecture of digital business applications, communication technologies, and information management systems that enhance operational efficiency across various supply chain processes. The module covers data management techniques for big data applications and the implications of disruptive technologies on both value chain and supply chain dynamics. Students will identify and evaluate digital business and AI solutions, developing a critical understanding of the technical issues involved. Through hands-on experience with innovative tools, students will learn to leverage technology for enhancing value creation and operational performance. Emphasizing digital business and technology innovation, this module prepares students to effectively navigate the dynamic digital environment of value and supply chain management.",
+        "Learning outcomes": "A) Demonstrate a critical awareness of the development and impact of digital business and AI technologies, equipping them to address real-world business challenges. B) Understand how various digital technologies and management practices can enhance business efficiency and effectiveness. C) Identify key digital business solutions that address specific needs in various contexts. D) Develop problem-solving skills through the analysis of case studies relevant to digital business scenarios.",
+        "Method of teaching and learning": "Lectures and Interactive Discussions: Lectures will provide foundational knowledge on digital business technologies and management practices, while interactive discussions will encourage students to engage actively with the material and share their perspectives. This approach fosters a collaborative learning environment, promoting critical thinking and deeper exploration of key topics. Case Studies: Students will analyze real-world case studies to develop problem-solving skills and apply theoretical knowledge to practical situations. This method enhances understanding of digital business challenges and innovative solutions. Guest Speakers: Industry professionals will be invited to share insights on current trends and challenges in digital business, offering practical perspectives and networking opportunities."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM430&psl_code=SEM2"
+    }
+  ]
+}

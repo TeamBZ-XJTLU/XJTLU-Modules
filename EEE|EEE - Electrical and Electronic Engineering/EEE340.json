@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Protective Relaying",
+  "module_code": "EEE340",
+  "offerings": [
+    {
+      "heading": "Protective Relaying",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Protective Relaying",
+        "module_code": "EEE340",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Protective Relaying",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to help students develop a comprehensive understanding of three core areas: the fundamental principles of power system relay protection, the essential foundational knowledge required, and the operating characteristics and analytical methods of such protection systems. Additionally, it equips students with targeted protection methodologies for various key components, including generators, transformers, transmission lines, buses, and pilot protection. Aligned with the overall objectives of the Electrical Engineering programme, this module ultimately prepares students for professional roles in the electrical power industry.",
+        "Learning outcomes": "A. Evaluate the fundamental principles and requirements of power system protection (e.g., selectivity, speed, reliability) and assess their role and evolution in the context of modern smart grids. B. Analyse the operating principles and application methodologies of key protection equipment for different power system components. C. Design and validate protection schemes for specific power system applications, performing all necessary coordination and relevant calculations. D. Diagnose vulnerabilities or mis-operations in existing protection systems and propose engineered solutions to rectify them. E. Critically appraise current academic research on power system protection and formulate academic insights on topics related to system security or stability based on the appraisement results.",
+        "Method of teaching and learning": "This module adopts a diverse range of teaching methods to help students master the complex, advanced technologies of power system protection and various types of related equipment. These methods include formal yet engaging lectures that focus on explaining key concepts, principles, and analytical methods, along with hands-on operation, verification, and phenomenological analysis of power systems and their faults, as well as analytical exploration integrated with cutting-edge technologies like artificial intelligence and targeted, challenging tutorials. Additionally, students are required to conduct focused independent learning aligned with current mainstream technical directions such as smart grids and the Internet of Things."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE340&psl_code=SEM2"
+    }
+  ]
+}

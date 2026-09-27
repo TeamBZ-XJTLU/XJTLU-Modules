@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MEC",
+    "domain_code": "MEC",
+    "full_name": "Mechatronic Systems"
+  },
+  "full_name": "Instrumentation and Control System",
+  "module_code": "MEC208",
+  "offerings": [
+    {
+      "heading": "Instrumentation and Control System",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MEC",
+        "full_name": "Instrumentation and Control System",
+        "module_code": "MEC208",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Instrumentation and Control System",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with foundational knowledge in designing and analyzing instrumentation and control systems through integrated theoretical and practical approaches. It focuses on understanding sensors, transducers, and their integration with data acquisition units, emphasizing signal conditioning, error analysis, and noise reduction techniques. The module also covers mathematical modeling of dynamic systems, including transfer functions and Laplace transforms, alongside stability assessment methods such as Routh-Hurwitz criteria and frequency-domain analysis. Students will learn to design feedback controllers (e.g., PID) and utilize tools like root locus and Bode plots for system synthesis. By combining theoretical concepts with computer-aided design and laboratory experiments, the module prepares students to select, configure, and optimize instrumentation systems for real-world engineering applications.",
+        "Learning outcomes": "A. Apply knowledge of sensor configuration to understand the physical effects captured by instrumentation in control systems. B. Evaluate the inter-dependence between control systems and instrumentation, and its implications on system performance and risk. C. Analyse the dynamic response of first- and second-order systems based on the transfer function using Laplace transform. D. Assess system stability using Routh Array, Root Locus, and the frequency response methods. E. Design and implement feedback controllers, including PID and state feedback controllers, to stabilize and optimize system performance.",
+        "Method of teaching and learning": "This module combines theory and practice to build expertise in instrumentation and control systems. Lectures introduce core concepts like sensor configurations, transfer functions, and stability analysis, using problem-solving exercises and real-world case studies to help students analyze dynamic system behavior and evaluate stability. Lab sessions focus on hands-on experiments, such as observing physical effects in sensors, to strengthen practical skills and collaborative problem-solving. Students also use simulation software to design and test feedback controllers, like PID tuning, and explore strategies to optimize system performance. Independent study encourages students to deepen their understanding by reviewing key concepts, analyzing experimental data from labs, and refining controller designs. Throughout the module, students receive guidance through interactive discussions, feedback during labs and tutorials, and access to tools/resources for self-paced learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MEC208&psl_code=SEM2"
+    }
+  ]
+}

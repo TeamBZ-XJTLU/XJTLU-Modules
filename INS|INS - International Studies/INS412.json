@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Global Political Economy",
+  "module_code": "INS412",
+  "offerings": [
+    {
+      "heading": "Global Political Economy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Global Political Economy",
+        "module_code": "INS412",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Global Political Economy",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course aims to provide students the foundational knowledge on the operation of the world economy and how economic, political, and institutional factors contribute to the creation of global economic order. It focuses on the fascinating and rapidly evolving interaction between economics, politics, and policy in global affairs. Moreover, it will help students understand today's most pressing and complex global economic trends and policy issues. As an introductory course to Global Political Economy (GPE), the course will first offer a general survey of the key concepts and major theoretical perspectives in the study of GPE. The second part will cover various policy issues and discuss how the world economy is transformed by globalization, focusing on the development of various international and regional institutions that govern the current economic order. The last part will offer some introduction to key trends in today’s global economic landscape.",
+        "Learning outcomes": "A. Analyze the evolution of the world economic order and how different factors contribute to the growth and development of the global economy; B. Apply basic concepts, theories, and analytical approaches to examine the power relations that shape the world economic order; C. Explain the key characteristics, processes, and operations of the modern world economy, and its interactions with national, regional, and international politics and institutions; D. Evaluate the roles and functions of major international institutions and organizations, such as the IMF, WTO, and World Bank; E. Assess the role of nation-states within the context of the globalized economy; F. Identify and analyze key trends in today’s global economic affairs, including the growing importance of sustainability, and the role of digital innovation and green technologies.",
+        "Method of teaching and learning": "The course consists of lectures followed by seminars. The lectures will focus on critically analysing the basic characteristics, process, and operation of the modern world economy and its interaction with national, regional, and international politics and institutions. During the lectures, students are encouraged to actively exchange ideas and raise questions about the topic(s) under discussion. The seminars will help students to review the concepts and theories acquired in lectures to real-life current issues and debates in the contemporary world economy. Students will form small groups and make a short presentation (about 20’) related to the topic that will be discussed in the specific session. Students can choose their presentation topics and ask for feedback from the instructor."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS412&psl_code=SEM1"
+    }
+  ]
+}

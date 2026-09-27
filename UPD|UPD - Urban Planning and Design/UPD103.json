@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "UPD",
+    "full_name": "Urban Planning and Design"
+  },
+  "full_name": "Issues and Practice of Planning in China",
+  "module_code": "UPD103",
+  "offerings": [
+    {
+      "heading": "Issues and Practice of Planning in China",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "Issues and Practice of Planning in China",
+        "module_code": "UPD103",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Issues and Practice of Planning in China",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is intended to provide students with an understanding of the variety, complexity and dynamism of urban development and planning issues in China that are of concern to planners and the planning field. The objectives of this module are to give students: • a fundamental understanding of Chinese urban development and planning issues arising from the conflicting interests among different social groups or stakeholders in both the public and private domain; • a further understanding of China’s planning system and practices in a context of rapid socio-economic and technological changes; • a deeper insight into the interwoven relationships between planning interventions and demographic, social, economic and environmental changes in the Chinese local context.",
+        "Learning outcomes": "A Identify Chinese urban development and planning issues arising from the conflicting interests among different social groups or stakeholders in both the public and private domain. B Describe how China’s planning system and practices work overall in a context of rapid socio-economic and technological changes. C Analyse the interwoven relationships between planning interventions and demographic, social, economic and environmental changes in the Chinese local context. D Explain the main concerns of planners today and the factors that have shaped contemporary policy priorities.",
+        "Method of teaching and learning": "The module is delivered mainly through lectures and tutorials. Case studies and practice roundtable will deepen theoretical understanding. Tutorials provide opportunities for hands on activities, group work and peer learning. AI tools and platforms will facilitate learning activities."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD103&psl_code=SEM1"
+    }
+  ]
+}

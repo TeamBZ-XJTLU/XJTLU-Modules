@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "China and the Digital Revolution",
+  "module_code": "FTA232",
+  "offerings": [
+    {
+      "heading": "China and the Digital Revolution",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "China and the Digital Revolution",
+        "module_code": "FTA232",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "China and the Digital Revolution",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to the global digital revolutions and their impact contemporary societies and the nature, impact and issues arising as they relate to contemporary Chinese society. The module focuses on digital revolutions related to the media industries and the cultivation of talent. The module utilizes practice-based work and project assessments for students to express their knowledge and understanding creatively. Ultimately, the module prepares students to work with these digital technologies and contribute to the development of their undergraduate creative portfolio.",
+        "Learning outcomes": "A. Identify and interpret emerging digital technologies and their role in media industries. B. Demonstrate knowledge and understanding of the impact and engagement of digital revolutions and society. C. Demonstrate a practical understanding of revolutionary digital technologies through the development of an original project.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: lectures and seminars. Lecturers will take a variety of approaches. In some lectures, the lecturer will focus on presenting new material, often explaining arguments and presenting examples. In other lectures, the session will be interactive to develop understanding. Seminars will include a range of learning activities aimed to reinforce the learning of new content."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA232&psl_code=SEM2"
+    }
+  ]
+}

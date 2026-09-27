@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FAM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Life Insurance Mathematics II",
+  "module_code": "MTH214",
+  "offerings": [
+    {
+      "heading": "Life Insurance Mathematics II",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Life Insurance Mathematics II",
+        "module_code": "MTH214",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Life Insurance Mathematics II",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is a continuous course of Life Insurance Mathematics I. Students are able to evaluate reserves, calculate retirement benefits and carry out pension plans. Students are also required to understand multiple decrements models and interest rate risk.",
+        "Learning outcomes": "A. Construct multiple state models. B. Analyse and evaluate insurance product involving two lives. C. Compare and comply profit testing method in traditional life insurance. D. Examine and implement profit testing method in modern life insurance. E. Explain actuarial modelling principles and provide spoken interpretations on actuarial topics.",
+        "Method of teaching and learning": "This module is delivered through formal lectures, seminars, and tutorial classes. The seminars will be co-delivered with ALC."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH214&psl_code=SEM2"
+    }
+  ]
+}

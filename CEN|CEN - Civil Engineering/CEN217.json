@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Group Design Project",
+  "module_code": "CEN217",
+  "offerings": [
+    {
+      "heading": "Group Design Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Group Design Project",
+        "module_code": "CEN217",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Group Design Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to enable students to produce an open-ended design for a realistic design problem within a group working environment, promoting teamwork and industrial awareness.",
+        "Learning outcomes": "A. Perform design and analysis within an integrated framework that accounts for sustainability, environmental impact, commercial matters, and design-related risks and uncertainties. B. Apply appropriate theoretical principles to address complex, real-world design challenges. C. Execute calculations to support the development and evaluation of design solutions. D. Recognise professional responsibilities by considering ethical principles, quality assurance, risk management, and diversity, equality, and inclusion (DEI) in engineering practice. E. Apply skills in teamwork, management, self-learning, presentation, and technical reporting.",
+        "Method of teaching and learning": "The module is delivered through formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN217&psl_code=SEM2"
+    }
+  ]
+}

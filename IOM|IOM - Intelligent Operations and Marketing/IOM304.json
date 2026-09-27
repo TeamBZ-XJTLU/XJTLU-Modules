@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Critical Issues in Marketing",
+  "module_code": "IOM304",
+  "offerings": [
+    {
+      "heading": "Critical Issues in Marketing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Critical Issues in Marketing",
+        "module_code": "IOM304",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Critical Issues in Marketing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course aims to develop fundamental knowledge of and about marketing as a field of study and provoke critical thinking about the field. It provides an opportunity for students to consider alternative approaches to the study and practice of marketing. Readings and discussions examine the historical development of marketing thought and theory, as well as contemporary issues, alternative perspectives, and critical insights. The course considers the philosophical foundations of marketing practice and marketing thought and issues of scholarship and science in marketing. The course is interactive and involves critical discussion of the readings during both lectures and student presentations.",
+        "Learning outcomes": "A Extend their imagination to draw creative interdisciplinary links within a diverse field of study that embraces postmodern approaches and critical perspectives B Understand the anti-consumption attitudes that some consumers hold and how such attitudes impact on marketing practice. C Present clear arguments regarding the significance of ethical consumption or voluntary simplicity and how people can live their lives within a culture of consumer capitalism. D Debate and evaluate strengths and weaknesses of the alternative paradigms for the development of marketing theory such as the 'art/science' debate.",
+        "Method of teaching and learning": "The module involves a range of teaching strategies including lectures, student-led seminars, case studies and guest lectures. Additional material will be in the form of web-based reading and research, selected texts, journal articles and contemporary magazine and press articles. Independent research and study will be encouraged throughout to complement group work activities. Student-led seminars will facilitate the sharing of knowledge and experiences of cohort members."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM304&psl_code=SEM2"
+    }
+  ]
+}

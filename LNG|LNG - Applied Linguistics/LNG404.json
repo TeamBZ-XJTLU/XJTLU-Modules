@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Methods and research in teaching EFL skills",
+  "module_code": "LNG404",
+  "offerings": [
+    {
+      "heading": "Methods and research in teaching EFL skills",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Methods and research in teaching EFL skills",
+        "module_code": "LNG404",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Methods and research in teaching EFL skills",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course integrates current Teaching methods and the teaching of listening, speaking, reading and writing. It integrates teaching theories, practices and research in the TESOL field. The main aims of the module are: •To examine the mainstream teaching methodology and to explore how different methods contribute to the process of language teaching and language learning. •To develop students' understanding of the theoretical bases for the teaching of pronunciation, listening, speaking, reading and writing skills in the EFL classroom through the investigation of spoken and written discourse, and the processes of learning and teaching oral/written skills. •To explore key issues in the teaching of language skills, including the kinds of problems encountered by L2 learners and the types of skills and strategies involved in listening, speaking, reading and writing. •To develop awareness of the relationship between research and practice in TESOL.",
+        "Learning outcomes": "Upon the completion of the module, students should be able to: A demonstrate understanding of key concepts relating to teaching methodology, spoken and written language, discourse and discourse processing B evaluate a range of approaches and methods for teaching listening, speaking, reading, writing and integrated skills C analyse samples of spoken and written discourse using the concepts and analytical methods D develop an understanding of current approaches to researching the process, teaching and learning of language skills E apply theoretical concepts and empirical research findings about language skills in syllabus and material design",
+        "Method of teaching and learning": "The teaching sessions will consist of a mix of lecture, seminar discussion, small-group work analytical tasks and practical workshop activities. Participants will be expected to do preparatory reading for every session and to answer a set of pre-questions designed to stimulate discussion during the session. A series of unassessed coursework tasks will be set throughout the module, to ensure that participants are able to apply the knowledge they gain during the taught sessions to pedagogically-related tasks such as materials evaluation and selecting appropriate texts for developing a range of language skills."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG404&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHP",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "Photonics and Photonic Hybrid Systems",
+  "module_code": "MES305TC",
+  "offerings": [
+    {
+      "heading": "Photonics and Photonic Hybrid Systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Photonics and Photonic Hybrid Systems",
+        "module_code": "MES305TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Photonics and Photonic Hybrid Systems",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the fundamental concepts of photonics and their applications in photonic and electronic devices. It provides a comprehensive overview of optics, integrated photonics, photonic chips, and light–matter interactions at micro- and nano-scales. The course also covers practical device structures such as lasers, LEDs, photodetectors, modulators, and solar cells, highlighting their roles in communications, sensing, and energy technologies. The module aligns with the School of CHIPS' mission to integrate photonic, photonic devices, electronics, and entrepreneurship, equipping students with the theoretical and practical foundations needed for advanced studies and careers in photonic and semiconductor industries.",
+        "Learning outcomes": "On successful completion of this module, students should be able to: A. Explain fundamental principles of optics and photonics, including light propagation, waveguides, and photonic band structures. B. Describe the physical operating mechanisms of major opto-electronic devices (e.g., LEDs, lasers, detectors, solar cells, modulators). C. Analyze and design simple integrated photonic circuits and opto-electronic device systems. D. Evaluate the role of photonic and opto-electronic technologies in communication, sensing, and renewable energy applications. E. Demonstrate laboratory skills in characterizing photonic and opto-electronic devices.",
+        "Method of teaching and learning": "Lectures: Present theoretical foundations of photonics and device physics. Laboratories: (1) Determine the bandgap from the optical transmittance and reflectance measurement of semiconductors. (2) Use MATLAB to code and plot the bandgap from the experimental data. Seminars/Case Studies: Introduce emerging research trends in photonic chips and integrated optics."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES305TC&psl_code=SEM1"
+    }
+  ]
+}

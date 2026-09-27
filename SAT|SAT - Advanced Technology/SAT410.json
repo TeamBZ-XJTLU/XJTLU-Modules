@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SAT",
+    "domain_code": "SAT",
+    "full_name": "Advanced Technology"
+  },
+  "full_name": "Large-Scale Machine Learning Models for Industry",
+  "module_code": "SAT410",
+  "offerings": [
+    {
+      "heading": "Large-Scale Machine Learning Models for Industry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SAT",
+        "full_name": "Large-Scale Machine Learning Models for Industry",
+        "module_code": "SAT410",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Large-Scale Machine Learning Models for Industry",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students, who have foundational knowledge of machine learning and deep learning, with a broad understanding of artificial intelligence and large-scale machine learning models, including their theoretical underpinnings, development, and practical applications. It guides students to design, train, and implement large-scale models. It also aims to offer hands-on experience in applying large-scale models to real-world problems, particularly in natural language processing (NLP) and computer vision (CV), ensuring that students can bridge the gap between theory and practice.",
+        "Learning outcomes": "A Demonstrate theoretical and practical knowledge of large-scale machine learning model technologies. B Train and develop large-scale machine learning models. C Understand how large-scale machine learning model technology operates in practical applications through industry-relevant examples. D Evaluate machine learning algorithms and models for industrially relevant problems.",
+        "Method of teaching and learning": "This module is delivered as one two-hour lecture per week. The lecture time will be used to explain concepts and ideas as well as offering some practical demonstrations to aid in understanding. Students are also expected to engage in two hours of supervised (practical) training from week 1 to week 12. The lectures and supervised training sessions will introduce students to the content and practical skills relevant to the subject of the module. Additionally, students are required to allocate time to participate in lab sessions spanning from week 1 to week 12, where they will collaborate on their projects. Studies in conjunction with industrial partners will also provide time for reflection and consideration of lecture material and background reading."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SAT410&psl_code=SEM2"
+    }
+  ]
+}

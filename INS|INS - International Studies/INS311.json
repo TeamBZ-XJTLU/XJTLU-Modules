@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Economic Issues and Policies for Development",
+  "module_code": "INS311",
+  "offerings": [
+    {
+      "heading": "Economic Issues and Policies for Development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Economic Issues and Policies for Development",
+        "module_code": "INS311",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Economic Issues and Policies for Development",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Theories and Practices of International Development discusses key concepts and analytical perspectives in the field of international development necessary for critically engaging with a wide range of development challenges. The aim of the module is twofold: first, to guide students in understanding the internal dynamics of the growth process which, in turn, will help them to comprehend the causes of lower incomes in developing countries. Second, to critically reflect on ways and means of identifying and resolving economic development problems. Students will focus on the evolution of development thinking and inquire into the rise and fall of dominant paradigms in the field of international development. To help students understanding development strategies in the context of a changing world order, the module will explore latest frontiers in development economics and draw policy lessons from selected successful emerging countries.",
+        "Learning outcomes": "A. Demonstrate basic skills of data collection and data analysis in the field of international development. B. Demonstrate critical thought and in-depth understanding of development theories and practices. C. Critically reflect on the limits of traditional development teachings, practices and policies. D. Demonstrate independent thinking on frontier development issues. E. Effectively engage in case analysis and design development strategies in a critical and creative manner. F. Present findings in a coherent and logical structure that conforms to scholarly conventions in development studies.",
+        "Method of teaching and learning": "Lectures, seminars, and guest lectures delivered by invited scholars"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS311&psl_code=SEM2"
+    }
+  ]
+}

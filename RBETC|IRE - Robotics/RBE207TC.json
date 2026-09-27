@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IRE",
+    "domain_code": "RBETC",
+    "full_name": "Robotics"
+  },
+  "full_name": "Microprocessor and Embedded Computer System",
+  "module_code": "RBE207TC",
+  "offerings": [
+    {
+      "heading": "Microprocessor and Embedded Computer System",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "RBETC",
+        "full_name": "Microprocessor and Embedded Computer System",
+        "module_code": "RBE207TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Microprocessor and Embedded Computer System",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Module Background: This module caters to a diverse range of students, building on their existing knowledge in Microprocessor Systems or providing a foundational understanding for those new to the subject. It covers the fundamentals concepts in microprocessor systems and embedded computer systems. Module Aims: • Provide students with a comprehensive understanding of microprocessor systems, including their structure, operation, and significance in various applications. • Develop students’ proficiency in assembly language programming, enabling them to write, analyze, and optimize programs effectively. • Explore advanced microprocessor concepts, including pipelines, Harvard architecture, and parallelism, to deepen students’ understanding of system performance and design considerations. • Familiarize students with various data formats used in microprocessors, such as ASCII, 2’s complement, and floating-point format, and their impact on system functionality. • Examine the importance of Memory Architectures in Embedded system design and their influence on overall system performance. • Highlight the design challenges faced by Embedded system designers concerning input/output hardware and software integration, emphasizing practical solutions and considerations.",
+        "Learning outcomes": "A. Understand the fundamental principles of basic microprocessor architecture, including key components and their functions B. Demonstrate proficiency in assembly language, applying acquired knowledge to program and optimize microprocessor functionality. C. Demonstrate understanding of data format and interfacing microprocessors with memory, illustrating the ability to work with data processing. D. Provide a comprehensive description of various types of embedded processors, elucidating their applications and relevance in contemporary technological landscapes. E. Demonstrate an understanding of how parallelism relates to Embedded systems including considerations of timing, pipelines and the utilisation of parallel resources F. Demonstrate understanding of the design issues facing an Embedded system designer with relation to input/output hardware and software.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This means that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contributions from industry partners. This philosophy is carried through also in terms of assessment, with a reduction in the use of exams and an increase in coursework, especially problem-based assessments that are project-focused. This module offers comprehensive instruction on microprocessor systems through a combination of lectures, group discussions, case studies, hands-on practical exercises, etc. Lectures and group discussions are conducted using the Problem-Based Learning paradigm focusing on student-centred learning, where students develop critical thinking and problem-solving skills to address open-ended problems that lack a straightforward solution. This module is taught with an emphasis on student learning through practice and by projects, facilitated by a module leader, and where appropriate, industrial mentors. Students can identify particular areas of learning needs or interests according to the available project(s). Students have access to a range of programming exercises that can be completed using widely available embedded system emulators. They will conduct independent research to gather information and resources to better define the problem. Progress towards the learning outcomes will be facilitated and monitored, where students are guided to progressively address the given problem through tasks. Independent learning will form an important aspect of the educational activities in this module. Assessed by a project, students shall gain practical experience in undertaking independent study and research on industry-focused real-world problems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=RBE207TC&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "CHE",
+    "full_name": "Chemistry"
+  },
+  "full_name": "Classical Molecular Simulation for Materials Science",
+  "module_code": "CHE408",
+  "offerings": [
+    {
+      "heading": "Classical Molecular Simulation for Materials Science",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "CHE",
+        "full_name": "Classical Molecular Simulation for Materials Science",
+        "module_code": "CHE408",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Classical Molecular Simulation for Materials Science",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with a comprehensive understanding of classical molecular simulation and machine learning techniques and their applications in material science. Through theoretical concepts, practical simulations, and hands-on experience with software tools, students will gain the skills and knowledge required to model and analyze materials at the molecular level.",
+        "Learning outcomes": "A understand the principles and differences between molecular dynamics and Monte Carlo simulations, B: develop the ability to critically assess the reliability and validity of molecular simulation studies presented in the literature, C: decide the appropriate molecular simulation approach based on the application to research, and design a molecular simulation strategy applicable to problems, D: acquire a comprehensive understanding of the functionalities and constraints of standard molecular simulation software.",
+        "Method of teaching and learning": "26 one-hour lectures, 26 one-hour computer lab practicals and a computational research project that could act as a pre-project for students’ thesis research project."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CHE408&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Public Policy and Cultural Diplomacy",
+  "module_code": "INS308",
+  "offerings": [
+    {
+      "heading": "Public Policy and Cultural Diplomacy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Public Policy and Cultural Diplomacy",
+        "module_code": "INS308",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Public Policy and Cultural Diplomacy",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with a set of conceptual frameworks for analysing the political environment of public policy, soft power and policy research, and to provide the intellectual and critical tools to frame effective strategies for policy analysis and design, program evaluation and advocacy. Students will start learning how to shape policy strategies by studying the dynamics of political environments and institutions, cultural factors, and notions of political and social psychology. As possible future participants in public policy making, policy analysts, executives, and administrators, students will learn how to understand current issues in a comparative framework, putting concepts in perspective and considering a selected range of domestic policymaking environments. A connected topic is the use of culture by a State on different levels, as a way of promoting interests and an international position. Students will explore the concept of power (soft, smart and other declinations) to understand, both in theory and practice, the notion of cultural diplomacy as an exercise of power by State and non-State actors towards other countries’ citizens as well as elites and leaders.",
+        "Learning outcomes": "A Understand the central components of policy making processes, including actors and institutions that influence it from all sectors B Understand the relationships between actors and institutions across sectors throughout the stages of the policy making process C Develop a strong foundation of knowledge concerning major public policy process theories and develop the ability to adopt these theories to study different aspects of the policy making system D Use appropriate research skills E Produce academic writing which is appropriate for the discipline",
+        "Method of teaching and learning": "Lectures, seminars and private study"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS308&psl_code=SEM2"
+    }
+  ]
+}

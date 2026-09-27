@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "China's Public Management and Economic Development",
+  "module_code": "CCS412",
+  "offerings": [
+    {
+      "heading": "China's Public Management and Economic Development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "China's Public Management and Economic Development",
+        "module_code": "CCS412",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "China's Public Management and Economic Development",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module critically examines the public management system in China as a foundational driver of the country’s economic development. It explores how government priorities, institutional design, and administrative structures collectively shape and sustain China’s developmental trajectory. Through an interdisciplinary lens, students will engage with core concepts in public administration and development economics to understand how the Chinese public sector—its architecture, functions, and internal mechanisms—operates to promote economic growth. By the end of the module, students will be equipped to critically evaluate China’s public management system and its role in facilitating economic development, both in theory and practice. This module is designed for graduate students with an interest in public sector governance, civil service careers, and academic research in public administration, public policy, and development studies, particularly within the Chinese context.",
+        "Learning outcomes": "A. Critically analyze the structure, functions, and internal mechanisms of China’s public management system and its role in shaping economic development. B. Apply foundational theories of public administration and development economics to evaluate governance strategies and policy implementation in the Chinese context. C. Assess the impact of institutional design, government priorities, and administrative reforms on China’s developmental trajectory. D. Demonstrate understanding of the relationship between public sector governance and economic performance, and effectively analyse the role of China’s public administration system in advancing development goals.",
+        "Method of teaching and learning": "Lectures will introduce students to crucial concepts, frameworks, case materials and skills in a dialogic manner, facilitated by Generative AI use. Seminars provide a space for deeper discussion, student-led analysis, and application of theoretical ideas to real-world governance scenarios. Generative AI will be integrated into learning and teaching, as well as in the assessment process."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS412&psl_code=SEM2"
+    }
+  ]
+}

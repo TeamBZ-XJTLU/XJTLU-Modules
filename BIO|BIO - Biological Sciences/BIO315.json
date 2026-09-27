@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Pharmacology and Therapeutics",
+  "module_code": "BIO315",
+  "offerings": [
+    {
+      "heading": "Pharmacology and Therapeutics",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "BIO",
+        "full_name": "Pharmacology and Therapeutics",
+        "module_code": "BIO315",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Pharmacology and Therapeutics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Basic pharmacology and therapeutics is an introductory course that provides students with a foundation in the fundamental principles and concepts of drug action and clinical applications. It covers the study of drugs, their actions, interactions, and therapeutic uses in the treatment of diseases. This course is designed to give students a comprehensive understanding of the basic principles and mechanisms of drug action, as well as the factors that influence the effectiveness and safety of drug therapy. The course begins by introducing students to the classification and sources of drugs, as well as the various routes of drug administration. It then covers the pharmacokinetics and pharmacodynamics of drugs, including absorption, distribution, metabolism, and excretion, as well as the mechanisms of drug action at the cellular and molecular levels. Students will also learn about the principles of drug interactions and toxicology, as well as the factors that influence drug response, such as age, gender, genetics, and environmental factors. The course will cover the use of experimental models in pharmacology, as well as the role of drugs in the treatment of various diseases and conditions, including cardiovascular, respiratory, gastrointestinal, and neurological disorders, as well as infectious diseases and cancer. Throughout the course, students will develop critical thinking and problem-solving skills as they analyze case studies and discuss the ethical and legal aspects of drug therapy.",
+        "Learning outcomes": "A. Define the major classes of drug action principles at molecular and cellular levels, focusing on receptor types and enzyme-mediated mechanisms. B. Illustrate the fundamental principles of pharmacokinetics (ADME) and pharmacodynamics. C. Identify the major drug classes, their specific mechanisms of action, and therapeutic applications in cardiovascular, respiratory, gastrointestinal, endocrinal, neurological, infectious, and oncological conditions. D. Critically apply theoretical pharmacological knowledge to analyze case studies. E. Explain and evaluate the current understanding of factors influencing individual variations in drug response, drug interaction, and toxicology. F. Demonstrate the ability to critically analyze and apply the knowledge of drug development, including its ethical, legal, and regulatory dimensions, in real-world scenarios.",
+        "Method of teaching and learning": "Course content will be delivered primarily via standard lectures (2 hours per week for 13 weeks) and tutorials (1 hour per week for 13 weeks) that will be accompanied by suitable lecture handouts. Students will also be guided to sections of specific textbooks and/or reading of specific reviews. Coursework (Foundation of Principles) Early semester assessment focusing on fundamental pharmacological knowledge. Students will complete a structured assignment requiring approximately 10 hours of work to demonstrate mastery of core concepts. Case study 1 (Applied learning) Mid-semester case study focusing on drug mechanisms and usage in a single-disease clinical scenario. This assessment requires application of principles to practical situations. Expected student workload: 15 hours. Case study 2 (Advanced critical analysis) End-of-semester advanced case study examining polypharmacy, drug interactions, drug responses, and toxicology. This assessment requires sophisticated critical thinking and integration of multiple concepts. Expected student workload: 15 hours."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO315&psl_code=SEM1"
+    }
+  ]
+}

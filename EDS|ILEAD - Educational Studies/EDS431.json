@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Designing Digital Education Curriculum",
+  "module_code": "EDS431",
+  "offerings": [
+    {
+      "heading": "Designing Digital Education Curriculum",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Designing Digital Education Curriculum",
+        "module_code": "EDS431",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Designing Digital Education Curriculum",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module equips students with the knowledge and skills to design for digital education contexts in response to real-world and/or simulated real-world educational problems or scenarios. Taking a design-led perspective, students analyse the problem context, apply research-led project-based learning (RLPBL) principles, and produce a practical output package (e.g., curriculum, resources, tool, or intervention). The module emphasises responsiveness to constraints and alignment with contemporary digital pedagogies. Students critically examine how AI, Generative AI, and emerging digital tools can enhance (and/or complicate) pedagogy, design processes, and learner experience, including the integration of AI as a learning topic (e.g., AI literacy, AI-integrated assessment) and as a design tool. Through engaging with pressing educational issues such as learner engagement, digital equity, and ethical AI use, students collaboratively explore how to propose research-informed, context-sensitive solutions that reflect their own design needs and those of their learners, colleagues, or other stakeholders.",
+        "Learning outcomes": "A.Analyse a real-world educational context to identify needs and constraints for digital education design. B.Design a digital education solution using Research-Led Project Based Learning principles. C. Select, apply, and justify appropriate digital pedagogies, tools, and content for a defined learner context. D.Critically evaluate design decisions using theoretical frameworks and context-appropriate feasibility considerations.",
+        "Method of teaching and learning": "Students will engage in iterative inquiry cycles throughout their lectures, tutorials and practicals: identifying issues, designing and testing solutions, and reflecting on their processes and outcomes. In this module, \"practicals\" refer to hands-on design workshops where students, either individually or in groups, analyse real-world or simulated digital education problems, prototype solutions, and iteratively develop their practical output package (e.g., curriculum, resources, tool, or intervention). These practicals are supported by research-led project-based learning (RLPBL) principles. Multiple methods will be used for learning and teaching such as online and onsite blended learning, e-learning, flipped classrooms, project-based learning with technology, and different sizes of group work. Both formative and summative assessments will be utilized; all assessments will include feedback from faculty and/or peers."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS431&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Assessment and Evaluation in Student Development",
+  "module_code": "EDS454",
+  "offerings": [
+    {
+      "heading": "Assessment and Evaluation in Student Development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Assessment and Evaluation in Student Development",
+        "module_code": "EDS454",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Assessment and Evaluation in Student Development",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module supports students in critically engaging with assessment and evaluation as ethical, evidence-informed, and developmentally responsive educational practices. Centred around Assessment of Learning, Assessment as Learning, and Assessment for Learning, the module examines how assessment can measure, support, and shape student development. Using a Research-Led Project-Based Learning approach, students will engage with authentic educational scenarios, digital tools, data-driven methods, and advanced technologies (including AI and AI-enabled tools and platforms) to interpret assessment evidence and make fair, transparent, and improvement-oriented decisions. Students will also design and evaluate research-informed assessment tasks, tools, and feedback processes that support diverse learners across educational contexts.",
+        "Learning outcomes": "A. Critically appraise ethical, professional, and equity-oriented principles underpinning assessment and evaluation in student development. B. Synthesize assessment evidence to inform pedagogical decisions and support student learning across diverse educational contexts. C. Design, implement, and evaluate evidence-informed assessment tasks, tools, and feedback processes that enhance student learning across Assessment of Learning, Assessment as Learning, and Assessment for Learning. D. Appraise assessment and evaluation evidence across learner, group, and institutional levels to inform fair, transparent, and improvement-oriented educational decision-making.",
+        "Method of teaching and learning": "The teaching sessions include lectures and tutorials/seminars that work together to engage students with key conceptual, theoretical, and methodological insights, as well as dedicated opportunities for critical reflection. Delivery strategies focus on student-centred and interactive learning activities, including case-based discussion, collaborative inquiry, data interpretation, and applied assessment design. Students will engage in collaborative and individual projects through Research-Led Project-Based Learning, with opportunities to use digital tools, data-driven methods, and advanced technologies (e.g., AI and AI-enabled tools and platforms) to support assessment design, evidence analysis, feedback development, and evaluation. They will also iteratively develop tools and resources that can be used for fair, ethical, and improvement-oriented assessment and evaluation in educational settings."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS454&psl_code=SEM2"
+    }
+  ]
+}

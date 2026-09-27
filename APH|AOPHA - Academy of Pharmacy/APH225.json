@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AOPHA",
+    "domain_code": "APH",
+    "full_name": "Academy of Pharmacy"
+  },
+  "full_name": "Key Skills for Computational Sciences",
+  "module_code": "APH225",
+  "offerings": [
+    {
+      "heading": "Key Skills for Computational Sciences",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "APH",
+        "full_name": "Key Skills for Computational Sciences",
+        "module_code": "APH225",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Key Skills for Computational Sciences",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "1. To introduce the notation, terminology, and techniques underpinning the study of algorithms. 2. To introduce basic data structures and associated algorithms. 3. To introduce the standard algorithmic design paradigms employed in the development of efficient algorithmic solutions. 4. To provide a solid foundation in data science in sciences, including common data type, data preprocessing, and data analysis techniques 5. To introduce the applications of data structure and algorithms in data science, including data preprocessing, data analysis, and machine learning.",
+        "Learning outcomes": "A. Be able to describe the principles of and apply a variety of data structures and their associated algorithms B. Be able to describe standard algorithms such as sorting, search, string match, and graph traversal; C. Be able to apply these algorithms or a given pseudo code algorithm in order to solve a given problem; D. Be able to apply the studied design principles to produce algorithmic solutions to a given problem E. Understand common data types and structures used in science study, particularly bioinformatics and cheminformatics, and be able to manipulate and analyze them effectively F. Understand the importance of data cleaning and be able to peform basic data preprocessing and analysis techniques G. Be able to describe and implement supervised and unsupervised machine learning algorithms",
+        "Method of teaching and learning": "In each normal week, students will be expected to attend a three-hour formal lecture and to participate in a one-hour supervised lab class. Lectures will introduce students to the academic content and practical skills which are the subject of the module, while problem classes will allow students to practice those skills using Python programming. In addition, students will be expected to devote around 8 hours of unsupervised time for private study. Private study will provide time for reflection and consideration of lecture material and do more praticals. Two assessments will be used to test to what extent practical skills have been learnt. A written examination at the end of the module will assess the academic achievement of students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=APH225&psl_code=SEM1"
+    }
+  ]
+}

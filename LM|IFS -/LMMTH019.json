@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "LM",
+    "full_name": ""
+  },
+  "full_name": "Calculus for Business",
+  "module_code": "LMMTH019",
+  "offerings": [
+    {
+      "heading": "Calculus for Business",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LM",
+        "full_name": "Calculus for Business",
+        "module_code": "LMMTH019",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Calculus for Business",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To give students a broad education in calculus, which include the topics usually covered in a course on single-variable calculus; To give students an appreciation of the application of mathematics to business, finance and social sciences; To train the students' ability to work independently and to acquire the skill of problem solving.",
+        "Learning outcomes": "A To understand all the key concepts of Limit, Continuity, Derivative and Integration for the function of polynomial, exponential, logarithmic, and trigonometric functions; B To have a good appreciation of the link between mathematics and business, finance and social sciences; C To be able to calculate the limits, derivatives and integrations of the polynomial, exponential, logarithmic, and trigonometric functions. D To be able to establish simple mathematical models using the idea of differential, integration and first order differential equation.",
+        "Method of teaching and learning": "Students will be expected to attend 3 hours of formal lectures and 1 hour of tutorial in a typical week. In lectures, teachers will introduce the academic content and practical skills which are the subject of the module. In the tutorials, the students can practice those skills. In addition to the formal lectures and tutorials, students are expected to devote the unsupervised time to study the lecture materials and background readings. Online resources will be provided to the students to promote their active learning and self-leaning. Continuous assessment including online home assignments will be used to assess the learning outcomes. Written examinations in the middle and at the end of the semester constitute the major part of the assessment of the academic achievement of students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LMMTH019&psl_code=SEM1"
+    }
+  ]
+}

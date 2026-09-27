@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Management Theory",
+  "module_code": "SMO428",
+  "offerings": [
+    {
+      "heading": "Management Theory",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Management Theory",
+        "module_code": "SMO428",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Management Theory",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to major management theories in organisational behavior, strategic management, and international business, examining both their fundamental issues and contemporary movements. Through the discussion of theoretical and empirical papers, the module aims to provide students with an in-depth understanding of the theoretical, empirical, and methodological traditions of management research. It is also meant to help students develop the skills to understand, critique, and contribute to the field of management.",
+        "Learning outcomes": "A) Comprehend and critically evaluate the strengths and limitations of different theoretical perspective. B) Constructively evaluate and critique both empirical and theory-based research in the management field. C) Generate innovative research ideas, that advance the field of management, through an integration of existing bodies of literature. D) Effectively discuss and present research ideas and respond to questions.",
+        "Method of teaching and learning": "Lecture and discussions: Description: This module will be delivered in 'seminar' mode. In each session, selected students will present research papers to initiate discussion. All students are expected to complete the core readings before class and actively engage in discussions. Purpose: To impact foundational knowledge of management theory. In addition, the students will improve their presentation skills. Finally, the students will develop their critical analysis skills, through the review of academic papers."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO428&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Digital Marketing",
+  "module_code": "IFB219TC",
+  "offerings": [
+    {
+      "heading": "Digital Marketing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Digital Marketing",
+        "module_code": "IFB219TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Digital Marketing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to digital marketing and the increasingly important role of technology in both marketing practice and society. By the end of the module, students should be able to apply a range of skills to implement digital marketing approaches and understand the key strategic drivers behind the growth of the digital economy.",
+        "Learning outcomes": "A Understand the key concepts and theories in the field of digital marketing B Formulate a strategic version for successful digital marketing management C Demonstrate expertise in the use of various digital marketing tools D Apply digital marketing theories and approach to enhance marketing performance",
+        "Method of teaching and learning": "The teaching of this module will be delivered in a combination of formal lectures and small group tutorials. Formal lectures will focus on the delivery of key theories and frameworks in the field of digital marketing. Tutorials will enable the students to work within small groups to apply the module contents to case-based practices."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB219TC&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FAM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Engineering Mathematics III",
+  "module_code": "MTH201",
+  "offerings": [
+    {
+      "heading": "Engineering Mathematics III",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Engineering Mathematics III",
+        "module_code": "MTH201",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Engineering Mathematics III",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are to: To give students advanced mathematical tools common to engineering applications. To demonstrate the physical origin of applied mathematics. To understand the basic concepts and results in field therory . To be familiar with the partial differential equations of importance to engineering and science and their properties. To train the students' ability to think logically and independently and to acquire the skills of problem solving.",
+        "Learning outcomes": "On successful completion of the module, the student is expected to have: A good understanding of the basics related to and the use of vector fields, Fourier series, and partial differential equations. To solve problem by establishing appropriate mathematical models using the most relevant techniques An appreciation of the importance of mathematics to engineering and science.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures, problem classes, case studies and revision seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH201&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FIN",
+    "domain_code": "FIN",
+    "full_name": "Finance"
+  },
+  "full_name": "Financial Management",
+  "module_code": "FIN202",
+  "offerings": [
+    {
+      "heading": "Financial Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FIN",
+        "full_name": "Financial Management",
+        "module_code": "FIN202",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Financial Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The course aims to introduce students to the modern theory of finance. It examines decision rules for financial decisions in firms and the capital market context in which these decisions are made. The topics covered are the value and capital budgeting, portfolio theory, models of security valuation, efficient markets, long-term financing, company dividend decisions, capital structure, and interactions of investment and financing decisions.",
+        "Learning outcomes": "Student completing the module successfully should: A. understand the main themes of modern financial management; B. be able to apply the tools and techniques of financial management; C. be able to interpret and critically examine financial management issues and controversies.",
+        "Method of teaching and learning": "The module will be taught using a combination of lectures and workshops. Learning will also be reinforced by appropriate readings from the course text."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN202&psl_code=SEM2"
+    }
+  ]
+}

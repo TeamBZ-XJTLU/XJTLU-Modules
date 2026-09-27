@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Advanced Auditing",
+  "module_code": "ACC305",
+  "offerings": [
+    {
+      "heading": "Advanced Auditing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Advanced Auditing",
+        "module_code": "ACC305",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Advanced Auditing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with a good understanding of the main aspects of managing audit and assurance engagements, including acceptance, planning, managing, concluding and reporting in both international and Chinese contexts.",
+        "Learning outcomes": "A. Understand and advise on the regulatory, professional and ethical issues relevant to those carrying out an audit or assurance engagement. B. Demonstrate the ability to work effectively on an assurance or other service engagement within a professional and ethical framework C. Demonstrate a good understanding of the processes involved in accepting and managing assurance engagements and how quality assurance processes mitigate the risks to those conducting the engagement. D. Identify and formulate the work required to meet the objectives of audit assignments as well as non-audit assignments in compliance with International Standards on Auditing E. Draw conclusions and report on assurance engagements in accordance with the terms of the engagements and International Standards on Auditing F. Recognize similarities and differences between standards on Auditing in the UK & Ireland as compared to China Standards of Auditing",
+        "Method of teaching and learning": "Lectures will be delivered by module instructors (and guest speakers, subject to availability) and will be supported by case studies, scenarios and examples. This module contains one session taught in the computer lab to enable students to use data mining software for auditing. Students will be directed towards educational resources on line through the ICE portal for self-study and revision."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC305&psl_code=SEM1"
+    }
+  ]
+}

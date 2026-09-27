@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IRE",
+    "domain_code": "RBETC",
+    "full_name": "Robotics"
+  },
+  "full_name": "Explore Intelligent Robotics Technologies",
+  "module_code": "RBE002TC",
+  "offerings": [
+    {
+      "heading": "Explore Intelligent Robotics Technologies",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "RBETC",
+        "full_name": "Explore Intelligent Robotics Technologies",
+        "module_code": "RBE002TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Explore Intelligent Robotics Technologies",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to enable Year 1 students to explore key technologies and their applications in real-world intelligent robotics. Through inquiry-led investigation and collaborative activities, students will develop independent learning, evidence-based exploration, engineering-related problem-solving, fundamental system design, responsible digital practice, oral communication, feedback use, and reflective skills. The module further supports students in identifying their interests and preparedness for progression into Year 2 study within intelligent robotics-related pathways.",
+        "Learning outcomes": "A. Identify and describe selected intelligent robotics technologies and their applications in real-world robotic systems. B. Apply appropriate introductory robotics technologies and methods to investigate a defined robotics-related problem. C. Communicate the process, evidence, and outcomes of a robotics technology investigation through an individual or collaborative project demonstration. D. Reflect on personal learning, feedback received, and readiness for further study in intelligent robotics-related pathways.",
+        "Method of teaching and learning": "This module adopts the Syntegrative Education philosophy by supporting interdisciplinary inquiry, active learning, and students’ transition towards more pathway-focused study. Teaching is delivered across the 13 week through lectures, supported by structured inquiry activities, collaborative discussions, and guided technology exploration. Students will investigate selected intelligent robotics technologies and their applications in real-world contexts through inquiry-based and problem-based learning activities. Lectures will introduce key concepts, examples, and methods, while guided tasks will support students in identifying relevant evidence, evaluating information sources, and applying introductory technologies to defined robotics-related questions. The module includes opportunities for students to reflect on their learning, respond to feedback, and identify their interests and preparedness for progression into Year 2 intelligent robotics-related study."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=RBE002TC&psl_code=SEM2"
+    }
+  ]
+}

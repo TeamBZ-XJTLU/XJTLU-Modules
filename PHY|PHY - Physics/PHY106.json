@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Mathematical Methods for Physics I",
+  "module_code": "PHY106",
+  "offerings": [
+    {
+      "heading": "Mathematical Methods for Physics I",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "PHY",
+        "full_name": "Mathematical Methods for Physics I",
+        "module_code": "PHY106",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Mathematical Methods for Physics I",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with the essential mathematical techniques required for advanced study and research in physics. The module covers key concepts such as complex functions, ordinary differential equations, Fourier series, Laplace transforms, as well as an introduction to distribution theory. The topics addressed in this module will prepare students to solve physical problems in various fields, including classical mechanics, quantum mechanics, and electrodynamics.",
+        "Learning outcomes": "A Calculate integrals in the complex domain and contour integrals using Cauchy’s theorem B Solve ordinary differential equations using standard analytical methods C Apply the Fourier series to represent functions D Use the Laplace transform to solve differential equations E Apply elements of distribution theory to solve physical problems",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY106&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Introduction to Optoelectronics and Photonics",
+  "module_code": "EEE314",
+  "offerings": [
+    {
+      "heading": "Introduction to Optoelectronics and Photonics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Introduction to Optoelectronics and Photonics",
+        "module_code": "EEE314",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Introduction to Optoelectronics and Photonics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To introduce students to fundamental optoelectronic principles, devices - light, optical fibre, lasers in optoelectronics",
+        "Learning outcomes": "Knowing and Understanding A. Knowledge and Understanding On successful completion of this module, students should have: an understanding of the wave nature of light, dielectric waveguides, optical fibers; an understanding of stimulated emission and lasers; and an understanding of photo-detectors and photovoltaic devices. B. Intellectual Abilities On successful completion of this module, students should have: the ability to analyze light transmission in a medium (e.g. fiber) and the ability to determine components (fibers and lasers) to meet a specification. C. Practical Skills On successful completion of this module, students should have: the ability to determine device properties from the characteristics, the ability to calculate the basic quantities of optical fibers, the ability to perform simple analysis of light transmission along an optical fiber, and the ability to use LEDs, semiconductor lasers and optical fibers. D. General Transferable Skills On successful completion of the module, students should be able to show experience and enhancement of the following key skills: independent learning and optoelectronic components analysis. E. Laser Safety Awareness On successful completion of the module, students should have: an awareness of laser safety associated with consumer electronic products and various commercial equipment; the ability to use lasers safely. This module will be delivered by a combination of formal lectures, problem classes, experiments, class demonstrations and case studies.",
+        "Method of teaching and learning": "Lectures, problem classes/tutorials, experiments, self-learning"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE314&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Entrepreneurship and Business Creation",
+  "module_code": "SMO410",
+  "offerings": [
+    {
+      "heading": "Entrepreneurship and Business Creation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Entrepreneurship and Business Creation",
+        "module_code": "SMO410",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Entrepreneurship and Business Creation",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide an integrated introduction to the processes and management of new businesses with specific concentration on the problems and issues facing entrepreneurs during the start-up phase. The module is therefore concerned with the identification and development of opportunities, resource acquisition, creativity and innovation. The course aims to help students develop the competences, skills, awareness and mindset to become an effective entrepreneur.",
+        "Learning outcomes": "Students completing the module successfully should: A Define the nature and scope of the issues and problems involved with respect to managing a new business B Coherently demonstrate and sustain their views on effective entrepreneurship by use of evidence and contemporary research C Identify the factors associated with good practices in developing and utilising appropriate entrepreneurial networks to access resources D Define the importance of the stage of business development, industrial context and the forces of change to management of new businesses E Be familiar with the various options in terms of establishing an entrepreneurial organisation – with particular emphasis on the virtues of the virtual business F Understand the imperatives of innovative new technologies and demonstrate how they can form the basis of a sustainable new business G Demonstrate a clear understanding of the importance of acquiring appropriate data (qualitative and quantitative) to underpin any business idea H Be familiar with the importance of business planning throughout the start-up process and understand the implications for entrepreneurial learning I In addition to the development of higher levels analytical skills (described above) students will also be expected to engage in the practical application of those skills.",
+        "Method of teaching and learning": "The module will involve a range of teaching strategies from lectures, seminars, coursework, independent single student and independent group work. Additional material will be in the form of directed WEB based reading and research, selected texts, journal articles and contemporary professional journal and press articles. Independent research and study will be encouraged at all stages to promote and developing learning that will be useful to students throughout their subsequent entrepreneurial careers. Students on the entrepreneurship programme will be exposed to a number of business cases where practical problems are analysed, discussed and assessed in both single and group work settings. The case approach will form a core part of the teaching strategy that conveys a variety of important issues relating to entrepreneurship. Students will a lso be expected to carry out projects which help develop their practical skills including market analysis, risk evaluation and the preparation of a business plan. Students are encouraged to participate actively in group-work settings to encourage both self learning and team learning in a small peer group environment. This will facilitate the development of a deeper understanding managing organisations in the context of an environment where team work and cooperation are important to achieve organisational objectives. Whilst not part of the formal assessment procedure, opportunities are planned to be available for students to visit business premises and to discuss with business practitioners issues emerging at the business within a framework of their academic programme."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO410&psl_code=SEM2"
+    }
+  ]
+}

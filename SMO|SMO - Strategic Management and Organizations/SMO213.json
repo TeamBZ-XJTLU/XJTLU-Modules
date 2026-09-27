@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Introduction to Research Methodology",
+  "module_code": "SMO213",
+  "offerings": [
+    {
+      "heading": "Introduction to Research Methodology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Introduction to Research Methodology",
+        "module_code": "SMO213",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Introduction to Research Methodology",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The course is designed to provide an introduction to basic research methodology and design, which includes methodological foundations and tools used in management, applied psychology, education, and social science. Most of the semester will focus on the fundamentals of quantitative social science and applied research, although we will also explore qualitative research. Students will learn how to identify problems to study, develop hypotheses and research questions, specify independent and dependent variables, check for the validity and reliability of studies and design research projects. Students will be exposed to the broad range of designs used in applied research from laboratory and field experiments, surveys, content analysis, focus groups and in-depth interviewing, etc.",
+        "Learning outcomes": "A. Demonstrate skills of using techniques for conducting a literature search using online databases and reference manager software. B. Acquire comprehensive knowledge of the importance of research ethics and integrate research ethics into the research process. C. Critically comparethe major quantitative and qualitative research methods in applied research and management research. D. Use appropriate data analysis tools and software to conduct data analsyis, and interpret visual representations of data (i.e. tables, graphs). E. Propose a research study and justify the theory as well as the methodological decisions, including sampling and measurement.",
+        "Method of teaching and learning": "The teaching and learning strategies employed include a combination of lectures (which teach basic concepts and principles), tutorials (which are interactive and designed to enable students to apply and discuss their knowledge to analyse real cases), and the university’s virtual learning environment (i.e., Learning Mall), which will be used for the dissemination of material, as well to provide feedback to students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO213&psl_code=SEM1"
+    }
+  ]
+}

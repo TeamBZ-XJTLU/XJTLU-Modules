@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Steel structures",
+  "module_code": "CEN323",
+  "offerings": [
+    {
+      "heading": "Steel structures",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Steel structures",
+        "module_code": "CEN323",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Steel structures",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to develop further the students’ design skills to the structural behaviour of steel portal frames with the use of theory of plasticity using first and second order theory within the context of EC3. Additionally, the students implement specific knowledge acquired in previous levels to the design of steel beam-to-columns and beam-to-beam joints using bolted and welded type of connections.",
+        "Learning outcomes": "A Combine knowledge acquired from structural analysis to identify and analyze steel structural systems subjected to various load arrangements. B Apply the theory of plasticity to analyze and design steel portal frames as members of single storey steel buildings using the requirements of EC3. C Use specific methods, drawn from structural analysis, to analyze as well as design steel structural systems (e.g., frames) subjected to combined vertical and horizontal loads, taking into account instability criteria within the framework of EC3. D Formulate and design, using the requirements of EC3, specific types of beam-to-beam and beam-to-column joints as well as the structural supports. E Develop integrated design solutions for single storey steel portal frames.",
+        "Method of teaching and learning": "Basic information is presented in the form of lectures and tutorials. The assessment is based on an open ended coursework assignment, which involves an integrated design project. The formative assessment and feedback is used to allow the students to self-assess their knowledge and develop their own design solutions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN323&psl_code=SEM1"
+    }
+  ]
+}

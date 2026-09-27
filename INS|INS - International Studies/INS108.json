@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Foundations in Political Science",
+  "module_code": "INS108",
+  "offerings": [
+    {
+      "heading": "Foundations in Political Science",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Foundations in Political Science",
+        "module_code": "INS108",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Foundations in Political Science",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course serves as an introduction to the fundamentals of political science with an emphasis on comparative political studies. The objective is to equip students with essential analytical tools to understand the workings of the political world. The module will begin by exploring the foundational elements of understanding comparative politics, including political participation, institutions, ideologies, and cultures. Following the introduction, the course will address key concepts and topics in comparative politics, such as political development, state formation, and the complexities of development itself. Students will also be introduced to comparative and foundational research methods essential for inquiries in political science. Additionally, the module will examine the interaction between domestic political processes and international politics.",
+        "Learning outcomes": "A Identify key concepts and ideas in Political Science and International Relations B Demonstrate awareness of the knowledge foundation for identifying and discussing political processes, ideas, and institutions C Identify and evaluate political and policy making processes D Produce academic writing which is appropriate for the discipline E demonstrate academic analytical skills",
+        "Method of teaching and learning": "Lectures and seminars"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS108&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Qualitative Research Methods in Management Research",
+  "module_code": "IOM207",
+  "offerings": [
+    {
+      "heading": "Qualitative Research Methods in Management Research",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Qualitative Research Methods in Management Research",
+        "module_code": "IOM207",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Qualitative Research Methods in Management Research",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the general principles and a board range of qualitative research methods in general business and management fields, including research design, data collection, data analysis and writing of qualitative research. Beyond the appreciation of the qualitative methods, students will acquire some research experience by selectively applying the methods, which could further contribute to the final year project in further year of study. Students’ attention will also be drawn to ethical concerns in the context of qualitative research.",
+        "Learning outcomes": "A. Understand the range of qualitative methods available to management researchers. B. Demonstrate an ability to critically analyze the methodology, data collection, and data analysis methods used in a qualitative research paper. C. Demonstrate an ability to design qualitative research. D. Demonstrate an awareness of ethical issues in qualitative research.",
+        "Method of teaching and learning": "The module involves a range of teaching strategies including lectures, tutorials, case studies and guest lectures. Additional material will be in the form of web-based reading and research, selected texts, journal articles and contemporary magazine and press articles. Independent research and study will be encouraged throughout to complement groupwork activities. Tutorials will facilitate the sharing of knowledge and experiences of cohort members."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM207&psl_code=SEM1"
+    }
+  ]
+}

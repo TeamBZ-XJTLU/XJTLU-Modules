@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Introduction to International Business and Management",
+  "module_code": "SMO104",
+  "offerings": [
+    {
+      "heading": "Introduction to International Business and Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Introduction to International Business and Management",
+        "module_code": "SMO104",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to International Business and Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with an introduction to the changing global economic environment, the major theories explaining international business activities, and the issues of organizing and operating international firms.",
+        "Learning outcomes": "A. Describe the development and trends of the global economy. B. Understand how variations in the cultural, political and financial environment of countries impact upon the management of international business activity. C. Identify the particular problems of organising and operating international companies D. Demonstrate comprehension and application of international business theories and frameworks to business activities in global contexts.",
+        "Method of teaching and learning": "The main themes of the module will be presented in lectures. Seminars will permit students to develop their understanding of the main themes and debates in the area."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO104&psl_code=SEM2"
+    }
+  ]
+}

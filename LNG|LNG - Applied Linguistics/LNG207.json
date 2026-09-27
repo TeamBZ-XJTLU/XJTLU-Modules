@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Language Acquisition",
+  "module_code": "LNG207",
+  "offerings": [
+    {
+      "heading": "Language Acquisition",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Language Acquisition",
+        "module_code": "LNG207",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Language Acquisition",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To virtually each of the students who (are considering to) take this module, language acquisition was smooth and easy in childhood; to many laypersons, language acquisition is a simple and straightforward process. However, decades of research have confirmed that language acquisition is a complex and multifaceted process that involves the interaction of innate biologically-based mechanisms devoted to language, other non-linguistic cognitive and social mechanisms, linguistic input, and information about the social and physical world. This module is highly relevant and potentially useful to all students enrolled in any of the programmes (co-)run by the Department of Applied Linguistics, partly because each of them has experienced a particular form of language acquisition. This module will help to answer important questions such as the following: (1) If there are complicated mechanisms underlying language comprehension and production, how can a child accomplish this amazing feat of acquiring the complicated system of language in a short time span of several years after birth\u0014BR> (2) Are there critical brain structures necessary for the acquisition of language\u0014BR> (3) What role do cognitive and social mechanisms play in language development\u0014BR> (4) What is the specific role played by linguistic input in the child's construction of a linguistic system\u0014BR> (5) If first language acquisition was “easy and effortless”, why is it (usually) not the case with second language acquisition\u0014BR> (6) How do children manage to learn two language systems\u0014BR> This module has two general aims: (1) to introduce students to a wide range of phenomena related to language acquisition; (2) to introduce students to some key conceptual, theoretical, and methodological resources useful for understanding these phenomena.",
+        "Learning outcomes": "A Display knowledge of phenomena related to language acquisition B Demonstrate an understanding of the important concepts, theories, and/or methods involved in the research of language acquisition C Demonstrate an awareness of some of the major conceptual, theoretical, and/or methodological issues related to language acquisition D Conduct a meaningful discussion about concepts, theories, methodologies, and/or practices relevant to language acquisition",
+        "Method of teaching and learning": "Lectures and tutorials/workshops"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG207&psl_code=SEM2"
+    }
+  ]
+}

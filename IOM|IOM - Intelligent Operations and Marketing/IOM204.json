@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Services Marketing",
+  "module_code": "IOM204",
+  "offerings": [
+    {
+      "heading": "Services Marketing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Services Marketing",
+        "module_code": "IOM204",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Services Marketing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Western economies are dominated by services. Indeed, more than two-thirds of the workforce in many countries are designated as service employees. Consequently, the broad aim of this module is to introduce students to the sub-discipline of services marketing. Throughout the module, students will be provided with the tools to critically evaluate the theoretical aspects of services marketing. At the same time, students will be expected to reflect on how theory translates into practice, and will be encouraged to select appropriate services marketing frameworks to analyse specific service organisations and sectors. The module stresses the distinctiveness of services marketing from tangible goods marketing. Practical application of theoretical services marketing material is examined within a diverse range of sectors including financial services, hotels, restaurants, airlines, universities, theme parks, and charities. Management of customer satisfaction and perceived ser vice quality are themes that are interwoven into all of the components of the module syllabus. The module endeavours to provide a challenging and supportive learning environment for students by enhancing the key skills and subject knowledge appropriate to pursuit of a career in services marketing.",
+        "Learning outcomes": "On successful completion of this module, the student will be able to: (A) Define the nature, scope, and key characteristics of services marketing (B) Critically evaluate theoretical frameworks and terminology drawn from the services marketing literature (C) Apply services marketing concepts that acknowledge the inherent distinction between (tangible) goods and (intangible) services marketing (D) Apply extended marketing mix strategies appropriate to the objectives, resources, and environment of both profit and non-profit service organisations (E) Critically evaluate the role of artificial intelligence tools in enhancing service design, delivery, and customer experience",
+        "Method of teaching and learning": "The module involves a range of teaching strategies including lectures, student-led seminars, case studies and guest lectures. Additional material will be in the form of web-based reading and research, selected texts, journal articles and contemporary magazine and press articles. Independent research and study will be encouraged throughout to complement group work activities. Student-led seminars will facilitate the sharing of knowledge and experiences of cohort members."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM204&psl_code=SEM2"
+    }
+  ]
+}

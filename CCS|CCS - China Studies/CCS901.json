@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "Understanding China",
+  "module_code": "CCS901",
+  "offerings": [
+    {
+      "heading": "Understanding China",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "Understanding China",
+        "module_code": "CCS901",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "Understanding China",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to provide all international students enrolled for degree programmes at XJTLU with an introductory understanding of Chinese Culture and Society in order to help them have some background for studying, living, and working in China.",
+        "Learning outcomes": "A Basic understanding of Chinese historical development B Appreciation of Chinese values and philosophy C Basic knowledge of China’s legal system and the operation of the law D Basic knowledge of the Chinese system of government E Basic understanding of Chinese social structures F Understanding of China’s regional diversity G Basic knowledge of China’s economic development H Appreciation of Chinese literature",
+        "Method of teaching and learning": "The module will be delivered through a series of weekly lectures."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS901&psl_code=SEM2"
+    }
+  ]
+}

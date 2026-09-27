@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHE",
+    "domain_code": "MTS",
+    "full_name": "Material Science"
+  },
+  "full_name": "Biomaterials",
+  "module_code": "MTS305",
+  "offerings": [
+    {
+      "heading": "Biomaterials",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "MTS",
+        "full_name": "Biomaterials",
+        "module_code": "MTS305",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Biomaterials",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the design, selection, characterisation, and application of biomaterials used in medical and healthcare technologies. It integrates materials science, engineering principles, and biological interactions, enabling students to understand how materials function in biological environments and how material properties govern biological responses. The module aims to develop materials-driven thinking for biomedical applications, introduce structure–property–function relationships in biological contexts and prepare students for careers or postgraduate study in biomedical engineering, medical devices, and regenerative medicine.",
+        "Learning outcomes": "A. Understand classification and properties of biomaterials (metals, ceramics, polymers, composites) B. Understand biological responses to implanted materials, including biocompatibility, inflammation, and integration. C. Understand degradation, corrosion, and failure mechanisms in physiological environments. D. Discuss structure–property–biological performance relationships of biomaterials. E. Evaluate material choices for specific medical applications using engineering criteria.",
+        "Method of teaching and learning": "Lecture, tutorial and labs."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTS305&psl_code=SEM1"
+    }
+  ]
+}

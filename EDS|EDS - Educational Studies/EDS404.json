@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "The School of Tomorrow: Managing Change in Global Education",
+  "module_code": "EDS404",
+  "offerings": [
+    {
+      "heading": "The School of Tomorrow: Managing Change in Global Education",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "The School of Tomorrow: Managing Change in Global Education",
+        "module_code": "EDS404",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "The School of Tomorrow: Managing Change in Global Education",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are to: 1. Develop students’ critical understanding of major theories, models, and debates related to change, leadership, futures thinking, and institutional transformation in global education. 2. Examine how globalization, technology, AI, industry, policy, and shifting learner and societal needs are reshaping schools, universities, and other educational organizations. 3. Engage students in project-based learning through the analysis of future-oriented educational challenges and the collaborative development of a change and implementation strategy linked to an integrated pathway project. 4. Cultivate students’ ability to use digital and AI-enabled tools critically, ethically, and strategically for foresight, scenario analysis, decision-making, communication, planning, and project management.",
+        "Learning outcomes": "A. Critically analyse major challenges, trends, and future scenarios shaping global education in the 21st century, including the implications of technology, AI, globalization, and changing relationships between education and industry. B. Evaluate theories and approaches to managing change, leading innovation, and sustaining institutional relevance in diverse global education contexts. C. Collaboratively design and justify a change management and implementation strategy for a real or realistic educational innovation as the change-and-implementation component of an integrated pathway project, demonstrating stakeholder analysis, risk awareness, feasibility, and future orientation. D. Use digital and AI-enabled tools critically, ethically, and strategically to support foresight, scenario planning, communication, project coordination, and decision-making in educational change processes.",
+        "Method of teaching and learning": "The teaching sessions are interactive and divided into three components: lectures, tutorials/workshops and a fieldtrip. The tutorials/workshops will build on the material covered in the lectures. The fieldtrip will be a visit to an innovative educational institution or site within China or the region. Case studies using a project-based approach will be used where appropriate throughout the teaching."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS404&psl_code=SEM2"
+    }
+  ]
+}

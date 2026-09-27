@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Journalism and Society",
+  "module_code": "COM340",
+  "offerings": [
+    {
+      "heading": "Journalism and Society",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Journalism and Society",
+        "module_code": "COM340",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Journalism and Society",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to discuss the relationship between journalism and the society within a global perspective and provide students with advanced reporting techniques. It introduces them to key historical developments, current social, economic and technological challenges and major themes and figures of in-depth reporting in journalism worldwide. Case studies typically include reporting in China, political scandals in the US, undercover reporting in the UK, celebrity stories and European cross-border investigations. Students will develop the research methods and newsgathering techniques needed to produce a piece of in-depth report, building on basic skills developed in News Reporting. This module is part of the Journalism/PR pathway.",
+        "Learning outcomes": "A. Demonstrate a historical appreciation of defining moments and figures in the evolution of investigative journalism B. Evaluate the impact of challenges, changes and influences on in-depth reporting C. Assess the journalistic quality and social effects of analytical reporting D. Apply advanced journalistic techniques to research and produce an in-depth report",
+        "Method of teaching and learning": "Lectures Seminars"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM340&psl_code=SEM1"
+    }
+  ]
+}

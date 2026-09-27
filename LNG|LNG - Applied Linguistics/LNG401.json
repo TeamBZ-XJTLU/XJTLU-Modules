@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Linguistics for Language Teachers",
+  "module_code": "LNG401",
+  "offerings": [
+    {
+      "heading": "Linguistics for Language Teachers",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Linguistics for Language Teachers",
+        "module_code": "LNG401",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Linguistics for Language Teachers",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The main aims of the module are to introduce students to the core areas of language description and analysis: phonetics, phonology, morphology, syntax, semantics, pragmatics, discourse analysis, corpus linguistics and sociolinguistics. Students will learn to apply these methods of description and analysis to the English Language, and how to make this knowledge relevant to the language classroom.",
+        "Learning outcomes": "Students completing the module successfully should: A. demonstrate sound understanding of the main ways in which the linguistic study of language is carried out, B. show familiarity with key aspects of language structure, C. demonstrate an ability to analyse English language at various levels of its structure, D. show awareness of some of the relationships between the structures of English and the communicative purposes for which they can be used, E. show awareness of the importance of this knowledge to the language classroom.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: lectures and tutorials/workshops. Teaching consists of one lecture and one seminar per week. Lectures are used to survey key approaches to linguistic analysis and to demonstrate their application to the English language. Seminars are typically oriented towards analytical tasks as a basis for exploring the issues raised in the lectures."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG401&psl_code=SEM1"
+    }
+  ]
+}

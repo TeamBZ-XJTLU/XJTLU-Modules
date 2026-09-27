@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LIT",
+    "full_name": "Literature"
+  },
+  "full_name": "Literature and Environment",
+  "module_code": "LIT307",
+  "offerings": [
+    {
+      "heading": "Literature and Environment",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LIT",
+        "full_name": "Literature and Environment",
+        "module_code": "LIT307",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Literature and Environment",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to literature that engages imaginatively with the environment and pressing ecological issues. It explores works written in a variety of socio-cultural contexts from the Middle Ages to the contemporary period. The module foregrounds an imaginative, cross-cultural approach to reading and analysis that is student centred in character. The primary texts to be studied cut across multiple formats, from poetry and short stories to novels and films, all of which shed light on our shifting relationship with and attitude toward the natural world. Students will also be encouraged to engage creatively with the various theoretical and critical responses that have attended such works over the centuries, from various contexts. The module thus fits with programme aims in English and communication insofar as it seeks to develop students’ critical understanding of literary forms and techniques and of how literature functions as a communicative and creative tool.",
+        "Learning outcomes": "A. critically analyse representations of the environment in literature B. demonstrate an understanding of major movements and cultural trends that have influenced literary representations of the environment across multiple contexts C. develop original and creative responses to existing literary works relating to the environment D. structure and communicate complex arguments in writing E. demonstrate understanding of key critical and theoretical texts relating to the environment",
+        "Method of teaching and learning": "The teaching sessions are divided into two components. Lectures introduce students to relevant knowledge. Seminars develop critical discussions about the topic."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LIT307&psl_code=SEM1"
+    }
+  ]
+}

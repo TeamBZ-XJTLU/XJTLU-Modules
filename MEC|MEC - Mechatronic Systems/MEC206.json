@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MEC",
+    "domain_code": "MEC",
+    "full_name": "Mechatronic Systems"
+  },
+  "full_name": "Dynamic Systems",
+  "module_code": "MEC206",
+  "offerings": [
+    {
+      "heading": "Dynamic Systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MEC",
+        "full_name": "Dynamic Systems",
+        "module_code": "MEC206",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Dynamic Systems",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Dynamic Systems equips students with a thorough understanding of modeling, analysis, and control strategies for dynamic systems, fostering the ability to derive mathematical representations, evaluate system behavior, and design controllers for real-world mechatronic applications. This module develops practical skills in simulation and experimental validation, preparing students to address engineering challenges through systematic design, implementation, and reporting, while laying the foundation for advanced study or professional work in automation, robotics, and intelligent systems.",
+        "Learning outcomes": "A. Model dynamic systems and analyze systems characteristics among mechanical, thermal, fluid, and electrical systems. B. Apply fundamental principles to predict and describe the behavior of dynamic systems. C. Determine natural frequencies and understand the stability issues in dynamic systems using analytical methods. D. Design dynamic systems to achieve specified objectives on performance, cost, environmental protection, employing a holistic and proportionate approach to the mitigation of security risks.",
+        "Method of teaching and learning": "The method of teaching and learning for this module is designed to facilitate students' understanding and proficiency in mechatronic system modeling and control design. It commences with formal lectures to introduce the fundamental concepts and theories, tutorials to clarify doubts and engage in in-depth discussions on complex topics, and supervised laboratory sessions to provide hands-on experiences. To further support students, module leader will offer continuous feedback and guidance throughout the module. This ensures that students stay on track, understand the requirements, and can make the necessary improvements in their work. Additionally, students are encouraged to engage in independent study, exploring additional resources and materials to deepen their understanding of the subject matter related to mechatronic system modeling and control design."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MEC206&psl_code=SEM2"
+    }
+  ]
+}

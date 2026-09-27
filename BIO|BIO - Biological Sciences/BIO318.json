@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Artificial Intelligence in Biomedicine",
+  "module_code": "BIO318",
+  "offerings": [
+    {
+      "heading": "Artificial Intelligence in Biomedicine",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "BIO",
+        "full_name": "Artificial Intelligence in Biomedicine",
+        "module_code": "BIO318",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Artificial Intelligence in Biomedicine",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module “Artificial Intelligence in Biomedicine” aims to provide students with a comprehensive understanding of fundamental principles, techniques, and concepts essential to artificial intelligence (AI) as applied in the field of biomedicine. The module comprises lectures and hands-on lab sessions. Lectures: Covering key topics such as Introduction to AI, Intelligent Agents, Problem-solving Algorithms, Constraint Satisfaction Problems, Uncertainty, and foundational Machine Learning techniques. These lectures are designed to establish a solid groundwork, enabling students to adeptly work with AI technologies, design AI systems, and contribute to advancements in AI within the context of biomedicine. Lab Sessions: Focus on practical applications, including the development of AI algorithms for tasks such as regression, classification, and segmentation using biomedical data. These sessions provide students with hands-on experience crucial for applying theoretical knowledge to real-world scenarios in biomedicine. Upon completion of this module, students will gain valuable insights into AI techniques specifically tailored for biomedicine. They will acquire skills necessary to deploy AI solutions in biomedical settings, laying a robust foundation for further study and research in AI applied to biomedicine. This knowledge is not only beneficial for roles directly related to AI but also enhances problem-solving capabilities across interdisciplinary domains, fostering versatile skills essential for career development in biomedicine and beyond.",
+        "Learning outcomes": "A. Master fundamental AI principles tailored for applications in biomedicine; B. Translate real-world practical problems in biomedicine into AI frameworks; C. Explain and discuss different algorithms for a given problem; D. Understand the fundamental concepts in machine learning; E. Apply AI to address complex challenges in biomedicine; F. Design and implement AI algorithms for biomedical tasks.",
+        "Method of teaching and learning": "This module combines theoretical knowledge with practical hands-on experiences using the Python programming language, allowing students to directly apply the concepts they learn. Course content will be delivered primarily via standard lectures (2 hours per week for 10 weeks). To facilitate a deeper understanding of the concepts, the module includes a tutorial component (2 hours per week for 3 weeks). In this part, case studies and articles will be compiled to provide students with additional context and insights. In the lab section (5 hours per week for 6 weeks), students will have the opportunity to apply AI techniques to real-world biomedical problems. This involves analyzing biomedical datasets, selecting appropriate AI methods, and presenting their findings. This part of the module encourages collaborative problem-solving and peer review, fostering a dynamic learning environment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO318&psl_code=SEM1"
+    }
+  ]
+}

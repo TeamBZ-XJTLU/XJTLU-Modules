@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IRE",
+    "domain_code": "RBETC",
+    "full_name": "Robotics"
+  },
+  "full_name": "Project-based Practice in Intelligent Robotics",
+  "module_code": "RBE206TC",
+  "offerings": [
+    {
+      "heading": "Project-based Practice in Intelligent Robotics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "RBETC",
+        "full_name": "Project-based Practice in Intelligent Robotics",
+        "module_code": "RBE206TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Project-based Practice in Intelligent Robotics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module addresses the growing significance of robotics in various industries and aims to equip students with skills to build functional robots. Students will work on an industrial project, applying theoretical principles in a practical setting. Emphasizing soldering as a crucial skill, students will also gain proficiency in circuit design, motor control, sensor integration, mechanical assembly and Artificial Intelligence (AI) technology, all essential for effective robot building. The module recognizes the need for robotics engineers to solve engineering problems using numerical and practical methods. Through a system design project, students will acquire cutting-edge technical skills and cultivate systematic thinking. They will propose creative concepts to address practical industry problems and translate these ideas into robot designs at a system level. The performance of these robots will be evaluated to assess their suitability for industry requirements. Aims of this modules are: • Equip students with skills to build and test functional robots for industrial applications through lectures, seminars, hands-on labs, and group projects. • Foster practical experience in building and testing robots that meet specified requirements, allowing students to apply classroom concepts and gain valuable technical skills. • Enhance problem-solving abilities by promoting collaborative teamwork in group projects aimed at building functional robots. • Provide a practical understanding of robotic system design. • Develop students' ability to solve 'real' engineering problems using both numerical and practical methods. To foster effective communication skills in students, both verbally and in writing. Students will be required to document their projects, which will involve the preparation of technical reports and presentations. These activities will enhance students' ability to convey technical information effectively, which is an essential skill in the engineering profession.",
+        "Learning outcomes": "A Demonstrate proficiency in soldering and other necessary skills for building robotic systems. B Demonstrate knowledge and skill to build and test functional robots that meet specified requirements. C Utilize principles absorbed during academic instruction to an industry-relevant robotics project. D Collaborate effectively with team members on group projects. E Communicate effectively both verbally and in writing, including documenting project work.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This means that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contributions from industry partners. This philosophy is carried through also in terms of assessment, with a reduction in the use of exams and an increase in coursework, especially problem-based assessments that are project-focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. This module is taught with an emphasis on student learning through practice and by projects, facilitated by a module leader, and where appropriate, industrial mentors. Students can identify particular areas of learning needs or interests according to the available project(s). They will conduct independent research to gather information and resources to better define the problem. Progress towards the learning outcomes will be facilitated and monitored, where students are guided to progressively address the given problem through tasks. Independent learning will form an important aspect of the educational activities in this module. This module will be delivered through a combination of group discussions, case studies, hands-on practical exercises, etc. The components of the modules are: • Practical Laboratory Work: Students participate in hands-on activities such as soldering, prototyping, and robot building, conducted within a Problem-Based Learning paradigm that emphasizes student-centered learning. This approach fosters trial-and-error learning and intellectual challenges while enabling students to develop critical thinking and problem-solving skills to address open-ended problems, alongside practical skills in electronic and mechanical components. • Project-based Learning: Students collaborate in interdisciplinary teams to design, build, and test robots, gaining authentic experiences that develop active learning, interdisciplinary thinking, teamwork, problem-solving skills, and the application of design/simulation software and AI technology for the design and simulation of robotic systems. • Group Discussions and Communication Integration: Students develop written and verbal communication skills by articulating ideas, documenting work, and presenting findings to stakeholders. • Intellectual and Soft Skill Development: The module promotes intellectual growth and lifelong learning, advancing students from technical skills to soft skills like teamwork and project management through open-ended challenges. • Multifaceted Learning Opportunities: The module provides diverse learning experiences combining practical work, interdisciplinary projects, and industry engagement, equipping students with technical and soft skills for engineering careers. • Seminars: seminars will be given about the design of robotic systems, covering a case study and a project presentation. Students will have team discussion sessions among themselves for the case study and a group presentation after they finish their project. • Assessment: The module is assessed through a group project, allowing students to gain practical experience in independent study and research on industry-focused, real-world problems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=RBE206TC&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Images of China: Global Narratives and National Storytelling",
+  "module_code": "COM420",
+  "offerings": [
+    {
+      "heading": "Images of China: Global Narratives and National Storytelling",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Images of China: Global Narratives and National Storytelling",
+        "module_code": "COM420",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Images of China: Global Narratives and National Storytelling",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims and fit of the module: The module aims to enable students to reflect critically on how China is represented in a wide variety of Western media and, in the process, investigate the ways in which Western discourse on China has changed through history. It will shed light on some of the cultural assumptions, fallacies and blind spots informing the Western engagement with China and the discipline of sinology. It will also examine the ways in which Sino-Western economic and political relations have both influenced and been affected by the changing discourse on China. The module will thus equip students with an understanding of identity/alterity politics and will encourage them to scrutinize the complex ideological dimensions of media representations. The module fits into the pathway Global Media and China because of its theoretical orientation and focus on the representation of China in non-Chinese media.",
+        "Learning outcomes": "Learning outcomes: A. Critically assess the ways in which media representations of China contribute to its cultural, geographical and linguistic identity B. Demonstrate theoretical and historical understanding of the contexts that affect changes in media representations of China C. Critically evaluate how Western-centric concepts of tradition and modernity inflect specific readings of China and the way in which they differ from how many Chinese read their own culture and society D. Present a cogent, realistic and original research proposal E. Conduct original research into the representation of China in western media F. Apply an academic referencing style correctly and consistently",
+        "Method of teaching and learning": "Methods of teaching and learning: The lectures contextualize and explain module readings, and key concepts and theories. In the seminars, students get the opportunity to develop a deeper understanding of the materials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM420&psl_code=SEM2"
+    }
+  ]
+}

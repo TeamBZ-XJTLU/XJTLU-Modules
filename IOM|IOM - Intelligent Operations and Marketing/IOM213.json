@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Introduction to Data Analytics",
+  "module_code": "IOM213",
+  "offerings": [
+    {
+      "heading": "Introduction to Data Analytics",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "IOM",
+        "full_name": "Introduction to Data Analytics",
+        "module_code": "IOM213",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Introduction to Data Analytics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to guide the students to understand the fundamentals of data analytics, including data collection and cleaning, data description, model building, and basic data analysis skills, which help them unlock the expertise of efficiently solving real-world data-related problems in Marketing.",
+        "Learning outcomes": "A Understand and explain the fundamental concepts, theories, and models for analyzing data. B Explain the basic steps of the data analytics process. C Utilize basic data analysis tools and techniques to analyze observational data. D Use data analysis to support real-world business decision-making.",
+        "Method of teaching and learning": "The module will be taught using a combination of lectures, tutorials, and directed study. The lectures are intended to provide an introduction to the topics covered in the syllabus. The module will provide some practical experience using econometrics models in tutorials and the regular completion of structured exercises."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM213&psl_code=SEM1"
+    }
+  ]
+}

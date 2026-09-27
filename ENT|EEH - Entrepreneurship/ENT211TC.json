@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEH",
+    "domain_code": "ENT",
+    "full_name": "Entrepreneurship"
+  },
+  "full_name": "AI Startup Development Lab",
+  "module_code": "ENT211TC",
+  "offerings": [
+    {
+      "heading": "AI Startup Development Lab",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "ENT",
+        "full_name": "AI Startup Development Lab",
+        "module_code": "ENT211TC",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "AI Startup Development Lab",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with hands-on experience in developing AI-powered startup ventures, focusing on integrating AI technologies into the product development process. Students will learn how to transform innovative ideas into scalable, market-ready solutions. The module aims to: 1) Equip students with the skills to design, develop, and prototype AI-driven products, applying AI tools to create innovative solutions. 2) Guide students in developing strategies to scale AI solutions and effectively prepare them for successful market entry. 3) Cultivate entrepreneurial thinking by encouraging students to apply AI technologies to solve real-world challenges and navigate the startup ecosystem.",
+        "Learning outcomes": "A Employ AI-driven tools and technologies to design and develop innovative product prototypes, integrating creativity with technical expertise. B Apply problem-solving methodologies to address challenges in AI product development, focusing on improving efficiency and scalability. C Conduct AI-driven market research and trend analysis to critically evaluate initial market opportunities and challenges for new AI-based products. D Develop and implement strategies for scaling AI-driven solutions, ensuring they are adaptable, feasible, and sustainable in broader markets. E Reflect on the entrepreneurial journey, appreciating the role of AI in overcoming challenges and seizing opportunities for innovation and business growth.",
+        "Method of teaching and learning": "This module is integral to contemporary entrepreneurial education within XJTLU Entrepreneur College's (XEC) Industry Schools. Rooted in Syntegrative Education, the teaching methodology is centered on supporting students in Syntegrative projects within a studio setting. The approach emphasizes hands-on practicals, seamlessly combining lectures and coaching projects, fostering project-based learning and cross-disciplinary collaboration among XEC Industry Schools and industry partners. Functioning as a collaborative space, the module provides students with a unique opportunity to apply theoretical knowledge to real-world challenges, engaging in problem-based assessments. Industry experts actively participate, enriching students' projects and nurturing critical thinking skills crucial for innovative problem-solving in diverse industry contexts. This methodology not only cultivates an inclusive and dynamic learning environment but also equips students with holistic skills necessary for success in multifaceted industries. Evaluation will be based on group project work, incorporating individual grading in accordance with the university's policy. This comprehensive approach aligns with our commitment to delivering a practical, well-rounded educational experience."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENT211TC&psl_code=ACYR"
+    }
+  ]
+}

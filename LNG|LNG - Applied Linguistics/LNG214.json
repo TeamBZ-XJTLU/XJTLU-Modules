@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Historical Linguistics",
+  "module_code": "LNG214",
+  "offerings": [
+    {
+      "heading": "Historical Linguistics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Historical Linguistics",
+        "module_code": "LNG214",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Historical Linguistics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To engage students with a range of endogenous and exogenous changes. To provide students with the skills needed to analyze data sets from a range of languages, including (but not limited to) English, Latin, and Chinese. To teach students about changes in phonology, morphology and syntax. To engage students with language change theories and principles. The module builds on skills gained in ENG103, and allows students to take a new diachronic perspective to other areas of linguistics covered on the programme (including Syntax, Language and Mind, and Sounds of English).",
+        "Learning outcomes": "A. Demonstrate through essay writing and research their understanding of principles of semantic change, syntactic change, and morphophonological change. B Evaluate theories in language change through essay writing and presentation C Present their own arguments through a poster presentation and written essay. D Create their own research project and design a research poster.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (Lectures and Tutorials/workshops)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG214&psl_code=SEM1"
+    }
+  ]
+}

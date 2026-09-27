@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ELC",
+    "domain_code": "EAP",
+    "full_name": "English for Academic Purposes"
+  },
+  "full_name": "EAP for International Programmes",
+  "module_code": "EAP123",
+  "offerings": [
+    {
+      "heading": "EAP for International Programmes",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EAP",
+        "full_name": "EAP for International Programmes",
+        "module_code": "EAP123",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 1",
+        "Module Title": "EAP for International Programmes",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to support students in the development of English language and academic skills specific for international programmes. These students require 104 hours of guided tuition and 196 hours of private study in order to demonstrate the diverse range of linguistic skills required for a CEFR B2 or higher and/or the equivalent level for externally-provided international language tests (e.g. IELTS, TOEFL iBT, Pearson PTE). The module will therefore focus primarily on the four language skills (Listening, Reading, Speaking, and Writing) that are commonly assessed in international programmes and external language tests. Assessments are staged across the year to mirror the developmental journey toward CEFR B2 equivalency required to succeed on international programmes and in external tests, and to demonstrate linguistic proficiency to visa and immigration authorities. These skills will also enable students to function more effectively in their disciplinary studies and when moving to a foreign country to study, as well as their future academic and professional careers.",
+        "Learning outcomes": "A Employ a range of listening strategies typical to common testing systems in order to extract meaning from graded, non-academic and academic listening materials, and from verbal interactions. B Employ a range of reading strategies typical to common testing systems in order to extract meaning from graded, non-academic and academic reading materials. C Communicate spoken ideas typical to common testing systems, using non-academic and academic situations, with appropriate fluency, complexity and accuracy. D Produce written responses typical to common testing systems, using non-academic and academic tasks, with appropriate coherence, complexity and accuracy.",
+        "Method of teaching and learning": "Students will have 2*2 hour seminars per week. During the seminars, students will be given guidance on, and opportunities to practice various skills mentioned in the learning outcomes. The self-study activities will be extensions and/or consolidation of work carried out in the seminars. The use of AI tools via Learning Mall will be implemented, thus allowing students to more effectively utilise their Private Study hours. This module is designed for mixed-ability students, some of whom enter with a CEFR B2-level foundation. To build the proficiency required for success, the teaching model prioritizes intensive, interactive language input and practice. All scheduled contact time is dedicated to small-group seminars, which facilitate active skill development and personalized feedback. This focused environment is complemented by structured independent learning resources to ensure consistent linguistic engagement beyond the classroom."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EAP123&psl_code=ACYR"
+    }
+  ]
+}

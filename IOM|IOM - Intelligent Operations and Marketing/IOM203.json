@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Omnichannel Management",
+  "module_code": "IOM203",
+  "offerings": [
+    {
+      "heading": "Omnichannel Management",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "IOM",
+        "full_name": "Omnichannel Management",
+        "module_code": "IOM203",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Omnichannel Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The omni-channel is different from the multi-channel. It recognizes not only that customers access goods and services in multiple ways, but also that they are likely doing this at the same time; comparing prices on multiple websites, and seamlessly switching between mobile and desktop devices. This module aims to provide students with a holistic understanding of the design, modification, and maintainance of effective channel strategies and structure, in consumer goods markets and business-to-business markets, for both physical products and services.",
+        "Learning outcomes": "A. Understand the role of omnichannel management in developed economies, and define the structure and key characteristics of omnichannel management. B. Evaluate and apply consumer behaviour theory to the choice of stores and goods/services by consumers, and to the choice of suppliers and merchandise by retail buyers. C. Evaluate appropriate frameworks for the strategic planning and implementation of omnichannel management. D. Evaluate and apply the evaluative criteria underpinning decisions relating to the location and management of a store network. E. Understand the nature and range of management decisions taken in the management of the omnichannel marketing mix.",
+        "Method of teaching and learning": "The module involves a range of teaching strategies including lectures, student-led seminars and case studies. Additional material will be in the form of web-based reading and research, selected texts, journal articles and contemporary press and magazine articles. Independent research and study will be encouraged to complement group work activities. Student-led seminars will facilitate the sharing of knowledge and experiences of cohort members."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM203&psl_code=SEM1"
+    }
+  ]
+}

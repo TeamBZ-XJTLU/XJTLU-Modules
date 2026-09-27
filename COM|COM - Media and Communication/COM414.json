@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Global Advertising",
+  "module_code": "COM414",
+  "offerings": [
+    {
+      "heading": "Global Advertising",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Global Advertising",
+        "module_code": "COM414",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Global Advertising",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module discusses the theory and practice of advertising from a global and comparative perspective. It explores global advertising examples, past and present, assisting students to contextualize and critically evaluate advertising communication for different audiences across the globe. In addition, it reflects on the tension between the global and the local, and the extent to which advertising can be standardized, versus the extent to which it needs to be adapted, across various markets. Students will also learn and apply the processes for developing effective advertising strategies for a globally competitive marketplace.",
+        "Learning outcomes": "A. Investigate and critique differing advertising approaches in a global context B. Critically examine the impact of cultural diversity on global advertising practice C. Identify and describe the issues involved in effectively managing global advertising communication D. Work productively and efficiently in a group E. Develop and articulate advertising strategies for different global settings",
+        "Method of teaching and learning": "The lectures present content related to global advertising theory and practice. This includes an exploration of cultural values, consumer behaviors, and current issues, challenges, and trends. In the seminars, students discuss and engage with the module content on a deeper level. Through the process of critically examining global advertising case studies and examples, students also learn to make informed decisions about developing effective advertising for a global context."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM414&psl_code=SEM2"
+    }
+  ]
+}

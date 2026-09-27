@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEH",
+    "domain_code": "ENT",
+    "full_name": "Entrepreneurship"
+  },
+  "full_name": "Elderly Care Management",
+  "module_code": "HXA410TC",
+  "offerings": [
+    {
+      "heading": "Elderly Care Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENT",
+        "full_name": "Elderly Care Management",
+        "module_code": "HXA410TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Elderly Care Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with a comprehensive, practice-oriented understanding of elderly care management, spanning micro-level service delivery, institutional operations, stakeholder collaboration, technological innovation, and AI application. It is structured to reflect the multifaceted and multi-actor nature of elderly care, with a strong focus on organisational and service-level decision-making. This module enables students to critically analyse and address the operational, technological, and relational challenges inherent in delivering high-quality elderly care, while cultivating practical managerial and reflective problem-solving skills.",
+        "Learning outcomes": "A. Explain and critically evaluate key concepts and theoretical frameworks in elderly care management within the context of an ageing society. B. Analyse and assess internal operations of elderly care institutions and the coordination mechanisms within the broader elderly care service ecosystem. C. Apply appropriate management methods to design and deliver personalised care services for the ageing population.",
+        "Method of teaching and learning": "Guided by the philosophy of Syntegrative Education, this module adopts an intensive block-teaching format that enables deeper engagement with industry partners and allows students to focus on completing problem-based and project-oriented assessments. This module will be delivered through a series of key lectures/seminars. In addition, students will be required to analyse a number of cases, determining what worked and why."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=HXA410TC&psl_code=SEM2"
+    }
+  ]
+}

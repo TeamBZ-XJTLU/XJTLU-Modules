@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Tax Compliance and Planning",
+  "module_code": "ACC418",
+  "offerings": [
+    {
+      "heading": "Tax Compliance and Planning",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Tax Compliance and Planning",
+        "module_code": "ACC418",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Tax Compliance and Planning",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To enable students in straightforward scenarios to prepare tax computations for individuals and companies, understand the tax implications of a course of action, explain potential tax treatments of transactions, resolve taxation issues that arise in the context of preparing tax computations; and advise on tax-efficient strategies for businesses and individuals.",
+        "Learning outcomes": "a. recognise the ethical issues arising in the course of performing tax work and identify the obligations the UK system of taxation imposes on taxpayers and the implications for taxpayers of non-compliance; b. understand the principles of VAT and calculate the amount of VAT owed by or owed to businesses; c. understand the principles of stamp tax and calculate the amount of stamp taxes due in straightforward transactions; d. understand the principles of capital gain tax and calculate the capital gains tax payable by individuals; e. understand the principles of inheritance tax and calculate the amounts of inheritance tax due on lifetime transfers and transfers on death by individuals, personal representatives and trustees; f. understand the principles of corporate tax and calculate the corporation tax liabilities of companies; g. understand the principles of individual tax and calculate the amounts of income tax owed by or owed to individuals; h. understand the principles of national insurance tax and calculate the amounts of national insurance payable by individuals, businesses and companies; i. advise on tax-efficient strategies for businesses and individuals in simple scenarios; j. explain and evaluate alternative tax treatments in simple scenarios; and k. give due consideration to the interaction between taxes.",
+        "Method of teaching and learning": "A range of teaching and learning methods will be utilized on this module. Core substantive knowledge will be delivered in weekly lectures and seminars, with some short interactive questions provided as in-class exercise. Weekly homework assignment is given to reinforce the knowledge. Relevant case-based exam standard questions will be assigned after the completion of each main topic to give further practice in the application of that knowledge. These case-based scenario questions will be discussed in seminars, with feedback provided to students on their attempts on these questions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC418&psl_code=SEM1"
+    }
+  ]
+}

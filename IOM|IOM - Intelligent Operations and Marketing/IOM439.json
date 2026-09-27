@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Business and Management as a Social Science",
+  "module_code": "IOM439",
+  "offerings": [
+    {
+      "heading": "Business and Management as a Social Science",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Business and Management as a Social Science",
+        "module_code": "IOM439",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Business and Management as a Social Science",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to conducting research in the field of business and management. It provides a broad grounding in social science with an understanding of the differing methodologies of quantitative and qualitative research, but remains targeted on the concerns of business and management. Students will be encouraged to reflect on the purpose of knowledge creation including their own motivations for engaging with business and management research.",
+        "Learning outcomes": "A Understand what social science is and how business and management research sits within it. B Be familiar with debates around the purpose and relevance of business and management research, and the processes of knowledge creation and dissemination into managerial practice. C Appreciate the range of different approaches to what constitutes good research in business and management. D Understand and critically apply key concepts in business and management research, including polarities of approaches found in objectivism versus constructionism, modernism versus postmodernism, ontology and epistemology and how they affect research design. E Understand a broad range of research methods and be able to select a method suitable for addressing particular research questions and problems. F Have a critical awareness of the influence of politics and ethics on business and management research. G Gain an overview of data analysis techniques. H Critically understand and apply the idea and process of theory building. I Be able to produce an outline research proposal.",
+        "Method of teaching and learning": "This module will be taught in a seminar style."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM439&psl_code=SEM1"
+    }
+  ]
+}

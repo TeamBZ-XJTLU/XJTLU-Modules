@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Principles & Practices in Early Childhood Education",
+  "module_code": "EDS450",
+  "offerings": [
+    {
+      "heading": "Principles & Practices in Early Childhood Education",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Principles & Practices in Early Childhood Education",
+        "module_code": "EDS450",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Principles & Practices in Early Childhood Education",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module equips students with systematic knowledge and critical skills to autonomously apply early childhood principles through project‑based learning in complex contexts. Students critically engage with AI tools to design real‑world initiatives, foster inclusive relationships, create sustainable learning environments, and evaluate holistic approaches against the Early Years Learning Framework. As a core applied Master’s course, it bridges theory and reflexive practice, building on foundational knowledge and leading to advanced policy or intervention modules. Sequential assessments (individual project proposal and reflective portfolio) produce professional documentation demonstrating autonomous judgment, directly transferable to specialist early childhood educator roles.",
+        "Learning outcomes": "A．Critically integrate key principles and theories of the Early Years Learning Framework to design, implement, and evaluate a real-world early childhood initiative that addresses a specific community or classroom need B．Critically evaluate and build and foster respectful, reciprocal relationships with children, families, staff, and the community by actively investigating and responding to the diverse histories and backgrounds of project participants C. Navigate the projects to create flexible, sustainable, and inquiry-driven spaces that support project goals and children’s active learning. D. Critically analyze holistic approaches to early childhood principles and practices by managing a project that requires evaluating real-life cases, proposing evidence-based solutions, and reflecting on the integration of theory into practice.",
+        "Method of teaching and learning": "Adopt a blended Research-Led Project-Based Learning (RLPBL) framework where students learn core concepts through mini-lectures and projects guided inquiry, then immediately apply them to a sustained individual project proposal (Assessment 1) and develop their critical, professional and leading skills to complete a reflective portfolio (Assessment 2). AI technologies will be critically used in assisted students to finish the project."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS450&psl_code=SEM2"
+    }
+  ]
+}

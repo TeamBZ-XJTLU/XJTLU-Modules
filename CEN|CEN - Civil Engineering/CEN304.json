@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Capstone Design Project",
+  "module_code": "CEN304",
+  "offerings": [
+    {
+      "heading": "Capstone Design Project",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "CEN",
+        "full_name": "Capstone Design Project",
+        "module_code": "CEN304",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Capstone Design Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module is to combine students’ engineering knowledge of analysis and design within a unified design project and to develop students’ competency in teamwork and awareness of the various activities involved in the planning, management, design and construction of the engineering project. They will consider the whole lifecycle of the project, including potential rehabilitation of the structure.",
+        "Learning outcomes": "A. Analyse traffic data, develop traffic models and perform network analysis on traffic systems. B. Evaluate conceptual and planning issues affecting a schematic design, and the whole lifecycle of the project, including the potential rehabilitation of structures. C. Develop feasible design solutions as a team by collaboratively evaluating the buildability, economical, environmental, sustainability, health and safety (H&S) and diversity, equality, and inclusion (DEI) considerations of the construction project. D. Select appropriate construction materials and perform detailed calculations that satisfy the design constraints, efficiency requirements and security-minded considerations of the selected scheme structure. E. Use approximate hand calculations as a mean of validating output of computer-based analytical outputs.",
+        "Method of teaching and learning": "The module is taught through formal lectures and class tutorials. A group design project is carried out, and its assessment is based on both the overall achievement of a project team (i.e., a shared group mark) and individual performances (i.e., individual marks to team members)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN304&psl_code=SEM2"
+    }
+  ]
+}

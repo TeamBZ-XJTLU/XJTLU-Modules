@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Interpersonal communication in the workplace",
+  "module_code": "LNG302",
+  "offerings": [
+    {
+      "heading": "Interpersonal communication in the workplace",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Interpersonal communication in the workplace",
+        "module_code": "LNG302",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Interpersonal communication in the workplace",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "• To explore linguistic approaches to the study of organisational communication; • To investigate the ways in which interpersonal communication in the workplace is made sense of by participants and observers; • To account for the co-existence of co-operation and conflict in workplace communication",
+        "Learning outcomes": "A. Explain variations in organisational communication with reference to intrapersonal and interpersonal factors B. Account for cooperation in workplace communication and for the development of productive relationships C. Identify conflict in workplace communication and attempts to manage conflict D. Conceptualise differences in expectations of workplace language use E. Pose relevant analytical questions concerning the uses of language in workplace and related settings",
+        "Method of teaching and learning": "1. Interpersonal communication and its role in organistional settings; 2. Evaluation of interpersonal communication in organisational settings in terms of such concepts as competence and effectiveness; 3. Theoretical approaches to the study of interaction with an emphasis on “face” and conflict; 4. The communicative significance of jokes and small talk; 6. Strategies used in organisational communication to achieve cooperation and manage conflict"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG302&psl_code=SEM2"
+    }
+  ]
+}

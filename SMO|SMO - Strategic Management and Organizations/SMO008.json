@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Trends in Management",
+  "module_code": "SMO008",
+  "offerings": [
+    {
+      "heading": "Trends in Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Trends in Management",
+        "module_code": "SMO008",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Trends in Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This Year 1 module aims to provide students with a comprehensive foundation to the study of Management by considering the key theories, current trends and issues of relevance to their intended future study. Students are encouraged to reflect on how they will apply their learning both to their personal careers and to practical business cases. After completion of this module, students should be prepared for the following undergraduate degree programmes: BA Business Administration, BA International Business with a Language, and BA Human Resource Management and People Analytics. This module prepares students for both study and the workplace, by requiring them to: (1) consider key management theory, (2) analyse contemporary trends and issues, and (3) understand how theories can be applied to industry cases.",
+        "Learning outcomes": "A.Understand key management theories B.Examine current trends and issues relating to international business C.Understand how theories can be applied to business case scenarios",
+        "Method of teaching and learning": "This is a lecture based module supported by private study.Lectures are thoughtfully combined with theory introduction, case studies, hands-on exercises, and interactive activities (such as role-playing) as needed."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO008&psl_code=SEM2"
+    }
+  ]
+}

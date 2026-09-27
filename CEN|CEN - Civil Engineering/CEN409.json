@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Advanced Construction Management",
+  "module_code": "CEN409",
+  "offerings": [
+    {
+      "heading": "Advanced Construction Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Advanced Construction Management",
+        "module_code": "CEN409",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Construction Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To develop student awareness of professional practices in construction management. To develop a knowledge and understanding of strategic and lifecycle approaches to management. To stimulate an appreciation of managements’ role in creating new business and opportunities.",
+        "Learning outcomes": "A. Develop abilities in project management as applied to contracts, finance and strategy in business development, incorporating comprehensive BIM-related and IT-based approaches. B. Track the progress of construction projects using common and advanced project control and tracking techniques. C. Evaluate corporate and project related problems and challenges by applying comprehensive BIM-related and IT-based approaches of construction project management. D. Incorporate sustainable and ethical components into the construction engineering and management practices. E. Develop necessary research skills and make public speech for presenting the research outcomes.",
+        "Method of teaching and learning": "The module is taught through formal lectures and class tutorials. In addition seminars will be conducted."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN409&psl_code=SEM1"
+    }
+  ]
+}

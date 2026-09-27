@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "ARC",
+    "full_name": "Architecture"
+  },
+  "full_name": "Small and Medium Scale Buildings",
+  "module_code": "ARC305",
+  "offerings": [
+    {
+      "heading": "Small and Medium Scale Buildings",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ARC",
+        "full_name": "Small and Medium Scale Buildings",
+        "module_code": "ARC305",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 3",
+        "Module Title": "Small and Medium Scale Buildings",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "ARC305 (Synthetic Studio) develops advanced design agency through the synthesis of natural, artificial and collective intelligence. As the bridge to DES302 FYP Studio, it connects embodied observation, hand sketching and modelling with digital production, fabrication, simulation and advanced AI-supported methods. A traceable frame-generate-make-test-evaluate-iterate cycle teaches students to select and critique tools, test consequences and retain accountable authorship while establishing an emerging specialist direction. The module culminates in a resolved architectural proposition, prototype, exhibition and design defence.",
+        "Learning outcomes": "A Frame a complex architectural design question and establish a research position grounded in contextual evidence, stakeholder needs and a critical reading of the brief. B Orchestrate natural, artificial and collective intelligence to generate, compare and select design alternatives while retaining purposeful human agency. C Plan, conduct and document an iterative design process in which feedback, testing and reflection demonstrably transform the developing proposal. D Integrate cultural, social, environmental, spatial, material, structural, technical, regulatory and experiential considerations into a coherent architectural strategy. E Translate fluently between hand sketching and hand modelling, digital modelling and production, fabrication and advanced AI-supported workflows. F Prototype and test design propositions across relevant scales, interpret qualitative and quantitative evidence, and use the findings to improve performance and resolution. G Communicate and defend a resolved design and its process, critically addressing authorship, provenance, ethics, collaboration and the project's relationship to an emerging specialist trajectory.",
+        "Method of teaching and learning": "The project work is developed in a studio setting. Group and individual tutorials are supported through lectures. Students present their proposals regularly for public discussion. Critics will include other members of studio staff within the university, visiting lecturers from other schools of architecture and architects in practice."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ARC305&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Documentary Craft",
+  "module_code": "FTA220",
+  "offerings": [
+    {
+      "heading": "Documentary Craft",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Documentary Craft",
+        "module_code": "FTA220",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Documentary Craft",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This core module builds on the work that students have already done at Level 4 in their Documentary Theory and Practice module. The module provides an opportunity to further explore the documentary form through the creation of a short film, from inception to reception. Specifically, the module is designed to: Further develop students’ competence in ideas generation, research practices and production development in documentaries Encourage creative and exploratory approaches to documentary filmmaking and develop a self-critical attitude towards all aspects of the work of self and peers Give students a greater understanding of the techniques of visual story telling through documentary practice Give students a greater understanding of the theories, principles, and practice of directing documentary Provide the skills to analyse information and experiences, formulate independent judgments, and articulate reasoned arguments through reflection, review and evaluation Further develop practical skills in camerawork, sound recording, editing and web authorship for documentaries Develop interpersonal and communication skills necessary for collaborative teamwork and industry employability",
+        "Learning outcomes": "A Research subject matter and plan an effective approach to constructing a documentary project by creating a documentary project proposal B Demonstrate the ability to portray characters and events in a succinct and engaging way by creating a documentary film C Discuss ethical and moral concerns of representation D Research and reflect on contemporary forms and modes of documentary production and consumption",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (lectures and seminars). The lectures will provide an opportunity to understand the documentary form and current practices in documentary film-making; the seminars will provide the opportunity to explore co-working on individual documentary projects."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA220&psl_code=SEM1"
+    }
+  ]
+}

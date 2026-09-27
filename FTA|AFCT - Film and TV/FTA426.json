@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Marketing and Branding for Cultural and Creative Industries",
+  "module_code": "FTA426",
+  "offerings": [
+    {
+      "heading": "Marketing and Branding for Cultural and Creative Industries",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Marketing and Branding for Cultural and Creative Industries",
+        "module_code": "FTA426",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Marketing and Branding for Cultural and Creative Industries",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: This module aims to equip students with the knowledge and practical skills to develop expertise in marketing and branding for the cultural and creative industries. Objectives: Students will learn established marketing and branding strategies and apply them in CCI context.",
+        "Learning outcomes": "A Demonstrate a systematic understanding of the theories and debates of branding for the cultural and creative industries B Evaluate critically the contemporary practices of marketing and branding for the cultural and creative industries C Apply critically the techniques of digital branding and marketing relative to the cultural and creative industries D Communicate effectively to an audience displaying highly advanced communication skills",
+        "Method of teaching and learning": "This module is taught with lectures delivering content, often related to reading, and seminars where students will hold structured as well as informal discussions and workshops."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA426&psl_code=SEM2"
+    }
+  ]
+}

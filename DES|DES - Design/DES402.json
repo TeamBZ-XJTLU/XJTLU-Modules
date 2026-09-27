@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DES",
+    "domain_code": "DES",
+    "full_name": "Design"
+  },
+  "full_name": "Sustainable Project Management",
+  "module_code": "DES402",
+  "offerings": [
+    {
+      "heading": "Sustainable Project Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DES",
+        "full_name": "Sustainable Project Management",
+        "module_code": "DES402",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Sustainable Project Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to educate and train students with an in-depth understanding of the principles and practice of project management with a focus on applying ethical and sustainable considerations. It covers knowledge, methods, techniques, and tools aimed at project sustainability, including project planning, monitoring, and controlling by considering the environmental, economic, and social aspects of a life cycle. Students will learn knowledge, methods, and techniques necessary for sustainable project management throughout a project life cycle perspective. The module is centred around the application of knowledge and skills to the development of a sustainable project. By the end of the module, students will not only have an understanding of sustainabilityâ€™s impact on project management but also possess practical techniques and tools to evaluate sustainability in project planning and operations.",
+        "Learning outcomes": "A. Recognise the fundamental properties of projects and identify the rationale for sustainable project management, in alignment with the United Nations Sustainable Development Goals B. Apply a range of contemporary project management methodologies integrating the triple bottom line accounting for environmental, economic, and social aspects. C. Measure sustainable management performance. D. Interpret and analyse best practices through real-life examples to demonstrate how to embed sustainability in projects.",
+        "Method of teaching and learning": "The module is taught in weekly sessions in the form of lectures and tutorials. When possible, students will be involved in real projects within the industry."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DES402&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MAT",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Fixed Income Securities",
+  "module_code": "MTH402",
+  "offerings": [
+    {
+      "heading": "Fixed Income Securities",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Fixed Income Securities",
+        "module_code": "MTH402",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Fixed Income Securities",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "We focus on the explanation of fixed income securities(FIS)' important role in modern financial markets by introducing the basics of FIS and their derivatives, the term structure of interest rates and related statistical methods, the studies of influential historical cases related to FIS, and the three-factor affine term models.",
+        "Learning outcomes": "By the end of this module students should be able to understand and analyze the basics of fixed income securities including its cash flow and price, the term structure of interest rate and its related models including tree models and continuous models, the derivatives of fixed income securities and their valuations, the application of the Monte Carlo methods for the valuation of fixed income securities and their derivatives, and historical cases and crises related to fixed income securities.",
+        "Method of teaching and learning": "Lectures and homework exercises"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH402&psl_code=SEM2"
+    }
+  ]
+}

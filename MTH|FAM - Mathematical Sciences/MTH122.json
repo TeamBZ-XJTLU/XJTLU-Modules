@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FAM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Introduction to Abstract Algebra",
+  "module_code": "MTH122",
+  "offerings": [
+    {
+      "heading": "Introduction to Abstract Algebra",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Introduction to Abstract Algebra",
+        "module_code": "MTH122",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Abstract Algebra",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "• To introduce some commonly used mathematical structures. • To provide knowledge about basic results in arithmetic and group theory. • To help with the transition from concrete to abstract mathematical thinking. • To present applications, such as data encryption, that rely heavily on abstract mathematics. • To demonstrate how algebraic structures can be used to unify diverse mathematical topics. • To develop the students’ skills in reading and writing mathematical proofs. • To enrich the mathematical vocabulary of the students.",
+        "Learning outcomes": "A Apply the Euclidean algorithm to integers. B Work with fundamental mathematical concepts, such as relations and permutations. C Use modular arithmetic to solve problems related to cryptography and coding theory. D Recognize and work with common algebraic structures (such as groups, subgroups, and homomorphisms) and constructions (such as the Cartesian product of groups). E Find the image and kernel of a homomorphism and show (in simple cases) whether two structures are isomorphic. F Apply basic results in group theory, such as Lagrange’s Theorem.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH122&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Introduction to multilingualism",
+  "module_code": "LNG411",
+  "offerings": [
+    {
+      "heading": "Introduction to multilingualism",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Introduction to multilingualism",
+        "module_code": "LNG411",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Introduction to multilingualism",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The prevalence of mass media communication and the increased mobility within and across national borders bring multilingualism to the forefront of both language users’ attention and social and language study. As an introductory course, this module aims to introduce students to the basic concepts of multilingualism and its various dimensions as an interdisciplinary field of study. Multilingualism is approached from the social, cognitive, and educational perspectives in this module. The objectives of the module include equipping students with a systematic knowledge structure of the theoretical approaches to multilingualism, providing students with a basis of the current practices in multilingual studies at the societal and individual levels, and in the field of education, policy making, and cognition, raising students’ awareness of how the study of multilingualism contributes to the broader area of linguistics, and also developing their ability of viewing multilingualism in their own daily experiences in a critical way. This module aims to lay a solid and sound foundation for further study of the various dimensions of multilingualism in more depth.",
+        "Learning outcomes": "A Demonstrate familiarity with the core perspectives on and the main approaches to multilingualism, i.e., how multilingualism is approached at individual, societal, and contextual levels. B Discuss multilingualism at the individual level as a cognitive phenomenon C Discuss the dynamics in multilingual interactions in situated contexts D Discuss the sociopolitical and educational issues in relation to multilingualism at the community and societal levels E Critically apply knowledge of multilingualism to linguistic diversity in their own community and neighborhood.",
+        "Method of teaching and learning": "The module will be taught through a combination of lectures and interactive seminars. Each topic will be assigned one or two lecture sessions and one or two integrative seminars, depending on the topic under discussion. In the lecture section, the key theoretical and methodological issues will be surveyed and introduced. The students are then required to reflect upon and discuss these issues in the seminar and will be given opportunities to critically apply these core concepts to examine their own multilingual experiences."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG411&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMP",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Linear Algebra I",
+  "module_code": "MTH028",
+  "offerings": [
+    {
+      "heading": "Linear Algebra I",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Linear Algebra I",
+        "module_code": "MTH028",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Linear Algebra I",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To introduce students to the fundamental concepts of linear algebra, including systems of linear equations, matrices, vector spaces, linear transformations, diagonalisation, and associated calculation techniques; To provide the foundation of linear algebra necessary for further study in Science, Technology, Engineering, and Mathematics (STEM) and other fields, supporting Y1LO5 (Foundational academic capability); To enhance students' academic communication and literacy (Y1LO2) by developing clear, logically coherent written explanations using appropriate mathematical notation; To develop students' independent learning and problem-solving skills through structured practice and the modelling of simple practical problems.",
+        "Learning outcomes": "A Perform Gaussian elimination on systems of linear equations, and determine the structure of the solution set from row echelon form; B Compute matrix operations, determinants and inverses accurately, and use them to solve appropriately structured problems; C Determine bases and dimensions of vector spaces, and distinguish linear spaces by using invariants such as dimension and rank; D Convert between systems of linear equations, matrix representations and linear transformations, and explain how structural information is represented in each framework; E Develop mathematical models using linear systems, and solve simple practical problems with appropriate matrix methods.",
+        "Method of teaching and learning": "Students will be expected to attend two hours of lectures each teaching week. During these sessions, the instructor will explain fundamental concepts and the proofs of theorems. Computational techniques and problem-solving methods will also be discussed through worked examples. Lecture slides, extra exercises, chapter summaries, and other supplementary materials will be uploaded to Learning Mall Core to facilitate students' private study. Students are expected to read the teaching slides and corresponding textbook chapters in advance for preparation, and to review them afterward for consolidation. Weekly assignments are designed to promote reflective learning and strengthen students' computational proficiency. Suggested solutions will be provided as feedback after the submission deadline, helping students recognize errors and express their reasoning in an accurate, comprehensive, and logically coherent written manner, supporting academic communication and literacy. Independent preparation, review, and cumulative problem sets consolidate foundational linear algebra skills for progression into later modules, supporting foundational academic capability. Students are encouraged to discuss questions arising from their studies with the instructor after class or during office hours."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH028&psl_code=SEM1"
+    }
+  ]
+}

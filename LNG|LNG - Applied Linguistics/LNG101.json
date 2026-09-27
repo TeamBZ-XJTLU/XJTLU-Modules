@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Sounds of English",
+  "module_code": "LNG101",
+  "offerings": [
+    {
+      "heading": "Sounds of English",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Sounds of English",
+        "module_code": "LNG101",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Sounds of English",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to enable students to discover how sounds are articulated and how pronunciation works. The module develops students’ skills in recognising, classifying and producing individual sounds and connected speech, and it familiarizes students with the International Phonetic Alphabet and the basics of phonetic transcription. The module also provides students with a theoretical understanding of intonation patterns of British English and it raises students’ awareness of the phonological differences between British English and Chinese.",
+        "Learning outcomes": "A. show an understanding of speech articulation; B. demonstrate knowledge of the phonological system of British English; C. demonstrate familiarity with the International Phonetic Alphabet; D. demonstrate familiarity with the principles of phonetic transcription and perform simple broad phonetic transcription tasks; E. demonstrate knowledge and understanding of the major phonological differences between English and Chinese; F. transcribe and annotate short stretches of connected speech; G. reflect critically on their own pronunciation patterns.",
+        "Method of teaching and learning": "The teaching sessions are divided into three components (Lectures, Tutorials and Classes in multimedia environment). Lectures Tutorials Classes and study sessions in multimedia environment"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG101&psl_code=SEM1"
+    }
+  ]
+}

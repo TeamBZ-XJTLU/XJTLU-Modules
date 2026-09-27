@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "UPD",
+    "full_name": "Urban Planning and Design"
+  },
+  "full_name": "Rural Planning",
+  "module_code": "UPD202",
+  "offerings": [
+    {
+      "heading": "Rural Planning",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "Rural Planning",
+        "module_code": "UPD202",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Rural Planning",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to introduce conceptual, theoretical, and practical knowledge of rural planning and develop understanding of rural planning in relationship with regional and urban development processes in the context of global sustainable development challenges.",
+        "Learning outcomes": "A. Demonstrate basic knowledge and understanding of rural areas, rural change, rural development, and rural planning theories B. Understand co-evolution of rural planning and rural functions C. Assess the impact of rural planning decisions on sustainable development from a territorial perspective D. Demonstrate understanding of rural planning in different governance settings E. Prepare integrated and sustainable rural planning proposals",
+        "Method of teaching and learning": "This module seeks to diversify students’ learning experiences through developing their theoretical knowledge and practical skills. The learning and teaching combines lectures, tutorials/seminars, and fieldtrip. Students’ develop research and teamwork skills through group tutorials and seminars, individual essay, and group project. *Should the University decide to cancel or postpone the fieldtrip due to unforeseeable environmental and/or political circumstances, the Department will either plan an appropriate substitute activity to meet the intended learning outcomes of the trip or make necessary arrangements to organise the trip at a later time, as appropriate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD202&psl_code=SEM2"
+    }
+  ]
+}

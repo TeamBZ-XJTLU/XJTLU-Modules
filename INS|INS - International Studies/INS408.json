@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Research Methods for Global Public Policy and International Relations",
+  "module_code": "INS408",
+  "offerings": [
+    {
+      "heading": "Research Methods for Global Public Policy and International Relations",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Research Methods for Global Public Policy and International Relations",
+        "module_code": "INS408",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Research Methods for Global Public Policy and International Relations",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "In this module, students gain an advanced understanding of fundamental issues and methodological tools underlying empirical inquiry in International Relations with a view to apply these methods in their own projects, for example their Master’s thesis. Based on a thorough understanding of epistemological divisions, causal inference, and research design and ethics, students will engage with qualitative and quantitative methods, as well as formal modelling.",
+        "Learning outcomes": "A Contrast epistemological foundations of International Relations research. B Contrast multiple ways of making causal inferences. C Critically evaluate requirements and challenges of research design. D Evaluate requirements and challenges of research ethics. E Understand and apply qualitative methods in International Relations research. F Understand and apply quantitative methods in International Relations research. G Understand and apply formal modelling in International Relations research.",
+        "Method of teaching and learning": "The module will be informed by interactive and application-oriented teaching methods. It will consist of  seminars that include mini-lectures and independent study and research;  tutorials for learning how to apply quantitative and qualitative research methods and;  lab sessions for students to learn how to use software for quantitative and qualitative analysis."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS408&psl_code=SEM2"
+    }
+  ]
+}

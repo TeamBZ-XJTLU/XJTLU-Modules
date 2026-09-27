@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "UPD",
+    "full_name": "Urban Planning and Design"
+  },
+  "full_name": "Urban and Environmental Economics",
+  "module_code": "UPD105",
+  "offerings": [
+    {
+      "heading": "Urban and Environmental Economics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "Urban and Environmental Economics",
+        "module_code": "UPD105",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Urban and Environmental Economics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to develop the understanding of the basic economic principles that regulate the formation and the development of urban and regional systems. It seeks to explore the relationship between market forces, land and the environment, outlining the main challenges of the decision making process and the policy implementation. It also seeks to relate the models of the mainstream economics to new critical perspectives.",
+        "Learning outcomes": "A. Summarise a basic history of economic ideas, and the principles of economic behaviour B. Express a grounded understanding of the economic characteristics of land, and the models which explain land use and urban development and the related urban policies; C. Explain the relationship between economic activity and the natural environment, and its implications for sustainable urban development; D. Relate the concept of space to the dynamics of economic regional growth and development.",
+        "Method of teaching and learning": "Lectures will provide students the basic theoretical elements of the module. Tutorials provide an opportunity for students to integrate these learnings."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD105&psl_code=SEM2"
+    }
+  ]
+}

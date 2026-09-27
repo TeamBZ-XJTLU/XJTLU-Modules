@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Advanced Macroeconomics",
+  "module_code": "ECO320",
+  "offerings": [
+    {
+      "heading": "Advanced Macroeconomics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Advanced Macroeconomics",
+        "module_code": "ECO320",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Advanced Macroeconomics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a good knowledge of modern macroeconomics at the advanced level. We do this by focusing on the role of expectations in business cycles and the implications of openness to international trade and investment in economic fluctuations.",
+        "Learning outcomes": "A. Explain the microeconomic underpinnings of parameters of macroeconomic models of business cycles. B. Assess, evaluate and interpret the performance of economies using graphical or mathematical tools. C. Relate differences in economic policy recommendations regarding business cycles to differences in the assumptions about expectations and openness of an economy. D. Discuss, analyse and evaluate government policies concerning business cycles. E. Organize and present information from macroeconomic data sources to identify and assess the performance of economies during business cycles using appropriate statistical techniques.",
+        "Method of teaching and learning": "This module will be taught using a combination of lectures and tutorials. The lectures are intended to provide an introduction to the topics covered in the syllabus and prompt students to embark on their own research and follow up reading. Tutorials will provide students with the opportunity to further develop their skills though the exploration of various theoretical models."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO320&psl_code=SEM2"
+    }
+  ]
+}

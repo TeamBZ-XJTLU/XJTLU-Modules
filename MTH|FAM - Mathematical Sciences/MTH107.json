@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FAM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Advanced Linear Algebra",
+  "module_code": "MTH107",
+  "offerings": [
+    {
+      "heading": "Advanced Linear Algebra",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Advanced Linear Algebra",
+        "module_code": "MTH107",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Advanced Linear Algebra",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module serves as a second course in linear algebra. We present the general concepts and theory of linear spaces. We also introduce powerful tools in linear algebra for applications in science and engineering and introduce students to one of the major themes of modern mathematics: the classification of mathematical objects and structures. After completion of the module, students should be well prepared for further study of topics such as abstract algebra, numerical analysis, scientific computing and multivariable statistics.",
+        "Learning outcomes": "A. Recognise vector spaces and linear transformations between them. B. Interpret linear transformations of R^2 and R^3 in geometrical terms. C. Determine the structure of the set of solutions of linear equations. D. Convert a linear transformation from one representation to another. E. Solve problems using the theory and techniques of inner product spaces. F. Work with linear transformations to solve problems and to prove simple results.",
+        "Method of teaching and learning": "This module is delivered through formal lectures and tutorial classes"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH107&psl_code=SEM1"
+    }
+  ]
+}

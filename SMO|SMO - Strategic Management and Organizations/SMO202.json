@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Performance Management",
+  "module_code": "SMO202",
+  "offerings": [
+    {
+      "heading": "Performance Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Performance Management",
+        "module_code": "SMO202",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Performance Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module examines the strategic function of performance management (PM) in organizations. Students will analyze traditional and AI-augmented PM systems, exploring how the integration of HR and AI transforms practices to meet organizational goals. The module prepares students to ethically harness AI for data-driven people analytics, positioning it as a strategic collaborator.",
+        "Learning outcomes": "Student completing the module successfully should be able to: A) Analyze the linkages between performance management and organizational and HR strategy. B) Understand and critically analyze the reasons for performance management. C) Critically evaluate the processes and challenges associated with designing, implementing, and managing performance management systems within organizations using AI-enhanced tools and ethical frameworks. D) Appreciate the competencies associated with effective performance management interviewing. E) Collaborate with generative AI to co-create performance plans, collect data, and conduct reflective analysis for continuous improvement. F) Understand the linkages between performance management and other key HR processes in AI-integrated workflows.",
+        "Method of teaching and learning": "This module will be taught in seminar mode."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO202&psl_code=SEM2"
+    }
+  ]
+}

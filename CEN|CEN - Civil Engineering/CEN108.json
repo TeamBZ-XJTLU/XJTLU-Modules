@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Digital Engineering and Remote Sensing",
+  "module_code": "CEN108",
+  "offerings": [
+    {
+      "heading": "Digital Engineering and Remote Sensing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Digital Engineering and Remote Sensing",
+        "module_code": "CEN108",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Digital Engineering and Remote Sensing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are to introduce the fundamental principles and techniques of engineering surveying while incorporating modern digital engineering and remote sensing technologies, and to provide students with traditional onsite surveying skills and advanced data collection and analysis methods. The blend of essential and emerging content facilitates students' preparation for conventional and digital engineering practices, aligning the module with real-world demands.",
+        "Learning outcomes": "A. Understand the principles of traditional and digital surveying, including key concepts of engineering surveying and remote sensing technologies. B. Determine plan positions and point heights using conventional surveying techniques or advanced digital tools, such as remote sensing systems. C. Apply control surveying methods, including traversing, triangulation, and trilateration, and understand the integration of digital data collection methods. D. Determine areas, volumes and changes using traditional and digital techniques. E. Present surveying results through digital platforms, integrating graphical and data-driven representations using modern surveying methods.",
+        "Method of teaching and learning": "This module combines formal lectures with hands-on surveying fieldwork, integrating traditional techniques and digital tools."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN108&psl_code=SEM2"
+    }
+  ]
+}

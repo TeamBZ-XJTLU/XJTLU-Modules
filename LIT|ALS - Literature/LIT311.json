@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LIT",
+    "full_name": "Literature"
+  },
+  "full_name": "Digital Humanities Research and Practice",
+  "module_code": "LIT311",
+  "offerings": [
+    {
+      "heading": "Digital Humanities Research and Practice",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "LIT",
+        "full_name": "Digital Humanities Research and Practice",
+        "module_code": "LIT311",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Digital Humanities Research and Practice",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module offers students across humanities and social sciences related majors the opportunity to explore and gain experience in Digital Humanities (DH). Students will encounter and evaluate the ongoing digitisation of cultural heritages, and consider how digital tools and infrastructures are transforming research fields and culture industries such as publishing and heritage. Building on book history and digital textuality, the module shows their relevance to major DH initiatives and projects. It supports critical thinking and reflexive awareness of how learning is shaped by digital resources and tools. Students investigate digitisation, metadata, and research infrastructures, and undertake practical projects to apply their understanding. Hands-on workshops provide guidance in the fundamentals of digital scholarship and extensive opportunities to develop student-led projects. By engaging at both practical and theoretical levels with key developments across literary studies, translation, and area studies, students combine and synthesise skills from their degree programmes and prepare for research or research-related roles in the culture and creative industries.",
+        "Learning outcomes": "A. explain and analyse key concepts in digital humanities and digital literary scholarship. B. produce a piece of original digital scholarship or practice-research, demonstrating an initial skillset for digital humanities and practice. C. critically evaluate historic and contemporary digital humanities projects in relation to a set of clearly defined principles, and relate these to their own practice.",
+        "Method of teaching and learning": "Lectures offer information on the nature, history and current situation of digital humanities research and practice as well as ideas about how such developments have affected the fields of literary and cultural studies. Seminars offer opportunities to understand and evaluate the lecture material in specific contexts and to consider specific digital humanities projects and their impacts in detail. The class will consider published guidelines for evaluating digital humanities research from scholarly associations such as the AHA and MLA, and consider how to adapt these in carrying out our own evaluations of historic and contemporary projects. Seminars will also provide continuous guidance on the use and abuse of generative AI in the production of coursework assessments. Workshops/Lab Practicals provide guidance and practice in the fundamentals of digital scholarship, and offer extensive opportunities to develop their own projects, building upon their own interests and skills of reading and comprehension. The project that forms the basis of the assessment is a digital scholarly product (edition, archive, virtual museum, etc.), developed using commonly accepted standards. The assessment for the module involves students presenting a brief proposal, a sample, and a reflective essay which explicitly relates the project to one or more published digital humanities project(s)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LIT311&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Quality Management and Lean Six Sigma",
+  "module_code": "IFB208TC",
+  "offerings": [
+    {
+      "heading": "Quality Management and Lean Six Sigma",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Quality Management and Lean Six Sigma",
+        "module_code": "IFB208TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Quality Management and Lean Six Sigma",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course aims to introduce students into managing and controlling quality in manufacture or service industry. The concept of Lean Six Sigma will be emphasised as the foundation and later on there will be introduction to next stage of quality management including implementation of quality management systems regarding relevant certifications to assure quality and the application of Total Quality Management (TQM).",
+        "Learning outcomes": "A. Have a comprehensive understanding of quality in product and service. B. Have a comprehensive understanding of Lean Six Sigma concept in controlling quality. C. Understand the concept and principles of quality management systems with relevant certifications (ISO9000, QS9000, etc). D. Understand the application of Total Quality Management in an organisation.",
+        "Method of teaching and learning": "Formal lectures including the use of labs/tutorials to enable the appreciation of technical aspects of operations management and the ability to use the relevant numerical tools and analysis methods"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB208TC&psl_code=SEM1"
+    }
+  ]
+}

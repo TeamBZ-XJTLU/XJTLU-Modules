@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Thinking like a Linguist",
+  "module_code": "LNG001",
+  "offerings": [
+    {
+      "heading": "Thinking like a Linguist",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Thinking like a Linguist",
+        "module_code": "LNG001",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Thinking like a Linguist",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to a range of Linguistics topics and some of the ways in which Linguistics can be applied to the understanding of major issues in society and culture, to prepare them for studies in Applied Linguistics and Translation Studies. The module demonstrates to students how some methodologies and analytical techniques in Linguistics can be used to discover things about the mind, society, and culture. Students will have the opportunity to apply some of these methodologies themselves. The module seeks to inspire students; while it serves as a useful base for future studies in Linguistics, it also aims to equip students with knowledge and skills in language analysis and critical thinking that will be of use in other subject areas.",
+        "Learning outcomes": "A Demonstrate a basic understanding of the major areas of study and key concepts in Linguistics and Language Studies, including Translation. B Apply core concepts in Linguistics to social and cultural issues. C Demonstrate a basic understanding of research methods and approaches in Linguistics and Language Studies.",
+        "Method of teaching and learning": "The lectures provide students with knowledge of the subject area, with an emphasis on fundamental theories, topics, and contemporary questions and issues within Linguistics. The lectures also introduce students to simple questions and issues around research methodology and standard academic conventions and norms employed in the study of Linguistics. Seminars give students the change to apply skills in a practical way. Basic skills in writing, referencing, and critical thinking are developed through both class-based and online exercises and tasks. The focus here is placed on strengthening students’ English writing and comprehension skills, and in the appropriate use of Information and Communication Technologies (ICT)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG001&psl_code=SEM2"
+    }
+  ]
+}

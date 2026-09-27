@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "English for Specific Purposes",
+  "module_code": "LNG410",
+  "offerings": [
+    {
+      "heading": "English for Specific Purposes",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "English for Specific Purposes",
+        "module_code": "LNG410",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "English for Specific Purposes",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The main aims of the module are: • To introduce the field of English for Specific Purposes (ESP), with a focus on English for Academic Purpose • To identify and explore the main contexts of ESP work in academic, professional and workplace contexts • To set out the main issues and concepts in the context of the historical development of ESP • To introduce students to the theoretical foundations of ESP • To introduce students to pedagogy and materials development in ESP/EAP • To provide students with practical experience designing materials and teaching in academic or vocational setting • To introduce students to methods for conducting ESP research",
+        "Learning outcomes": "A demonstrate a critical understanding of the theoretical perspectives and teaching approaches to ESP, with a focus on teaching EAP in the tertiary context; B:acquire the skills of teaching EAP; C:design an ESP/EAP curriculum and develop ESP/EAP teaching materials; D:develop an informed research approach to ESP teaching in classroom and workplace settings; E:analyse English texts of professional contexts for teaching purposes",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: lectures and tutorials/workshops."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG410&psl_code=SEM2"
+    }
+  ]
+}

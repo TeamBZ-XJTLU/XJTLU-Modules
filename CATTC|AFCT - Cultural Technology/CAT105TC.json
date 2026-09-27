@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "CATTC",
+    "full_name": "Cultural Technology"
+  },
+  "full_name": "Introduction to Real-Time Engine",
+  "module_code": "CAT105TC",
+  "offerings": [
+    {
+      "heading": "Introduction to Real-Time Engine",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CATTC",
+        "full_name": "Introduction to Real-Time Engine",
+        "module_code": "CAT105TC",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Real-Time Engine",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the core technologies and creative workflows of real-time engines, with a primary focus on industry-standard platforms like Unity and Unreal Engine. By exploring the principles of real-time interaction, rendering, and storytelling, students will acquire practical skills to develop interactive experiences. These foundational skills empower them to create new work for diverse audiences across fields such as gaming, virtual production, immersive installations, and simulation.",
+        "Learning outcomes": "A Demonstrate understanding of the core architecture and workflow of a real-time engine, and how they are applied in the development of an interactive project. B Apply practical skills in the use of a real-time engine to design, develop, and iterate on a short interactive experience. C Demonstrate the ability to work both autonomously on specific technical tasks and collaboratively within a small team to complete a real-time engine project. D Situate the use of real-time engines within a historical and conceptual framework, evaluating their impact on contemporary media and entertainment industries.",
+        "Method of teaching and learning": "A series of lectures will provide the historical and conceptual background to understand how different entertainment technologies are utilized to create successful work. Practical workshops will allow students to explore technologies and their uses within an entertainment context."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAT105TC&psl_code=ACYR"
+    }
+  ]
+}

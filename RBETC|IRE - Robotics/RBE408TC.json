@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IRE",
+    "domain_code": "RBETC",
+    "full_name": "Robotics"
+  },
+  "full_name": "Immersive Robotics Studio 1",
+  "module_code": "RBE408TC",
+  "offerings": [
+    {
+      "heading": "Immersive Robotics Studio 1",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "RBETC",
+        "full_name": "Immersive Robotics Studio 1",
+        "module_code": "RBE408TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Immersive Robotics Studio 1",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The Immersive Robotics Studio 1 module is a hands-on and industry-led module that provides students in the MSc Advanced Robotics System program with an immersive learning experience in collaboration with industry partners. This module aims to bridge the gap between academia and industry by offering students the opportunity to work directly with industry professionals on real-world robotics projects. Through this immersive studio experience, students will enhance their practical skills, gain industry insights, and develop a deeper understanding of the practical applications of advanced robotics technologies. Module Aims: 1. Provide students with an immersive learning experience in an industrial setting, focusing on the practical application of advanced robotics technologies. 2. Foster collaboration and engagement between students and industry professionals to enhance practical skills and industry readiness. 3. Develop a deep understanding of real-world robotics challenges, industry practices, and emerging trends. 4. Enhance problem-solving, teamwork, and project management skills through hands-on experience in an industrial environment. 5. Cultivate professional attributes such as effective communication, adaptability, and the ability to work effectively within multidisciplinary teams.",
+        "Learning outcomes": "A. Apply theoretical knowledge and practical skills in an industrial setting to solve real-world robotics challenges. B. Collaborate effectively with industry professionals and multidisciplinary teams to develop innovative robotics solutions. C. Demonstrate an understanding of industry practices, emerging trends, and practical applications of advanced robotics technologies. D. Apply problem-solving, project management, and critical thinking skills to complete robotics projects by utilizing industry-standard tools and methods through hands-on immersive studio experiences. E. Communicate effectively, both orally and in writing, to present project findings, progress, and solutions to industry partners.",
+        "Method of teaching and learning": "The module's teaching philosophy aligns with the principles of Syntegrative Education, emphasizing project-based and experiential learning. Intensive block teaching facilitates meaningful industry partner engagement. Assessments focus on problem-solving through hands-on robotics projects rather than traditional exams. This provides students with dedicated time to immerse themselves in practical challenges. Industry experts heavily influence the Immersive Robotics Studio 1 to maximize students' real-world exposure. Instruction utilizes discussion-based exploration of authentic robotics problems. By participating in this active learning module, students gain not just technical skills but also professional competencies like teamwork, communication and critical thinking needed to excel in the robotics industry. The teaching methods aim to synthesize academic knowledge and industrial practice, fostering adaptable graduates ready to tackle complex challenges in this rapidly evolving field."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=RBE408TC&psl_code=SEM2"
+    }
+  ]
+}

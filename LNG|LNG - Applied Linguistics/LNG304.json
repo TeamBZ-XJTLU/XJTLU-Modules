@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Language and Power",
+  "module_code": "LNG304",
+  "offerings": [
+    {
+      "heading": "Language and Power",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Language and Power",
+        "module_code": "LNG304",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Language and Power",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides an overview of how language can be employed to exert power in various contexts and situations. Students will engage with Critical Discourse Studies and will learn how linguistic analysis can be employed to research key social issues and everyday life. Students will be given the opportunity to develop analytical skills in linguistic description and will gain broad-based and adaptable training in research methods and dissemination skills",
+        "Learning outcomes": "A Demonstrate knowledge and understanding of the ways language is used to influence, persuade and position us within hierarchies. B Demonstrate a critical awareness of the various applications of linguistic analysis to everyday talk, the language of the media or the language of institutions more broadly. C Demonstrate knowledge and understanding of different approaches in Critical Discourse Studies including relationships to areas such as systemic-functional grammar, cognitive linguistics, multimodality, forensic stylistics and corpus linguistics. D Develop independent and imaginative interpretations of linguistic material. E Plan, design, execute and communicate a piece of research or an inquiry, either as a member of a group or independently.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (Lectures and Tutorials/workshops). Lectures Tutorials/ workshops"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG304&psl_code=SEM2"
+    }
+  ]
+}

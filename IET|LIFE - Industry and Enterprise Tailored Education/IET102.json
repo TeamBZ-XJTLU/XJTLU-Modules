@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LIFE",
+    "domain_code": "IET",
+    "full_name": "Industry and Enterprise Tailored Education"
+  },
+  "full_name": "Advances in Finance",
+  "module_code": "IET102",
+  "offerings": [
+    {
+      "heading": "Advances in Finance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IET",
+        "full_name": "Advances in Finance",
+        "module_code": "IET102",
+        "semester": "SEMS"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Advances in Finance",
+        "Semester": "SEMS"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a comprehensive knowledge and understanding of key concepts and theories in investment management, especially in relation to private equity, industry funds, wealth management, asset securitization and financial product innovation. Through both classroom and experiential learning within a Chinese private equity company the module provides students with an opportunity to develop the practical problem-solving and analysis skills, professional skills, and leadership capabilities needed to take on roles as managers in the finance industry or related sectors, especially in a China context.",
+        "Learning outcomes": "A Identify knowledge of wealth management, asset securitization, financial product innovation and investment management in China. B Assess financial problems as they arise in practical real-world situations. C Examine recent regulations, reforms and developments in financial markets affect the practice and management of finance-related activities in China and beyond. D Demonstrate skills in reflection on the relationship between theory and professional practice.",
+        "Method of teaching and learning": "Classroom teaching, interaction analysis, case study, group exercises and enterprise-based on-site practices."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IET102&psl_code=SEMS"
+    }
+  ]
+}

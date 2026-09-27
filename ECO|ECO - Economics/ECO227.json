@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Experimental Economics and Finance",
+  "module_code": "ECO227",
+  "offerings": [
+    {
+      "heading": "Experimental Economics and Finance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Experimental Economics and Finance",
+        "module_code": "ECO227",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Experimental Economics and Finance",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with an understanding and appreciation of alternative approaches to analysing problems in economics and finance, recognising that in the real world human beings are not purely rational. It equips students with a broad toolkit for studying decision-making, combining behavioural insights, experimental methods, and emerging or AI-assisted approaches. The module prepares students for further study in behavioural, experimental, and financial economics.",
+        "Learning outcomes": "A Demonstrate understanding of the core concepts and models used in experimental economics and experimental finance. B Critically evaluate human behaviour and market anomalies with bounded rationality. C Demonstrate the ability to design and implement lab experiments and field surveys. D Demonstrate the ability to read, understand, and summarize academic articles in relevant fields.",
+        "Method of teaching and learning": "The module will be delivered via a combination of lectures and tutorials. Lectures will be delivered every week, which will be designed to provide essential information and introduce students to the basic tools of analysis. Tutorials will consolidate and extend the material introduced in the lectures. Students are expected to do some in-depth analysis of specific problems of experimental methods in economics and finance."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO227&psl_code=SEM1"
+    }
+  ]
+}

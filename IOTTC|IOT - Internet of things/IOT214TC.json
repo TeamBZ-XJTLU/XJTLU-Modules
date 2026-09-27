@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOT",
+    "domain_code": "IOTTC",
+    "full_name": "Internet of things"
+  },
+  "full_name": "Embedded Systems",
+  "module_code": "IOT214TC",
+  "offerings": [
+    {
+      "heading": "Embedded Systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOTTC",
+        "full_name": "Embedded Systems",
+        "module_code": "IOT214TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Embedded Systems",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to enable students to explore and understand technologies, devices and software required to build embedded systems in the context of Internet of Things (IoT) and its applications. The module will provide both the theoretical and practical skills related to microcontroller based embedded systems emphasising upon architectural principles, their design, programming, operation and how they are powered. The module will also consider embedded operating systems used by IoT systems. Finally, the module will explore the interrelationship between the hardware, the software and the communication protocols required to implement IoT based embedded solutions.",
+        "Learning outcomes": "A. Demonstrate understanding of embedded systems architectures, their design, operation and constraints in the context of IoT applications. B. Compare and contrast microprocessors to design, program and build IoT based embedded systems and solutions. C. Design and implement complex and integrated hardware and software solutions for embedded systems in the context of IoT applications. D. Evaluate the use of embedded operating systems for developing IoT-based solutions and applications.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This means that the delivery pattern follows intensive block teaching approach, which allows for meaningful contributions from a practical perspective. This philosophy is emphasised within the design of module assessments, with a reduction in the use of exams and an increase in coursework, with a particular emphasis on problem-based, task-based and/or project focused assessments. The delivery pattern provides space in the semester for students to concentrate on completing their assessments. In addition, the module integrates AI tools to boost learning efficiency: AI adaptive platforms deliver personalized resources (e.g., targeted tutorials) based on students’ progress. The module will be delivered via lectures, seminar(s) and supervised laboratory sessions, accompanied by private studies."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOT214TC&psl_code=SEM1"
+    }
+  ]
+}

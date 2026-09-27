@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Photovoltaic Energy Technology",
+  "module_code": "EEE402",
+  "offerings": [
+    {
+      "heading": "Photovoltaic Energy Technology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Photovoltaic Energy Technology",
+        "module_code": "EEE402",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Photovoltaic Energy Technology",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a comprehensive understanding of energy conversion and storage technologies, focusing on the design, operation, and analysis of photovoltaic systems, batteries, and other related devices. It introduces fundamental concepts in renewable energy systems and explores their practical applications, equipping students with the knowledge and skills necessary to address real-world challenges in sustainable energy engineering. The module fits into the overall programme by building on foundational concepts in electrical engineering and renewable energy. It prepares students for advanced modules in energy systems design, power electronics, and grid integration. It plays a critical role in developing the technical and analytical skills required for careers in renewable energy, power systems engineering, and sustainability-focused innovation.",
+        "Learning outcomes": "A. Critically analyze and evaluate the principles of electrochemical routes to energy conversion and their role in energy storage. B. Synthesize knowledge about the development and application of battery technology, solar radiation, and photovoltaic systems to assess their relative merits. C. Design and critically evaluate a photovoltaic system for specific applications, incorporating a detailed analysis of solar radiation, energy conversion, and storage mechanisms. D. Quantitatively assess the performance characteristics of batteries, solar cells, fuel cells, and chemical capacitors in terms of energy density, power density, and other key electrochemical properties.",
+        "Method of teaching and learning": "This module will be delivered through a combination of interactive lectures, tutorials, and oral presentations, ensuring a comprehensive and engaging learning experience. Lectures are designed to provide a conceptual foundation in electrochemical energy conversion, battery technology, and photovoltaic systems, with an emphasis on critical analysis and evaluation of core principles. Students are encouraged to engage actively through discussions, case studies, and analysis of current research, enabling them to synthesize and apply knowledge to real-world scenarios. Tutorials are designed to reinforce lecture material by offering a more interactive and supportive environment where students can work through complex problems, clarify challenging topics, and apply theoretical knowledge to practical scenarios. Oral presentations enable students to develop their communication skills and facilitate the synthesis and articulation of complex technical knowledge. Throughout the module, students are supported by access to learning materials, guidance from academic staff, and opportunities for collaborative discussion, all designed to promote independent learning and critical engagement with the subject matter."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE402&psl_code=SEM2"
+    }
+  ]
+}

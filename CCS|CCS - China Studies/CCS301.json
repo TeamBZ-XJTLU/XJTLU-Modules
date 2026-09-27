@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "Local Government in China",
+  "module_code": "CCS301",
+  "offerings": [
+    {
+      "heading": "Local Government in China",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "Local Government in China",
+        "module_code": "CCS301",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Local Government in China",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide a comprehensive understanding of China’s local government, on the purpose of equipping students with analytical skills to assess political and administrative dynamics at sub-national levels. It complements the programme’s broader studies on Chinese governance. By bridging theory with real-world cases, the module offers critical insights into China’s evolving governance landscape.",
+        "Learning outcomes": "A. Analyze the structure, functions, and evolution of local government in China. B. Evaluate the role of local government in policy implementation, economic development, and governance innovation. C. Assess the complexities of central-local relations, exploring how political, fiscal, and administrative mechanisms shape governance at sub-national levels. D. Evaluate key theoretical debates and methodological approaches in the study of China’s local governance, applying them to contemporary policy challenges. E. Integrate empirical evidence and case studies to develop independent arguments on the political, economic, and social implications of local government actions.",
+        "Method of teaching and learning": "Lectures and seminars for rehearsal of weekly topics."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS301&psl_code=SEM1"
+    }
+  ]
+}

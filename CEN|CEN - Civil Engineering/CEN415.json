@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Research Project",
+  "module_code": "CEN415",
+  "offerings": [
+    {
+      "heading": "Research Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Research Project",
+        "module_code": "CEN415",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "40",
+        "Module Level": "Level 4",
+        "Module Title": "Research Project",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The overall aim of the module is for students to produce an original and practically significant contribution to academic research and knowledge development in the specific field of study. The specific aims are to prepare students for research or investigative work in professional engineering as well as to enable students to gain a comprehensive understanding of the techniques applicable to research or advanced scholarship in their field of study. The module aims to facilitate the effective discussion of research outcomes and the drawing of conclusions as well as the production of coherent written and verbal communication.",
+        "Learning outcomes": "A Analyse experimental/computer results and be able to determine their validity and accuracy against theoretical predictions/experimental observations. B Apply critical analysis and judgement through the management of tasks associated with the project and the suggestion of solutions to specific problems. C Demonstrate experience and enhancement of key skills in planning and/or designing experimental/laboratory/workshop activities using sophisticated research techniques and equipment with due regard to the concepts for risk/safety assessment, research ethics and management. D Effectively communicate complex ideas through a written report and presentation.",
+        "Method of teaching and learning": "The module is delivered through regular meetings/consultations with supervisor, laboratory and other investigative work under direct/indirect supervision (as appropriate), detailed log of activities in the lab, preparation of final research project report, and oral presentation."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN415&psl_code=ACYR"
+    }
+  ]
+}

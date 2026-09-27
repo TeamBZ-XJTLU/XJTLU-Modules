@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "International Management and Global Institutions",
+  "module_code": "INS411",
+  "offerings": [
+    {
+      "heading": "International Management and Global Institutions",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "International Management and Global Institutions",
+        "module_code": "INS411",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "International Management and Global Institutions",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module delivered in the first Semester 1 of the MA in International Business and Global Affairs introduces students to the key debates in international business and management theory and practice that underpin subsequent modules on the programme. In effect, this module is designed to bring a student cohort with diverse disciplinary backgrounds and work experiences up to a ‘level playing field’. It examines the institutional and legal frameworks, as well as the global business environment, that govern international trade and investment flows and within which management decisions are taken and strategies formulated. This module aims at familiarizing the students with the basic social sciences research methods. This is an XJTLU AI-enhanced module. This module fits into the programme by providing essential knowledge and practical skills in AI, preparing students for diverse career paths in a digitizing world. Finally, this module develops study skills that will help students succeed on the assessed coursework components of subsequent modules on the programme.",
+        "Learning outcomes": "A. Understand multinational companies (MNCs) as distinct social, cultural, technological, economic and strategic entities relevant to the emerging global economy B. Explain the nature of international production, and evaluate critically the main theoretical approaches that explain why firms have become multinational C. Compare and contrast various processes of control and coordination within MNCs D. Evaluate strategic decision-making in an international context E. Understand the dynamics and constraints of managing internationally which arise from the macro-environment of international business. F. Develop writing skills G. Develop presentation skills H. Equip students with social science research skills, enabling them to critically analyze, design, and conduct research studies in the field of social sciences I. Critically reflect on the selection and use of generative AI for learning within International Business and as preparedness for future careers J. Design and develop AI-driven solutions to address real-world problems in International Business",
+        "Method of teaching and learning": "Bringing together traditional instruction methods and interactive and reflective modes of teaching, the module consists of lectures, seminars, and case study analysis. Learning will be facilitated through a blend of traditional teaching methods and AI-enhanced tools. These tools include the use of AI for personalized learning, intelligent tutoring, AI-driven simulation or gamification for practical learning experiences. There will be used educational technologies, including generative AI, to create materials for learning and coursework. Teaching on this module is supported by an AI Assistant. During the seminars, the students, in group formations, will be assigned a seminar topic and requested to use AI to generate a poster, photo, or video that will depict better the given topic. Following the presentation of the photo, poster, video, the students will vote for the best one. The students will be permitted, but not obliged, to utilize generative AI in their assessed coursework. For the students who will opt for utilizing generative AI in their assignments, the generative AI tool selection, prompting, checking, and reflections will be subject to assessment. Details of the generative AI utilization assessment are provided in Appendices Three and Four of the Module Handbook."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS411&psl_code=SEM1"
+    }
+  ]
+}

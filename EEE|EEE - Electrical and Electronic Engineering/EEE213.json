@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Power Electronics and Electromechanics",
+  "module_code": "EEE213",
+  "offerings": [
+    {
+      "heading": "Power Electronics and Electromechanics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Power Electronics and Electromechanics",
+        "module_code": "EEE213",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Power Electronics and Electromechanics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide a good understanding of the power-electronic components and the behaviour of power-electronic converters by presenting systematically all important aspects of semiconductor devices and the common type of electric-power controllers. It is designed to explore the fundamentals of AC-DC, AC-AC, DC-DC, and DC-AC converters operation. The module also emphasize on the study of salient features of power diodes, power transistors, MOS-controlled thyristor, silicon controlled rectifier and other members of thyrstor family. With solid understanding of these concepts, students are expected to clearly present the operation, characteristics, and limitations of semiconductor-based converters that are being extensively employed in systems where power flow is required to be regulated.",
+        "Learning outcomes": "A. Apply the operating principles of switched-mode converters to be used in various electronic devices. B. Calculate and analyze the steady-state voltages and currents for different types of power converters, including step-down, step-up, and inverting converters, using appropriate mathematical techniques. C. Conduct laboratory experiments on AC-DC and DC-DC converters and critically analyze the results under diverse circuit conditions to draw meaningful conclusions.",
+        "Method of teaching and learning": "This module employs an integrated approach to teaching and learning, combining theoretical knowledge delivered through the formal lectures every week with hands-on practice via laboratory sessions to ensure students develop a deep and practical understanding of power electronic converters. The module is expected to deliver through a combination of interactive lectures including tutorials, practical lab sessions, and independent self-study. Lectures serve as the foundation for introducing basic power electronic converters such as AC-DC, DC-DC, AC-AC, DC-AC converters and their characteristics. Tutorials will be designed to practice the exercise problems that are associated with the topics delivered in formal lectures."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE213&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "APM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Dissertation",
+  "module_code": "MTH411",
+  "offerings": [
+    {
+      "heading": "Dissertation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Dissertation",
+        "module_code": "MTH411",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Dissertation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the dissertation is to train students the ability to explore in depth a valid topic in the field of the whole program leading to the MSc degree, to facilitate students in developing independent research and presenting skills in scientific project that could be essential for their career.",
+        "Learning outcomes": "Successful students should be able to rely on his/her own resources and ability to apply existing knowledge to do meaningful research in the field of financial mathematics. The student should be able to rationally assess the information, data, and materials at hand and/or readily accessible to synthesize into a defendable thesis towards a meaningful result. Also the students should be able to compose and write the results into a thesis using academic English.",
+        "Method of teaching and learning": "Study and research under supervisions"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH411&psl_code=SEM1"
+    }
+  ]
+}

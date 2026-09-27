@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHP",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "Advanced Power Electronic Devices and Electrical Circuits",
+  "module_code": "MES201TC",
+  "offerings": [
+    {
+      "heading": "Advanced Power Electronic Devices and Electrical Circuits",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Advanced Power Electronic Devices and Electrical Circuits",
+        "module_code": "MES201TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Advanced Power Electronic Devices and Electrical Circuits",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To equip students with tools to analyse inter-related circuits and with the understanding of the nature of electric, magnetic and electromagnetic fields, which are important to engineering and applications.",
+        "Learning outcomes": "A. Understand the operation principles and applications of electrical and electronic circuits B. Understand the Electrostatics and Magnetostatics theories needed in microelectronic science and engineering C. Analyze the circuits and calculate voltages, currents and powers related knowledges involved D. Perform measurements on the introduced circuits, to analyse and present results, and to provide an interpretation of those results E. Acquire knowledge and understanding of health and safety and risk assessment in lab environments as well as industrial environments",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and laboratory work."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES201TC&psl_code=SEM2"
+    }
+  ]
+}

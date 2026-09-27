@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CIEHX",
+    "domain_code": "ENT",
+    "full_name": "Entrepreneurship"
+  },
+  "full_name": "Digital Transformation for Smart Cities",
+  "module_code": "ENT415TC",
+  "offerings": [
+    {
+      "heading": "Digital Transformation for Smart Cities",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENT",
+        "full_name": "Digital Transformation for Smart Cities",
+        "module_code": "ENT415TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Digital Transformation for Smart Cities",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module provides students with a critical understanding of the importance of Smart Cities and the digital transformations that are taking place within them. It enables students to analyse decisions and opportunities available within the newly developing Smart City from an entrepreneurial and innovation perspective.",
+        "Learning outcomes": "A Demonstrate a critical understanding of issues associated with the Digital Transformation of Smart Cities B Synthesise digital transformation ideas and principles in an integrated manner and apply them critically to Smart City development C Analyse and evaluate digital transformation issues at different levels and then produce strategies to cope with them. D Communicate transformation ideas of Smart Cities to a specialist and non-specialist audience",
+        "Method of teaching and learning": "This module adopts a project-based learning approach, delivered through a series of practical workshops and collaborative sessions. Students will work in teams to analyze advancements in Smart Cities and develop innovative solutions to address real-world challenges. Industry engagement is a core component, with guest speakers and industry partners contributing to workshops and providing mentorship. These sessions will offer insights into entrepreneurial opportunities and practical applications, ensuring a dynamic, hands-on learning experience grounded in current industry practices."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENT415TC&psl_code=SEM2"
+    }
+  ]
+}

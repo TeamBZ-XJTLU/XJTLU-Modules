@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Media and Mind",
+  "module_code": "COM235",
+  "offerings": [
+    {
+      "heading": "Media and Mind",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Media and Mind",
+        "module_code": "COM235",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Media and Mind",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Given that we spend a significant part of our everyday life interacting with media, it stands to reason that media have a significant influence on the human mind – on our beliefs, emotions, and behaviours. In this module, we study the field of Media Effects, exploring how media consumption can impact our life, and change who we are as a person. Students will acquire knowledge of media effects related to a wide range of topics, including the connection between video games and violence, the influence of social media on mental health, the impact of news consumption on our world views, and the effectiveness of advertising and propaganda. They will also gain insights into epistemological, methodological, and ethical issues surrounding media effects research. And finally, students will practice how to apply these insights to real-world examples. This module will serve as a companion module to COM265 ‘Foundations in quantitative research methods’ in the second semester of Y3, by giving students the opportunity to study examples of high-quality quantitative research projects published in leading journals. Conversely, taking COM265 will enable students to better understand the methodological design of these studies. This module can also support students to study media effects for their Final Year Projects in Y4.",
+        "Learning outcomes": "A Identify key points in the history and development of the field of media effects research B Critically reflect on key theories and models of media effects C Demonstrate knowledge of epistemological, methodological and ethical aspects of media effects research D Review, contextualize and critically assess media effects literature E Apply media effects theory to contemporary industry trends and phenomena",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures and seminars. Lectures will introduce students to the history, methodology and theories of media effects research. In the seminars, we will focus on concrete examples of media impact and media effects research. This will be done in an interactive way, e.g. through group work and debates, and will be facilitated with state-of-the-art AI tools."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM235&psl_code=SEM2"
+    }
+  ]
+}

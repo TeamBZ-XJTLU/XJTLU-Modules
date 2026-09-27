@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Practical Machine Learning and Text Mining with Python and AI",
+  "module_code": "ACC415",
+  "offerings": [
+    {
+      "heading": "Practical Machine Learning and Text Mining with Python and AI",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Practical Machine Learning and Text Mining with Python and AI",
+        "module_code": "ACC415",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Practical Machine Learning and Text Mining with Python and AI",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The primary aim of this module is to provide students with foundational knowledge and practical skills in business data analytics, including the use of Python for data collection, analysis, and visualization. The module introduces students to text mining and machine learning techniques, demonstrating their applications in business decision-making. Students will learn how to leverage data and AI-powered tools to generate insights, improve business processes, and support strategic decisions, all while considering ethical implications. The module is designed to be accessible to students without prior programming experience, with a focus on real-world, business-related examples. Fit of the module: This module fits within the broader context of business education by equipping students with essential data-driven skills that are increasingly critical in today’s business landscape. As businesses across various industries rely more on data for decision-making, the ability to analyze and interpret business data, as well as to apply basic machine learning models, is a valuable competency. The module also integrates key concepts of data analytics and AI in a way that is applicable not only to business students but also to social science students. While the examples and case studies are business-focused, the analytical and decision-making skills learned are transferable to many fields, making the module valuable to a diverse group of students. By incorporating Python, text mining, and machine learning, students gain a hands-on understanding of how these technologies can drive insights across a range of sectors, from marketing to operations. This module supports the development of both technical and soft skills: • Technical skills: Proficiency in Python for data analysis, understanding of AI-powered tools, and application of machine learning techniques. • Soft skills: Critical thinking and problem-solving for data-driven decision-making, as well as communication skills for presenting findings to non-technical audiences. In addition, the focus on ethical considerations in AI and data analytics ensures that students are prepared to use these powerful tools responsibly in their future careers.",
+        "Learning outcomes": "A Understand and apply key concepts of business data analytics and AI B Develop Python programming skills for business analysis and AI applications C Understand and apply text mining techniques using Large Language Models (LLM) D Analyze and implement machine learning and AI techniques to solve business problems. E Communicate data-driven insights and AI findings to business stakeholders, considering ethical implications",
+        "Method of teaching and learning": "This module will be delivered through a combination of interactive lectures and hands-on lab sessions. Lectures will provide the theoretical foundations and conceptual understanding of business data analytics, Python programming, AI applications, and machine learning. These sessions will also cover the role of Large Language Models (LLM) in text mining and their applications in business. Lab sessions will offer students the opportunity to gain practical experience with Python, AI tools, and data analysis techniques. Students will engage in guided exercises to apply the concepts learned in lectures, using Python for data collection, cleaning, analysis, and visualization. Practical tasks will also include using LLMs for text mining, including sentiment analysis, keyword extraction, and summarization of business-related texts. Learning will be further supported by real-world examples drawn from business contexts,. The module will incorporate case studies where students can explore how businesses use AI and machine learning to drive decision-making and optimize operations. This teaching approach ensures that students not only gain theoretical knowledge but also develop the technical proficiency needed to apply these concepts effectively in practical scenarios. By combining lectures, hands-on practice, and business-focused examples, students will build the skills necessary to use data and AI in business decision-making."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC415&psl_code=SEM2"
+    }
+  ]
+}

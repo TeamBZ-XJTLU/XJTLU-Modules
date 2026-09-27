@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "The Entrepreneurial Journey: From Theory to Practice",
+  "module_code": "SMO106",
+  "offerings": [
+    {
+      "heading": "The Entrepreneurial Journey: From Theory to Practice",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "The Entrepreneurial Journey: From Theory to Practice",
+        "module_code": "SMO106",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "The Entrepreneurial Journey: From Theory to Practice",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a general understanding of the entrepreneurial process, with an emphasis on its iterative and dynamic nature. It introduces students to the structure and dynamics of entrepreneurial practices, with particular attention to the roles of key stakeholders. In addition, the module explores the typical challenges faced by entrepreneurs, enabling students to develop a deeper awareness of the multiple dimensions of entrepreneurship. By integrating theoretical knowledge with practical insights, the module seeks to cultivate an entrepreneurial spirit characterised by a resilient and proactive attitude toward uncertainty. The module also supports the development of students’ English communication skills through engagement with entrepreneurial cases and scenarios, fostering language use in realistic contexts.",
+        "Learning outcomes": "A Demonstrate understanding of the entrepreneurial process, including the differences between entrepreneurial and established business environments. B Develop and communicate sign a preliminary business plan, with a clear understanding of its key components and logical structure. C Describe and discuss the financing strategies and identify the typical issues. D Apply English communication skills effectively in entrepreneurial contexts",
+        "Method of teaching and learning": "Lectures: foundational knowledge on entrepreneurship will be provided, and students will be prompted to engage actively with in-depth exploration of key topics aligned with the lectures and further encouraged to think about the key aspects of entrepreneurship. Staff from IBSS will deliver the lectures. Seminars: Students will engage with the textbook and additional materials for developing the language skills and consider the key aspects of entrepreneurship, and participate in guided discussions and other interactive activities to develop effective English communication skills. Approaches such as mini project will be adopted to foster a collaborative learning environment, promoting critical thinking. Staff from ALC will deliver the seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO106&psl_code=SEM1"
+    }
+  ]
+}

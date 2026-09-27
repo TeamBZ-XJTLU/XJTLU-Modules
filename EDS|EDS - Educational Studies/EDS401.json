@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Globalization and Education: Critical Perspectives",
+  "module_code": "EDS401",
+  "offerings": [
+    {
+      "heading": "Globalization and Education: Critical Perspectives",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Globalization and Education: Critical Perspectives",
+        "module_code": "EDS401",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Globalization and Education: Critical Perspectives",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of the module are: 1. To develop students' critical understanding of major theories, concepts, and debates surrounding globalization and education, with particular reference to their implications for curriculum and instruction in global education; 2. To examine and compare international and domestic curricula at different levels, and explore how curriculum and instruction are shaped by different forces; 3. To critically explore how issues such as internationalization, culture, language, equity, identity, power, digitalization, and AI influence curriculum design and instructional practice in diverse educational contexts. 4. To develop students' ability to analyse authentic curriculum and instructional issues using practice-based evidence, and to formulate context-responsive responses. 5. To engage students in project-based and collaborative learning through the design, critique, and communication of curriculum and instructional projects for realistic educational contexts. 6. To cultivate students' capacity to use digital and AI-enabled tools critically, ethically, and strategically in curriculum analysis, instructional design, inquiry, collaboration, and professional communication.",
+        "Learning outcomes": "A. Critically analyse major theories, concepts, and debates related to globalization and education, and evaluate how different factors shape curriculum and instruction in diverse educational contexts. B. Compare and critically evaluate international and domestic curriculum frameworks and instructional approaches, with attention to factors such as curriculum aims, knowledge selection, pedagogy, assessment, and learner needs. C. Design and justify a research-informed curriculum, unit, or instructional project for a real or realistic educational context, demonstrating coherent alignment among learning outcomes, teaching strategies, assessment, project-based learning, and implementation considerations. D. Use digital and AI-enabled tools critically, ethically, and strategically to support curriculum analysis, instructional design, inquiry, collaboration, and professional communication.",
+        "Method of teaching and learning": "The Teaching and Learning consists of three modes: Seminars for interactive learning, field work for practice-based and project-based learning, and private study for group learning, reflective learning. Besides, AI will be comprehensively incorporated into the module. Students will be guided and enhanced to use AI in evaluating, analyzing, as well as designing curriculum for global education. The module consists of three phases in the whole semester (13 weeks): Phase 1: From Week 1-7, students will have intensive learning as well as preparation for their syntegrative project-based learning Phase 2: From Week 8-12, students will do PBL for four days every week, and one day on campus for weekly reflection, summary and planning Phase 3: In Week 13, students will have a wrap-up back to campus"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS401&psl_code=SEM1"
+    }
+  ]
+}

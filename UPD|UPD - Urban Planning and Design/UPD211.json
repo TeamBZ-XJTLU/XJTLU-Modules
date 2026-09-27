@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "UPD",
+    "full_name": "Urban Planning and Design"
+  },
+  "full_name": "Urban Design and Theory I",
+  "module_code": "UPD211",
+  "offerings": [
+    {
+      "heading": "Urban Design and Theory I",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "Urban Design and Theory I",
+        "module_code": "UPD211",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Urban Design and Theory I",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to introduce the principles and techniques of contemporary urban design which is the practical means of creating, protecting, or improving the quality of ‘places’ in the urban fabric. This will be achieved via several key objectives, such as: a) introducing ways of thinking about the quality of cities and the built environment; b) understanding urban design principles and elements; c) learning a working knowledge of urban design appropriate for a range of planning contexts; and d) acquiring practical skills associated with site analysis and urban design practice.",
+        "Learning outcomes": "A. Demonstrate an understanding of urban design concepts and their application B. Apply site appraisal and design methods as they relate to the built environment C. Develop a knowledge of the arrangement of space and objects within built environment under a variety of aesthetic, socio-political and economic regimes D. Undertake an evaluation (quantitative and qualitative) of the public realm and develop a design rationale and a corresponding spatial layout E. Implement the basic graphic design and presentation techniques needed for urban design projects.",
+        "Method of teaching and learning": "Module Structure The module consists of lectures, studio-based tutorials and seminars. A series of one-hour lectures deliver firm knowledge on principles of urban design and its applications, and exemplary precedents. Studio-based tutorials are intended to develop team working and communication skills, as well as to provide guidance on course work assignments. Seminars are conducted in the form of workshops, discussions on coursework assignments, presentations by the students and reviews in the presence of other staff members or external guests. Context and scales A site (about 10-100 ha) and a program are assigned by the module leader. Students develop analysis and detailed design solutions for it at different scales(1:100 -1:2000) Site visit Students are encouraged to make site visits to build up their knowledge of different types and qualities of places. Assignments Students are assessed on the basis of group design work and individual design work. Apart from posters, other materials such as physical models, sketchbooks, etc. are also assessed as part of the learning outcomes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD211&psl_code=SEM1"
+    }
+  ]
+}

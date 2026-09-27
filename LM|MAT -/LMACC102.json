@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MAT",
+    "domain_code": "LM",
+    "full_name": ""
+  },
+  "full_name": "Information System for Accountants",
+  "module_code": "LMACC102",
+  "offerings": [
+    {
+      "heading": "Information System for Accountants",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LM",
+        "full_name": "Information System for Accountants",
+        "module_code": "LMACC102",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Information System for Accountants",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are twofold: •To develop programmatic thinking for accounting students by introducing basic Python programming and SQL skills. •To extend the planning and decision-making methods covered in FIN104 and apply them in corporate valuation with financial models constructed in spreadsheets.",
+        "Learning outcomes": "A.Demonstrate understanding of how to write basic Python statements and how to manipulate data with SQL. B.Write simple Python programs with functions, conditional statements and loops. C.Collect data from databases with Python and SQL. D.Design, build and test spreadsheet models, suitable for use by third parties, that aid planning and decision-making. E.Write a formal corporate valuation report based on the financial models and industry/ corporate analyses.",
+        "Method of teaching and learning": "This module will be taught using a combination of lectures, video tutorials and lab sessions. Learning will also be reinforced by appropriate readings from the course text. Learning on this module will be integrated with the companion modules of Introduction to Financial Accounting and Introduction to Finance."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LMACC102&psl_code=SEM2"
+    }
+  ]
+}

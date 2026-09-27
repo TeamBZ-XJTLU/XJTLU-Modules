@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Defining and planning the problem",
+  "module_code": "IOM448",
+  "offerings": [
+    {
+      "heading": "Defining and planning the problem",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Defining and planning the problem",
+        "module_code": "IOM448",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 4",
+        "Module Title": "Defining and planning the problem",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module is to bring together students, supervisors, and relevant stakeholders to carefully define the problem, its scope, and its boundaries. By the end of the module, a revised and upgraded project charter will be formulated, alongside a detailed plan for investigating and analysing the problem. The module will also establish regular review and progression meeting mechanisms to ensure continuous project movement.",
+        "Learning outcomes": "A. Clearly articulate a problem, including its scope, boundaries, and key deliverables. B. Develop a project charter by appropriately engaging stakeholders. C. Use Work Breakdown Structure (WBS) to propose a project schedule. D. Formulate the project budget and duration baseline with justifications. E. Develop mechanisms for tracking milestones, performance, and task outcomes.",
+        "Method of teaching and learning": "• Collaborative Discussions: Group discussions with students, supervisors, and stakeholders to align on the project’s scope, boundaries, and objectives. • Expert Presentations: Industry professionals and faculty members will present best practices in problem definition, project management, and investigation methods. • Workshops for Charter Formulation: Collaborative work to draft and refine the project charter, ensuring all aspects, including scope, deliverables, and timelines, are well-defined."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM448&psl_code=SEM2"
+    }
+  ]
+}

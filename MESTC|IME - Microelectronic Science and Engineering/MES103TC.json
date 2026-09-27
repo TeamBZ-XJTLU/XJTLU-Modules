@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "C Programming Language",
+  "module_code": "MES103TC",
+  "offerings": [
+    {
+      "heading": "C Programming Language",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "C Programming Language",
+        "module_code": "MES103TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "C Programming Language",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Learning the C programming language is essential for those interested in pursuing a career in software engineering or related fields. Despite the popularity of newer programming languages, such as Java and Python, C remains a fundamental skill in the software industry. It is a critical language for system programming, embedded systems, and microprocessors, and is widely used for developing operating systems, compilers, and high-performance applications. Moreover, major software companies like Apple, Microsoft, and Google rely heavily on C to build their core systems. By learning C, you can develop a deep understanding of how computers work at a low level and open up new opportunities in the field of software engineering. This module aims to enable students to: 1.Learn the syntax and structure of the C programming language 2.Use the C language to solve real engineering problems 3.Acquire fundamental software development skills covering program design, coding, and testing 3. Acquire fundamental software development skills covering program design, coding and testing",
+        "Learning outcomes": "A. Demonstrate knowledge and understanding of the software development process; B. Demonstrate knowledge and understanding of basic coding principles of the C programming language; C. Design, code, debug (with the help of generative AI tools e.g. ChatGPT), test, and document computer programs written in C to meet requirements supplied in a specification; D. Demonstrate knowledge and understanding of software design in a structured programming approach by programming in C.",
+        "Method of teaching and learning": "The teaching philosophy of the module aligns with Syntegrative Education, emphasizing an intensive block teaching approach that facilitates deeper involvement from industry partners. This philosophy extends to assessment methods, reducing reliance on exams while increasing focus on coursework—particularly through project-focused, problem-based evaluations. The delivery schedule is designed to give students dedicated time within the semester to concentrate on completing their assessments. This module is delivered through a combination of lectures, laboratory exercises, tutorials, and a concluding seminar. Key concepts introduced in lectures are reinforced through step-by-step code analysis, comprehensive case studies, and live programming demonstrations. During laboratory sessions, students work through structured exercises with support from the lecturer and teaching assistant. A weekly tutorial is held to recap and emphasize essential topics covered in lectures and labs. The module concludes with a seminar that reviews the entire learning journey."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES103TC&psl_code=SEM1"
+    }
+  ]
+}

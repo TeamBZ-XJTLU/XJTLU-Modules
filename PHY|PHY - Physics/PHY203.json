@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Classical Mechanics for Physics",
+  "module_code": "PHY203",
+  "offerings": [
+    {
+      "heading": "Classical Mechanics for Physics",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "PHY",
+        "full_name": "Classical Mechanics for Physics",
+        "module_code": "PHY203",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Classical Mechanics for Physics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Classical mechanics describes the motion of objects, including projectiles, planets, satellites and spacecraft. It introduces fundamental concepts such as time, space, force, and mass, and fundamental principles such as the conservation of energy and stationary action. A solid understanding of these concepts and principles is vital for eventually going beyond classical physics.",
+        "Learning outcomes": "A. Apply Newton’s laws of motion and gravitation to analyze and solve problems in classical mechanics. B. Explain the relationship between conserved quantities and symmetries, and use this connection in problem-solving. C. Formulate a Lagrangian for a physical system and derive the corresponding equations of motion. D. Interpret and apply Hamilton’s principle of stationary action in the analysis of mechanical systems. E. Use Hamilton’s equations and compare them with Newtonian and Lagrangian approaches.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures and tutorials. Lectures will introduce students to key principles in classical mechanics. Tutorials will reinforce that theoretical understanding through problem sheets."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY203&psl_code=SEM1"
+    }
+  ]
+}

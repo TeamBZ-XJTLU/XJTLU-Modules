@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Artificial Intelligence (AI) and Applied Linguistics",
+  "module_code": "LNG309",
+  "offerings": [
+    {
+      "heading": "Artificial Intelligence (AI) and Applied Linguistics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Artificial Intelligence (AI) and Applied Linguistics",
+        "module_code": "LNG309",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Artificial Intelligence (AI) and Applied Linguistics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The main aims of the optional module are: • To acquaint students with fundamental concepts, principles, research and theories of using Artificial intelligence (AI) technologies in Applied Linguistics • To develop an awareness of innovation in the use of emerging AI in Applied Linguistics • To develop students’ skills and advanced knowledge to use a range of AI technologies in language teaching and assessment •To develop students’ skills in critical evaluation of the potential and AI application in practice",
+        "Learning outcomes": "A. Explain through written or oral presentation the impact of Artificial intelligence (AI) technologies on Applied Linguistics B. Explain through written or oral presentation theoretical approaches, materials and tools C. Explain through written or oral presentation the impact of Artificial intelligence (AI) technologies on language education D. Create practical tasks and learning activities using a range of AI tools for Applied Linguistics E. Critically analyze and discuss research into AI and Applied Linguistics",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: lectures and tutorials/seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG309&psl_code=SEM2"
+    }
+  ]
+}

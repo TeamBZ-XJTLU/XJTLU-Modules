@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEH",
+    "domain_code": "ENT",
+    "full_name": "Entrepreneurship"
+  },
+  "full_name": "AI Venture Capstone",
+  "module_code": "ENT304TC",
+  "offerings": [
+    {
+      "heading": "AI Venture Capstone",
+      "listing": {
+        "academic_year": "2028/29",
+        "domain_code": "ENT",
+        "full_name": "AI Venture Capstone",
+        "module_code": "ENT304TC",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2028/29",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "AI Venture Capstone",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a culminating experience that integrates artificial intelligence (AI) and entrepreneurship. Through a comprehensive, team-based project, students will apply AI-driven solutions to real-world business challenges, developing a market-ready venture by the end of the module. The module aims to: 1) Enable students to apply AI tools and techniques to develop fully functional, market-ready products or services. 2) Guide students through the entire venture creation process, from ideation and prototyping to execution and market launch. 3) Foster collaboration and teamwork by encouraging students to leverage AI to solve industry challenges and create scalable business models.",
+        "Learning outcomes": "A Integrate AI technologies and entrepreneurial skills to develop a fully operational product or service, demonstrating the ability to move from concept to market launch. B Identify and solve complex, real-world business challenges by applying AI technologies, ensuring that solutions are both innovative and market-ready. C Collaborate effectively within diverse teams, leveraging different skills and perspectives to achieve shared entrepreneurial goals.. D Evaluate the commercial viability, ethical considerations, and societal impacts of AI ventures, with a focus on sustainability and long-term business implications.. E Demonstrate advanced soft skills, including leadership, adaptability, and interpersonal communication, essential for navigating the entrepreneurial landscape.",
+        "Method of teaching and learning": "This module is integral to contemporary entrepreneurial education within XJTLU Entrepreneur College's (XEC) Industry Schools. Rooted in Syntegrative Education, the teaching methodology is centered on supporting students in Syntegrative projects within a studio setting. The approach emphasizes hands-on practicals, seamlessly combining lectures and coaching projects, fostering project-based learning and cross-disciplinary collaboration among XEC Industry Schools and industry partners. Functioning as a collaborative space, the module provides students with a unique opportunity to apply theoretical knowledge to real-world challenges, engaging in problem-based assessments. Industry experts actively participate, enriching students' projects and nurturing critical thinking skills crucial for innovative problem-solving in diverse industry contexts. This methodology not only cultivates an inclusive and dynamic learning environment but also equips students with holistic skills necessary for success in multifaceted industries. Evaluation will be based on group project work, incorporating individual grading in accordance with the university's policy. This comprehensive approach aligns with our commitment to delivering a practical, well-rounded educational experience."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENT304TC&psl_code=ACYR"
+    }
+  ]
+}

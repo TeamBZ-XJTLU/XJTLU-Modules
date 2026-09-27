@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CIEHX",
+    "domain_code": "ENT",
+    "full_name": "Entrepreneurship"
+  },
+  "full_name": "Investment Evaluation and Due Diligence",
+  "module_code": "ENT410TC",
+  "offerings": [
+    {
+      "heading": "Investment Evaluation and Due Diligence",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENT",
+        "full_name": "Investment Evaluation and Due Diligence",
+        "module_code": "ENT410TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Investment Evaluation and Due Diligence",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Investment evaluation and due diligence are critical processes in the financial decision-making and risk management of venture capital. They ensure informed decisions are made before committing capital to a particular venture, asset, or company. This module will equip students with the tools and frameworks to evaluate investments and conduct comprehensive due diligence in various contexts, such as venture capital, private equity, and mergers and acquisitions (M&A). Students will gain both quantitative and qualitative skills, developing the ability to assess financial performance, identify risks, and make strategic investment decisions based on their ability to assess financial statements, market potential, operational risks, and legal aspects of VC investments, from the perspective of investors plus entrepreneurs raising capital for their startups. Learnings from this module can be applied for wide ranging interest, whether as aspiring entrepreneurs, venture capitalists, teams of corporate or institutional investors, fund managers, large number of startup incubators / accelerators, and many connected government initiatives, that have all become part of mainstream activity worldwide. The VC space evolved through few cycles of highs and lows leading to current stage of maturity that is vital for students to learn and demonstrate via syntegrative project-based structure of curriculum and assessments.",
+        "Learning outcomes": "A Apply financial evaluation techniques such as DCF, ROI, and other valuation models B Conduct thorough due diligence covering financial, operational, legal, market risks C Synthesize quantitative data and qualitative insights to support investment decisions D Evaluate ethical considerations and governance issues in such investment decisions E Present investment evaluation reports that justify such decisions and due diligence",
+        "Method of teaching and learning": "ENT410TC module is led mainly by practice-based teaching with the aim for students to ‘learn-by-doing’. Therefore, highly applied knowledge that cuts across the different facets of entrepreneurship, venture capital investments, and the vital functions of due diligence in that context - remain at the core of curriculum and assessment for this module, which students can apply towards their professional and personal interest in variety of fields, and career path ahead. Ultimately this module should develop a future workforce, more prepared to engage with the venture capital sector, from several dimensions be that as investors, entrepreneurs, regulators, or other connected stakeholders. The module will use actual deal-flows to illustrate topics and guide classroom learning, along with skill-specific workshops, plus industry partner project to make learning outcomes more real. Students will participate in group activity plus individually assigned work on-campus or field-study, to solve given task in way that develops their knowledge as well as ability to demonstrate practical learning. Furthermore, the module would also interface with X3 CoVentures, and other such industry associations that provide students additional exposure to ecosystem."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENT410TC&psl_code=SEM1"
+    }
+  ]
+}

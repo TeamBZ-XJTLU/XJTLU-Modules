@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Education in The Asia-Pacific Region",
+  "module_code": "EDS409",
+  "offerings": [
+    {
+      "heading": "Education in The Asia-Pacific Region",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Education in The Asia-Pacific Region",
+        "module_code": "EDS409",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Education in The Asia-Pacific Region",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are to: 1. Develop students’ critical understanding and appreciation of different educational systems in the Asia-Pacific region 2. Develop students’ ability to use research, data, and evidence to undertake critical comparison for similarities and differences of education in the Asia-Pacific region, at the macro, institutional, and practice level 3. Engage students in Research Led Project Based Learning through case analysis, collaborative inquiry, and the design of comparative projects in the Asia-Pacific region 4. Cultivate students’ capacity to use digital and AI-enabled tools critically, ethically, and strategically to support comparative inquiry, decision-making, communication, planning, and project management.",
+        "Learning outcomes": "A. Critically analyse key theories, policy, and practice contexts of education systems within the Asia-Pacific region B. Compare and evaluate the strengths and weaknesses of global education policy and practices at a number of levels within the Asia-Pacific region C. Collaboratively design and justify a research-informed system or institutional related project for real-world contexts in the Asia-Pacific region through evidence use, professional communication, and project management. D. Apply digital and AI-enabled tools critically, ethically, and strategically to support comparative inquiry of education systems and policy in the Asia-Pacific region.",
+        "Method of teaching and learning": "The teaching sessions will involve a combination of seminars and field-related Research Led Project Based Learning with CoE and other AoFE partners in order to develop transformative competence for global education. Seminars will utilise project-based approaches to support learning in the field, and integration of technology (e.g. AI) where appropriate. Field-related learning will involve students working on real-world projects based on CoE and other AoFE partners needs that draw on students’ understanding of education policy and practices in the Asia-Pacific region."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS409&psl_code=SEM2"
+    }
+  ]
+}

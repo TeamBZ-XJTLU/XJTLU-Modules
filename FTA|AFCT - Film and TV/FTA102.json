@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Screen Writing for Film and TV",
+  "module_code": "FTA102",
+  "offerings": [
+    {
+      "heading": "Screen Writing for Film and TV",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Screen Writing for Film and TV",
+        "module_code": "FTA102",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Screen Writing for Film and TV",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to help students find their own, personal creative voice in the art of story-telling. It is practice based and seeks to introduce you to writing for screen – both film and television, highlighting the relationship between the visual medium and the craft of story-telling.",
+        "Learning outcomes": "A. Demonstrate understanding of the key dramatic elements for storytelling, such as plot, structure, character, setting, verbal and non-verbal interactions. B. Demonstrate an understanding of the processes involved in professional screenwriting. C. Engage with the creative process of writing a short film script.",
+        "Method of teaching and learning": "The lectures and seminars will take place as in the original module specification; in addition there will be 1 additional hour for fieldwork which will take Other (private study) from 111 to 110 hours."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA102&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "CATTC",
+    "full_name": "Cultural Technology"
+  },
+  "full_name": "Image Design and World Building",
+  "module_code": "CAT209TC",
+  "offerings": [
+    {
+      "heading": "Image Design and World Building",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CATTC",
+        "full_name": "Image Design and World Building",
+        "module_code": "CAT209TC",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 2",
+        "Module Title": "Image Design and World Building",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will engage students in the study of the world of games and explore the notion of the design of virtual worlds versus reality. Using popular media texts students will question the notion of world building and immersion and also explore ways in which it could be achieved out with the gaming environment within popular entertainment. Students will also learn about the technical characteristics of virtual world design including the use of avatars, audience resistance or willingness to accept the virtual world and the relationship between it and the real world. In that this is an optional module, to well utilise the university resource, the module delivery is subject to meeting a minimum number of students (10).",
+        "Learning outcomes": "A. identify and demonstrate how image manipulation and world building are used within a number of entertainment contexts. B. Demonstrate understanding of the conventions and practical techniques used in the creation of immersed environments and virtual worlds. C. Demonstrate understanding of how audiences react to immersive worlds within an entertainment context",
+        "Method of teaching and learning": "The teaching sessions are divided into three components (Lectures, Tutorials, and Labs). A series of lectures will equip the students with the knowledge and understanding of the art of world design and manipulation, and the creation of virtual worlds within the context of the entertainment industries. Labs will allow students to explore technologies and their uses within an entertainment context and develop their own projects. Finally, tutorials will allow for critiques and reviews of students work. In that this is an optional module, to well utilize the university resource, the module delivery is subject to meeting a minimum number of students (10)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAT209TC&psl_code=ACYR"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "International Law",
+  "module_code": "INS417",
+  "offerings": [
+    {
+      "heading": "International Law",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "International Law",
+        "module_code": "INS417",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "International Law",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a comprehensive understanding of the legal frameworks that regulate the interactions between states, international organisations, and individuals in the global sphere. By focusing on the development, principles, and application of international law, the module will cover key areas such as the sources of international law, the role of international institutions, and the implications of international law for global governance and international relations. We will also cover discrete areas of international law including international economic law, humanitarian law, and law of armed conflict. Relationship to Degree Programmes: - BA in IR: Students will deepen their understanding of the legal underpinnings of international diplomacy, conflict resolution, and cooperation. This module will complement others on global politics, international organisations, and security studies by providing a legal perspective on how states and international institutions operate within the international system. - MA in IR: At the postgraduate level, this module will encourage students to engage critically with more complex legal theories and international legal regimes. Students will develop advanced analytical skills necessary for assessing the intersection of law and politics in international relations, particularly in areas such as international security, international economic law, and environmental law. - MA in IBGA: For students in this programme, the module will offer insights into how international law regulates international trade, investment, and business transactions. Understanding international legal frameworks will be essential for students aspiring to work in international business, as it will equip them with the knowledge to navigate legal risks, trade regulations, and compliance with international standards.",
+        "Learning outcomes": "A. Demonstrate a solid understanding of the key principles, institutions, and processes that constitute international law B. Analyse the role of international law in maintaining international peace and security and in promoting global cooperation C. Critically engage with debates concerning the limitations and biases in the international legal order, especially with regard to issues of global inequality D. Apply international legal principles to real-world scenarios and contemporary global challenges E. Employ critical thinking and problem-solving skills by evaluating the impact of international legal norms on state behaviour and global governance structures",
+        "Method of teaching and learning": "We will adopt a blended learning approach, combining traditional lectures, interactive seminars, and independent research to engage students in both theoretical and practical aspects of international law. The mode of delivery will be face-to-face, supported by online resources and activities to enhance learning flexibility. 1. Lectures will provide students with a foundational understanding of key international law concepts, doctrines, and frameworks. Lectures will introduce core topics, such as the sources of international law, international institutions, and major legal regimes. 2. Seminars will involve in-depth discussions, case studies, and group activities, encouraging students to apply legal principles to real-world scenarios. These sessions are designed to foster critical thinking and allow students to debate contemporary issues in international law. 3. Students will be expected to engage in self-directed learning through guided readings and research tasks. This will be crucial in developing their ability to analyse legal materials, such as international treaties, cases, and scholarly articles, and to critically assess international law's role in global affairs. 4. The module will merge formative and summative assessments, to provide ongoing feedback and support students’ progression in understanding and applying international law."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS417&psl_code=SEM2"
+    }
+  ]
+}

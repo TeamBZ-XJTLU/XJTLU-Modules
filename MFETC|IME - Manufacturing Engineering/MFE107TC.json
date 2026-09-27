@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MFETC",
+    "full_name": "Manufacturing Engineering"
+  },
+  "full_name": "Thermodynamics and Fluid Mechanics",
+  "module_code": "MFE107TC",
+  "offerings": [
+    {
+      "heading": "Thermodynamics and Fluid Mechanics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MFETC",
+        "full_name": "Thermodynamics and Fluid Mechanics",
+        "module_code": "MFE107TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Thermodynamics and Fluid Mechanics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce the fundamental principles of fluid mechanics and the physics of thermofluid flow processes, and to develop tools to analyse simple engineering thermofluids systems. The module also aims to lay a solid foundation for subsequent work involving civil engineering hydraulics and thermodynamics. It is used also to develop skills in the written and oral presentation of a technical subject.",
+        "Learning outcomes": "A. Describe and define the fundamental concepts and principles in fluid mechanics and thermodynamics. B. Comprehend the mathematical models for fluid mechanics analysis and thermodynamics analysis. C. Apply appropriate modelling and analytical approaches to solve problems in fluid mechanics and thermodynamics systems",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. This module will be delivered through a combination of lectures, group discussions, case studies, and hands-on practical exercises etc. Lectures and group discussions are conducted using the Problem Based Learning paradigm focusing on student-centered learning, where they develop critical thinking and problem-solving skills to address open-ended problems that lacks a straightforward solution This module is taught with an emphasis on student learning through practice and by projects, facilitated by a module leader, and where appropriate, industrial mentors. Students can identify particular areas of learning needs or interests according to the available project(s). They will conduct independent research to gather information and resources to better define the problem. Progress towards the learning outcomes will be facilitated and monitored, where students are guided to progressively address the given problem through tasks. Independent learning will form an important aspect of the educational activities in this module. Case studies will be used to provide students with real-world examples of how the concepts and techniques covered in this module can be applied. Lab/Practical sessions will allow students to apply the techniques and tools acquired to solve real-world industry focused problems. Assessed primarily by a project, students shall gain practical experience in undertaking independent study and research on industry focused real-world problems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MFE107TC&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Hydraulics",
+  "module_code": "CEN205",
+  "offerings": [
+    {
+      "heading": "Hydraulics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Hydraulics",
+        "module_code": "CEN205",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Hydraulics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "CEN205 Hydraulics aims to develop students' advanced theoretical and practical understanding of fluid mechanics, specifically focusing on the design and analysis of pipe networks and open channel flow systems. The module integrates core concepts with applied numerical techniques and experimental methods. Where AI-aware elements are included, they are used to discuss the capabilities and limitations of computational tools, data analysis, and the critical importance of professional judgement and verification in hydraulic engineering.",
+        "Learning outcomes": "A Derive and apply fundamental hydraulic principles to quantitatively determine the behaviour of steady and unsteady flows in closed conduits. B Classify, calculate, and predict key flow characteristics for steady flows in open channels. C Implement, and critically evaluate numerical and computational techniques to solve complex pipe network problems, assess system performance, and justify optimisation strategies. D Analyse experimental data and empirical observations to validate and quantify hydraulic phenomena in closed and open channel flows, relating findings to theoretical principles and identifying sources of error or deviation from idealised models.",
+        "Method of teaching and learning": "The module is taught through formal lectures, class tutorials and laboratory experiments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN205&psl_code=SEM1"
+    }
+  ]
+}

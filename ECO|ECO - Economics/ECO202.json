@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Experimental Economics",
+  "module_code": "ECO202",
+  "offerings": [
+    {
+      "heading": "Experimental Economics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Experimental Economics",
+        "module_code": "ECO202",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Experimental Economics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to experimental economics and its implications. The module will first provide students an overview of experimental methodology. The module will then cover a selection of topics in experimental related literatures with applications regarding individual and commercial decision making and its implications in public policy. Eventually, the module will equip students with the tools, i.e., z-Tree software and its programming, for running lab experiments.",
+        "Learning outcomes": "A. Demonstrate a sound understanding of the recent developments of experimental fields. B. Apply experimental approaches to form analysis in different contexts. C. Demonstrate a critical perspective regarding the application of experimental approaches and implications.",
+        "Method of teaching and learning": "This module will be delivered via a combination of lectures and tutorials. Lectures are designed to provide essential information and introduce students to the basic tools of analysis used in Experimental economics. Tutorials will provide students with a learning opportunity designed to extend the material introduced in the lectures through the in-depth analysis of specific problems from various topics covered in the module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO202&psl_code=SEM2"
+    }
+  ]
+}

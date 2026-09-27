@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMP",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Linear Statistical Models",
+  "module_code": "MTH303",
+  "offerings": [
+    {
+      "heading": "Linear Statistical Models",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Linear Statistical Models",
+        "module_code": "MTH303",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Linear Statistical Models",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To understand how a range of statistical modelling frameworks can be used to analyse different types of data, including multiple continuous and categorical predictors and non-continuous response variables. To gain a thorough understanding of the model building, diagnostics and improvement. To develop familiarity with the computer package.",
+        "Learning outcomes": "A. Produce appropriate data visualisations and summary statistics. B. Apply the concepts of hypothesis testing and goodness of fit to statistical linear models and interpret results in context. C. Understand and use generalized linear models, including assumptions, link functions, interpretation of model parameters, model diagnostics and variable selection. D. Carry out and interpret analyses involving various linear Statistical Models using computer software and packages. E. Explain fundamental concepts of Bayesian statistics and use these concepts to calculate Bayesian estimators.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH303&psl_code=SEM1"
+    }
+  ]
+}

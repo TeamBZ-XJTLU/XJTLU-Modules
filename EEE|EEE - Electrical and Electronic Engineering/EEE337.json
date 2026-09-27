@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Integrated Circuits - Concepts and Design",
+  "module_code": "EEE337",
+  "offerings": [
+    {
+      "heading": "Integrated Circuits - Concepts and Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Integrated Circuits - Concepts and Design",
+        "module_code": "EEE337",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Integrated Circuits - Concepts and Design",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a thorough understanding of CMOS integrated circuit design and technology methodologies. It equips them with the skills necessary to design both digital and analog integrated circuits using professional design tools, as well as the ability to analyze manufacturing issues and advanced technologies. This module aligns with the objectives of the Electronic Science and Technology programme and prepares students for careers in the silicon semiconductor industry.",
+        "Learning outcomes": "A. Analyze and design CMOS integrated circuits (ICs), and apply the IC design knowledge to problem-solving and design skills. B. Analyze and design MOS logic gates and amplifier stages. C. Explain and evaluate Si IC technology and manufacturing issues relevant to CMOS-based IC design. D. Design, layout, and simulate integrated circuits through independent projects using a professional EDA tool. E. Critically assess fundamental design considerations for Silicon ICs, including manufacturing limitations.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures, tutorials, and both supervised and unsupervised laboratory sessions focused on CMOS IC design. Formal lectures will help students master the key concepts of integrated circuit design and manufacturing technology. Hands-on laboratory sessions and tutorials will provide support for circuit design and simulation, layout drawing, and troubleshooting skills."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE337&psl_code=SEM1"
+    }
+  ]
+}

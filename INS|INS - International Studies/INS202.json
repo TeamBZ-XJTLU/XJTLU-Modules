@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "International Relations Research Methods",
+  "module_code": "INS202",
+  "offerings": [
+    {
+      "heading": "International Relations Research Methods",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "International Relations Research Methods",
+        "module_code": "INS202",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "International Relations Research Methods",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "In this module students learn to understand and apply basic research methods in International Relations. Taking into account the breadth of the field, the module will introduce a number of approaches to research design, as well as qualitative and quantitative methods. With a view to their Final Year Project (FYP), students will design their own research proposal, coherently combining research question, research design, theory and methods. The module will also introduce students to research ethics.",
+        "Learning outcomes": "A. Demonstrate a critical understanding of key methodological debates in International Relations B. Demonstrate a critical understanding of principles of research design C. Demonstrate a critical understanding of basic qualitative and quantitative research methods D. Demonstrate understanding of research ethics E. Apply knowledge of research design and research methods",
+        "Method of teaching and learning": "Lectures and seminars for rehearsal of weekly topics."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS202&psl_code=SEM1"
+    }
+  ]
+}

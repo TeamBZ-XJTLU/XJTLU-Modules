@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Time Series Analysis",
+  "module_code": "ECO402",
+  "offerings": [
+    {
+      "heading": "Time Series Analysis",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Time Series Analysis",
+        "module_code": "ECO402",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Time Series Analysis",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides students with theoretical knowledge and practical skills in time-series econometrics. The student is presented with the theoretical foundations of a variety of time series models. The module will build on the material taught in Applied Econometric Techniques, with an emphasis on its use in applied macroeconomics and empirical finance. Students will develop the skill set and confidence necessary for applied research in the public or private sectors, international organizations and academia.",
+        "Learning outcomes": "A. Specify the distributional characteristics of a range of time series models and discuss the statistical properties of the time series and hypothesis tests correctly. B. Understand the univariate model’s selection and evaluation methods, including Linear Time Series Models and Conditional Heteroscedastic Models. C. Understand the multivariate model’s selection and evaluation methods. D. Accommodate unit roots and co-integration in univariate and multivariate time series analysis. E. Estimate appropriate models of time series in order to make inferences and forecasts. F. Acquire the necessary computer skills to apply to time series data G. Critically evaluate academic literature in the field of economics and financial time series",
+        "Method of teaching and learning": "The majority of the new content will be delivered through two-hour lectures, providing students with the basic theories, knowledge of econometric techniques and an introduction to the appropriate academic literatures. Supplementing the technique training will be computer laboratories that introduce the necessary models in software, explain model estimation and the interpretation of output. Students will complete the group assignment while actively acquiring the econometric skills and knowledge they require. Attendance of departmental seminars and references to journal articles will be encouraged to expose students to more advanced techniques and applications."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO402&psl_code=SEM2"
+    }
+  ]
+}

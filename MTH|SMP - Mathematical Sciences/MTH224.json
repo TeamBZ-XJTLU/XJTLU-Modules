@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMP",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Metric Spaces",
+  "module_code": "MTH224",
+  "offerings": [
+    {
+      "heading": "Metric Spaces",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Metric Spaces",
+        "module_code": "MTH224",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Metric Spaces",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Metric spaces are sets equipped with a notion of distance. This module examines how important ideas and concepts of real analysis can be extended to the more general setting of metric spaces. This module provides a foundation for further study in a wide range of mathematical topics, including analysis, topology, measure theory, geometry and dynamical systems.",
+        "Learning outcomes": "A Recognise whether a given structure forms a metric space. B Work effectively with subsets of a metric space and determine the diameter, boundary, interior or closure. C Prove results concerning continuous maps between metric spaces. D Demonstrate whether or not a given metric space is connected, compact or complete. E Use the Banach contraction mapping theorem to identify fixed points. F Solve mathematical problems using the formalism of metric spaces.",
+        "Method of teaching and learning": "This module will be delivered mainly through a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH224&psl_code=SEM2"
+    }
+  ]
+}

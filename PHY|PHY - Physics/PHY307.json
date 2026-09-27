@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Solid State Physics",
+  "module_code": "PHY307",
+  "offerings": [
+    {
+      "heading": "Solid State Physics",
+      "listing": {
+        "academic_year": "2028/29",
+        "domain_code": "PHY",
+        "full_name": "Solid State Physics",
+        "module_code": "PHY307",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2028/29",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Solid State Physics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To introduce and illustrate the fundamental concepts and principles of solid state physics, building on the foundational knowledge in physics gained throughout the applied physics programme. This module aims to deepen students' understanding of the physical properties of solids and their applications in various fields of technology and engineering. By exploring topics such as crystal structures, band theory, semiconductors, and superconductivity, students will gain a comprehensive foundation in the science of materials. This module is designed to bridge theoretical concepts with practical applications, preparing students to engage with advanced topics in materials science, nanotechnology, and electronic devices. It enhances the students' ability to analyze and solve problems related to the behavior of solids under different conditions and to appreciate the role of solid state physics in the development of new technologies.",
+        "Learning outcomes": "A. Analyze the crystalline structure of materials and correlate it to the properties of both perfect and real crystals. B. Interpret the electronic, thermal, and magnetic properties of condensed matter using fundamental principles. C. Apply the concept of reciprocal space to explain diffraction phenomena. D. Explain the origin and features of band structure and use this framework to predict electronic properties of materials. E. Differentiate between metals, semiconductors, and insulators by analyzing their electronic structures.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY307&psl_code=SEM2"
+    }
+  ]
+}

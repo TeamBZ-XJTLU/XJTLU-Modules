@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Economic regionalization in the Asia-Pacific: China and the neighouring regions",
+  "module_code": "INS211",
+  "offerings": [
+    {
+      "heading": "Economic regionalization in the Asia-Pacific: China and the neighouring regions",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Economic regionalization in the Asia-Pacific: China and the neighouring regions",
+        "module_code": "INS211",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Economic regionalization in the Asia-Pacific: China and the neighouring regions",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module examines regional integration in the Asia-Pacific region, including South Asia, Southeast Asia, Central Asia, and Oceania, and China’s role in the processes. The core focus is on economic interactions — trade, investment, infrastructure, energy, and supply chains — and how those interactions intersect with politics, security, historical legacies, and social impacts. Students will critically evaluate regional governance, the evolution and contestation of regional orders, Chinese economic statecraft, and host-state/region responses, and will develop competencies in scholarly research and applied policy analysis.",
+        "Learning outcomes": "A. Analyze the dynamics of regional integration in the Asia-Pacific and China's evolving role in the processes, with a focus on trade, investment, infrastructure, and supply chains B. Evaluate how economic interactions intersect with political, security, social, and historical factors to shape regional orders and governance C. Apply theories of regionalism and regional governance to interpret institutional structures, regional responses, and China’s strategies D. Critically assess the impacts of Chinese economic, political, and security strategies using a combination of quantitative data and qualitative sources, and analyze regional responses E. Develop and communicate research and policy analysis to academic and policy audiences effectively",
+        "Method of teaching and learning": "The module combine focused lectures with active, skills‑oriented seminars. Each week the 2‑hour lecture will set out core concepts and regional context (theory, policy, and case material), provide empirical evidence and case studies, and reserve time to connect sessions with current/unfolding events. Lectures will include small in‑class tasks to guide students in applying theories to addressing concrete economic and political problems. The 1‑hour seminar provides hands‑on practice in small groups: data workshops (basic trade/FDI/loan charting and interpretation), primary‑source analysis sessions (MOUs, official communiqués, local media), and targeted debates. Simulations and assessed presentations provide opportunities for students to synthesize learning and apply it in real time through group simulations, policy briefs and a live presentation with Q&A."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS211&psl_code=SEM2"
+    }
+  ]
+}

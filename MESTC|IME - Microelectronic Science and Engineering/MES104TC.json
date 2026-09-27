@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "Integrated Circuits Design and Fabrication",
+  "module_code": "MES104TC",
+  "offerings": [
+    {
+      "heading": "Integrated Circuits Design and Fabrication",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Integrated Circuits Design and Fabrication",
+        "module_code": "MES104TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Integrated Circuits Design and Fabrication",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "1.To provide students with the opportunity to understand the basic principles of silicon microelectronics design. 2.To introduce the subject in the frame of reference of basic design rather than problem solving. 3.To develop practical skills in the handling and measurement of components. 4.To increase the confidence of the student in undertaking material with a strong analytical and engineering content. 5.To provide the underlying semiconductor physics to underpin this design-led module",
+        "Learning outcomes": "A. Understand physical laws of semiconductor and its application to diodes & transistors B. Understand why certain electronic materials are used in devices and fabrication theory C. Familiar with common designs of electronic devices, and simple MOS circuits from fabrication perspectives D. Design a simple MOS circuit including tolerance and feature sizes in fabrication standard E. Acquire independent learning and design skills coupled with problem solving skills F. Effectively manage own learning and development of life-long-learning skills particularly for continuing professional development",
+        "Method of teaching and learning": "This module is delivered through a combination of formal lectures, tutorials, design exercises and supervised laboratory sessions. There is a particular emphasis on developing design skills and fabrication knowledge alongside problems solving."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES104TC&psl_code=SEM2"
+    }
+  ]
+}

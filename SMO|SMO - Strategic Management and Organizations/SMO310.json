@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Data Visualization for Managers",
+  "module_code": "SMO310",
+  "offerings": [
+    {
+      "heading": "Data Visualization for Managers",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "SMO",
+        "full_name": "Data Visualization for Managers",
+        "module_code": "SMO310",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Data Visualization for Managers",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Data visualization is an essential skill required in today's data driven world. With its foundations rooted in statistics, psychology, and computer science, practitioners in almost every field use visualization to explore and present data. This courses shows you how to better understand your data, present clear evidence of your findings to your intended audience, and tell engaging data stories that clearly depict the points you want to make all through data graphics. The skills learned in this course offer enormous value for creatives, educators, entrepreneurs, and business leaders in a variety of industries.",
+        "Learning outcomes": "A. Understand data visualization, AI-driven data visualization, and the importance of data science; B. Create multiple versions of digital visualizations using various software packages; C. Identify appropriate data visualization techniques given particular requirements imposed by the data; D. Apply appropriate design principles in the creation of presentations and visualizations; E. Analyze, critique, and revise data visualizations.",
+        "Method of teaching and learning": "The teaching and learning strategies employed include a combination of lectures (which teach basic concepts and principles), workshops (which are interactive and designed to enable students to apply and discuss their knowledge to analyse real-world problems, issues and case studies), lab tutorials, and the university's virtual learning environment (i.e., Learning Mall), which will be used for the dissemination of material, as well to provide feedback to students. Guest lectures and a company visit will also be used to complement learning and teaching."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO310&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOT",
+    "domain_code": "IOTTC",
+    "full_name": "Internet of things"
+  },
+  "full_name": "RF Engineering and RFID",
+  "module_code": "IOT213TC",
+  "offerings": [
+    {
+      "heading": "RF Engineering and RFID",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOTTC",
+        "full_name": "RF Engineering and RFID",
+        "module_code": "IOT213TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "RF Engineering and RFID",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to the design, development and industrial application of systems operating in the region of radio and microwave frequency range. As part of the module delivery, students will first develop their theoretical and practical knowledge and understanding of high frequency Radio Frequency (RF) and Microwave Engineering systems. In this regard, the module will introduce to the students various concepts such as the theory of transmission lines (Tx), Smith Charts for the design and analysis of transmission lines, impedence matching, attenuation and reflection, and concepts around scattering parameters necessary for the design, measurements and application of high frequency systems for industrial applications. In modern RF and microwave systems, these concepts are of particular importance. The module will also introduce students to the concepts of antenna design and applications necessary for RF and microwave related systems and solutions. In order to provide a holistic overview of the RF and microwave engineering concepts and associated practical application in the context of Internet of Things (IoT), the module will develop the knowledge and understanding of students in the design and application of Radio Frequency Identification (RFID) systems and solutions, which operate within low to high frequency regions. The concepts introduced in this module are essential for the successful design and application of various categories of IoT-based solutions and applications, e.g. communication, energy harvesting, sensors development, energy transmission/reception, object identification and tracking, localisation, to name a few.",
+        "Learning outcomes": "A. Demonstrate an understanding of the essential concepts and parameters relating to RF and microwave systems, their design, engineering and application. B. Understand and evaluate concepts related to transmission (Tx) line theory, smith charts and impedence matching. C. Demonstrate practical understanding of S-parameters through carrying out measurements and understanding their applications. D. Appreciate and demonstrate understanding of radio propagation and antenna design principles. E. Demonstrate knowledge and understanding of terminologies, essential components and applications of RFID systems in the context of IoT.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This means that the delivery pattern follows intensive block teaching approach, which allows for meaningful contributions from a practical perspective. This philosophy is emphasised within the design of module assessments, with a reduction in the use of exams and an increase in coursework, with a particular emphasis on problem-based, task-based and/or project focused assessments. The delivery pattern provides space in the semester for students to concentrate on completing their assessments. The module will be delivered via lectures, tutorials and supervised laboratory sessions, accompanied by private studies."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOT213TC&psl_code=SEM1"
+    }
+  ]
+}

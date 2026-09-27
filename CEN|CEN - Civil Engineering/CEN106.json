@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Introduction to Materials",
+  "module_code": "CEN106",
+  "offerings": [
+    {
+      "heading": "Introduction to Materials",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Introduction to Materials",
+        "module_code": "CEN106",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Materials",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module is to provide students with fundamental knowledge and practical skills on material science and its relevance to engineering. The relevant and important physical, mechanical and chemical properties of materials will be addressed. The understanding of the behaviour of different materials in relation to their properties is essential. The outcome of this module will help students to learn material related content of other modules.",
+        "Learning outcomes": "A. Understand the basic fundamentals and principles of material science and engineering along with the scientific terminology used in material science. B. Understand how the performance of different materials depends on their atomic structure, as well as their behaviour at different conditions such as applied force and temperature. C. Understand how the mechanical and engineering properties of a material make it appropriate for use in a given engineering application. D. Analyse a set of experimental data to produce a quantitative/qualitative conclusion and hence to identify the properties of the given material. E. Demonstrate compliance with health and safety procedures related to practical work in a laboratory and to enhance effective written communication skills.",
+        "Method of teaching and learning": "The content in this module is delivered through a combination of formal lectures, tutorials and practical sessions. Students will also have allocated private study time for additional learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN106&psl_code=SEM1"
+    }
+  ]
+}

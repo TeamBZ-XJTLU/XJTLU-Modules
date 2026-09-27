@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCTC",
+    "domain_code": "CCT",
+    "full_name": "Chinese Culture"
+  },
+  "full_name": "Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era",
+  "module_code": "CCT101",
+  "offerings": [
+    {
+      "heading": "Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCT",
+        "full_name": "Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era",
+        "module_code": "CCT101",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2",
+        "Module Level": "Level 1",
+        "Module Title": "Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "本课程是面向高校二年级本科生开设的一门思想政治理论课，属于公共必修课。本课程通过系统讲授习近平新时代中国特色社会主义思想的核心要义、精神实质、丰富内涵、实践要求，结合习近平新时代中国特色社会主义思想在中华大地的生动实践，帮助学生全面认识其时代意义、理论意义、实践意义、世界意义，深刻把握其中贯穿的马克思主义立场观点方法，进一步增强“四个意识”，坚定“四个自信”，做到“两个维护”，努力成长为担当民族复兴大任的时代新人。 This course is a compulsory public political theory course designed for second-year undergraduate students. It systematically introduces the core essence, spiritual significance, rich connotations, and practical requirements of Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era. By integrating theoretical instruction with vivid practical applications in China, the course helps students gain a comprehensive understanding of its historical, theoretical, practical, and global significance. It also enables students to grasp the Marxist stance, viewpoints, and methodology embedded within the thought, strengthening their “Four Consciousnesses,” reinforcing their “Four Confidences,” and ensuring their commitment to the “Two Upholds.” Ultimately, the course aims to cultivate a new generation capable of contributing to national rejuvenation.",
+        "Learning outcomes": "A 了解习近平新时代中国特色社会主义思想是马克思主义中国化最新成果，是全党全国人民为实现中华民族伟大复兴而奋斗的行动指南。 Identify that Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era represents the latest achievement in the sinicization of Marxism and serves as a guiding framework for the entire Party and the nation in striving for the great rejuvenation of the Chinese nation. B 了解习近平新时代中国特色社会主义思想的理论内涵、价值与现实意义。 Demonstrate knowledge of the theoretical essence, values, and practical significance of Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era. C 能够用习近平新时代中国特色社会主义思想分析和解决现实问题。 Analyze and address real-world issues using Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era.",
+        "Method of teaching and learning": "本课程将通过线上和线下相结合、老师授课和学生自主学习相结合的方式进行。学生需参加线下课程的学习，同时可通过老师发布在Learningmall和U-Talk平台上的学习资料以及参考书目进行自主学习。课程结束后将进行线上期末考试，每位学生有两次答题机会，取高分记录，因此不额外设置补考。 Lectures are delivered on a weekly basis, with the use of case studies to illustrate and exemplify the main ideas. The University’s virtual learning environment (including Learning Mall Online & Utalk) will be used for online discussion, as well to provide feedback to students. In class quizzes will be carried out to evaluate students’ progress and achievement of the learning outcomes. The online final exam takes place at the end of the course. Students can attempt the exam twice, and only the best score counts. There are no resit beyond this."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCT101&psl_code=SEM2"
+    }
+  ]
+}

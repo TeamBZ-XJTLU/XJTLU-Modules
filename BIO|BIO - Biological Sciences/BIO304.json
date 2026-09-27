@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "BIO",
+    "domain_code": "BIO",
+    "full_name": "Biological Sciences"
+  },
+  "full_name": "Biotechnology and Society",
+  "module_code": "BIO304",
+  "offerings": [
+    {
+      "heading": "Biotechnology and Society",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BIO",
+        "full_name": "Biotechnology and Society",
+        "module_code": "BIO304",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Biotechnology and Society",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module considers modern developments in biotechnology and its impacts on society. Regulatory, economic and ethical aspects of the development of novel products via biotechnological processes will be examined and potential benefits and drawbacks of these products will be considered. Technical aspects of recent biotechnological breakthroughs in the fields of molecular biology, genetics, microbiology and enzymology will be covered.",
+        "Learning outcomes": "A. Critically evaluate ethical aspects and regulation related to modern biotechnological techniques. B. Critically evaluate the economics related to modern biotechnological techniques, including the role of patents. C. Critically evaluate the role of different stakeholders in the development and implementation of biotechnological products. D. Describe in detail and understand modern approaches for genetic modification of microbes, plants and animals. E. Critically evaluate the potential implications of biotechnological developments on society and environment.",
+        "Method of teaching and learning": "The teaching will be achieved through a series of lectures, group discussions, in class literature reviews and student presentations. Students will be directed to primary sources of literature and reviews, which will be made available through the Virtual Learning Environment."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BIO304&psl_code=SEM1"
+    }
+  ]
+}

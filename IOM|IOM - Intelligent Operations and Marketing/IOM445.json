@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Strategic Data Analytics for Decision Making",
+  "module_code": "IOM445",
+  "offerings": [
+    {
+      "heading": "Strategic Data Analytics for Decision Making",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Strategic Data Analytics for Decision Making",
+        "module_code": "IOM445",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 4",
+        "Module Title": "Strategic Data Analytics for Decision Making",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide IMBA students with a deep knowledge and understanding of how to apply advanced mathematical and statistical techniques and tools for the strategic business analysis and decision-making process of an organization. This module explores the different methods used to collect and analyse quantitative data from a business perspective. The goal is therefore to enable students to understand how effective and appropriate quantitative data analysis can enhance the quality of managerial decision-making.",
+        "Learning outcomes": "A Demonstrate a systematic understanding and knowledge of decision making techniques and tools used in managerial practice. B Apply decision making techniques and tools to the strategic business analysis and decision-making process of an organization. C Demonstrate a conceptual understanding of how to evaluate quantitative and qualitative methodologies and develop critiques of them and, where appropriate, propose new practices.",
+        "Method of teaching and learning": "The learning and teaching takes a case-based and peer-assisted learning approach. Students are expected to familiarise themselves with the basic theory and to read and review the case studies prior to the weekend face to face sessions. Students are encouraged to read widely with reference to the reading lists provided."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM445&psl_code=SEM1"
+    }
+  ]
+}

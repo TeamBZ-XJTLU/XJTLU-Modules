@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Second Language Acquisition",
+  "module_code": "LNG407",
+  "offerings": [
+    {
+      "heading": "Second Language Acquisition",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Second Language Acquisition",
+        "module_code": "LNG407",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Second Language Acquisition",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The main aims of the module are to enable students to have: • an understanding of the nature of language and the nature of nonnative speaker knowledge • an understanding of a number of key concepts in first and second language acquisition • critical knowledge of first language acquisition and the role of the native language. • critical understanding of inter-language processing • an understanding of the nature of the input to second language learners and the interrelationship of second language use and language learning • critical understanding of some of the main research, theory and practice in second language acquisition • an awareness of the causes of a number of phenomena inherent in the language classroom • an understanding of practical strategies inspired by the study of the psychological research on instructed second language learning and teaching • an awareness of the new trends and themes in the research on the psychology of second language teaching and learning.",
+        "Learning outcomes": "Upon the completion of the module, the students should be able to: • have an understanding the interrelationship between first and second language acquisition • develop their critical understanding of the nature of the input to second language learners and the interrelationship of second language use and language learning • develop their knowledge and understanding of the interrelationship between psychological processes and language acquisition within a classroom context • identify and analyze theoretical frameworks in order to understand second language classes. • devise, research and communicate an analysis of an individual topic within the field • articulate knowledge of psychological and cognitive concepts relating to the acquisition of English in institutional contexts • carry out individual, data-based research and process the data by applying individual analyses and interpretations within a systematic scholarly framework • work independently and with some degree of originality • have the competence to make judgments according to the available empirical evidence.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: lectures and tutorials/workshops."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG407&psl_code=SEM1"
+    }
+  ]
+}

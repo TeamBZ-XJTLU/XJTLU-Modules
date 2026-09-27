@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Renewable Kinetic Energy Technologies",
+  "module_code": "EEE404",
+  "offerings": [
+    {
+      "heading": "Renewable Kinetic Energy Technologies",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Renewable Kinetic Energy Technologies",
+        "module_code": "EEE404",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Renewable Kinetic Energy Technologies",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Renewable Kinetic Energy Technologies provides postgraduate students with a comprehensive understanding of renewable kinetic energy technologies, especially wind power and hydro power technologies, equipping them with the skills to design, model, and analyse renewable kinetic energy systems and individual components in them. It trains postgraduate students to handle both qualitative and quantitative research methodologies in academic and professional contexts and to present research output within limited time. This module prepares postgraduate students for the final year project, laying the methodological and analytical foundation necessary for conducting rigorous and impactful research.",
+        "Learning outcomes": "A. Analyse aerodynamics and control strategies of wind turbine rotor blades. B. Assess power generation and energy production from wind and hydro power generation. C. Evaluate various technical aspects relevant to the development, implementation and grid connection of a given wind energy and hydro power project. D. Carry out circuit analysis of wind power systems with various types of generators E. Understand the design for specific power systems based on wind energy or small hydro power energy that meet specific energy demands and are economically feasible and have a minimal impact on the environment.",
+        "Method of teaching and learning": "This module employs a diverse range of teaching and learning methods to support students in mastering advanced research skills. These include interactive lectures to introduce key concepts and theories, lab sessions for practising modelling, designing and analysis techniques. Meanwhile, students are encouraged to present research output during the interactive lectures. Students engage in collaborative group work to explore both theoretical and real-world research scenarios and receive personalised guidance during tutorials to refine their individual research outputs. Independent study is emphasised, with students tasked to review literatures, design research proposals, write academic papers, and utilise software tools for data processing."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE404&psl_code=SEM2"
+    }
+  ]
+}

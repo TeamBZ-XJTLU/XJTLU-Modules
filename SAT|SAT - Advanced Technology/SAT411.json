@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SAT",
+    "domain_code": "SAT",
+    "full_name": "Advanced Technology"
+  },
+  "full_name": "Machine Learning for Industry",
+  "module_code": "SAT411",
+  "offerings": [
+    {
+      "heading": "Machine Learning for Industry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SAT",
+        "full_name": "Machine Learning for Industry",
+        "module_code": "SAT411",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Machine Learning for Industry",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with a broad understanding of how machine learning algorithms are applied in an industrial setting. This will include developing a understanding of how the basic principles, techniques and algorithms are applied to industry problems. Students will learn about the application of different machine learning techniques such as decision trees, support vector machines, K-means clustering as well as various deep neural networks, such as Convolutional Neural Network and Recurrent Neural Network. Students will learn how these techniques are selected for different industry applications, and how they are applied from a practical perspective.",
+        "Learning outcomes": "A Identify the key properties of state-of-art machine learning and deep learning algorithms in order to evaluate their effectiveness for different tasks in industry. B Understand the practical steps required to apply machine learning algorithms to industry-related problems. C Evaluate the operational and economic impact of implementing different machine learning algorithms in an industrial setting.",
+        "Method of teaching and learning": "Students will be expected to attend two hours of formal lectures in a typical week. Lectures will introduce students to the academic content and practical skills which are the subject of the module. Computer labs are arranged in eleven sessions where each session lasts two hours. The computer practical allows students to use those tools and practice the acquired techniques. Studies in conjunction with industrial partners will also provide time for reflection and consideration of lecture material and background reading."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SAT411&psl_code=SEM2"
+    }
+  ]
+}

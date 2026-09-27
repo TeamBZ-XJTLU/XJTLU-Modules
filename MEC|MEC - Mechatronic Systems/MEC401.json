@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MEC",
+    "domain_code": "MEC",
+    "full_name": "Mechatronic Systems"
+  },
+  "full_name": "Human-Robot Interaction",
+  "module_code": "MEC401",
+  "offerings": [
+    {
+      "heading": "Human-Robot Interaction",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MEC",
+        "full_name": "Human-Robot Interaction",
+        "module_code": "MEC401",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Human-Robot Interaction",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The Human-Robot Interaction (HRI) module is designed to equip students with a comprehensive competence of both the theoretical principles and practical skills required for effective interaction with robots. This knowledge empowers them to design, implement, and evaluate HRI systems, while also fostering critical thinking and innovation. The module is closely aligned with the core competencies of the MSc program in Human-Computer Interaction, emphasizing human-centered computing principles. It further complements the program’s interdisciplinary nature by integrating insights from computer science, artificial intelligence(AI), robotics, psychology, engineering, and social sciences. This holistic approach ensures that students are well-prepared to tackle the complexities inherent in interaction design and engineering. In light of the rapid advancements in robotics and AI, HRI plays a crucial role in bridging the gap between academic research and industry applications. Serving as a capstone experience, the HRI module provides students with the opportunity to apply their accumulated knowledge and skills, thereby reinforcing their learning and showcasing their capabilities in this burgeoning field.",
+        "Learning outcomes": "A. Critically analyze and integrate the multidisciplinary concepts that form the foundation of Human-Robot Interaction research. B. Design and implement advanced techniques to enhance human-robot interaction systems, while considering ethical aspects such as user groups, accessibility, disability, and diversity. C. Critically assess the interaction between humans and robots using systematic methodologies, and propose innovative solutions for improvement.",
+        "Method of teaching and learning": "Students will be expected to attend two hours of formal lectures as well as to participate in two hours of seminars in a typical week. Lectures will introduce students to the academic content, while seminars include three parts: 1) introduce practical skills which will be used in the students’ projects; 2) students present additional material relevant to the class topic; 3) students discuss their projects. In addition, students will be expected to devote approximately seven hours of unsupervised time to work on their projects and presentations and for private study. Private study will provide time for reflection and consideration of lecture material and background reading. Group project and presentation will be used to test to which extent knowledge and techniques have been learnt. A written examination at the end of the module will assess the academic achievement of students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MEC401&psl_code=SEM2"
+    }
+  ]
+}

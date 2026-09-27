@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Final Individual Project for IMBA",
+  "module_code": "SMO409",
+  "offerings": [
+    {
+      "heading": "Final Individual Project for IMBA",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "SMO",
+        "full_name": "Final Individual Project for IMBA",
+        "module_code": "SMO409",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "20",
+        "Module Level": "Level 4",
+        "Module Title": "Final Individual Project for IMBA",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this final project module is to enable IMBA students to undertake a significant piece of independent applied research in the field of management and its related disciplines. In many ways serving as the culmination of the International MBA programme, the final project can integrate knowledge from various management disciplines in order to focus on a real business problem. Indeed, the project has a more business-focused format than a traditional dissertation, and it is expected that students will make recommendations for business practice, either for their own companies or the wider sector and industry.",
+        "Learning outcomes": "A. Identify a management issue or problem which has relevance for organisations and their management. B. Derive research questions (or hypotheses) which can be investigated (or tested) via the analysis of collectable data. C. Find, describe and analyse existing sources of information and publications related to the management issue or problem project. D. Collect data using appropriate data collection techniques. E. Evaluate data using appropriate data analysis techniques. F. Develop and make useful recommendations for organisations and their management. G. Successfully produce a well-written, coherent and well-presented piece of work. H. Accurately, coherently and persuasively communicate the content of the project in an oral presentation.",
+        "Method of teaching and learning": "The module runs during the second year of the IMBA, namely semester 3 and semester 4. And the teaching and learning contains two parts: First, independent research is undertaken by the student with the support and advice of a supervisor from IBSS faculty. Second, students are expected to devote at least 590 hours of unsupervised time to private study during the entire second year of the study to complete this module. Third, students are required to attend 5 seminars of two hours each, delivered by the module leader, providing general advice and guidance on project structuring, problem definition, research methods and data analysis."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO409&psl_code=SEM1"
+    }
+  ]
+}

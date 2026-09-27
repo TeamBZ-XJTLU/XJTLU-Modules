@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Professional Practice : Digital Media Arts",
+  "module_code": "FTA315",
+  "offerings": [
+    {
+      "heading": "Professional Practice : Digital Media Arts",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Professional Practice : Digital Media Arts",
+        "module_code": "FTA315",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Professional Practice : Digital Media Arts",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to: • To develop the students’ awareness of the social/ethical/cultural and economic factors affecting decisions made within digital media arts and the creative industry. • To increase student ability to undertake self-marketing within their chosen design field. • To investigate the creative job market and the employment issues in response to the changing market requirements.",
+        "Learning outcomes": "A Exhibit an strong awareness of the creative sector in relation to employment destinations and personal ambitions. B Employ the ability to develop a strategy for self- marketing and job seeking relevant to the subject area through independent learning, setting goals and managing their own workloads. C Compose an understanding of and critically appraise the role of a creative from a business perspective in relation to creating a portfolio. D Investigate and reflect on the processes used by creative companies for the management of projects, and the operation of a business and identify the gaps between their own work related capabilities and disciplinary expectations.",
+        "Method of teaching and learning": "The teaching sessions are divided into three components (Lectures, seminars and field work). In addition, students will be expected to attend at least 2 tutorials per semester Lectures will focus on the Creative Industry requirements for graduates Seminars will allow further discussion about students’ own portfolio and practical work and how this is represented for promotion. Students will be encouraged to interact with Industry as part of this module and pursue the career direction that their work represents."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA315&psl_code=SEM1"
+    }
+  ]
+}

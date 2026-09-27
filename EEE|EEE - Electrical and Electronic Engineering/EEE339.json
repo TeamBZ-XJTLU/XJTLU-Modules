@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Digital System Design with HDL",
+  "module_code": "EEE339",
+  "offerings": [
+    {
+      "heading": "Digital System Design with HDL",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Digital System Design with HDL",
+        "module_code": "EEE339",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Digital System Design with HDL",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with the ability to use HDL to design, synthesise and simulate large-scale combinational/sequential logic circuits and processors. Students will be exposed to the state-of-the-art CAE software for automatic electronics design. Fit of module: This module provides students the knowledge and experience in high-level design of electronics and computers. This will benefit their careers in electronics, computer hardware and robotics.",
+        "Learning outcomes": "A. Design and model complex digital systems using a Hardware Description Language (HDL), employing hierarchical design techniques and parameterised modules. B. Analyse the performance and architecture of digital systems, evaluating trade-offs in design parameters for processor components and systems. C. Implement, simulate, and validate a microprocessor (such as a MIPS architecture) from its component modules up to a pipelined system. D. Apply industry-standard Computer-Aided Engineering (CAE) tools to the complete digital design flow, from functional simulation and synthesis to the verification of system performance.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures and laboratory sessions. The lectures set the foundational/theoretical contents. The two design projects and relevant lab sessions provide students with the opportunity to put into practice the content learned during the lectures. Design project 1 is to synthesise a large-scale sequential circuit. Design project 2 is to synthesise and simulate an MIPS processor. The two design projects cover different aspects of knowledge and experience in this module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE339&psl_code=SEM1"
+    }
+  ]
+}

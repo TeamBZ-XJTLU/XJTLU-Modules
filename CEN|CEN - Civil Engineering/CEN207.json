@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Construction Materials",
+  "module_code": "CEN207",
+  "offerings": [
+    {
+      "heading": "Construction Materials",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Construction Materials",
+        "module_code": "CEN207",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Construction Materials",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce the factors which influence the selection of materials for engineering purposes, to develop understanding of the properties of these materials, and to lay a foundation for subsequent design work.",
+        "Learning outcomes": "A. Assess the factors influencing the selection of the most appropriate material for a particular civil engineering purpose. B. Compare the manufacturing processes, physical/mechanical/engineering properties of widely used construction materials such as aggregate, concrete, metal, masonry, timber, bamboo, composite and asphalt materials. C. Judge the most relevant test method used to evaluate the performance of a given construction material considering the application of a particular material and the availability of test standards. D. Design a concrete mix proportion considering given requirements and restrictions. E. Analyse a set of experimental data to produce a quantitative/qualitative conclusion and hence to evaluate the properties of the given material.",
+        "Method of teaching and learning": "The material in this module is delivered through a combination of formal lectures and practical sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN207&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Digital Supply Chain",
+  "module_code": "IFB411TC",
+  "offerings": [
+    {
+      "heading": "Digital Supply Chain",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Digital Supply Chain",
+        "module_code": "IFB411TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Digital Supply Chain",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module is to introduce the importance of Digital Supply Chains, which are always-on, always-connected, transparent, and dynamic networks. It provides the necessary concepts and techniques in the design and implementation of Digital Supply Networks from a managerial point of view. Technologies such as Digital Twins, Blockchain, IoT and Artificial Intelligence in the field may be discussed from the perspective of availability of tools to facilitate end-to-end visibility, control tower, and automated decision making. The focus of the module is on the use of case studies as well to describe the concepts and approaches to design and implement Digital Supply Chains.",
+        "Learning outcomes": "A. Critically analyze diverse digital supply chain business models to enhance competitiveness in the digital supply chain landscape. B. Utilize simulation tools and models to critically evaluate various digital technologies that underpin operations within the Digital Supply Network. C. Employ analytical tools to examine the implementation, approaches, and considerations surrounding Digital Supply Networks, thereby bolstering upstream and downstream integration. D. Evaluate digital technologies that contribute to the enhancement of supply chain practices and automated decision-making processes.",
+        "Method of teaching and learning": "Based on the philosophy of Syntegrative Education, this module’s delivery pattern follows more intensive block teaching, and allows more meaningful contribution from industry partners. This delivery pattern provides space for students to concentrate on completing the problem-based and project-oriented assessments. This module will be delivered through a series of key lectures/seminars. In addition, students will be required to analyse a number of cases, determining what worked and why."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB411TC&psl_code=SEM1"
+    }
+  ]
+}

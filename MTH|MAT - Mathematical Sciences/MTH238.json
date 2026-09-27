@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MAT",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Risk Modelling and Survival Analysis",
+  "module_code": "MTH238",
+  "offerings": [
+    {
+      "heading": "Risk Modelling and Survival Analysis",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Risk Modelling and Survival Analysis",
+        "module_code": "MTH238",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Risk Modelling and Survival Analysis",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a comprehensive understanding of mathematical and statistical modelling techniques relevant to actuarial work, with a specific focus on risk modelling and survival analysis. The module covers two main topics: random variables and distributions for risk modelling, and survival models. Students will gain theoretical knowledge and practical skills essential for analyzing insurance contracts, estimating lifetime distributions, and forecasting mortality rates.",
+        "Learning outcomes": "A. Understand statistical distributions suitable for modelling the variables and risks that arise within insurance contracts. B. Explain the concepts of survival models, including lifetime distributions, survival functions, and hazard rates. C. Understand and apply estimation procedures for lifetime distributions under non-censoring and censoring. D. Understand graduation methods and graduation tests. E. Perform mortality projection using different models, and assess the main sources of error in mortality forecasts. F. Use appropriate statistical software to implement models and estimation procedures.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorial sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH238&psl_code=SEM2"
+    }
+  ]
+}

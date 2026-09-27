@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Accounting Final Year Project",
+  "module_code": "ACC304",
+  "offerings": [
+    {
+      "heading": "Accounting Final Year Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Accounting Final Year Project",
+        "module_code": "ACC304",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Accounting Final Year Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides you with the opportunity to consolidate, and reflect on, the knowledge you have acquired during your studies as well as to apply it in business contexts as being typified by case studies. Further, it enables you to develop skills and abilities; such as: problem-solving, oral and written communication, and critical thinking. Finally, it assists you to form a code of business ethics and standards of best practices in accounting.",
+        "Learning outcomes": "A Select and appraise financial and non-financial information from different sources. B Choose appropriate analytical techniques to describe, interpret, and draw inferences on, data. C Exercise professional scepticism and judgement in order to deal with complex and conflicting accounting situations. D Recognise the main issues concerning corporate governance, social responsibility, and compliance with the reigning regulations. E Possess commercial awareness and articulate business recommendations. F Solve problems in creative and innovative ways. G Demonstrate oral and written communication skills. H Engage in reflective, critical, and independent thinking.",
+        "Method of teaching and learning": "Students can learn through lectures, tutorials, and guided independent study. They can avail themselves of lectures to improve their knowledge in areas pertinent to their assignments. They are encouraged to present their work-in-progress in order to get feedback from their colleagues and supervisors. They can also devote sufficient time to study by themselves."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC304&psl_code=SEM2"
+    }
+  ]
+}

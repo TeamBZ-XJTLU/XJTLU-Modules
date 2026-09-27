@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "International Political Economy",
+  "module_code": "ECO303",
+  "offerings": [
+    {
+      "heading": "International Political Economy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "International Political Economy",
+        "module_code": "ECO303",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "International Political Economy",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with an understanding of the economic, political, and social aspects of the globalisation of markets. Based on international relations and political economy theory, students will learn to assess the implication of international economic integration. This module is designed to provide multidisciplinary perspectives to the study of business relations in the modern global economy, both at the domestic and international level. Topics covered include economic ideology and methodology, the role of the state, international institutions, globalisation, multinational corporations, environment and economics.",
+        "Learning outcomes": "A. discuss and compare the different theoretical schools in the field of International Political Economy B. identify and understand the roles of states, institutions, civil societies, and multinational corporations in the globalized economy C. map and compare differences in political economic conditions in the world D. demonstrate an appreciation of the practical implications of political economic conditions on business and economic decisions.",
+        "Method of teaching and learning": "Lectures will cover International Political Economy theory. The lectures will start with a discussion on the conceptual framework in International Political Economy, and will move on to the different topics of importance in contemporary markets. Tutorials, on the other hand, we be used as a discussion time for students to discuss their independent (group) research on specified topics. Coursework will take the form of presentations during tutorials, followed by supervised debate between presenters and discussants."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO303&psl_code=SEM1"
+    }
+  ]
+}

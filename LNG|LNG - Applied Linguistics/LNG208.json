@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Psycholinguistics",
+  "module_code": "LNG208",
+  "offerings": [
+    {
+      "heading": "Psycholinguistics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Psycholinguistics",
+        "module_code": "LNG208",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Psycholinguistics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will introduce the fundamental topics in psycholinguistics, including the production, comprehension, acquisition of language, language and the brain, and language, culture and mind. Each topic will mainly focus on the core concepts, important findings, typical debates and models. A topic on psycholinguistic research methods will also be introduced. The main objectives of this module are to familiarize students with the core themes in psycholinguistics, to introduce how language can be studied using experimental techniques, and to encourage students to reflect upon their daily language experiences and describe these experiences from a psycholinguistic perspective.",
+        "Learning outcomes": "A. Identify the main research questions in psycholinguistics B. Identify the major theories and debates and methodological approaches in psycholinguistics C. Demonstrate an understanding of the major theories and debates in psycholinguistics D. Demonstrate an understanding of the most commonly used experimental techniques in psycholinguistics E. Reflect and describe daily language experiences from a psycholinguistic perspective",
+        "Method of teaching and learning": "The module will be taught through a combination of lectures and interactive seminars. Each topic will be assigned one or two lecture sessions and one or two integrative seminars, depending on the topic under discussion (see the syllabus below). In the lecture section, the major theoretical concepts, research findings, and methodological issues will be surveyed and introduced. The students are then required to reflect upon and discuss these issues in the seminar and will be given opportunities to apply these concepts to examine real-life language experiences."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG208&psl_code=SEM1"
+    }
+  ]
+}

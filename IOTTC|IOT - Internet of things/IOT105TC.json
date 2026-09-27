@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOT",
+    "domain_code": "IOTTC",
+    "full_name": "Internet of things"
+  },
+  "full_name": "IoT in Organizations",
+  "module_code": "IOT105TC",
+  "offerings": [
+    {
+      "heading": "IoT in Organizations",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOTTC",
+        "full_name": "IoT in Organizations",
+        "module_code": "IOT105TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "IoT in Organizations",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will explore basic organizational theory and management focusing, in particular, on the role and the impact of Internet of Things (IoT) in organizations. This will introduce students to concepts such as organizational structures, organizational behaviors and organizational needs, that form the generic context for the use of IoT in organizations. Furthermore, this module introduces students to the basic aspects and components of IoT technologies and how they meet and can be integrated into key organizational solutions in different operational contexts such as industry, service, commerce, government, etc. The module also covers main areas and contexts of IoT deployment, such as smart cities, smart manufacturing, smart health, etc. Finally, the module covers security, privacy, and ethical considerations in the deployment of IoT in organizational environments.",
+        "Learning outcomes": "A Explain basic concepts, principles, opportunities and problems regarding the use of IoT in organizations. B Explain and understand IoT fundamental features, components and architectures. C Explain the basic IoT features in a range of IoT rich environments (e.g. smart cities, smart manufacturing, smart health, etc.) and explain the role of IoT technologies in these environments. D Establish organizational requirements for IoT, solutions for these requirements, and analyse these solutions in terms of suitability, risks, opportunities, ethical concerns, equality, diversity, and inclusion. E Demonstrate an understanding of security, privacy, and ethical considerations related to IoT development and deployment. F Demonstrate technical report writing and essay writing skills to describe the use of IoT in organizations.",
+        "Method of teaching and learning": "In general terms, the educational philosophy of the module follows a syntegrative education approach. This philosophy will integrate trends of current industry patterns use of IoT, recognized practices and organizational theory. The module will be taught using a block teaching approach. Learning and teaching will be participatory and interactive and will use a mixture of formal lectures and both individual and group-based practical project work. Lectures are expected to provide advance organizers into the theoretical aspects of organizational theory and IoT technology. Project work is expected to enable the application in practice of both the theoretical principles and the design and development of IoT conceptual tools. Tutorials are planned, in order to support the coursework. Attendance to the tutorials requires preparation and the production of drafts. The assessment consists of group coursework. The coursework is divided into 3 submissions and includes the interpretation of an international case study and the production and description of a series of aspects, namely a requirements analysis, IoT solution proposal, and solution evaluation. The final mark of the coursework will be a compound mark of the three components. Students are allowed to pass if the compound mark of the coursework is above the fail mark."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOT105TC&psl_code=SEM2"
+    }
+  ]
+}

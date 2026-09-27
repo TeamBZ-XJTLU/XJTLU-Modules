@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Relationship Marketing",
+  "module_code": "IOM305",
+  "offerings": [
+    {
+      "heading": "Relationship Marketing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Relationship Marketing",
+        "module_code": "IOM305",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Relationship Marketing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to develop in students an awareness of the importance of relationship marketing within the wider context of general marketing. It reviews the concepts, underlying assumptions, and theories of relationship marketing, and develops in students an understanding of relationship marketing strategies to create beneficial longer-term relationship with customers. The module also develops an awareness of the connections between the core firms and their focal business partners such as customers, suppliers, as well as any internal and external partnerships. The module allows students to develop their individual and group learning skills, and their abilities to critically analyse, design and execute relationship marketing strategies.",
+        "Learning outcomes": "A. Understand the position of relationship marketing in the wider context of general marketing, appreciating its unique characteristics and how it is different from traditional marketing approaches. B. Analyse the nature of relationship marketing and its importance through the lens of organizational theories. C. Critically appraise the relationship marketing strategies of organisations. D.Critically appraise relationship marketing in business-to-consumer (B2C) and business-to-business (B2B) organisations",
+        "Method of teaching and learning": "This module involves a range of different but complementary teaching methods, namely, lectures, short and detailed case discussions as well as directed reading. To further enhance student learning and understanding, students will be encouraged to use additional academic and practitioner-oriented resources and references pertinent to relationship marketing – e.g. recommended textbooks, journal and press articles, and publicly available industry reports."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM305&psl_code=SEM1"
+    }
+  ]
+}

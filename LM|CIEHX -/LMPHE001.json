@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CIEHX",
+    "domain_code": "LM",
+    "full_name": ""
+  },
+  "full_name": "Physical Education 1",
+  "module_code": "LMPHE001",
+  "offerings": [
+    {
+      "heading": "Physical Education 1",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LM",
+        "full_name": "Physical Education 1",
+        "module_code": "LMPHE001",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "1",
+        "Module Level": "Level 0",
+        "Module Title": "Physical Education 1",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To teach students to learn the selected sport, promote their physical fitness and develop their healthy habits through a lifelong participation in sports.",
+        "Learning outcomes": "A. Successfully demonstrate the fundamentals of a selected sport. B. Understand the importance of physical fitness and wellness. C. Reflect on their participation and engagement in sport and physical fitness.",
+        "Method of teaching and learning": "Teaching and learning in the module will follow the following principles 1. Instructing - instructions must be given for them to complete the task or skill. These may be written or verbal. The teacher must ensure the student knows what is required of them 2. Demonstrating - The teacher may provide a demonstration of the skill or may get a peer to perform it. It is key that this is a good demonstration to allow the student to form a model in their memory and mentally rehearse the skill to be performed 3. Applying - The student then practices the skill in a planned situation to help them transfer the learning from practice to a competitive situation 4. Confirming – Feedback is given to provide information to the student about how successful they have been and how to improve. Testing or assessing the skill allows the teacher and the student to evaluate performance."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LMPHE001&psl_code=SEM1"
+    }
+  ]
+}

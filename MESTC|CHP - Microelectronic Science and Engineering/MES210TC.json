@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHP",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "Continuous and Discrete Time Signals and Systems",
+  "module_code": "MES210TC",
+  "offerings": [
+    {
+      "heading": "Continuous and Discrete Time Signals and Systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Continuous and Discrete Time Signals and Systems",
+        "module_code": "MES210TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Continuous and Discrete Time Signals and Systems",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce the key concepts of signals and systems in time and frequency domains. Students will learn essential analysis techniques using mathematical series and transforms, crucial for various engineering applications, including circuits and systems analysis. Equipped with the knowledge and skills taught in this module, students will obtain a clear picture in Continuous and Discrete Time Signals and Systems. They will learn to design and evaluate the systems to solve real-world problems.",
+        "Learning outcomes": "A. Understand mathematical representations of continuous and discrete time signals, linear time invariant systems, and filters, including the use of Fourier Series and Transforms for periodic and finite energy signals. B. Demonstrate a clear understanding of the Laplace Transform, z-transform, DTFT, and DFT, along with their properties and applications in circuits and systems analysis. C. Apply theoretical knowledge to analyze continuous and discrete signals and systems in both time and frequency domains.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The module will be delivered through a structured combination of formal lectures, tutorials, and lab sessions, allowing students to engage deeply with the material while providing ample time for assessments. Lectures: These will introduce the core concepts and theories related to mathematical representations of signals and systems, including Fourier and Laplace Transforms. Each lecture will be designed to provide a clear understanding of the foundational topics, supported by case studies that illustrate real-world applications in engineering and technology. Tutorials: These sessions will encourage interactive learning, where students can discuss and explore the concepts introduced in lectures. Problem-solving exercises and group discussions will enhance their understanding of the theoretical frameworks. Lab Sessions: Practical lab work will equip students with essential skills to analyze continuous and discrete signals and systems. They will engage in hands-on projects that involve using programming tools and data analytics to tackle industry-focused challenges. This experiential learning will reinforce theoretical knowledge and promote independent study. By integrating these diverse teaching methods, students will develop a comprehensive understanding of the module content and be well-prepared to apply their knowledge in practical settings."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES210TC&psl_code=SEM2"
+    }
+  ]
+}

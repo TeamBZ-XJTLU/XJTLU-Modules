@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Intermediate Macroeconomics",
+  "module_code": "ECO224",
+  "offerings": [
+    {
+      "heading": "Intermediate Macroeconomics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Intermediate Macroeconomics",
+        "module_code": "ECO224",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Intermediate Macroeconomics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a solid foundation of intermediate level macroeconomics. It extends the study of macroeconomic theory by incorporating the policy implications of the different macroeconomic models. It also examines the most relevant policy issues and controversies in the global macroeconomy. In addition, it fosters a critical and ethical understanding of how to use AI tools in macroeconomic analysis.",
+        "Learning outcomes": "A Demonstrate a thorough understanding of the effects of a change in fiscal and monetary policy on the level of income and the balance of payment in both fixed and flexible exchange rate regimes. B Understand, analyse and critically assess current macroeconomic problems widely addressed in the media such as unemployment, inflation, macroeconomic policy and exchange rate volatility. C Demonstrate critical awareness of the interrelationships between different macroeconomic policies that are also relevant to other areas of macroeconomics.",
+        "Method of teaching and learning": "This module will be delivered via a combination of lectures and tutorials. Lectures are designed to provide essential information and introduce students to the basic tools of analysis used in Microeconomics. Tutorials will provide students with a learning opportunity designed to extend the material introduced in the lectures through the in-depth analysis of specific problems from various topics covered in the module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO224&psl_code=SEM2"
+    }
+  ]
+}

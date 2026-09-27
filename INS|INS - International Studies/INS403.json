@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Regional Integration and Globalisation",
+  "module_code": "INS403",
+  "offerings": [
+    {
+      "heading": "Regional Integration and Globalisation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Regional Integration and Globalisation",
+        "module_code": "INS403",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Regional Integration and Globalisation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module examines projects of transnational cooperation and regional integration in different parts of the world (drawing on examples from Europe, Africa, the Asia Pacific, Middle East and the Americas), additionally exploring the linkages between regionalism and the phenomenon of globalisation. Students are invited to delve into the causal mechanisms triggering regional integration, analysing the often paradoxical relationship between national sovereignty and regional integration resulting from intense transnational cooperation. Schemes of regional integration in three different geographical contexts are comparatively scrutinised to allow students to reach more holistic inferences. At the same time, students engage into debates regarding the contested relationship of regionalism and globalisation; in competition or complementarity",
+        "Learning outcomes": "A. Demonstrate a critical knowledge and understanding of the phenomena of regionalism, regional integration and globalisation as well as their in-between relations. B. Apply theories of regional integration to explain the emergence of schemes of regional integration in different geographical contexts. Specific policies and measures by international and regional actors to engage in globalization and regionalization should be reviewed to test the effects. C. Evaluate different interpretations of globalisation and of its socio-political consequences at national, regional and global levels. D. Gather, organise and deploy evidence, and different forms of data and information from a variety of primary and secondary sources. E. Argue effectively and in scientifically robust manner by means of formulating research questions and testing hypotheses. F. Develop independent research skills as well as a critical and reflective mindset about the examined topics.",
+        "Method of teaching and learning": "The module will be informed by interactive and reflective teaching methods. It will consist of lectures, seminars and independent study and research."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS403&psl_code=SEM1"
+    }
+  ]
+}

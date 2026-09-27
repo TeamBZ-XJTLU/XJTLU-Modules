@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Advanced Management Accounting",
+  "module_code": "ACC301",
+  "offerings": [
+    {
+      "heading": "Advanced Management Accounting",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Advanced Management Accounting",
+        "module_code": "ACC301",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Advanced Management Accounting",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to increase students' knowledge of the theory and practice of management accounting and to build on study of this topic in earlier years (especially to extend and complement the material covered in AFC215 Management Accounting). This module teaches students the role of management accounting in the broad context of organisational management. It enables students to understand the reasons why some performance measurement initiatives fail, and it explores the different ways of approaching the measurement of performance in different contexts. The module explains the basis and drawbacks of measuring performance in financial terms. Another important aspect of the module is to review the various theoretical approaches which have been adopted or proposed for the development of management accounting and management decision-making. Also, detailed case examples on the practice of management accounting are provided. The module also seeks to help students develop data analytics skills and appreciate the importance of data analytics technology in dealing with complexity, uncertainty, and volatility in business environments.",
+        "Learning outcomes": "A. Demonstrate an in-depth knowledge of the theoretical tools and current practices of management accounting including various forms of costing techniques. B. Understand, analyse and critically evaluate issues in theory and practice in management accounting from both an internal and external perspective. C. Appreciate, interpret and account for the sources of, and possible solutions to, controversies in management accounting. D. Demonstrate a thorough understanding of the role of management accounting in management decision making and activity. E. Appreciate the role of big data in helping with risk identification and management in managerial accounting and develop data analytics skills using Excel.",
+        "Method of teaching and learning": "Lectures and Workshops"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC301&psl_code=SEM2"
+    }
+  ]
+}

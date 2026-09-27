@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Research Methods for International Business",
+  "module_code": "INS414",
+  "offerings": [
+    {
+      "heading": "Research Methods for International Business",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Research Methods for International Business",
+        "module_code": "INS414",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Research Methods for International Business",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to give students a sound grounding in research methods at the level necessary to facilitate their undertaking of a research project to meet the requirements of the INS413 International Business and Global Affairs Dissertation module and allow them to use and evaluate research methods in a business environment. Students will understand fundamental issues and methodological tools underlying empirical inquiry in International Business with a view to applying these methods in their projects, including their Master’s dissertation. This module is an XJTLU AI-enhanced module. Students are equipped with data visualization and analytic skills with the use of AI throughout the semester",
+        "Learning outcomes": "A. Contrast epistemological foundations of social science research B. Evaluate requirements and challenges of research ethics C. Identify and critically evaluate literature relevant to a specific research question D. Critically evaluate needs and challenges of research design E. Demonstrate understanding and apply methods of data collection and analysis F. Communicate clearly in writing G. Design a research project and write a research proposal H. Apply analytical reasoning and innovative approaches to address methodological problems. I. Demonstrate critical thinking and analytical judgment in using digital and computational research tools.",
+        "Method of teaching and learning": "The module will be informed by interactive and application-oriented teaching methods. It will consist of lectures, seminars for learning how to apply quantitative and qualitative research methods with the assistance of software and independent study and research."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS414&psl_code=SEM2"
+    }
+  ]
+}

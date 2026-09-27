@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Cultural and Creative Entrepreneurship",
+  "module_code": "FTA423",
+  "offerings": [
+    {
+      "heading": "Cultural and Creative Entrepreneurship",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Cultural and Creative Entrepreneurship",
+        "module_code": "FTA423",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Cultural and Creative Entrepreneurship",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: This module aims to develop students’ knowledge and practical skills in becoming the cultural producers within their chosen field. It explores the ways in which creativity, innovation, problem solving and entrepreneurship intersect. Objectives: The students will focus on achieving a critical understanding the value of culture and creative content within an entrepreneurial framework focusing on both Chinese and global markets. It helps students learn the concept of entrepreneurship and the techniques of developing the proposal for a small business organisation (e.g. start-ups).",
+        "Learning outcomes": "A Demonstrate a systematic understanding of the theories and concepts that underpin entrepreneurship B Develop an original business plan/proposal with the entrepreneur mindset in the context of cultural and creative industries with a range of business design techniques C Evaluate critically the multi-disciplinary aspects of cultural and creative entrepreneurship and how these aspects have the potential to interact within a proposed project",
+        "Method of teaching and learning": "The module will be delivered through mainly formal lectures and seminar group discussions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA423&psl_code=SEM2"
+    }
+  ]
+}

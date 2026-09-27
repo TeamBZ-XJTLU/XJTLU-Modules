@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "Sociological Theories: A Chinese Odyssey",
+  "module_code": "CCS115",
+  "offerings": [
+    {
+      "heading": "Sociological Theories: A Chinese Odyssey",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "Sociological Theories: A Chinese Odyssey",
+        "module_code": "CCS115",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Sociological Theories: A Chinese Odyssey",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will be one of China Studies' core modules. It aims to engage students in understanding the key theoretical discussions of social change in the Chinese context. The module will first, introduce the main sociological theories, and subsequently, it will present how these theories have been adapted by scholars in academic research about society and the development of China and other countries. Finally, students will take part in these conceptual discussions through a comparative and theoretically-informed approach to China and area studies.",
+        "Learning outcomes": "A. Identify the main concepts and ideas of major sociological theories. B. Draw clear conceptual links between social theory, comparative application of theory, and area studies. C. Demonstrate understanding of the ways in which scholars have adapted and applied sociological theories to the empirics of contemporary China. D. Produce a theoretically informed assessment about current debates in China studies.",
+        "Method of teaching and learning": "1) Lectures. In these sessions, the lecturer will provide an overview of the most relevant social theories. 2) Seminars. Students will engage in the critical analysis of social theories in order to identify their gaps and main contributions, to subsequently test them in the empirical reality of contemporary China. 3) Online activities. The module will employ different teaching tools available in Learning Mall."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS115&psl_code=SEM2"
+    }
+  ]
+}

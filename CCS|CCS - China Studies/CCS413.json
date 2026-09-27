@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "Made in China: Industrial Policy and Innovation",
+  "module_code": "CCS413",
+  "offerings": [
+    {
+      "heading": "Made in China: Industrial Policy and Innovation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "Made in China: Industrial Policy and Innovation",
+        "module_code": "CCS413",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Made in China: Industrial Policy and Innovation",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to examine the evolution and contemporary dynamics of China’s industrial policy and innovation strategy, with a particular focus on the role of the state in shaping technological development. It explores how industrial upgrading, sectoral transformation, and global competition intersect in China’s pursuit of innovation-led growth. The module equips students with critical tools to analyze how policy, institutions, and firms interact in China's developmental trajectory. It is especially suited for MA students interested in political economy, science and technology policy, or strategic development planning, and prepares them for roles in policy analysis, technology governance, or sectoral innovation strategy, particularly where attention to local policy design and implementation is essential.",
+        "Learning outcomes": "A. Critically evaluate the evolution of China’s industrial policy and its impact on sectoral upgrading and innovation strategies. B Analyze firm-level and sectoral case studies to assess how industrial policies are implemented, adapted, and contested in practice. C Apply relevant political economy and development theories to interpret the interaction between state institutions, policy instruments, and innovation ecosystems in China. D Communicate policy-relevant insights in clear and persuasive formats, such as policy briefs or analytical case reports.",
+        "Method of teaching and learning": "The module is delivered through weekly sessions comprising a lecture and a seminar. Lectures introduce core concepts, theoretical frameworks, and sector-specific developments related to China’s industrial policy and innovation strategy in a dialogic manner, facilitated by AI. Seminars provide an interactive environment for critical discussion, debates, and other forms of application of theories to real-world policy scenarios. Generative AI is incorporated into the learning and teaching process, as well as in assessments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS413&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FAM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Credibility Theory",
+  "module_code": "MTH306",
+  "offerings": [
+    {
+      "heading": "Credibility Theory",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Credibility Theory",
+        "module_code": "MTH306",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Credibility Theory",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Students gain a thorough understanding of credibility theories to calculate premiums. Students are also required to understand the application of theories to the data and know the basics of simulation. In order to provide a useful treatment of these topics, it is necessary to stress fundamentals and explore topics at both technical and theoretical levels.",
+        "Learning outcomes": "A analyze limited fluctuations models B apply greatest accuracy models to determine premiums C construct American, Bayesian and exact credibility models D Evaluate formulas for Bühlmann and Bühlmann-Straub credibility models. E perform empirical Bayes parameter estimation (need more exactly) F apply the knowledge of simulation in actuarial modeling",
+        "Method of teaching and learning": "This module is delivered through formal lectures and tutorial classes"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH306&psl_code=SEM2"
+    }
+  ]
+}

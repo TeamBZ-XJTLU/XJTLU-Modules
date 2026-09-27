@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Research Methods for Cultural and Creative Industries",
+  "module_code": "FTA425",
+  "offerings": [
+    {
+      "heading": "Research Methods for Cultural and Creative Industries",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Research Methods for Cultural and Creative Industries",
+        "module_code": "FTA425",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Research Methods for Cultural and Creative Industries",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: This module aims to develop students' critical thinking skills and provide them with a foundation for future postgraduate research related to cultural and creative industries. The purpose of adopting an interdisciplinary perspective is to enable students to work with others representing different disciplines to develop and use shared conceptual frameworks that draw on discipline-specific concepts, theories, and methods but address common issues in the context of cultural and creative industries. The theme of this module is the study of how to advance knowledge and practice in the cultural and creative industries. Topics on the module include: philosophy of scientific research; postgraduate level analysis of the historcial and theoretical foundations of current scholarship in cultural and creative industries; development of synergistic collaborations with other disciplines; and guidance on formulating a relevant research topic. Objectives: The objectives of this course are to provide students with 1) an overview of the process of conducting research, discovery, and change to enable them to place their research rationale in context; 2) the skills to think critically about the applicability and adoption of research techniques in industry or academia; and 3) an interactive environment in which conceptual and trending issues design can be raised and discussed.",
+        "Learning outcomes": "A. Establish suitable methodological frameworks for conducting research in cultural and creative industries. B. Analyse critically the primary research findings and provide implications for cultural and creative industries when examining the social, economic and practical agendas. C. Acquire fundamental data collection and analytical skills such as quantitative, qualitative, mixed methods and/or practice-based approaches and employ the most appropriate method for implementing and completing a research project.",
+        "Method of teaching and learning": "Lectures will be used to teach and review the theoretical aspects of research methods. Seminar sessions will allow students to discuss and exchange their understanding of specific research methods and their applications. Tutorials on data collection and analysis will be provided to train students in gathering and analysing data to elicit informative findings."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA425&psl_code=SEM1"
+    }
+  ]
+}

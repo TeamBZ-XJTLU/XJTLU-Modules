@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Discourse Analysis",
+  "module_code": "LNG408",
+  "offerings": [
+    {
+      "heading": "Discourse Analysis",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Discourse Analysis",
+        "module_code": "LNG408",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Discourse Analysis",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The main aims of the module are: • To develop students’ acquirement of some main concepts, categories and frameworks relating to written and spoken discourse; • To develop students’ critical understanding of form, meaning and use of language and the principles involved in the interpretation of texts, both written and spoken; • To develop students’ awareness and knowledge of the contextual influences which affect English language in use； • To encourage students to consider the implications of discourse analysis for the teaching of English language and the research of teaching English as a foreign language;",
+        "Learning outcomes": "A Demonstrate an ability to examine the relationships between the contexts of use and linguistic features in written and spoken texts; B Identify and describe the structural elements, textual patterns and organisation of a range of written and spoken interaction; C Acquire an ability to describe meaning at word, clause and text levels, in particular, an understanding of how texts are constructed beyond sentence level; D Display familiarity with some up-to-date frameworks for critical analysis of written and spoken texts; E Demonstrate an awareness of how discourse norms and their realisations differ between cultures; F Apply discourse analysis to examine multilingual phenomena, both written and spoken; G Apply discourse analysis to describe and contrast differences between languages to guide English language teaching and researching in teaching English as a foreign language.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: lectures and seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG408&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Accounting Analytics",
+  "module_code": "ACC309",
+  "offerings": [
+    {
+      "heading": "Accounting Analytics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Accounting Analytics",
+        "module_code": "ACC309",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Accounting Analytics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to help students develop analytics skills to conduct descriptive, diagnostic, predictive, and prescriptive analysis for accounting information. It provides hands-on experience, and encourages students to use Generative Artificial Intelligence (GAI) tools ethically and effectively across the full data analytics process. By the end of the module, students should understand how to apply data analytics and AI-assisted techniques to various accounting topics studied in Years 2 and 3.",
+        "Learning outcomes": "CODE A identify and work with various data types common to accounting analytics; B apply appropriate data analytic techniques to solve specific accounting questions; C communicate effectively to relevant stakeholders with appropriate visualization techniques.",
+        "Method of teaching and learning": "This module will be delivered by a series of lab sessions. Each lab session will incorporate theory induction, demonstrations of the data analytics techniques, and followed by lab tasks for students to practice the techniques through various data sets."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC309&psl_code=SEM1"
+    }
+  ]
+}

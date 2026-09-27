@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LNG",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Corpus Linguistics",
+  "module_code": "LNG209",
+  "offerings": [
+    {
+      "heading": "Corpus Linguistics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Corpus Linguistics",
+        "module_code": "LNG209",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Corpus Linguistics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "• To engage students in the analysis of authentic samples of language in use; • To provide students with the skills needed to analyse spoken and written texts using corpus tools; • To encourage a critical attitude towards register, genre and style.",
+        "Learning outcomes": "A. develop an ability to apply analytical approaches and techniques to analyse and interpret linguistic and discourse features of authentic English texts; B. reflect critically on the written and spoken language used in a variety of contexts; C. undertake a reflective analysis of their own speech or writing in a specific context, drawing on corpus data; D. compare and contrast language choices in different varieties of texts by successfully using software for the identification of textual features E. demonstrate through project work their understanding of principles of corpus construction and corpus analyses",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (Lectures and Tutorials/workshops)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG209&psl_code=SEM1"
+    }
+  ]
+}

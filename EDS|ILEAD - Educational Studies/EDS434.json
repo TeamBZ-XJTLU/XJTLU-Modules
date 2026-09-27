@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Digital Media and Information Literacy",
+  "module_code": "EDS434",
+  "offerings": [
+    {
+      "heading": "Digital Media and Information Literacy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Digital Media and Information Literacy",
+        "module_code": "EDS434",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Digital Media and Information Literacy",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to develop learners’ critical understanding of digital media and information literacy in education, and to enable them to apply relevant theories and practices in the design and development of educational media products. It further develops learners’ capacity for reflective practice by engaging them in the evaluation of their own design processes and the critical analysis of existing digital media artefacts in educational contexts. Throughout their digital media design and reflective practices, the module actively encourages and cultivates students’ AI competence, including a human-centred mindset and AI-related technical skills.",
+        "Learning outcomes": "A. Demonstrate systematic and critical understanding of key concepts and issues in digital media and information literacy in education. B. Apply theories and practices of digital media and information literacy to design and develop an educational media product. C. Evaluate and critically reflect on the design process and final outcome of an educational media product. D. Critically analyse an existing digital media product using relevant theories and practices of digital media and information literacy.",
+        "Method of teaching and learning": "The teaching sessions are interactive and divided into two components: lectures and tutorials. Lectures focus on expanding students’ awareness of how their ideas fit into existing theories, and provide skills development in critically engaging with that literature to create their own projects. Tutorials will build on the materials covered in the lectures and provide students hands-on experiences with digital technologies. Teaching and learning will happen onsite, online, and via blended options, with project-based learning being a core approach. Both formative and summative assessments will be used, such as oral and/or written feedback from faculty and peer feedback and evaluation."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS434&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Understanding Families in Educational and Community Settings",
+  "module_code": "EDS416",
+  "offerings": [
+    {
+      "heading": "Understanding Families in Educational and Community Settings",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Understanding Families in Educational and Community Settings",
+        "module_code": "EDS416",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Understanding Families in Educational and Community Settings",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module explores the role of families in educational and community contexts, with a focus on the interaction between sociocultural, systemic, and developmental factors. Central to the module is the integration of theoretical analysis and real-world application, enabling students to critically understand and respond to complex family-related challenges. Students engage in inquiry-based learning, including case analysis and stakeholder perspectives, supported by digital tools and AI-enabled approaches (e.g., literature synthesis, data interpretation, and feedback tools). The module further develops students’ ability to conduct research-informed analysis and design evidence-based strategies or interventions, including communicating these to non-expert stakeholders, in line with professional and leadership expectations.",
+        "Learning outcomes": "A. Analyse the complex influences of family, society, and culture on children and young people using interdisciplinary theoretical frameworks. B. Critically evaluate family subsystems and dynamics as contexts for learning and development across diverse sociocultural settings. C. Compare and synthesise the role of families across different educational systems (e.g., Chinese and British) to inform educational practice and policy decisions. D. Conduct research-informed inquiry into real-world family-related challenges and design evidence-based strategies or interventions in educational or community contexts.",
+        "Method of teaching and learning": "The module adopts a Research-Led Project-Based Learning (RLPBL) approach, integrating lectures and tutorials with inquiry-based and collaborative learning. Teaching combines theoretical input with case-based analysis, comparative discussion, and applied problem-solving. Learning is structured around iterative cycles of analysis, inquiry, application, and reflection to support the development of research and professional competencies. AI-supported tools (e.g., literature synthesis, data analysis, and feedback tools) are embedded to enhance critical thinking, evidence-informed reasoning, and reflective practice. Real-world cases and stakeholder perspectives are incorporated to ensure authenticity and relevance. Students will also communicate their ideas to non-expert audiences (e.g., parents or community stakeholders), strengthening their ability to translate academic knowledge into practice."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS416&psl_code=SEM1"
+    }
+  ]
+}

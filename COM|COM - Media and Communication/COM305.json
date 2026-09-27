@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Final Year Project: Communication Studies",
+  "module_code": "COM305",
+  "offerings": [
+    {
+      "heading": "Final Year Project: Communication Studies",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Final Year Project: Communication Studies",
+        "module_code": "COM305",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 3",
+        "Module Title": "Final Year Project: Communication Studies",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to: A) Enable student to carry out and write up a piece of independent research in communication studies on a topic that interests them; B) Extend students’ knowledge, skills and critical understanding to evidence their capacity for independent thinking; C) Develop a range of transferrable research skills including the ability to organize time and resources effectively; as well as communicate with their colleagues and their supervisor.",
+        "Learning outcomes": "A. Demonstrate an ability to think independently in the context of research questions they set for themselves B. Critically appraise and make use of relevant literature as they work through their research questions, including appropriate academic referencing in order to produce a clear, coherent and sustained argument C. Synthesize and apply relevant theoretical constructs and appropriate research methodology to an original piece of research D. Clearly structure and produce a substantial piece of writing as appropriate to an original piece of research",
+        "Method of teaching and learning": "Students will identify a research topic and meet regularly with their supervisor in order to create a research proposal. They will then outline the proposal formally, conduct independent research, present their data or initial analysis orally and write a final dissertation. The emphasis in the teaching will be on original, independent research."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM305&psl_code=ACYR"
+    }
+  ]
+}

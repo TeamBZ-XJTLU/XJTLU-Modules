@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LIT",
+    "full_name": "Literature"
+  },
+  "full_name": "Literature and Film",
+  "module_code": "LIT103",
+  "offerings": [
+    {
+      "heading": "Literature and Film",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LIT",
+        "full_name": "Literature and Film",
+        "module_code": "LIT103",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Literature and Film",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This Level 1 Module attempts to familiarize and accustom students to what we do when we read, view and respond to fictional narratives in literature or in film. Studying literature and film together, alongside other media forms including radio and television, and opening up the profound historical and even formal continuities between them, the module provides a foundation in the sorts of intertextual reading essential to a humanities education. Although this module begins by establishing the clear differences between film and language as sign systems, the focus of interest is how imaginative literature and film as art-form and industry have interacted and nourished one another over the past century and more, and how theoretical approaches to narrative and fiction can illuminate both literary and film texts. Most of the key ‘texts’ on the course are drawn from popular cinema, and follow a broadly chronological progression from the early twentieth century to 2000. While the main aim of the course is to accelerate students’ development of skills and habits of close reading and critical analysis, making use of the more directly accessible medium of film for this purpose, the second objective is to equip students with a basic knowledge of film studies and film history relevant to subsequent courses and to develop their all-round competence as media consumers and intercultural communicators.",
+        "Learning outcomes": "A. explain similarities and differences between literature and film, especially in relation to narrative, using models, theories and approaches from literary theory and film studies. B. structure academic essays and other analytical exercises that perform close analysis of film texts and/or literary texts. C. situate film and literary texts within networks and systems of popular narrative.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (Lectures and Seminars). Lectures offer information on the background, context and types of texts (literary and filmic) being studied as well as ideas about how they might be read and understood. Applying both close narrative readings and theoretical models to understand and interpret the text, each session will normally move towards more general implications for literary history and analysis. Seminars link the lecture material to specific texts and films, give the students opportunity to view and discuss substantial relevant audiovisual content as well as relevant critical or literary texts, and provide opportunities for learners to develop their own interpretations, reactions, and skills of reading, viewing, and comprehension. Seminars will also provide continuous guidance on the use and abuse of generative AI in the production of coursework assessments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LIT103&psl_code=SEM1"
+    }
+  ]
+}
