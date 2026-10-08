@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LTS",
+    "domain_code": "LIT",
+    "full_name": "Literature"
+  },
+  "full_name": "Enlightenment: Literature and Philosophy (1690-1795)",
+  "module_code": "LIT201",
+  "offerings": [
+    {
+      "heading": "Enlightenment: Literature and Philosophy (1690-1795)",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LIT",
+        "full_name": "Enlightenment: Literature and Philosophy (1690-1795)",
+        "module_code": "LIT201",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Enlightenment: Literature and Philosophy (1690-1795)",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module builds on the techniques of literary study encountered in earlier modules, and provides the opportunity to study the Literature of ‘the Enlightenment’ in the English language between around 1670 and 1795. The module will enable learners to develop advanced critical skills and detailed knowledge of a formative period for art, philosophy, culture and society in Europe, England, and the English-speaking world. The syllabus is flexible, but should reflect the period’s innovations and reinventions, covering such genres as essays, letters, prose tracts, satires, memoirs, as well as one key work of fiction of the period. Through studying and discussing these texts, learners will develop advanced skills in critical thinking, persuasive writing, and genre analysis. Overall the module aims to: • Broaden and deepen knowledge of a key literary-historical period, in part through study of literary, philosophical and political texts which are common reference points in English-speaking culture and society; • Provide a range of theoretical, formal, and thematic frameworks for thinking about and interpreting these texts • Allow students to consider relationships between different kinds of texts and contexts, and to develop a critical awareness of the changing historical dynamics of what is thought to constitute the “Literary” and “Canonical”. • Encourage students to develop their own responses to texts, informed by close reading and knowledge of key critical perspectives",
+        "Learning outcomes": "A. make independent critical analyses of literary texts from the period of ‘the Enlightenment’ (c.1680-1789) B. demonstrate informed awareness of relevant contexts in which texts can be analyzed, using appropriate methods C. structure independent, critically and theoretically reflective essays, dealing with texts or groups of texts",
+        "Method of teaching and learning": "The teaching sessions divide into Lectures and Seminars. Lectures offer content on theory and contexts, and provide examples of critical readings of literary texts. Seminars require students to present and interrogate ideas, to develop critical positions in detail, and to explore the primary and secondary/critical readings in depth. Seminars will also provide continuous guidance on the use and abuse of generative AI in the production of coursework assessments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LIT201&psl_code=SEM1"
+    }
+  ]
+}

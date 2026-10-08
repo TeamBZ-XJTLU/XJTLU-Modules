@@ -1,6 +1,6 @@
 {
   "base_url": "https://modules.xjtlu.edu.cn",
-  "department_count": 66,
+  "department_count": 67,
   "error_count": 0,
   "errors": [],
   "generated_paths": [
@@ -994,7 +994,6 @@
     "LIT|ALS - Literature/LIT204.json",
     "LIT|ALS - Literature/LIT205.json",
     "LIT|ALS - Literature/LIT207.json",
-    "LIT|ALS - Literature/LIT208.json",
     "LIT|ALS - Literature/LIT209.json",
     "LIT|ALS - Literature/LIT211.json",
     "LIT|ALS - Literature/LIT301.json",
@@ -1004,6 +1003,26 @@
     "LIT|ALS - Literature/LIT309.json",
     "LIT|ALS - Literature/LIT310.json",
     "LIT|ALS - Literature/LIT311.json",
+    "LIT|LTS - Literature",
+    "LIT|LTS - Literature/LIT101.json",
+    "LIT|LTS - Literature/LIT102.json",
+    "LIT|LTS - Literature/LIT103.json",
+    "LIT|LTS - Literature/LIT105.json",
+    "LIT|LTS - Literature/LIT201.json",
+    "LIT|LTS - Literature/LIT202.json",
+    "LIT|LTS - Literature/LIT203.json",
+    "LIT|LTS - Literature/LIT204.json",
+    "LIT|LTS - Literature/LIT205.json",
+    "LIT|LTS - Literature/LIT207.json",
+    "LIT|LTS - Literature/LIT209.json",
+    "LIT|LTS - Literature/LIT211.json",
+    "LIT|LTS - Literature/LIT301.json",
+    "LIT|LTS - Literature/LIT304.json",
+    "LIT|LTS - Literature/LIT306.json",
+    "LIT|LTS - Literature/LIT307.json",
+    "LIT|LTS - Literature/LIT309.json",
+    "LIT|LTS - Literature/LIT310.json",
+    "LIT|LTS - Literature/LIT311.json",
     "LM|CCTC -",
     "LM|CCTC -/LMACC002.json",
     "LM|CCTC -/LMACC102.json",
@@ -2067,7 +2086,7 @@
     "UPD|UPD - Urban Planning and Design/UPD408.json",
     "UPD|UPD - Urban Planning and Design/UPD410.json"
   ],
-  "module_file_count": 1996,
+  "module_file_count": 2014,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -7782,12 +7801,6 @@
       "path": "LIT|ALS - Literature/LIT207.json"
     },
     {
-      "full_name": "The Short Story",
-      "module_code": "LIT208",
-      "module_level": "Level 2",
-      "path": "LIT|ALS - Literature/LIT208.json"
-    },
-    {
       "full_name": "Contemporary Western Approaches to Literature",
       "module_code": "LIT209",
       "module_level": "Level 2",
@@ -7840,6 +7853,120 @@
       "module_code": "LIT311",
       "module_level": "Level 3",
       "path": "LIT|ALS - Literature/LIT311.json"
+    },
+    {
+      "full_name": "Introduction to Literary Studies",
+      "module_code": "LIT101",
+      "module_level": "Level 1",
+      "path": "LIT|LTS - Literature/LIT101.json"
+    },
+    {
+      "full_name": "Literature and AI",
+      "module_code": "LIT102",
+      "module_level": "Level 1",
+      "path": "LIT|LTS - Literature/LIT102.json"
+    },
+    {
+      "full_name": "Literature and Film",
+      "module_code": "LIT103",
+      "module_level": "Level 1",
+      "path": "LIT|LTS - Literature/LIT103.json"
+    },
+    {
+      "full_name": "Introduction to World Literature",
+      "module_code": "LIT105",
+      "module_level": "Level 1",
+      "path": "LIT|LTS - Literature/LIT105.json"
+    },
+    {
+      "full_name": "Enlightenment: Literature and Philosophy (1690-1795)",
+      "module_code": "LIT201",
+      "module_level": "Level 2",
+      "path": "LIT|LTS - Literature/LIT201.json"
+    },
+    {
+      "full_name": "Postcolonial Literatures",
+      "module_code": "LIT202",
+      "module_level": "Level 2",
+      "path": "LIT|LTS - Literature/LIT202.json"
+    },
+    {
+      "full_name": "Literature and Gender",
+      "module_code": "LIT203",
+      "module_level": "Level 2",
+      "path": "LIT|LTS - Literature/LIT203.json"
+    },
+    {
+      "full_name": "Jane Austen",
+      "module_code": "LIT204",
+      "module_level": "Level 2",
+      "path": "LIT|LTS - Literature/LIT204.json"
+    },
+    {
+      "full_name": "Tragedy in the Age of Shakespeare",
+      "module_code": "LIT205",
+      "module_level": "Level 2",
+      "path": "LIT|LTS - Literature/LIT205.json"
+    },
+    {
+      "full_name": "Modern British Fiction on Page and Screen",
+      "module_code": "LIT207",
+      "module_level": "Level 2",
+      "path": "LIT|LTS - Literature/LIT207.json"
+    },
+    {
+      "full_name": "Contemporary Western Approaches to Literature",
+      "module_code": "LIT209",
+      "module_level": "Level 2",
+      "path": "LIT|LTS - Literature/LIT209.json"
+    },
+    {
+      "full_name": "Romanticism: Nature, Mind, and Society (1780-1840)",
+      "module_code": "LIT211",
+      "module_level": "Level 2",
+      "path": "LIT|LTS - Literature/LIT211.json"
+    },
+    {
+      "full_name": "Literature: Final Year Project",
+      "module_code": "LIT301",
+      "module_level": "Level 3",
+      "path": "LIT|LTS - Literature/LIT301.json"
+    },
+    {
+      "full_name": "Gothic Literature in Global Context",
+      "module_code": "LIT304",
+      "module_level": "Level 3",
+      "path": "LIT|LTS - Literature/LIT304.json"
+    },
+    {
+      "full_name": "Postmodern Literature (1945-present)",
+      "module_code": "LIT306",
+      "module_level": "Level 3",
+      "path": "LIT|LTS - Literature/LIT306.json"
+    },
+    {
+      "full_name": "Literature and Environment",
+      "module_code": "LIT307",
+      "module_level": "Level 3",
+      "path": "LIT|LTS - Literature/LIT307.json"
+    },
+    {
+      "full_name": "Utopia: The History of an Idea",
+      "module_code": "LIT309",
+      "module_level": "Level 3",
+      "path": "LIT|LTS - Literature/LIT309.json"
+    },
+    {
+      "full_name": "Literature of Modernity (1900-1940)",
+      "module_code": "LIT310",
+      "module_level": "Level 3",
+      "path": "LIT|LTS - Literature/LIT310.json"
+    },
+    {
+      "full_name": "Digital Humanities Research and Practice",
+      "module_code": "LIT311",
+      "module_level": "Level 3",
+      "path": "LIT|LTS - Literature/LIT311.json"
     },
     {
       "full_name": "Trends in Contemporary Accounting",

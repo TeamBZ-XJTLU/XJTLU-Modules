@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LTS",
+    "domain_code": "LIT",
+    "full_name": "Literature"
+  },
+  "full_name": "Jane Austen",
+  "module_code": "LIT204",
+  "offerings": [
+    {
+      "heading": "Jane Austen",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LIT",
+        "full_name": "Jane Austen",
+        "module_code": "LIT204",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Jane Austen",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the fiction of Jane Austen as a central point of reference in English literary history and global culture. It examines Austen’s novels as literary works of art, as interventions in the social and political debates of their time, and as texts that continue to generate new meanings through adaptation, criticism, and reinterpretation. The module aims to: • Develop students’ understanding of Austen’s narrative technique, especially her use of irony and free indirect discourse, as a means of representing consciousness and social perceptions. • Explore how Austen’s fiction mediates issues of gender, class, morality, and authorship, and how these concerns resonate across history and media, including film, popular culture, and digital reinterpretation. • Encourage students to connect close reading with broader interpretive perspectives, including feminist, historicist, and global approaches to literature. • Strengthen students’ ability to write analytically and creatively about literature, integrating formal, contextual, and critical insights. • Develop awareness of how questions of voice, mediation, and interpretation raised by Austen’s fiction relate to contemporary forms of authorship and creativity, including digital adaptation and generative AI. • Support the development of digital literacy and critical AI literacy, enabling students to evaluate how emerging technologies can shape reading, authorship, and interpretation in twenty-first-century literary studies.",
+        "Learning outcomes": "A. Read and respond critically to Jane Austen as a nineteenth-century author and as a continuing cultural presence in modern and global contexts. B. Analyse Austen’s novels using a range of formal, contextual, and critical approaches, developing awareness of how narrative technique and interpretation shape meaning. C. Produce coherent, informed, and persuasive critical writing that demonstrates close reading, contextual understanding, and engagement with relevant scholarship and creative perspectives.",
+        "Method of teaching and learning": "The teaching sessions are divided into lectures and seminars. Lectures introduce relevant knowledge and ideas. Seminars facilitate reflective critical discussions about specific texts and contexts. Selected seminar activities incorporate critical reflection on digital authorship and generative AI, developing students’ awareness of mediation, interpretation, and creativity across media."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LIT204&psl_code=SEM2"
+    }
+  ]
+}
