@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CSI",
+    "domain_code": "CSI",
+    "full_name": ""
+  },
+  "full_name": "Microprocessor Systems",
+  "module_code": "CSI203",
+  "offerings": [
+    {
+      "heading": "Microprocessor Systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CSI",
+        "full_name": "Microprocessor Systems",
+        "module_code": "CSI203",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Microprocessor Systems",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the principles of microprocessor systems, focusing on microprocessor architecture, instruction encoding, and the execution of low-level operations. Students develop the ability to write and analyze foundational programs using assembly language and learn key concepts such as data representation, function calls, and stack operations. In the era of Artificial Intelligence (AI), the ability to understand how systems operate at a fundamental level is increasingly important. Rather than focusing solely on producing code, this module emphasizes understanding what to do and why, enabling students to reason about low-level hardware and software interactions. Mastering these foundational concepts equips students with the skills needed to effectively work with, interpret, and critically use AI-relevant agents and tools. As an essential part of the computer systems curriculum, the module prepares students for more advanced study in areas such as embedded systems, operating systems, and computer architecture.",
+        "Learning outcomes": "A. Analyze the structure and operation of a microprocessor, explaining how its main functional components interact to execute instructions. B. Represent, analyze, and evaluate integer and floating-point numbers, including negative values, using standard binary representations (e.g., IEEE formats), with consideration of precision, range, and representation errors. C. Implement ARM assembly instructions to perform data and address manipulation, as well as logical and arithmetic operations. D. Analyze and apply function calls and stack operations to structure assembly programs.",
+        "Method of teaching and learning": "This module engages students through a blend of conceptual explanations and practical applications to support structured, hands-on learning in microprocessor systems. Core concepts are introduced in lectures, where students participate in guided problem-solving activities to reinforce key ideas. In alignment with learning in the era of AI, the teaching approach emphasizes understanding underlying principles over routine execution. Students are encouraged to focus on reasoning, interpretation, and problem decomposition, which are essential when working alongside AI-assisted programming tools. Practical skills are developed through structured lab sessions in which students complete conceptual programming tasks using ARM emulators to simulate microprocessor behavior. These tools provide immediate and visual feedback, supporting iterative learning and debugging. Independent study is supported through supplementary exercises and materials, enabling students to consolidate their understanding and build confidence in writing and analyzing assembly programs, while developing the ability to critically evaluate both their own solutions and those generated with AI assistance."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CSI203&psl_code=SEM2"
+    }
+  ]
+}

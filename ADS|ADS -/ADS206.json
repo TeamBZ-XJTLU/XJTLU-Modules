@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ADS",
+    "domain_code": "ADS",
+    "full_name": ""
+  },
+  "full_name": "Data Engineering",
+  "module_code": "ADS206",
+  "offerings": [
+    {
+      "heading": "Data Engineering",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ADS",
+        "full_name": "Data Engineering",
+        "module_code": "ADS206",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Data Engineering",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides an in-depth understanding of data engineering, data analytics, and data mining principles and end-to-end practices. It covers core technical frameworks, industry-driven methodologies, and key applications in the field, including data collection and preprocessing, feature engineering, distributed computing, advanced data mining algorithms, large‑scale machine learning, and data ethics. Students will learn to design, implement, validate, and deploy robust end‑to‑end data engineering solutions, apply professional tools to tackle domain‑specific data challenges, and translate technical outcomes into practical insights to support data‑driven decision‑making in industrial and business contexts.",
+        "Learning outcomes": "A. Critically evaluate technical challenges, engineering trade-offs, and industrial trends in data engineering, big data analytics, and data mining. B. Design and implement data mining algorithms and machine learning models for processing datasets, and rigorously assess their performance, engineering feasibility, and limitations. C. Apply standard tools to develop, deploy, and validate end-to-end data engineering solutions for domain-specific problems. D. Identify and address data ethics considerations in engineering projects, and communicate technical outcomes to diverse stakeholders.",
+        "Method of teaching and learning": "Students will be expected to attend two hours of formal lectures each week for 13 weeks, which will cover theoretical foundations, core concepts, algorithms and technical frameworks of data engineering, big data analytics and data mining. In addition, students will participate in two hours of supervised practical sessions (lab) weekly for 12 weeks, which will provide hands-on experience with professional data analysis tools and support students to implement complete data processing workflows and apply lecture concepts to solve large-scale data engineering tasks. Furthermore, students will be expected to devote a total of 100 hours to private study throughout the semester. This time should be used for reflection and deeper consideration of the lecture material, extensive research, reading widely on the subject, independent coding practice and consolidation of theoretical and practical knowledge. Students are encouraged to integrate practical thinking into their self-study to strengthen their understanding and application of data engineering principles in real-world scenarios."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ADS206&psl_code=SEM1"
+    }
+  ]
+}

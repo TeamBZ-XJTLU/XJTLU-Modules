@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SOE",
+    "domain_code": "SOE",
+    "full_name": ""
+  },
+  "full_name": "Introduction to Programming in Java",
+  "module_code": "SOE102",
+  "offerings": [
+    {
+      "heading": "Introduction to Programming in Java",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SOE",
+        "full_name": "Introduction to Programming in Java",
+        "module_code": "SOE102",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Programming in Java",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide UG students with a comprehensive understanding of the core principles and practices of object-oriented programming (OOP) using Java. This module is designed to equip students with a solid grasp of fundamental OOP concepts such as classes, objects, inheritance, polymorphism, and encapsulation. Students will develop practical skills in designing, implementing, and testing object-oriented programs using Java, a widely-used and industry-relevant programming language. The module also emphasizes the application of design principles and patterns to create robust, maintainable, and scalable software solutions. By fostering critical thinking and problem-solving abilities, students will be able to analyze and evaluate different OOP approaches and their implications on software design. This module is an essential component of the undergraduate curriculum, particularly for students pursuing degrees in Computer Science, Software Engineering, Information Technology, and related technical disciplines. It serves as a bridge between introductory programming courses and more advanced topics, preparing students for complex programming challenges and enabling them to contribute effectively to software development projects in both academic and professional settings.",
+        "Learning outcomes": "A. Design, write, compile, test, debug, and execute computer programs using Java, demonstrating proficiency in syntax, control structures, and basic I/O operations. B. Explain and apply the principles of object-oriented programming, such as abstraction, encapsulation, inheritance, and polymorphism, to develop robust, maintainable Java applications. C. Develop Java applications while adhering to software development best practices, including standardized code style guidelines.",
+        "Method of teaching and learning": "Students are required to attend two hours of lectures and two hours of computer laboratory practical sessions every week. Lectures cover the core academic content and practical skills of the module, while laboratory practicals provide hands-on opportunities for students to apply and consolidate what they have learnt. Students are additionally expected to engage in regular private study, dedicated primarily to completing non-graded weekly formative exercises. Private study also allows students to reflect on lecture materials, deepen their subject knowledge, and complete recommended background reading. These formative weekly exercises carry no formal grading weight and exist solely to support continuous learning and revision. All graded assessment takes the form of midterm and final examinations. These evaluations assess students’ proficiency in practical skills through individual set tasks, where students solve given problems by applying standard software engineering practices in accordance with supplied requirement specifications."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SOE102&psl_code=SEM1"
+    }
+  ]
+}

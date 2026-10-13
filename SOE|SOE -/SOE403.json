@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SOE",
+    "domain_code": "SOE",
+    "full_name": ""
+  },
+  "full_name": "Databases and Data Management",
+  "module_code": "SOE403",
+  "offerings": [
+    {
+      "heading": "Databases and Data Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SOE",
+        "full_name": "Databases and Data Management",
+        "module_code": "SOE403",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Databases and Data Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide a thorough and structured exploration of information systems, with a particular emphasis on database systems and contemporary web-based database technologies. It seeks to develop students' critical understanding of the design, functionality and practical applications of these systems. The module also aims to equip students with the foundational knowledge and methodologies required for advanced study and professional practice in the areas of database design, management and analysis. As such, it is ideally suited for students pursuing careers or further academic work in fields related to data systems and information technology.",
+        "Learning outcomes": "A. Critically analyze and interpret the structure, functionality, and design principles of relational databases; B. Design and implement database systems using E-R diagrams and SQL; C. Integrate theoretical knowledge into the practical application and implementation of database systems.",
+        "Method of teaching and learning": "Students are required to attend a two-hour formal lecture and a one-hour laboratory session each week. Throughout the course, illustrative examples, supported by generative AI tools, will be employed to demonstrate the effective design, implementation and utilisation of databases. In addition, students are expected to engage in 8–10 hours of independent study per week to reflect on lecture content, consolidate learning and complete recommended readings. Summative assessment comprises three components, which provide a progressive and authentic measure of all learning outcomes. A research-led group assignment assesses collaborative inquiry and critical synthesis, with generative AI tools encouraged to reflect modern professional practice, under required student oversight. An in-class test ensures individual accountability for content covered in group work and lectures/labs, offering a time-constrained check on understanding across all outcomes. A practical database design and implementation task serves as a capstone to authentically measure independent technical competence."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SOE403&psl_code=SEM1"
+    }
+  ]
+}

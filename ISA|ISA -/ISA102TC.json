@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ISA",
+    "domain_code": "ISA",
+    "full_name": ""
+  },
+  "full_name": "AI software engineering",
+  "module_code": "ISA102TC",
+  "offerings": [
+    {
+      "heading": "AI software engineering",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ISA",
+        "full_name": "AI software engineering",
+        "module_code": "ISA102TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "AI software engineering",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The goal of the module is to develop an understanding of Artificial Intelligence (AI) in the context of Software Engineering (SE). It integrates SE principles with specialized AI practices, to prepare students to address the dynamic changes of modern software development. The competencies include understanding the traditional Software Development Life Cycle (SDLC) methodologies, tools such as Unified Modeling Language (UML) for documentation, containerization, and Continuous Integration & Continuous Delivery (CI/CD) pipelines as deployment techniques. The module ensures students learn theoretical concepts and gain hands-on skills necessary for building and managing software systems. The module fits well within the broader educational framework, bridging the gap between academic concepts and practical application. It equips students to adapt to the evolving demands of the software industry, where traditional development methods meet innovative AI technologies. The module also covers ethical considerations and documentation strategies, teaching students to approach software development with integrity and thoroughness.",
+        "Learning outcomes": "A Demonstrate understanding of the principles of Software Engineering and Artificial Intelligence in the context of Software Engineering. B Demonstrate the ability to select and apply appropriate software development methodologies. C Design and model software systems using Unified Modeling Language and Artificial Intelligence-specific tools. D Implement and evaluate testing and deployment strategies. E Address ethical considerations and documentation.",
+        "Method of teaching and learning": "The module's teaching philosophy aligns with the principles of Syntegrative Education. This philosophy is reflected in assessment, with a reduction in the use of exams and an increase in project-focused coursework. The module will be delivered in a combination of lectures and laboratory sessions. Lectures are delivered using problem-based learning focused on student-centered learning, where students develop critical thinking to address open-ended problems. The module is taught with an emphasis on student learning through practice and by projects, facilitated by a module leader, and where appropriate, industrial mentors. Students can identify areas of learning needs or interests according to the available project(s). They will conduct independent research to gather information and resources to better define the problem. Progress towards the learning outcomes will be facilitated and monitored, guiding students to progressively address the given problem through tasks. Case studies will provide students with real-world examples of how the concepts and techniques covered in this module can be applied. Laboratory sessions will allow students to apply the techniques and tools acquired to solve industry-focused problems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ISA102TC&psl_code=SEM2"
+    }
+  ]
+}

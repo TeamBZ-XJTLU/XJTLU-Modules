@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "DPH",
+    "full_name": ""
+  },
+  "full_name": "Field Epidemiology Practicum",
+  "module_code": "DPH403TC",
+  "offerings": [
+    {
+      "heading": "Field Epidemiology Practicum",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DPH",
+        "full_name": "Field Epidemiology Practicum",
+        "module_code": "DPH403TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Field Epidemiology Practicum",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is composed of lectures and a practical field component. The lectures aim to introduce students to the theoretical aspects of public health investigations, while the practical field component will allow students to apply public health methods in the investigation and control of diseases, as well as the use of appropriate software for public health investigations. Lectures will focus on field epidemiology competencies, public health surveillance and investigations, communication and risk management, technologies used in public health investigations and their applications to both communicable and chronic diseases. Finally, students will be taught how to report their findings within well-structured public health investigation reports and how to conduct forensic public health investigations in the field.",
+        "Learning outcomes": "A Understand, apply and assess the principles of public health investigations B Comprehend and interpret disease surveillance C Apply learned knowledge in evaluating clusters of disease D Understand the key principles and demonstrate the knowledge required to develop and implement overall, targeted community-based disease control strategies E Demonstrate the ability to critically analyze, synthesize and scientifically present disease information",
+        "Method of teaching and learning": "The lectures will be delivered primarily via lecture-based instruction supported by technology and accompanied by appropriate handouts. Students will be guided by specific sections of the textbooks, peer-reviewed articles and/or other relevant resource materials. The practical field component will provide students an opportunity to develop their on-site investigation abilities, presentation/communication skills and analytical/synthesis competencies, whereby students will be present case studies. Students will also engage in pedagogical activities that will help promote individual learning, group learning, and inquiry-based learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DPH403TC&psl_code=SEM2"
+    }
+  ]
+}

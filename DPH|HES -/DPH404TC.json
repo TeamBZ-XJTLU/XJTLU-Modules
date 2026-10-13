@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HES",
+    "domain_code": "DPH",
+    "full_name": ""
+  },
+  "full_name": "Chronic Disease Epidemiology",
+  "module_code": "DPH404TC",
+  "offerings": [
+    {
+      "heading": "Chronic Disease Epidemiology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DPH",
+        "full_name": "Chronic Disease Epidemiology",
+        "module_code": "DPH404TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Chronic Disease Epidemiology",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provide an overview of the epidemiological and public health concepts, research methods, best practices and mitigation strategies related to major chronic diseases and their related risk factors. Chronic diseases represent an identified priority at both the national and global level and the module will be focused on assisting the students to develop and deepen their knowledge, comprehension skills and analytic abilities. This module will focus on upstream risk factors related to chronic disease, midstream chronic conditions, and downstream chronic diseases providing a holistic perspective of the chronic disease continuum.",
+        "Learning outcomes": "A Comprehend the basic components of chronic disease epidemiology and demonstrate the ability to assess issues and challenges faced. B Critically understand and analyze different methods of surveillance for chronic diseases. C Discuss, assess and evaluate the effect of risk factors for chronic diseases and their mitigation strategies. D Discuss, assess and evaluate midstream chronic diseases and their mitigation strategies. E Fully understand, assess and evaluate downstream chronic diseases and their mitigation strategies",
+        "Method of teaching and learning": "A series of lectures supported by technology and accompanied by appropriate handouts. Students will be guided by specific sections of the textbooks, peer-reviewed articles and/or other relevant resource materials. Seminars will provide students an opportunity to develop their presentation/communication skills and analytical/synthesis competencies, whereby students will be presented case studies for specific chronic diseases and different mitigation strategies. Students will also engage in pedagogical activities that will help promote individual learning, group learning, and inquiry-based learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DPH404TC&psl_code=SEM2"
+    }
+  ]
+}

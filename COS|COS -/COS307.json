@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COS",
+    "domain_code": "COS",
+    "full_name": ""
+  },
+  "full_name": "Wireless Sensor Networks-based IoT",
+  "module_code": "COS307",
+  "offerings": [
+    {
+      "heading": "Wireless Sensor Networks-based IoT",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COS",
+        "full_name": "Wireless Sensor Networks-based IoT",
+        "module_code": "COS307",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Wireless Sensor Networks-based IoT",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to the basic concepts and structures of wireless sensor networks-based Internet of Things. Students will learn some well-known and representative protocols in the data link layer and network layer, as well as the physical characteristics of various types of sensors, which are essential for understanding the technologies of wireless networks and mobile communications. The wireless sensor network-based Internet of Things can be applied to many aspects of life and production, including smart cities, intelligent transportation, smart home, environmental monitoring, disaster rescue, and other fields.",
+        "Learning outcomes": "A. Describe the wireless sensor network architecture, including ad hoc communication patterns and the protocol stack. B. Analyze the functions of medium access control protocols, evaluating representative mechanisms, and assess the design challenges and corresponding solutions introduced by strong node mobility. C. Compare the structures of network layer routing protocols, and analyze the design principles of popular flat and hierarchical routing strategies. D. Evaluate well-known node localization techniques that serve as the foundation for network routing in IoTs. E. Analyze the fundamental principles of IoTs, including technical literature, industry needs, and relevant technologies.",
+        "Method of teaching and learning": "The Wireless Sensor Networks-based IoTs module adopts an integrated approach to ensure students develop both theoretical knowledge and practical skills in WSN and IoT technologies. Core principles, system architectures, and emerging trends are introduced through structured lectures, where theoretical concepts are reinforced with case studies. To enhance analytical and problem-solving abilities, students engage in hands-on homework assignments. Through these simulation-based tasks, students work independently with software tools to model sensor networks, analyze routing protocols, and evaluate system performance outside the classroom. Collaborative learning is fostered through student-led presentations, where individuals or groups assess research papers, compare IoT communication standards, or propose solutions to challenges in sensor systems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COS307&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "base_url": "https://modules.xjtlu.edu.cn",
-  "department_count": 67,
+  "department_count": 72,
   "error_count": 0,
   "errors": [],
   "generated_paths": [
@@ -39,12 +39,53 @@
     "ACC|ACC - Accounting/ACC418.json",
     "ACC|ACC - Accounting/ACC419.json",
     "ACC|ACC - Accounting/ACC420.json",
-    "APH|AOPHA - Academy of Pharmacy",
-    "APH|AOPHA - Academy of Pharmacy/APH220.json",
-    "APH|AOPHA - Academy of Pharmacy/APH221.json",
-    "APH|AOPHA - Academy of Pharmacy/APH225.json",
-    "APH|AOPHA - Academy of Pharmacy/APH317.json",
-    "APH|AOPHA - Academy of Pharmacy/APH320.json",
+    "ADS|ADS -",
+    "ADS|ADS -/ADS101.json",
+    "ADS|ADS -/ADS102.json",
+    "ADS|ADS -/ADS103.json",
+    "ADS|ADS -/ADS104TC.json",
+    "ADS|ADS -/ADS105TC.json",
+    "ADS|ADS -/ADS106TC.json",
+    "ADS|ADS -/ADS107TC.json",
+    "ADS|ADS -/ADS108.json",
+    "ADS|ADS -/ADS201TC.json",
+    "ADS|ADS -/ADS202TC.json",
+    "ADS|ADS -/ADS203TC.json",
+    "ADS|ADS -/ADS204TC.json",
+    "ADS|ADS -/ADS205.json",
+    "ADS|ADS -/ADS206.json",
+    "ADS|ADS -/ADS207.json",
+    "ADS|ADS -/ADS301.json",
+    "ADS|ADS -/ADS302TC.json",
+    "ADS|ADS -/ADS303TC.json",
+    "ADS|ADS -/ADS305.json",
+    "ADS|ADS -/ADS306.json",
+    "ADS|ADS -/ADS401.json",
+    "ADS|ADS -/ADS402.json",
+    "ADS|ADS -/ADS403TC.json",
+    "ADS|ADS -/ADS404.json",
+    "ADS|ADS -/ADS405.json",
+    "AIP|AIP -",
+    "AIP|AIP -/AIP001TC.json",
+    "AIP|AIP -/AIP101.json",
+    "AIP|AIP -/AIP102.json",
+    "AIP|AIP -/AIP103.json",
+    "AIP|AIP -/AIP201TC.json",
+    "AIP|AIP -/AIP202TC.json",
+    "AIP|AIP -/AIP203.json",
+    "AIP|AIP -/AIP204.json",
+    "AIP|AIP -/AIP301TC.json",
+    "AIP|AIP -/AIP302TC.json",
+    "AIP|AIP -/AIP303TC.json",
+    "AIP|AIP -/AIP304.json",
+    "AIP|AIP -/AIP401.json",
+    "AIP|AIP -/AIP402TC.json",
+    "AIP|AIP -/AIP403TC.json",
+    "AIP|AIP -/AIP404TC.json",
+    "AIP|AIP -/AIP405TC.json",
+    "AIP|AIP -/AIP406.json",
+    "AIP|AIP -/AIP407.json",
+    "AIP|AIP -/AIP408.json",
     "ARC|ARC - Architecture",
     "ARC|ARC - Architecture/ARC003.json",
     "ARC|ARC - Architecture/ARC004.json",
@@ -78,7 +119,6 @@
     "BUS|IBSS - International Business School",
     "BUS|IBSS - International Business School/BUS303.json",
     "CAN|CAN - Communications and Networking",
-    "CAN|CAN - Communications and Networking/CAN206.json",
     "CATTC|AFCT - Cultural Technology",
     "CATTC|AFCT - Cultural Technology/CAT001TC.json",
     "CATTC|AFCT - Cultural Technology/CAT002TC.json",
@@ -281,7 +321,49 @@
     "COM|COM - Media and Communication/COM419.json",
     "COM|COM - Media and Communication/COM420.json",
     "COM|COM - Media and Communication/COM421.json",
+    "COS|COS -",
+    "COS|COS -/COS101.json",
+    "COS|COS -/COS201.json",
+    "COS|COS -/COS202.json",
+    "COS|COS -/COS203.json",
+    "COS|COS -/COS204.json",
+    "COS|COS -/COS205.json",
+    "COS|COS -/COS301.json",
+    "COS|COS -/COS302.json",
+    "COS|COS -/COS303.json",
+    "COS|COS -/COS304.json",
+    "COS|COS -/COS305.json",
+    "COS|COS -/COS306.json",
+    "COS|COS -/COS307.json",
+    "COS|COS -/COS308.json",
+    "COS|COS -/COS309.json",
+    "COS|COS -/COS401.json",
+    "COS|COS -/COS402.json",
+    "COS|COS -/COS403.json",
+    "COS|COS -/COS404.json",
+    "COS|COS -/COS405.json",
     "CPT|CPT - Computing",
+    "CSI|CSI -",
+    "CSI|CSI -/CSI101.json",
+    "CSI|CSI -/CSI102.json",
+    "CSI|CSI -/CSI103TC.json",
+    "CSI|CSI -/CSI201.json",
+    "CSI|CSI -/CSI202.json",
+    "CSI|CSI -/CSI203.json",
+    "CSI|CSI -/CSI204TC.json",
+    "CSI|CSI -/CSI205TC.json",
+    "CSI|CSI -/CSI301.json",
+    "CSI|CSI -/CSI302.json",
+    "CSI|CSI -/CSI303.json",
+    "CSI|CSI -/CSI304.json",
+    "CSI|CSI -/CSI305.json",
+    "CSI|CSI -/CSI306.json",
+    "CSI|CSI -/CSI401.json",
+    "CSI|CSI -/CSI402.json",
+    "CSI|CSI -/CSI403.json",
+    "CSI|CSI -/CSI404.json",
+    "CSI|CSI -/CSI405.json",
+    "CSI|CSI -/CSI406.json",
     "DES|DES - Design",
     "DES|DES - Design/DES004.json",
     "DES|DES - Design/DES006.json",
@@ -303,7 +385,9 @@
     "DES|DES - Design/DES407.json",
     "DES|DES - Design/DES408.json",
     "DES|DES - Design/DES409.json",
-    "DTSTC|AAC - Data Science",
+    "DPH|HES -",
+    "DPH|HES -/DPH403TC.json",
+    "DPH|HES -/DPH404TC.json",
     "EAP|ELC - English for Academic Purposes",
     "EAP|ELC - English for Academic Purposes/EAP039.json",
     "EAP|ELC - English for Academic Purposes/EAP041.json",
@@ -817,6 +901,8 @@
     "IND|IND - Industrial Design/IND405.json",
     "IND|IND - Industrial Design/IND406.json",
     "IND|IND - Industrial Design/IND408.json",
+    "INF|EEH -",
+    "INF|EEH -/INF101TC.json",
     "INS|INS - International Studies",
     "INS|INS - International Studies/INS006.json",
     "INS|INS - International Studies/INS101.json",
@@ -970,6 +1056,38 @@
     "IOTTC|IOT - Internet of things/IOT313TC.json",
     "IOTTC|IOT - Internet of things/IOT314TC.json",
     "IOTTC|IOT - Internet of things/IOT401TC.json",
+    "ISA|ISA -",
+    "ISA|ISA -/ISA101TC.json",
+    "ISA|ISA -/ISA102TC.json",
+    "ISA|ISA -/ISA103TC.json",
+    "ISA|ISA -/ISA104.json",
+    "ISA|ISA -/ISA201TC.json",
+    "ISA|ISA -/ISA202TC.json",
+    "ISA|ISA -/ISA203TC.json",
+    "ISA|ISA -/ISA204TC.json",
+    "ISA|ISA -/ISA205TC.json",
+    "ISA|ISA -/ISA206TC.json",
+    "ISA|ISA -/ISA207.json",
+    "ISA|ISA -/ISA301.json",
+    "ISA|ISA -/ISA302TC.json",
+    "ISA|ISA -/ISA303TC.json",
+    "ISA|ISA -/ISA304TC.json",
+    "ISA|ISA -/ISA305.json",
+    "ISA|ISA -/ISA306.json",
+    "ISA|ISA -/ISA307.json",
+    "ISA|ISA -/ISA308.json",
+    "ISA|ISA -/ISA309.json",
+    "ISA|ISA -/ISA401.json",
+    "ISA|ISA -/ISA402TC.json",
+    "ISA|ISA -/ISA403TC.json",
+    "ISA|ISA -/ISA404TC.json",
+    "ISA|ISA -/ISA405.json",
+    "ISA|ISA -/ISA406.json",
+    "ISA|ISA -/ISA407.json",
+    "ISA|ISA -/ISA408.json",
+    "ISA|ISA -/ISA409.json",
+    "ISA|ISA -/ISA410.json",
+    "ISA|ISA -/ISA411.json",
     "JPL|MLC - Japanese Language",
     "JPL|MLC - Japanese Language/JPL001.json",
     "JPL|MLC - Japanese Language/JPL002.json",
@@ -983,6 +1101,7 @@
     "JPL|MLC - Japanese Language/JPL011.json",
     "JPL|MLC - Japanese Language/JPL012.json",
     "LAN|ELC - Comprehensive Use of Language",
+    "LIF|LIFE - Lifelong Learning",
     "LIT|ALS - Literature",
     "LIT|ALS - Literature/LIT101.json",
     "LIT|ALS - Literature/LIT102.json",
@@ -1003,26 +1122,6 @@
     "LIT|ALS - Literature/LIT309.json",
     "LIT|ALS - Literature/LIT310.json",
     "LIT|ALS - Literature/LIT311.json",
-    "LIT|LTS - Literature",
-    "LIT|LTS - Literature/LIT101.json",
-    "LIT|LTS - Literature/LIT102.json",
-    "LIT|LTS - Literature/LIT103.json",
-    "LIT|LTS - Literature/LIT105.json",
-    "LIT|LTS - Literature/LIT201.json",
-    "LIT|LTS - Literature/LIT202.json",
-    "LIT|LTS - Literature/LIT203.json",
-    "LIT|LTS - Literature/LIT204.json",
-    "LIT|LTS - Literature/LIT205.json",
-    "LIT|LTS - Literature/LIT207.json",
-    "LIT|LTS - Literature/LIT209.json",
-    "LIT|LTS - Literature/LIT211.json",
-    "LIT|LTS - Literature/LIT301.json",
-    "LIT|LTS - Literature/LIT304.json",
-    "LIT|LTS - Literature/LIT306.json",
-    "LIT|LTS - Literature/LIT307.json",
-    "LIT|LTS - Literature/LIT309.json",
-    "LIT|LTS - Literature/LIT310.json",
-    "LIT|LTS - Literature/LIT311.json",
     "LM|CCTC -",
     "LM|CCTC -/LMACC002.json",
     "LM|CCTC -/LMACC102.json",
@@ -1265,59 +1364,6 @@
     "LNG|ALS - Applied Linguistics/LNG418.json",
     "LNG|ALS - Applied Linguistics/LNG419.json",
     "LNG|ALS - Applied Linguistics/LNG423.json",
-    "LNG|LNG - Applied Linguistics",
-    "LNG|LNG - Applied Linguistics/LNG001.json",
-    "LNG|LNG - Applied Linguistics/LNG101.json",
-    "LNG|LNG - Applied Linguistics/LNG103.json",
-    "LNG|LNG - Applied Linguistics/LNG104.json",
-    "LNG|LNG - Applied Linguistics/LNG105.json",
-    "LNG|LNG - Applied Linguistics/LNG106.json",
-    "LNG|LNG - Applied Linguistics/LNG107.json",
-    "LNG|LNG - Applied Linguistics/LNG108.json",
-    "LNG|LNG - Applied Linguistics/LNG201.json",
-    "LNG|LNG - Applied Linguistics/LNG202.json",
-    "LNG|LNG - Applied Linguistics/LNG204.json",
-    "LNG|LNG - Applied Linguistics/LNG206.json",
-    "LNG|LNG - Applied Linguistics/LNG207.json",
-    "LNG|LNG - Applied Linguistics/LNG208.json",
-    "LNG|LNG - Applied Linguistics/LNG209.json",
-    "LNG|LNG - Applied Linguistics/LNG210.json",
-    "LNG|LNG - Applied Linguistics/LNG213.json",
-    "LNG|LNG - Applied Linguistics/LNG214.json",
-    "LNG|LNG - Applied Linguistics/LNG216.json",
-    "LNG|LNG - Applied Linguistics/LNG301.json",
-    "LNG|LNG - Applied Linguistics/LNG302.json",
-    "LNG|LNG - Applied Linguistics/LNG303.json",
-    "LNG|LNG - Applied Linguistics/LNG304.json",
-    "LNG|LNG - Applied Linguistics/LNG305.json",
-    "LNG|LNG - Applied Linguistics/LNG306.json",
-    "LNG|LNG - Applied Linguistics/LNG307.json",
-    "LNG|LNG - Applied Linguistics/LNG308.json",
-    "LNG|LNG - Applied Linguistics/LNG309.json",
-    "LNG|LNG - Applied Linguistics/LNG310.json",
-    "LNG|LNG - Applied Linguistics/LNG311.json",
-    "LNG|LNG - Applied Linguistics/LNG312.json",
-    "LNG|LNG - Applied Linguistics/LNG313.json",
-    "LNG|LNG - Applied Linguistics/LNG314.json",
-    "LNG|LNG - Applied Linguistics/LNG401.json",
-    "LNG|LNG - Applied Linguistics/LNG402.json",
-    "LNG|LNG - Applied Linguistics/LNG403.json",
-    "LNG|LNG - Applied Linguistics/LNG404.json",
-    "LNG|LNG - Applied Linguistics/LNG405.json",
-    "LNG|LNG - Applied Linguistics/LNG406.json",
-    "LNG|LNG - Applied Linguistics/LNG407.json",
-    "LNG|LNG - Applied Linguistics/LNG408.json",
-    "LNG|LNG - Applied Linguistics/LNG409.json",
-    "LNG|LNG - Applied Linguistics/LNG410.json",
-    "LNG|LNG - Applied Linguistics/LNG411.json",
-    "LNG|LNG - Applied Linguistics/LNG412.json",
-    "LNG|LNG - Applied Linguistics/LNG413.json",
-    "LNG|LNG - Applied Linguistics/LNG414.json",
-    "LNG|LNG - Applied Linguistics/LNG415.json",
-    "LNG|LNG - Applied Linguistics/LNG417.json",
-    "LNG|LNG - Applied Linguistics/LNG418.json",
-    "LNG|LNG - Applied Linguistics/LNG419.json",
-    "LNG|LNG - Applied Linguistics/LNG423.json",
     "MEC|MEC - Mechatronic Systems",
     "MEC|MEC - Mechatronic Systems/MEC103.json",
     "MEC|MEC - Mechatronic Systems/MEC106.json",
@@ -1914,6 +1960,29 @@
     "PHY|PHY - Physics/PHY309.json",
     "PHY|PHY - Physics/PHY311.json",
     "PHY|PHY - Physics/PHY312.json",
+    "PSP|PSP -",
+    "PSP|PSP -/PSP001.json",
+    "PSP|PSP -/PSP002TC.json",
+    "PSP|PSP -/PSP003TC.json",
+    "PSP|PSP -/PSP004.json",
+    "PSP|PSP -/PSP005.json",
+    "PSP|PSP -/PSP101.json",
+    "PSP|PSP -/PSP102.json",
+    "PSP|PSP -/PSP201.json",
+    "PSP|PSP -/PSP301TC.json",
+    "PSP|PSP -/PSP302TC.json",
+    "PSP|PSP -/PSP303TC.json",
+    "PSP|PSP -/PSP304.json",
+    "PSP|PSP -/PSP305.json",
+    "PSP|PSP -/PSP401.json",
+    "PSP|PSP -/PSP402.json",
+    "PSP|PSP -/PSP403.json",
+    "PSP|PSP -/PSP404TC.json",
+    "PSP|PSP -/PSP405TC.json",
+    "PSP|PSP -/PSP406TC.json",
+    "PSP|PSP -/PSP407.json",
+    "PSP|PSP -/PSP408.json",
+    "PSP|PSP -/PSP409.json",
     "RBETC|IRE - Robotics",
     "RBETC|IRE - Robotics/RBE001TC.json",
     "RBETC|IRE - Robotics/RBE002TC.json",
@@ -1954,12 +2023,6 @@
     "RBETC|IRE - Robotics/RBE412TC.json",
     "RBETC|IRE - Robotics/RBE413TC.json",
     "RBETC|IRE - Robotics/RBE414TC.json",
-    "SAT|SAT - Advanced Technology",
-    "SAT|SAT - Advanced Technology/SAT408.json",
-    "SAT|SAT - Advanced Technology/SAT409.json",
-    "SAT|SAT - Advanced Technology/SAT410.json",
-    "SAT|SAT - Advanced Technology/SAT411.json",
-    "SCI|SCI - Science",
     "SMO|SMO - Strategic Management and Organizations",
     "SMO|SMO - Strategic Management and Organizations/SMO001.json",
     "SMO|SMO - Strategic Management and Organizations/SMO003.json",
@@ -2019,6 +2082,31 @@
     "SMO|SMO - Strategic Management and Organizations/SMO428.json",
     "SMO|SMO - Strategic Management and Organizations/SMO429.json",
     "SMO|SMO - Strategic Management and Organizations/SMO430.json",
+    "SOE|SOE -",
+    "SOE|SOE -/SOE001TC.json",
+    "SOE|SOE -/SOE101.json",
+    "SOE|SOE -/SOE102.json",
+    "SOE|SOE -/SOE103.json",
+    "SOE|SOE -/SOE104.json",
+    "SOE|SOE -/SOE105.json",
+    "SOE|SOE -/SOE106TC.json",
+    "SOE|SOE -/SOE107TC.json",
+    "SOE|SOE -/SOE108TC.json",
+    "SOE|SOE -/SOE109TC.json",
+    "SOE|SOE -/SOE110.json",
+    "SOE|SOE -/SOE201.json",
+    "SOE|SOE -/SOE202.json",
+    "SOE|SOE -/SOE203.json",
+    "SOE|SOE -/SOE204.json",
+    "SOE|SOE -/SOE205.json",
+    "SOE|SOE -/SOE206TC.json",
+    "SOE|SOE -/SOE301.json",
+    "SOE|SOE -/SOE302.json",
+    "SOE|SOE -/SOE401.json",
+    "SOE|SOE -/SOE402.json",
+    "SOE|SOE -/SOE403.json",
+    "SOE|SOE -/SOE404.json",
+    "SOE|SOE -/SOE405.json",
     "SPA|MLC - Spanish",
     "SPA|MLC - Spanish/SPA001.json",
     "SPA|MLC - Spanish/SPA002.json",
@@ -2084,9 +2172,10 @@
     "UPD|UPD - Urban Planning and Design/UPD406.json",
     "UPD|UPD - Urban Planning and Design/UPD407.json",
     "UPD|UPD - Urban Planning and Design/UPD408.json",
-    "UPD|UPD - Urban Planning and Design/UPD410.json"
+    "UPD|UPD - Urban Planning and Design/UPD410.json",
+    "XPU|LIFE - XIPU AI general education"
   ],
-  "module_file_count": 2014,
+  "module_file_count": 2098,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -2293,34 +2382,274 @@
       "path": "ACC|ACC - Accounting/ACC420.json"
     },
     {
-      "full_name": "Introduction to Artificial Intelligence in Pharmacy I",
-      "module_code": "APH220",
-      "module_level": "Level 2",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH220.json"
+      "full_name": "Data Structures",
+      "module_code": "ADS101",
+      "module_level": "Level 1",
+      "path": "ADS|ADS -/ADS101.json"
     },
     {
-      "full_name": "Introduction to Regulation of Pharmaceutical and Biological Products",
-      "module_code": "APH221",
-      "module_level": "Level 2",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH221.json"
+      "full_name": "Discrete Mathematics and Statistics",
+      "module_code": "ADS102",
+      "module_level": "Level 1",
+      "path": "ADS|ADS -/ADS102.json"
     },
     {
-      "full_name": "Key Skills for Computational Sciences",
-      "module_code": "APH225",
-      "module_level": "Level 2",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH225.json"
+      "full_name": "Data Structures and Algorithms",
+      "module_code": "ADS103",
+      "module_level": "Level 1",
+      "path": "ADS|ADS -/ADS103.json"
     },
     {
-      "full_name": "Introduction to Quality Assurance for Drugs and Biologics",
-      "module_code": "APH317",
+      "full_name": "Data Structure and Algorithms",
+      "module_code": "ADS104TC",
+      "module_level": "Level 1",
+      "path": "ADS|ADS -/ADS104TC.json"
+    },
+    {
+      "full_name": "Numerical Methods",
+      "module_code": "ADS105TC",
+      "module_level": "Level 1",
+      "path": "ADS|ADS -/ADS105TC.json"
+    },
+    {
+      "full_name": "Mathematics for AI and Data Science",
+      "module_code": "ADS106TC",
+      "module_level": "Level 1",
+      "path": "ADS|ADS -/ADS106TC.json"
+    },
+    {
+      "full_name": "Data Modelling Techniques",
+      "module_code": "ADS107TC",
+      "module_level": "Level 1",
+      "path": "ADS|ADS -/ADS107TC.json"
+    },
+    {
+      "full_name": "Algorithmic Foundations and Problem Solving",
+      "module_code": "ADS108",
+      "module_level": "Level 1",
+      "path": "ADS|ADS -/ADS108.json"
+    },
+    {
+      "full_name": "Applied Linear Statistical Models",
+      "module_code": "ADS201TC",
+      "module_level": "Level 2",
+      "path": "ADS|ADS -/ADS201TC.json"
+    },
+    {
+      "full_name": "Data Analytics and Visualisation",
+      "module_code": "ADS202TC",
+      "module_level": "Level 2",
+      "path": "ADS|ADS -/ADS202TC.json"
+    },
+    {
+      "full_name": "Signal and Image Processing",
+      "module_code": "ADS203TC",
+      "module_level": "Level 2",
+      "path": "ADS|ADS -/ADS203TC.json"
+    },
+    {
+      "full_name": "Optimisation",
+      "module_code": "ADS204TC",
+      "module_level": "Level 2",
+      "path": "ADS|ADS -/ADS204TC.json"
+    },
+    {
+      "full_name": "Decision Computation and Language",
+      "module_code": "ADS205",
+      "module_level": "Level 2",
+      "path": "ADS|ADS -/ADS205.json"
+    },
+    {
+      "full_name": "Data Engineering",
+      "module_code": "ADS206",
+      "module_level": "Level 2",
+      "path": "ADS|ADS -/ADS206.json"
+    },
+    {
+      "full_name": "Complexity of Algorithms",
+      "module_code": "ADS207",
+      "module_level": "Level 2",
+      "path": "ADS|ADS -/ADS207.json"
+    },
+    {
+      "full_name": "Formal Methods",
+      "module_code": "ADS301",
       "module_level": "Level 3",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH317.json"
+      "path": "ADS|ADS -/ADS301.json"
     },
     {
-      "full_name": "Introduction to Artificial Intelligence in Pharmacy II",
-      "module_code": "APH320",
+      "full_name": "Time Series Data Analysis",
+      "module_code": "ADS302TC",
       "module_level": "Level 3",
-      "path": "APH|AOPHA - Academy of Pharmacy/APH320.json"
+      "path": "ADS|ADS -/ADS302TC.json"
+    },
+    {
+      "full_name": "Data Mining/Knowledge Discovery in Databases",
+      "module_code": "ADS303TC",
+      "module_level": "Level 3",
+      "path": "ADS|ADS -/ADS303TC.json"
+    },
+    {
+      "full_name": "Big Data Analytics",
+      "module_code": "ADS305",
+      "module_level": "Level 3",
+      "path": "ADS|ADS -/ADS305.json"
+    },
+    {
+      "full_name": "Multimedia Information Retrieval and Technology",
+      "module_code": "ADS306",
+      "module_level": "Level 3",
+      "path": "ADS|ADS -/ADS306.json"
+    },
+    {
+      "full_name": "Evaluation Methods and Statistics",
+      "module_code": "ADS401",
+      "module_level": "Level 4",
+      "path": "ADS|ADS -/ADS401.json"
+    },
+    {
+      "full_name": "Information Visualization",
+      "module_code": "ADS402",
+      "module_level": "Level 4",
+      "path": "ADS|ADS -/ADS402.json"
+    },
+    {
+      "full_name": "Big Data Mining, Analysis, and Management",
+      "module_code": "ADS403TC",
+      "module_level": "Level 4",
+      "path": "ADS|ADS -/ADS403TC.json"
+    },
+    {
+      "full_name": "Data Mining and Big Data Analytics",
+      "module_code": "ADS404",
+      "module_level": "Level 4",
+      "path": "ADS|ADS -/ADS404.json"
+    },
+    {
+      "full_name": "Data Mining and Machine Learning",
+      "module_code": "ADS405",
+      "module_level": "Level 4",
+      "path": "ADS|ADS -/ADS405.json"
+    },
+    {
+      "full_name": "Introduction to AI",
+      "module_code": "AIP001TC",
+      "module_level": "Level 0",
+      "path": "AIP|AIP -/AIP001TC.json"
+    },
+    {
+      "full_name": "Artificial Intelligence",
+      "module_code": "AIP101",
+      "module_level": "Level 1",
+      "path": "AIP|AIP -/AIP101.json"
+    },
+    {
+      "full_name": "AI Fundamentals & Ethics",
+      "module_code": "AIP102",
+      "module_level": "Level 1",
+      "path": "AIP|AIP -/AIP102.json"
+    },
+    {
+      "full_name": "Maths for Machine Learning",
+      "module_code": "AIP103",
+      "module_level": "Level 1",
+      "path": "AIP|AIP -/AIP103.json"
+    },
+    {
+      "full_name": "Deep Learning",
+      "module_code": "AIP201TC",
+      "module_level": "Level 2",
+      "path": "AIP|AIP -/AIP201TC.json"
+    },
+    {
+      "full_name": "Machine Learning",
+      "module_code": "AIP202TC",
+      "module_level": "Level 2",
+      "path": "AIP|AIP -/AIP202TC.json"
+    },
+    {
+      "full_name": "Principles of Machine Learning",
+      "module_code": "AIP203",
+      "module_level": "Level 2",
+      "path": "AIP|AIP -/AIP203.json"
+    },
+    {
+      "full_name": "Deep Learning",
+      "module_code": "AIP204",
+      "module_level": "Level 2",
+      "path": "AIP|AIP -/AIP204.json"
+    },
+    {
+      "full_name": "Machine Learning",
+      "module_code": "AIP301TC",
+      "module_level": "Level 3",
+      "path": "AIP|AIP -/AIP301TC.json"
+    },
+    {
+      "full_name": "Reinforcement Learning",
+      "module_code": "AIP302TC",
+      "module_level": "Level 3",
+      "path": "AIP|AIP -/AIP302TC.json"
+    },
+    {
+      "full_name": "Generative AI",
+      "module_code": "AIP303TC",
+      "module_level": "Level 3",
+      "path": "AIP|AIP -/AIP303TC.json"
+    },
+    {
+      "full_name": "Machine Learning",
+      "module_code": "AIP304",
+      "module_level": "Level 3",
+      "path": "AIP|AIP -/AIP304.json"
+    },
+    {
+      "full_name": "Artificial Intelligence",
+      "module_code": "AIP401",
+      "module_level": "Level 4",
+      "path": "AIP|AIP -/AIP401.json"
+    },
+    {
+      "full_name": "Fundamentals of Artificial Intelligence",
+      "module_code": "AIP402TC",
+      "module_level": "Level 4",
+      "path": "AIP|AIP -/AIP402TC.json"
+    },
+    {
+      "full_name": "Machine Learning",
+      "module_code": "AIP403TC",
+      "module_level": "Level 4",
+      "path": "AIP|AIP -/AIP403TC.json"
+    },
+    {
+      "full_name": "Large Model Techniques",
+      "module_code": "AIP404TC",
+      "module_level": "Level 4",
+      "path": "AIP|AIP -/AIP404TC.json"
+    },
+    {
+      "full_name": "Generative Artificial Intelligence",
+      "module_code": "AIP405TC",
+      "module_level": "Level 4",
+      "path": "AIP|AIP -/AIP405TC.json"
+    },
+    {
+      "full_name": "Fundamentals of Machine Learning",
+      "module_code": "AIP406",
+      "module_level": "Level 4",
+      "path": "AIP|AIP -/AIP406.json"
+    },
+    {
+      "full_name": "Advanced Pattern Recognition",
+      "module_code": "AIP407",
+      "module_level": "Level 4",
+      "path": "AIP|AIP -/AIP407.json"
+    },
+    {
+      "full_name": "Reinforcement Learning",
+      "module_code": "AIP408",
+      "module_level": "Level 4",
+      "path": "AIP|AIP -/AIP408.json"
     },
     {
       "full_name": "Architectural Thinking and Representation",
@@ -2489,12 +2818,6 @@
       "module_code": "BUS303",
       "module_level": "Level 3",
       "path": "BUS|IBSS - International Business School/BUS303.json"
-    },
-    {
-      "full_name": "RF Engineering and Applied Electromagnetics",
-      "module_code": "CAN206",
-      "module_level": "Level 2",
-      "path": "CAN|CAN - Communications and Networking/CAN206.json"
     },
     {
       "full_name": "Exploring Game Design Concept Generation",
@@ -3667,6 +3990,246 @@
       "path": "COM|COM - Media and Communication/COM421.json"
     },
     {
+      "full_name": "Electromagnetism and Electromechanics",
+      "module_code": "COS101",
+      "module_level": "Level 1",
+      "path": "COS|COS -/COS101.json"
+    },
+    {
+      "full_name": "Analogue and Digital Communications I",
+      "module_code": "COS201",
+      "module_level": "Level 2",
+      "path": "COS|COS -/COS201.json"
+    },
+    {
+      "full_name": "Continuous and Discrete Time Signals and Systems",
+      "module_code": "COS202",
+      "module_level": "Level 2",
+      "path": "COS|COS -/COS202.json"
+    },
+    {
+      "full_name": "Advanced Electrical Circuits and Electromagnetics",
+      "module_code": "COS203",
+      "module_level": "Level 2",
+      "path": "COS|COS -/COS203.json"
+    },
+    {
+      "full_name": "Digital Signal Processing",
+      "module_code": "COS204",
+      "module_level": "Level 2",
+      "path": "COS|COS -/COS204.json"
+    },
+    {
+      "full_name": "Signal Processing and Information Theory",
+      "module_code": "COS205",
+      "module_level": "Level 2",
+      "path": "COS|COS -/COS205.json"
+    },
+    {
+      "full_name": "Analogue and Digital Communications II",
+      "module_code": "COS301",
+      "module_level": "Level 3",
+      "path": "COS|COS -/COS301.json"
+    },
+    {
+      "full_name": "Photonics and Optical Communication Systems",
+      "module_code": "COS302",
+      "module_level": "Level 3",
+      "path": "COS|COS -/COS302.json"
+    },
+    {
+      "full_name": "Radio Propagation and Microwave Circuits",
+      "module_code": "COS303",
+      "module_level": "Level 3",
+      "path": "COS|COS -/COS303.json"
+    },
+    {
+      "full_name": "Wireless systems",
+      "module_code": "COS304",
+      "module_level": "Level 3",
+      "path": "COS|COS -/COS304.json"
+    },
+    {
+      "full_name": "Information Theory and Data Communications",
+      "module_code": "COS305",
+      "module_level": "Level 3",
+      "path": "COS|COS -/COS305.json"
+    },
+    {
+      "full_name": "Signal Processing and Digital Filtering",
+      "module_code": "COS306",
+      "module_level": "Level 3",
+      "path": "COS|COS -/COS306.json"
+    },
+    {
+      "full_name": "Wireless Sensor Networks-based IoT",
+      "module_code": "COS307",
+      "module_level": "Level 3",
+      "path": "COS|COS -/COS307.json"
+    },
+    {
+      "full_name": "Applied Electromagnetics and Antennas",
+      "module_code": "COS308",
+      "module_level": "Level 3",
+      "path": "COS|COS -/COS308.json"
+    },
+    {
+      "full_name": "Image Processing",
+      "module_code": "COS309",
+      "module_level": "Level 3",
+      "path": "COS|COS -/COS309.json"
+    },
+    {
+      "full_name": "Advanced Signal Processing",
+      "module_code": "COS401",
+      "module_level": "Level 4",
+      "path": "COS|COS -/COS401.json"
+    },
+    {
+      "full_name": "Data Communication and Communication Networks",
+      "module_code": "COS402",
+      "module_level": "Level 4",
+      "path": "COS|COS -/COS402.json"
+    },
+    {
+      "full_name": "Multimedia Communications",
+      "module_code": "COS403",
+      "module_level": "Level 4",
+      "path": "COS|COS -/COS403.json"
+    },
+    {
+      "full_name": "Mobile Communications",
+      "module_code": "COS404",
+      "module_level": "Level 4",
+      "path": "COS|COS -/COS404.json"
+    },
+    {
+      "full_name": "Coding and Cryptography",
+      "module_code": "COS405",
+      "module_level": "Level 4",
+      "path": "COS|COS -/COS405.json"
+    },
+    {
+      "full_name": "Computer Systems",
+      "module_code": "CSI101",
+      "module_level": "Level 1",
+      "path": "CSI|CSI -/CSI101.json"
+    },
+    {
+      "full_name": "Operating Systems Concepts",
+      "module_code": "CSI102",
+      "module_level": "Level 1",
+      "path": "CSI|CSI -/CSI102.json"
+    },
+    {
+      "full_name": "Computer Architecture and Operating Systems",
+      "module_code": "CSI103TC",
+      "module_level": "Level 1",
+      "path": "CSI|CSI -/CSI103TC.json"
+    },
+    {
+      "full_name": "Introduction to Networking",
+      "module_code": "CSI201",
+      "module_level": "Level 2",
+      "path": "CSI|CSI -/CSI201.json"
+    },
+    {
+      "full_name": "Human-Centric Computing",
+      "module_code": "CSI202",
+      "module_level": "Level 2",
+      "path": "CSI|CSI -/CSI202.json"
+    },
+    {
+      "full_name": "Microprocessor Systems",
+      "module_code": "CSI203",
+      "module_level": "Level 2",
+      "path": "CSI|CSI -/CSI203.json"
+    },
+    {
+      "full_name": "Fundamentals of Parallel Computing",
+      "module_code": "CSI204TC",
+      "module_level": "Level 2",
+      "path": "CSI|CSI -/CSI204TC.json"
+    },
+    {
+      "full_name": "Networking and Distributed Computing",
+      "module_code": "CSI205TC",
+      "module_level": "Level 2",
+      "path": "CSI|CSI -/CSI205TC.json"
+    },
+    {
+      "full_name": "Mobile Computing",
+      "module_code": "CSI301",
+      "module_level": "Level 3",
+      "path": "CSI|CSI -/CSI301.json"
+    },
+    {
+      "full_name": "Technologies for E-Commerce",
+      "module_code": "CSI302",
+      "module_level": "Level 3",
+      "path": "CSI|CSI -/CSI302.json"
+    },
+    {
+      "full_name": "Computer Systems Security",
+      "module_code": "CSI303",
+      "module_level": "Level 3",
+      "path": "CSI|CSI -/CSI303.json"
+    },
+    {
+      "full_name": "Advanced Operating System and Programming",
+      "module_code": "CSI304",
+      "module_level": "Level 3",
+      "path": "CSI|CSI -/CSI304.json"
+    },
+    {
+      "full_name": "Multimedia Security Systems",
+      "module_code": "CSI305",
+      "module_level": "Level 3",
+      "path": "CSI|CSI -/CSI305.json"
+    },
+    {
+      "full_name": "Embedded Computer Systems",
+      "module_code": "CSI306",
+      "module_level": "Level 3",
+      "path": "CSI|CSI -/CSI306.json"
+    },
+    {
+      "full_name": "Cloud Computing",
+      "module_code": "CSI401",
+      "module_level": "Level 4",
+      "path": "CSI|CSI -/CSI401.json"
+    },
+    {
+      "full_name": "Social Web Programming",
+      "module_code": "CSI402",
+      "module_level": "Level 4",
+      "path": "CSI|CSI -/CSI402.json"
+    },
+    {
+      "full_name": "Social Network Analysis",
+      "module_code": "CSI403",
+      "module_level": "Level 4",
+      "path": "CSI|CSI -/CSI403.json"
+    },
+    {
+      "full_name": "Information Security",
+      "module_code": "CSI404",
+      "module_level": "Level 4",
+      "path": "CSI|CSI -/CSI404.json"
+    },
+    {
+      "full_name": "Interactive Systems",
+      "module_code": "CSI405",
+      "module_level": "Level 4",
+      "path": "CSI|CSI -/CSI405.json"
+    },
+    {
+      "full_name": "Affective Computing",
+      "module_code": "CSI406",
+      "module_level": "Level 4",
+      "path": "CSI|CSI -/CSI406.json"
+    },
+    {
       "full_name": "Future Cities",
       "module_code": "DES004",
       "module_level": "Level 0",
@@ -3785,6 +4348,18 @@
       "module_code": "DES409",
       "module_level": "Level 4",
       "path": "DES|DES - Design/DES409.json"
+    },
+    {
+      "full_name": "Field Epidemiology Practicum",
+      "module_code": "DPH403TC",
+      "module_level": "Level 4",
+      "path": "DPH|HES -/DPH403TC.json"
+    },
+    {
+      "full_name": "Chronic Disease Epidemiology",
+      "module_code": "DPH404TC",
+      "module_level": "Level 4",
+      "path": "DPH|HES -/DPH404TC.json"
     },
     {
       "full_name": "Foundation English for Academic Purposes",
@@ -6781,6 +7356,12 @@
       "path": "IND|IND - Industrial Design/IND408.json"
     },
     {
+      "full_name": "Syntegrative Education in Deep Practice",
+      "module_code": "INF101TC",
+      "module_level": "Level 1",
+      "path": "INF|EEH -/INF101TC.json"
+    },
+    {
       "full_name": "Introduction to International Relations",
       "module_code": "INS006",
       "module_level": "Level 0",
@@ -7675,6 +8256,192 @@
       "path": "IOTTC|IOT - Internet of things/IOT401TC.json"
     },
     {
+      "full_name": "Technology Fundamentals and Perspectives for AI and Big Data Industry",
+      "module_code": "ISA101TC",
+      "module_level": "Level 1",
+      "path": "ISA|ISA -/ISA101TC.json"
+    },
+    {
+      "full_name": "AI software engineering",
+      "module_code": "ISA102TC",
+      "module_level": "Level 1",
+      "path": "ISA|ISA -/ISA102TC.json"
+    },
+    {
+      "full_name": "Intelligent User Interaction",
+      "module_code": "ISA103TC",
+      "module_level": "Level 1",
+      "path": "ISA|ISA -/ISA103TC.json"
+    },
+    {
+      "full_name": "AI Application Design",
+      "module_code": "ISA104",
+      "module_level": "Level 1",
+      "path": "ISA|ISA -/ISA104.json"
+    },
+    {
+      "full_name": "Pattern Recognition and Computer Vision",
+      "module_code": "ISA201TC",
+      "module_level": "Level 2",
+      "path": "ISA|ISA -/ISA201TC.json"
+    },
+    {
+      "full_name": "Multi-Agent Systems",
+      "module_code": "ISA202TC",
+      "module_level": "Level 2",
+      "path": "ISA|ISA -/ISA202TC.json"
+    },
+    {
+      "full_name": "AI in Autonomous Vehicles",
+      "module_code": "ISA203TC",
+      "module_level": "Level 2",
+      "path": "ISA|ISA -/ISA203TC.json"
+    },
+    {
+      "full_name": "AI in Healthcare and Biomedical Engineering",
+      "module_code": "ISA204TC",
+      "module_level": "Level 2",
+      "path": "ISA|ISA -/ISA204TC.json"
+    },
+    {
+      "full_name": "AI in XR, Gaming and Entertainment Industry",
+      "module_code": "ISA205TC",
+      "module_level": "Level 2",
+      "path": "ISA|ISA -/ISA205TC.json"
+    },
+    {
+      "full_name": "AI for Multimodal data",
+      "module_code": "ISA206TC",
+      "module_level": "Level 2",
+      "path": "ISA|ISA -/ISA206TC.json"
+    },
+    {
+      "full_name": "AI Agents",
+      "module_code": "ISA207",
+      "module_level": "Level 2",
+      "path": "ISA|ISA -/ISA207.json"
+    },
+    {
+      "full_name": "Multi-Agent Systems",
+      "module_code": "ISA301",
+      "module_level": "Level 3",
+      "path": "ISA|ISA -/ISA301.json"
+    },
+    {
+      "full_name": "Natural Language Processing",
+      "module_code": "ISA302TC",
+      "module_level": "Level 3",
+      "path": "ISA|ISA -/ISA302TC.json"
+    },
+    {
+      "full_name": "AI in Smart Cities",
+      "module_code": "ISA303TC",
+      "module_level": "Level 3",
+      "path": "ISA|ISA -/ISA303TC.json"
+    },
+    {
+      "full_name": "Intelligent Robotics",
+      "module_code": "ISA304TC",
+      "module_level": "Level 3",
+      "path": "ISA|ISA -/ISA304TC.json"
+    },
+    {
+      "full_name": "Bio-Computation",
+      "module_code": "ISA305",
+      "module_level": "Level 3",
+      "path": "ISA|ISA -/ISA305.json"
+    },
+    {
+      "full_name": "Pattern Recognition in Computer Vision",
+      "module_code": "ISA306",
+      "module_level": "Level 3",
+      "path": "ISA|ISA -/ISA306.json"
+    },
+    {
+      "full_name": "Computer Auditory Systems",
+      "module_code": "ISA307",
+      "module_level": "Level 3",
+      "path": "ISA|ISA -/ISA307.json"
+    },
+    {
+      "full_name": "AI Security",
+      "module_code": "ISA308",
+      "module_level": "Level 3",
+      "path": "ISA|ISA -/ISA308.json"
+    },
+    {
+      "full_name": "Principles of Natural Language Processing",
+      "module_code": "ISA309",
+      "module_level": "Level 3",
+      "path": "ISA|ISA -/ISA309.json"
+    },
+    {
+      "full_name": "Human-AI Interaction",
+      "module_code": "ISA401",
+      "module_level": "Level 4",
+      "path": "ISA|ISA -/ISA401.json"
+    },
+    {
+      "full_name": "Image Processing and Computer Vision",
+      "module_code": "ISA402TC",
+      "module_level": "Level 4",
+      "path": "ISA|ISA -/ISA402TC.json"
+    },
+    {
+      "full_name": "Natural Language Processing",
+      "module_code": "ISA403TC",
+      "module_level": "Level 4",
+      "path": "ISA|ISA -/ISA403TC.json"
+    },
+    {
+      "full_name": "Reinforcement Learning and its Applications",
+      "module_code": "ISA404TC",
+      "module_level": "Level 4",
+      "path": "ISA|ISA -/ISA404TC.json"
+    },
+    {
+      "full_name": "Spoken Language Processing",
+      "module_code": "ISA405",
+      "module_level": "Level 4",
+      "path": "ISA|ISA -/ISA405.json"
+    },
+    {
+      "full_name": "Image and Video Processing",
+      "module_code": "ISA406",
+      "module_level": "Level 4",
+      "path": "ISA|ISA -/ISA406.json"
+    },
+    {
+      "full_name": "Natural Language Processing",
+      "module_code": "ISA407",
+      "module_level": "Level 4",
+      "path": "ISA|ISA -/ISA407.json"
+    },
+    {
+      "full_name": "Deep Learning in Computer Vision",
+      "module_code": "ISA408",
+      "module_level": "Level 4",
+      "path": "ISA|ISA -/ISA408.json"
+    },
+    {
+      "full_name": "Artificial Intelligence for Energy Sciences",
+      "module_code": "ISA409",
+      "module_level": "Level 4",
+      "path": "ISA|ISA -/ISA409.json"
+    },
+    {
+      "full_name": "Large-Scale Machine Learning Models for Industry",
+      "module_code": "ISA410",
+      "module_level": "Level 4",
+      "path": "ISA|ISA -/ISA410.json"
+    },
+    {
+      "full_name": "Machine Learning for Industry",
+      "module_code": "ISA411",
+      "module_level": "Level 4",
+      "path": "ISA|ISA -/ISA411.json"
+    },
+    {
       "full_name": "Japanese Language 1",
       "module_code": "JPL001",
       "module_level": "Level 0",
@@ -7853,120 +8620,6 @@
       "module_code": "LIT311",
       "module_level": "Level 3",
       "path": "LIT|ALS - Literature/LIT311.json"
-    },
-    {
-      "full_name": "Introduction to Literary Studies",
-      "module_code": "LIT101",
-      "module_level": "Level 1",
-      "path": "LIT|LTS - Literature/LIT101.json"
-    },
-    {
-      "full_name": "Literature and AI",
-      "module_code": "LIT102",
-      "module_level": "Level 1",
-      "path": "LIT|LTS - Literature/LIT102.json"
-    },
-    {
-      "full_name": "Literature and Film",
-      "module_code": "LIT103",
-      "module_level": "Level 1",
-      "path": "LIT|LTS - Literature/LIT103.json"
-    },
-    {
-      "full_name": "Introduction to World Literature",
-      "module_code": "LIT105",
-      "module_level": "Level 1",
-      "path": "LIT|LTS - Literature/LIT105.json"
-    },
-    {
-      "full_name": "Enlightenment: Literature and Philosophy (1690-1795)",
-      "module_code": "LIT201",
-      "module_level": "Level 2",
-      "path": "LIT|LTS - Literature/LIT201.json"
-    },
-    {
-      "full_name": "Postcolonial Literatures",
-      "module_code": "LIT202",
-      "module_level": "Level 2",
-      "path": "LIT|LTS - Literature/LIT202.json"
-    },
-    {
-      "full_name": "Literature and Gender",
-      "module_code": "LIT203",
-      "module_level": "Level 2",
-      "path": "LIT|LTS - Literature/LIT203.json"
-    },
-    {
-      "full_name": "Jane Austen",
-      "module_code": "LIT204",
-      "module_level": "Level 2",
-      "path": "LIT|LTS - Literature/LIT204.json"
-    },
-    {
-      "full_name": "Tragedy in the Age of Shakespeare",
-      "module_code": "LIT205",
-      "module_level": "Level 2",
-      "path": "LIT|LTS - Literature/LIT205.json"
-    },
-    {
-      "full_name": "Modern British Fiction on Page and Screen",
-      "module_code": "LIT207",
-      "module_level": "Level 2",
-      "path": "LIT|LTS - Literature/LIT207.json"
-    },
-    {
-      "full_name": "Contemporary Western Approaches to Literature",
-      "module_code": "LIT209",
-      "module_level": "Level 2",
-      "path": "LIT|LTS - Literature/LIT209.json"
-    },
-    {
-      "full_name": "Romanticism: Nature, Mind, and Society (1780-1840)",
-      "module_code": "LIT211",
-      "module_level": "Level 2",
-      "path": "LIT|LTS - Literature/LIT211.json"
-    },
-    {
-      "full_name": "Literature: Final Year Project",
-      "module_code": "LIT301",
-      "module_level": "Level 3",
-      "path": "LIT|LTS - Literature/LIT301.json"
-    },
-    {
-      "full_name": "Gothic Literature in Global Context",
-      "module_code": "LIT304",
-      "module_level": "Level 3",
-      "path": "LIT|LTS - Literature/LIT304.json"
-    },
-    {
-      "full_name": "Postmodern Literature (1945-present)",
-      "module_code": "LIT306",
-      "module_level": "Level 3",
-      "path": "LIT|LTS - Literature/LIT306.json"
-    },
-    {
-      "full_name": "Literature and Environment",
-      "module_code": "LIT307",
-      "module_level": "Level 3",
-      "path": "LIT|LTS - Literature/LIT307.json"
-    },
-    {
-      "full_name": "Utopia: The History of an Idea",
-      "module_code": "LIT309",
-      "module_level": "Level 3",
-      "path": "LIT|LTS - Literature/LIT309.json"
-    },
-    {
-      "full_name": "Literature of Modernity (1900-1940)",
-      "module_code": "LIT310",
-      "module_level": "Level 3",
-      "path": "LIT|LTS - Literature/LIT310.json"
-    },
-    {
-      "full_name": "Digital Humanities Research and Practice",
-      "module_code": "LIT311",
-      "module_level": "Level 3",
-      "path": "LIT|LTS - Literature/LIT311.json"
     },
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -9371,318 +10024,6 @@
       "module_code": "LNG423",
       "module_level": "Level 4",
       "path": "LNG|ALS - Applied Linguistics/LNG423.json"
-    },
-    {
-      "full_name": "Thinking like a Linguist",
-      "module_code": "LNG001",
-      "module_level": "Level 0",
-      "path": "LNG|LNG - Applied Linguistics/LNG001.json"
-    },
-    {
-      "full_name": "Sounds of English",
-      "module_code": "LNG101",
-      "module_level": "Level 1",
-      "path": "LNG|LNG - Applied Linguistics/LNG101.json"
-    },
-    {
-      "full_name": "Introduction to Linguistics: Grammar",
-      "module_code": "LNG103",
-      "module_level": "Level 1",
-      "path": "LNG|LNG - Applied Linguistics/LNG103.json"
-    },
-    {
-      "full_name": "Syntax",
-      "module_code": "LNG104",
-      "module_level": "Level 1",
-      "path": "LNG|LNG - Applied Linguistics/LNG104.json"
-    },
-    {
-      "full_name": "History of English",
-      "module_code": "LNG105",
-      "module_level": "Level 1",
-      "path": "LNG|LNG - Applied Linguistics/LNG105.json"
-    },
-    {
-      "full_name": "Language and Society",
-      "module_code": "LNG106",
-      "module_level": "Level 1",
-      "path": "LNG|LNG - Applied Linguistics/LNG106.json"
-    },
-    {
-      "full_name": "Introduction to Linguistics: Spoken & Written Discourse",
-      "module_code": "LNG107",
-      "module_level": "Level 1",
-      "path": "LNG|LNG - Applied Linguistics/LNG107.json"
-    },
-    {
-      "full_name": "Semantics and Pragmatics",
-      "module_code": "LNG108",
-      "module_level": "Level 1",
-      "path": "LNG|LNG - Applied Linguistics/LNG108.json"
-    },
-    {
-      "full_name": "Language and Media",
-      "module_code": "LNG201",
-      "module_level": "Level 2",
-      "path": "LNG|LNG - Applied Linguistics/LNG201.json"
-    },
-    {
-      "full_name": "Bilingual and Multilingual Development",
-      "module_code": "LNG202",
-      "module_level": "Level 2",
-      "path": "LNG|LNG - Applied Linguistics/LNG202.json"
-    },
-    {
-      "full_name": "Language and Gender",
-      "module_code": "LNG204",
-      "module_level": "Level 2",
-      "path": "LNG|LNG - Applied Linguistics/LNG204.json"
-    },
-    {
-      "full_name": "Cognitive Linguistics",
-      "module_code": "LNG206",
-      "module_level": "Level 2",
-      "path": "LNG|LNG - Applied Linguistics/LNG206.json"
-    },
-    {
-      "full_name": "Language Acquisition",
-      "module_code": "LNG207",
-      "module_level": "Level 2",
-      "path": "LNG|LNG - Applied Linguistics/LNG207.json"
-    },
-    {
-      "full_name": "Psycholinguistics",
-      "module_code": "LNG208",
-      "module_level": "Level 2",
-      "path": "LNG|LNG - Applied Linguistics/LNG208.json"
-    },
-    {
-      "full_name": "Corpus Linguistics",
-      "module_code": "LNG209",
-      "module_level": "Level 2",
-      "path": "LNG|LNG - Applied Linguistics/LNG209.json"
-    },
-    {
-      "full_name": "Language Documentation",
-      "module_code": "LNG210",
-      "module_level": "Level 2",
-      "path": "LNG|LNG - Applied Linguistics/LNG210.json"
-    },
-    {
-      "full_name": "Chinese Linguistics",
-      "module_code": "LNG213",
-      "module_level": "Level 2",
-      "path": "LNG|LNG - Applied Linguistics/LNG213.json"
-    },
-    {
-      "full_name": "Historical Linguistics",
-      "module_code": "LNG214",
-      "module_level": "Level 2",
-      "path": "LNG|LNG - Applied Linguistics/LNG214.json"
-    },
-    {
-      "full_name": "Computational Linguistics",
-      "module_code": "LNG216",
-      "module_level": "Level 2",
-      "path": "LNG|LNG - Applied Linguistics/LNG216.json"
-    },
-    {
-      "full_name": "Stylistics",
-      "module_code": "LNG301",
-      "module_level": "Level 3",
-      "path": "LNG|LNG - Applied Linguistics/LNG301.json"
-    },
-    {
-      "full_name": "Interpersonal communication in the workplace",
-      "module_code": "LNG302",
-      "module_level": "Level 3",
-      "path": "LNG|LNG - Applied Linguistics/LNG302.json"
-    },
-    {
-      "full_name": "Final Year Project",
-      "module_code": "LNG303",
-      "module_level": "Level 3",
-      "path": "LNG|LNG - Applied Linguistics/LNG303.json"
-    },
-    {
-      "full_name": "Language and Power",
-      "module_code": "LNG304",
-      "module_level": "Level 3",
-      "path": "LNG|LNG - Applied Linguistics/LNG304.json"
-    },
-    {
-      "full_name": "Chinese Linguistics",
-      "module_code": "LNG305",
-      "module_level": "Level 3",
-      "path": "LNG|LNG - Applied Linguistics/LNG305.json"
-    },
-    {
-      "full_name": "Forensic Linguistics",
-      "module_code": "LNG306",
-      "module_level": "Level 3",
-      "path": "LNG|LNG - Applied Linguistics/LNG306.json"
-    },
-    {
-      "full_name": "Historical Linguistics",
-      "module_code": "LNG307",
-      "module_level": "Level 3",
-      "path": "LNG|LNG - Applied Linguistics/LNG307.json"
-    },
-    {
-      "full_name": "Intercultural Communication",
-      "module_code": "LNG308",
-      "module_level": "Level 3",
-      "path": "LNG|LNG - Applied Linguistics/LNG308.json"
-    },
-    {
-      "full_name": "Artificial Intelligence (AI) and Applied Linguistics",
-      "module_code": "LNG309",
-      "module_level": "Level 3",
-      "path": "LNG|LNG - Applied Linguistics/LNG309.json"
-    },
-    {
-      "full_name": "Language Education",
-      "module_code": "LNG310",
-      "module_level": "Level 3",
-      "path": "LNG|LNG - Applied Linguistics/LNG310.json"
-    },
-    {
-      "full_name": "Final Year Project for English and Business Studies",
-      "module_code": "LNG311",
-      "module_level": "Level 3",
-      "path": "LNG|LNG - Applied Linguistics/LNG311.json"
-    },
-    {
-      "full_name": "Ecolinguistics: Language and the Environment",
-      "module_code": "LNG312",
-      "module_level": "Level 3",
-      "path": "LNG|LNG - Applied Linguistics/LNG312.json"
-    },
-    {
-      "full_name": "Language and Consumer Behaviours",
-      "module_code": "LNG313",
-      "module_level": "Level 3",
-      "path": "LNG|LNG - Applied Linguistics/LNG313.json"
-    },
-    {
-      "full_name": "Language Pathology",
-      "module_code": "LNG314",
-      "module_level": "Level 3",
-      "path": "LNG|LNG - Applied Linguistics/LNG314.json"
-    },
-    {
-      "full_name": "Linguistics for Language Teachers",
-      "module_code": "LNG401",
-      "module_level": "Level 4",
-      "path": "LNG|LNG - Applied Linguistics/LNG401.json"
-    },
-    {
-      "full_name": "Language Testing and Assessment",
-      "module_code": "LNG402",
-      "module_level": "Level 4",
-      "path": "LNG|LNG - Applied Linguistics/LNG402.json"
-    },
-    {
-      "full_name": "Artificial Intelligence (AI) Technologies for Language Education",
-      "module_code": "LNG403",
-      "module_level": "Level 4",
-      "path": "LNG|LNG - Applied Linguistics/LNG403.json"
-    },
-    {
-      "full_name": "Methods and research in teaching EFL skills",
-      "module_code": "LNG404",
-      "module_level": "Level 4",
-      "path": "LNG|LNG - Applied Linguistics/LNG404.json"
-    },
-    {
-      "full_name": "Principles of Course and Materials Design",
-      "module_code": "LNG405",
-      "module_level": "Level 4",
-      "path": "LNG|LNG - Applied Linguistics/LNG405.json"
-    },
-    {
-      "full_name": "Research Methods",
-      "module_code": "LNG406",
-      "module_level": "Level 4",
-      "path": "LNG|LNG - Applied Linguistics/LNG406.json"
-    },
-    {
-      "full_name": "Second Language Acquisition",
-      "module_code": "LNG407",
-      "module_level": "Level 4",
-      "path": "LNG|LNG - Applied Linguistics/LNG407.json"
-    },
-    {
-      "full_name": "Discourse Analysis",
-      "module_code": "LNG408",
-      "module_level": "Level 4",
-      "path": "LNG|LNG - Applied Linguistics/LNG408.json"
-    },
-    {
-      "full_name": "Dissertation",
-      "module_code": "LNG409",
-      "module_level": "Level 4",
-      "path": "LNG|LNG - Applied Linguistics/LNG409.json"
-    },
-    {
-      "full_name": "English for Specific Purposes",
-      "module_code": "LNG410",
-      "module_level": "Level 4",
-      "path": "LNG|LNG - Applied Linguistics/LNG410.json"
-    },
-    {
-      "full_name": "Introduction to multilingualism",
-      "module_code": "LNG411",
-      "module_level": "Level 4",
-      "path": "LNG|LNG - Applied Linguistics/LNG411.json"
-    },
-    {
-      "full_name": "Individual Differences In Language Learning",
-      "module_code": "LNG412",
-      "module_level": "Level 4",
-      "path": "LNG|LNG - Applied Linguistics/LNG412.json"
-    },
-    {
-      "full_name": "Multilingualism in society",
-      "module_code": "LNG413",
-      "module_level": "Level 4",
-      "path": "LNG|LNG - Applied Linguistics/LNG413.json"
-    },
-    {
-      "full_name": "Psycholinguistics of Multilingualism",
-      "module_code": "LNG414",
-      "module_level": "Level 4",
-      "path": "LNG|LNG - Applied Linguistics/LNG414.json"
-    },
-    {
-      "full_name": "Language, globalization and mobility",
-      "module_code": "LNG415",
-      "module_level": "Level 4",
-      "path": "LNG|LNG - Applied Linguistics/LNG415.json"
-    },
-    {
-      "full_name": "The politics of language in a globalized world",
-      "module_code": "LNG417",
-      "module_level": "Level 4",
-      "path": "LNG|LNG - Applied Linguistics/LNG417.json"
-    },
-    {
-      "full_name": "Language and Health in a Multilingual World",
-      "module_code": "LNG418",
-      "module_level": "Level 4",
-      "path": "LNG|LNG - Applied Linguistics/LNG418.json"
-    },
-    {
-      "full_name": "Multilingual education and multilingual literacies",
-      "module_code": "LNG419",
-      "module_level": "Level 4",
-      "path": "LNG|LNG - Applied Linguistics/LNG419.json"
-    },
-    {
-      "full_name": "Dissertation",
-      "module_code": "LNG423",
-      "module_level": "Level 4",
-      "path": "LNG|LNG - Applied Linguistics/LNG423.json"
     },
     {
       "full_name": "Statics",
@@ -13189,6 +13530,138 @@
       "path": "PHY|PHY - Physics/PHY312.json"
     },
     {
+      "full_name": "Foundations and Professional Practice in Computer Science",
+      "module_code": "PSP001",
+      "module_level": "Level 0",
+      "path": "PSP|PSP -/PSP001.json"
+    },
+    {
+      "full_name": "Exploring the Applications of AI and Large Language Models",
+      "module_code": "PSP002TC",
+      "module_level": "Level 0",
+      "path": "PSP|PSP -/PSP002TC.json"
+    },
+    {
+      "full_name": "Artificial Intelligence in Practice",
+      "module_code": "PSP003TC",
+      "module_level": "Level 0",
+      "path": "PSP|PSP -/PSP003TC.json"
+    },
+    {
+      "full_name": "Introduction to Emerging Technologies",
+      "module_code": "PSP004",
+      "module_level": "Level 0",
+      "path": "PSP|PSP -/PSP004.json"
+    },
+    {
+      "full_name": "Engineering in Society: Systems, Sustainability, and Professional Context",
+      "module_code": "PSP005",
+      "module_level": "Level 0",
+      "path": "PSP|PSP -/PSP005.json"
+    },
+    {
+      "full_name": "Experimental, Computer Skills and Sustainability",
+      "module_code": "PSP101",
+      "module_level": "Level 1",
+      "path": "PSP|PSP -/PSP101.json"
+    },
+    {
+      "full_name": "Entrepreneurial Skills for Advanced Technologies",
+      "module_code": "PSP102",
+      "module_level": "Level 1",
+      "path": "PSP|PSP -/PSP102.json"
+    },
+    {
+      "full_name": "Industrial Awareness and Group Project",
+      "module_code": "PSP201",
+      "module_level": "Level 2",
+      "path": "PSP|PSP -/PSP201.json"
+    },
+    {
+      "full_name": "Security, Privacy and Ethics",
+      "module_code": "PSP301TC",
+      "module_level": "Level 3",
+      "path": "PSP|PSP -/PSP301TC.json"
+    },
+    {
+      "full_name": "Final Year Project",
+      "module_code": "PSP302TC",
+      "module_level": "Level 3",
+      "path": "PSP|PSP -/PSP302TC.json"
+    },
+    {
+      "full_name": "Final Year Project",
+      "module_code": "PSP303TC",
+      "module_level": "Level 3",
+      "path": "PSP|PSP -/PSP303TC.json"
+    },
+    {
+      "full_name": "Professional Practice",
+      "module_code": "PSP304",
+      "module_level": "Level 3",
+      "path": "PSP|PSP -/PSP304.json"
+    },
+    {
+      "full_name": "Final Year Project",
+      "module_code": "PSP305",
+      "module_level": "Level 3",
+      "path": "PSP|PSP -/PSP305.json"
+    },
+    {
+      "full_name": "Research Methods",
+      "module_code": "PSP401",
+      "module_level": "Level 4",
+      "path": "PSP|PSP -/PSP401.json"
+    },
+    {
+      "full_name": "Technological Project Management",
+      "module_code": "PSP402",
+      "module_level": "Level 4",
+      "path": "PSP|PSP -/PSP402.json"
+    },
+    {
+      "full_name": "Research Project Management",
+      "module_code": "PSP403",
+      "module_level": "Level 4",
+      "path": "PSP|PSP -/PSP403.json"
+    },
+    {
+      "full_name": "Applied Research Techniques and Methodologies",
+      "module_code": "PSP404TC",
+      "module_level": "Level 4",
+      "path": "PSP|PSP -/PSP404TC.json"
+    },
+    {
+      "full_name": "Ethics, Privacy, Artificial Intelligence in Society",
+      "module_code": "PSP405TC",
+      "module_level": "Level 4",
+      "path": "PSP|PSP -/PSP405TC.json"
+    },
+    {
+      "full_name": "Dissertation Project",
+      "module_code": "PSP406TC",
+      "module_level": "Level 4",
+      "path": "PSP|PSP -/PSP406TC.json"
+    },
+    {
+      "full_name": "MRes Project Preparation",
+      "module_code": "PSP407",
+      "module_level": "Level 4",
+      "path": "PSP|PSP -/PSP407.json"
+    },
+    {
+      "full_name": "MRes Dissertation Project",
+      "module_code": "PSP408",
+      "module_level": "Level 4",
+      "path": "PSP|PSP -/PSP408.json"
+    },
+    {
+      "full_name": "MSc Dissertation Project",
+      "module_code": "PSP409",
+      "module_level": "Level 4",
+      "path": "PSP|PSP -/PSP409.json"
+    },
+    {
       "full_name": "Introductions to Intelligent Robotics",
       "module_code": "RBE001TC",
       "module_level": "Level 0",
@@ -13421,30 +13894,6 @@
       "module_code": "RBE414TC",
       "module_level": "Level 4",
       "path": "RBETC|IRE - Robotics/RBE414TC.json"
-    },
-    {
-      "full_name": "Artificial Intelligence for Energy Sciences",
-      "module_code": "SAT408",
-      "module_level": "Level 4",
-      "path": "SAT|SAT - Advanced Technology/SAT408.json"
-    },
-    {
-      "full_name": "Digital Twin Engineering",
-      "module_code": "SAT409",
-      "module_level": "Level 4",
-      "path": "SAT|SAT - Advanced Technology/SAT409.json"
-    },
-    {
-      "full_name": "Large-Scale Machine Learning Models for Industry",
-      "module_code": "SAT410",
-      "module_level": "Level 4",
-      "path": "SAT|SAT - Advanced Technology/SAT410.json"
-    },
-    {
-      "full_name": "Machine Learning for Industry",
-      "module_code": "SAT411",
-      "module_level": "Level 4",
-      "path": "SAT|SAT - Advanced Technology/SAT411.json"
     },
     {
       "full_name": "Communication Skills for Personal Success",
@@ -13793,6 +14242,150 @@
       "module_code": "SMO430",
       "module_level": "Level 4",
       "path": "SMO|SMO - Strategic Management and Organizations/SMO430.json"
+    },
+    {
+      "full_name": "Introduction to Python",
+      "module_code": "SOE001TC",
+      "module_level": "Level 0",
+      "path": "SOE|SOE -/SOE001TC.json"
+    },
+    {
+      "full_name": "Introduction to Databases",
+      "module_code": "SOE101",
+      "module_level": "Level 1",
+      "path": "SOE|SOE -/SOE101.json"
+    },
+    {
+      "full_name": "Introduction to Programming in Java",
+      "module_code": "SOE102",
+      "module_level": "Level 1",
+      "path": "SOE|SOE -/SOE102.json"
+    },
+    {
+      "full_name": "C Programming and Software Engineering",
+      "module_code": "SOE103",
+      "module_level": "Level 1",
+      "path": "SOE|SOE -/SOE103.json"
+    },
+    {
+      "full_name": "Java Programming",
+      "module_code": "SOE104",
+      "module_level": "Level 1",
+      "path": "SOE|SOE -/SOE104.json"
+    },
+    {
+      "full_name": "C/C++ Programming",
+      "module_code": "SOE105",
+      "module_level": "Level 1",
+      "path": "SOE|SOE -/SOE105.json"
+    },
+    {
+      "full_name": "Programming with C++",
+      "module_code": "SOE106TC",
+      "module_level": "Level 1",
+      "path": "SOE|SOE -/SOE106TC.json"
+    },
+    {
+      "full_name": "Introduction to Databases",
+      "module_code": "SOE107TC",
+      "module_level": "Level 1",
+      "path": "SOE|SOE -/SOE107TC.json"
+    },
+    {
+      "full_name": "Python for AI",
+      "module_code": "SOE108TC",
+      "module_level": "Level 1",
+      "path": "SOE|SOE -/SOE108TC.json"
+    },
+    {
+      "full_name": "Object-Oriented Programming",
+      "module_code": "SOE109TC",
+      "module_level": "Level 1",
+      "path": "SOE|SOE -/SOE109TC.json"
+    },
+    {
+      "full_name": "Python for AI",
+      "module_code": "SOE110",
+      "module_level": "Level 1",
+      "path": "SOE|SOE -/SOE110.json"
+    },
+    {
+      "full_name": "Database Development and Design",
+      "module_code": "SOE201",
+      "module_level": "Level 2",
+      "path": "SOE|SOE -/SOE201.json"
+    },
+    {
+      "full_name": "Software Engineering Group Project",
+      "module_code": "SOE202",
+      "module_level": "Level 2",
+      "path": "SOE|SOE -/SOE202.json"
+    },
+    {
+      "full_name": "Software Engineering I",
+      "module_code": "SOE203",
+      "module_level": "Level 2",
+      "path": "SOE|SOE -/SOE203.json"
+    },
+    {
+      "full_name": "Advanced OO Programming",
+      "module_code": "SOE204",
+      "module_level": "Level 2",
+      "path": "SOE|SOE -/SOE204.json"
+    },
+    {
+      "full_name": "Computer Graphics",
+      "module_code": "SOE205",
+      "module_level": "Level 2",
+      "path": "SOE|SOE -/SOE205.json"
+    },
+    {
+      "full_name": "Database Development and Design",
+      "module_code": "SOE206TC",
+      "module_level": "Level 2",
+      "path": "SOE|SOE -/SOE206TC.json"
+    },
+    {
+      "full_name": "Software Engineering II",
+      "module_code": "SOE301",
+      "module_level": "Level 3",
+      "path": "SOE|SOE -/SOE301.json"
+    },
+    {
+      "full_name": "Game Design Theory and Practice",
+      "module_code": "SOE302",
+      "module_level": "Level 3",
+      "path": "SOE|SOE -/SOE302.json"
+    },
+    {
+      "full_name": "Software Architectures",
+      "module_code": "SOE401",
+      "module_level": "Level 4",
+      "path": "SOE|SOE -/SOE401.json"
+    },
+    {
+      "full_name": "Object Oriented Programming",
+      "module_code": "SOE402",
+      "module_level": "Level 4",
+      "path": "SOE|SOE -/SOE402.json"
+    },
+    {
+      "full_name": "Databases and Data Management",
+      "module_code": "SOE403",
+      "module_level": "Level 4",
+      "path": "SOE|SOE -/SOE403.json"
+    },
+    {
+      "full_name": "Game Design and Development",
+      "module_code": "SOE404",
+      "module_level": "Level 4",
+      "path": "SOE|SOE -/SOE404.json"
+    },
+    {
+      "full_name": "Animation Technology for Games and Interactive Media",
+      "module_code": "SOE405",
+      "module_level": "Level 4",
+      "path": "SOE|SOE -/SOE405.json"
     },
     {
       "full_name": "Spanish Language 1",
