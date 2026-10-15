@@ -1,6 +1,6 @@
 {
   "base_url": "https://modules.xjtlu.edu.cn",
-  "department_count": 72,
+  "department_count": 73,
   "error_count": 0,
   "errors": [],
   "generated_paths": [
@@ -386,8 +386,6 @@
     "DES|DES - Design/DES408.json",
     "DES|DES - Design/DES409.json",
     "DPH|HES -",
-    "DPH|HES -/DPH403TC.json",
-    "DPH|HES -/DPH404TC.json",
     "EAP|ELC - English for Academic Purposes",
     "EAP|ELC - English for Academic Purposes/EAP039.json",
     "EAP|ELC - English for Academic Purposes/EAP041.json",
@@ -513,6 +511,7 @@
     "EDS|EDS - Educational Studies/EDS457.json",
     "EDS|EDS - Educational Studies/EDS458.json",
     "EDS|EDS - Educational Studies/EDS459.json",
+    "EDS|ILEAD -",
     "EDS|ILEAD - Educational Studies",
     "EDS|ILEAD - Educational Studies/EDS401.json",
     "EDS|ILEAD - Educational Studies/EDS402.json",
@@ -568,6 +567,60 @@
     "EDS|ILEAD - Educational Studies/EDS457.json",
     "EDS|ILEAD - Educational Studies/EDS458.json",
     "EDS|ILEAD - Educational Studies/EDS459.json",
+    "EDS|ILEAD -/EDS401.json",
+    "EDS|ILEAD -/EDS402.json",
+    "EDS|ILEAD -/EDS403.json",
+    "EDS|ILEAD -/EDS404.json",
+    "EDS|ILEAD -/EDS405.json",
+    "EDS|ILEAD -/EDS406.json",
+    "EDS|ILEAD -/EDS407.json",
+    "EDS|ILEAD -/EDS409.json",
+    "EDS|ILEAD -/EDS410.json",
+    "EDS|ILEAD -/EDS411.json",
+    "EDS|ILEAD -/EDS414.json",
+    "EDS|ILEAD -/EDS415.json",
+    "EDS|ILEAD -/EDS416.json",
+    "EDS|ILEAD -/EDS417.json",
+    "EDS|ILEAD -/EDS418.json",
+    "EDS|ILEAD -/EDS419.json",
+    "EDS|ILEAD -/EDS420.json",
+    "EDS|ILEAD -/EDS421.json",
+    "EDS|ILEAD -/EDS422.json",
+    "EDS|ILEAD -/EDS423.json",
+    "EDS|ILEAD -/EDS424.json",
+    "EDS|ILEAD -/EDS425.json",
+    "EDS|ILEAD -/EDS426.json",
+    "EDS|ILEAD -/EDS427.json",
+    "EDS|ILEAD -/EDS428.json",
+    "EDS|ILEAD -/EDS429.json",
+    "EDS|ILEAD -/EDS430.json",
+    "EDS|ILEAD -/EDS431.json",
+    "EDS|ILEAD -/EDS432.json",
+    "EDS|ILEAD -/EDS433.json",
+    "EDS|ILEAD -/EDS434.json",
+    "EDS|ILEAD -/EDS435.json",
+    "EDS|ILEAD -/EDS438.json",
+    "EDS|ILEAD -/EDS439.json",
+    "EDS|ILEAD -/EDS440.json",
+    "EDS|ILEAD -/EDS441.json",
+    "EDS|ILEAD -/EDS442.json",
+    "EDS|ILEAD -/EDS443.json",
+    "EDS|ILEAD -/EDS444.json",
+    "EDS|ILEAD -/EDS445.json",
+    "EDS|ILEAD -/EDS446.json",
+    "EDS|ILEAD -/EDS447.json",
+    "EDS|ILEAD -/EDS448.json",
+    "EDS|ILEAD -/EDS449.json",
+    "EDS|ILEAD -/EDS450.json",
+    "EDS|ILEAD -/EDS451.json",
+    "EDS|ILEAD -/EDS452.json",
+    "EDS|ILEAD -/EDS453.json",
+    "EDS|ILEAD -/EDS454.json",
+    "EDS|ILEAD -/EDS455.json",
+    "EDS|ILEAD -/EDS456.json",
+    "EDS|ILEAD -/EDS457.json",
+    "EDS|ILEAD -/EDS458.json",
+    "EDS|ILEAD -/EDS459.json",
     "EEE|EEE - Electrical and Electronic Engineering",
     "EEE|EEE - Electrical and Electronic Engineering/EEE103.json",
     "EEE|EEE - Electrical and Electronic Engineering/EEE104.json",
@@ -735,14 +788,12 @@
     "FTA|AFCT - Film and TV/FTA112.json",
     "FTA|AFCT - Film and TV/FTA114.json",
     "FTA|AFCT - Film and TV/FTA115.json",
-    "FTA|AFCT - Film and TV/FTA116.json",
     "FTA|AFCT - Film and TV/FTA120.json",
     "FTA|AFCT - Film and TV/FTA121.json",
     "FTA|AFCT - Film and TV/FTA122.json",
     "FTA|AFCT - Film and TV/FTA123.json",
     "FTA|AFCT - Film and TV/FTA124.json",
     "FTA|AFCT - Film and TV/FTA129.json",
-    "FTA|AFCT - Film and TV/FTA132.json",
     "FTA|AFCT - Film and TV/FTA134.json",
     "FTA|AFCT - Film and TV/FTA201.json",
     "FTA|AFCT - Film and TV/FTA203.json",
@@ -2175,7 +2226,7 @@
     "UPD|UPD - Urban Planning and Design/UPD410.json",
     "XPU|LIFE - XIPU AI general education"
   ],
-  "module_file_count": 2098,
+  "module_file_count": 2148,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -4350,18 +4401,6 @@
       "path": "DES|DES - Design/DES409.json"
     },
     {
-      "full_name": "Field Epidemiology Practicum",
-      "module_code": "DPH403TC",
-      "module_level": "Level 4",
-      "path": "DPH|HES -/DPH403TC.json"
-    },
-    {
-      "full_name": "Chronic Disease Epidemiology",
-      "module_code": "DPH404TC",
-      "module_level": "Level 4",
-      "path": "DPH|HES -/DPH404TC.json"
-    },
-    {
       "full_name": "Foundation English for Academic Purposes",
       "module_code": "EAP039",
       "module_level": "Level 0",
@@ -5418,6 +5457,330 @@
       "path": "EDS|ILEAD - Educational Studies/EDS459.json"
     },
     {
+      "full_name": "Globalization and Education: Critical Perspectives",
+      "module_code": "EDS401",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS401.json"
+    },
+    {
+      "full_name": "Entrepreneurship, Educational Innovation and International Education",
+      "module_code": "EDS402",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS402.json"
+    },
+    {
+      "full_name": "Principles, Policies and Practices of Global Education",
+      "module_code": "EDS403",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS403.json"
+    },
+    {
+      "full_name": "The School of Tomorrow: Managing Change in Global Education",
+      "module_code": "EDS404",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS404.json"
+    },
+    {
+      "full_name": "Educational Leadership",
+      "module_code": "EDS405",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS405.json"
+    },
+    {
+      "full_name": "Educational Internship",
+      "module_code": "EDS406",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS406.json"
+    },
+    {
+      "full_name": "Culture and Learning",
+      "module_code": "EDS407",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS407.json"
+    },
+    {
+      "full_name": "Education in The Asia-Pacific Region",
+      "module_code": "EDS409",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS409.json"
+    },
+    {
+      "full_name": "The Student Experience in Global Education",
+      "module_code": "EDS410",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS410.json"
+    },
+    {
+      "full_name": "Dissertation",
+      "module_code": "EDS411",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS411.json"
+    },
+    {
+      "full_name": "Counselling in Child and Family Education: Practice and Skills",
+      "module_code": "EDS414",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS414.json"
+    },
+    {
+      "full_name": "Family Education: Principles and Theories",
+      "module_code": "EDS415",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS415.json"
+    },
+    {
+      "full_name": "Understanding Families in Educational and Community Settings",
+      "module_code": "EDS416",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS416.json"
+    },
+    {
+      "full_name": "Child and Adolescent Mental Health",
+      "module_code": "EDS417",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS417.json"
+    },
+    {
+      "full_name": "Educational Placement",
+      "module_code": "EDS418",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS418.json"
+    },
+    {
+      "full_name": "Developing and Evaluating Programmes for Children and Families",
+      "module_code": "EDS419",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS419.json"
+    },
+    {
+      "full_name": "Advanced Educational Research Method",
+      "module_code": "EDS420",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS420.json"
+    },
+    {
+      "full_name": "Teaching and Learning for Children with Special Needs",
+      "module_code": "EDS421",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS421.json"
+    },
+    {
+      "full_name": "Principles and Practices of Administration of K-12 Schools",
+      "module_code": "EDS422",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS422.json"
+    },
+    {
+      "full_name": "Dissertation",
+      "module_code": "EDS423",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS423.json"
+    },
+    {
+      "full_name": "Introduction to Research Methods",
+      "module_code": "EDS424",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS424.json"
+    },
+    {
+      "full_name": "Development and Educational Psychology Across The Lifespan",
+      "module_code": "EDS425",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS425.json"
+    },
+    {
+      "full_name": "Monitoring and Evaluation in Educational Systems and Organizations",
+      "module_code": "EDS426",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS426.json"
+    },
+    {
+      "full_name": "Effective Practices in Student Affairs From A Global Perspective",
+      "module_code": "EDS427",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS427.json"
+    },
+    {
+      "full_name": "Teaching, Learning and Assessment",
+      "module_code": "EDS428",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS428.json"
+    },
+    {
+      "full_name": "Curriculum Design in International Context",
+      "module_code": "EDS429",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS429.json"
+    },
+    {
+      "full_name": "Administration and Organization in Higher Education",
+      "module_code": "EDS430",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS430.json"
+    },
+    {
+      "full_name": "Designing Digital Education Curriculum",
+      "module_code": "EDS431",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS431.json"
+    },
+    {
+      "full_name": "Education in a Digital Society",
+      "module_code": "EDS432",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS432.json"
+    },
+    {
+      "full_name": "Syntegrative Project: Digital Education",
+      "module_code": "EDS433",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS433.json"
+    },
+    {
+      "full_name": "Digital Media and Information Literacy",
+      "module_code": "EDS434",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS434.json"
+    },
+    {
+      "full_name": "Blended Learning in a Digital Age",
+      "module_code": "EDS435",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS435.json"
+    },
+    {
+      "full_name": "Curriculum Design in International Context",
+      "module_code": "EDS438",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS438.json"
+    },
+    {
+      "full_name": "Internationalization and Chinese Education Context",
+      "module_code": "EDS439",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS439.json"
+    },
+    {
+      "full_name": "Practice-based Inquiry in Education",
+      "module_code": "EDS440",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS440.json"
+    },
+    {
+      "full_name": "Teaching, Learning and Assessment",
+      "module_code": "EDS441",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS441.json"
+    },
+    {
+      "full_name": "Engaging with Educational Literature",
+      "module_code": "EDS442",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS442.json"
+    },
+    {
+      "full_name": "Educational Research: Theory and Practice",
+      "module_code": "EDS443",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS443.json"
+    },
+    {
+      "full_name": "Conducting Quantitative Research",
+      "module_code": "EDS444",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS444.json"
+    },
+    {
+      "full_name": "Conducting Qualitative Research",
+      "module_code": "EDS445",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS445.json"
+    },
+    {
+      "full_name": "Advanced Educational Research Studies",
+      "module_code": "EDS446",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS446.json"
+    },
+    {
+      "full_name": "Scholarship of Teaching and Learning: Research and Practices",
+      "module_code": "EDS447",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS447.json"
+    },
+    {
+      "full_name": "Social and Affective Development of Gifted Students",
+      "module_code": "EDS448",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS448.json"
+    },
+    {
+      "full_name": "Introduction to Research Methods",
+      "module_code": "EDS449",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS449.json"
+    },
+    {
+      "full_name": "Principles & Practices in Early Childhood Education",
+      "module_code": "EDS450",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS450.json"
+    },
+    {
+      "full_name": "Teaching, Pedagogy, and Design",
+      "module_code": "EDS451",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS451.json"
+    },
+    {
+      "full_name": "Educational Counseling and Coaching",
+      "module_code": "EDS452",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS452.json"
+    },
+    {
+      "full_name": "Achievement, Motivation, and Support",
+      "module_code": "EDS453",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS453.json"
+    },
+    {
+      "full_name": "Assessment and Evaluation in Student Development",
+      "module_code": "EDS454",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS454.json"
+    },
+    {
+      "full_name": "Supporting Students with Special Learning Needs",
+      "module_code": "EDS455",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS455.json"
+    },
+    {
+      "full_name": "Introduction to Research Methods",
+      "module_code": "EDS456",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS456.json"
+    },
+    {
+      "full_name": "Integrating STEAM in the 21st Century Classroom",
+      "module_code": "EDS457",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS457.json"
+    },
+    {
+      "full_name": "Designing Educational Games",
+      "module_code": "EDS458",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS458.json"
+    },
+    {
+      "full_name": "Syntegrative Learning and Research Project",
+      "module_code": "EDS459",
+      "module_level": "Level 4",
+      "path": "EDS|ILEAD -/EDS459.json"
+    },
+    {
       "full_name": "Electrical Circuits I",
       "module_code": "EEE103",
       "module_level": "Level 1",
@@ -6390,12 +6753,6 @@
       "path": "FTA|AFCT - Film and TV/FTA115.json"
     },
     {
-      "full_name": "Development and Pre-production for TV",
-      "module_code": "FTA116",
-      "module_level": "Level 1",
-      "path": "FTA|AFCT - Film and TV/FTA116.json"
-    },
-    {
       "full_name": "Introduction to Visual Communication",
       "module_code": "FTA120",
       "module_level": "Level 1",
@@ -6430,12 +6787,6 @@
       "module_code": "FTA129",
       "module_level": "Level 1",
       "path": "FTA|AFCT - Film and TV/FTA129.json"
-    },
-    {
-      "full_name": "Series Production",
-      "module_code": "FTA132",
-      "module_level": "Level 1",
-      "path": "FTA|AFCT - Film and TV/FTA132.json"
     },
     {
       "full_name": "Creative Coding",
