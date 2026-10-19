@@ -1601,7 +1601,6 @@
     "MTH|APM - Mathematical Sciences/MTH302.json",
     "MTH|APM - Mathematical Sciences/MTH303.json",
     "MTH|APM - Mathematical Sciences/MTH305.json",
-    "MTH|APM - Mathematical Sciences/MTH306.json",
     "MTH|APM - Mathematical Sciences/MTH307.json",
     "MTH|APM - Mathematical Sciences/MTH308.json",
     "MTH|APM - Mathematical Sciences/MTH310.json",
@@ -1706,7 +1705,6 @@
     "MTH|FAM - Mathematical Sciences/MTH302.json",
     "MTH|FAM - Mathematical Sciences/MTH303.json",
     "MTH|FAM - Mathematical Sciences/MTH305.json",
-    "MTH|FAM - Mathematical Sciences/MTH306.json",
     "MTH|FAM - Mathematical Sciences/MTH307.json",
     "MTH|FAM - Mathematical Sciences/MTH308.json",
     "MTH|FAM - Mathematical Sciences/MTH310.json",
@@ -1811,7 +1809,6 @@
     "MTH|MAT - Mathematical Sciences/MTH302.json",
     "MTH|MAT - Mathematical Sciences/MTH303.json",
     "MTH|MAT - Mathematical Sciences/MTH305.json",
-    "MTH|MAT - Mathematical Sciences/MTH306.json",
     "MTH|MAT - Mathematical Sciences/MTH307.json",
     "MTH|MAT - Mathematical Sciences/MTH308.json",
     "MTH|MAT - Mathematical Sciences/MTH310.json",
@@ -1916,7 +1913,6 @@
     "MTH|SMP - Mathematical Sciences/MTH302.json",
     "MTH|SMP - Mathematical Sciences/MTH303.json",
     "MTH|SMP - Mathematical Sciences/MTH305.json",
-    "MTH|SMP - Mathematical Sciences/MTH306.json",
     "MTH|SMP - Mathematical Sciences/MTH307.json",
     "MTH|SMP - Mathematical Sciences/MTH308.json",
     "MTH|SMP - Mathematical Sciences/MTH310.json",
@@ -2226,7 +2222,7 @@
     "UPD|UPD - Urban Planning and Design/UPD410.json",
     "XPU|LIFE - XIPU AI general education"
   ],
-  "module_file_count": 2148,
+  "module_file_count": 2144,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -11463,12 +11459,6 @@
       "path": "MTH|APM - Mathematical Sciences/MTH305.json"
     },
     {
-      "full_name": "Credibility Theory",
-      "module_code": "MTH306",
-      "module_level": "Level 3",
-      "path": "MTH|APM - Mathematical Sciences/MTH306.json"
-    },
-    {
       "full_name": "Population Dynamics",
       "module_code": "MTH307",
       "module_level": "Level 3",
@@ -12085,12 +12075,6 @@
       "module_code": "MTH305",
       "module_level": "Level 3",
       "path": "MTH|FAM - Mathematical Sciences/MTH305.json"
-    },
-    {
-      "full_name": "Credibility Theory",
-      "module_code": "MTH306",
-      "module_level": "Level 3",
-      "path": "MTH|FAM - Mathematical Sciences/MTH306.json"
     },
     {
       "full_name": "Population Dynamics",
@@ -12711,12 +12695,6 @@
       "path": "MTH|MAT - Mathematical Sciences/MTH305.json"
     },
     {
-      "full_name": "Credibility Theory",
-      "module_code": "MTH306",
-      "module_level": "Level 3",
-      "path": "MTH|MAT - Mathematical Sciences/MTH306.json"
-    },
-    {
       "full_name": "Population Dynamics",
       "module_code": "MTH307",
       "module_level": "Level 3",
@@ -13333,12 +13311,6 @@
       "module_code": "MTH305",
       "module_level": "Level 3",
       "path": "MTH|SMP - Mathematical Sciences/MTH305.json"
-    },
-    {
-      "full_name": "Credibility Theory",
-      "module_code": "MTH306",
-      "module_level": "Level 3",
-      "path": "MTH|SMP - Mathematical Sciences/MTH306.json"
     },
     {
       "full_name": "Population Dynamics",
