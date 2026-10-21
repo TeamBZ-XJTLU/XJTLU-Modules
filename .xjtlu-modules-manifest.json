@@ -1,6 +1,6 @@
 {
   "base_url": "https://modules.xjtlu.edu.cn",
-  "department_count": 73,
+  "department_count": 66,
   "error_count": 0,
   "errors": [],
   "generated_paths": [
@@ -108,17 +108,10 @@
     "ARC|ARC - Architecture/ARC409.json",
     "ARC|ARC - Architecture/ARC412.json",
     "ARC|ARC - Architecture/ARC413.json",
-    "BIO|BIO - Biological Sciences",
-    "BIO|BIO - Biological Sciences/BIO304.json",
-    "BIO|BIO - Biological Sciences/BIO315.json",
-    "BIO|BIO - Biological Sciences/BIO316.json",
-    "BIO|BIO - Biological Sciences/BIO317.json",
-    "BIO|BIO - Biological Sciences/BIO318.json",
     "BNV|UPD - Built Environment",
     "BNV|UPD - Built Environment/BNV401.json",
     "BUS|IBSS - International Business School",
     "BUS|IBSS - International Business School/BUS303.json",
-    "CAN|CAN - Communications and Networking",
     "CATTC|AFCT - Cultural Technology",
     "CATTC|AFCT - Cultural Technology/CAT001TC.json",
     "CATTC|AFCT - Cultural Technology/CAT002TC.json",
@@ -237,11 +230,6 @@
     "CEN|CEN - Civil Engineering/CEN421.json",
     "CEN|CEN - Civil Engineering/CEN422.json",
     "CEN|CEN - Civil Engineering/CEN423.json",
-    "CHE|CHE - Chemistry",
-    "CHE|CHE - Chemistry/CHE404.json",
-    "CHE|CHE - Chemistry/CHE408.json",
-    "CHE|CHE - Chemistry/CHE409.json",
-    "CHE|CHE - Chemistry/CHE410.json",
     "CLT|MLC - Chinese Language",
     "CLT|MLC - Chinese Language/CLT001.json",
     "CLT|MLC - Chinese Language/CLT002.json",
@@ -342,7 +330,6 @@
     "COS|COS -/COS403.json",
     "COS|COS -/COS404.json",
     "COS|COS -/COS405.json",
-    "CPT|CPT - Computing",
     "CSI|CSI -",
     "CSI|CSI -/CSI101.json",
     "CSI|CSI -/CSI102.json",
@@ -385,7 +372,6 @@
     "DES|DES - Design/DES407.json",
     "DES|DES - Design/DES408.json",
     "DES|DES - Design/DES409.json",
-    "DPH|HES -",
     "EAP|ELC - English for Academic Purposes",
     "EAP|ELC - English for Academic Purposes/EAP039.json",
     "EAP|ELC - English for Academic Purposes/EAP041.json",
@@ -1000,7 +986,6 @@
     "INS|INS - International Studies/INS419.json",
     "INS|INS - International Studies/INS420.json",
     "INS|INS - International Studies/INS421.json",
-    "INT|INT - Intelligent Science",
     "IOM|IOM - Intelligent Operations and Marketing",
     "IOM|IOM - Intelligent Operations and Marketing/IOM006.json",
     "IOM|IOM - Intelligent Operations and Marketing/IOM101.json",
@@ -1958,12 +1943,6 @@
     "MTH|SMP - Mathematical Sciences/MTH446.json",
     "MTH|SMP - Mathematical Sciences/MTH447.json",
     "MTH|SMP - Mathematical Sciences/MTH448.json",
-    "MTS|CHE - Material Science",
-    "MTS|CHE - Material Science/MTS301.json",
-    "MTS|CHE - Material Science/MTS302.json",
-    "MTS|CHE - Material Science/MTS304.json",
-    "MTS|CHE - Material Science/MTS305.json",
-    "MTS|CHE - Material Science/MTS306.json",
     "PGC|EDU - Professional Studies",
     "PGC|EDU - Professional Studies/PGC401.json",
     "PGC|EDU - Professional Studies/PGC402.json",
@@ -2222,7 +2201,7 @@
     "UPD|UPD - Urban Planning and Design/UPD410.json",
     "XPU|LIFE - XIPU AI general education"
   ],
-  "module_file_count": 2144,
+  "module_file_count": 2130,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -2823,36 +2802,6 @@
       "module_code": "ARC413",
       "module_level": "Level 4",
       "path": "ARC|ARC - Architecture/ARC413.json"
-    },
-    {
-      "full_name": "Biotechnology and Society",
-      "module_code": "BIO304",
-      "module_level": "Level 3",
-      "path": "BIO|BIO - Biological Sciences/BIO304.json"
-    },
-    {
-      "full_name": "Pharmacology and Therapeutics",
-      "module_code": "BIO315",
-      "module_level": "Level 3",
-      "path": "BIO|BIO - Biological Sciences/BIO315.json"
-    },
-    {
-      "full_name": "High-Throughput Approaches and Systems Biology",
-      "module_code": "BIO316",
-      "module_level": "Level 3",
-      "path": "BIO|BIO - Biological Sciences/BIO316.json"
-    },
-    {
-      "full_name": "Final Year Project in Biomedical Sciences",
-      "module_code": "BIO317",
-      "module_level": "Level 3",
-      "path": "BIO|BIO - Biological Sciences/BIO317.json"
-    },
-    {
-      "full_name": "Artificial Intelligence in Biomedicine",
-      "module_code": "BIO318",
-      "module_level": "Level 3",
-      "path": "BIO|BIO - Biological Sciences/BIO318.json"
     },
     {
       "full_name": "Topics of Urban Design",
@@ -3549,30 +3498,6 @@
       "module_code": "CEN423",
       "module_level": "Level 4",
       "path": "CEN|CEN - Civil Engineering/CEN423.json"
-    },
-    {
-      "full_name": "Electronic Structure Theory With Associated Numerical Methods and Computing",
-      "module_code": "CHE404",
-      "module_level": "Level 4",
-      "path": "CHE|CHE - Chemistry/CHE404.json"
-    },
-    {
-      "full_name": "Classical Molecular Simulation for Materials Science",
-      "module_code": "CHE408",
-      "module_level": "Level 4",
-      "path": "CHE|CHE - Chemistry/CHE408.json"
-    },
-    {
-      "full_name": "Advanced Applications of Computational Chemistry",
-      "module_code": "CHE409",
-      "module_level": "Level 4",
-      "path": "CHE|CHE - Chemistry/CHE409.json"
-    },
-    {
-      "full_name": "Quantum Chemical Simulation for Molecular Properties",
-      "module_code": "CHE410",
-      "module_level": "Level 4",
-      "path": "CHE|CHE - Chemistry/CHE410.json"
     },
     {
       "full_name": "Chinese Language 1",
@@ -13581,36 +13506,6 @@
       "module_code": "MTH448",
       "module_level": "Level 4",
       "path": "MTH|SMP - Mathematical Sciences/MTH448.json"
-    },
-    {
-      "full_name": "Materials for Engineering 2",
-      "module_code": "MTS301",
-      "module_level": "Level 3",
-      "path": "MTS|CHE - Material Science/MTS301.json"
-    },
-    {
-      "full_name": "Final Year Project",
-      "module_code": "MTS302",
-      "module_level": "Level 3",
-      "path": "MTS|CHE - Material Science/MTS302.json"
-    },
-    {
-      "full_name": "Energy Materials",
-      "module_code": "MTS304",
-      "module_level": "Level 3",
-      "path": "MTS|CHE - Material Science/MTS304.json"
-    },
-    {
-      "full_name": "Biomaterials",
-      "module_code": "MTS305",
-      "module_level": "Level 3",
-      "path": "MTS|CHE - Material Science/MTS305.json"
-    },
-    {
-      "full_name": "Analytical Methods for Materials",
-      "module_code": "MTS306",
-      "module_level": "Level 3",
-      "path": "MTS|CHE - Material Science/MTS306.json"
     },
     {
       "full_name": "Learning, Teaching and Assessment",
