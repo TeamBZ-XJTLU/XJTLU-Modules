@@ -1,6 +1,6 @@
 {
   "base_url": "https://modules.xjtlu.edu.cn",
-  "department_count": 66,
+  "department_count": 67,
   "error_count": 0,
   "errors": [],
   "generated_paths": [
@@ -1064,6 +1064,7 @@
     "IOM|IOM - Intelligent Operations and Marketing/IOM448.json",
     "IOM|IOM - Intelligent Operations and Marketing/IOM449.json",
     "IOM|IOM - Intelligent Operations and Marketing/IOM450.json",
+    "IOTTC|IOT -",
     "IOTTC|IOT - Internet of things",
     "IOTTC|IOT - Internet of things/IOT001TC.json",
     "IOTTC|IOT - Internet of things/IOT003TC.json",
@@ -1092,6 +1093,41 @@
     "IOTTC|IOT - Internet of things/IOT313TC.json",
     "IOTTC|IOT - Internet of things/IOT314TC.json",
     "IOTTC|IOT - Internet of things/IOT401TC.json",
+    "IOTTC|IOT - Internet of things/IOT403TC.json",
+    "IOTTC|IOT - Internet of things/IOT404TC.json",
+    "IOTTC|IOT - Internet of things/IOT406TC.json",
+    "IOTTC|IOT - Internet of things/IOT407TC.json",
+    "IOTTC|IOT -/IOT001TC.json",
+    "IOTTC|IOT -/IOT003TC.json",
+    "IOTTC|IOT -/IOT005TC.json",
+    "IOTTC|IOT -/IOT104TC.json",
+    "IOTTC|IOT -/IOT105TC.json",
+    "IOTTC|IOT -/IOT106TC.json",
+    "IOTTC|IOT -/IOT108TC.json",
+    "IOTTC|IOT -/IOT201TC.json",
+    "IOTTC|IOT -/IOT202TC.json",
+    "IOTTC|IOT -/IOT203TC.json",
+    "IOTTC|IOT -/IOT209TC.json",
+    "IOTTC|IOT -/IOT210TC.json",
+    "IOTTC|IOT -/IOT211TC.json",
+    "IOTTC|IOT -/IOT212TC.json",
+    "IOTTC|IOT -/IOT213TC.json",
+    "IOTTC|IOT -/IOT214TC.json",
+    "IOTTC|IOT -/IOT215TC.json",
+    "IOTTC|IOT -/IOT304TC.json",
+    "IOTTC|IOT -/IOT305TC.json",
+    "IOTTC|IOT -/IOT308TC.json",
+    "IOTTC|IOT -/IOT309TC.json",
+    "IOTTC|IOT -/IOT310TC.json",
+    "IOTTC|IOT -/IOT311TC.json",
+    "IOTTC|IOT -/IOT312TC.json",
+    "IOTTC|IOT -/IOT313TC.json",
+    "IOTTC|IOT -/IOT314TC.json",
+    "IOTTC|IOT -/IOT401TC.json",
+    "IOTTC|IOT -/IOT403TC.json",
+    "IOTTC|IOT -/IOT404TC.json",
+    "IOTTC|IOT -/IOT406TC.json",
+    "IOTTC|IOT -/IOT407TC.json",
     "ISA|ISA -",
     "ISA|ISA -/ISA101TC.json",
     "ISA|ISA -/ISA102TC.json",
@@ -2201,7 +2237,7 @@
     "UPD|UPD - Urban Planning and Design/UPD410.json",
     "XPU|LIFE - XIPU AI general education"
   ],
-  "module_file_count": 2130,
+  "module_file_count": 2165,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -8526,6 +8562,216 @@
       "module_code": "IOT401TC",
       "module_level": "Level 4",
       "path": "IOTTC|IOT - Internet of things/IOT401TC.json"
+    },
+    {
+      "full_name": "Advanced Sensor and Control Technologies",
+      "module_code": "IOT403TC",
+      "module_level": "Level 4",
+      "path": "IOTTC|IOT - Internet of things/IOT403TC.json"
+    },
+    {
+      "full_name": "IoT Networks Customisation and Optimisation",
+      "module_code": "IOT404TC",
+      "module_level": "Level 4",
+      "path": "IOTTC|IOT - Internet of things/IOT404TC.json"
+    },
+    {
+      "full_name": "Industrial Seminars",
+      "module_code": "IOT406TC",
+      "module_level": "Level 4",
+      "path": "IOTTC|IOT - Internet of things/IOT406TC.json"
+    },
+    {
+      "full_name": "Integrated IoT Systems Architecture and Implementation",
+      "module_code": "IOT407TC",
+      "module_level": "Level 4",
+      "path": "IOTTC|IOT - Internet of things/IOT407TC.json"
+    },
+    {
+      "full_name": "Introduction to AIoT and the Internet of Intelligence",
+      "module_code": "IOT001TC",
+      "module_level": "Level 0",
+      "path": "IOTTC|IOT -/IOT001TC.json"
+    },
+    {
+      "full_name": "Foundations of Computing with AI",
+      "module_code": "IOT003TC",
+      "module_level": "Level 0",
+      "path": "IOTTC|IOT -/IOT003TC.json"
+    },
+    {
+      "full_name": "AIoT Systems and Smart Solutions",
+      "module_code": "IOT005TC",
+      "module_level": "Level 0",
+      "path": "IOTTC|IOT -/IOT005TC.json"
+    },
+    {
+      "full_name": "Introduction to Internet of Things",
+      "module_code": "IOT104TC",
+      "module_level": "Level 1",
+      "path": "IOTTC|IOT -/IOT104TC.json"
+    },
+    {
+      "full_name": "IoT in Organizations",
+      "module_code": "IOT105TC",
+      "module_level": "Level 1",
+      "path": "IOTTC|IOT -/IOT105TC.json"
+    },
+    {
+      "full_name": "AI-Centric Technology Fundamentals and Perspectives for IoT Big Data Analytics",
+      "module_code": "IOT106TC",
+      "module_level": "Level 1",
+      "path": "IOTTC|IOT -/IOT106TC.json"
+    },
+    {
+      "full_name": "Analogue and Digital Electronic Circuits for IoT",
+      "module_code": "IOT108TC",
+      "module_level": "Level 1",
+      "path": "IOTTC|IOT -/IOT108TC.json"
+    },
+    {
+      "full_name": "Control Technology of IoT",
+      "module_code": "IOT201TC",
+      "module_level": "Level 2",
+      "path": "IOTTC|IOT -/IOT201TC.json"
+    },
+    {
+      "full_name": "Data Structure and Algorithms",
+      "module_code": "IOT202TC",
+      "module_level": "Level 2",
+      "path": "IOTTC|IOT -/IOT202TC.json"
+    },
+    {
+      "full_name": "Sensor Technology",
+      "module_code": "IOT203TC",
+      "module_level": "Level 2",
+      "path": "IOTTC|IOT -/IOT203TC.json"
+    },
+    {
+      "full_name": "Introduction to Networking",
+      "module_code": "IOT209TC",
+      "module_level": "Level 2",
+      "path": "IOTTC|IOT -/IOT209TC.json"
+    },
+    {
+      "full_name": "Computer Architecture and Operating Systems",
+      "module_code": "IOT210TC",
+      "module_level": "Level 2",
+      "path": "IOTTC|IOT -/IOT210TC.json"
+    },
+    {
+      "full_name": "Requirement Analysis and Design of Mobile Applications for IoT",
+      "module_code": "IOT211TC",
+      "module_level": "Level 2",
+      "path": "IOTTC|IOT -/IOT211TC.json"
+    },
+    {
+      "full_name": "Wireless Sensor Networks and Communication Protocols",
+      "module_code": "IOT212TC",
+      "module_level": "Level 2",
+      "path": "IOTTC|IOT -/IOT212TC.json"
+    },
+    {
+      "full_name": "RF Engineering and RFID",
+      "module_code": "IOT213TC",
+      "module_level": "Level 2",
+      "path": "IOTTC|IOT -/IOT213TC.json"
+    },
+    {
+      "full_name": "Embedded Systems",
+      "module_code": "IOT214TC",
+      "module_level": "Level 2",
+      "path": "IOTTC|IOT -/IOT214TC.json"
+    },
+    {
+      "full_name": "Machine Learning for IoT",
+      "module_code": "IOT215TC",
+      "module_level": "Level 2",
+      "path": "IOTTC|IOT -/IOT215TC.json"
+    },
+    {
+      "full_name": "Cloud Computing",
+      "module_code": "IOT304TC",
+      "module_level": "Level 3",
+      "path": "IOTTC|IOT -/IOT304TC.json"
+    },
+    {
+      "full_name": "Final Year Project",
+      "module_code": "IOT305TC",
+      "module_level": "Level 3",
+      "path": "IOTTC|IOT -/IOT305TC.json"
+    },
+    {
+      "full_name": "Programming Mobile Applications for loT",
+      "module_code": "IOT308TC",
+      "module_level": "Level 3",
+      "path": "IOTTC|IOT -/IOT308TC.json"
+    },
+    {
+      "full_name": "Information Security Technology of IoT",
+      "module_code": "IOT309TC",
+      "module_level": "Level 3",
+      "path": "IOTTC|IOT -/IOT309TC.json"
+    },
+    {
+      "full_name": "loT for Smart Cities",
+      "module_code": "IOT310TC",
+      "module_level": "Level 3",
+      "path": "IOTTC|IOT -/IOT310TC.json"
+    },
+    {
+      "full_name": "loT for Smart Health",
+      "module_code": "IOT311TC",
+      "module_level": "Level 3",
+      "path": "IOTTC|IOT -/IOT311TC.json"
+    },
+    {
+      "full_name": "loT for Smart Living",
+      "module_code": "IOT312TC",
+      "module_level": "Level 3",
+      "path": "IOTTC|IOT -/IOT312TC.json"
+    },
+    {
+      "full_name": "loT for Smart Industry",
+      "module_code": "IOT313TC",
+      "module_level": "Level 3",
+      "path": "IOTTC|IOT -/IOT313TC.json"
+    },
+    {
+      "full_name": "Signal Processing for IoT",
+      "module_code": "IOT314TC",
+      "module_level": "Level 3",
+      "path": "IOTTC|IOT -/IOT314TC.json"
+    },
+    {
+      "full_name": "IOT for Smart Cities",
+      "module_code": "IOT401TC",
+      "module_level": "Level 4",
+      "path": "IOTTC|IOT -/IOT401TC.json"
+    },
+    {
+      "full_name": "Advanced Sensor and Control Technologies",
+      "module_code": "IOT403TC",
+      "module_level": "Level 4",
+      "path": "IOTTC|IOT -/IOT403TC.json"
+    },
+    {
+      "full_name": "IoT Networks Customisation and Optimisation",
+      "module_code": "IOT404TC",
+      "module_level": "Level 4",
+      "path": "IOTTC|IOT -/IOT404TC.json"
+    },
+    {
+      "full_name": "Industrial Seminars",
+      "module_code": "IOT406TC",
+      "module_level": "Level 4",
+      "path": "IOTTC|IOT -/IOT406TC.json"
+    },
+    {
+      "full_name": "Integrated IoT Systems Architecture and Implementation",
+      "module_code": "IOT407TC",
+      "module_level": "Level 4",
+      "path": "IOTTC|IOT -/IOT407TC.json"
     },
     {
       "full_name": "Technology Fundamentals and Perspectives for AI and Big Data Industry",
