@@ -1,9 +1,10 @@
 {
   "base_url": "https://modules.xjtlu.edu.cn",
-  "department_count": 67,
+  "department_count": 77,
   "error_count": 0,
   "errors": [],
   "generated_paths": [
+    "ACC|ACC -",
     "ACC|ACC - Accounting",
     "ACC|ACC - Accounting/ACC002.json",
     "ACC|ACC - Accounting/ACC101.json",
@@ -39,6 +40,40 @@
     "ACC|ACC - Accounting/ACC418.json",
     "ACC|ACC - Accounting/ACC419.json",
     "ACC|ACC - Accounting/ACC420.json",
+    "ACC|ACC -/ACC002.json",
+    "ACC|ACC -/ACC101.json",
+    "ACC|ACC -/ACC102.json",
+    "ACC|ACC -/ACC103.json",
+    "ACC|ACC -/ACC104.json",
+    "ACC|ACC -/ACC105.json",
+    "ACC|ACC -/ACC107.json",
+    "ACC|ACC -/ACC201.json",
+    "ACC|ACC -/ACC202.json",
+    "ACC|ACC -/ACC203.json",
+    "ACC|ACC -/ACC204.json",
+    "ACC|ACC -/ACC205.json",
+    "ACC|ACC -/ACC206.json",
+    "ACC|ACC -/ACC207.json",
+    "ACC|ACC -/ACC208.json",
+    "ACC|ACC -/ACC210.json",
+    "ACC|ACC -/ACC301.json",
+    "ACC|ACC -/ACC302.json",
+    "ACC|ACC -/ACC303.json",
+    "ACC|ACC -/ACC304.json",
+    "ACC|ACC -/ACC305.json",
+    "ACC|ACC -/ACC307.json",
+    "ACC|ACC -/ACC309.json",
+    "ACC|ACC -/ACC310.json",
+    "ACC|ACC -/ACC401.json",
+    "ACC|ACC -/ACC403.json",
+    "ACC|ACC -/ACC411.json",
+    "ACC|ACC -/ACC414.json",
+    "ACC|ACC -/ACC415.json",
+    "ACC|ACC -/ACC416.json",
+    "ACC|ACC -/ACC417.json",
+    "ACC|ACC -/ACC418.json",
+    "ACC|ACC -/ACC419.json",
+    "ACC|ACC -/ACC420.json",
     "ADS|ADS -",
     "ADS|ADS -/ADS101.json",
     "ADS|ADS -/ADS102.json",
@@ -112,6 +147,7 @@
     "BNV|UPD - Built Environment/BNV401.json",
     "BUS|IBSS - International Business School",
     "BUS|IBSS - International Business School/BUS303.json",
+    "CATTC|AFCT -",
     "CATTC|AFCT - Cultural Technology",
     "CATTC|AFCT - Cultural Technology/CAT001TC.json",
     "CATTC|AFCT - Cultural Technology/CAT002TC.json",
@@ -132,6 +168,26 @@
     "CATTC|AFCT - Cultural Technology/CAT403TC.json",
     "CATTC|AFCT - Cultural Technology/CAT405TC.json",
     "CATTC|AFCT - Cultural Technology/CAT406TC.json",
+    "CATTC|AFCT -/CAT001TC.json",
+    "CATTC|AFCT -/CAT002TC.json",
+    "CATTC|AFCT -/CAT102TC.json",
+    "CATTC|AFCT -/CAT104TC.json",
+    "CATTC|AFCT -/CAT105TC.json",
+    "CATTC|AFCT -/CAT106TC.json",
+    "CATTC|AFCT -/CAT114TC.json",
+    "CATTC|AFCT -/CAT115TC.json",
+    "CATTC|AFCT -/CAT201TC.json",
+    "CATTC|AFCT -/CAT204TC.json",
+    "CATTC|AFCT -/CAT206TC.json",
+    "CATTC|AFCT -/CAT207TC.json",
+    "CATTC|AFCT -/CAT208TC.json",
+    "CATTC|AFCT -/CAT209TC.json",
+    "CATTC|AFCT -/CAT301TC.json",
+    "CATTC|AFCT -/CAT302TC.json",
+    "CATTC|AFCT -/CAT403TC.json",
+    "CATTC|AFCT -/CAT405TC.json",
+    "CATTC|AFCT -/CAT406TC.json",
+    "CCS|CCS -",
     "CCS|CCS - China Studies",
     "CCS|CCS - China Studies/CCS004.json",
     "CCS|CCS - China Studies/CCS101.json",
@@ -167,6 +223,40 @@
     "CCS|CCS - China Studies/CCS413.json",
     "CCS|CCS - China Studies/CCS414.json",
     "CCS|CCS - China Studies/CCS901.json",
+    "CCS|CCS -/CCS004.json",
+    "CCS|CCS -/CCS101.json",
+    "CCS|CCS -/CCS103.json",
+    "CCS|CCS -/CCS106.json",
+    "CCS|CCS -/CCS108.json",
+    "CCS|CCS -/CCS113.json",
+    "CCS|CCS -/CCS114.json",
+    "CCS|CCS -/CCS115.json",
+    "CCS|CCS -/CCS201.json",
+    "CCS|CCS -/CCS205.json",
+    "CCS|CCS -/CCS206.json",
+    "CCS|CCS -/CCS209.json",
+    "CCS|CCS -/CCS210.json",
+    "CCS|CCS -/CCS211.json",
+    "CCS|CCS -/CCS212.json",
+    "CCS|CCS -/CCS213.json",
+    "CCS|CCS -/CCS301.json",
+    "CCS|CCS -/CCS304.json",
+    "CCS|CCS -/CCS305.json",
+    "CCS|CCS -/CCS309.json",
+    "CCS|CCS -/CCS311.json",
+    "CCS|CCS -/CCS313.json",
+    "CCS|CCS -/CCS314.json",
+    "CCS|CCS -/CCS315.json",
+    "CCS|CCS -/CCS403.json",
+    "CCS|CCS -/CCS405.json",
+    "CCS|CCS -/CCS408.json",
+    "CCS|CCS -/CCS409.json",
+    "CCS|CCS -/CCS410.json",
+    "CCS|CCS -/CCS411.json",
+    "CCS|CCS -/CCS412.json",
+    "CCS|CCS -/CCS413.json",
+    "CCS|CCS -/CCS414.json",
+    "CCS|CCS -/CCS901.json",
     "CCT|CCTC - Chinese Culture",
     "CCT|CCTC - Chinese Culture/CCT001.json",
     "CCT|CCTC - Chinese Culture/CCT005.json",
@@ -258,6 +348,7 @@
     "CLT|MLC - Chinese Language/CLT314.json",
     "CLT|MLC - Chinese Language/CLT401.json",
     "CLT|MLC - Chinese Language/CLT402.json",
+    "COM|COM -",
     "COM|COM - Media and Communication",
     "COM|COM - Media and Communication/COM004.json",
     "COM|COM - Media and Communication/COM151.json",
@@ -309,6 +400,56 @@
     "COM|COM - Media and Communication/COM419.json",
     "COM|COM - Media and Communication/COM420.json",
     "COM|COM - Media and Communication/COM421.json",
+    "COM|COM -/COM004.json",
+    "COM|COM -/COM151.json",
+    "COM|COM -/COM152.json",
+    "COM|COM -/COM153.json",
+    "COM|COM -/COM154.json",
+    "COM|COM -/COM155.json",
+    "COM|COM -/COM156.json",
+    "COM|COM -/COM157.json",
+    "COM|COM -/COM158.json",
+    "COM|COM -/COM207.json",
+    "COM|COM -/COM217.json",
+    "COM|COM -/COM219.json",
+    "COM|COM -/COM233.json",
+    "COM|COM -/COM235.json",
+    "COM|COM -/COM241.json",
+    "COM|COM -/COM261.json",
+    "COM|COM -/COM262.json",
+    "COM|COM -/COM264.json",
+    "COM|COM -/COM265.json",
+    "COM|COM -/COM267.json",
+    "COM|COM -/COM269.json",
+    "COM|COM -/COM305.json",
+    "COM|COM -/COM306.json",
+    "COM|COM -/COM309.json",
+    "COM|COM -/COM332.json",
+    "COM|COM -/COM333.json",
+    "COM|COM -/COM334.json",
+    "COM|COM -/COM335.json",
+    "COM|COM -/COM336.json",
+    "COM|COM -/COM337.json",
+    "COM|COM -/COM338.json",
+    "COM|COM -/COM340.json",
+    "COM|COM -/COM401.json",
+    "COM|COM -/COM402.json",
+    "COM|COM -/COM403.json",
+    "COM|COM -/COM404.json",
+    "COM|COM -/COM406.json",
+    "COM|COM -/COM408.json",
+    "COM|COM -/COM410.json",
+    "COM|COM -/COM411.json",
+    "COM|COM -/COM412.json",
+    "COM|COM -/COM413.json",
+    "COM|COM -/COM414.json",
+    "COM|COM -/COM415.json",
+    "COM|COM -/COM416.json",
+    "COM|COM -/COM417.json",
+    "COM|COM -/COM418.json",
+    "COM|COM -/COM419.json",
+    "COM|COM -/COM420.json",
+    "COM|COM -/COM421.json",
     "COS|COS -",
     "COS|COS -/COS101.json",
     "COS|COS -/COS201.json",
@@ -351,6 +492,7 @@
     "CSI|CSI -/CSI404.json",
     "CSI|CSI -/CSI405.json",
     "CSI|CSI -/CSI406.json",
+    "DES|DES -",
     "DES|DES - Design",
     "DES|DES - Design/DES004.json",
     "DES|DES - Design/DES006.json",
@@ -372,6 +514,26 @@
     "DES|DES - Design/DES407.json",
     "DES|DES - Design/DES408.json",
     "DES|DES - Design/DES409.json",
+    "DES|DES -/DES004.json",
+    "DES|DES -/DES006.json",
+    "DES|DES -/DES007.json",
+    "DES|DES -/DES008.json",
+    "DES|DES -/DES102.json",
+    "DES|DES -/DES103.json",
+    "DES|DES -/DES105.json",
+    "DES|DES -/DES107.json",
+    "DES|DES -/DES201.json",
+    "DES|DES -/DES202.json",
+    "DES|DES -/DES203.json",
+    "DES|DES -/DES301.json",
+    "DES|DES -/DES302.json",
+    "DES|DES -/DES402.json",
+    "DES|DES -/DES404.json",
+    "DES|DES -/DES405.json",
+    "DES|DES -/DES406.json",
+    "DES|DES -/DES407.json",
+    "DES|DES -/DES408.json",
+    "DES|DES -/DES409.json",
     "EAP|ELC - English for Academic Purposes",
     "EAP|ELC - English for Academic Purposes/EAP039.json",
     "EAP|ELC - English for Academic Purposes/EAP041.json",
@@ -762,6 +924,7 @@
     "FIN|FIN - Finance/FIN431.json",
     "FIN|FIN - Finance/FIN432.json",
     "FIN|FIN - Finance/FIN433.json",
+    "FTA|AFCT -",
     "FTA|AFCT - Film and TV",
     "FTA|AFCT - Film and TV/FTA005.json",
     "FTA|AFCT - Film and TV/FTA008.json",
@@ -835,6 +998,78 @@
     "FTA|AFCT - Film and TV/FTA445.json",
     "FTA|AFCT - Film and TV/FTA448.json",
     "FTA|AFCT - Film and TV/FTA450.json",
+    "FTA|AFCT -/FTA005.json",
+    "FTA|AFCT -/FTA008.json",
+    "FTA|AFCT -/FTA009.json",
+    "FTA|AFCT -/FTA102.json",
+    "FTA|AFCT -/FTA108.json",
+    "FTA|AFCT -/FTA109.json",
+    "FTA|AFCT -/FTA110.json",
+    "FTA|AFCT -/FTA111.json",
+    "FTA|AFCT -/FTA112.json",
+    "FTA|AFCT -/FTA114.json",
+    "FTA|AFCT -/FTA115.json",
+    "FTA|AFCT -/FTA120.json",
+    "FTA|AFCT -/FTA121.json",
+    "FTA|AFCT -/FTA122.json",
+    "FTA|AFCT -/FTA123.json",
+    "FTA|AFCT -/FTA124.json",
+    "FTA|AFCT -/FTA129.json",
+    "FTA|AFCT -/FTA134.json",
+    "FTA|AFCT -/FTA201.json",
+    "FTA|AFCT -/FTA203.json",
+    "FTA|AFCT -/FTA205.json",
+    "FTA|AFCT -/FTA207.json",
+    "FTA|AFCT -/FTA209.json",
+    "FTA|AFCT -/FTA210.json",
+    "FTA|AFCT -/FTA211.json",
+    "FTA|AFCT -/FTA212.json",
+    "FTA|AFCT -/FTA214.json",
+    "FTA|AFCT -/FTA215.json",
+    "FTA|AFCT -/FTA216.json",
+    "FTA|AFCT -/FTA218.json",
+    "FTA|AFCT -/FTA219.json",
+    "FTA|AFCT -/FTA220.json",
+    "FTA|AFCT -/FTA222.json",
+    "FTA|AFCT -/FTA225.json",
+    "FTA|AFCT -/FTA226.json",
+    "FTA|AFCT -/FTA227.json",
+    "FTA|AFCT -/FTA228.json",
+    "FTA|AFCT -/FTA232.json",
+    "FTA|AFCT -/FTA239.json",
+    "FTA|AFCT -/FTA240.json",
+    "FTA|AFCT -/FTA241.json",
+    "FTA|AFCT -/FTA302.json",
+    "FTA|AFCT -/FTA305.json",
+    "FTA|AFCT -/FTA307.json",
+    "FTA|AFCT -/FTA308.json",
+    "FTA|AFCT -/FTA311.json",
+    "FTA|AFCT -/FTA312.json",
+    "FTA|AFCT -/FTA314.json",
+    "FTA|AFCT -/FTA315.json",
+    "FTA|AFCT -/FTA316.json",
+    "FTA|AFCT -/FTA421.json",
+    "FTA|AFCT -/FTA422.json",
+    "FTA|AFCT -/FTA423.json",
+    "FTA|AFCT -/FTA424.json",
+    "FTA|AFCT -/FTA425.json",
+    "FTA|AFCT -/FTA426.json",
+    "FTA|AFCT -/FTA427.json",
+    "FTA|AFCT -/FTA428.json",
+    "FTA|AFCT -/FTA429.json",
+    "FTA|AFCT -/FTA430.json",
+    "FTA|AFCT -/FTA431.json",
+    "FTA|AFCT -/FTA432.json",
+    "FTA|AFCT -/FTA433.json",
+    "FTA|AFCT -/FTA434.json",
+    "FTA|AFCT -/FTA435.json",
+    "FTA|AFCT -/FTA436.json",
+    "FTA|AFCT -/FTA439.json",
+    "FTA|AFCT -/FTA440.json",
+    "FTA|AFCT -/FTA441.json",
+    "FTA|AFCT -/FTA445.json",
+    "FTA|AFCT -/FTA448.json",
+    "FTA|AFCT -/FTA450.json",
     "GCL|GCLH - Global Cultures and Languages Hub",
     "GCL|GCLH - Global Cultures and Languages Hub/GCL001.json",
     "GCL|GCLH - Global Cultures and Languages Hub/GCL002.json",
@@ -858,6 +1093,7 @@
     "IET|LIFE - Industry and Enterprise Tailored Education/IET203.json",
     "IET|LIFE - Industry and Enterprise Tailored Education/IET204.json",
     "IET|LIFE - Industry and Enterprise Tailored Education/IET205.json",
+    "IFBTC|IFS -",
     "IFBTC|IFS - Intelligent Finance and Business",
     "IFBTC|IFS - Intelligent Finance and Business/IFB001TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB002TC.json",
@@ -918,6 +1154,65 @@
     "IFBTC|IFS - Intelligent Finance and Business/IFB428TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB429TC.json",
     "IFBTC|IFS - Intelligent Finance and Business/IFB431TC.json",
+    "IFBTC|IFS -/IFB001TC.json",
+    "IFBTC|IFS -/IFB002TC.json",
+    "IFBTC|IFS -/IFB003TC.json",
+    "IFBTC|IFS -/IFB101TC.json",
+    "IFBTC|IFS -/IFB102TC.json",
+    "IFBTC|IFS -/IFB103TC.json",
+    "IFBTC|IFS -/IFB104TC.json",
+    "IFBTC|IFS -/IFB106TC.json",
+    "IFBTC|IFS -/IFB107TC.json",
+    "IFBTC|IFS -/IFB111TC.json",
+    "IFBTC|IFS -/IFB113TC.json",
+    "IFBTC|IFS -/IFB115TC.json",
+    "IFBTC|IFS -/IFB116TC.json",
+    "IFBTC|IFS -/IFB201TC.json",
+    "IFBTC|IFS -/IFB202TC.json",
+    "IFBTC|IFS -/IFB204TC.json",
+    "IFBTC|IFS -/IFB208TC.json",
+    "IFBTC|IFS -/IFB209TC.json",
+    "IFBTC|IFS -/IFB210TC.json",
+    "IFBTC|IFS -/IFB214TC.json",
+    "IFBTC|IFS -/IFB215TC.json",
+    "IFBTC|IFS -/IFB217TC.json",
+    "IFBTC|IFS -/IFB218TC.json",
+    "IFBTC|IFS -/IFB219TC.json",
+    "IFBTC|IFS -/IFB220TC.json",
+    "IFBTC|IFS -/IFB301TC.json",
+    "IFBTC|IFS -/IFB304TC.json",
+    "IFBTC|IFS -/IFB308TC.json",
+    "IFBTC|IFS -/IFB315TC.json",
+    "IFBTC|IFS -/IFB317TC.json",
+    "IFBTC|IFS -/IFB318TC.json",
+    "IFBTC|IFS -/IFB319TC.json",
+    "IFBTC|IFS -/IFB320TC.json",
+    "IFBTC|IFS -/IFB401TC.json",
+    "IFBTC|IFS -/IFB402TC.json",
+    "IFBTC|IFS -/IFB404TC.json",
+    "IFBTC|IFS -/IFB405TC.json",
+    "IFBTC|IFS -/IFB406TC.json",
+    "IFBTC|IFS -/IFB407TC.json",
+    "IFBTC|IFS -/IFB409TC.json",
+    "IFBTC|IFS -/IFB410TC.json",
+    "IFBTC|IFS -/IFB411TC.json",
+    "IFBTC|IFS -/IFB412TC.json",
+    "IFBTC|IFS -/IFB414TC.json",
+    "IFBTC|IFS -/IFB415TC.json",
+    "IFBTC|IFS -/IFB416TC.json",
+    "IFBTC|IFS -/IFB417TC.json",
+    "IFBTC|IFS -/IFB418TC.json",
+    "IFBTC|IFS -/IFB419TC.json",
+    "IFBTC|IFS -/IFB421TC.json",
+    "IFBTC|IFS -/IFB422TC.json",
+    "IFBTC|IFS -/IFB423TC.json",
+    "IFBTC|IFS -/IFB424TC.json",
+    "IFBTC|IFS -/IFB425TC.json",
+    "IFBTC|IFS -/IFB426TC.json",
+    "IFBTC|IFS -/IFB427TC.json",
+    "IFBTC|IFS -/IFB428TC.json",
+    "IFBTC|IFS -/IFB429TC.json",
+    "IFBTC|IFS -/IFB431TC.json",
     "IND|IND - Industrial Design",
     "IND|IND - Industrial Design/IND101.json",
     "IND|IND - Industrial Design/IND108.json",
@@ -940,6 +1235,7 @@
     "IND|IND - Industrial Design/IND408.json",
     "INF|EEH -",
     "INF|EEH -/INF101TC.json",
+    "INS|INS -",
     "INS|INS - International Studies",
     "INS|INS - International Studies/INS006.json",
     "INS|INS - International Studies/INS101.json",
@@ -986,6 +1282,51 @@
     "INS|INS - International Studies/INS419.json",
     "INS|INS - International Studies/INS420.json",
     "INS|INS - International Studies/INS421.json",
+    "INS|INS -/INS006.json",
+    "INS|INS -/INS101.json",
+    "INS|INS -/INS102.json",
+    "INS|INS -/INS103.json",
+    "INS|INS -/INS104.json",
+    "INS|INS -/INS106.json",
+    "INS|INS -/INS108.json",
+    "INS|INS -/INS109.json",
+    "INS|INS -/INS202.json",
+    "INS|INS -/INS203.json",
+    "INS|INS -/INS204.json",
+    "INS|INS -/INS205.json",
+    "INS|INS -/INS206.json",
+    "INS|INS -/INS207.json",
+    "INS|INS -/INS208.json",
+    "INS|INS -/INS209.json",
+    "INS|INS -/INS210.json",
+    "INS|INS -/INS211.json",
+    "INS|INS -/INS302.json",
+    "INS|INS -/INS304.json",
+    "INS|INS -/INS306.json",
+    "INS|INS -/INS307.json",
+    "INS|INS -/INS308.json",
+    "INS|INS -/INS309.json",
+    "INS|INS -/INS310.json",
+    "INS|INS -/INS311.json",
+    "INS|INS -/INS401.json",
+    "INS|INS -/INS402.json",
+    "INS|INS -/INS403.json",
+    "INS|INS -/INS404.json",
+    "INS|INS -/INS406.json",
+    "INS|INS -/INS407.json",
+    "INS|INS -/INS408.json",
+    "INS|INS -/INS409.json",
+    "INS|INS -/INS410.json",
+    "INS|INS -/INS411.json",
+    "INS|INS -/INS412.json",
+    "INS|INS -/INS413.json",
+    "INS|INS -/INS414.json",
+    "INS|INS -/INS415.json",
+    "INS|INS -/INS417.json",
+    "INS|INS -/INS418.json",
+    "INS|INS -/INS419.json",
+    "INS|INS -/INS420.json",
+    "INS|INS -/INS421.json",
     "IOM|IOM - Intelligent Operations and Marketing",
     "IOM|IOM - Intelligent Operations and Marketing/IOM006.json",
     "IOM|IOM - Intelligent Operations and Marketing/IOM101.json",
@@ -1383,6 +1724,7 @@
     "LM|PHE -/LMSMO008.json",
     "LM|PHE -/LMSMO102.json",
     "LM|PHE -/LMSMO103.json",
+    "LNG|ALS -",
     "LNG|ALS - Applied Linguistics",
     "LNG|ALS - Applied Linguistics/LNG001.json",
     "LNG|ALS - Applied Linguistics/LNG101.json",
@@ -1436,6 +1778,58 @@
     "LNG|ALS - Applied Linguistics/LNG418.json",
     "LNG|ALS - Applied Linguistics/LNG419.json",
     "LNG|ALS - Applied Linguistics/LNG423.json",
+    "LNG|ALS -/LNG001.json",
+    "LNG|ALS -/LNG101.json",
+    "LNG|ALS -/LNG103.json",
+    "LNG|ALS -/LNG104.json",
+    "LNG|ALS -/LNG105.json",
+    "LNG|ALS -/LNG106.json",
+    "LNG|ALS -/LNG107.json",
+    "LNG|ALS -/LNG108.json",
+    "LNG|ALS -/LNG201.json",
+    "LNG|ALS -/LNG202.json",
+    "LNG|ALS -/LNG204.json",
+    "LNG|ALS -/LNG206.json",
+    "LNG|ALS -/LNG207.json",
+    "LNG|ALS -/LNG208.json",
+    "LNG|ALS -/LNG209.json",
+    "LNG|ALS -/LNG210.json",
+    "LNG|ALS -/LNG213.json",
+    "LNG|ALS -/LNG214.json",
+    "LNG|ALS -/LNG216.json",
+    "LNG|ALS -/LNG301.json",
+    "LNG|ALS -/LNG302.json",
+    "LNG|ALS -/LNG303.json",
+    "LNG|ALS -/LNG304.json",
+    "LNG|ALS -/LNG305.json",
+    "LNG|ALS -/LNG306.json",
+    "LNG|ALS -/LNG307.json",
+    "LNG|ALS -/LNG308.json",
+    "LNG|ALS -/LNG309.json",
+    "LNG|ALS -/LNG310.json",
+    "LNG|ALS -/LNG311.json",
+    "LNG|ALS -/LNG312.json",
+    "LNG|ALS -/LNG313.json",
+    "LNG|ALS -/LNG314.json",
+    "LNG|ALS -/LNG401.json",
+    "LNG|ALS -/LNG402.json",
+    "LNG|ALS -/LNG403.json",
+    "LNG|ALS -/LNG404.json",
+    "LNG|ALS -/LNG405.json",
+    "LNG|ALS -/LNG406.json",
+    "LNG|ALS -/LNG407.json",
+    "LNG|ALS -/LNG408.json",
+    "LNG|ALS -/LNG409.json",
+    "LNG|ALS -/LNG410.json",
+    "LNG|ALS -/LNG411.json",
+    "LNG|ALS -/LNG412.json",
+    "LNG|ALS -/LNG413.json",
+    "LNG|ALS -/LNG414.json",
+    "LNG|ALS -/LNG415.json",
+    "LNG|ALS -/LNG417.json",
+    "LNG|ALS -/LNG418.json",
+    "LNG|ALS -/LNG419.json",
+    "LNG|ALS -/LNG423.json",
     "MEC|MEC - Mechatronic Systems",
     "MEC|MEC - Mechatronic Systems/MEC103.json",
     "MEC|MEC - Mechatronic Systems/MEC106.json",
@@ -1486,40 +1880,6 @@
     "MESTC|CHP - Microelectronic Science and Engineering/MES407TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES408TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES409TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering",
-    "MESTC|IME - Microelectronic Science and Engineering/MES001TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES003TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES102TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES103TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES104TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES105TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES106TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES201TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES202TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES204TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES205TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES207TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES208TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES209TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES210TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES211TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES301TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES302TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES303TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES304TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES305TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES306TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES307TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES311TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES401TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES402TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES403TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES404TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES405TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES406TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES407TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES408TC.json",
-    "MESTC|IME - Microelectronic Science and Engineering/MES409TC.json",
     "MFETC|IME - Manufacturing Engineering",
     "MFETC|IME - Manufacturing Engineering/MFE001TC.json",
     "MFETC|IME - Manufacturing Engineering/MFE002TC.json",
@@ -1563,6 +1923,7 @@
     "MFETC|IME - Manufacturing Engineering/MFE421TC.json",
     "MFETC|IME - Manufacturing Engineering/MFE422TC.json",
     "MFETC|IME - Manufacturing Engineering/MFE423TC.json",
+    "MTH|APM -",
     "MTH|APM - Mathematical Sciences",
     "MTH|APM - Mathematical Sciences/MTH012.json",
     "MTH|APM - Mathematical Sciences/MTH015.json",
@@ -1667,6 +2028,109 @@
     "MTH|APM - Mathematical Sciences/MTH446.json",
     "MTH|APM - Mathematical Sciences/MTH447.json",
     "MTH|APM - Mathematical Sciences/MTH448.json",
+    "MTH|APM -/MTH012.json",
+    "MTH|APM -/MTH015.json",
+    "MTH|APM -/MTH020.json",
+    "MTH|APM -/MTH024.json",
+    "MTH|APM -/MTH026.json",
+    "MTH|APM -/MTH028.json",
+    "MTH|APM -/MTH030.json",
+    "MTH|APM -/MTH031.json",
+    "MTH|APM -/MTH032.json",
+    "MTH|APM -/MTH033.json",
+    "MTH|APM -/MTH066.json",
+    "MTH|APM -/MTH101.json",
+    "MTH|APM -/MTH102.json",
+    "MTH|APM -/MTH104.json",
+    "MTH|APM -/MTH106.json",
+    "MTH|APM -/MTH107.json",
+    "MTH|APM -/MTH108.json",
+    "MTH|APM -/MTH113.json",
+    "MTH|APM -/MTH116.json",
+    "MTH|APM -/MTH117.json",
+    "MTH|APM -/MTH118.json",
+    "MTH|APM -/MTH120.json",
+    "MTH|APM -/MTH122.json",
+    "MTH|APM -/MTH123.json",
+    "MTH|APM -/MTH125.json",
+    "MTH|APM -/MTH126.json",
+    "MTH|APM -/MTH127.json",
+    "MTH|APM -/MTH128.json",
+    "MTH|APM -/MTH129.json",
+    "MTH|APM -/MTH201.json",
+    "MTH|APM -/MTH202.json",
+    "MTH|APM -/MTH203.json",
+    "MTH|APM -/MTH205.json",
+    "MTH|APM -/MTH206.json",
+    "MTH|APM -/MTH207.json",
+    "MTH|APM -/MTH208.json",
+    "MTH|APM -/MTH209.json",
+    "MTH|APM -/MTH210.json",
+    "MTH|APM -/MTH212.json",
+    "MTH|APM -/MTH214.json",
+    "MTH|APM -/MTH217.json",
+    "MTH|APM -/MTH219.json",
+    "MTH|APM -/MTH222.json",
+    "MTH|APM -/MTH224.json",
+    "MTH|APM -/MTH227.json",
+    "MTH|APM -/MTH229.json",
+    "MTH|APM -/MTH230.json",
+    "MTH|APM -/MTH232.json",
+    "MTH|APM -/MTH233.json",
+    "MTH|APM -/MTH234.json",
+    "MTH|APM -/MTH236.json",
+    "MTH|APM -/MTH237.json",
+    "MTH|APM -/MTH238.json",
+    "MTH|APM -/MTH239.json",
+    "MTH|APM -/MTH301.json",
+    "MTH|APM -/MTH302.json",
+    "MTH|APM -/MTH303.json",
+    "MTH|APM -/MTH305.json",
+    "MTH|APM -/MTH307.json",
+    "MTH|APM -/MTH308.json",
+    "MTH|APM -/MTH310.json",
+    "MTH|APM -/MTH312.json",
+    "MTH|APM -/MTH313.json",
+    "MTH|APM -/MTH315.json",
+    "MTH|APM -/MTH316.json",
+    "MTH|APM -/MTH318.json",
+    "MTH|APM -/MTH319.json",
+    "MTH|APM -/MTH321.json",
+    "MTH|APM -/MTH322.json",
+    "MTH|APM -/MTH323.json",
+    "MTH|APM -/MTH324.json",
+    "MTH|APM -/MTH325.json",
+    "MTH|APM -/MTH401.json",
+    "MTH|APM -/MTH402.json",
+    "MTH|APM -/MTH403.json",
+    "MTH|APM -/MTH404.json",
+    "MTH|APM -/MTH405.json",
+    "MTH|APM -/MTH406.json",
+    "MTH|APM -/MTH408.json",
+    "MTH|APM -/MTH409.json",
+    "MTH|APM -/MTH411.json",
+    "MTH|APM -/MTH412.json",
+    "MTH|APM -/MTH413.json",
+    "MTH|APM -/MTH414.json",
+    "MTH|APM -/MTH415.json",
+    "MTH|APM -/MTH416.json",
+    "MTH|APM -/MTH417.json",
+    "MTH|APM -/MTH418.json",
+    "MTH|APM -/MTH419.json",
+    "MTH|APM -/MTH420.json",
+    "MTH|APM -/MTH432.json",
+    "MTH|APM -/MTH433.json",
+    "MTH|APM -/MTH434.json",
+    "MTH|APM -/MTH435.json",
+    "MTH|APM -/MTH436.json",
+    "MTH|APM -/MTH438.json",
+    "MTH|APM -/MTH439.json",
+    "MTH|APM -/MTH443.json",
+    "MTH|APM -/MTH444.json",
+    "MTH|APM -/MTH445.json",
+    "MTH|APM -/MTH446.json",
+    "MTH|APM -/MTH447.json",
+    "MTH|APM -/MTH448.json",
     "MTH|FAM - Mathematical Sciences",
     "MTH|FAM - Mathematical Sciences/MTH012.json",
     "MTH|FAM - Mathematical Sciences/MTH015.json",
@@ -2181,6 +2645,7 @@
     "SPA|MLC - Spanish/SPA013.json",
     "SPA|MLC - Spanish/SPA014.json",
     "SPA|MLC - Spanish/SPA015.json",
+    "TRI|ALS -",
     "TRI|ALS - Translation and Interpreting",
     "TRI|ALS - Translation and Interpreting/TRI002.json",
     "TRI|ALS - Translation and Interpreting/TRI101.json",
@@ -2209,6 +2674,33 @@
     "TRI|ALS - Translation and Interpreting/TRI308.json",
     "TRI|ALS - Translation and Interpreting/TRI309.json",
     "TRI|ALS - Translation and Interpreting/TRI310.json",
+    "TRI|ALS -/TRI002.json",
+    "TRI|ALS -/TRI101.json",
+    "TRI|ALS -/TRI102.json",
+    "TRI|ALS -/TRI104.json",
+    "TRI|ALS -/TRI106.json",
+    "TRI|ALS -/TRI108.json",
+    "TRI|ALS -/TRI201.json",
+    "TRI|ALS -/TRI202.json",
+    "TRI|ALS -/TRI203.json",
+    "TRI|ALS -/TRI205.json",
+    "TRI|ALS -/TRI206.json",
+    "TRI|ALS -/TRI207.json",
+    "TRI|ALS -/TRI208.json",
+    "TRI|ALS -/TRI209.json",
+    "TRI|ALS -/TRI210.json",
+    "TRI|ALS -/TRI211.json",
+    "TRI|ALS -/TRI212.json",
+    "TRI|ALS -/TRI301.json",
+    "TRI|ALS -/TRI302.json",
+    "TRI|ALS -/TRI303.json",
+    "TRI|ALS -/TRI304.json",
+    "TRI|ALS -/TRI305.json",
+    "TRI|ALS -/TRI306.json",
+    "TRI|ALS -/TRI307.json",
+    "TRI|ALS -/TRI308.json",
+    "TRI|ALS -/TRI309.json",
+    "TRI|ALS -/TRI310.json",
     "UPD|UPD - Urban Planning and Design",
     "UPD|UPD - Urban Planning and Design/UPD004.json",
     "UPD|UPD - Urban Planning and Design/UPD005.json",
@@ -2237,7 +2729,7 @@
     "UPD|UPD - Urban Planning and Design/UPD410.json",
     "XPU|LIFE - XIPU AI general education"
   ],
-  "module_file_count": 2165,
+  "module_file_count": 2647,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -2442,6 +2934,210 @@
       "module_code": "ACC420",
       "module_level": "Level 4",
       "path": "ACC|ACC - Accounting/ACC420.json"
+    },
+    {
+      "full_name": "Trends in Contemporary Accounting",
+      "module_code": "ACC002",
+      "module_level": "Level 0",
+      "path": "ACC|ACC -/ACC002.json"
+    },
+    {
+      "full_name": "Skills for the Professional Accountants",
+      "module_code": "ACC101",
+      "module_level": "Level 1",
+      "path": "ACC|ACC -/ACC101.json"
+    },
+    {
+      "full_name": "Artificial Intelligence-Driven Data Analytics",
+      "module_code": "ACC102",
+      "module_level": "Level 1",
+      "path": "ACC|ACC -/ACC102.json"
+    },
+    {
+      "full_name": "Introduction to Financial Accounting",
+      "module_code": "ACC103",
+      "module_level": "Level 1",
+      "path": "ACC|ACC -/ACC103.json"
+    },
+    {
+      "full_name": "Introduction to Managerial Accounting",
+      "module_code": "ACC104",
+      "module_level": "Level 1",
+      "path": "ACC|ACC -/ACC104.json"
+    },
+    {
+      "full_name": "Introduction to Financial Accounting and Accountability",
+      "module_code": "ACC105",
+      "module_level": "Level 1",
+      "path": "ACC|ACC -/ACC105.json"
+    },
+    {
+      "full_name": "Foundations of Financial Accounting",
+      "module_code": "ACC107",
+      "module_level": "Level 1",
+      "path": "ACC|ACC -/ACC107.json"
+    },
+    {
+      "full_name": "Business Law",
+      "module_code": "ACC201",
+      "module_level": "Level 2",
+      "path": "ACC|ACC -/ACC201.json"
+    },
+    {
+      "full_name": "Accounting Theory",
+      "module_code": "ACC202",
+      "module_level": "Level 2",
+      "path": "ACC|ACC -/ACC202.json"
+    },
+    {
+      "full_name": "Financial Reporting I",
+      "module_code": "ACC203",
+      "module_level": "Level 2",
+      "path": "ACC|ACC -/ACC203.json"
+    },
+    {
+      "full_name": "Audit and Assurance",
+      "module_code": "ACC204",
+      "module_level": "Level 2",
+      "path": "ACC|ACC -/ACC204.json"
+    },
+    {
+      "full_name": "Management Accounting",
+      "module_code": "ACC205",
+      "module_level": "Level 2",
+      "path": "ACC|ACC -/ACC205.json"
+    },
+    {
+      "full_name": "Tax Compliance",
+      "module_code": "ACC206",
+      "module_level": "Level 2",
+      "path": "ACC|ACC -/ACC206.json"
+    },
+    {
+      "full_name": "Econometrics in Accounting and Finance",
+      "module_code": "ACC207",
+      "module_level": "Level 2",
+      "path": "ACC|ACC -/ACC207.json"
+    },
+    {
+      "full_name": "Financial Management for Accounting",
+      "module_code": "ACC208",
+      "module_level": "Level 2",
+      "path": "ACC|ACC -/ACC208.json"
+    },
+    {
+      "full_name": "Advanced Information Systems and Decision-Making in Accounting",
+      "module_code": "ACC210",
+      "module_level": "Level 2",
+      "path": "ACC|ACC -/ACC210.json"
+    },
+    {
+      "full_name": "Advanced Management Accounting",
+      "module_code": "ACC301",
+      "module_level": "Level 3",
+      "path": "ACC|ACC -/ACC301.json"
+    },
+    {
+      "full_name": "Corporate Reporting, Analysis",
+      "module_code": "ACC302",
+      "module_level": "Level 3",
+      "path": "ACC|ACC -/ACC302.json"
+    },
+    {
+      "full_name": "Financial Reporting II",
+      "module_code": "ACC303",
+      "module_level": "Level 3",
+      "path": "ACC|ACC -/ACC303.json"
+    },
+    {
+      "full_name": "Accounting Final Year Project",
+      "module_code": "ACC304",
+      "module_level": "Level 3",
+      "path": "ACC|ACC -/ACC304.json"
+    },
+    {
+      "full_name": "Advanced Auditing",
+      "module_code": "ACC305",
+      "module_level": "Level 3",
+      "path": "ACC|ACC -/ACC305.json"
+    },
+    {
+      "full_name": "Advanced Taxation",
+      "module_code": "ACC307",
+      "module_level": "Level 3",
+      "path": "ACC|ACC -/ACC307.json"
+    },
+    {
+      "full_name": "Accounting Analytics",
+      "module_code": "ACC309",
+      "module_level": "Level 3",
+      "path": "ACC|ACC -/ACC309.json"
+    },
+    {
+      "full_name": "Accounting Fraud Detection and Analytics",
+      "module_code": "ACC310",
+      "module_level": "Level 3",
+      "path": "ACC|ACC -/ACC310.json"
+    },
+    {
+      "full_name": "Accounting for Managers",
+      "module_code": "ACC401",
+      "module_level": "Level 4",
+      "path": "ACC|ACC -/ACC401.json"
+    },
+    {
+      "full_name": "Accounting and Financial Management",
+      "module_code": "ACC403",
+      "module_level": "Level 4",
+      "path": "ACC|ACC -/ACC403.json"
+    },
+    {
+      "full_name": "Integrated Case Study",
+      "module_code": "ACC411",
+      "module_level": "Level 4",
+      "path": "ACC|ACC -/ACC411.json"
+    },
+    {
+      "full_name": "Business Analytics and Simulation",
+      "module_code": "ACC414",
+      "module_level": "Level 4",
+      "path": "ACC|ACC -/ACC414.json"
+    },
+    {
+      "full_name": "Practical Machine Learning and Text Mining with Python and AI",
+      "module_code": "ACC415",
+      "module_level": "Level 4",
+      "path": "ACC|ACC -/ACC415.json"
+    },
+    {
+      "full_name": "Fundamental Case Study",
+      "module_code": "ACC416",
+      "module_level": "Level 4",
+      "path": "ACC|ACC -/ACC416.json"
+    },
+    {
+      "full_name": "Assurance, Risk and Reporting",
+      "module_code": "ACC417",
+      "module_level": "Level 4",
+      "path": "ACC|ACC -/ACC417.json"
+    },
+    {
+      "full_name": "Tax Compliance and Planning",
+      "module_code": "ACC418",
+      "module_level": "Level 4",
+      "path": "ACC|ACC -/ACC418.json"
+    },
+    {
+      "full_name": "Business and Digital Strategy",
+      "module_code": "ACC419",
+      "module_level": "Level 4",
+      "path": "ACC|ACC -/ACC419.json"
+    },
+    {
+      "full_name": "Corporate Reporting, Data and Assurance",
+      "module_code": "ACC420",
+      "module_level": "Level 4",
+      "path": "ACC|ACC -/ACC420.json"
     },
     {
       "full_name": "Data Structures",
@@ -2966,6 +3662,120 @@
       "path": "CATTC|AFCT - Cultural Technology/CAT406TC.json"
     },
     {
+      "full_name": "Exploring Game Design Concept Generation",
+      "module_code": "CAT001TC",
+      "module_level": "Level 0",
+      "path": "CATTC|AFCT -/CAT001TC.json"
+    },
+    {
+      "full_name": "Essentials of Arts Culture and Technology",
+      "module_code": "CAT002TC",
+      "module_level": "Level 0",
+      "path": "CATTC|AFCT -/CAT002TC.json"
+    },
+    {
+      "full_name": "Form, Innovation and Culture",
+      "module_code": "CAT102TC",
+      "module_level": "Level 1",
+      "path": "CATTC|AFCT -/CAT102TC.json"
+    },
+    {
+      "full_name": "Introduction to Interactive Systems",
+      "module_code": "CAT104TC",
+      "module_level": "Level 1",
+      "path": "CATTC|AFCT -/CAT104TC.json"
+    },
+    {
+      "full_name": "Introduction to Real-Time Engine",
+      "module_code": "CAT105TC",
+      "module_level": "Level 1",
+      "path": "CATTC|AFCT -/CAT105TC.json"
+    },
+    {
+      "full_name": "Principles of Game Design",
+      "module_code": "CAT106TC",
+      "module_level": "Level 1",
+      "path": "CATTC|AFCT -/CAT106TC.json"
+    },
+    {
+      "full_name": "AI-centric and Computational Storytelling",
+      "module_code": "CAT114TC",
+      "module_level": "Level 1",
+      "path": "CATTC|AFCT -/CAT114TC.json"
+    },
+    {
+      "full_name": "Introduction to Game and Interactive Audio",
+      "module_code": "CAT115TC",
+      "module_level": "Level 1",
+      "path": "CATTC|AFCT -/CAT115TC.json"
+    },
+    {
+      "full_name": "Form, Innovation and Audience",
+      "module_code": "CAT201TC",
+      "module_level": "Level 2",
+      "path": "CATTC|AFCT -/CAT201TC.json"
+    },
+    {
+      "full_name": "Advanced Game Development",
+      "module_code": "CAT204TC",
+      "module_level": "Level 2",
+      "path": "CATTC|AFCT -/CAT204TC.json"
+    },
+    {
+      "full_name": "Advanced Interactive Systems: Spatial Media",
+      "module_code": "CAT206TC",
+      "module_level": "Level 2",
+      "path": "CATTC|AFCT -/CAT206TC.json"
+    },
+    {
+      "full_name": "Immersion and Virtual Worlds",
+      "module_code": "CAT207TC",
+      "module_level": "Level 2",
+      "path": "CATTC|AFCT -/CAT207TC.json"
+    },
+    {
+      "full_name": "Advanced Game Audio and Immersive Soundscape",
+      "module_code": "CAT208TC",
+      "module_level": "Level 2",
+      "path": "CATTC|AFCT -/CAT208TC.json"
+    },
+    {
+      "full_name": "Image Design and World Building",
+      "module_code": "CAT209TC",
+      "module_level": "Level 2",
+      "path": "CATTC|AFCT -/CAT209TC.json"
+    },
+    {
+      "full_name": "Industrial Project Design and Realisation",
+      "module_code": "CAT301TC",
+      "module_level": "Level 3",
+      "path": "CATTC|AFCT -/CAT301TC.json"
+    },
+    {
+      "full_name": "Final Year Project",
+      "module_code": "CAT302TC",
+      "module_level": "Level 3",
+      "path": "CATTC|AFCT -/CAT302TC.json"
+    },
+    {
+      "full_name": "Interactive Technology",
+      "module_code": "CAT403TC",
+      "module_level": "Level 4",
+      "path": "CATTC|AFCT -/CAT403TC.json"
+    },
+    {
+      "full_name": "Game Industries and Culture",
+      "module_code": "CAT405TC",
+      "module_level": "Level 4",
+      "path": "CATTC|AFCT -/CAT405TC.json"
+    },
+    {
+      "full_name": "Dissemination Project",
+      "module_code": "CAT406TC",
+      "module_level": "Level 4",
+      "path": "CATTC|AFCT -/CAT406TC.json"
+    },
+    {
       "full_name": "Introduction to China Studies",
       "module_code": "CCS004",
       "module_level": "Level 0",
@@ -3168,6 +3978,210 @@
       "module_code": "CCS901",
       "module_level": "Level 1",
       "path": "CCS|CCS - China Studies/CCS901.json"
+    },
+    {
+      "full_name": "Introduction to China Studies",
+      "module_code": "CCS004",
+      "module_level": "Level 0",
+      "path": "CCS|CCS -/CCS004.json"
+    },
+    {
+      "full_name": "Chinese Civilization: Thinkers and Ideas",
+      "module_code": "CCS101",
+      "module_level": "Level 1",
+      "path": "CCS|CCS -/CCS101.json"
+    },
+    {
+      "full_name": "China’s History: from prehistory to the Qing",
+      "module_code": "CCS103",
+      "module_level": "Level 1",
+      "path": "CCS|CCS -/CCS103.json"
+    },
+    {
+      "full_name": "Introduction to Chinese Literature",
+      "module_code": "CCS106",
+      "module_level": "Level 1",
+      "path": "CCS|CCS -/CCS106.json"
+    },
+    {
+      "full_name": "Governing Business in Contemporary China",
+      "module_code": "CCS108",
+      "module_level": "Level 1",
+      "path": "CCS|CCS -/CCS108.json"
+    },
+    {
+      "full_name": "China: Family and society",
+      "module_code": "CCS113",
+      "module_level": "Level 1",
+      "path": "CCS|CCS -/CCS113.json"
+    },
+    {
+      "full_name": "From Silk Road to Belt and Road: History, Culture, and Trade",
+      "module_code": "CCS114",
+      "module_level": "Level 1",
+      "path": "CCS|CCS -/CCS114.json"
+    },
+    {
+      "full_name": "Sociological Theories: A Chinese Odyssey",
+      "module_code": "CCS115",
+      "module_level": "Level 1",
+      "path": "CCS|CCS -/CCS115.json"
+    },
+    {
+      "full_name": "International China",
+      "module_code": "CCS201",
+      "module_level": "Level 2",
+      "path": "CCS|CCS -/CCS201.json"
+    },
+    {
+      "full_name": "Professional Skills for China Studies",
+      "module_code": "CCS205",
+      "module_level": "Level 2",
+      "path": "CCS|CCS -/CCS205.json"
+    },
+    {
+      "full_name": "Contemporary Chinese Literature and Theatre",
+      "module_code": "CCS206",
+      "module_level": "Level 2",
+      "path": "CCS|CCS -/CCS206.json"
+    },
+    {
+      "full_name": "China: culture, language and communication",
+      "module_code": "CCS209",
+      "module_level": "Level 2",
+      "path": "CCS|CCS -/CCS209.json"
+    },
+    {
+      "full_name": "Research Methods for China Studies",
+      "module_code": "CCS210",
+      "module_level": "Level 2",
+      "path": "CCS|CCS -/CCS210.json"
+    },
+    {
+      "full_name": "China: Consumption and everyday life",
+      "module_code": "CCS211",
+      "module_level": "Level 2",
+      "path": "CCS|CCS -/CCS211.json"
+    },
+    {
+      "full_name": "China's Science, Technology, and Development",
+      "module_code": "CCS212",
+      "module_level": "Level 2",
+      "path": "CCS|CCS -/CCS212.json"
+    },
+    {
+      "full_name": "Twentieth Century China",
+      "module_code": "CCS213",
+      "module_level": "Level 2",
+      "path": "CCS|CCS -/CCS213.json"
+    },
+    {
+      "full_name": "Local Government in China",
+      "module_code": "CCS301",
+      "module_level": "Level 3",
+      "path": "CCS|CCS -/CCS301.json"
+    },
+    {
+      "full_name": "China: Understanding Gender",
+      "module_code": "CCS304",
+      "module_level": "Level 3",
+      "path": "CCS|CCS -/CCS304.json"
+    },
+    {
+      "full_name": "China Studies: Final Year Project",
+      "module_code": "CCS305",
+      "module_level": "Level 3",
+      "path": "CCS|CCS -/CCS305.json"
+    },
+    {
+      "full_name": "China: International Trade",
+      "module_code": "CCS309",
+      "module_level": "Level 3",
+      "path": "CCS|CCS -/CCS309.json"
+    },
+    {
+      "full_name": "China: Cultural Heritage Studies",
+      "module_code": "CCS311",
+      "module_level": "Level 3",
+      "path": "CCS|CCS -/CCS311.json"
+    },
+    {
+      "full_name": "Paths to Wisdom: Chinese Philosophy and its Contemporary Significance",
+      "module_code": "CCS313",
+      "module_level": "Level 3",
+      "path": "CCS|CCS -/CCS313.json"
+    },
+    {
+      "full_name": "Suzhou: Past and Present",
+      "module_code": "CCS314",
+      "module_level": "Level 3",
+      "path": "CCS|CCS -/CCS314.json"
+    },
+    {
+      "full_name": "China’s Art History: Approaches to Visual and Material Culture",
+      "module_code": "CCS315",
+      "module_level": "Level 3",
+      "path": "CCS|CCS -/CCS315.json"
+    },
+    {
+      "full_name": "China’s Social Governance",
+      "module_code": "CCS403",
+      "module_level": "Level 4",
+      "path": "CCS|CCS -/CCS403.json"
+    },
+    {
+      "full_name": "Chinese Governance and Society: Transition, Development, and Social Change",
+      "module_code": "CCS405",
+      "module_level": "Level 4",
+      "path": "CCS|CCS -/CCS405.json"
+    },
+    {
+      "full_name": "Urban Economies of China: Cities and Regions",
+      "module_code": "CCS408",
+      "module_level": "Level 4",
+      "path": "CCS|CCS -/CCS408.json"
+    },
+    {
+      "full_name": "Capstone: Governance and Development of China",
+      "module_code": "CCS409",
+      "module_level": "Level 4",
+      "path": "CCS|CCS -/CCS409.json"
+    },
+    {
+      "full_name": "Doing Fieldwork in China",
+      "module_code": "CCS410",
+      "module_level": "Level 4",
+      "path": "CCS|CCS -/CCS410.json"
+    },
+    {
+      "full_name": "Developing Social Infrastructures of Consumption in China",
+      "module_code": "CCS411",
+      "module_level": "Level 4",
+      "path": "CCS|CCS -/CCS411.json"
+    },
+    {
+      "full_name": "China's Public Management and Economic Development",
+      "module_code": "CCS412",
+      "module_level": "Level 4",
+      "path": "CCS|CCS -/CCS412.json"
+    },
+    {
+      "full_name": "Made in China: Industrial Policy and Innovation",
+      "module_code": "CCS413",
+      "module_level": "Level 4",
+      "path": "CCS|CCS -/CCS413.json"
+    },
+    {
+      "full_name": "China in Global Governance",
+      "module_code": "CCS414",
+      "module_level": "Level 4",
+      "path": "CCS|CCS -/CCS414.json"
+    },
+    {
+      "full_name": "Understanding China",
+      "module_code": "CCS901",
+      "module_level": "Level 1",
+      "path": "CCS|CCS -/CCS901.json"
     },
     {
       "full_name": "The Basic Principles of Marxism",
@@ -3998,6 +5012,306 @@
       "path": "COM|COM - Media and Communication/COM421.json"
     },
     {
+      "full_name": "Digital Media and Communication",
+      "module_code": "COM004",
+      "module_level": "Level 0",
+      "path": "COM|COM -/COM004.json"
+    },
+    {
+      "full_name": "Global Media Industries",
+      "module_code": "COM151",
+      "module_level": "Level 1",
+      "path": "COM|COM -/COM151.json"
+    },
+    {
+      "full_name": "Representation, Diversity and Identity",
+      "module_code": "COM152",
+      "module_level": "Level 1",
+      "path": "COM|COM -/COM152.json"
+    },
+    {
+      "full_name": "Audiences and Media Users",
+      "module_code": "COM153",
+      "module_level": "Level 1",
+      "path": "COM|COM -/COM153.json"
+    },
+    {
+      "full_name": "Introduction to Video Production",
+      "module_code": "COM154",
+      "module_level": "Level 1",
+      "path": "COM|COM -/COM154.json"
+    },
+    {
+      "full_name": "Rhetoric and Media Analysis",
+      "module_code": "COM155",
+      "module_level": "Level 1",
+      "path": "COM|COM -/COM155.json"
+    },
+    {
+      "full_name": "Foundations in Film Studies",
+      "module_code": "COM156",
+      "module_level": "Level 1",
+      "path": "COM|COM -/COM156.json"
+    },
+    {
+      "full_name": "Introduction to Journalism Studies",
+      "module_code": "COM157",
+      "module_level": "Level 1",
+      "path": "COM|COM -/COM157.json"
+    },
+    {
+      "full_name": "Introduction to Digital Media and Communication",
+      "module_code": "COM158",
+      "module_level": "Level 1",
+      "path": "COM|COM -/COM158.json"
+    },
+    {
+      "full_name": "Chinese Cinema",
+      "module_code": "COM207",
+      "module_level": "Level 2",
+      "path": "COM|COM -/COM207.json"
+    },
+    {
+      "full_name": "Health Communication",
+      "module_code": "COM217",
+      "module_level": "Level 2",
+      "path": "COM|COM -/COM217.json"
+    },
+    {
+      "full_name": "Media, War, and Conflict",
+      "module_code": "COM219",
+      "module_level": "Level 2",
+      "path": "COM|COM -/COM219.json"
+    },
+    {
+      "full_name": "Music Studies in the Digital Age",
+      "module_code": "COM233",
+      "module_level": "Level 2",
+      "path": "COM|COM -/COM233.json"
+    },
+    {
+      "full_name": "Media and Mind",
+      "module_code": "COM235",
+      "module_level": "Level 2",
+      "path": "COM|COM -/COM235.json"
+    },
+    {
+      "full_name": "Public Relations in Practice",
+      "module_code": "COM241",
+      "module_level": "Level 2",
+      "path": "COM|COM -/COM241.json"
+    },
+    {
+      "full_name": "Qualitative Research Methods",
+      "module_code": "COM261",
+      "module_level": "Level 2",
+      "path": "COM|COM -/COM261.json"
+    },
+    {
+      "full_name": "Multimedia Journalism",
+      "module_code": "COM262",
+      "module_level": "Level 2",
+      "path": "COM|COM -/COM262.json"
+    },
+    {
+      "full_name": "Digital Media Law and Ethics",
+      "module_code": "COM264",
+      "module_level": "Level 2",
+      "path": "COM|COM -/COM264.json"
+    },
+    {
+      "full_name": "Quantitative Research Methods",
+      "module_code": "COM265",
+      "module_level": "Level 2",
+      "path": "COM|COM -/COM265.json"
+    },
+    {
+      "full_name": "Hollywood Cinema",
+      "module_code": "COM267",
+      "module_level": "Level 2",
+      "path": "COM|COM -/COM267.json"
+    },
+    {
+      "full_name": "Photojournalism",
+      "module_code": "COM269",
+      "module_level": "Level 2",
+      "path": "COM|COM -/COM269.json"
+    },
+    {
+      "full_name": "Final Year Project: Communication Studies",
+      "module_code": "COM305",
+      "module_level": "Level 3",
+      "path": "COM|COM -/COM305.json"
+    },
+    {
+      "full_name": "Social Data Science",
+      "module_code": "COM306",
+      "module_level": "Level 3",
+      "path": "COM|COM -/COM306.json"
+    },
+    {
+      "full_name": "European Cinema",
+      "module_code": "COM309",
+      "module_level": "Level 3",
+      "path": "COM|COM -/COM309.json"
+    },
+    {
+      "full_name": "Chinese Cinema",
+      "module_code": "COM332",
+      "module_level": "Level 3",
+      "path": "COM|COM -/COM332.json"
+    },
+    {
+      "full_name": "Artificial Intelligence and Big Data in Society",
+      "module_code": "COM333",
+      "module_level": "Level 3",
+      "path": "COM|COM -/COM333.json"
+    },
+    {
+      "full_name": "Cultural and Creative Industries in a Digital Economy",
+      "module_code": "COM334",
+      "module_level": "Level 3",
+      "path": "COM|COM -/COM334.json"
+    },
+    {
+      "full_name": "True Stories Told",
+      "module_code": "COM335",
+      "module_level": "Level 3",
+      "path": "COM|COM -/COM335.json"
+    },
+    {
+      "full_name": "The City in Films",
+      "module_code": "COM336",
+      "module_level": "Level 3",
+      "path": "COM|COM -/COM336.json"
+    },
+    {
+      "full_name": "Film, Philosophy, and Digital Technology",
+      "module_code": "COM337",
+      "module_level": "Level 3",
+      "path": "COM|COM -/COM337.json"
+    },
+    {
+      "full_name": "Globalisation and Science Communication",
+      "module_code": "COM338",
+      "module_level": "Level 3",
+      "path": "COM|COM -/COM338.json"
+    },
+    {
+      "full_name": "Journalism and Society",
+      "module_code": "COM340",
+      "module_level": "Level 3",
+      "path": "COM|COM -/COM340.json"
+    },
+    {
+      "full_name": "Global Media: Dynamics and Challenges",
+      "module_code": "COM401",
+      "module_level": "Level 4",
+      "path": "COM|COM -/COM401.json"
+    },
+    {
+      "full_name": "Public Relations: Campaigns and Texts",
+      "module_code": "COM402",
+      "module_level": "Level 4",
+      "path": "COM|COM -/COM402.json"
+    },
+    {
+      "full_name": "Media Theory in The Digital Age",
+      "module_code": "COM403",
+      "module_level": "Level 4",
+      "path": "COM|COM -/COM403.json"
+    },
+    {
+      "full_name": "Contemporary Chinese Media",
+      "module_code": "COM404",
+      "module_level": "Level 4",
+      "path": "COM|COM -/COM404.json"
+    },
+    {
+      "full_name": "Research Methods in Communication",
+      "module_code": "COM406",
+      "module_level": "Level 4",
+      "path": "COM|COM -/COM406.json"
+    },
+    {
+      "full_name": "Video Production for The Web",
+      "module_code": "COM408",
+      "module_level": "Level 4",
+      "path": "COM|COM -/COM408.json"
+    },
+    {
+      "full_name": "Final Individual Project",
+      "module_code": "COM410",
+      "module_level": "Level 4",
+      "path": "COM|COM -/COM410.json"
+    },
+    {
+      "full_name": "Documentary Media: The Art of the Real",
+      "module_code": "COM411",
+      "module_level": "Level 4",
+      "path": "COM|COM -/COM411.json"
+    },
+    {
+      "full_name": "Popular Culture and Fandom Studies",
+      "module_code": "COM412",
+      "module_level": "Level 4",
+      "path": "COM|COM -/COM412.json"
+    },
+    {
+      "full_name": "Sociology of Media Professionals",
+      "module_code": "COM413",
+      "module_level": "Level 4",
+      "path": "COM|COM -/COM413.json"
+    },
+    {
+      "full_name": "Global Advertising",
+      "module_code": "COM414",
+      "module_level": "Level 4",
+      "path": "COM|COM -/COM414.json"
+    },
+    {
+      "full_name": "Visual Communication",
+      "module_code": "COM415",
+      "module_level": "Level 4",
+      "path": "COM|COM -/COM415.json"
+    },
+    {
+      "full_name": "Brand Communication and Social Media",
+      "module_code": "COM416",
+      "module_level": "Level 4",
+      "path": "COM|COM -/COM416.json"
+    },
+    {
+      "full_name": "World Cinema",
+      "module_code": "COM417",
+      "module_level": "Level 4",
+      "path": "COM|COM -/COM417.json"
+    },
+    {
+      "full_name": "Global Journalism",
+      "module_code": "COM418",
+      "module_level": "Level 4",
+      "path": "COM|COM -/COM418.json"
+    },
+    {
+      "full_name": "Gaming Innovations in China",
+      "module_code": "COM419",
+      "module_level": "Level 4",
+      "path": "COM|COM -/COM419.json"
+    },
+    {
+      "full_name": "Images of China: Global Narratives and National Storytelling",
+      "module_code": "COM420",
+      "module_level": "Level 4",
+      "path": "COM|COM -/COM420.json"
+    },
+    {
+      "full_name": "Digital Money",
+      "module_code": "COM421",
+      "module_level": "Level 4",
+      "path": "COM|COM -/COM421.json"
+    },
+    {
       "full_name": "Electromagnetism and Electromechanics",
       "module_code": "COS101",
       "module_level": "Level 1",
@@ -4356,6 +5670,126 @@
       "module_code": "DES409",
       "module_level": "Level 4",
       "path": "DES|DES - Design/DES409.json"
+    },
+    {
+      "full_name": "Future Cities",
+      "module_code": "DES004",
+      "module_level": "Level 0",
+      "path": "DES|DES -/DES004.json"
+    },
+    {
+      "full_name": "Designing Intelligent Futures",
+      "module_code": "DES006",
+      "module_level": "Level 0",
+      "path": "DES|DES -/DES006.json"
+    },
+    {
+      "full_name": "Designing AI Futures",
+      "module_code": "DES007",
+      "module_level": "Level 0",
+      "path": "DES|DES -/DES007.json"
+    },
+    {
+      "full_name": "Design Thinking and Innovation",
+      "module_code": "DES008",
+      "module_level": "Level 0",
+      "path": "DES|DES -/DES008.json"
+    },
+    {
+      "full_name": "Contextual Design Studio",
+      "module_code": "DES102",
+      "module_level": "Level 1",
+      "path": "DES|DES -/DES102.json"
+    },
+    {
+      "full_name": "Multiscale Collaborative Design Studio",
+      "module_code": "DES103",
+      "module_level": "Level 1",
+      "path": "DES|DES -/DES103.json"
+    },
+    {
+      "full_name": "Introduction to Design Languages and Artificial Intelligence",
+      "module_code": "DES105",
+      "module_level": "Level 1",
+      "path": "DES|DES -/DES105.json"
+    },
+    {
+      "full_name": "Entrepreneurialism in Design and Engineering",
+      "module_code": "DES107",
+      "module_level": "Level 1",
+      "path": "DES|DES -/DES107.json"
+    },
+    {
+      "full_name": "Transition Design",
+      "module_code": "DES201",
+      "module_level": "Level 2",
+      "path": "DES|DES -/DES201.json"
+    },
+    {
+      "full_name": "Principle of Integrated Design Studio",
+      "module_code": "DES202",
+      "module_level": "Level 2",
+      "path": "DES|DES -/DES202.json"
+    },
+    {
+      "full_name": "Creative Design & Making Studio",
+      "module_code": "DES203",
+      "module_level": "Level 2",
+      "path": "DES|DES -/DES203.json"
+    },
+    {
+      "full_name": "Professional Practice",
+      "module_code": "DES301",
+      "module_level": "Level 3",
+      "path": "DES|DES -/DES301.json"
+    },
+    {
+      "full_name": "Final Year Project",
+      "module_code": "DES302",
+      "module_level": "Level 3",
+      "path": "DES|DES -/DES302.json"
+    },
+    {
+      "full_name": "Sustainable Project Management",
+      "module_code": "DES402",
+      "module_level": "Level 4",
+      "path": "DES|DES -/DES402.json"
+    },
+    {
+      "full_name": "Facade Design Theory",
+      "module_code": "DES404",
+      "module_level": "Level 4",
+      "path": "DES|DES -/DES404.json"
+    },
+    {
+      "full_name": "Facade Design Studio",
+      "module_code": "DES405",
+      "module_level": "Level 4",
+      "path": "DES|DES -/DES405.json"
+    },
+    {
+      "full_name": "Design Dissertation/Project",
+      "module_code": "DES406",
+      "module_level": "Level 4",
+      "path": "DES|DES -/DES406.json"
+    },
+    {
+      "full_name": "Digital Technologies for Process in the Built Environment",
+      "module_code": "DES407",
+      "module_level": "Level 4",
+      "path": "DES|DES -/DES407.json"
+    },
+    {
+      "full_name": "Topics in Landscape Design and Technology",
+      "module_code": "DES408",
+      "module_level": "Level 4",
+      "path": "DES|DES -/DES408.json"
+    },
+    {
+      "full_name": "Urban and Landscape Design Studio",
+      "module_code": "DES409",
+      "module_level": "Level 4",
+      "path": "DES|DES -/DES409.json"
     },
     {
       "full_name": "Foundation English for Academic Purposes",
@@ -7076,6 +8510,438 @@
       "path": "FTA|AFCT - Film and TV/FTA450.json"
     },
     {
+      "full_name": "Film Appreciation",
+      "module_code": "FTA005",
+      "module_level": "Level 0",
+      "path": "FTA|AFCT -/FTA005.json"
+    },
+    {
+      "full_name": "Fundamentals of Creative Technology",
+      "module_code": "FTA008",
+      "module_level": "Level 0",
+      "path": "FTA|AFCT -/FTA008.json"
+    },
+    {
+      "full_name": "Creativity in Digital Content Production",
+      "module_code": "FTA009",
+      "module_level": "Level 0",
+      "path": "FTA|AFCT -/FTA009.json"
+    },
+    {
+      "full_name": "Screen Writing for Film and TV",
+      "module_code": "FTA102",
+      "module_level": "Level 1",
+      "path": "FTA|AFCT -/FTA102.json"
+    },
+    {
+      "full_name": "Fiction Theory and Practice",
+      "module_code": "FTA108",
+      "module_level": "Level 1",
+      "path": "FTA|AFCT -/FTA108.json"
+    },
+    {
+      "full_name": "Introduction to Sound",
+      "module_code": "FTA109",
+      "module_level": "Level 1",
+      "path": "FTA|AFCT -/FTA109.json"
+    },
+    {
+      "full_name": "Introduction to Directing",
+      "module_code": "FTA110",
+      "module_level": "Level 1",
+      "path": "FTA|AFCT -/FTA110.json"
+    },
+    {
+      "full_name": "Introduction to Camera and Lighting",
+      "module_code": "FTA111",
+      "module_level": "Level 1",
+      "path": "FTA|AFCT -/FTA111.json"
+    },
+    {
+      "full_name": "Introduction to Production",
+      "module_code": "FTA112",
+      "module_level": "Level 1",
+      "path": "FTA|AFCT -/FTA112.json"
+    },
+    {
+      "full_name": "Media Aesthetics",
+      "module_code": "FTA114",
+      "module_level": "Level 1",
+      "path": "FTA|AFCT -/FTA114.json"
+    },
+    {
+      "full_name": "Introduction to Post Production",
+      "module_code": "FTA115",
+      "module_level": "Level 1",
+      "path": "FTA|AFCT -/FTA115.json"
+    },
+    {
+      "full_name": "Introduction to Visual Communication",
+      "module_code": "FTA120",
+      "module_level": "Level 1",
+      "path": "FTA|AFCT -/FTA120.json"
+    },
+    {
+      "full_name": "Strategies for Artificial Intelligence",
+      "module_code": "FTA121",
+      "module_level": "Level 1",
+      "path": "FTA|AFCT -/FTA121.json"
+    },
+    {
+      "full_name": "Motion Graphics",
+      "module_code": "FTA122",
+      "module_level": "Level 1",
+      "path": "FTA|AFCT -/FTA122.json"
+    },
+    {
+      "full_name": "Introduction to Creative Entrepreneurship",
+      "module_code": "FTA123",
+      "module_level": "Level 1",
+      "path": "FTA|AFCT -/FTA123.json"
+    },
+    {
+      "full_name": "Digital Compositing",
+      "module_code": "FTA124",
+      "module_level": "Level 1",
+      "path": "FTA|AFCT -/FTA124.json"
+    },
+    {
+      "full_name": "Computer Applications for Digital Media Arts",
+      "module_code": "FTA129",
+      "module_level": "Level 1",
+      "path": "FTA|AFCT -/FTA129.json"
+    },
+    {
+      "full_name": "Creative Coding",
+      "module_code": "FTA134",
+      "module_level": "Level 1",
+      "path": "FTA|AFCT -/FTA134.json"
+    },
+    {
+      "full_name": "Adaptation Across the Media",
+      "module_code": "FTA201",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA201.json"
+    },
+    {
+      "full_name": "Experimental Film Practices",
+      "module_code": "FTA203",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA203.json"
+    },
+    {
+      "full_name": "Studio Practice",
+      "module_code": "FTA205",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA205.json"
+    },
+    {
+      "full_name": "The Music Promo",
+      "module_code": "FTA207",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA207.json"
+    },
+    {
+      "full_name": "The Art of Post-Production",
+      "module_code": "FTA209",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA209.json"
+    },
+    {
+      "full_name": "Visual Effects",
+      "module_code": "FTA210",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA210.json"
+    },
+    {
+      "full_name": "Screenwriting Craft and Practice",
+      "module_code": "FTA211",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA211.json"
+    },
+    {
+      "full_name": "The Art of Sound",
+      "module_code": "FTA212",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA212.json"
+    },
+    {
+      "full_name": "The Art of Cinematography",
+      "module_code": "FTA214",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA214.json"
+    },
+    {
+      "full_name": "Directing Craft and Practice",
+      "module_code": "FTA215",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA215.json"
+    },
+    {
+      "full_name": "Producing Craft and Practice",
+      "module_code": "FTA216",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA216.json"
+    },
+    {
+      "full_name": "Minor Film Project",
+      "module_code": "FTA218",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA218.json"
+    },
+    {
+      "full_name": "Visual Effects Craft",
+      "module_code": "FTA219",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA219.json"
+    },
+    {
+      "full_name": "Documentary Craft",
+      "module_code": "FTA220",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA220.json"
+    },
+    {
+      "full_name": "Minor Digital Arts Project",
+      "module_code": "FTA222",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA222.json"
+    },
+    {
+      "full_name": "Sound",
+      "module_code": "FTA225",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA225.json"
+    },
+    {
+      "full_name": "Computational Art",
+      "module_code": "FTA226",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA226.json"
+    },
+    {
+      "full_name": "Screenwriting for Tv and Streaming Media",
+      "module_code": "FTA227",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA227.json"
+    },
+    {
+      "full_name": "Motion Design",
+      "module_code": "FTA228",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA228.json"
+    },
+    {
+      "full_name": "China and the Digital Revolution",
+      "module_code": "FTA232",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA232.json"
+    },
+    {
+      "full_name": "Sonic Arts",
+      "module_code": "FTA239",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA239.json"
+    },
+    {
+      "full_name": "Production Techniques for Digital Media",
+      "module_code": "FTA240",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA240.json"
+    },
+    {
+      "full_name": "Short Video Production",
+      "module_code": "FTA241",
+      "module_level": "Level 2",
+      "path": "FTA|AFCT -/FTA241.json"
+    },
+    {
+      "full_name": "Digital Media Arts: Major Project",
+      "module_code": "FTA302",
+      "module_level": "Level 3",
+      "path": "FTA|AFCT -/FTA302.json"
+    },
+    {
+      "full_name": "Collaborative Project",
+      "module_code": "FTA305",
+      "module_level": "Level 3",
+      "path": "FTA|AFCT -/FTA305.json"
+    },
+    {
+      "full_name": "Marketing and Distribution of Content in a Global Context",
+      "module_code": "FTA307",
+      "module_level": "Level 3",
+      "path": "FTA|AFCT -/FTA307.json"
+    },
+    {
+      "full_name": "Mediated Project",
+      "module_code": "FTA308",
+      "module_level": "Level 3",
+      "path": "FTA|AFCT -/FTA308.json"
+    },
+    {
+      "full_name": "Media, Entertainment and Cultural Industry",
+      "module_code": "FTA311",
+      "module_level": "Level 3",
+      "path": "FTA|AFCT -/FTA311.json"
+    },
+    {
+      "full_name": "Final Year Project: Moving Image",
+      "module_code": "FTA312",
+      "module_level": "Level 3",
+      "path": "FTA|AFCT -/FTA312.json"
+    },
+    {
+      "full_name": "Major TV Studio Project",
+      "module_code": "FTA314",
+      "module_level": "Level 3",
+      "path": "FTA|AFCT -/FTA314.json"
+    },
+    {
+      "full_name": "Professional Practice : Digital Media Arts",
+      "module_code": "FTA315",
+      "module_level": "Level 3",
+      "path": "FTA|AFCT -/FTA315.json"
+    },
+    {
+      "full_name": "Social Media and Video",
+      "module_code": "FTA316",
+      "module_level": "Level 3",
+      "path": "FTA|AFCT -/FTA316.json"
+    },
+    {
+      "full_name": "Introduction to Cultural and Creative Industries",
+      "module_code": "FTA421",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT -/FTA421.json"
+    },
+    {
+      "full_name": "Cultural and Media Policies",
+      "module_code": "FTA422",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT -/FTA422.json"
+    },
+    {
+      "full_name": "Cultural and Creative Entrepreneurship",
+      "module_code": "FTA423",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT -/FTA423.json"
+    },
+    {
+      "full_name": "Audience Reception and Perception",
+      "module_code": "FTA424",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT -/FTA424.json"
+    },
+    {
+      "full_name": "Research Methods for Cultural and Creative Industries",
+      "module_code": "FTA425",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT -/FTA425.json"
+    },
+    {
+      "full_name": "Marketing and Branding for Cultural and Creative Industries",
+      "module_code": "FTA426",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT -/FTA426.json"
+    },
+    {
+      "full_name": "Visual Cultures",
+      "module_code": "FTA427",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT -/FTA427.json"
+    },
+    {
+      "full_name": "Intellectual Property Design and Development",
+      "module_code": "FTA428",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT -/FTA428.json"
+    },
+    {
+      "full_name": "Research Design and Planning",
+      "module_code": "FTA429",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT -/FTA429.json"
+    },
+    {
+      "full_name": "Sustainability and Ethics in Cultural and Creative Industries",
+      "module_code": "FTA430",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT -/FTA430.json"
+    },
+    {
+      "full_name": "Industry Practice",
+      "module_code": "FTA431",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT -/FTA431.json"
+    },
+    {
+      "full_name": "Content Producing Research Project",
+      "module_code": "FTA432",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT -/FTA432.json"
+    },
+    {
+      "full_name": "Advanced Visual Storytelling Techniques",
+      "module_code": "FTA433",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT -/FTA433.json"
+    },
+    {
+      "full_name": "Distribution Project",
+      "module_code": "FTA434",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT -/FTA434.json"
+    },
+    {
+      "full_name": "Creative and Aesthetics Economy",
+      "module_code": "FTA435",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT -/FTA435.json"
+    },
+    {
+      "full_name": "Independent Producing and Management",
+      "module_code": "FTA436",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT -/FTA436.json"
+    },
+    {
+      "full_name": "Techniques for Creative Industries",
+      "module_code": "FTA439",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT -/FTA439.json"
+    },
+    {
+      "full_name": "Commercialisation Project",
+      "module_code": "FTA440",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT -/FTA440.json"
+    },
+    {
+      "full_name": "Event Management and Curation",
+      "module_code": "FTA441",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT -/FTA441.json"
+    },
+    {
+      "full_name": "Curation Project",
+      "module_code": "FTA445",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT -/FTA445.json"
+    },
+    {
+      "full_name": "Cultural Heritage & Tourism",
+      "module_code": "FTA448",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT -/FTA448.json"
+    },
+    {
+      "full_name": "Dissertation",
+      "module_code": "FTA450",
+      "module_level": "Level 4",
+      "path": "FTA|AFCT -/FTA450.json"
+    },
+    {
       "full_name": "Fairness in Everyday Life: A Comparative Thinking Module",
       "module_code": "GCL001",
       "module_level": "Level 0",
@@ -7550,6 +9416,360 @@
       "path": "IFBTC|IFS - Intelligent Finance and Business/IFB431TC.json"
     },
     {
+      "full_name": "Exploring Intelligent Supply Chains with Smart Business Practices",
+      "module_code": "IFB001TC",
+      "module_level": "Level 0",
+      "path": "IFBTC|IFS -/IFB001TC.json"
+    },
+    {
+      "full_name": "Essentials of Intelligent Supply Chain",
+      "module_code": "IFB002TC",
+      "module_level": "Level 0",
+      "path": "IFBTC|IFS -/IFB002TC.json"
+    },
+    {
+      "full_name": "Exploring Intelligent Supply Chains with Syntegrative Technologies",
+      "module_code": "IFB003TC",
+      "module_level": "Level 0",
+      "path": "IFBTC|IFS -/IFB003TC.json"
+    },
+    {
+      "full_name": "Analytical Tools in Management Science",
+      "module_code": "IFB101TC",
+      "module_level": "Level 1",
+      "path": "IFBTC|IFS -/IFB101TC.json"
+    },
+    {
+      "full_name": "Managerial Accounting Essentials",
+      "module_code": "IFB102TC",
+      "module_level": "Level 1",
+      "path": "IFBTC|IFS -/IFB102TC.json"
+    },
+    {
+      "full_name": "AI-centric Technology Fundamentals and Perspectives for Intelligent Supply Chain",
+      "module_code": "IFB103TC",
+      "module_level": "Level 1",
+      "path": "IFBTC|IFS -/IFB103TC.json"
+    },
+    {
+      "full_name": "Project Management",
+      "module_code": "IFB104TC",
+      "module_level": "Level 1",
+      "path": "IFBTC|IFS -/IFB104TC.json"
+    },
+    {
+      "full_name": "Demand Forecasting & Management",
+      "module_code": "IFB106TC",
+      "module_level": "Level 1",
+      "path": "IFBTC|IFS -/IFB106TC.json"
+    },
+    {
+      "full_name": "Information Systems Management",
+      "module_code": "IFB107TC",
+      "module_level": "Level 1",
+      "path": "IFBTC|IFS -/IFB107TC.json"
+    },
+    {
+      "full_name": "Supply Chain Operations Management",
+      "module_code": "IFB111TC",
+      "module_level": "Level 1",
+      "path": "IFBTC|IFS -/IFB111TC.json"
+    },
+    {
+      "full_name": "Programming for Business Application",
+      "module_code": "IFB113TC",
+      "module_level": "Level 1",
+      "path": "IFBTC|IFS -/IFB113TC.json"
+    },
+    {
+      "full_name": "Process Management",
+      "module_code": "IFB115TC",
+      "module_level": "Level 1",
+      "path": "IFBTC|IFS -/IFB115TC.json"
+    },
+    {
+      "full_name": "Quality Management",
+      "module_code": "IFB116TC",
+      "module_level": "Level 1",
+      "path": "IFBTC|IFS -/IFB116TC.json"
+    },
+    {
+      "full_name": "Inventory and warehouse management",
+      "module_code": "IFB201TC",
+      "module_level": "Level 2",
+      "path": "IFBTC|IFS -/IFB201TC.json"
+    },
+    {
+      "full_name": "Enterprise Resource Planning (SAP)",
+      "module_code": "IFB202TC",
+      "module_level": "Level 2",
+      "path": "IFBTC|IFS -/IFB202TC.json"
+    },
+    {
+      "full_name": "Purchasing and Negotiation",
+      "module_code": "IFB204TC",
+      "module_level": "Level 2",
+      "path": "IFBTC|IFS -/IFB204TC.json"
+    },
+    {
+      "full_name": "Quality Management and Lean Six Sigma",
+      "module_code": "IFB208TC",
+      "module_level": "Level 2",
+      "path": "IFBTC|IFS -/IFB208TC.json"
+    },
+    {
+      "full_name": "Logistics and Distribution",
+      "module_code": "IFB209TC",
+      "module_level": "Level 2",
+      "path": "IFBTC|IFS -/IFB209TC.json"
+    },
+    {
+      "full_name": "Supply Chain Finance",
+      "module_code": "IFB210TC",
+      "module_level": "Level 2",
+      "path": "IFBTC|IFS -/IFB210TC.json"
+    },
+    {
+      "full_name": "Data Mining Applications",
+      "module_code": "IFB214TC",
+      "module_level": "Level 2",
+      "path": "IFBTC|IFS -/IFB214TC.json"
+    },
+    {
+      "full_name": "Fundamentals of Finance",
+      "module_code": "IFB215TC",
+      "module_level": "Level 2",
+      "path": "IFBTC|IFS -/IFB215TC.json"
+    },
+    {
+      "full_name": "Lean Thinking",
+      "module_code": "IFB217TC",
+      "module_level": "Level 2",
+      "path": "IFBTC|IFS -/IFB217TC.json"
+    },
+    {
+      "full_name": "Data Visualization and Data Analytics",
+      "module_code": "IFB218TC",
+      "module_level": "Level 2",
+      "path": "IFBTC|IFS -/IFB218TC.json"
+    },
+    {
+      "full_name": "Digital Marketing",
+      "module_code": "IFB219TC",
+      "module_level": "Level 2",
+      "path": "IFBTC|IFS -/IFB219TC.json"
+    },
+    {
+      "full_name": "Production Planning and Control",
+      "module_code": "IFB220TC",
+      "module_level": "Level 2",
+      "path": "IFBTC|IFS -/IFB220TC.json"
+    },
+    {
+      "full_name": "Final Year Project",
+      "module_code": "IFB301TC",
+      "module_level": "Level 3",
+      "path": "IFBTC|IFS -/IFB301TC.json"
+    },
+    {
+      "full_name": "Maritime Logistics",
+      "module_code": "IFB304TC",
+      "module_level": "Level 3",
+      "path": "IFBTC|IFS -/IFB304TC.json"
+    },
+    {
+      "full_name": "Automotive and Aerospace Supply Chains",
+      "module_code": "IFB308TC",
+      "module_level": "Level 3",
+      "path": "IFBTC|IFS -/IFB308TC.json"
+    },
+    {
+      "full_name": "Supply Chain Modelling and Optimisation",
+      "module_code": "IFB315TC",
+      "module_level": "Level 3",
+      "path": "IFBTC|IFS -/IFB315TC.json"
+    },
+    {
+      "full_name": "Strategic Management and ESG",
+      "module_code": "IFB317TC",
+      "module_level": "Level 3",
+      "path": "IFBTC|IFS -/IFB317TC.json"
+    },
+    {
+      "full_name": "E-Commerce",
+      "module_code": "IFB318TC",
+      "module_level": "Level 3",
+      "path": "IFBTC|IFS -/IFB318TC.json"
+    },
+    {
+      "full_name": "Supply Chain Digitalization",
+      "module_code": "IFB319TC",
+      "module_level": "Level 3",
+      "path": "IFBTC|IFS -/IFB319TC.json"
+    },
+    {
+      "full_name": "Industrial Internet",
+      "module_code": "IFB320TC",
+      "module_level": "Level 3",
+      "path": "IFBTC|IFS -/IFB320TC.json"
+    },
+    {
+      "full_name": "Enterprise Resource Planning",
+      "module_code": "IFB401TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB401TC.json"
+    },
+    {
+      "full_name": "Global Financial Markets",
+      "module_code": "IFB402TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB402TC.json"
+    },
+    {
+      "full_name": "Digital Marketing",
+      "module_code": "IFB404TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB404TC.json"
+    },
+    {
+      "full_name": "Service Digitalization",
+      "module_code": "IFB405TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB405TC.json"
+    },
+    {
+      "full_name": "Corporate Governance and Strategy",
+      "module_code": "IFB406TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB406TC.json"
+    },
+    {
+      "full_name": "Consumer Behavior in A Digital World",
+      "module_code": "IFB407TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB407TC.json"
+    },
+    {
+      "full_name": "Demand and Inventory Planning",
+      "module_code": "IFB409TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB409TC.json"
+    },
+    {
+      "full_name": "Venture Finance in the AI era",
+      "module_code": "IFB410TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB410TC.json"
+    },
+    {
+      "full_name": "Digital Supply Chain",
+      "module_code": "IFB411TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB411TC.json"
+    },
+    {
+      "full_name": "Business Analytics",
+      "module_code": "IFB412TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB412TC.json"
+    },
+    {
+      "full_name": "Cryptocurrencies, Blockchain, and The Future of Money",
+      "module_code": "IFB414TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB414TC.json"
+    },
+    {
+      "full_name": "Digital Economy and Management",
+      "module_code": "IFB415TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB415TC.json"
+    },
+    {
+      "full_name": "Digital Retailing",
+      "module_code": "IFB416TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB416TC.json"
+    },
+    {
+      "full_name": "Intelligent Logistics",
+      "module_code": "IFB417TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB417TC.json"
+    },
+    {
+      "full_name": "Social Media and Marketing",
+      "module_code": "IFB418TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB418TC.json"
+    },
+    {
+      "full_name": "Strategic Sourcing in a Digital World",
+      "module_code": "IFB419TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB419TC.json"
+    },
+    {
+      "full_name": "Work Placement",
+      "module_code": "IFB421TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB421TC.json"
+    },
+    {
+      "full_name": "Consulting Project",
+      "module_code": "IFB422TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB422TC.json"
+    },
+    {
+      "full_name": "Dissertation",
+      "module_code": "IFB423TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB423TC.json"
+    },
+    {
+      "full_name": "Digital Finance",
+      "module_code": "IFB424TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB424TC.json"
+    },
+    {
+      "full_name": "ESG for Managers and Investors",
+      "module_code": "IFB425TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB425TC.json"
+    },
+    {
+      "full_name": "Sustainable Investing",
+      "module_code": "IFB426TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB426TC.json"
+    },
+    {
+      "full_name": "Applied AI for Business",
+      "module_code": "IFB427TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB427TC.json"
+    },
+    {
+      "full_name": "Applied Investment Strategies",
+      "module_code": "IFB428TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB428TC.json"
+    },
+    {
+      "full_name": "Project Management in a Digital World",
+      "module_code": "IFB429TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB429TC.json"
+    },
+    {
+      "full_name": "Climate Change and Corporate Environmental Management",
+      "module_code": "IFB431TC",
+      "module_level": "Level 4",
+      "path": "IFBTC|IFS -/IFB431TC.json"
+    },
+    {
       "full_name": "Studio 1 - Design Principles",
       "module_code": "IND101",
       "module_level": "Level 1",
@@ -7938,6 +10158,276 @@
       "module_code": "INS421",
       "module_level": "Level 4",
       "path": "INS|INS - International Studies/INS421.json"
+    },
+    {
+      "full_name": "Introduction to International Relations",
+      "module_code": "INS006",
+      "module_level": "Level 0",
+      "path": "INS|INS -/INS006.json"
+    },
+    {
+      "full_name": "Contemporary International Relations",
+      "module_code": "INS101",
+      "module_level": "Level 1",
+      "path": "INS|INS -/INS101.json"
+    },
+    {
+      "full_name": "International Political Economy",
+      "module_code": "INS102",
+      "module_level": "Level 1",
+      "path": "INS|INS -/INS102.json"
+    },
+    {
+      "full_name": "World History: Twentieth Century to Today",
+      "module_code": "INS103",
+      "module_level": "Level 1",
+      "path": "INS|INS -/INS103.json"
+    },
+    {
+      "full_name": "History of the Americas",
+      "module_code": "INS104",
+      "module_level": "Level 1",
+      "path": "INS|INS -/INS104.json"
+    },
+    {
+      "full_name": "East and Southeast Asia: The Pacific Century",
+      "module_code": "INS106",
+      "module_level": "Level 1",
+      "path": "INS|INS -/INS106.json"
+    },
+    {
+      "full_name": "Foundations in Political Science",
+      "module_code": "INS108",
+      "module_level": "Level 1",
+      "path": "INS|INS -/INS108.json"
+    },
+    {
+      "full_name": "Managing the World: the Role of International Institutions",
+      "module_code": "INS109",
+      "module_level": "Level 1",
+      "path": "INS|INS -/INS109.json"
+    },
+    {
+      "full_name": "International Relations Research Methods",
+      "module_code": "INS202",
+      "module_level": "Level 2",
+      "path": "INS|INS -/INS202.json"
+    },
+    {
+      "full_name": "International Politics of Development In Africa",
+      "module_code": "INS203",
+      "module_level": "Level 2",
+      "path": "INS|INS -/INS203.json"
+    },
+    {
+      "full_name": "Regional Integration: The Case of Europe",
+      "module_code": "INS204",
+      "module_level": "Level 2",
+      "path": "INS|INS -/INS204.json"
+    },
+    {
+      "full_name": "International Relations Study Abroad",
+      "module_code": "INS205",
+      "module_level": "Level 2",
+      "path": "INS|INS -/INS205.json"
+    },
+    {
+      "full_name": "Country Study",
+      "module_code": "INS206",
+      "module_level": "Level 2",
+      "path": "INS|INS -/INS206.json"
+    },
+    {
+      "full_name": "Foreign Policy Analysis",
+      "module_code": "INS207",
+      "module_level": "Level 2",
+      "path": "INS|INS -/INS207.json"
+    },
+    {
+      "full_name": "International Communications",
+      "module_code": "INS208",
+      "module_level": "Level 2",
+      "path": "INS|INS -/INS208.json"
+    },
+    {
+      "full_name": "Contemporary Russian Politics and Economy",
+      "module_code": "INS209",
+      "module_level": "Level 2",
+      "path": "INS|INS -/INS209.json"
+    },
+    {
+      "full_name": "Comparative Politics",
+      "module_code": "INS210",
+      "module_level": "Level 2",
+      "path": "INS|INS -/INS210.json"
+    },
+    {
+      "full_name": "Economic regionalization in the Asia-Pacific: China and the neighouring regions",
+      "module_code": "INS211",
+      "module_level": "Level 2",
+      "path": "INS|INS -/INS211.json"
+    },
+    {
+      "full_name": "International Relations: Final Year Project",
+      "module_code": "INS302",
+      "module_level": "Level 3",
+      "path": "INS|INS -/INS302.json"
+    },
+    {
+      "full_name": "Sino-European Relations: A Critical Approach",
+      "module_code": "INS304",
+      "module_level": "Level 3",
+      "path": "INS|INS -/INS304.json"
+    },
+    {
+      "full_name": "US Intelligence and Foreign Policy",
+      "module_code": "INS306",
+      "module_level": "Level 3",
+      "path": "INS|INS -/INS306.json"
+    },
+    {
+      "full_name": "Political Economy of Foreign Aid",
+      "module_code": "INS307",
+      "module_level": "Level 3",
+      "path": "INS|INS -/INS307.json"
+    },
+    {
+      "full_name": "Public Policy and Cultural Diplomacy",
+      "module_code": "INS308",
+      "module_level": "Level 3",
+      "path": "INS|INS -/INS308.json"
+    },
+    {
+      "full_name": "Russia and China Great Powers in an Era of Global Disorder",
+      "module_code": "INS309",
+      "module_level": "Level 3",
+      "path": "INS|INS -/INS309.json"
+    },
+    {
+      "full_name": "Finding Solutions: Development Theory and Practice",
+      "module_code": "INS310",
+      "module_level": "Level 3",
+      "path": "INS|INS -/INS310.json"
+    },
+    {
+      "full_name": "Economic Issues and Policies for Development",
+      "module_code": "INS311",
+      "module_level": "Level 3",
+      "path": "INS|INS -/INS311.json"
+    },
+    {
+      "full_name": "Theories of International Relations",
+      "module_code": "INS401",
+      "module_level": "Level 4",
+      "path": "INS|INS -/INS401.json"
+    },
+    {
+      "full_name": "Conflict and International Intervention",
+      "module_code": "INS402",
+      "module_level": "Level 4",
+      "path": "INS|INS -/INS402.json"
+    },
+    {
+      "full_name": "Regional Integration and Globalisation",
+      "module_code": "INS403",
+      "module_level": "Level 4",
+      "path": "INS|INS -/INS403.json"
+    },
+    {
+      "full_name": "China in the World",
+      "module_code": "INS404",
+      "module_level": "Level 4",
+      "path": "INS|INS -/INS404.json"
+    },
+    {
+      "full_name": "War and Peace in the Asia Pacific",
+      "module_code": "INS406",
+      "module_level": "Level 4",
+      "path": "INS|INS -/INS406.json"
+    },
+    {
+      "full_name": "Global Transformations and Crises",
+      "module_code": "INS407",
+      "module_level": "Level 4",
+      "path": "INS|INS -/INS407.json"
+    },
+    {
+      "full_name": "Research Methods for Global Public Policy and International Relations",
+      "module_code": "INS408",
+      "module_level": "Level 4",
+      "path": "INS|INS -/INS408.json"
+    },
+    {
+      "full_name": "Global Public Policy and International Relations Dissertation",
+      "module_code": "INS409",
+      "module_level": "Level 4",
+      "path": "INS|INS -/INS409.json"
+    },
+    {
+      "full_name": "Transnational Corporations and Global Challenges",
+      "module_code": "INS410",
+      "module_level": "Level 4",
+      "path": "INS|INS -/INS410.json"
+    },
+    {
+      "full_name": "International Management and Global Institutions",
+      "module_code": "INS411",
+      "module_level": "Level 4",
+      "path": "INS|INS -/INS411.json"
+    },
+    {
+      "full_name": "Global Political Economy",
+      "module_code": "INS412",
+      "module_level": "Level 4",
+      "path": "INS|INS -/INS412.json"
+    },
+    {
+      "full_name": "International Business and Global Affairs Dissertation",
+      "module_code": "INS413",
+      "module_level": "Level 4",
+      "path": "INS|INS -/INS413.json"
+    },
+    {
+      "full_name": "Research Methods for International Business",
+      "module_code": "INS414",
+      "module_level": "Level 4",
+      "path": "INS|INS -/INS414.json"
+    },
+    {
+      "full_name": "Global Environmental Policy",
+      "module_code": "INS415",
+      "module_level": "Level 4",
+      "path": "INS|INS -/INS415.json"
+    },
+    {
+      "full_name": "International Law",
+      "module_code": "INS417",
+      "module_level": "Level 4",
+      "path": "INS|INS -/INS417.json"
+    },
+    {
+      "full_name": "Global Finance",
+      "module_code": "INS418",
+      "module_level": "Level 4",
+      "path": "INS|INS -/INS418.json"
+    },
+    {
+      "full_name": "Understanding Public Policy Process",
+      "module_code": "INS419",
+      "module_level": "Level 4",
+      "path": "INS|INS -/INS419.json"
+    },
+    {
+      "full_name": "Diplomacy in a Globalized World",
+      "module_code": "INS420",
+      "module_level": "Level 4",
+      "path": "INS|INS -/INS420.json"
+    },
+    {
+      "full_name": "Global Public Policy and Governance",
+      "module_code": "INS421",
+      "module_level": "Level 4",
+      "path": "INS|INS -/INS421.json"
     },
     {
       "full_name": "Trends in marketing and information technology",
@@ -10544,6 +13034,318 @@
       "path": "LNG|ALS - Applied Linguistics/LNG423.json"
     },
     {
+      "full_name": "Thinking like a Linguist",
+      "module_code": "LNG001",
+      "module_level": "Level 0",
+      "path": "LNG|ALS -/LNG001.json"
+    },
+    {
+      "full_name": "Sounds of English",
+      "module_code": "LNG101",
+      "module_level": "Level 1",
+      "path": "LNG|ALS -/LNG101.json"
+    },
+    {
+      "full_name": "Introduction to Linguistics: Grammar",
+      "module_code": "LNG103",
+      "module_level": "Level 1",
+      "path": "LNG|ALS -/LNG103.json"
+    },
+    {
+      "full_name": "Syntax",
+      "module_code": "LNG104",
+      "module_level": "Level 1",
+      "path": "LNG|ALS -/LNG104.json"
+    },
+    {
+      "full_name": "History of English",
+      "module_code": "LNG105",
+      "module_level": "Level 1",
+      "path": "LNG|ALS -/LNG105.json"
+    },
+    {
+      "full_name": "Language and Society",
+      "module_code": "LNG106",
+      "module_level": "Level 1",
+      "path": "LNG|ALS -/LNG106.json"
+    },
+    {
+      "full_name": "Introduction to Linguistics: Spoken & Written Discourse",
+      "module_code": "LNG107",
+      "module_level": "Level 1",
+      "path": "LNG|ALS -/LNG107.json"
+    },
+    {
+      "full_name": "Semantics and Pragmatics",
+      "module_code": "LNG108",
+      "module_level": "Level 1",
+      "path": "LNG|ALS -/LNG108.json"
+    },
+    {
+      "full_name": "Language and Media",
+      "module_code": "LNG201",
+      "module_level": "Level 2",
+      "path": "LNG|ALS -/LNG201.json"
+    },
+    {
+      "full_name": "Bilingual and Multilingual Development",
+      "module_code": "LNG202",
+      "module_level": "Level 2",
+      "path": "LNG|ALS -/LNG202.json"
+    },
+    {
+      "full_name": "Language and Gender",
+      "module_code": "LNG204",
+      "module_level": "Level 2",
+      "path": "LNG|ALS -/LNG204.json"
+    },
+    {
+      "full_name": "Cognitive Linguistics",
+      "module_code": "LNG206",
+      "module_level": "Level 2",
+      "path": "LNG|ALS -/LNG206.json"
+    },
+    {
+      "full_name": "Language Acquisition",
+      "module_code": "LNG207",
+      "module_level": "Level 2",
+      "path": "LNG|ALS -/LNG207.json"
+    },
+    {
+      "full_name": "Psycholinguistics",
+      "module_code": "LNG208",
+      "module_level": "Level 2",
+      "path": "LNG|ALS -/LNG208.json"
+    },
+    {
+      "full_name": "Corpus Linguistics",
+      "module_code": "LNG209",
+      "module_level": "Level 2",
+      "path": "LNG|ALS -/LNG209.json"
+    },
+    {
+      "full_name": "Language Documentation",
+      "module_code": "LNG210",
+      "module_level": "Level 2",
+      "path": "LNG|ALS -/LNG210.json"
+    },
+    {
+      "full_name": "Chinese Linguistics",
+      "module_code": "LNG213",
+      "module_level": "Level 2",
+      "path": "LNG|ALS -/LNG213.json"
+    },
+    {
+      "full_name": "Historical Linguistics",
+      "module_code": "LNG214",
+      "module_level": "Level 2",
+      "path": "LNG|ALS -/LNG214.json"
+    },
+    {
+      "full_name": "Computational Linguistics",
+      "module_code": "LNG216",
+      "module_level": "Level 2",
+      "path": "LNG|ALS -/LNG216.json"
+    },
+    {
+      "full_name": "Stylistics",
+      "module_code": "LNG301",
+      "module_level": "Level 3",
+      "path": "LNG|ALS -/LNG301.json"
+    },
+    {
+      "full_name": "Interpersonal communication in the workplace",
+      "module_code": "LNG302",
+      "module_level": "Level 3",
+      "path": "LNG|ALS -/LNG302.json"
+    },
+    {
+      "full_name": "Final Year Project",
+      "module_code": "LNG303",
+      "module_level": "Level 3",
+      "path": "LNG|ALS -/LNG303.json"
+    },
+    {
+      "full_name": "Language and Power",
+      "module_code": "LNG304",
+      "module_level": "Level 3",
+      "path": "LNG|ALS -/LNG304.json"
+    },
+    {
+      "full_name": "Chinese Linguistics",
+      "module_code": "LNG305",
+      "module_level": "Level 3",
+      "path": "LNG|ALS -/LNG305.json"
+    },
+    {
+      "full_name": "Forensic Linguistics",
+      "module_code": "LNG306",
+      "module_level": "Level 3",
+      "path": "LNG|ALS -/LNG306.json"
+    },
+    {
+      "full_name": "Historical Linguistics",
+      "module_code": "LNG307",
+      "module_level": "Level 3",
+      "path": "LNG|ALS -/LNG307.json"
+    },
+    {
+      "full_name": "Intercultural Communication",
+      "module_code": "LNG308",
+      "module_level": "Level 3",
+      "path": "LNG|ALS -/LNG308.json"
+    },
+    {
+      "full_name": "Artificial Intelligence (AI) and Applied Linguistics",
+      "module_code": "LNG309",
+      "module_level": "Level 3",
+      "path": "LNG|ALS -/LNG309.json"
+    },
+    {
+      "full_name": "Language Education",
+      "module_code": "LNG310",
+      "module_level": "Level 3",
+      "path": "LNG|ALS -/LNG310.json"
+    },
+    {
+      "full_name": "Final Year Project for English and Business Studies",
+      "module_code": "LNG311",
+      "module_level": "Level 3",
+      "path": "LNG|ALS -/LNG311.json"
+    },
+    {
+      "full_name": "Ecolinguistics: Language and the Environment",
+      "module_code": "LNG312",
+      "module_level": "Level 3",
+      "path": "LNG|ALS -/LNG312.json"
+    },
+    {
+      "full_name": "Language and Consumer Behaviours",
+      "module_code": "LNG313",
+      "module_level": "Level 3",
+      "path": "LNG|ALS -/LNG313.json"
+    },
+    {
+      "full_name": "Language Pathology",
+      "module_code": "LNG314",
+      "module_level": "Level 3",
+      "path": "LNG|ALS -/LNG314.json"
+    },
+    {
+      "full_name": "Linguistics for Language Teachers",
+      "module_code": "LNG401",
+      "module_level": "Level 4",
+      "path": "LNG|ALS -/LNG401.json"
+    },
+    {
+      "full_name": "Language Testing and Assessment",
+      "module_code": "LNG402",
+      "module_level": "Level 4",
+      "path": "LNG|ALS -/LNG402.json"
+    },
+    {
+      "full_name": "Artificial Intelligence (AI) Technologies for Language Education",
+      "module_code": "LNG403",
+      "module_level": "Level 4",
+      "path": "LNG|ALS -/LNG403.json"
+    },
+    {
+      "full_name": "Methods and research in teaching EFL skills",
+      "module_code": "LNG404",
+      "module_level": "Level 4",
+      "path": "LNG|ALS -/LNG404.json"
+    },
+    {
+      "full_name": "Principles of Course and Materials Design",
+      "module_code": "LNG405",
+      "module_level": "Level 4",
+      "path": "LNG|ALS -/LNG405.json"
+    },
+    {
+      "full_name": "Research Methods",
+      "module_code": "LNG406",
+      "module_level": "Level 4",
+      "path": "LNG|ALS -/LNG406.json"
+    },
+    {
+      "full_name": "Second Language Acquisition",
+      "module_code": "LNG407",
+      "module_level": "Level 4",
+      "path": "LNG|ALS -/LNG407.json"
+    },
+    {
+      "full_name": "Discourse Analysis",
+      "module_code": "LNG408",
+      "module_level": "Level 4",
+      "path": "LNG|ALS -/LNG408.json"
+    },
+    {
+      "full_name": "Dissertation",
+      "module_code": "LNG409",
+      "module_level": "Level 4",
+      "path": "LNG|ALS -/LNG409.json"
+    },
+    {
+      "full_name": "English for Specific Purposes",
+      "module_code": "LNG410",
+      "module_level": "Level 4",
+      "path": "LNG|ALS -/LNG410.json"
+    },
+    {
+      "full_name": "Introduction to multilingualism",
+      "module_code": "LNG411",
+      "module_level": "Level 4",
+      "path": "LNG|ALS -/LNG411.json"
+    },
+    {
+      "full_name": "Individual Differences In Language Learning",
+      "module_code": "LNG412",
+      "module_level": "Level 4",
+      "path": "LNG|ALS -/LNG412.json"
+    },
+    {
+      "full_name": "Multilingualism in society",
+      "module_code": "LNG413",
+      "module_level": "Level 4",
+      "path": "LNG|ALS -/LNG413.json"
+    },
+    {
+      "full_name": "Psycholinguistics of Multilingualism",
+      "module_code": "LNG414",
+      "module_level": "Level 4",
+      "path": "LNG|ALS -/LNG414.json"
+    },
+    {
+      "full_name": "Language, globalization and mobility",
+      "module_code": "LNG415",
+      "module_level": "Level 4",
+      "path": "LNG|ALS -/LNG415.json"
+    },
+    {
+      "full_name": "The politics of language in a globalized world",
+      "module_code": "LNG417",
+      "module_level": "Level 4",
+      "path": "LNG|ALS -/LNG417.json"
+    },
+    {
+      "full_name": "Language and Health in a Multilingual World",
+      "module_code": "LNG418",
+      "module_level": "Level 4",
+      "path": "LNG|ALS -/LNG418.json"
+    },
+    {
+      "full_name": "Multilingual education and multilingual literacies",
+      "module_code": "LNG419",
+      "module_level": "Level 4",
+      "path": "LNG|ALS -/LNG419.json"
+    },
+    {
+      "full_name": "Dissertation",
+      "module_code": "LNG423",
+      "module_level": "Level 4",
+      "path": "LNG|ALS -/LNG423.json"
+    },
+    {
       "full_name": "Statics",
       "module_code": "MEC103",
       "module_level": "Level 1",
@@ -10830,204 +13632,6 @@
       "module_code": "MES409TC",
       "module_level": "Level 4",
       "path": "MESTC|CHP - Microelectronic Science and Engineering/MES409TC.json"
-    },
-    {
-      "full_name": "Nanobiotechnology",
-      "module_code": "MES001TC",
-      "module_level": "Level 0",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES001TC.json"
-    },
-    {
-      "full_name": "Introduction to Artificial Intelligence and Its VLSI Implementation",
-      "module_code": "MES003TC",
-      "module_level": "Level 0",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES003TC.json"
-    },
-    {
-      "full_name": "Experimental, Computer Skills and Sustainability",
-      "module_code": "MES102TC",
-      "module_level": "Level 1",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES102TC.json"
-    },
-    {
-      "full_name": "C Programming Language",
-      "module_code": "MES103TC",
-      "module_level": "Level 1",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES103TC.json"
-    },
-    {
-      "full_name": "Integrated Circuits Design and Fabrication",
-      "module_code": "MES104TC",
-      "module_level": "Level 1",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES104TC.json"
-    },
-    {
-      "full_name": "AI-centric Technology Fundamentals and Perspectives for CHIPS",
-      "module_code": "MES105TC",
-      "module_level": "Level 1",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES105TC.json"
-    },
-    {
-      "full_name": "Electronic Circuits and Systems",
-      "module_code": "MES106TC",
-      "module_level": "Level 1",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES106TC.json"
-    },
-    {
-      "full_name": "Advanced Power Electronic Devices and Electrical Circuits",
-      "module_code": "MES201TC",
-      "module_level": "Level 2",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES201TC.json"
-    },
-    {
-      "full_name": "Digital VLSI System Design and Design Automation",
-      "module_code": "MES202TC",
-      "module_level": "Level 2",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES202TC.json"
-    },
-    {
-      "full_name": "Microprocessor Systems",
-      "module_code": "MES204TC",
-      "module_level": "Level 2",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES204TC.json"
-    },
-    {
-      "full_name": "Digital Electronics II",
-      "module_code": "MES205TC",
-      "module_level": "Level 2",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES205TC.json"
-    },
-    {
-      "full_name": "CMOS Digital Integrated Circuits",
-      "module_code": "MES207TC",
-      "module_level": "Level 2",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES207TC.json"
-    },
-    {
-      "full_name": "RF Engineering and Applied Electromagnetics",
-      "module_code": "MES208TC",
-      "module_level": "Level 2",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES208TC.json"
-    },
-    {
-      "full_name": "Electromagnetism and Electromechanics",
-      "module_code": "MES209TC",
-      "module_level": "Level 2",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES209TC.json"
-    },
-    {
-      "full_name": "Continuous and Discrete Time Signals and Systems",
-      "module_code": "MES210TC",
-      "module_level": "Level 2",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES210TC.json"
-    },
-    {
-      "full_name": "Semiconductor Memory Devices and Circuits",
-      "module_code": "MES211TC",
-      "module_level": "Level 2",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES211TC.json"
-    },
-    {
-      "full_name": "Analog Integrated Circuits Analysis and Design",
-      "module_code": "MES301TC",
-      "module_level": "Level 3",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES301TC.json"
-    },
-    {
-      "full_name": "IC Technology and Engineering",
-      "module_code": "MES302TC",
-      "module_level": "Level 3",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES302TC.json"
-    },
-    {
-      "full_name": "Integrated Circuits - Concepts and Design",
-      "module_code": "MES303TC",
-      "module_level": "Level 3",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES303TC.json"
-    },
-    {
-      "full_name": "Integrated Circuits - Fabrication and Testing",
-      "module_code": "MES304TC",
-      "module_level": "Level 3",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES304TC.json"
-    },
-    {
-      "full_name": "Photonics and Photonic Hybrid Systems",
-      "module_code": "MES305TC",
-      "module_level": "Level 3",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES305TC.json"
-    },
-    {
-      "full_name": "Atomic-Level Semiconductor Materials Simulation",
-      "module_code": "MES306TC",
-      "module_level": "Level 3",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES306TC.json"
-    },
-    {
-      "full_name": "Sensors and Integrated Systems",
-      "module_code": "MES307TC",
-      "module_level": "Level 3",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES307TC.json"
-    },
-    {
-      "full_name": "Final Year Project",
-      "module_code": "MES311TC",
-      "module_level": "Level 3",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES311TC.json"
-    },
-    {
-      "full_name": "Semiconductor Materials and Devices",
-      "module_code": "MES401TC",
-      "module_level": "Level 4",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES401TC.json"
-    },
-    {
-      "full_name": "Characterization of Materials and Microelectronic Devices",
-      "module_code": "MES402TC",
-      "module_level": "Level 4",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES402TC.json"
-    },
-    {
-      "full_name": "Micro/Nano Electromechanical Systems",
-      "module_code": "MES403TC",
-      "module_level": "Level 4",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES403TC.json"
-    },
-    {
-      "full_name": "Advanced Microfabrication Technology",
-      "module_code": "MES404TC",
-      "module_level": "Level 4",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES404TC.json"
-    },
-    {
-      "full_name": "Introduction to Emerging Devices and Technology",
-      "module_code": "MES405TC",
-      "module_level": "Level 4",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES405TC.json"
-    },
-    {
-      "full_name": "Industrial Research Dissertation",
-      "module_code": "MES406TC",
-      "module_level": "Level 4",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES406TC.json"
-    },
-    {
-      "full_name": "Additive Manufacturing for Micro Devices",
-      "module_code": "MES407TC",
-      "module_level": "Level 4",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES407TC.json"
-    },
-    {
-      "full_name": "Semicondutor Microstructure and Crystal Defects",
-      "module_code": "MES408TC",
-      "module_level": "Level 4",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES408TC.json"
-    },
-    {
-      "full_name": "Research Project Development",
-      "module_code": "MES409TC",
-      "module_level": "Level 4",
-      "path": "MESTC|IME - Microelectronic Science and Engineering/MES409TC.json"
     },
     {
       "full_name": "Exploring Engineering Creation and Innovation",
@@ -11898,6 +14502,624 @@
       "module_code": "MTH448",
       "module_level": "Level 4",
       "path": "MTH|APM - Mathematical Sciences/MTH448.json"
+    },
+    {
+      "full_name": "Introduction to Insurance",
+      "module_code": "MTH012",
+      "module_level": "Level 0",
+      "path": "MTH|APM -/MTH012.json"
+    },
+    {
+      "full_name": "Introductory Linear Algebra",
+      "module_code": "MTH015",
+      "module_level": "Level 0",
+      "path": "MTH|APM -/MTH015.json"
+    },
+    {
+      "full_name": "Modelling the Real World",
+      "module_code": "MTH020",
+      "module_level": "Level 0",
+      "path": "MTH|APM -/MTH020.json"
+    },
+    {
+      "full_name": "Mathematical Reasoning",
+      "module_code": "MTH024",
+      "module_level": "Level 0",
+      "path": "MTH|APM -/MTH024.json"
+    },
+    {
+      "full_name": "Calculus I",
+      "module_code": "MTH026",
+      "module_level": "Level 0",
+      "path": "MTH|APM -/MTH026.json"
+    },
+    {
+      "full_name": "Linear Algebra I",
+      "module_code": "MTH028",
+      "module_level": "Level 0",
+      "path": "MTH|APM -/MTH028.json"
+    },
+    {
+      "full_name": "Introductory Calculus",
+      "module_code": "MTH030",
+      "module_level": "Level 0",
+      "path": "MTH|APM -/MTH030.json"
+    },
+    {
+      "full_name": "Calculus II for Science and Engineering",
+      "module_code": "MTH031",
+      "module_level": "Level 0",
+      "path": "MTH|APM -/MTH031.json"
+    },
+    {
+      "full_name": "Calculus II for Business and Arts",
+      "module_code": "MTH032",
+      "module_level": "Level 0",
+      "path": "MTH|APM -/MTH032.json"
+    },
+    {
+      "full_name": "Linear Algebra II",
+      "module_code": "MTH033",
+      "module_level": "Level 0",
+      "path": "MTH|APM -/MTH033.json"
+    },
+    {
+      "full_name": "From Mathematical Basics to Visual Data Analysis with AI",
+      "module_code": "MTH066",
+      "module_level": "Level 0",
+      "path": "MTH|APM -/MTH066.json"
+    },
+    {
+      "full_name": "Engineering Mathematics I",
+      "module_code": "MTH101",
+      "module_level": "Level 1",
+      "path": "MTH|APM -/MTH101.json"
+    },
+    {
+      "full_name": "Engineering Mathematics II",
+      "module_code": "MTH102",
+      "module_level": "Level 1",
+      "path": "MTH|APM -/MTH102.json"
+    },
+    {
+      "full_name": "Introduction to Statistics",
+      "module_code": "MTH104",
+      "module_level": "Level 1",
+      "path": "MTH|APM -/MTH104.json"
+    },
+    {
+      "full_name": "Introduction to the Methods of Applied Mathematics",
+      "module_code": "MTH106",
+      "module_level": "Level 1",
+      "path": "MTH|APM -/MTH106.json"
+    },
+    {
+      "full_name": "Advanced Linear Algebra",
+      "module_code": "MTH107",
+      "module_level": "Level 1",
+      "path": "MTH|APM -/MTH107.json"
+    },
+    {
+      "full_name": "Dynamic Modelling",
+      "module_code": "MTH108",
+      "module_level": "Level 1",
+      "path": "MTH|APM -/MTH108.json"
+    },
+    {
+      "full_name": "Introduction to Probability and Statistics",
+      "module_code": "MTH113",
+      "module_level": "Level 1",
+      "path": "MTH|APM -/MTH113.json"
+    },
+    {
+      "full_name": "Foundations of Financial Computing",
+      "module_code": "MTH116",
+      "module_level": "Level 1",
+      "path": "MTH|APM -/MTH116.json"
+    },
+    {
+      "full_name": "Analysis 1",
+      "module_code": "MTH117",
+      "module_level": "Level 1",
+      "path": "MTH|APM -/MTH117.json"
+    },
+    {
+      "full_name": "Analysis 2",
+      "module_code": "MTH118",
+      "module_level": "Level 1",
+      "path": "MTH|APM -/MTH118.json"
+    },
+    {
+      "full_name": "Theory of Interest",
+      "module_code": "MTH120",
+      "module_level": "Level 1",
+      "path": "MTH|APM -/MTH120.json"
+    },
+    {
+      "full_name": "Introduction to Abstract Algebra",
+      "module_code": "MTH122",
+      "module_level": "Level 1",
+      "path": "MTH|APM -/MTH122.json"
+    },
+    {
+      "full_name": "Differential Equations for Engineers",
+      "module_code": "MTH123",
+      "module_level": "Level 1",
+      "path": "MTH|APM -/MTH123.json"
+    },
+    {
+      "full_name": "Real Analysis for Financial Mathematics",
+      "module_code": "MTH125",
+      "module_level": "Level 1",
+      "path": "MTH|APM -/MTH125.json"
+    },
+    {
+      "full_name": "Differential Equations With Computer Solutions",
+      "module_code": "MTH126",
+      "module_level": "Level 1",
+      "path": "MTH|APM -/MTH126.json"
+    },
+    {
+      "full_name": "Introduction to Probability",
+      "module_code": "MTH127",
+      "module_level": "Level 1",
+      "path": "MTH|APM -/MTH127.json"
+    },
+    {
+      "full_name": "Bridging Math, Physics, and Entrepreneurship",
+      "module_code": "MTH128",
+      "module_level": "Level 1",
+      "path": "MTH|APM -/MTH128.json"
+    },
+    {
+      "full_name": "Introduction to AI for Mathematical Sciences",
+      "module_code": "MTH129",
+      "module_level": "Level 1",
+      "path": "MTH|APM -/MTH129.json"
+    },
+    {
+      "full_name": "Engineering Mathematics III",
+      "module_code": "MTH201",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH201.json"
+    },
+    {
+      "full_name": "Introduction to Financial Mathematics",
+      "module_code": "MTH202",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH202.json"
+    },
+    {
+      "full_name": "Introduction to Operational Research",
+      "module_code": "MTH203",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH203.json"
+    },
+    {
+      "full_name": "Introduction to Statistical Methods",
+      "module_code": "MTH205",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH205.json"
+    },
+    {
+      "full_name": "Statistical Distribution Theory",
+      "module_code": "MTH206",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH206.json"
+    },
+    {
+      "full_name": "Vector Fields: Theory and Applications",
+      "module_code": "MTH207",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH207.json"
+    },
+    {
+      "full_name": "Numerical Analysis",
+      "module_code": "MTH208",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH208.json"
+    },
+    {
+      "full_name": "Classical Mechanics",
+      "module_code": "MTH209",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH209.json"
+    },
+    {
+      "full_name": "Partial Differential Equations",
+      "module_code": "MTH210",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH210.json"
+    },
+    {
+      "full_name": "Ordinary Differential Equations and Control",
+      "module_code": "MTH212",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH212.json"
+    },
+    {
+      "full_name": "Life Insurance Mathematics II",
+      "module_code": "MTH214",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH214.json"
+    },
+    {
+      "full_name": "Life Insurance Mathematics I",
+      "module_code": "MTH217",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH217.json"
+    },
+    {
+      "full_name": "Complex Functions",
+      "module_code": "MTH219",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH219.json"
+    },
+    {
+      "full_name": "Financial Engineering (I)：Advanced Modelling and Derivative Securities",
+      "module_code": "MTH222",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH222.json"
+    },
+    {
+      "full_name": "Metric Spaces",
+      "module_code": "MTH224",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH224.json"
+    },
+    {
+      "full_name": "Fluid Mechanics and Vector Fields for Engineering",
+      "module_code": "MTH227",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH227.json"
+    },
+    {
+      "full_name": "Discrete Mathematics",
+      "module_code": "MTH229",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH229.json"
+    },
+    {
+      "full_name": "Symmetries in Geometry",
+      "module_code": "MTH230",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH230.json"
+    },
+    {
+      "full_name": "Stochastic Processes and Calculus",
+      "module_code": "MTH232",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH232.json"
+    },
+    {
+      "full_name": "Foundations of Quantitative Investments",
+      "module_code": "MTH233",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH233.json"
+    },
+    {
+      "full_name": "Quantitative Finance with Programming",
+      "module_code": "MTH234",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH234.json"
+    },
+    {
+      "full_name": "Statistical Methods for Actuarial Science",
+      "module_code": "MTH236",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH236.json"
+    },
+    {
+      "full_name": "Stochastic Modelling in Insurance and Finance I",
+      "module_code": "MTH237",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH237.json"
+    },
+    {
+      "full_name": "Risk Modelling and Survival Analysis",
+      "module_code": "MTH238",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH238.json"
+    },
+    {
+      "full_name": "Introduction to Modern Cryptography",
+      "module_code": "MTH239",
+      "module_level": "Level 2",
+      "path": "MTH|APM -/MTH239.json"
+    },
+    {
+      "full_name": "Final Year Project",
+      "module_code": "MTH301",
+      "module_level": "Level 3",
+      "path": "MTH|APM -/MTH301.json"
+    },
+    {
+      "full_name": "Applied Probability",
+      "module_code": "MTH302",
+      "module_level": "Level 3",
+      "path": "MTH|APM -/MTH302.json"
+    },
+    {
+      "full_name": "Linear Statistical Models",
+      "module_code": "MTH303",
+      "module_level": "Level 3",
+      "path": "MTH|APM -/MTH303.json"
+    },
+    {
+      "full_name": "Risk Management",
+      "module_code": "MTH305",
+      "module_level": "Level 3",
+      "path": "MTH|APM -/MTH305.json"
+    },
+    {
+      "full_name": "Population Dynamics",
+      "module_code": "MTH307",
+      "module_level": "Level 3",
+      "path": "MTH|APM -/MTH307.json"
+    },
+    {
+      "full_name": "Mathematical Models of Solids and Fluids",
+      "module_code": "MTH308",
+      "module_level": "Level 3",
+      "path": "MTH|APM -/MTH308.json"
+    },
+    {
+      "full_name": "Functional Analysis",
+      "module_code": "MTH310",
+      "module_level": "Level 3",
+      "path": "MTH|APM -/MTH310.json"
+    },
+    {
+      "full_name": "Stochastic Modeling in Insurance and Finance II",
+      "module_code": "MTH312",
+      "module_level": "Level 3",
+      "path": "MTH|APM -/MTH312.json"
+    },
+    {
+      "full_name": "Modern Actuarial Statistics",
+      "module_code": "MTH313",
+      "module_level": "Level 3",
+      "path": "MTH|APM -/MTH313.json"
+    },
+    {
+      "full_name": "Geometry of Curves and Surfaces",
+      "module_code": "MTH315",
+      "module_level": "Level 3",
+      "path": "MTH|APM -/MTH315.json"
+    },
+    {
+      "full_name": "Applied Multivariate Statistics",
+      "module_code": "MTH316",
+      "module_level": "Level 3",
+      "path": "MTH|APM -/MTH316.json"
+    },
+    {
+      "full_name": "Optimisation Theory",
+      "module_code": "MTH318",
+      "module_level": "Level 3",
+      "path": "MTH|APM -/MTH318.json"
+    },
+    {
+      "full_name": "Financial Engineering(II): Numerical Methods and Asset Models",
+      "module_code": "MTH319",
+      "module_level": "Level 3",
+      "path": "MTH|APM -/MTH319.json"
+    },
+    {
+      "full_name": "Numerical Analysis of Partial Differential Equations",
+      "module_code": "MTH321",
+      "module_level": "Level 3",
+      "path": "MTH|APM -/MTH321.json"
+    },
+    {
+      "full_name": "Probability Measures and Asset Pricing",
+      "module_code": "MTH322",
+      "module_level": "Level 3",
+      "path": "MTH|APM -/MTH322.json"
+    },
+    {
+      "full_name": "Topology",
+      "module_code": "MTH323",
+      "module_level": "Level 3",
+      "path": "MTH|APM -/MTH323.json"
+    },
+    {
+      "full_name": "Statistical Learning Theory and Applications",
+      "module_code": "MTH324",
+      "module_level": "Level 3",
+      "path": "MTH|APM -/MTH324.json"
+    },
+    {
+      "full_name": "Mathematical Risk Theory",
+      "module_code": "MTH325",
+      "module_level": "Level 3",
+      "path": "MTH|APM -/MTH325.json"
+    },
+    {
+      "full_name": "Computational Methods in Finance I",
+      "module_code": "MTH401",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH401.json"
+    },
+    {
+      "full_name": "Fixed Income Securities",
+      "module_code": "MTH402",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH402.json"
+    },
+    {
+      "full_name": "Introduction to Pricing and Hedging",
+      "module_code": "MTH403",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH403.json"
+    },
+    {
+      "full_name": "Statistical Methods in Finance",
+      "module_code": "MTH404",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH404.json"
+    },
+    {
+      "full_name": "Financial Econometrics",
+      "module_code": "MTH405",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH405.json"
+    },
+    {
+      "full_name": "Arbitrage, Equilibrium and Pricing",
+      "module_code": "MTH406",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH406.json"
+    },
+    {
+      "full_name": "Computational Methods in Finance II",
+      "module_code": "MTH408",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH408.json"
+    },
+    {
+      "full_name": "Portfolio Theory and Risk Management",
+      "module_code": "MTH409",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH409.json"
+    },
+    {
+      "full_name": "Dissertation",
+      "module_code": "MTH411",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH411.json"
+    },
+    {
+      "full_name": "Database Management",
+      "module_code": "MTH412",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH412.json"
+    },
+    {
+      "full_name": "Mathematics and Statistics for Data Science",
+      "module_code": "MTH413",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH413.json"
+    },
+    {
+      "full_name": "Statistical Learning With Applications in Python",
+      "module_code": "MTH414",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH414.json"
+    },
+    {
+      "full_name": "Optimization Algorithms for Data Science",
+      "module_code": "MTH415",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH415.json"
+    },
+    {
+      "full_name": "Neural Networks and Deep Learning",
+      "module_code": "MTH416",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH416.json"
+    },
+    {
+      "full_name": "Dissertation",
+      "module_code": "MTH417",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH417.json"
+    },
+    {
+      "full_name": "Theory and Applications of Partial Differential Equations",
+      "module_code": "MTH418",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH418.json"
+    },
+    {
+      "full_name": "Scientific Computing",
+      "module_code": "MTH419",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH419.json"
+    },
+    {
+      "full_name": "Measures and Integrals",
+      "module_code": "MTH420",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH420.json"
+    },
+    {
+      "full_name": "Actuarial Modelling",
+      "module_code": "MTH432",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH432.json"
+    },
+    {
+      "full_name": "Financial Mathematics for Actuarial Practice",
+      "module_code": "MTH433",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH433.json"
+    },
+    {
+      "full_name": "Life Insurance Mathematics",
+      "module_code": "MTH434",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH434.json"
+    },
+    {
+      "full_name": "Stochastic Modelling in Actuarial Science",
+      "module_code": "MTH435",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH435.json"
+    },
+    {
+      "full_name": "Advanced Statistical Learning Theory",
+      "module_code": "MTH436",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH436.json"
+    },
+    {
+      "full_name": "Corporate Finance for Insurance",
+      "module_code": "MTH438",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH438.json"
+    },
+    {
+      "full_name": "Dissertation Project",
+      "module_code": "MTH439",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH439.json"
+    },
+    {
+      "full_name": "Advanced Topics in Operational Research",
+      "module_code": "MTH443",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH443.json"
+    },
+    {
+      "full_name": "Calculus of Variations and Optimal Control",
+      "module_code": "MTH444",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH444.json"
+    },
+    {
+      "full_name": "Computational Geometry",
+      "module_code": "MTH445",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH445.json"
+    },
+    {
+      "full_name": "Dissertation",
+      "module_code": "MTH446",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH446.json"
+    },
+    {
+      "full_name": "Deep Learning in Finance",
+      "module_code": "MTH447",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH447.json"
+    },
+    {
+      "full_name": "Quantitative Finance with Applications",
+      "module_code": "MTH448",
+      "module_level": "Level 4",
+      "path": "MTH|APM -/MTH448.json"
     },
     {
       "full_name": "Introduction to Insurance",
@@ -15078,6 +18300,168 @@
       "module_code": "TRI310",
       "module_level": "Level 3",
       "path": "TRI|ALS - Translation and Interpreting/TRI310.json"
+    },
+    {
+      "full_name": "Essentials of Translation and Interpreting",
+      "module_code": "TRI002",
+      "module_level": "Level 0",
+      "path": "TRI|ALS -/TRI002.json"
+    },
+    {
+      "full_name": "AI-Empowered Translation and Intercultural Communication",
+      "module_code": "TRI101",
+      "module_level": "Level 1",
+      "path": "TRI|ALS -/TRI101.json"
+    },
+    {
+      "full_name": "Introduction to Translation and Interpreting",
+      "module_code": "TRI102",
+      "module_level": "Level 1",
+      "path": "TRI|ALS -/TRI102.json"
+    },
+    {
+      "full_name": "Business Communication with Interpreting",
+      "module_code": "TRI104",
+      "module_level": "Level 1",
+      "path": "TRI|ALS -/TRI104.json"
+    },
+    {
+      "full_name": "Translation and Globalisation",
+      "module_code": "TRI106",
+      "module_level": "Level 1",
+      "path": "TRI|ALS -/TRI106.json"
+    },
+    {
+      "full_name": "Translation in Context",
+      "module_code": "TRI108",
+      "module_level": "Level 1",
+      "path": "TRI|ALS -/TRI108.json"
+    },
+    {
+      "full_name": "Translation: Theory and Practice",
+      "module_code": "TRI201",
+      "module_level": "Level 2",
+      "path": "TRI|ALS -/TRI201.json"
+    },
+    {
+      "full_name": "Interpreting",
+      "module_code": "TRI202",
+      "module_level": "Level 2",
+      "path": "TRI|ALS -/TRI202.json"
+    },
+    {
+      "full_name": "Language Studies for Translation",
+      "module_code": "TRI203",
+      "module_level": "Level 2",
+      "path": "TRI|ALS -/TRI203.json"
+    },
+    {
+      "full_name": "Sight Translation",
+      "module_code": "TRI205",
+      "module_level": "Level 2",
+      "path": "TRI|ALS -/TRI205.json"
+    },
+    {
+      "full_name": "Translation and AI Technology",
+      "module_code": "TRI206",
+      "module_level": "Level 2",
+      "path": "TRI|ALS -/TRI206.json"
+    },
+    {
+      "full_name": "Translation and Culture",
+      "module_code": "TRI207",
+      "module_level": "Level 2",
+      "path": "TRI|ALS -/TRI207.json"
+    },
+    {
+      "full_name": "Translation and Journalism",
+      "module_code": "TRI208",
+      "module_level": "Level 2",
+      "path": "TRI|ALS -/TRI208.json"
+    },
+    {
+      "full_name": "Literary Translation",
+      "module_code": "TRI209",
+      "module_level": "Level 2",
+      "path": "TRI|ALS -/TRI209.json"
+    },
+    {
+      "full_name": "Translation and Computation",
+      "module_code": "TRI210",
+      "module_level": "Level 2",
+      "path": "TRI|ALS -/TRI210.json"
+    },
+    {
+      "full_name": "Translation and Interpreting for International Business",
+      "module_code": "TRI211",
+      "module_level": "Level 2",
+      "path": "TRI|ALS -/TRI211.json"
+    },
+    {
+      "full_name": "Translation for Legal Purposes",
+      "module_code": "TRI212",
+      "module_level": "Level 2",
+      "path": "TRI|ALS -/TRI212.json"
+    },
+    {
+      "full_name": "Translation and Interpreting: Final Year Project",
+      "module_code": "TRI301",
+      "module_level": "Level 3",
+      "path": "TRI|ALS -/TRI301.json"
+    },
+    {
+      "full_name": "Technology-Enhanced Audiovisual Translation",
+      "module_code": "TRI302",
+      "module_level": "Level 3",
+      "path": "TRI|ALS -/TRI302.json"
+    },
+    {
+      "full_name": "Conference Interpreting",
+      "module_code": "TRI303",
+      "module_level": "Level 3",
+      "path": "TRI|ALS -/TRI303.json"
+    },
+    {
+      "full_name": "Translation Workshop II",
+      "module_code": "TRI304",
+      "module_level": "Level 3",
+      "path": "TRI|ALS -/TRI304.json"
+    },
+    {
+      "full_name": "Translation Workshop I",
+      "module_code": "TRI305",
+      "module_level": "Level 3",
+      "path": "TRI|ALS -/TRI305.json"
+    },
+    {
+      "full_name": "Translation and Society",
+      "module_code": "TRI306",
+      "module_level": "Level 3",
+      "path": "TRI|ALS -/TRI306.json"
+    },
+    {
+      "full_name": "Translating China I: Culture and History",
+      "module_code": "TRI307",
+      "module_level": "Level 3",
+      "path": "TRI|ALS -/TRI307.json"
+    },
+    {
+      "full_name": "Translation and Interpreting as a Profession",
+      "module_code": "TRI308",
+      "module_level": "Level 3",
+      "path": "TRI|ALS -/TRI308.json"
+    },
+    {
+      "full_name": "Localisation and Translation Project Management",
+      "module_code": "TRI309",
+      "module_level": "Level 3",
+      "path": "TRI|ALS -/TRI309.json"
+    },
+    {
+      "full_name": "Translating China II: Society and Economy",
+      "module_code": "TRI310",
+      "module_level": "Level 3",
+      "path": "TRI|ALS -/TRI310.json"
     },
     {
       "full_name": "Introduction to Urban Planning and Design",
