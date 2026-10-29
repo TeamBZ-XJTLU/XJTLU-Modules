@@ -1,6 +1,6 @@
 {
   "base_url": "https://modules.xjtlu.edu.cn",
-  "department_count": 77,
+  "department_count": 80,
   "error_count": 0,
   "errors": [],
   "generated_paths": [
@@ -1846,6 +1846,7 @@
     "MEC|MEC - Mechatronic Systems/MEC307.json",
     "MEC|MEC - Mechatronic Systems/MEC401.json",
     "MEC|MEC - Mechatronic Systems/MEC402.json",
+    "MESTC|CHP -",
     "MESTC|CHP - Microelectronic Science and Engineering",
     "MESTC|CHP - Microelectronic Science and Engineering/MES001TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES003TC.json",
@@ -1880,6 +1881,40 @@
     "MESTC|CHP - Microelectronic Science and Engineering/MES407TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES408TC.json",
     "MESTC|CHP - Microelectronic Science and Engineering/MES409TC.json",
+    "MESTC|CHP -/MES001TC.json",
+    "MESTC|CHP -/MES003TC.json",
+    "MESTC|CHP -/MES102TC.json",
+    "MESTC|CHP -/MES103TC.json",
+    "MESTC|CHP -/MES104TC.json",
+    "MESTC|CHP -/MES105TC.json",
+    "MESTC|CHP -/MES106TC.json",
+    "MESTC|CHP -/MES201TC.json",
+    "MESTC|CHP -/MES202TC.json",
+    "MESTC|CHP -/MES204TC.json",
+    "MESTC|CHP -/MES205TC.json",
+    "MESTC|CHP -/MES207TC.json",
+    "MESTC|CHP -/MES208TC.json",
+    "MESTC|CHP -/MES209TC.json",
+    "MESTC|CHP -/MES210TC.json",
+    "MESTC|CHP -/MES211TC.json",
+    "MESTC|CHP -/MES301TC.json",
+    "MESTC|CHP -/MES302TC.json",
+    "MESTC|CHP -/MES303TC.json",
+    "MESTC|CHP -/MES304TC.json",
+    "MESTC|CHP -/MES305TC.json",
+    "MESTC|CHP -/MES306TC.json",
+    "MESTC|CHP -/MES307TC.json",
+    "MESTC|CHP -/MES311TC.json",
+    "MESTC|CHP -/MES401TC.json",
+    "MESTC|CHP -/MES402TC.json",
+    "MESTC|CHP -/MES403TC.json",
+    "MESTC|CHP -/MES404TC.json",
+    "MESTC|CHP -/MES405TC.json",
+    "MESTC|CHP -/MES406TC.json",
+    "MESTC|CHP -/MES407TC.json",
+    "MESTC|CHP -/MES408TC.json",
+    "MESTC|CHP -/MES409TC.json",
+    "MFETC|IME -",
     "MFETC|IME - Manufacturing Engineering",
     "MFETC|IME - Manufacturing Engineering/MFE001TC.json",
     "MFETC|IME - Manufacturing Engineering/MFE002TC.json",
@@ -1923,6 +1958,48 @@
     "MFETC|IME - Manufacturing Engineering/MFE421TC.json",
     "MFETC|IME - Manufacturing Engineering/MFE422TC.json",
     "MFETC|IME - Manufacturing Engineering/MFE423TC.json",
+    "MFETC|IME -/MFE001TC.json",
+    "MFETC|IME -/MFE002TC.json",
+    "MFETC|IME -/MFE103TC.json",
+    "MFETC|IME -/MFE104TC.json",
+    "MFETC|IME -/MFE107TC.json",
+    "MFETC|IME -/MFE108TC.json",
+    "MFETC|IME -/MFE110TC.json",
+    "MFETC|IME -/MFE112TC.json",
+    "MFETC|IME -/MFE113TC.json",
+    "MFETC|IME -/MFE201TC.json",
+    "MFETC|IME -/MFE204TC.json",
+    "MFETC|IME -/MFE205TC.json",
+    "MFETC|IME -/MFE206TC.json",
+    "MFETC|IME -/MFE208TC.json",
+    "MFETC|IME -/MFE209TC.json",
+    "MFETC|IME -/MFE301TC.json",
+    "MFETC|IME -/MFE302TC.json",
+    "MFETC|IME -/MFE304TC.json",
+    "MFETC|IME -/MFE306TC.json",
+    "MFETC|IME -/MFE309TC.json",
+    "MFETC|IME -/MFE310TC.json",
+    "MFETC|IME -/MFE311TC.json",
+    "MFETC|IME -/MFE401TC.json",
+    "MFETC|IME -/MFE402TC.json",
+    "MFETC|IME -/MFE403TC.json",
+    "MFETC|IME -/MFE405TC.json",
+    "MFETC|IME -/MFE406TC.json",
+    "MFETC|IME -/MFE407TC.json",
+    "MFETC|IME -/MFE410TC.json",
+    "MFETC|IME -/MFE411TC.json",
+    "MFETC|IME -/MFE412TC.json",
+    "MFETC|IME -/MFE413TC.json",
+    "MFETC|IME -/MFE414TC.json",
+    "MFETC|IME -/MFE415TC.json",
+    "MFETC|IME -/MFE416TC.json",
+    "MFETC|IME -/MFE417TC.json",
+    "MFETC|IME -/MFE418TC.json",
+    "MFETC|IME -/MFE419TC.json",
+    "MFETC|IME -/MFE420TC.json",
+    "MFETC|IME -/MFE421TC.json",
+    "MFETC|IME -/MFE422TC.json",
+    "MFETC|IME -/MFE423TC.json",
     "MTH|APM -",
     "MTH|APM - Mathematical Sciences",
     "MTH|APM - Mathematical Sciences/MTH012.json",
@@ -2509,6 +2586,7 @@
     "PSP|PSP -/PSP407.json",
     "PSP|PSP -/PSP408.json",
     "PSP|PSP -/PSP409.json",
+    "RBETC|IRE -",
     "RBETC|IRE - Robotics",
     "RBETC|IRE - Robotics/RBE001TC.json",
     "RBETC|IRE - Robotics/RBE002TC.json",
@@ -2549,6 +2627,45 @@
     "RBETC|IRE - Robotics/RBE412TC.json",
     "RBETC|IRE - Robotics/RBE413TC.json",
     "RBETC|IRE - Robotics/RBE414TC.json",
+    "RBETC|IRE -/RBE001TC.json",
+    "RBETC|IRE -/RBE002TC.json",
+    "RBETC|IRE -/RBE101TC.json",
+    "RBETC|IRE -/RBE102TC.json",
+    "RBETC|IRE -/RBE103TC.json",
+    "RBETC|IRE -/RBE104TC.json",
+    "RBETC|IRE -/RBE106TC.json",
+    "RBETC|IRE -/RBE201TC.json",
+    "RBETC|IRE -/RBE203TC.json",
+    "RBETC|IRE -/RBE204TC.json",
+    "RBETC|IRE -/RBE205TC.json",
+    "RBETC|IRE -/RBE206TC.json",
+    "RBETC|IRE -/RBE207TC.json",
+    "RBETC|IRE -/RBE208TC.json",
+    "RBETC|IRE -/RBE210TC.json",
+    "RBETC|IRE -/RBE211TC.json",
+    "RBETC|IRE -/RBE301TC.json",
+    "RBETC|IRE -/RBE302TC.json",
+    "RBETC|IRE -/RBE303TC.json",
+    "RBETC|IRE -/RBE304TC.json",
+    "RBETC|IRE -/RBE305TC.json",
+    "RBETC|IRE -/RBE306TC.json",
+    "RBETC|IRE -/RBE307TC.json",
+    "RBETC|IRE -/RBE308TC.json",
+    "RBETC|IRE -/RBE309TC.json",
+    "RBETC|IRE -/RBE311TC.json",
+    "RBETC|IRE -/RBE401TC.json",
+    "RBETC|IRE -/RBE403TC.json",
+    "RBETC|IRE -/RBE404TC.json",
+    "RBETC|IRE -/RBE405TC.json",
+    "RBETC|IRE -/RBE406TC.json",
+    "RBETC|IRE -/RBE407TC.json",
+    "RBETC|IRE -/RBE408TC.json",
+    "RBETC|IRE -/RBE409TC.json",
+    "RBETC|IRE -/RBE410TC.json",
+    "RBETC|IRE -/RBE411TC.json",
+    "RBETC|IRE -/RBE412TC.json",
+    "RBETC|IRE -/RBE413TC.json",
+    "RBETC|IRE -/RBE414TC.json",
     "SMO|SMO - Strategic Management and Organizations",
     "SMO|SMO - Strategic Management and Organizations/SMO001.json",
     "SMO|SMO - Strategic Management and Organizations/SMO003.json",
@@ -2729,7 +2846,7 @@
     "UPD|UPD - Urban Planning and Design/UPD410.json",
     "XPU|LIFE - XIPU AI general education"
   ],
-  "module_file_count": 2647,
+  "module_file_count": 2761,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -13634,6 +13751,204 @@
       "path": "MESTC|CHP - Microelectronic Science and Engineering/MES409TC.json"
     },
     {
+      "full_name": "Nanobiotechnology",
+      "module_code": "MES001TC",
+      "module_level": "Level 0",
+      "path": "MESTC|CHP -/MES001TC.json"
+    },
+    {
+      "full_name": "Introduction to Artificial Intelligence and Its VLSI Implementation",
+      "module_code": "MES003TC",
+      "module_level": "Level 0",
+      "path": "MESTC|CHP -/MES003TC.json"
+    },
+    {
+      "full_name": "Experimental, Computer Skills and Sustainability",
+      "module_code": "MES102TC",
+      "module_level": "Level 1",
+      "path": "MESTC|CHP -/MES102TC.json"
+    },
+    {
+      "full_name": "C Programming Language",
+      "module_code": "MES103TC",
+      "module_level": "Level 1",
+      "path": "MESTC|CHP -/MES103TC.json"
+    },
+    {
+      "full_name": "Integrated Circuits Design and Fabrication",
+      "module_code": "MES104TC",
+      "module_level": "Level 1",
+      "path": "MESTC|CHP -/MES104TC.json"
+    },
+    {
+      "full_name": "AI-centric Technology Fundamentals and Perspectives for CHIPS",
+      "module_code": "MES105TC",
+      "module_level": "Level 1",
+      "path": "MESTC|CHP -/MES105TC.json"
+    },
+    {
+      "full_name": "Electronic Circuits and Systems",
+      "module_code": "MES106TC",
+      "module_level": "Level 1",
+      "path": "MESTC|CHP -/MES106TC.json"
+    },
+    {
+      "full_name": "Advanced Power Electronic Devices and Electrical Circuits",
+      "module_code": "MES201TC",
+      "module_level": "Level 2",
+      "path": "MESTC|CHP -/MES201TC.json"
+    },
+    {
+      "full_name": "Digital VLSI System Design and Design Automation",
+      "module_code": "MES202TC",
+      "module_level": "Level 2",
+      "path": "MESTC|CHP -/MES202TC.json"
+    },
+    {
+      "full_name": "Microprocessor Systems",
+      "module_code": "MES204TC",
+      "module_level": "Level 2",
+      "path": "MESTC|CHP -/MES204TC.json"
+    },
+    {
+      "full_name": "Digital Electronics II",
+      "module_code": "MES205TC",
+      "module_level": "Level 2",
+      "path": "MESTC|CHP -/MES205TC.json"
+    },
+    {
+      "full_name": "CMOS Digital Integrated Circuits",
+      "module_code": "MES207TC",
+      "module_level": "Level 2",
+      "path": "MESTC|CHP -/MES207TC.json"
+    },
+    {
+      "full_name": "RF Engineering and Applied Electromagnetics",
+      "module_code": "MES208TC",
+      "module_level": "Level 2",
+      "path": "MESTC|CHP -/MES208TC.json"
+    },
+    {
+      "full_name": "Electromagnetism and Electromechanics",
+      "module_code": "MES209TC",
+      "module_level": "Level 2",
+      "path": "MESTC|CHP -/MES209TC.json"
+    },
+    {
+      "full_name": "Continuous and Discrete Time Signals and Systems",
+      "module_code": "MES210TC",
+      "module_level": "Level 2",
+      "path": "MESTC|CHP -/MES210TC.json"
+    },
+    {
+      "full_name": "Semiconductor Memory Devices and Circuits",
+      "module_code": "MES211TC",
+      "module_level": "Level 2",
+      "path": "MESTC|CHP -/MES211TC.json"
+    },
+    {
+      "full_name": "Analog Integrated Circuits Analysis and Design",
+      "module_code": "MES301TC",
+      "module_level": "Level 3",
+      "path": "MESTC|CHP -/MES301TC.json"
+    },
+    {
+      "full_name": "IC Technology and Engineering",
+      "module_code": "MES302TC",
+      "module_level": "Level 3",
+      "path": "MESTC|CHP -/MES302TC.json"
+    },
+    {
+      "full_name": "Integrated Circuits - Concepts and Design",
+      "module_code": "MES303TC",
+      "module_level": "Level 3",
+      "path": "MESTC|CHP -/MES303TC.json"
+    },
+    {
+      "full_name": "Integrated Circuits - Fabrication and Testing",
+      "module_code": "MES304TC",
+      "module_level": "Level 3",
+      "path": "MESTC|CHP -/MES304TC.json"
+    },
+    {
+      "full_name": "Photonics and Photonic Hybrid Systems",
+      "module_code": "MES305TC",
+      "module_level": "Level 3",
+      "path": "MESTC|CHP -/MES305TC.json"
+    },
+    {
+      "full_name": "Atomic-Level Semiconductor Materials Simulation",
+      "module_code": "MES306TC",
+      "module_level": "Level 3",
+      "path": "MESTC|CHP -/MES306TC.json"
+    },
+    {
+      "full_name": "Sensors and Integrated Systems",
+      "module_code": "MES307TC",
+      "module_level": "Level 3",
+      "path": "MESTC|CHP -/MES307TC.json"
+    },
+    {
+      "full_name": "Final Year Project",
+      "module_code": "MES311TC",
+      "module_level": "Level 3",
+      "path": "MESTC|CHP -/MES311TC.json"
+    },
+    {
+      "full_name": "Semiconductor Materials and Devices",
+      "module_code": "MES401TC",
+      "module_level": "Level 4",
+      "path": "MESTC|CHP -/MES401TC.json"
+    },
+    {
+      "full_name": "Characterization of Materials and Microelectronic Devices",
+      "module_code": "MES402TC",
+      "module_level": "Level 4",
+      "path": "MESTC|CHP -/MES402TC.json"
+    },
+    {
+      "full_name": "Micro/Nano Electromechanical Systems",
+      "module_code": "MES403TC",
+      "module_level": "Level 4",
+      "path": "MESTC|CHP -/MES403TC.json"
+    },
+    {
+      "full_name": "Advanced Microfabrication Technology",
+      "module_code": "MES404TC",
+      "module_level": "Level 4",
+      "path": "MESTC|CHP -/MES404TC.json"
+    },
+    {
+      "full_name": "Introduction to Emerging Devices and Technology",
+      "module_code": "MES405TC",
+      "module_level": "Level 4",
+      "path": "MESTC|CHP -/MES405TC.json"
+    },
+    {
+      "full_name": "Industrial Research Dissertation",
+      "module_code": "MES406TC",
+      "module_level": "Level 4",
+      "path": "MESTC|CHP -/MES406TC.json"
+    },
+    {
+      "full_name": "Additive Manufacturing for Micro Devices",
+      "module_code": "MES407TC",
+      "module_level": "Level 4",
+      "path": "MESTC|CHP -/MES407TC.json"
+    },
+    {
+      "full_name": "Semicondutor Microstructure and Crystal Defects",
+      "module_code": "MES408TC",
+      "module_level": "Level 4",
+      "path": "MESTC|CHP -/MES408TC.json"
+    },
+    {
+      "full_name": "Research Project Development",
+      "module_code": "MES409TC",
+      "module_level": "Level 4",
+      "path": "MESTC|CHP -/MES409TC.json"
+    },
+    {
       "full_name": "Exploring Engineering Creation and Innovation",
       "module_code": "MFE001TC",
       "module_level": "Level 0",
@@ -13884,6 +14199,258 @@
       "module_code": "MFE423TC",
       "module_level": "Level 4",
       "path": "MFETC|IME - Manufacturing Engineering/MFE423TC.json"
+    },
+    {
+      "full_name": "Exploring Engineering Creation and Innovation",
+      "module_code": "MFE001TC",
+      "module_level": "Level 0",
+      "path": "MFETC|IME -/MFE001TC.json"
+    },
+    {
+      "full_name": "Introduction to Intelligent Manufacturing Engineering",
+      "module_code": "MFE002TC",
+      "module_level": "Level 0",
+      "path": "MFETC|IME -/MFE002TC.json"
+    },
+    {
+      "full_name": "Introduction to Structural Materials",
+      "module_code": "MFE103TC",
+      "module_level": "Level 1",
+      "path": "MFETC|IME -/MFE103TC.json"
+    },
+    {
+      "full_name": "Electrical Circuits",
+      "module_code": "MFE104TC",
+      "module_level": "Level 1",
+      "path": "MFETC|IME -/MFE104TC.json"
+    },
+    {
+      "full_name": "Thermodynamics and Fluid Mechanics",
+      "module_code": "MFE107TC",
+      "module_level": "Level 1",
+      "path": "MFETC|IME -/MFE107TC.json"
+    },
+    {
+      "full_name": "Introduction to Mechatronics",
+      "module_code": "MFE108TC",
+      "module_level": "Level 1",
+      "path": "MFETC|IME -/MFE108TC.json"
+    },
+    {
+      "full_name": "Engineering Drawing",
+      "module_code": "MFE110TC",
+      "module_level": "Level 1",
+      "path": "MFETC|IME -/MFE110TC.json"
+    },
+    {
+      "full_name": "AI-Centric Fluid Power Transmission for Intelligent Manufacturing (Haier)",
+      "module_code": "MFE112TC",
+      "module_level": "Level 1",
+      "path": "MFETC|IME -/MFE112TC.json"
+    },
+    {
+      "full_name": "Programming Foundation for Intelligent Manufacturing Engineering",
+      "module_code": "MFE113TC",
+      "module_level": "Level 1",
+      "path": "MFETC|IME -/MFE113TC.json"
+    },
+    {
+      "full_name": "Principle of mechanical design",
+      "module_code": "MFE201TC",
+      "module_level": "Level 2",
+      "path": "MFETC|IME -/MFE201TC.json"
+    },
+    {
+      "full_name": "Artificial Intelligence and Data Analysis",
+      "module_code": "MFE204TC",
+      "module_level": "Level 1",
+      "path": "MFETC|IME -/MFE204TC.json"
+    },
+    {
+      "full_name": "Manufacturing process",
+      "module_code": "MFE205TC",
+      "module_level": "Level 2",
+      "path": "MFETC|IME -/MFE205TC.json"
+    },
+    {
+      "full_name": "Customer Oriented Mass Customization and Manufacturing System Planning (Haier)",
+      "module_code": "MFE206TC",
+      "module_level": "Level 2",
+      "path": "MFETC|IME -/MFE206TC.json"
+    },
+    {
+      "full_name": "Additive Manufacturing",
+      "module_code": "MFE208TC",
+      "module_level": "Level 2",
+      "path": "MFETC|IME -/MFE208TC.json"
+    },
+    {
+      "full_name": "Sensors, Instrumentation and Industrial Applications",
+      "module_code": "MFE209TC",
+      "module_level": "Level 2",
+      "path": "MFETC|IME -/MFE209TC.json"
+    },
+    {
+      "full_name": "Final Year Project-based on internship(project study report)",
+      "module_code": "MFE301TC",
+      "module_level": "Level 3",
+      "path": "MFETC|IME -/MFE301TC.json"
+    },
+    {
+      "full_name": "Intelligent manufacturing Information system (Haier)",
+      "module_code": "MFE302TC",
+      "module_level": "Level 3",
+      "path": "MFETC|IME -/MFE302TC.json"
+    },
+    {
+      "full_name": "Haier Ren Dan He Yi Management Model(Haier)",
+      "module_code": "MFE304TC",
+      "module_level": "Level 3",
+      "path": "MFETC|IME -/MFE304TC.json"
+    },
+    {
+      "full_name": "Management of Manufacturing Firms",
+      "module_code": "MFE306TC",
+      "module_level": "Level 3",
+      "path": "MFETC|IME -/MFE306TC.json"
+    },
+    {
+      "full_name": "Intelligent Automation",
+      "module_code": "MFE309TC",
+      "module_level": "Level 3",
+      "path": "MFETC|IME -/MFE309TC.json"
+    },
+    {
+      "full_name": "Natural Language Processing and Deep Learning",
+      "module_code": "MFE310TC",
+      "module_level": "Level 3",
+      "path": "MFETC|IME -/MFE310TC.json"
+    },
+    {
+      "full_name": "AI Augmented Intelligent Manufacturing",
+      "module_code": "MFE311TC",
+      "module_level": "Level 3",
+      "path": "MFETC|IME -/MFE311TC.json"
+    },
+    {
+      "full_name": "Industrial Internet of Things",
+      "module_code": "MFE401TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME -/MFE401TC.json"
+    },
+    {
+      "full_name": "Material Science and Manufacturing Processes",
+      "module_code": "MFE402TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME -/MFE402TC.json"
+    },
+    {
+      "full_name": "Bespoke Industrial Studio 1",
+      "module_code": "MFE403TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME -/MFE403TC.json"
+    },
+    {
+      "full_name": "Bespoke Industrial Studio 2",
+      "module_code": "MFE405TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME -/MFE405TC.json"
+    },
+    {
+      "full_name": "Systems Thinking and Modelling",
+      "module_code": "MFE406TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME -/MFE406TC.json"
+    },
+    {
+      "full_name": "Industrial Research Project",
+      "module_code": "MFE407TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME -/MFE407TC.json"
+    },
+    {
+      "full_name": "Research, Development, and Innovation",
+      "module_code": "MFE410TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME -/MFE410TC.json"
+    },
+    {
+      "full_name": "Big Data Analysis for Manufacturing",
+      "module_code": "MFE411TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME -/MFE411TC.json"
+    },
+    {
+      "full_name": "Engineering Frontiers: Methods and Applications",
+      "module_code": "MFE412TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME -/MFE412TC.json"
+    },
+    {
+      "full_name": "AI in Product Design",
+      "module_code": "MFE413TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME -/MFE413TC.json"
+    },
+    {
+      "full_name": "Intelligent Manufacturing Futures",
+      "module_code": "MFE414TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME -/MFE414TC.json"
+    },
+    {
+      "full_name": "Internship 1",
+      "module_code": "MFE415TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME -/MFE415TC.json"
+    },
+    {
+      "full_name": "Research Project 1",
+      "module_code": "MFE416TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME -/MFE416TC.json"
+    },
+    {
+      "full_name": "Internship 2 (Dissertation)",
+      "module_code": "MFE417TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME -/MFE417TC.json"
+    },
+    {
+      "full_name": "Research Project 2 (Dissertation)",
+      "module_code": "MFE418TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME -/MFE418TC.json"
+    },
+    {
+      "full_name": "Applied Research Techniques and Methodologies",
+      "module_code": "MFE419TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME -/MFE419TC.json"
+    },
+    {
+      "full_name": "Advanced Numerical Modelling Method",
+      "module_code": "MFE420TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME -/MFE420TC.json"
+    },
+    {
+      "full_name": "Intelligent Mechanical System Design and Application",
+      "module_code": "MFE421TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME -/MFE421TC.json"
+    },
+    {
+      "full_name": "Engineering Systems Analysis and Decision Making",
+      "module_code": "MFE422TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME -/MFE422TC.json"
+    },
+    {
+      "full_name": "Research Dissertation",
+      "module_code": "MFE423TC",
+      "module_level": "Level 4",
+      "path": "MFETC|IME -/MFE423TC.json"
     },
     {
       "full_name": "Introduction to Insurance",
@@ -17580,6 +18147,240 @@
       "module_code": "RBE414TC",
       "module_level": "Level 4",
       "path": "RBETC|IRE - Robotics/RBE414TC.json"
+    },
+    {
+      "full_name": "Introductions to Intelligent Robotics",
+      "module_code": "RBE001TC",
+      "module_level": "Level 0",
+      "path": "RBETC|IRE -/RBE001TC.json"
+    },
+    {
+      "full_name": "Explore Intelligent Robotics Technologies",
+      "module_code": "RBE002TC",
+      "module_level": "Level 0",
+      "path": "RBETC|IRE -/RBE002TC.json"
+    },
+    {
+      "full_name": "Engineering Mathematics",
+      "module_code": "RBE101TC",
+      "module_level": "Level 1",
+      "path": "RBETC|IRE -/RBE101TC.json"
+    },
+    {
+      "full_name": "Engineering Mathematics II",
+      "module_code": "RBE102TC",
+      "module_level": "Level 1",
+      "path": "RBETC|IRE -/RBE102TC.json"
+    },
+    {
+      "full_name": "Electronic Circuits - Analogue and Digital",
+      "module_code": "RBE103TC",
+      "module_level": "Level 1",
+      "path": "RBETC|IRE -/RBE103TC.json"
+    },
+    {
+      "full_name": "C/C++ Programming Language",
+      "module_code": "RBE104TC",
+      "module_level": "Level 1",
+      "path": "RBETC|IRE -/RBE104TC.json"
+    },
+    {
+      "full_name": "AI-centric Technology Fundamentals for Intelligent Robotics",
+      "module_code": "RBE106TC",
+      "module_level": "Level 1",
+      "path": "RBETC|IRE -/RBE106TC.json"
+    },
+    {
+      "full_name": "Computer Aided Design and Simulation with Sustainability Mindset in Robotics",
+      "module_code": "RBE201TC",
+      "module_level": "Level 2",
+      "path": "RBETC|IRE -/RBE201TC.json"
+    },
+    {
+      "full_name": "Automatic Control Theories and Applications",
+      "module_code": "RBE203TC",
+      "module_level": "Level 2",
+      "path": "RBETC|IRE -/RBE203TC.json"
+    },
+    {
+      "full_name": "Sensors and Instrumentation",
+      "module_code": "RBE204TC",
+      "module_level": "Level 2",
+      "path": "RBETC|IRE -/RBE204TC.json"
+    },
+    {
+      "full_name": "Mobile Robots Design",
+      "module_code": "RBE205TC",
+      "module_level": "Level 2",
+      "path": "RBETC|IRE -/RBE205TC.json"
+    },
+    {
+      "full_name": "Project-based Practice in Intelligent Robotics",
+      "module_code": "RBE206TC",
+      "module_level": "Level 2",
+      "path": "RBETC|IRE -/RBE206TC.json"
+    },
+    {
+      "full_name": "Microprocessor and Embedded Computer System",
+      "module_code": "RBE207TC",
+      "module_level": "Level 2",
+      "path": "RBETC|IRE -/RBE207TC.json"
+    },
+    {
+      "full_name": "Control Systems with AI: Theory and Practical Applications",
+      "module_code": "RBE208TC",
+      "module_level": "Level 2",
+      "path": "RBETC|IRE -/RBE208TC.json"
+    },
+    {
+      "full_name": "Mathematical Fundamentals of Machine Learning",
+      "module_code": "RBE210TC",
+      "module_level": "Level 2",
+      "path": "RBETC|IRE -/RBE210TC.json"
+    },
+    {
+      "full_name": "Dynamic Systems",
+      "module_code": "RBE211TC",
+      "module_level": "Level 2",
+      "path": "RBETC|IRE -/RBE211TC.json"
+    },
+    {
+      "full_name": "System Design in Robotics",
+      "module_code": "RBE301TC",
+      "module_level": "Level 3",
+      "path": "RBETC|IRE -/RBE301TC.json"
+    },
+    {
+      "full_name": "Actuators and Drives in Mechatronic Systems",
+      "module_code": "RBE302TC",
+      "module_level": "Level 3",
+      "path": "RBETC|IRE -/RBE302TC.json"
+    },
+    {
+      "full_name": "Robot Modeling and Control",
+      "module_code": "RBE303TC",
+      "module_level": "Level 3",
+      "path": "RBETC|IRE -/RBE303TC.json"
+    },
+    {
+      "full_name": "Principle of Intelligent Control",
+      "module_code": "RBE304TC",
+      "module_level": "Level 3",
+      "path": "RBETC|IRE -/RBE304TC.json"
+    },
+    {
+      "full_name": "Programmable Logic Controllers and Network Communications",
+      "module_code": "RBE305TC",
+      "module_level": "Level 3",
+      "path": "RBETC|IRE -/RBE305TC.json"
+    },
+    {
+      "full_name": "Computer Vision and Deep Learning",
+      "module_code": "RBE306TC",
+      "module_level": "Level 3",
+      "path": "RBETC|IRE -/RBE306TC.json"
+    },
+    {
+      "full_name": "Robot Operating System for Robotics Programming",
+      "module_code": "RBE307TC",
+      "module_level": "Level 3",
+      "path": "RBETC|IRE -/RBE307TC.json"
+    },
+    {
+      "full_name": "Natural Language Processing and Deep Learning",
+      "module_code": "RBE308TC",
+      "module_level": "Level 3",
+      "path": "RBETC|IRE -/RBE308TC.json"
+    },
+    {
+      "full_name": "Generative AI into Robotics",
+      "module_code": "RBE309TC",
+      "module_level": "Level 3",
+      "path": "RBETC|IRE -/RBE309TC.json"
+    },
+    {
+      "full_name": "Final Year Project",
+      "module_code": "RBE311TC",
+      "module_level": "Level 3",
+      "path": "RBETC|IRE -/RBE311TC.json"
+    },
+    {
+      "full_name": "Contemporary Mechatronics in Intelligent Robotics",
+      "module_code": "RBE401TC",
+      "module_level": "Level 4",
+      "path": "RBETC|IRE -/RBE401TC.json"
+    },
+    {
+      "full_name": "Intelligent Robotics and Applications",
+      "module_code": "RBE403TC",
+      "module_level": "Level 4",
+      "path": "RBETC|IRE -/RBE403TC.json"
+    },
+    {
+      "full_name": "Application of Cutting Edge Technologies in Robotics Design",
+      "module_code": "RBE404TC",
+      "module_level": "Level 4",
+      "path": "RBETC|IRE -/RBE404TC.json"
+    },
+    {
+      "full_name": "Advanced Robotics Intelligence and Machine Learning",
+      "module_code": "RBE405TC",
+      "module_level": "Level 4",
+      "path": "RBETC|IRE -/RBE405TC.json"
+    },
+    {
+      "full_name": "Advanced Computer Vision",
+      "module_code": "RBE406TC",
+      "module_level": "Level 4",
+      "path": "RBETC|IRE -/RBE406TC.json"
+    },
+    {
+      "full_name": "Advanced Robotics Algorithm Design",
+      "module_code": "RBE407TC",
+      "module_level": "Level 4",
+      "path": "RBETC|IRE -/RBE407TC.json"
+    },
+    {
+      "full_name": "Immersive Robotics Studio 1",
+      "module_code": "RBE408TC",
+      "module_level": "Level 4",
+      "path": "RBETC|IRE -/RBE408TC.json"
+    },
+    {
+      "full_name": "Immersive Robotics Studio 2",
+      "module_code": "RBE409TC",
+      "module_level": "Level 4",
+      "path": "RBETC|IRE -/RBE409TC.json"
+    },
+    {
+      "full_name": "Control and Sensor Technologies Applications",
+      "module_code": "RBE410TC",
+      "module_level": "Level 4",
+      "path": "RBETC|IRE -/RBE410TC.json"
+    },
+    {
+      "full_name": "Internship",
+      "module_code": "RBE411TC",
+      "module_level": "Level 4",
+      "path": "RBETC|IRE -/RBE411TC.json"
+    },
+    {
+      "full_name": "Work Integrated Learning Project",
+      "module_code": "RBE412TC",
+      "module_level": "Level 4",
+      "path": "RBETC|IRE -/RBE412TC.json"
+    },
+    {
+      "full_name": "Advanced Industrial Project",
+      "module_code": "RBE413TC",
+      "module_level": "Level 4",
+      "path": "RBETC|IRE -/RBE413TC.json"
+    },
+    {
+      "full_name": "Research Dissertation",
+      "module_code": "RBE414TC",
+      "module_level": "Level 4",
+      "path": "RBETC|IRE -/RBE414TC.json"
     },
     {
       "full_name": "Communication Skills for Personal Success",
