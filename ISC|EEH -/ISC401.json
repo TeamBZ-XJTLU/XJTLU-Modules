@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEH",
+    "domain_code": "ISC",
+    "full_name": ""
+  },
+  "full_name": "Startup & Industry Lab",
+  "module_code": "ISC401",
+  "offerings": [
+    {
+      "heading": "Startup & Industry Lab",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "ISC",
+        "full_name": "Startup & Industry Lab",
+        "module_code": "ISC401",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Startup & Industry Lab",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "",
+        "Learning outcomes": "",
+        "Method of teaching and learning": ""
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ISC401&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "base_url": "https://modules.xjtlu.edu.cn",
-  "department_count": 80,
+  "department_count": 81,
   "error_count": 0,
   "errors": [],
   "generated_paths": [
@@ -1501,6 +1501,9 @@
     "ISA|ISA -/ISA409.json",
     "ISA|ISA -/ISA410.json",
     "ISA|ISA -/ISA411.json",
+    "ISC|EEH -",
+    "ISC|EEH -/ISC401.json",
+    "ISC|EEH -/ISC402.json",
     "JPL|MLC - Japanese Language",
     "JPL|MLC - Japanese Language/JPL001.json",
     "JPL|MLC - Japanese Language/JPL002.json",
@@ -2846,7 +2849,7 @@
     "UPD|UPD - Urban Planning and Design/UPD410.json",
     "XPU|LIFE - XIPU AI general education"
   ],
-  "module_file_count": 2761,
+  "module_file_count": 2763,
   "modules": [
     {
       "full_name": "Trends in Contemporary Accounting",
@@ -11565,6 +11568,18 @@
       "module_code": "ISA411",
       "module_level": "Level 4",
       "path": "ISA|ISA -/ISA411.json"
+    },
+    {
+      "full_name": "Startup & Industry Lab",
+      "module_code": "ISC401",
+      "module_level": "Level 4",
+      "path": "ISC|EEH -/ISC401.json"
+    },
+    {
+      "full_name": "Startup & Industry Lab across Asia",
+      "module_code": "ISC402",
+      "module_level": "Level 4",
+      "path": "ISC|EEH -/ISC402.json"
     },
     {
       "full_name": "Japanese Language 1",
