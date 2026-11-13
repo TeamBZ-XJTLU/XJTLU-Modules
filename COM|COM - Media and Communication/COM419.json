@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Gaming Innovations in China",
+  "module_code": "COM419",
+  "offerings": [
+    {
+      "heading": "Gaming Innovations in China",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Gaming Innovations in China",
+        "module_code": "COM419",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Gaming Innovations in China",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "As China has risen to a global gaming powerhouse, attention paid to the Chinese digital game industry is rapidly growing within academia and beyond. This module is designed to provide students with a comprehensive understanding of China's dynamic gaming ecosystem alongside a strong emphasis on game user research. The first half of the module teaches the students to examine the structure, economics, and creative processes of the digital game industry, and delve into production methodologies both in large companies and independent studios. The second half of the module guides students to critically explore the unique cultural landscape that shapes game development and consumption in China, as well as equip students with essential tools to understand player behavior, engagement, and satisfaction within the Chinese context. Through an interdisciplinary perspective transversing media industry studies, production studies, game studies, and gamer user studies, students will analyze Chinese government policies, market trends, technological innovations, and cultural narratives embedded in games, considering both local impacts and global opportunities. Also, students will learn key methodologies such as usability testing, player feedback analysis, and data-driven design evaluation. The course is suitable for students with interests in media industries, creative technology, audience analysis, and digital arts. It will offer practical insights into a fast-evolving sector that combines creative expression, technological advancement, and cultural influence in one of the world’s largest gaming markets. Also, it will foster practical skills and critical thinking to prepare students for careers in game design, market analysis, and player experience optimization within the digital game industry and other creative sectors.",
+        "Learning outcomes": "A Demonstrate a comprehensive understanding of China's digital game industry, including its structure, economics, creative processes, and production methodologies. B Critically analyze how unique cultural, regulatory, and market factors shape game development and player consumption in China in relation to both local impacts and global opportunities. C Apply key methodologies in game user research to assess player behavior, engagement, and satisfaction within the Chinese context. D Establish interdisciplinary perspectives to evaluate technological innovations, government policies, and cultural narratives in digital games and foster practical skills for career readiness in gaming and creative industries.",
+        "Method of teaching and learning": "The module employs three core methods: lecture, seminar, and lab, each structured to support experiential and intellectual engagement with China’s digital game industry. Lecture: Lectures in this module provide foundational knowledge about the structure, economics, and creative processes within China's digital game industry. In addition to industry content, the lectures introduce the fundamentals of game user research, emphasizing its importance in the lifecycle of game development. These sessions use multimedia presentations and structured overviews to introduce major theories, market trends, regulatory frameworks, and technological developments influencing the sector. Students will also learn how game user research seeks to understand player behaviors, interactions, and experiences. Seminar: Seminars focus on cultivating critical thinking and interdisciplinary discussion through student-led debates, close reading of academic texts, and case study analyses of contemporary Chinese games. These sessions are highly interactive; students reflect on lecture content, engage in dialog with peers, and explore issues like cultural narratives, gamer communities, or regulatory challenges from multiple perspectives. Seminar activities may include analyzing policy impacts, dissecting player cultures, and discussing readings from media, production, and game studies to deepen understanding of China’s gaming landscape. Lab: Lab sessions are designed to build practical user research skills through hands-on projects and collaborative investigation. Activities might involve usability testing, live observation of player behavior, or structured player feedback analysis using both qualitative (e.g., interviews, observations) and quantitative (e.g., analytics, surveys) methods. Students may run small-scale experiments, work with data-driven design evaluation tools, and simulate real-world team roles found in industry studios, gaining applied knowledge necessary for market and user research in China’s gaming sector"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM419&psl_code=SEM2"
+    }
+  ]
+}

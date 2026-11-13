@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOT",
+    "domain_code": "IOTTC",
+    "full_name": "Internet of things"
+  },
+  "full_name": "IOT for Smart Cities",
+  "module_code": "IOT401TC",
+  "offerings": [
+    {
+      "heading": "IOT for Smart Cities",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOTTC",
+        "full_name": "IOT for Smart Cities",
+        "module_code": "IOT401TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "IOT for Smart Cities",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to delve deeply into the technical aspects of IoT within the smart city framework. It is aimed at students who wish to gain an advanced understanding of IoT technologies and their role in shaping the future of urban environments. The module will cover the current state and future trends of IoT applications in smart cities, with a focus on the technical depth required to design, implement, and manage IoT solutions. Students will explore the intricacies of IoT system architecture, data analytics, security protocols, and the integration of IoT with other emerging technologies such as AI and machine learning. The module is designed to prepare students for leadership roles in the development and management of smart city technologies.",
+        "Learning outcomes": "A Demonstrate a solid understanding of advanced IoT concepts and their implementation in smart cities. B Analyze and design complex IoT systems for smart city applications. C Evaluate security, safety, performance, and scalability issues in IoT for smart cities. D Apply technical knowledge to identify and develop innovative IoT solutions for urban challenges. E Communicate technical IoT concepts and smart city transformation ideas effectively to diverse audiences.",
+        "Method of teaching and learning": "The module will be delivered through a blend of lectures, seminars, and practical workshops. Students will engage in hands-on laboratory sessions to work with IoT devices, sensors, and software platforms. Guest lectures from industry professionals will provide insights into the technical challenges and best practices in IoT implementations. The module will emphasize problem-based learning and project-focused assessments, allowing students to apply their technical skills to real-world smart city scenarios."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOT401TC&psl_code=SEM2"
+    }
+  ]
+}

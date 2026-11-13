@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Data Mining Applications",
+  "module_code": "IFB214TC",
+  "offerings": [
+    {
+      "heading": "Data Mining Applications",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Data Mining Applications",
+        "module_code": "IFB214TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Data Mining Applications",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with an in-depth understanding of the key technologies of Data Mining and Big Data Analytics. It covers not only classical data mining techniques but also techniques in addressing issues and challenges raised in Big Data Analytics by introducing scalable parallel data mining algorithms which can be executed on computer clusters, including data stream mining techniques and algorithms for the analysis of high velocity data as well as software systems used for Data Mining and Big Data Analytics. In that this is an optional module, to well utilise the university resource, the module delivery is subject to meeting a minimum number of students (10).",
+        "Learning outcomes": "A Demonstrate a systematic and critical understanding of the challenges of Data Mining and Big Data Analytics; B Use algorithmic knowledge and key techniques to tackle the challenges of Data Mining and Big Data Analytics; C Show expertise in the use of state-of-the art software tools for the implementation of solutions to Data Mining and Big Data Analytics; D Conduct an analysis of complex data and develop real world applications of Data Mining and Big Data Analytics.",
+        "Method of teaching and learning": "Formal lectures including the use of labs/tutorials to enable the appreciation of data mining and the ability to use the relevant hardware tools. In that this is an optional module, to well utilise the university resource, the module delivery is subject to meeting a minimum number of students (10)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB214TC&psl_code=SEM2"
+    }
+  ]
+}

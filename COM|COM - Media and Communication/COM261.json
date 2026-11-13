@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Qualitative Research Methods",
+  "module_code": "COM261",
+  "offerings": [
+    {
+      "heading": "Qualitative Research Methods",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Qualitative Research Methods",
+        "module_code": "COM261",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Qualitative Research Methods",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to the nature and processes of qualitative research. It will familiarise them with research strategies, research designs, data collection and data analysis. It will also expose students to a variety of qualitative research techniques and to their respective advantages and disadvantages, training them to critically evaluate research articles that use qualitative methods. An important aim is to enable students to understand the relationship between theory and research methods, as well as the differences between various paradigms of knowledge production. They will be expected to also reflect on their values, biases and cultural positioning in the research process. Finally, the module will prepare students to design and conduct their own research project. The module serves as foundation for the later modules Quantitative Research Methods and Final Year Project: Media and Communication Studies.",
+        "Learning outcomes": "A. Explain the key principles, characteristics, and processes of qualitative research B. Distinguish between different qualitative research strategies, designs, and methods C. Select and justify appropriate qualitative methods for particular research questions and contexts D. Critically evaluate the quality, significance, and methodological rigour of qualitative research E. Design and justify a feasible qualitative research project, drawing on appropriate qualitative methods and analytical procedures. F. Critically use digital and AI-based tools to support qualitative research design, methodological reflection, and responsible research practice.",
+        "Method of teaching and learning": "Lectures Seminars"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM261&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Demand Forecasting & Management",
+  "module_code": "IFB106TC",
+  "offerings": [
+    {
+      "heading": "Demand Forecasting & Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Demand Forecasting & Management",
+        "module_code": "IFB106TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Demand Forecasting & Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The objective of this module is to develop an understanding of data analytics with emphasis on forecasting as a powerful tool for analyzing complex issues and solving business problems. The course will make productive use of analytics tools available in MS Excel (and dedicated add-ins) and R (optional). While the class focuses on simplified models, it aims to bridge the classroom knowledge and business applications. In that this is an optional module, to well utilise the university resource, the module delivery is subject to meeting a minimum number of students (10).",
+        "Learning outcomes": "A. Explain fundamental concepts and statistical techniques used in demand forecasting B. Apply appropriate forecasting methods C. Analyze demand patterns and forecast accuracy using advanced statistical tools, identifying sources of error and bias D. Evaluate the performance of forecasting models and propose strategies for improvement E. Design and implement demand forecasting solutions to address complex business problems, integrating data analytics and decision-making frameworks",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. Students will be expected to attend lectures, seminars and tutorials to learn about the academic and theoretical content as well as the practical skills which are the subject of the module. A conjunction of continuous assessment tasks and in-class tests will be used to test to which extent theoretical content and practical skills have been learned. In addition, in groups of 3-4, students will be working on a small project in which they will do a careful data analysis of real application. The project should include a clearly defined business problem, data preparation, analytic model, and solution supported by performance evaluation. In that this is an optional module, to well utilise the university resource, the module delivery is subject to meeting a minimum number of students (10)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB106TC&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "Doing Fieldwork in China",
+  "module_code": "CCS410",
+  "offerings": [
+    {
+      "heading": "Doing Fieldwork in China",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "Doing Fieldwork in China",
+        "module_code": "CCS410",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Doing Fieldwork in China",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with a solid foundation in research design and methods suitable for conducting fieldwork in China. It emphasizes qualitative approaches, including interviews, ethnography, surveys, and thematic analysis. In addition, basic elements of quantitative research are introduced, including working with descriptive data and developing a foundational understanding of how to interpret simple statistical results in the context of fieldwork. Particular attention is paid to the ethical considerations and challenges of data collection in the Chinese context. The module also encourages students to critically assess the value and limitations of empirical research in China studies, and to develop the ability to justify their methodological choices in light of contextual constraints. Through hands-on fieldwork practice, students will learn to justify methodological choices, engage with real-world data, and develop practical skills such as crafting interview protocols, writing fieldnotes, coding qualitative material, and effectively communicating research findings.",
+        "Learning outcomes": "A. Apply key qualitative research methods used in social science fieldwork in China. B. Design a basic fieldwork proposal, including research question(s), method and ethical considerations. C. Evaluate the ethical dilemmas and positionality issues encountered during field research in China. D. Apply fundamental fieldwork techniques (e.g., interviews, surveys, observations) through practical exercises. E. Carry out data analysis on qualitative field data, and demonstrate an understanding of how to interpret descriptive or inferential quantitative results. F. Communicate findings clearly in an academic format.",
+        "Method of teaching and learning": "Interactive seminars require students to actively engage with the weekly material and present their own critical understanding of specific topics. Students will do hands-on practice by developing a fieldwork proposal and implementing both qualitative and quantitative fieldwork techniques, developing an in-depth project and presenting data and analysis by the conclusion of the module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS410&psl_code=SEM2"
+    }
+  ]
+}

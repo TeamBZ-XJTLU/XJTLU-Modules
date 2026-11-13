@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Project Governance and Leadership",
+  "module_code": "IOM418",
+  "offerings": [
+    {
+      "heading": "Project Governance and Leadership",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Project Governance and Leadership",
+        "module_code": "IOM418",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Project Governance and Leadership",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with the essential knowledge and understanding of project governance and leadership that contribute to project success. Students will learn the key concepts and theoretical frameworks on different levels of project governance. On that basis, they will understand how project governance designs are associated with different aspects of project success in an organizational context. Students will also develop an understanding of the leadership and people-related factors contributing to effective project governance. The students will also be able to identify and assess relevant issues for the purpose of continuous improvement in governing and leading successful projects.",
+        "Learning outcomes": "A. Understand the commonly held views and theoretical frameworks on different levels of project governance. B. Understand project governance's distinctive role in creating alignment within an organizational context and value creation. C. Understand how project governance design is associated with compliance, environment and ethics-related issues. D. Understand the leadership and people skills needed for archiving project success. E. Evaluate issues in the project governance and leadership of an organization for continuous improvement in project management competency.",
+        "Method of teaching and learning": "Lectures, tutorials, class participation, groupwork, presentation and private study."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM418&psl_code=SEM2"
+    }
+  ]
+}

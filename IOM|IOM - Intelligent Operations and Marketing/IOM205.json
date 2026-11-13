@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Advanced Database Management",
+  "module_code": "IOM205",
+  "offerings": [
+    {
+      "heading": "Advanced Database Management",
+      "listing": {
+        "academic_year": "2028/29",
+        "domain_code": "IOM",
+        "full_name": "Advanced Database Management",
+        "module_code": "IOM205",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2028/29",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Advanced Database Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module builds upon the student's general understanding of database design and implementation from prior learning. It aims to discuss the key issues underpinning database management systems and their development, provides practical database development skills, and introduces database technology. In addition, the module contains a substantial practical element utilising database application development tools, aiming at enabling students to gain transferable skills in designing and developing real-life database applications in business and management.",
+        "Learning outcomes": "A. Demonstrate a clear understanding of the key issues that affect database systems and their management. B. Understand the practical issues, as well as their theoretical underpinning, pertinent to the development of modern database applications, including database development environment and tools. C. Demonstrate an enhanced awareness of current developments in database technologies, with a focus on the fields of business and management. D. Design and develop substantial real-life database applications for a given business scenario, with a professional approach to the system documentation.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures and labs. Lectures will introduce the designated topics in the syllabus, ranging from key aspects of database management and development to current database technologies. Labs will facilitate students to gain adequate hands-on experience and practical proficiency of using the chosen database development environment and tools."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM205&psl_code=SEM1"
+    }
+  ]
+}

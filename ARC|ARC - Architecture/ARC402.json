@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "ARC",
+    "full_name": "Architecture"
+  },
+  "full_name": "Advanced Professional Practice",
+  "module_code": "ARC402",
+  "offerings": [
+    {
+      "heading": "Advanced Professional Practice",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ARC",
+        "full_name": "Advanced Professional Practice",
+        "module_code": "ARC402",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Professional Practice",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module examines the practice of architecture, design and built environment professions as a complex form of collaborative professional advocacy. The course introduces students to the basic framework of law, building economics, procurement models and professional ethics within the professional practice. The design and built environment professions are contextualized in their relationships to social, economic and political backgrounds as they apply to China, UK and other countries. Students are encouraged to examine how projects are planned, managed and constructed in contemporary professional practice through individual research and through seminar presentations and discussions. The aim of the module is to provide students with a solid understanding of professional approaches and behaviour. The implications of various building codes and forms of practice on architectural processes will also be discussed.",
+        "Learning outcomes": "A. Present an understanding of the nature of professionalism and the duties and responsibilities of designers to clients, users, constructors, co-professionals and the wider society. B. Recognise the importance of current methods and trends in the construction of the built environment, including collaborative working financial factors, and cost control mechanisms. C. Account for designs that will meet users’ requirements and comply with relevant legislation, appropriate performance standards, and health and safety requirements, and the United Nations Sustainability Development Goals. D. Identify individual learning needs and understand the personal professional responsibility required to prepare for qualification as a chartered professional. E. Respond ethically to practical situations with which professionals are commonly confronted, and adopt an inclusive approach to the professional practice. F. Understand, analyse and compare different building codes with a specific focus on UK and PRC legislation.",
+        "Method of teaching and learning": "Lectures, self-study, seminar discussions, essay writing"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ARC402&psl_code=SEM2"
+    }
+  ]
+}

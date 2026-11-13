@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Electronics for Communications",
+  "module_code": "EEE307",
+  "offerings": [
+    {
+      "heading": "Electronics for Communications",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Electronics for Communications",
+        "module_code": "EEE307",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Electronics for Communications",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims: - to give students a solid understanding of the applications, function, analysis and design of electronic circuits used in communication systems; - to equip students with technical knowledge and essential skills in radio-frequency (RF) electronics. The module serves as an essential foundation for students aiming for careers in industries linked to electronics and telecommunications, for example as circuit design engineers or RF engineers.",
+        "Learning outcomes": "A. Analyse the operation principles and application contexts of fundamental building-block circuits in communication systems. B. Evaluate the configuration and performance characteristics of common radio-frequency (RF) components, including amplifiers, mixers, oscillators, power amplifiers, and phase-locked loops. C. Design and evaluate building-block electronic circuits for modern communication systems, justifying design choices against given specifications. D. Construct and test RF circuits, such as amplifiers, filters, mixers, and oscillators, to meet given specifications. E. Apply independent learning and problem-solving skills collaboratively within a team to address complex electronic design challenges.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures (to teach students fundamental communication electronics and key building-block circuits), circuit construction and testing demonstrations (for students to practise problem-solving skills in constructing a real electronic circuit for communications and testing it)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE307&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Quantitative Methods for Business",
+  "module_code": "ECO112",
+  "offerings": [
+    {
+      "heading": "Quantitative Methods for Business",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Quantitative Methods for Business",
+        "module_code": "ECO112",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Quantitative Methods for Business",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module equips students with essential quantitative methods for business applications, focusing on three key areas: decision-making, regression-analysis, and project-evaluation. It develops the skills needed to make informed decisions under constraints and uncertainty as well as analyse relationships between economic variables. Designed to accommodate diverse quantitative backgrounds, the module ensures all students are well-prepared for more advanced modules in their third and fourth years.",
+        "Learning outcomes": "A Demonstrate a foundational understanding of key mathematical concepts. B Apply mathematical techniques to make decisions under constraints. C Apply regression techniques to evaluate the relationships between variables. D Apply analytical techniques to evaluate investment projects and evaluate the impact of uncertainty.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures and tutorials. Lectures will be designed to provide essential information and introduce students to the basic tools and concepts of analysis. Tutorials will provide students with the opportunity to further develop their skills through the solution of various problems. Some of the tutorials will be delivered in the computer lab."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO112&psl_code=SEM2"
+    }
+  ]
+}

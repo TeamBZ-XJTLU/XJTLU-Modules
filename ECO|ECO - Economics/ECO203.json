@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Econometrics: Theory and Applications",
+  "module_code": "ECO203",
+  "offerings": [
+    {
+      "heading": "Econometrics: Theory and Applications",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Econometrics: Theory and Applications",
+        "module_code": "ECO203",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Econometrics: Theory and Applications",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module equips students with a basic toolkit for cross-sectional and panel data econometrics. Upon successful completion, students should be able to select an appropriate empirical strategy from standard techniques to make convincing causal inferences based on observational data. The empirical strategies covered include ordinary least squares (OLS), two-stage least squares (2SLS), and panel data methods. The module takes a practical rather than theoretical approach, emphasizing hands-on exercises and a group empirical project designed and implemented by students collaboratively.",
+        "Learning outcomes": "A. Explain core concepts and techniques in econometrics B. Understand the assumptions upon which different econometric methods are based and their implications C. Use statistical software to implement appropriate techniques to analyse real-world data D. Demonstrate ability to analyse, interpret and critically evaluate empirical results",
+        "Method of teaching and learning": "Lectures will cover econometric theory as well as examples of how these theories are commonly applied in economics and finance. Tutorials will provide students with additional time and opportunities to discuss and deepen their understanding of econometric theory by solving further problem sets. The solutions will then be discussed and explained during tutorials. Tutorials will also include computer laboratory sessions involving the application of the relevant software package."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO203&psl_code=SEM2"
+    }
+  ]
+}

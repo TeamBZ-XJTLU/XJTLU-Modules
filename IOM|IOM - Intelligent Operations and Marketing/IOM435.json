@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Data Analytics and Business Strategy",
+  "module_code": "IOM435",
+  "offerings": [
+    {
+      "heading": "Data Analytics and Business Strategy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Data Analytics and Business Strategy",
+        "module_code": "IOM435",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Data Analytics and Business Strategy",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This Extended Study Scheme (ESS) aims to equip students with business analysis and software skills increasingly in demand from retail, production, logistics, and consulting services sectors. The course covers two main perspectives: The first is the top-down approach reflecting how an organization can harness data analytics to achieve strategic goals; the second is the bottom-up approach focusing on developing data analytics skills through the use of software and case studies.",
+        "Learning outcomes": "A. Understand how companies can leverage business analytics (including automation, forecasting, and decision support) to improve business processes and bottom-line profit. B. Identify appropriate data analytics solutions (e.g. algorithms or software) for specific business scenarios, and to apply these solutions within the given context. C. Integrate data analytics into traditional financial and operational activities to address business needs D. Efficiently and effectively apply data analytics software to achieve business objectives, report findings, and build a narrative around organisational data",
+        "Method of teaching and learning": "Seminars, case studies, computer lab sessions, class discussions. Case work and exercises using data analytics software."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM435&psl_code=SEM2"
+    }
+  ]
+}

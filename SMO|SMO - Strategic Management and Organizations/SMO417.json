@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Sustainability Management",
+  "module_code": "SMO417",
+  "offerings": [
+    {
+      "heading": "Sustainability Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Sustainability Management",
+        "module_code": "SMO417",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Sustainability Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides comprehensive knowledge and broad perspectives on sustainability management to reduce costs and risks, increase reputation and legitimacy, generate competitive advantages, and advance the sustainable development of companies and society. The module will not only help students deepen their understanding on sustainable development and sustainability management but also provide them opportunities to get skills on relevant instruments and tools used in all essential management domains such as marketing, accounting, supply chain management, strategy, or innovation management. Thus, this Module could satisfy better the increasing demand of employers and passionate expectations of students on applying sustainability management knowledge and skills on solving practical problem. Overall, this Module could provide rich valuable perspectives for students to get closer understanding of the practical work related to sustainability management from different management disciplines background.",
+        "Learning outcomes": "A Gain an overview of the most important terms and concepts of sustainable development and sustainability management. Enable students to gain basic knowledge and to proceed to more advanced courses in sustainability management. B Gain an understanding of the complexity of sustainability management in companies and the opportunities and challenges of various stakeholder groups in influencing corporate sustainability and sustainable development in general. C Gain an understanding of wide ranges of instruments and tools in different functional areas (e.g., marketing, human resource management, production, accounting) and learn how companies can improve their sustainability performance using different tools of sustainability management. D Gain an understanding of sustainability accounting as the gathering of sustainability-related information for transparency and decision-making purposes; gain an understanding of sustainability reporting as the disclosure of sustainability-related information to internal and external stakeholders. E Discuss the options as well as potential prerequisites and limitations of sustainability marketing, sustainable supply chain management, and sustainable production and logistics. F Gain an understanding the role of non-business actors on business sustainability and learn how companies should manage those actors. G Gain an understanding of how sustainability innovations can be successful, how sustainable business models can help to tackle different sustainability problems, and how digitalization can be an enabler of such innovation but also a potential threat to sustainability",
+        "Method of teaching and learning": "This module will provide students with rich opportunities in an interactive seminar, with a student-centered pedagogy, to motivate students’ engagement and contribution in class. In case of applying online-teaching mode in unexpected special situation such as COVID pandemic, the Module Leader could also turn the seminar into open dialogue and exchange with invited business managers in different industry sectors to enrich students’ learning experiences and learning interest. With possible support from School, this Module also expects to provide students with a few opportunities to visit local business to increase students’ understanding of real business sustainability management issues in field. If the Module could get necessary budget support, it is also highly expected to purchase simulation class from HBSP to provide students with deeper understanding of the cutting-edge business decision making on coping with sustainability challenges. Students should achieve the learning outcomes of the Module through active class discussion and exchange, participating field business visit, group project work as well as consistent input of self-study."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO417&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PSP",
+    "domain_code": "PSP",
+    "full_name": ""
+  },
+  "full_name": "Engineering in Society: Systems, Sustainability, and Professional Context",
+  "module_code": "PSP005",
+  "offerings": [
+    {
+      "heading": "Engineering in Society: Systems, Sustainability, and Professional Context",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "PSP",
+        "full_name": "Engineering in Society: Systems, Sustainability, and Professional Context",
+        "module_code": "PSP005",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Engineering in Society: Systems, Sustainability, and Professional Context",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the problem-solving mindset and system-level thinking adopted by engineers in professional contexts. Students develop the ability to analyse real-world engineering problems considering sustainability, ethical, economic, and societal factors. The module prepares students for further study and professional life by integrating engineering principles with collaborative project-based learning and effective communication.",
+        "Learning outcomes": "A Identify and explain the key principles of engineering systems, including sustainability, user-centred design, and professional context. B Analyse a real-world engineering problem and outline a solution using systems thinking and fundamental engineering techniques. C Plan and manage an engineering research project, communicating outcomes clearly and effectively in English through appropriate media.",
+        "Method of teaching and learning": "The module is delivered through a combination of weekly 1-hour lectures and fortnightly 2-hour laboratory sessions. Lectures introduce core technical content in engineering (e.g., sustainable systems, user‑centred design, intelligent engineering) alongside the professional and transferable skills required for the module’s project work. These include problem‑solving frameworks, systems thinking, project planning and management, and effective technical communication. Laboratory sessions provide supervised, hands-on opportunities for students to apply lecture content to practical engineering problems. Working in small teams, students engage in structured activities such as problem scoping, systems mapping, trade-off analysis, and preparation of project deliverables. Labs also serve as dedicated time for teams to advance their group project with instructor guidance. The module operates within a Research‑Led, Project‑Based Learning (RLPBL) framework. Students undertake a continuous group research pipeline that begins with a real‑world engineering problem, requires investigation of technical and contextual literature, and culminates in a collaborative technical artefact such as a poster or video. The RLPBL process is supported by guided independent study, where students conduct background reading, gather evidence from technical reports and sustainability frameworks, and refine their project outputs. An individual Project Readiness Checkpoint, scheduled early in the semester, assesses students’ grasp of foundational engineering concepts, problem-solving approaches, and project planning principles. Formative feedback from this checkpoint directly informs the final Group Project, where teams analyse a real-world engineering problem, propose reasoned solutions, and demonstrate clear communication of outcomes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PSP005&psl_code=SEM2"
+    }
+  ]
+}

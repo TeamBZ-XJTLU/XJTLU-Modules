@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MFETC",
+    "full_name": "Manufacturing Engineering"
+  },
+  "full_name": "Bespoke Industrial Studio 2",
+  "module_code": "MFE405TC",
+  "offerings": [
+    {
+      "heading": "Bespoke Industrial Studio 2",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MFETC",
+        "full_name": "Bespoke Industrial Studio 2",
+        "module_code": "MFE405TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Bespoke Industrial Studio 2",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to expose students to real engineering and industrial problems, where most of the classes will be led by an industrial expert. The delivery of this module takes the form of active and live discussion between the class presenter and the rest of the students. Students will have the opportunity to suggest their own desirable learning outcome for every session or block. There are 2 Bespoke Industrial Studios for the MSc in Intelligent Engineering Science & Industrial Operations (MSc IESIO), and this is the second of the series. Bespoke Industrial Studio 2 (BIS2 will expose students to topics related closely to modules delivered in the second part of MSc IESIO i.e. control and sensor technologies, industrial economics, business analytics, management and leadership, as well as thinking in systems. Revolving around these topics, BIS2 will explore the techniques and practical skills applied in manufacturing context, taking into account various key-factors that affects the success of manufacturing environment. On top of that, BIS2 will include complementary knowledge of industrial practice in supply chain and production management, covering topics such as failure analysis, lean manufacturing, and six sigma. The industrial expert will lead the class by providing real problems and issues to students. Along with explanation and exposure to actual way things work in industry, students will lead in the creation of solutions to the problems. The module may take the form of being led by several university academics, alongside a number of industrial experts to deliver the entire course. The module will be assessed by 100% coursework, from which students will have the opportunity to take on, lead, and complete a project where real industrial problems would be addressed and ideally solved.",
+        "Learning outcomes": "A Demonstrate understanding of engineering activities taking part in a manufacturing environment B Critically assess key issues associated with completing a manufacturing project C Employ engineering knowledge to solve interdisciplinary supply chain problems D Communicate effectively on technical and non-technical issues within a manufacturing and engineering environment",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contribution from industry partners. This philosophy is carried through also in terms of assessment, with reduction on the use of exams and increase in coursework, especially problem-based assessments that are project focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. The Bespoke Industrial Studio will be heavily influenced by key industrial experts to provide maximum industrial exposure to the students. Classes generally will be discussion-based, where real world problems are explored."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MFE405TC&psl_code=SEM2"
+    }
+  ]
+}

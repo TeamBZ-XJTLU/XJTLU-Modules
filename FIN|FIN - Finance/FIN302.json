@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FIN",
+    "domain_code": "FIN",
+    "full_name": "Finance"
+  },
+  "full_name": "Finance and Markets",
+  "module_code": "FIN302",
+  "offerings": [
+    {
+      "heading": "Finance and Markets",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FIN",
+        "full_name": "Finance and Markets",
+        "module_code": "FIN302",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Finance and Markets",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to give students a solid grounding of the market of financial instruments and the role of credit in the development of financial markets, including financial crises and asset bubbles. The first part of this module focuses on the dynamics of financial crises and the response methods that has been utilized to solve them. The second part focuses on the use of financial instruments (e.g., futures, options and swaps as well as credit derivatives) in terms of pricing, trading and risk management (e.g., hedging). Also, this part provides solid theoretical foundations of these products in order to expand the understanding of the role of financial instruments (e.g. derivatives) in market efficiency and financial crises.",
+        "Learning outcomes": "A. Analyze and identify the seeds and dynamics of financial crisis to enable the formation of possible future crises to be forecasted. B. Assess the consequences of credit expansion. C. Evaluate the use of standardised derivatives for various purposes, including pricing and trading. D. Apply financial instruments to hedge risk (including credit/market risk). E. Demonstrate a knowledge and understanding of the socioeconomic value of financial derivatives in financial crises, including trading mechanisms and rules, and regulation and settlement. F. Understand and interpret classical and recent key research papers related to the credit crunch and the development of financial instruments with relation to market risk and credit risk.",
+        "Method of teaching and learning": "This module will be taught using a combination of lectures and tutorials. Generative AI-powered technology will be integrated into case study analysis to enhance tutorial engagement and ensure alignment with weekly learning objectives. Learning will also be reinforced through an AI tutor available on the Learning Mall, supplemented by appropriate readings from the course text. See the module handbook and/or ICE for more details."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN302&psl_code=SEM2"
+    }
+  ]
+}

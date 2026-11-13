@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Administration and Organization in Higher Education",
+  "module_code": "EDS430",
+  "offerings": [
+    {
+      "heading": "Administration and Organization in Higher Education",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Administration and Organization in Higher Education",
+        "module_code": "EDS430",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Administration and Organization in Higher Education",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module prepares students as strategic leaders and innovative architects within higher education. Students will critically evaluate and apply key organizational theories to inform strategic decisions and manage change initiatives within complex institutional contexts. By fostering a deep appreciation for higher education roles from a global perspective, the module challenges students to assess shifting international trends and design feasible, evidence-informed initiatives that address these challenges while actively considering scalability and diverse stakeholder needs. Rather than simply analysing literature, students will apply interdisciplinary thinking to develop original, research-informed frameworks that optimize university governance and administrative functions. Furthermore, students will cultivate rigorous scholarly capacities by designing and conducting systematic research that integrates theory, methods, and evidence to solve practical, real-world organizational issues. To support these strategic, analytical, and design-oriented tasks, students will utilize digital tools and relevant AI and GenAI-based options to enhance their administrative efficiency, research capabilities, and institutional planning.",
+        "Learning outcomes": "A. Critically evaluate and apply key concepts and theories of higher education administration to inform strategic decisions and manage change initiatives within complex institutional contexts. B. Develop research-informed frameworks for higher education governance and administrative functions, applying interdisciplinary thinking to optimize organizational structures. C. Assess global changes and challenges in higher education leadership, including challenges and opportunities related to increasingly prevalent technology such as AI, to design feasible, evidence-informed initiatives that address these challenges while actively considering scalability and diverse stakeholder needs. D. Design and conduct systematic research within university administrative settings, integrating theory, methods, and evidence to address complex organizational problems.",
+        "Method of teaching and learning": "The teaching sessions are interactive and split into two components: lectures and seminars/field trips. The lectures provide a foundational understanding of the field, exploring key theoretical frameworks, educational policy landscapes, and contemporary institutional challenges. Building on this knowledge, the seminars and field trips adopt a Research-Led Project-Based Learning approach. Students will be guided to identify real-world issues in higher education administration and asked to develop practical solutions through their projects. To address these modern challenges, students will also critically examine the impact of Artificial Intelligence on educational systems. Throughout their projects, they will actively use Generative AI tools to analyze institutional data, ideate administrative interventions, and evaluate the ethical implications of implementing AI-driven policies in higher education."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS430&psl_code=SEM2"
+    }
+  ]
+}

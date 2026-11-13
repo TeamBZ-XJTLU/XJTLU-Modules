@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "TRI",
+    "full_name": "Translation and Interpreting"
+  },
+  "full_name": "Translation: Theory and Practice",
+  "module_code": "TRI201",
+  "offerings": [
+    {
+      "heading": "Translation: Theory and Practice",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "TRI",
+        "full_name": "Translation: Theory and Practice",
+        "module_code": "TRI201",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Translation: Theory and Practice",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "1. To introduce students to some major groups of translation theories, including functional, register and system theories; 2. To generate awareness of key concepts in translation studies, such as equivalence, free/bound translation, translation shifts, translation norms and translation universals; 3. To acquaint students with essential translation skills.",
+        "Learning outcomes": "A. grasp major translation theories and key concepts of translation studies; B. use translation theories to describe, analyse and criticise translation phenomena; C. translate general texts from English to Chinese and vice versa.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components, i.e., lectures and tutorials. Lectures are designed to help students develop an understanding of key concepts and theories involved in translation, put these theoretical concepts to productive use, and acquire essential skills for translation. Tutorials are conducted for students to carry out translation practices, group discussions, and case study analysis. Active participation is essential in both forms of teaching. The module will also involve private study and research."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=TRI201&psl_code=SEM1"
+    }
+  ]
+}

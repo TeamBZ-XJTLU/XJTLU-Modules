@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Stylistics",
+  "module_code": "LNG301",
+  "offerings": [
+    {
+      "heading": "Stylistics",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "LNG",
+        "full_name": "Stylistics",
+        "module_code": "LNG301",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Stylistics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "• To introduce students to three major perspectives to text analysis: Systemic Functional Linguistics, Cognitive Discourse Analysis, and Genre Analysis • To introduce analytical methods associated with these three perspectives • To provide practice in discourse analysis",
+        "Learning outcomes": "At the conclusion of this module, students should: A. Demonstrate an understanding of major perspectives to discourse analysis: Systemic Functional Grammar, Cognitive Discourse Analysis, and Genre Analysis B. Demonstrate the ability to draw parallels between the perspectives to text analysis presented in the module in class and in the final exam C. Demonstrate the ability to discuss text organization and their main forms of realization in class and in the final exam and coursework D. Demonstrate the ability to analyze discourse from a cognitive linguistics perspective in the final exam and coursework E. Demonstrate the ability to apply the concepts of genre and genre analysis to the classification and analysis of text exemplars in the final exam and coursework",
+        "Method of teaching and learning": "The teaching sessions are divided into two weekly components (i.e. lectures and seminars, the latter including hands-on analysis and tutorials). - Lectures - Seminars"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG301&psl_code=SEM1"
+    }
+  ]
+}

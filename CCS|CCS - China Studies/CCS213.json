@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "Twentieth Century China",
+  "module_code": "CCS213",
+  "offerings": [
+    {
+      "heading": "Twentieth Century China",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "Twentieth Century China",
+        "module_code": "CCS213",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Twentieth Century China",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides an introduction to the history of twentieth century China. It tracks the key revolutionary events, including the rise of the Chinese Communist Party to power and the establishment of the People’s Republic of China. It also considers themes from social and cultural history, including gender and changes to everyday life.",
+        "Learning outcomes": "A. Demonstrate a sound knowledge and understanding of the history of twentieth century China, and the international literature on these topics. B. Trace the historical determinants of social, political and economic change in China. C. Engage with the principle debates in the academic literature about twentieth century China. D. Critically and creatively engage with different types of sources and perspectives on historical understanding.",
+        "Method of teaching and learning": "This module will be delivered through a blended learning approach that combines formal instruction with interactive and student-led activities, designed to foster a dynamic and engaging learning environment. The primary modes of learning and teaching will include: Weekly lectures will introduce core ideas, concepts, cases, and key debates in the relevant literature. Seminars will provide a forum for in-depth discussion and critical engagement with the weekly topics. Students will be expected to complete the required reading and be prepared to participate actively in discussions and collaborative group activities. Seminars will typically focus on close analysis of key primary sources from twentieth century China, and are designed to develop critical thinking, analytical skills, and the ability to articulate scholarly arguments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS213&psl_code=SEM1"
+    }
+  ]
+}

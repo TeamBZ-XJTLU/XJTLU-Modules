@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Programming Skills",
+  "module_code": "CEN216",
+  "offerings": [
+    {
+      "heading": "Programming Skills",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Programming Skills",
+        "module_code": "CEN216",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Programming Skills",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to programming fundamentals and develop their programming skills in implementing advanced data processing techniques and solving engineering problems.",
+        "Learning outcomes": "A. Demonstrate skills in writing codes. B. Develop algorithms for advanced data processing and analysis, such as those using machine learning models, C. Apply programming skills to solve engineering problems.",
+        "Method of teaching and learning": "This module is delivered through formal lectures and computer labs."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN216&psl_code=SEM1"
+    }
+  ]
+}

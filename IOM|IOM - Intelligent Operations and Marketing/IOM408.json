@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "International Marketing",
+  "module_code": "IOM408",
+  "offerings": [
+    {
+      "heading": "International Marketing",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "IOM",
+        "full_name": "International Marketing",
+        "module_code": "IOM408",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "International Marketing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces and analyzes advanced marketing issues with a focus on international marketing. It examines major concepts and problems of modern enterprises and their marketing function in a global context. The goal is to provide students with a comprehensive overview and explanation of important features, tasks, and processes in international marketing. More specifically, the aims are: - To enhance students’ awareness of the nature and scope of international marketing. - To enhance students’ understanding of the process of developing and analyzing marketing strategies in an international context and identify their advantages and limitations. - To develop the skills and abilities necessary to successfully create and execute an international marketing plan. - To allow students to develop their personal learning skills, group working skills and their abilities to critically analyse, develop and execute marketing strategies in an international context.",
+        "Learning outcomes": "A) Demonstrate an in-depth understanding of how developing marketing strategies at an international level can directly contribute towards achieving the organization’s mission and long-term objectives. B) Critically apply appropriate concepts, frameworks and models to analyse and evaluate marketing management problems in an international context. C) Critically investigate, analyse and reflect upon shortcomings in existing international marketing strategies and to offer effective and feasible recommendations to resolve these shortcomings.",
+        "Method of teaching and learning": "The module will be taught in an interactive manner using lectures, presentations by guest speakers, individual and group exercises and case study materials. Group exercises will be conducted in class and each student is expected to present results from group work several times during the semester. All coursework assessments will be based on individual student work. Subjects covered in the assigned chapters of the text will be discussed in class. Students are expected to have read the assigned readings and be prepared to answer and discuss selected questions and cases proposed in the chapters."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM408&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Research Design and Planning",
+  "module_code": "FTA429",
+  "offerings": [
+    {
+      "heading": "Research Design and Planning",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Research Design and Planning",
+        "module_code": "FTA429",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Research Design and Planning",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module enables students to develop a research plan that forms the foundation for their Master’s dissertation. During the module, each student will be assigned an individual supervisor who will provide subject-specific guidance. Working collaboratively with both the supervisor and the module leader, students will identify and refine their research topic, establish research questions, and formulate a detailed research proposal to be implemented in the following semester.",
+        "Learning outcomes": "A Critically employ advanced research methods to address agendas in cultural and creative industries, both theoretically and empirically B Develop critically the research plan that formulates the methodological strategy based upon a well-established research initiative C Present an original research proposal that cover the research rationale and design",
+        "Method of teaching and learning": "A series of lectures will be delivered to refresh the research knowledge that students acquired in prerequisite modules. These lectures help students contextualise further their research thinking skills. Weekly seminar sessions will be held between the students and the module leader to discuss and reflect on the research progress and the relevant agendas."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA429&psl_code=SEM1"
+    },
+    {
+      "heading": "Research Design and Planning",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Research Design and Planning",
+        "module_code": "FTA429",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Research Design and Planning",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module enables students to develop a research plan that forms the foundation for their Master’s dissertation. During the module, each student will be assigned an individual supervisor who will provide subject-specific guidance. Working collaboratively with both the supervisor and the module leader, students will identify and refine their research topic, establish research questions, and formulate a detailed research proposal to be implemented in the following semester.",
+        "Learning outcomes": "A Critically employ advanced research methods to address agendas in cultural and creative industries, both theoretically and empirically B Develop critically the research plan that formulates the methodological strategy based upon a well-established research initiative C Present an original research proposal that cover the research rationale and design",
+        "Method of teaching and learning": "A series of lectures will be delivered to refresh the research knowledge that students acquired in prerequisite modules. These lectures help students contextualise further their research thinking skills. Weekly seminar sessions will be held between the students and the module leader to discuss and reflect on the research progress and the relevant agendas."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA429&psl_code=SEM2"
+    }
+  ]
+}

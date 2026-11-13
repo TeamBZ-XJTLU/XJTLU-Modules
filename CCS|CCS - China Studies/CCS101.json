@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "Chinese Civilization: Thinkers and Ideas",
+  "module_code": "CCS101",
+  "offerings": [
+    {
+      "heading": "Chinese Civilization: Thinkers and Ideas",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "Chinese Civilization: Thinkers and Ideas",
+        "module_code": "CCS101",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Chinese Civilization: Thinkers and Ideas",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the classical Chinese philosophers Confucius, Sunzi, Mozi, Zhuangzi, Laozi, Mencius, Xunzi, and Han Feizi, each in structured dialogue with a counterpart from a different intellectual tradition. The module expands the BA China Studies programme by grounding students in comparative philosophy.",
+        "Learning outcomes": "A. Demonstrate understanding of the key ideas, arguments, and historical contexts of the major classical Chinese and European philosophical traditions. B. Engage critically with primary texts to analyze the philosophical positions of Chinese and European thinkers in comparative perspective. C. Construct and articulate well-reasoned arguments about philosophical questions raised by the module's thinkers, drawing on textual evidence. D. Evaluate the contemporary relevance of classical philosophical ideas, connecting them to personal experience, current affairs, or broader intellectual debates. E. Communicate philosophical ideas effectively in written or oral formats, including through creative and non-traditional media.",
+        "Method of teaching and learning": "Teaching and learning will be facilitated through mini-lectures, small-group discussions, and class debates. The Module Leader will demonstrate the ethical, efficient use of frontier AI models in comparative philosophy. Students will post weekly reflections to a digital message board on Learning Mall. Course materials will be further supported by AI-generated podcasts of weekly readings and 24/7 access to an AI chatbot trained on module information."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS101&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Audit and Assurance",
+  "module_code": "ACC204",
+  "offerings": [
+    {
+      "heading": "Audit and Assurance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Audit and Assurance",
+        "module_code": "ACC204",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Audit and Assurance",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "1) To examine the regulatory framework within the statutory audit in international operates. 2) To cover key elements of international Standards on Auditing with respect to planning, control, evidence and reporting. 3) To understand the nature and purpose of the assurance process. 4) To understand the fundamental principles of ethics in the context of audit and assurance.",
+        "Learning outcomes": "Learning outcomes Students completing the module successfully will be able to: CODE OUTCOME A Explain the nature and purpose of the regulatory framework for international standards on auditing. B Understand the importance of ethical behaviour to a professional accountant and explain issues relating to integrity, objectivity, conflicts of interest, and conflicts of loyalty, confidentiality and independence. C Explain the nature and purpose of audit planning, determine audit risk and draw up an audit plan. D Explain the nature of internal controls and why they are important and identify weaknesses in internal control systems. E Determine what constitutes sufficient and appropriate audit evidence and draw conclusions from evidence obtained. F Explain and prepare an audit report and report to management based upon audit conclusions. G Explain the nature and concept of assurance, why assurance is required and the reasons for assurance engagements being carried out by appropriately qualified professionals.",
+        "Method of teaching and learning": "Lectures supported by scenarios and examples. Seminars/workshops to practice the application of techniques and principles."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC204&psl_code=SEM2"
+    }
+  ]
+}

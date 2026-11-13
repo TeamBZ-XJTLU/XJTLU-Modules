@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "The politics of language in a globalized world",
+  "module_code": "LNG417",
+  "offerings": [
+    {
+      "heading": "The politics of language in a globalized world",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "The politics of language in a globalized world",
+        "module_code": "LNG417",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "The politics of language in a globalized world",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to offer students ways of appreciating the politics of language in the increasingly globalized, multilingual societies of the contemporary world. By answering such questions as how languages help us organize society and how we can identify and address social issues rooted in languages, the module will enable students to have an overview of Critical Discourse Studies in multilingual contexts.",
+        "Learning outcomes": "A Engage in language-based approaches to the study of multilingual societies B Critically evaluate and demonstrate in depth knowledge of the ways language is used to influence, persuade and position us within hierarchies C Develop a critical awareness of the various applications of linguistic analysis to everyday talk, the language of the media or the language of institutions more broadly. D Critically evaluate and demonstrate in depth knowledge of different approaches in Critical Discourse Studies including relationships to areas such as systemic-functional grammar, cognitive linguistics, multimodality, forensic stylistics and corpus linguistics. E Demonstrate independent and imaginative interpretations of linguistic material. F Develop the ability to plan, design, execute and communicate a piece of research or an inquiry..",
+        "Method of teaching and learning": "The module will be taught though a combination of lectures and seminars for the maximum optimization of learning experience and learning outcomes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG417&psl_code=SEM1"
+    }
+  ]
+}

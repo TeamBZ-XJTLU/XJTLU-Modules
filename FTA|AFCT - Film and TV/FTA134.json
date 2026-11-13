@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Creative Coding",
+  "module_code": "FTA134",
+  "offerings": [
+    {
+      "heading": "Creative Coding",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Creative Coding",
+        "module_code": "FTA134",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Creative Coding",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "In recent years, creative coding has gained a lot of popularity among digital media artists. The programming approach allows the artists/designers to generate intriguing shapes and patterns, manipulate digital media and incorporate user interactions. Building on the fundamental programming skills learnt from the prerequisite module, this module introduces the coding techniques for generating creative content. The students will learn the coordinate drawing approach executed in computer programs to generate primitives, as well as arbitrarily-defined shapes. Through drawing dynamic and interactive graphics with codes, they will learn the basic mechanisms of animation and interaction. The design process of a creative coding project will also be introduced. In addition to content creation, with creative coding, the students can develop a practical understanding on how the digital media are constructed and processed with computers. This principle knowledge helps them understand the working logic of digital media design and authoring software, which are to be used in several practical modules in this programme.",
+        "Learning outcomes": "A Understand the knowledge of computer programming as a creative mean B Plan a creative design process incorporating computer code development C Apply programming approach to manipulate digital media for expressive purposes",
+        "Method of teaching and learning": "- Lectures and Seminars/Workshops to deliver the theoretical knowledge of creative programming. - Tutorials to teach programming techniques and provide individual learning feedbacks to the students. - Lab/Practicals to let the students exercise hands-on techniques on creative coding"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA134&psl_code=SEM2"
+    }
+  ]
+}

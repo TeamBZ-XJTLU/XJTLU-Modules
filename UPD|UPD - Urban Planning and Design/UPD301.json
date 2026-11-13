@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "UPD",
+    "full_name": "Urban Planning and Design"
+  },
+  "full_name": "Planning Law and Governance",
+  "module_code": "UPD301",
+  "offerings": [
+    {
+      "heading": "Planning Law and Governance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "Planning Law and Governance",
+        "module_code": "UPD301",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Planning Law and Governance",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to extend students understanding of the legal, political and institutional context within which planning operates and the relationships between planners, politicians, interest groups and citizens, and the planner as an expert. It also seeks to develop knowledge of the developing world’s legal system, the scope of planning legislation and the powers, duties and practice of relevant administrative authorities, land management issues and conflict resolution skills.",
+        "Learning outcomes": "A. Recognise and categorise the administrative, legal and political context of planning B. Critically review and evaluate planning legislation framework and key legislative policy C. Compare and evaluate planning governance structures, approaches and practices D. Recognise the power and limitation of planning legislation and governance when tackling urban development challenges",
+        "Method of teaching and learning": "Lectures combined with tutorials related to practical exercises and discussion of key governance issues, enable the students to explore key governance and planning law ideas and concepts."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD301&psl_code=SEM2"
+    }
+  ]
+}

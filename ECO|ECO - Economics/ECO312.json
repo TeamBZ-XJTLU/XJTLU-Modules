@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "International Economic Relations",
+  "module_code": "ECO312",
+  "offerings": [
+    {
+      "heading": "International Economic Relations",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "International Economic Relations",
+        "module_code": "ECO312",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "International Economic Relations",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides students with a detailed coverage of the nature and determinants of the pattern of world trade. Throughout the module emphasis is placed upon the role of theory in enhancing understanding of the patterns and nature of trade flows (of both goods and services) in the context of the globalising world economy.",
+        "Learning outcomes": "A. Understand why countries trade with one another and the determinants of international trade. B. Understand the trade models and use them to analyze trade patterns and gains from trade between nations. C. Demonstrate a critical understanding of international relations arising from strategic trade interactions amongst nations (protectionism). D. Appreciate the roles that international organizations have in the regulation of international trade.",
+        "Method of teaching and learning": "This module will be delivered via a combination of lectures and tutorials. Lectures will be designed to provide essential information and introduce students to the basic tools of analysis. Tutorials will involve group presentation of a topic."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO312&psl_code=SEM2"
+    }
+  ]
+}

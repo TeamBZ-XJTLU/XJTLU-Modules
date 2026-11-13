@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Learning, Training and Development",
+  "module_code": "SMO209",
+  "offerings": [
+    {
+      "heading": "Learning, Training and Development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Learning, Training and Development",
+        "module_code": "SMO209",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Learning, Training and Development",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to equip students with the ability to apply a range of learning theories, concepts and approaches to the design and delivery of training and development activities in organisations.",
+        "Learning outcomes": "A. Critically evaluate and demonstrate understanding of how learning theories underpin a variety of approaches to training, learning and development initiatives in organizations. B. Critically evaluate approaches to training, learning and development within the workplace and their potential to contribute to organisational performance. C. Use learning theories to explore and construct effective learning interventions for both individual and groups in the workplace.",
+        "Method of teaching and learning": "The lecturing and learning approach will seek to employ a high level of student participation through discussion and debate of the key issues presented in class. The lectures themselves will be supported by Powerpoint slide handouts and students are expected to take additional detailed explanatory notes. A range of skill-based exercises will be utilised during the class which will seek to contextualise and apply the academic and theoretical content presented during the lectures. Students are expected to engage in a high level of independent and self-directed learning utilising the core text. Students are encouraged to engage in other recommended readings as well as engage in their own search for resources via the library and internet searches."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO209&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Advanced Structural Design",
+  "module_code": "CEN408",
+  "offerings": [
+    {
+      "heading": "Advanced Structural Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Advanced Structural Design",
+        "module_code": "CEN408",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Structural Design",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "1. Theory and design of advanced structural systems. 2. Application of finite element method. 3. Integrating knowledge of lateral loading in high-rise buildings. 4. Hands-on experience in tackling the planning, analysis and design issues in real-life structural design projects while performing the analysis and design of representative structural system and components.",
+        "Learning outcomes": "A. Demonstrate a practical awareness of the influence of lateral loading on the design of high rise buildings. B. Develop integrated design solutions considering all aspects of a design project which meets real world needs. C. Analyse and design advanced structural systems (structural forms, slab systems and foundations) integrating hand calculations and advanced FEM software within the context of national design codes (Eurocodes). D. Communicate Design concepts and demonstrate awareness of relevant design codes & standards",
+        "Method of teaching and learning": "The module will be delivered via formal lectures and computer lab practices. A relatively large project (CW) will be set, where concepts and modelling of complex structural forms need to be considered. Students need to complete the project under instruction via actively asking questions and discussing issues."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN408&psl_code=SEM2"
+    }
+  ]
+}

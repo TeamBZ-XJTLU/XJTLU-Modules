@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Introduction to Sound",
+  "module_code": "FTA109",
+  "offerings": [
+    {
+      "heading": "Introduction to Sound",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Introduction to Sound",
+        "module_code": "FTA109",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Sound",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to: Enable students to record audio in a wide range of location environments Enable students to begin their understanding of the importance of sound in film production during production and post-production",
+        "Learning outcomes": "A Operate at a basic and safe level when setting up and using location sound recording equipment. B Demonstrate a practical understanding of the relationship between the moving image and sound.",
+        "Method of teaching and learning": "The teaching sessions are divided into three components (Lectures, technical screenings and practical workshops). Lectures will focus on the art of sound recording. Technical screenings will allow technical discussion about the development of motion picture sound and Foley. An intensive series of practical workshops will equip the students with the technical skills, understanding of location sound recording and practical troubleshooting of equipment use. Within lab work the emphasis will be on the manipulation of audio using software techniques practical troubleshooting of equipment use."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA109&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDU",
+    "domain_code": "PGC",
+    "full_name": "Professional Studies"
+  },
+  "full_name": "Pedagogic Research to Enhance Professional Practice",
+  "module_code": "PGC402",
+  "offerings": [
+    {
+      "heading": "Pedagogic Research to Enhance Professional Practice",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "PGC",
+        "full_name": "Pedagogic Research to Enhance Professional Practice",
+        "module_code": "PGC402",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Pedagogic Research to Enhance Professional Practice",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is part of a professional development programme for teaching staff at XJTLU and all the aims take into consideration the XJTLU context. Its aims are • To deliver knowledge of a range of research strategies that lead to the enhancement of learning and teaching in higher education and within a transnational context, including evaluation, reflective practice and engagement with colleagues. • To enhance participant’s own learning and teaching practice by carrying out an action research project. • To critically reflect on learning over the duration of the programme including personal development planning in collaboration with peers. • To promote engagement in learning and equity of opportunity for all learners in their practice. • To engage with the Professional Standards Framework 2023’s professional value dimension on using scholarship, research or professional learning or other evidence-informed approaches as a basis for effective practice. The aims of this module are aligned with the Professional Standards Framework 2023, which is mapped to Programme-level learning outcomes and module assessments.",
+        "Learning outcomes": "A: Show how the research problem is selected based on your approaches to teaching and/or supporting learning, appropriate for subjects and level of study. B: Review relevant literature to demonstrate how it relates to decisions you make about your practice. C: Design and plan learning activities as part of your intervention in an action research project to your teaching practice. D: Critically evaluate of how your intervention, reflection and presentation has impacted your teaching practice. E: Present the findings of your research project and explain how they have helped you to critically evaluate your practice supporting and guiding student learning. F: Critically analyse how you promote engagement in learning and equity of opportunity for all students to reach their potential through your practice and intervention.",
+        "Method of teaching and learning": "• Teaching is through the delivery of a range of interactive workshops. Teaching is also supported by both an AI Assistant and an AI Learning Mentor, ensuring ongoing, personalized support throughout the research process. • Participants will be expected to reflect upon their own practice and changes to their practice they have introduced as a result of their experience of the module, and attendance at workshops. • Support from a mentor (normally a more senior colleague from the same discipline as the participant and/or a colleague with a Senior Fellowship of the HEA). • Use of the wide variety of resources that are available via Learning Mall Core, and the Higher Education Academy (www.heacademy.ac.uk), as well as independently sourced materials for participants’ action research projects. • AI-powered agents are provided to support students individually in formulating actionable research questions and designing intervention plans for their action research coursework. These agents act as virtual mentors, guiding students step-by-step where one-on-one consultations may not be feasible for all. • Scopus AI functionality is introduced to help learners efficiently identify and review relevant literature, addressing difficulties students have previously reported due to limited educational research backgrounds. • Educational technologies, including generative AI, are used to create tailored learning materials and to scaffold coursework development. • Automated content delivery via AI enables efficient dissemination of core materials, freeing up teaching time for in-depth discussion and individual feedback."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PGC402&psl_code=SEM2"
+    }
+  ]
+}

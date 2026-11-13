@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MLC",
+    "domain_code": "CLT",
+    "full_name": "Chinese Language"
+  },
+  "full_name": "Pedagogical Chinese",
+  "module_code": "CLT226",
+  "offerings": [
+    {
+      "heading": "Pedagogical Chinese",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CLT",
+        "full_name": "Pedagogical Chinese",
+        "module_code": "CLT226",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Pedagogical Chinese",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with both the theoretical knowledge and practical skills required to effectively teach key components, pronunciation, characters, vocabulary, and grammar of the Chinese language. In addition, the module emphasizes effective strategies for developing the four essential language skills: listening, speaking, reading, and writing. By combining theoretical insights with practical approaches, this module ensures that future teachers are well-prepared to deliver engaging and effective lessons that facilitate comprehensive Chinese language acquisition.",
+        "Learning outcomes": "A. Identify and explain the pedagogical systems of Chinese pronunciation, characters, vocabulary, and grammar. B. Design and implement engaging, learner-centred techniques for pedagical Chinese systems. C. Analyse common learner errors and develop strategies for effective explanation and corrective feedback. D. Adapt teaching materials and resources to align with specific learner needs and pedagogical principles.",
+        "Method of teaching and learning": "This module employs an integrated approach, combining theory with practice. The weekly two-hour seminars provide a theoretical foundation, utilizing interactive lectures, workshops, and collaborative lesson planning to analyze teaching principles. The complementary two-hour fieldwork sessions offer hands-on experience in applying this knowledge. Students will observe experienced teachers, conduct micro-teaching sessions with peers, and engage in tasks such as designing and testing instructional materials. This structure ensures a continuous cycle of learning, application, and reflection, fostering the ability to translate pedagogical theory into effective classroom practice for teaching Chinese as an international language."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CLT226&psl_code=SEM2"
+    }
+  ]
+}

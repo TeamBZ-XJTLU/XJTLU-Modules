@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Facade Engineering",
+  "module_code": "CEN326",
+  "offerings": [
+    {
+      "heading": "Facade Engineering",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Facade Engineering",
+        "module_code": "CEN326",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Facade Engineering",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to introduce the fundamental design and construction principles of façade systems. Students will learn how this transdisciplinary component of the building can be designed to meet the performance requirements and develop an architectural expression.",
+        "Learning outcomes": "A Understand the principles of façade design and construction. B Select appropriate construction materials and develop design solutions that achieve the functional requirements of façades. C Analyse the imposed loads on façade systems and select suitable loadbearing systems. D Integrate sustainable strategies into the design of façade systems. E. Adopt an inclusive approach to engineering practice and recognise the responsibilities, benefits and importance of supporting equality, diversity and inclusion.",
+        "Method of teaching and learning": "The module will be delivered through a series of lectures accompanied by seminar presentations on selected topics."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN326&psl_code=SEM2"
+    }
+  ]
+}

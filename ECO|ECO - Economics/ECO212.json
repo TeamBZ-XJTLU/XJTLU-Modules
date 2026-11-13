@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "International Development",
+  "module_code": "ECO212",
+  "offerings": [
+    {
+      "heading": "International Development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "International Development",
+        "module_code": "ECO212",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "International Development",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with a theoretical and practical understanding of the implications of international development in the global economy. The module enables students to undertake an in-depth analysis of the central issues associated with the policies of international development. It also provides students with an insight into recent trends in international development, enabling them to identify possible future directions.",
+        "Learning outcomes": "A. Understand the theoretical perspectives associated with international development; B. Identify and critically assess many of the remedies and obstacles associated with international development; C. Identify the main agents in the development debate and critically assess their contribution to the development process D. Assess and analyse the relevance of development issues for international business",
+        "Method of teaching and learning": "The key themes in the module are introduced in lectures and followed up in workshop sessions in lectures and complex ideas are developed in tutorials. Videos, online facilities and other teaching methods may be used. Students are expected to undertake background and followup reading and to carry out independent research."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO212&psl_code=SEM2"
+    }
+  ]
+}

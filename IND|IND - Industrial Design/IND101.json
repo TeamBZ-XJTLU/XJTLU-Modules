@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IND",
+    "domain_code": "IND",
+    "full_name": "Industrial Design"
+  },
+  "full_name": "Studio 1 - Design Principles",
+  "module_code": "IND101",
+  "offerings": [
+    {
+      "heading": "Studio 1 - Design Principles",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IND",
+        "full_name": "Studio 1 - Design Principles",
+        "module_code": "IND101",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Studio 1 - Design Principles",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is the first significant module where students are introduced to the principles of industrial design. As such it needs to prepare students for subsequent studio practice modules and to introduce students to the range of related skills and knowledge. Essentially, teaching and learning aims to introduce students to the rudimentary design methods, processes, tools and materials of the industrial designer. Industrial Design comprises the analysis of the products which humans use, the way they are used and how they might be improved. This is sometimes referred to as problem identification and solving. In this module students will learn basic analytical methods, processes for concept iteration and visual communication. Students will develop their knowledge of existing designers and brands in order to understand the relationship of the design process to commercial imperatives. They will also develop skills in visualization through observational and technical drawing, rapid sketching and sketch modelling as well as other basic presentation techniques.",
+        "Learning outcomes": "A. Understand and apply a basic design method and process. B. Perform basic product research and user analysis. C. Competently deploy a range of tools and materials used in product development. D. Select and apply 2-D and 3-D visualization techniques for form development and concept iteration. E. Demonstrate basic competence in the the use of presentation techniques suitable for a range of audiences.",
+        "Method of teaching and learning": "The approach of this module will be PBL (Project Based Learning). Students will carry out a series of guided exercises designed to replicate elements of a design project. This will entail project briefings, group and individual tutorials, contextual lectures and workshop activities to acquire the skills of working with key tool and materials. Students will work mostly in a studio, break-out spaces, and dedicated workshops with key equipment and material resources. Activities will be driven my the module leader and additional academic staff. Workshops activities will be supported by trained technical staff."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IND101&psl_code=SEM1"
+    }
+  ]
+}

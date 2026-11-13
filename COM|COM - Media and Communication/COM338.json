@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Globalisation and Science Communication",
+  "module_code": "COM338",
+  "offerings": [
+    {
+      "heading": "Globalisation and Science Communication",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Globalisation and Science Communication",
+        "module_code": "COM338",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Globalisation and Science Communication",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The relationship between science communication and media is complicated but very crucial in a globalised world. Media play crucial roles in disseminating scientific knowledge, to shape public understanding of topics such as health, environment, AI, and the universe. Mediated science communication can, on the one hand, enhance public understanding, encourage scientific literacy, and foster informed decision-making. On the other hand, the media can sometimes sensationalise scientific findings and oversimplify complex issues. This can lead to misinterpretation, misinformation, and a perpetuation of scientific myths. This module draws key concepts, topics and debates in science communication, such as scientific innovations in games, video productions, narratives and discourses in sci-fiction film and animation, online publications, and media campaigns. Students will learn to identify science related issues in the media, collect and critically assess relevant information, and design their own portfolio and posters.",
+        "Learning outcomes": "A. Demonstrate a critical understanding of the relationship between science communication and the media. B. Research and critically analyse science communications in mass media and digital media C. Design and produce relevant media content for science communication D. Reflect on the ethical issues involved in science communication",
+        "Method of teaching and learning": "Lectures Workshops Tutorials"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM338&psl_code=SEM2"
+    }
+  ]
+}

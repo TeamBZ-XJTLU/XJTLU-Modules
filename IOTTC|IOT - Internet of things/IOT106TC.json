@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOT",
+    "domain_code": "IOTTC",
+    "full_name": "Internet of things"
+  },
+  "full_name": "AI-Centric Technology Fundamentals and Perspectives for IoT Big Data Analytics",
+  "module_code": "IOT106TC",
+  "offerings": [
+    {
+      "heading": "AI-Centric Technology Fundamentals and Perspectives for IoT Big Data Analytics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOTTC",
+        "full_name": "AI-Centric Technology Fundamentals and Perspectives for IoT Big Data Analytics",
+        "module_code": "IOT106TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "AI-Centric Technology Fundamentals and Perspectives for IoT Big Data Analytics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to provide an in-depth understanding of Big Data Analytics (BDA) techniques and environments, including critical application domains, BDA's general framework, and the process involved. By gaining a solid understanding of BDA, students will be able to explore various applications of BDA that cater to business needs. Furthermore, in a broader educational and industry context, the lecture will be tailored to meet the requirements of technologies, and platforms and, tools that are currently used in BDA. Specific methods and algorithms that support BDA will be covered in this module and the best practice in BDA is highlighted to clearly show the use cases of BDA.",
+        "Learning outcomes": "A. Demonstrate a solid understanding of concepts, processes, and issues related to Big Data Analytics (BDA). B. Identify applications of BDA that can help improve business operations. C. Determine the appropriate use of analysis methods, algorithms, technologies, tools, and software packages to support data analysis involving practical scenarios. D. Demonstrate familiarity with a relevant programming language (such as Python) to BDA to apply BDA algorithms and tools.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contributions from industry partners. This philosophy is carried through also in terms of assessment, with a reduction in the use of exams and an increase in coursework, especially problem-based, project-focused assessments. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. The module will be delivered via lectures, supervised laboratory sessions, and private studies."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOT106TC&psl_code=SEM2"
+    }
+  ]
+}

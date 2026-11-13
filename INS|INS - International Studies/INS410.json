@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Transnational Corporations and Global Challenges",
+  "module_code": "INS410",
+  "offerings": [
+    {
+      "heading": "Transnational Corporations and Global Challenges",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Transnational Corporations and Global Challenges",
+        "module_code": "INS410",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Transnational Corporations and Global Challenges",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module explores how TNCs are affected by and are responding to contemporary external forces and dynamics in global affairs, including issues arising from regional integration and globalisation (analysed on INR403) and transformation of global institutions (analysed in INR411). The module develops in students the ability to evaluate how changes to the international operating environment influence the strategic policies and managerial practices of TNCs at a global, regional, national, and sub-national level. It teaches students how to navigate the volatility, complexity, and uncertainty in the international business environment that arise from increasing cross border trade and investment tensions, political and environmental risk, natural resources depletion, environmental degradation, climate change, resistance to globalisation, and related factors. Through this, students will develop the ability to identify potential threats and opportunities for international business, and to advocate suitable actions and measures. This module aims to familiarize the students with the basic social sciences research methods. This is an XJTLU AI-enhanced module. This module fits into the programme by providing essential knowledge and practical skills in AI, preparing students for diverse career paths in a digitizing world.",
+        "Learning outcomes": "A. Demonstrate a critical understanding of key challenges confronting humanity today B. Evaluate the role of transnational corporations (TNCs) as the cause of, and solution to, these environmental, governance and developmental challenges. C. Evaluate complex global environments and how changes to these environments affect the ability of TNCs to extract value from their international operations. D. Comprehend the factors that govern sound decision-making and strategy formulation in volatile, complex, and uncertain situations. E. Collect, analyse and critically reflect upon the relevancy and accuracy of data gathered to advocate solutions to business and management problems in an international setting. F. Appreciate the implications for business ethics and corporate social responsibility of company responses to global challenges. G. Demonstrate effective and persuasive oral presentation skills. H. Critically reflect on the use of generative AI for learning within International Business and as preparedness for future careers I. Design and develop AI-driven solutions to address real-world problems in International Business",
+        "Method of teaching and learning": "Learning is experiential, participatory, and AI-assisted, encouraging students to become active producers of insight rather than passive recipients. The module will be delivered through six thematic blocks, each combining lectures and labs. Each block is distributed in two or three weeks. The table below highlights the teaching methods associated with the aforementioned thematic blocks. Block | Learning Focus & AI Integration 1. Global Systems & Corporate Complexity | Students use GenAI tools to visualise supply-chain networks, identify global challenges and stakeholder interdependencies. 2. Decision-Making under Uncertainty | Teams employ AI-based scenario generators and decision-support tools to test alternative strategic moves. 3. Sustainability & Responsible Innovation | Students prompt AI models to design sustainability strategies, then critically evaluate bias, feasibility, and ethical implications. 4. Practical Application | Students engage in practical activities through workshops, seminars, and/or company visits where lectures are incorporated. 5. Geopolitics, Regulation & Institutional Pressure | AI used to mine current news and policy data; students craft evidence-based position papers using GenAI for summarisation and argument testing. 6. The Future-Ready Corporation | Students employ GenAI to prototype communication tools (e.g., investor letter, executive brief) and reflect on AI as a leadership enabler."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS410&psl_code=SEM2"
+    }
+  ]
+}

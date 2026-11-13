@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Life Cycle Assessment: Principles and Practices",
+  "module_code": "CEN416",
+  "offerings": [
+    {
+      "heading": "Life Cycle Assessment: Principles and Practices",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Life Cycle Assessment: Principles and Practices",
+        "module_code": "CEN416",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Life Cycle Assessment: Principles and Practices",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "LCA ( Life Cycle Assessment), is a widely used methodology in many industries including engineering and architecture. This module aims to provide students with the critical knowledge, understanding and methods in life-cycle thinking and circular economy strategies in general. Students will learn how to apply LCA tools to the evaluation of design and construction project, in conjunction with project management, costing, scheduling, finance and risk management.",
+        "Learning outcomes": "A. Demonstrate understanding of the life cycle assessment methodology. B. Apply the basic steps to make a LCA framework for typical AEC project. C. Apply software and/or databases to undertake a life cycle assessment. D. Construct a simplified LCA model.",
+        "Method of teaching and learning": "Lecture, tutorial, seminars, and self-studying modes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN416&psl_code=SEM1"
+    }
+  ]
+}

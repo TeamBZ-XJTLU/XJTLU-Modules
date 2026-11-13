@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FIN",
+    "domain_code": "FIN",
+    "full_name": "Finance"
+  },
+  "full_name": "Ethical and Professional Standards in Finance",
+  "module_code": "FIN415",
+  "offerings": [
+    {
+      "heading": "Ethical and Professional Standards in Finance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FIN",
+        "full_name": "Ethical and Professional Standards in Finance",
+        "module_code": "FIN415",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 4",
+        "Module Title": "Ethical and Professional Standards in Finance",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module will examine the most important ethical issues faced by providers of capital as well as users of capital. It will draw heavily upon recent and current real-world events. It will expose students to research and real-life cases on ethical issues in financial markets. It provides students with practical frameworks for analyzing and acting in new ethically-sensitive situations. This is a required topic to maintain the CFA recognition/accreditation of the MSc Investment Management programme.",
+        "Learning outcomes": "A Critically analyze contemporary ethical issues in finance B Integrate research and practice to analyse ethical issues in finance C Discuss the ethical issues in providers of capital (e.g., investors and investment managers) and users of capital (corporations) and apply the theories to real cases",
+        "Method of teaching and learning": "Taught seminars will be delivered by faculty members and/or guest speakers. Online tutorials will be supported by asynchronous online discussions. Students will be directed towards selected scholarly articles, academic research, contemporary professional journals and press articles to deepen their understanding of current issues concerning the ethics of finance. In terms of mode of delivery, we use Adobe Connect for synchronous sessions and ICE for asynchronous online discussions. This allows those not on campus, as well as faculty and speakers, to participate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN415&psl_code=SEM1"
+    }
+  ]
+}

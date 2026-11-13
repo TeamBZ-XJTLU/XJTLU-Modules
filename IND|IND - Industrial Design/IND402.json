@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IND",
+    "domain_code": "IND",
+    "full_name": "Industrial Design"
+  },
+  "full_name": "Design Research Project",
+  "module_code": "IND402",
+  "offerings": [
+    {
+      "heading": "Design Research Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IND",
+        "full_name": "Design Research Project",
+        "module_code": "IND402",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "40",
+        "Module Level": "Level 4",
+        "Module Title": "Design Research Project",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The IND402 Design Research Project module provides a future-proof framework to engage with changing times, growing markets and alternative access to and implementation of resources. The module embraces an open approach to design by nurturing diverse design cultures, named ‘Tracks’, through which students can develop their individual design identity. The comprehensive research project in the MDes programme is the accumulative effort to produce meaningful and impactful design research projects. Building on the broad range of general professional design skills that students have acquired in Semester 1 and 2, this module provides a framework for students to develop specialist knowledge and experience in their chosen area of interest and expertise. Through collaborations within Department, School, University and an internship period with industry partners, students are able to gain professional experience to develop their research, as well applying their previously accumulated skills in real-world scenarios and projects. The flexibility of this module allows students to complete design research projects that are original, rigorous and significant, while developing skills that are relevant to students’ future employers within both industry and research.",
+        "Learning outcomes": "A Through comprehensive design review processes and evaluation, identify key values to form clear research project objectives B Identify innovative materials and technologies as a critical part of your design research practice C Develop creative design proposals to frame your critical position within the track domain D Construct both physical and digital models for user testing, to evaluate and critique research outcomes E Practice professional design presentation skills throughout your working process",
+        "Method of teaching and learning": "Each student will select their preferred ‘Track’ and will work with at least one academic staff member with appropriate expertise, to support student’s research work. Knowledge and skill are obtained through individual design tutorials, (guest) lectures, seminars, workshops, critiques, field trips (if possible), prototyping and self- study. The syntegrated nature of the module allows for collaboration within the University and with external partners. Students are required to complete an internship in a practice or research setting. Industrial Design projects will be conducted in the research and development offices of manufacturing companies, or in the Industrial Design Research Laboratories. Project proposals planned for the duration of the internship will be negotiated and agreed by the internship provider and University academic link. This will ensure that the module learning outcomes can be met by the internship activities. Industrial Design supervision is maintained throughout the internship"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IND402&psl_code=ACYR"
+    }
+  ]
+}

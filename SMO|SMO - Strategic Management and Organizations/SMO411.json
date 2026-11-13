@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Negotiating in International Environment",
+  "module_code": "SMO411",
+  "offerings": [
+    {
+      "heading": "Negotiating in International Environment",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Negotiating in International Environment",
+        "module_code": "SMO411",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Negotiating in International Environment",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To prepare students with the skills and strategies to understand cultural differences in different countries, to resolve conflict and develop a lasting business relationship both domestically and internationally.",
+        "Learning outcomes": "A. Appreciate cultural aspects both within and outside China, and how cultural differences can impact on business negotiations. B. Analyse problems and issues that arise when negotiating in an international context. C. Understand the role of time and atmosphere in international business negotiations. D. Appreciate the ethical aspects of business negotiations. E. Apply strategies and techniques in negotiating business at the international level. F. Comprehend and apply different dispute resolution techniques. G. Demonstrate in-depth understanding of the main steps of the key account sales process. H. Analyse customer demands and make recommendations for how best to respond to them. I. Demonstrate a critical understanding of the specifics of managing a sales team, especially in international contexts. J. Appreciate how to set up and manage indirect sales channels.",
+        "Method of teaching and learning": "Teaching will be based on theories of culture, negotiation and ethics, taught in a seminar format with extensive case study material being used, along with a number of negotiation simulations."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO411&psl_code=SEM1"
+    }
+  ]
+}

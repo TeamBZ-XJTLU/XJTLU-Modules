@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Entrepreneurship",
+  "module_code": "SMO208",
+  "offerings": [
+    {
+      "heading": "Entrepreneurship",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Entrepreneurship",
+        "module_code": "SMO208",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Entrepreneurship",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of the module are to: provide students with the knowledge, principles and theoretical frameworks relevant to entrepreneurship; introduce current issues concerning entrepreneurship and small business; support the development of subject specific and transferable skills necessary for future employment; support the enhancement of skills in written and spoken communication.",
+        "Learning outcomes": "A. acquire the knowledge of entrepreneurship and of small firm sectors and markets B. have an understanding of the theories, concepts and empirical work that underpin entrepreneurship C. develop a critical awareness of the multi-disciplinary aspects of entrepreneurship and small business development, and how these aspects have the potential to interact D. develop a preliminary mindset how to start up a small business in a sustainable way regarding the triple bottom line E. enhance students’ capabilities and skills of comprehensive market research and analysis",
+        "Method of teaching and learning": "Teaching will include formal lectures, tutorials and group discussion"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO208&psl_code=SEM2"
+    }
+  ]
+}

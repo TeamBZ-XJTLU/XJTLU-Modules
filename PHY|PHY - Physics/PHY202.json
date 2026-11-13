@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Electromagnetism I",
+  "module_code": "PHY202",
+  "offerings": [
+    {
+      "heading": "Electromagnetism I",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "PHY",
+        "full_name": "Electromagnetism I",
+        "module_code": "PHY202",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Electromagnetism I",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces foundational concepts of electromagnetism, Maxwell's equations, and electromagnetic waves and vector calculus. Students will apply these principles to solve problems in electrostatics, magnetostatics, and time-varying fields, preparing them for advanced studies.",
+        "Learning outcomes": "A. Use Maxwell’s equations in both differential and integral forms, and explain their physical implications when appropriate. B. Apply vector calculus operations (gradient, divergence, curl, and integral theorems) to solve electromagnetic field problems. C. Evaluate the behavior of electrostatic and magnetostatic fields in materials, including polarization, magnetization, and boundary conditions. D. Solve problems involving time-varying electromagnetic fields, including the derivation and properties of electromagnetic waves. E. Construct and present analytical solutions to classical electrodynamics problems using appropriate mathematical and physical reasoning.",
+        "Method of teaching and learning": "Lectures: Core theory delivery. Tutorials: Problem-solving workshops with feedback. Private Study: Guided problem sets and self-directed learning"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY202&psl_code=SEM1"
+    }
+  ]
+}

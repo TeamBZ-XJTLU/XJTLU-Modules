@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Internship II: Solutions design and deployment",
+  "module_code": "IOM449",
+  "offerings": [
+    {
+      "heading": "Internship II: Solutions design and deployment",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Internship II: Solutions design and deployment",
+        "module_code": "IOM449",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Internship II: Solutions design and deployment",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to focus on the root causes of the identified problem and develop both short-term and long-term solutions. Students will apply their problem-solving skills to analyse data, perform root cause analysis, and work collaboratively with stakeholders to design actionable solutions.",
+        "Learning outcomes": "A. Use problem-solving methodologies (such as DMAIC) to investigate the underlying causes of the problem. B. Analyse relevant data to identify patterns and contributing factors. C. Propose and test short-term solutions that can address the immediate impact of the problem. D. Create long-term solutions that address the root causes of the problem and aim for sustainable improvements. E. Consider the impact of proposed solutions on the company’s long-term goals and vision. F. Work with cross-functional teams, including industry professionals, to brainstorm, assess, and refine potential solutions. G. Deploy the solution, monitor the effectiveness, and make continuous improvements.",
+        "Method of teaching and learning": "• Data Analysis and Research: Students will gather and analyse data to identify root causes, utilising tools such as statistical analysis or process mapping. • Solution Brainstorming and Workshops: Collaborative workshops with industry professionals to develop potential short-term and long-term solutions. • Feedback and Refinement: Continuous feedback loops with stakeholders to refine solutions based on practical considerations and company needs. • Prototyping and Testing: Where applicable, students may be involved in testing short-term solutions or developing prototypes to demonstrate proposed solutions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM449&psl_code=SEM2"
+    }
+  ]
+}

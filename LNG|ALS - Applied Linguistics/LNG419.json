@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Multilingual education and multilingual literacies",
+  "module_code": "LNG419",
+  "offerings": [
+    {
+      "heading": "Multilingual education and multilingual literacies",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Multilingual education and multilingual literacies",
+        "module_code": "LNG419",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Multilingual education and multilingual literacies",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is an introductory course to “Bilingual Education and Bilingualism”, where “bi-” should be understood in a broad and inclusive sense so that the number of languages involved could mean be two, three, or more. “Bilingual Education and Bilingualism” represents an established sub-field in applied linguistics, which can be reflected by the fact that this label has been (partly) used in the titles of prestigious academic journals (e.g. International Journal of Bilingual Education and Bilingualism). While other core modules (LNG413, LNG415, LNG417) of this MA programme focus on other types of multilingual practices, this module mainly deals with the type of multilingual practices taking place in the education arena, with special reference to multilingual literacies. This module aims to familiarize students with a wide range of phenomena related to multilingual education and multilingual literacies at both global and local levels, and to equip students with sophisticated knowledge of key conceptual, theoretical and methodological resources useful for analysing these phenomena.",
+        "Learning outcomes": "A appreciate the concepts of multilingualism, multilingual education, multilingual literacies, as well as the theoretical issues pertaining to these concepts B demonstrate a good knowledge of a wide range of phenomena related to multilingual education at both global and local levels C identify some of the major historical, psycholinguistic, and/or sociolinguistic issues related to multilingual education and multilingual literacies D conduct a critical discussion about methodologies, policies and/or practices relevant to multilingual education and multilingual literacies",
+        "Method of teaching and learning": "The module will be taught though a combination of lectures and seminars for the maximum optimization of learning experience and learning outcomes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG419&psl_code=SEM1"
+    }
+  ]
+}

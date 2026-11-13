@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Macroeconomics",
+  "module_code": "ECO404",
+  "offerings": [
+    {
+      "heading": "Macroeconomics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Macroeconomics",
+        "module_code": "ECO404",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Macroeconomics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to teach students how to analyze macroeconomic phenomena in both the long and the short run. The module starts with an analysis of economic growth; then it looks into the short run fluctuations in economic activity. Upon completion of the module, students obtain a solid grounding in macroeconomic theory and are expected to analyze the macro-economics concepts theoretically and empirically with the help of AI-based analyzing tools. The acquired knowledge can be used to evaluate stabilization policies under various assumptions.",
+        "Learning outcomes": "A. Critically evaluate the main issues of economic growth. B. Understand how decisions of economic subjects in various markets are related. C. Demonstrate an in-depth understanding of what causes fluctuations in economic activity in the short run. D. Explain the role of money and prices, and analyze the effects of monetary policy on the economy.",
+        "Method of teaching and learning": "The main components of the course contents will be communicated in weekly two hour lectures. Lecture handouts will be either available on ICE or distributed at the start of the lecture. Lectures are complemented by a series of seminars where students are encouraged to present solutions to previously communicated problem or question sets. The content in seminars will be more specific than that of lectures and topics will accordingly be treated in more depth. Likewise seminars may be tied less closely to the core curriculum. There will be a limited number of seminars, mostly distributed during the semester in non-consecutive weeks."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO404&psl_code=SEM2"
+    }
+  ]
+}

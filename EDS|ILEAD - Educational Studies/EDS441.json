@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Teaching, Learning and Assessment",
+  "module_code": "EDS441",
+  "offerings": [
+    {
+      "heading": "Teaching, Learning and Assessment",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "EDS",
+        "full_name": "Teaching, Learning and Assessment",
+        "module_code": "EDS441",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Teaching, Learning and Assessment",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with core concepts and contemporary perspectives on teaching and learning, enabling them to support students from diverse backgrounds across different contexts. The module emphasizes project-based and practice-based learning, while integrating AI into teaching and learning to enhance students’ pedagogical knowledge, assessment practices, and practical teaching skills.",
+        "Learning outcomes": "A. Critically reflect on different conceptions of learning, teaching, and assessment across cultures, with consideration of internationalized educational contexts and the emerging role of AI in education. B. Apply a range of teaching methodologies, including project-based and practice-based learning approaches, to enhance student engagement and learning outcomes. C. Design appropriate and innovative assessment strategies to measure learning outcomes effectively, including the integration of AI-supported tools and authentic assessment practices.",
+        "Method of teaching and learning": "This module will be delivered through lectures, seminars, tutorials, workshops, and placements. Lectures and seminars will provide essential theoretical knowledge and opportunities for critical discussion, while tutorials and workshops will focus on reflection, project-based and practice-based learning, and the application of teaching and assessment strategies, including the integration of AI in education. Teaching will adopt a blended learning format with both face-to-face and asynchronous online sessions. During the 30-hour placement, students will apply their knowledge and skills in classroom settings under the guidance of a qualified school mentor."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS441&psl_code=SEM1"
+    }
+  ]
+}

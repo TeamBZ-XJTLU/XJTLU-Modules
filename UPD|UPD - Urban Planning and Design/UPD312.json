@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "UPD",
+    "full_name": "Urban Planning and Design"
+  },
+  "full_name": "Spatial Project",
+  "module_code": "UPD312",
+  "offerings": [
+    {
+      "heading": "Spatial Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "Spatial Project",
+        "module_code": "UPD312",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Spatial Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to enable students to combine and implement the various analysis, synthesis, interpretation, design, policy prescription and presentation skills acquired through the programme to identify, frame and solve complex spatial problems. The delivery of this spatial project studio is grounded in the research strengths of the Department and further draws upon established links with a number of local authorities, economic and civil actors.",
+        "Learning outcomes": "A Apply skills in collection, analysing and presenting data related to planning, urban design and management; B Understand the characteristics and qualities of a site and to identify the factors (natural, economic, socio-economic and political) and actors that have shaped it; C Critically examine and evaluate existing planning policies and plans and management programmes and practices; D Be conversant with framing and formulating policy statements and recommendations, urban design proposals and guidelines, and institutional framework and partnerships for sustainable development; E Demonstrate a comprehensive range of written, visual, and oral, skills to communicate a project proposal and produce a consultant-type report; F Identify and address dissenting views and ethical issues that may arise while reconciling the needs of different stakeholders (developers, governments, communities)",
+        "Method of teaching and learning": "Students are required to address real-world issues in a systematic manner by conducting site survey, acquiring relevant data, exercising analytical skills and critical thinking, taking a position, proposing conceptual ideas and finally formulating policy or spatial solutions. In support of the project development, a series of lectures provides students background information and relevant methods and techniques. Weekly tutorials/seminars are organised to discuss the progress of the project and provide guidance. At key stages of the semester, seminars involving external practitioners and experts will give students the opportunity to present their work and receive feedback. The final output of the project combines the realization of a group project and an individual reflective report."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD312&psl_code=SEM2"
+    }
+  ]
+}

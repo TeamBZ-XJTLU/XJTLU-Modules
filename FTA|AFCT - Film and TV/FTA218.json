@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Minor Film Project",
+  "module_code": "FTA218",
+  "offerings": [
+    {
+      "heading": "Minor Film Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Minor Film Project",
+        "module_code": "FTA218",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Minor Film Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to allow the student to: Support advanced specialist skills in the departments of screenwriting, cinematography, sound (location and post-production), post-production, production and directing areas within single camera projects as heads of departments and creatives. Work to safe and healthy practices. Manage creative relationships within group projects Analyse the historical and conceptual context for their decisions within a project environment",
+        "Learning outcomes": "A Deliver a high level of technical competence in a specialist area to realise a short sequence or short film/TV project B Demonstrate their ability to be creative and make creative decisions C Work both autonomously and collaboratively within a specialist department in a project based environment D Inform practice choices by placing them in a historical, theoretical and conceptual framework",
+        "Method of teaching and learning": "The teaching sessions are divided into three components (Lectures, tutorials and practical workshops). A series of lectures will provide the understanding of specialist skills within a single camera environment and provide the historical and conceptual background to understand the role undertaken. The practical workshops will focus on film making techniques and grammar from a specialist discipline stand point, effective team management within a project environment and technical application of skills within practical exercises and shoots. Tutorials will focus on reviewing work in progress and reflection."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA218&psl_code=SEM2"
+    }
+  ]
+}

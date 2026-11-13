@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Strategic Management and ESG",
+  "module_code": "IFB317TC",
+  "offerings": [
+    {
+      "heading": "Strategic Management and ESG",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Strategic Management and ESG",
+        "module_code": "IFB317TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Strategic Management and ESG",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The curriculum delivers a robust foundation in resource-based strategic theory, focusing on building long-term competitive advantage and organizational resilience. Students will learn to critically assess and respond to strategic opportunities and threats arising from technological innovation, market volatility, and socio-environmental disruption. A significant portion of the module is dedicated to operationalizing strategy through effective ESG management. This includes a specialized focus on designing and managing sustainable supply chains, utilizing advanced analytical tools such as Life Cycle Assessment (LCA), carbon footprinting, and sustainability risk management frameworks. By synthesizing theoretical rigor with practical application, this module prepares students to formulate and execute strategies that ensure organizational performance, responsibility, and resilience.",
+        "Learning outcomes": "Students should be able to: A. Critically identify and apply the key elements of strategic management—from mission setting through to implementation—to formulate robust organizational strategies. B. Conduct an integrated strategic analysis of organizations to diagnose their strategic position, identifying central issues, problems, and opportunities within complex business environments. C. Synthesize differing theories and concepts from strategic management to inform evidence-based managerial decision-making, evaluating alternative courses of action to present well-supported recommendations. D. Design sustainable strategies that integrate core ESG principles—including ethics, corporate social responsibility, and sustainable development—to build resilient and responsible organizations.",
+        "Method of teaching and learning": "The teaching philosophy of this module is firmly grounded in the principles of Syntegrative Education. This approach is realized through an intensive block teaching delivery pattern, which facilitates deeper, more focused engagement and allows for meaningful contribution from industry practitioners. This philosophy extends to the assessment strategy, which minimizes the use of traditional exams in favor of increased coursework, particularly problem-based, project-focused assessments that mirror real-world strategic challenges. This delivery model creates dedicated space within the semester for students to concentrate on completing these substantive assessments. The module will be delivered through a synergistic blend of lectures, seminars, and interactive workshops. A core pedagogical strategy is the extensive use of case studies and practical exercises to contextualize theoretical concepts—spanning both classic strategic frameworks and contemporary ESG tools—within actual managerial practice. This case study approach conveys a variety of complex issues and encourages the analysis of real-life situations. Learning is further supported by directed reading and independent research of selected texts, academic journal articles, and contemporary professional publications to facilitate a critical and deep understanding of the subject matter. Independent study and research are actively encouraged at all stages to promote student-led learning and development."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB317TC&psl_code=SEM1"
+    }
+  ]
+}

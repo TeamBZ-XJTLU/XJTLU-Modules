@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCTC",
+    "domain_code": "CCT",
+    "full_name": "Chinese Culture"
+  },
+  "full_name": "Comparison between Chinese and Western Culture",
+  "module_code": "CCT009",
+  "offerings": [
+    {
+      "heading": "Comparison between Chinese and Western Culture",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCT",
+        "full_name": "Comparison between Chinese and Western Culture",
+        "module_code": "CCT009",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Comparison between Chinese and Western Culture",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Based on the important characters and key events in history, this course aims to uncover the original appearance in Chinese and western world at the same time, in which way to help students open their comparison minds and become a person with international value and world view.",
+        "Learning outcomes": "A. Understand the milestones and symbolic cultural events of Chinese and Western history to enrich their cultural knowledge base. 培养学生的基本人文素质，熟悉中西方历史发展的基本节点，记住标志性的文化事件，构建知识结构，丰富文化知识库。 B. Think dialectically when they consider ancient and modern Western and Chinese cultural events, and be able to examine and think rationally from both positive and negative side. 学会辩证思考，在思考古今中西文化事件时，要超越狭隘的经验，评论时不要情绪化，从正反两方面进行理性的审视和思考。",
+        "Method of teaching and learning": "Case Teaching; Independent analysis;"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCT009&psl_code=SEM1"
+    }
+  ]
+}

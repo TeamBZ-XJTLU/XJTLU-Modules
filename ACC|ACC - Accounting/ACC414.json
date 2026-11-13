@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Business Analytics and Simulation",
+  "module_code": "ACC414",
+  "offerings": [
+    {
+      "heading": "Business Analytics and Simulation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Business Analytics and Simulation",
+        "module_code": "ACC414",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Business Analytics and Simulation",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to help students explore the intersection of accounting and operations management in the context of SAP ERP. The course focuses on empowering students to critically think about how emerging technologies are reshaping the accounting and operations management profession. Through hands-on experience with SAP ERP simulations and real-world case studies, students will gain a deeper understanding of how these tools can be applied to improve business strategies, enhance decision-making and drive efficiencies. The aim is to inspire students to embrace the future of accounting and operations management, equipped with the skills and knowledge to thrive in an increasingly digital world.",
+        "Learning outcomes": "A Understand the structure of SAP ERP software and its navigation system B Critically demonstrate understanding of the role that ERP (enterprise resource planning) software plays in supporting the various operations of an organisation C Apply and adapt strategic decision-making within a dynamic simulation environment (using ERPsim) D Analyze and interpret business data to support informed decision-making within a dynamic simulation environment (using ERPsim).",
+        "Method of teaching and learning": "This module will be delivered via a combination of lectures and tutorials. Lectures are designed to cover the concept and cases for each topic. Tutorials will show how to operate the SAP system based on different functional modules. All course materials will be available on Learning Mall. Office hours will be available every week for consultations."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC414&psl_code=SEM2"
+    }
+  ]
+}

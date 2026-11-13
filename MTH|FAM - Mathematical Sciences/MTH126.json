@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FAM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Differential Equations With Computer Solutions",
+  "module_code": "MTH126",
+  "offerings": [
+    {
+      "heading": "Differential Equations With Computer Solutions",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Differential Equations With Computer Solutions",
+        "module_code": "MTH126",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Differential Equations With Computer Solutions",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to equip students with an understanding of the analytic techniques available to solve first and second order ordinary differential equations, and systems of first order linear differential equations. Moreover, it will provide a background for the students to solve differential equations by using basic numerical methods.",
+        "Learning outcomes": "Solve first and second order ordinary differential equations. Solve simple first order linear differential systems. Use computer methods to solve ordinary differential equations. Write basic computer programmes.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures, tutorials and labs."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH126&psl_code=SEM2"
+    }
+  ]
+}

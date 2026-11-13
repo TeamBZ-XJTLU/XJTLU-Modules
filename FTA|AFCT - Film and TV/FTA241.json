@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Short Video Production",
+  "module_code": "FTA241",
+  "offerings": [
+    {
+      "heading": "Short Video Production",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Short Video Production",
+        "module_code": "FTA241",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Short Video Production",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a comprehensive understanding of the short video landscape, combining creative production skills with data-driven content strategies. Students will explore the specificities of short-form content creation, including visual storytelling, technical production (camera, lighting, sound), and platform optimization. Furthermore, the module emphasizes the role of audience data in the creative process, teaching students how to analyze performance metrics to iterate and refine their content strategies. By the end of the module, students will have produced a series of short videos and developed a strategic report based on real-world or simulated data feedback.",
+        "Learning outcomes": "A Demonstrate a critical understanding of short video genres, platform algorithms, and audience engagement strategies within the digital media landscape. B Apply advanced production techniques, including composition, lighting, and sound design, to create high-quality short-form video content suitable for specific social media platforms. C Analyze user data and performance metrics to formulate evidence-based content strategies and iterative optimization plans for digital distribution. D Work effectively in a collaborative team to manage the production workflow of a video series from conceptualization to distribution.",
+        "Method of teaching and learning": "The teaching strategy combines theoretical lectures with intensive practical workshops. Lectures will introduce the landscape of short video platforms, algorithmic mechanisms, and data analysis methodologies. Practical Workshops will focus on hands-on skills, including vertical screen composition, mobile/camera cinematography, and fast-paced editing techniques. Group Projects are central to the learning process; students will work in teams to produce content and analyze data. Tutorials will provide specific feedback on the group's progress, focusing on both the creative quality of the videos and the logic of their data analysis reports."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA241&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Developing and Evaluating Programmes for Children and Families",
+  "module_code": "EDS419",
+  "offerings": [
+    {
+      "heading": "Developing and Evaluating Programmes for Children and Families",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Developing and Evaluating Programmes for Children and Families",
+        "module_code": "EDS419",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Developing and Evaluating Programmes for Children and Families",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to critically evaluate a range of challenging behaviors exhibited by children in contemporary Chinese families. Various family-related issues will be examined through interdisciplinary theoretical frameworks and instructional interventions. Students will move beyond passive observation to actively analyze and design research‑informed child and family projects. Furthermore, the course will critically challenge existing educational myths and popular practices by leveraging generative AI tools, while also exploring professionalism and ethics through the lens of rigorous contemporary research.",
+        "Learning outcomes": "A. Critically evaluate children’s behaviors by using principles and theories of family studies，and addresses complex problems systematically. B. Apply professional and leadership skills to evaluate and analyze diverse family situations and their potential influences on children’s development, using evidence gathered from authentic cases or community partnerships C. Develop and practice the skills to plan, supervise, and iteratively improve the programme in response to ongoing feedback and real‑world constraints. D. Design a family education programme project, using appropriate frameworks and data from project implementation, and propose evidence‑based recommendations for future practice.",
+        "Method of teaching and learning": "The module adopts a project-based learning (PBL) approach where students engage in a sustained, authentic project. Students are encouraged to use AI and AI-enabled tools and platforms in their learning process. Teaching methods are interactive, student-centered, and scaffolded to support progressive mastery of learning outcomes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS419&psl_code=SEM1"
+    }
+  ]
+}

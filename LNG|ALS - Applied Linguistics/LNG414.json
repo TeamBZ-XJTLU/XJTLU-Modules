@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Psycholinguistics of Multilingualism",
+  "module_code": "LNG414",
+  "offerings": [
+    {
+      "heading": "Psycholinguistics of Multilingualism",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Psycholinguistics of Multilingualism",
+        "module_code": "LNG414",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Psycholinguistics of Multilingualism",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "In our increasingly interconnected global society, the proficiency to communicate in multiple languages is not only valuable but also a vital skill. This course takes a deep dive into the captivating domain of psycholinguistics of multilingualism, where we unravel the intricate mechanisms governing language acquisition, comprehension, and production in individuals who speak more than one language. This module introduces students to the rich body of literature surrounding bilingualism and multilingualism from a psycholinguistic perspective. Throughout the module, students will become acquainted with major theories and models that explain how bilinguals and multilinguals effectively manage information processing across multiple languages. For each topic explored, students will gain insight into the experimental methods (including behavioural experiments and eye-tracking technique) employed to address pertinent research questions, as well as the rationale behind these research designs. Furthermore, the module aims to enhance students' proficiency in critically evaluating existing research and cultivating a professional and collaborative working approach. This is achieved through in-depth discussions of a diverse range of published studies, both within small groups and in the classroom setting, focusing on their strengths and limitations. Ultimately, the overarching objective is to equip students with the knowledge and skills necessary to conduct research on bilingualism and multilingualism through a psycholinguistic lens.",
+        "Learning outcomes": "A Identify the main research questions in psycholinguistics of bilingualism and multilingualism B Critically evaluate the major theories (models) in bilingual/multilingual language processing C Display a grasp of main methodological approaches in studying bilingualism/multilingualism from a psycholinguistic perspective D Read and evaluate psycholinguistic studies of bilingualism/multilingualism in terms of their scientific and methodological aspects E Design independent research projects related to psycholinguistics of bilingualism/multilingualism",
+        "Method of teaching and learning": "The module will be taught through a combination of lectures and interactive seminars. Each topic will be assigned one or two lecture sessions and one or two integrative seminars, depending on the topic under discussion (see the syllabus below). In the lecture section, the major theoretical concepts, research findings, and methodological issues will be surveyed and introduced. The students are then required to reflect upon and discuss these issues in the seminar and will be given opportunities to apply these concepts to examine real-life language experiences."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG414&psl_code=SEM2"
+    }
+  ]
+}

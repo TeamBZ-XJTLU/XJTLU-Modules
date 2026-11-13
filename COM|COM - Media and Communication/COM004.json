@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Digital Media and Communication",
+  "module_code": "COM004",
+  "offerings": [
+    {
+      "heading": "Digital Media and Communication",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Digital Media and Communication",
+        "module_code": "COM004",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Digital Media and Communication",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to prepare students for entry into the BA Communication Studies. To that end, it exposes students to some of the fundamental issues that scholars of media and communication examine, for instance media effects and the influence of technology, and to foundational vocabulary that scholars and media professionals use. In addition, the module provides guidance to students on study skills and learning techniques in the Humanities and Social Sciences.",
+        "Learning outcomes": "A. Define and accurately use foundational terminologies related to the academic study of media and communication. B.Illustrate key theories, concepts and contemporary issues in media and communication studies through concrete examples. C. Develop essential learning strategies and methods used in media and communication studies",
+        "Method of teaching and learning": "Weekly lectures will introduce basic terms, key theories, concepts, contemporary issues as well as learning strategies and methods relevant to media and communication studies. Each lecture is followed by a one-hour seminar, which provides an opportunity for further exploration and discussion of the lecture content, as well as practical guidance on essential study skills and learning techniques specific to media and communication studies."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM004&psl_code=SEM2"
+    }
+  ]
+}

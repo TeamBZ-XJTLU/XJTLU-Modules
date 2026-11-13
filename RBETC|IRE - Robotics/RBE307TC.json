@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IRE",
+    "domain_code": "RBETC",
+    "full_name": "Robotics"
+  },
+  "full_name": "Robot Operating System for Robotics Programming",
+  "module_code": "RBE307TC",
+  "offerings": [
+    {
+      "heading": "Robot Operating System for Robotics Programming",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "RBETC",
+        "full_name": "Robot Operating System for Robotics Programming",
+        "module_code": "RBE307TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Robot Operating System for Robotics Programming",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to enable students to have a comprehensive understanding of the robot operating system for robotics programming. Besides theoretical understanding, this module aims at equipping the students with practical experience in completing the robotic project, which is important to the programme. The specific aims of this module are: 1) to provide the students with an introduction to robotics programming using a robot operating system (ROS); 2) to introduce a range of simulation techniques for modeling and control of service robots and robotic manipulators; 3) to train the students' ability to think logically and independently and to acquire practical skills in Robotics Engineering.",
+        "Learning outcomes": "A.Demonstrate a comprehensive understanding of the design principles of ROS in the context of operating systems B.Apply the skills to integrate I/O boards, sensors, and actuators into the ROS framework. C.Apply advanced control algorithms to achieve optimal performance in service robots and robotic arms D.Implement the programming of sensors using ROS and related libraries, ensuring seamless communication between hardware components. E.Implement an autonomous robotic system combining mobile robotics and robotic manipulation.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contributions from industry partners. This philosophy is carried through also in terms of assessment, with a reduction in the use of exams and an increase in coursework, especially problem-based assessments that are project-focused. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. This module will be delivered by a combination of formal lectures and supervised laboratory sessions. Lectures will be given on theory, programming demonstration and applications in lecture hall. University researchers and industrial experts will be invited to present the frontier progress. Labs will be collaboratively delivered by the module leader/co-teacher and the enterprise partners. This module is taught with an emphasis on student learning through practice and by projects, facilitated by a module leader, and where appropriate, industrial mentors. Students can identify particular areas of learning needs or interests according to the available project(s). They will conduct independent research to gather information and resources to better define the problem. Progress towards the learning outcomes will be facilitated and monitored, where students are guided to progressively address the given problem through tasks. Independent learning will form an important aspect of the educational activities in this module. Assessed by a project, students shall gain practical experience in undertaking independent study and research on industry-focused real-world problems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=RBE307TC&psl_code=SEM1"
+    }
+  ]
+}

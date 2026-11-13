@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Psychological Approaches to Decision-Making",
+  "module_code": "SMO309",
+  "offerings": [
+    {
+      "heading": "Psychological Approaches to Decision-Making",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Psychological Approaches to Decision-Making",
+        "module_code": "SMO309",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Psychological Approaches to Decision-Making",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to help students understand, apply and evaluate quantitative and qualitative techniques to decision making in an appropriate manner within the work context. Students learn the concepts and theories relevant to the aspects of decision-making by individuals and groups. The module also considers cognitive techniques for stimulating creativity, innovation and problem-solving.",
+        "Learning outcomes": "A. Demonstrate in-depth understanding of the major cognitive, social and emotional processes that influence the nature of individual, group and organizational decision-making. B. Demonstrate good understanding of the manner in which social and environmental factors can inform and shape the process of decision-making through team work and group discussion. C. Comprehend how decisions are taken both individually and in groups to solve problems. D. Demonstrate in-depth understanding of the major analytical tools and methodology for quantitative analysis applied to decision-making processes E. Apply analytical tools to managerial decision making and evaluate results with appropriate risk assessment processes",
+        "Method of teaching and learning": "The lecturing and learning approach will seek to employ a high level of student participation through discussion and debate of the key issues presented in class. The lectures themselves will be supported by Powerpoint slide handouts and students are expected to take additional detailed explanatory notes. A range of skill-based exercises will be utilised during the class which will seek to contextualise and apply the academic and theoretical content presented during the lectures. Students are expected to engage in a high level of independent and self-directed learning utilising the core text. Students are encouraged to engage in other recommended readings as well as engage in their own search for resources via the library and internet searches."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO309&psl_code=SEM1"
+    }
+  ]
+}

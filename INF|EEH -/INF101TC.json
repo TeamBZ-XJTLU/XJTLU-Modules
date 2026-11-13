@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEH",
+    "domain_code": "INF",
+    "full_name": ""
+  },
+  "full_name": "Syntegrative Education in Deep Practice",
+  "module_code": "INF101TC",
+  "offerings": [
+    {
+      "heading": "Syntegrative Education in Deep Practice",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INF",
+        "full_name": "Syntegrative Education in Deep Practice",
+        "module_code": "INF101TC",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 1",
+        "Module Title": "Syntegrative Education in Deep Practice",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to equip XEC students with fundamental industry skills by carrying out Syntegrative Projects from collaborations with industry partners spanning the entire academic year. Syntegrative Projects combine learning and teaching activities with practical work and hands-on learning, fostering multidisciplinary teamwork, design thinking, entrepreneurial mindset, and a deep understanding of industry dynamics to develop creative AI-centric solutions for real industrial problems. This module sits within E&I division of EEH. Innovation Factory (IF) and its academic staff will coordinate teaching and assessment, as well as deployment of labs and equipment resources, with academic staff from across XJTLU Entrepreneur College (XEC), Academic Literacies Centre (ALC), industry mentors and other academic units across XJTLU. This module emphasises developing skills essential to a successful delivery of projects, as an inidvidual and as a group, while mastering English communication skills through written and oral presentations, enabling students to convey their ideas and designs. As part of these learning and teaching activities, XEC students will be introduced to the IF platform and learn how to work on projects within the framework of IF in collaboration with industrial partners. This approach will enable students to develop their core professional knowledge and skills acquired in LIF001 Research-led & Project-based Learning as well as Year 1 English for Academic Purposes modules, in an industrial setting by applying multidisciplinary knowledge and skills through engagement and completing a group project of real-world industrial significance. Students will develop professional, technical, and industrial skills, including research methodology, communications, leadership, project management, team work, language skills, and lateral thinking, to become professionals who can navigate uncertainty while leveraging cutting-edge technology in an AI-driven world.",
+        "Learning outcomes": "A Define a real-world global, engineering, scientific, financial or industrial problem, and produce a technical design and project development plan to address the problem. B Identify relevant technical principles and describe their application within a given industrial context. C Employ professional and industrial skills, such as leadership, teamwork, time management, and delegation, for workplace success in an industrial/commercial landscape, and develop proficiency in written and oral tasks to demonstrate academic and professional communication skills. D Demonstrate proficiency in core technical techniques by applying them to produce a conceptual or physical solution to the identified problem.",
+        "Method of teaching and learning": "This module is based on the philosophy of Syntegrative Education and adopt Project-based Learning and Teaching to integrate learning and teaching activities with real-world projects, which contribute to students’ studies and professional development. This module emphasises student learning through practice and projects led by Innovation Factory and facilitated by schools/hubs academics, internal and external guest speakers, ALC staff, and industrial mentors. Students select a real-world and/or industry-related project that accords with their own interests and ambitions, and work in groups to realise the project. The module promotes interdisciplinary and multidisciplinary approaches. Students can identify particular areas of learning needs or interests according to the available projects. They will conduct independent research to gather information and resources which support the effective definition of their chosen problem or project area. This module is delivered through a combination of lectures, timetabled drop-in sessions, guest speaker sesssions, group discussions and activities, seminars, and case studies, with hands-on practical exercises. Lectures, drop-in sessions and group discussions are conducted using the Project-Based Learning paradigm focusing on student-centred learning, where students develop critical thinking and problem-solving skills to address open-ended problems that lack a straightforward solution. The three coursework components form an integrated sequence: the Structured Technical Canvas (20%) introduces problem definition, technical design, and project planning within a given industrial context, directly scaffolding the major Technical/Portfolio (60%), where students apply core techniques to produce a conceptual or physical solution. The Group Project Meeting (20%) builds professional communication and collaboration skills through discussion on project's technical/non technical aspects, its planning, development and/or critique. Together, these components ground technical learning in authentic project contexts while developing essential workplace skills."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INF101TC&psl_code=ACYR"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DES",
+    "domain_code": "DES",
+    "full_name": "Design"
+  },
+  "full_name": "Designing AI Futures",
+  "module_code": "DES007",
+  "offerings": [
+    {
+      "heading": "Designing AI Futures",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DES",
+        "full_name": "Designing AI Futures",
+        "module_code": "DES007",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Designing AI Futures",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides practical experience exploring diverse analytical and interpretive skills essential to the interdisciplinary approach through design thinking. The module aims to investigate real-life problems associated with a lifecycle impacts of AI development and to formulate practical solutions for our resilient futures. This module serves as a bridge between theoretical knowledge and practical exercises, developing academic and creative capacities and competencies to address the impact of AI on our society through a design lens. The module is part of the Investigative Futures Seminar (IFS) of the Year 1 framework.",
+        "Learning outcomes": "A Examine societal transformations driven by emerging AI technology through evidence-based arguments, contextual understanding, and peer discussions. B Investigate AI challenges through interdisciplinary work to make informed decisions for a better future. C Engage in problem-solving processes that adapt to real-world constraints in AI development to build sustainable, resilient futures. D Demonstrate comprehensive communication skills, English-medium collaborative learning, and transferable challenge-framing.",
+        "Method of teaching and learning": "The module aims to offer a diverse learning experience that emphasises the development of transferable skills and knowledge. It includes lectures, case studies, practical exercises, and tutorials. By exposing students to various issues and debates associated with emerging AI development, the module deepens their understanding of the complexities of contemporary technical and social challenges in real-world contexts through the design approach. Special attention will be given to technical, socioeconomic, cultural and ethical contexts that influence our future society. Lectures, inquiry-based learning, responsible digital practice, group discussions, and tutorials will facilitate learning, equipping students with the tools and techniques needed to successfully complete their projects and future learning. Class discussions, tutorials, and sample supervisions foster the progressive development of assessments that enhance critical thinking and cultivate the analytical skills and knowledge necessary for future studies."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DES007&psl_code=SEM2"
+    }
+  ]
+}

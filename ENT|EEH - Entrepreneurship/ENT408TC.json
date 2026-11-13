@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEH",
+    "domain_code": "ENT",
+    "full_name": "Entrepreneurship"
+  },
+  "full_name": "Leadership for Technopreneurs",
+  "module_code": "ENT408TC",
+  "offerings": [
+    {
+      "heading": "Leadership for Technopreneurs",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENT",
+        "full_name": "Leadership for Technopreneurs",
+        "module_code": "ENT408TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Leadership for Technopreneurs",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module develops students’ advanced understanding of leadership in technopreneurial organisations. It builds on contemporary research in organisational change, leadership theory, and technopreneurship to examine how leaders shape organizational vision, mission, and values in environments characterised by rapid technological and market change. The module enables students to critically engage with major leadership theories and contemporary practices relevant to technopreneurial organisations, with particular emphasis on leadership capabilities required to support effective team building and communication to enhance organisational innovation and digital transformation. The module fits within a wide range of technology-related postgraduate programmes by preparing students to become technopreneurial leaders who can align organisational purpose with emerging technologies. In doing so, the module complements students’ broader entrepreneurial and technological studies and prepares them for leadership roles in dynamic technopreneurial multinational organisations.",
+        "Learning outcomes": "A Demonstrate advanced understanding of organisational change, leadership and technopreneurship; B Demonstrate advanced understanding of major organisational leadership theories and contemporary practices of technopreneurship; C Critically evaluate how organisational vision, mission, and values must evolve to guide the adoption of technopreneurial mindset; D Analyse the role of effective communication in achieving better collaboration within technopreneurial organizations; E Examine how leaders can apply principles of team formation and motivation to build high-performing teams in technopreneurial organisations.",
+        "Method of teaching and learning": "This module adopts the Syntegrative Educational Model of XJTLU in which students engage with real organisational challenges, integrate theory with practice, and develop leadership-oriented solutions relevant to technopreneurial contexts. Teaching is delivered through a combination of interactive lectures and seminars. Lectures provide the theoretical foundations of leadership, organisational change, and technopreneurship, introducing key concepts, frameworks, and models that inform analysis and decision-making. Seminars build on lecture content by focusing on application and critical engagement through structured activities such as case study analysis, student-led discussions, debates, and collaborative problem-solving tasks. This blended approach supports analytical thinking, reflection, and the development of leadership capabilities relevant to technology-intensive organisations."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENT408TC&psl_code=SEM2"
+    }
+  ]
+}

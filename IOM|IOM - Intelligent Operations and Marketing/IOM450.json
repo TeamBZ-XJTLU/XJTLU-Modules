@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Project output evaluation and reflection",
+  "module_code": "IOM450",
+  "offerings": [
+    {
+      "heading": "Project output evaluation and reflection",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Project output evaluation and reflection",
+        "module_code": "IOM450",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 4",
+        "Module Title": "Project output evaluation and reflection",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module is to bring together students, supervisors, and stakeholders to evaluate the final outputs of the in-company project, reflecting on both the achievements and the challenges faced during the project. This module will allow students to report on their work, particularly through the DMAIC process, and to assess how the project has met its objectives and deliverables as outlined in the project charter. The module will also provide an opportunity for open reflection on the project’s successes and limitations.",
+        "Learning outcomes": "A. Present and justify the final outcomes of the in-company project (e.g., prototypes, reports, or other outputs) to a professional standard. B. Critically evaluate how the project outputs meet the objectives and deliverables set forth in the project charter. C. Reflect on the good practice and lessons learned during the project. D. Discuss how the knowledge and skills acquired through the project can be applied in future professional scenarios.",
+        "Method of teaching and learning": "• Project Presentations: Students will present the outcomes of their in-company project, showcasing how they applied the DMAIC process and discussing the final deliverables. • Evaluation Discussions: Supervisors, stakeholders, and students will participate in a guided discussion evaluating the project outputs, focusing on how well they align with the project charter and the overall objectives. • Group Reflection Sessions: Breakout sessions where students, supervisors, and stakeholders will reflect on key challenges, successes, and lessons learned throughout the project."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM450&psl_code=SEM2"
+    }
+  ]
+}

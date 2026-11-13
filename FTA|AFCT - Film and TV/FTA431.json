@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Industry Practice",
+  "module_code": "FTA431",
+  "offerings": [
+    {
+      "heading": "Industry Practice",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Industry Practice",
+        "module_code": "FTA431",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Industry Practice",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: The module provides students opportunities to meet and pay the role in the cultural and creative industries, understand cultural firms, organizational operations, and management. Objectives: Students need to apply their knowledge and skills learnt in the class to demonstrate their professional abilities, problem solving, communication skills in the workplace.",
+        "Learning outcomes": "A Demonstrate a systematic understanding of the relevant sector within cultural and creative industries and its daily operations B Develop critically the professional skills and abilities required for the placement roles at the cultural and creative sectors C Evaluate critically the current market practice and development of cultural and creative industries",
+        "Method of teaching and learning": "The module will be operated through the work placement in the cultural and creative industries. Through student assigned role and works to learn the knowledge and skills from professionals and industries. Students are able to demonstrate and practice their professional abilities and understand the operation of the sector. Students will take on the placement opportunities provided by the companies partnered with the School and the University. The job types in the placements range from those in media production, game development, and cultural tourism. The students will be assigned industrial mentors who guide them through the placements and liaison with the school’s coordinating staff member. The process will comply with the University’s guidelines and procedures on student work placement."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA431&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Exploring Intelligent Supply Chains with Syntegrative Technologies",
+  "module_code": "IFB003TC",
+  "offerings": [
+    {
+      "heading": "Exploring Intelligent Supply Chains with Syntegrative Technologies",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Exploring Intelligent Supply Chains with Syntegrative Technologies",
+        "module_code": "IFB003TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Exploring Intelligent Supply Chains with Syntegrative Technologies",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to the fundamentals of intelligent supply chains and associated technologies, providing practical insights into their applications across various industries while fostering critical thinking and curiosity about real-world challenges and solutions. The module also sought to provide a broad grasp of Syntegrative Education and how it benefits students. Under this framework, students can also frame the problems of various industries, get to know the general tools & methods to tackle the problems, develop their communication and presentation skills. This module also provides students’ pathway-sensitive preparation, academic readiness, and facilitates final program confirmation. Additional objectives include encouraging students' curiosity and interest rather than enforcing the nuances of each discipline.",
+        "Learning outcomes": "A. Explain the fundamentals of intelligent supply chains and their technological applications, demonstrating understanding through analysis of case studies and practical examples. B. Demonstrate foundational awareness of Syntegrative Education by articulating key concepts of integrating diverse technologies and applying Object-based learning tools (e.g., mobile phones) and Problem-based learning methods to practical examples. C. Demonstrate foundational awareness of pathway-sensitive academic progression by distinguishing among tailored preparation strategies, evaluating personal readiness for advanced study, and determining the appropriate final program confirmation based on individual interest and learning trajectory. D. Demonstrate foundational readiness for English-medium university study by articulating the demands of academic expectations, employing learning resources strategically, and adapting to the structural systems of university learning while building academic confidence. E. Demonstrate foundational awareness of intelligent supply chain academic exploration by articulating the scope of supply chain field and the ways of thinking, analytical skillset and related technologies applied in the supply chain with, and interpreting program expectations to project possible future academic pathways.",
+        "Method of teaching and learning": "The module is delivered over 13 weeks in Semester 2 Year 1. Lectures will be a combination of classroom-based lectures, interactive sessions with industry-based guest lecturers and on-site company visits. An interactive 2-hour seminar in groups will analyze real-world intelligent supply chain practices, examining how new technologies transform industries. Interactive activities with industries through guest speaker or on-site tour."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB003TC&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Introduction to Linguistics: Grammar",
+  "module_code": "LNG103",
+  "offerings": [
+    {
+      "heading": "Introduction to Linguistics: Grammar",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Introduction to Linguistics: Grammar",
+        "module_code": "LNG103",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Linguistics: Grammar",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to fundamental methods in which language can be described and analysed. We will examine the structure of language in reference to morphology and syntax. The key aim is to show how structure builds from the word to the sentence level. Students will then apply these concepts to related issues in language. The module is a sister module to Introduction to Linguistics: Spoken and Written Discourse and serves as a foundation for students on the LNG pathway.",
+        "Learning outcomes": "A. apply basic morphological knowledge to examine word structure B. apply basic syntactic knowledge to examine sentence structure C. discuss relevant linguistic theory and methodology D. apply morphological and syntactic theory to issues in language",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: lectures and seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG103&psl_code=SEM1"
+    }
+  ]
+}

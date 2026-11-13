@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Sustainability and Ethics in Cultural and Creative Industries",
+  "module_code": "FTA430",
+  "offerings": [
+    {
+      "heading": "Sustainability and Ethics in Cultural and Creative Industries",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Sustainability and Ethics in Cultural and Creative Industries",
+        "module_code": "FTA430",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Sustainability and Ethics in Cultural and Creative Industries",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: This module aims to offer a critical study of key sectors and operating practices in the creative, cultural and new media industries. Objectives: To develop the issues of new media / contemporary computing production within a global context and the dynamic changes occurring within.",
+        "Learning outcomes": "A Demonstrate a critical awareness of the increasing challenges faced in producing critical, creative work within a contemporary global context B Analyse critically the existing and developing structures and behaviors of organizations in the creative industries C Demonstrate a comprehensive knowledge of ethics; historical and contemporary D Develop original practical work informed by relevant critical theory and practice",
+        "Method of teaching and learning": "This module will be delivered through a combination of lectures, tutorials and seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA430&psl_code=SEM2"
+    }
+  ]
+}

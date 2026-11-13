@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEH",
+    "domain_code": "ISC",
+    "full_name": ""
+  },
+  "full_name": "Startup & Industry Lab",
+  "module_code": "ISC401",
+  "offerings": [
+    {
+      "heading": "Startup & Industry Lab",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "ISC",
+        "full_name": "Startup & Industry Lab",
+        "module_code": "ISC401",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Startup & Industry Lab",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Developing and testing solutions to real business challenges. ISC001 aims to develop participants’ ability to turn a real business challenge into a tested solution and a costed pilot proposal. Through a startup project or an industry brief in Thailand, the module brings together industry understanding, technology knowledge and an entrepreneurial mindset. The module aims to: 1. Develop entrepreneurial judgement in identifying and scoping real business problems and opportunities, including opportunities for AI adoption. 2. Build participants’ ability to use design thinking, lean startup and primary evidence to develop, prototype and validate business solutions. 3. Develop the ability to apply innovation concepts, business models, unit economics and market-entry analysis to assess commercial viability and plan a realistic pilot. 4. Strengthen the evaluation of social, environmental and economic impacts in relation to the Sustainable Development Goals. 5. Develop collaborative project management, including resource planning, teamwork, time management and stakeholder communication. 6. Encourage critical reflection, evidence-based decision-making and clear communication of project findings and future development needs. Fit with the programme: ISC001 applies the learning outcomes and assessment structure of ENT419TC Syntegrative Project A to startup and industry projects in Thailand. It is designed for college students, MSc students and working professionals, and may be taken independently or in sequence with ISC002. Proposed credit recognition for participants who later join the MSc Entrepreneurship and Innovation is subject to formal approval and the applicable credit-recognition arrangements.",
+        "Learning outcomes": "A Analyze industry challenges and opportunities, developing entrepreneurial mindsets to identify potential entrepreneurial solutions that address real-world problems. B Design a comprehensive project plan that integrates key entrepreneurial processes, including ideation, prototyping, and testing, to address the identified industry problems. C Develop a Minimum Viable Product (MVP) or prototype, incorporating iterative feedback from industry partners, peers, and faculty to enhance its viability and relevance. D Evaluate the sustainability impact of the proposed solution, aligning the project outcomes with relevant Sustainable Development Goals (SDGs) and demonstrating awareness of social, environmental, and economic considerations. E Collaborate effectively within multidisciplinary teams, demonstrating leadership, conflict resolution, and communication skills to achieve project milestones. F Reflect critically on individual performance throughout the project, identifying areas for personal and professional growth, and formulating strategies for future entrepreneurial challenges.",
+        "Method of teaching and learning": "The module runs as a three-week intensive teaching block, following the standard ISC delivery pattern of Sat/Sun Week 1, Wed Week 2, Wed Week 3, Sat/Sun Week 3. The middle weekend is reserved for fieldwork. Demo Day takes place in Session 6. CW1 and CW2 are submitted approximately four weeks after Demo Day, allowing project refinement and reflection. Scheduled contact comprises four 8-hour workshop days (32 hours) and two 4-hour Wednesday evenings (8 hours), each split into a 2-hour facilitated project clinic and a 2-hour industry guest session. Fieldwork totals 50 hours: 12 timetabled and 38 continuing collection across the block and before submission. Independent study, analysis and assessment preparation. total 60 hours. ISC001 uses Project-Based Learning. Teams work on a live or realistic business brief throughout the teaching block and the period before final submission AI tools support project analysis, market research and prototyping. Students must verify outputs and disclose their use. Each workshop day combines a three-hour taught input with five hours of practical project work. Taught inputs cover the entrepreneurial mindset and opportunity analysis; business models, unit economics and preparation for fieldwork; innovation dynamics, diffusion and market entry; and ecosystems, partners and defence. Teams frame problems, build and test artefacts, refine pilot logic, gather evidence and rehearse their final readout, with faculty coaching throughout and structured peer critique at each stage. Additional faculty or industry pathfinders may be invited where projects require specialist support. The two Wednesday evenings combine facilitated project clinics, milestone reviews, faculty coaching and peer critique with external practitioner sessions on identifying high-value opportunities in Week 2 and on start-up execution, scaling and finance in Week 3, with time for networking. The middle weekend is fieldwork, 12 timetabled hours, which continues across the block and before the final assessment to a total of 50 hours. Teams leave the classroom and gather the primary evidence their project depends on. Faculty and industry pathfinders are available for consultation remotely by appointment. The assessment requires real evidence rather than secondary summaries or generated text. Progression through the block is milestone-based: problem framing and project scoping, solution direction and prototype approach, strategy and pilot logic, research and validation, and final integration. Project Tracks Teams select one track in Session 1. Track 1. Student Startups. Track 2. XJTLU Startups Expanding into ASEAN. Track 3. Other Startup or Industry Partners. All tracks follow the same milestones, the same evidence standards, the same artefact requirement and the same final defence, and all are supported by faculty facilitation and industry pathfinder support."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ISC401&psl_code=SEM1"
+    }
+  ]
+}

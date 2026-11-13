@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FIN",
+    "domain_code": "FIN",
+    "full_name": "Finance"
+  },
+  "full_name": "Python for Data analytics",
+  "module_code": "FIN103",
+  "offerings": [
+    {
+      "heading": "Python for Data analytics",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "FIN",
+        "full_name": "Python for Data analytics",
+        "module_code": "FIN103",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Python for Data analytics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to develop students' ability to analyze data using Python, equipping them with the skills to read, write, and debug code for dataset analysis. Starting with an overview of data types and structures, the module covers essential programming concepts such as mathematical and logical operators, flow control, functions, and statistical analytics. Through hands-on seminars and lab sessions, students apply their knowledge to real-world data extraction and analysis tasks. Assessment is based on an individual project (40%) and a final exam (60%), ensuring both practical and theoretical competency. By the end of the module, students will have strengthened key skills, including problem-solving, IT literacy, numeracy, and communication, preparing them for data-driven challenges.",
+        "Learning outcomes": "A. Interpret and explain the purpose and logic of a given Python code. B. Import and export datasets using Python libraries (e.g., Pandas). C. Design and write Python programs to solve specified analytical problems.",
+        "Method of teaching and learning": "Students are required to attend two hours of weekly lectures and two hours of supervised lab practical for each other week where they will apply Python programming skills to data analysis tasks. The lectures deliver core academic content, while the lab sessions provide hands-on practice. Additionally, students are expected to dedicate about eight hours per week to independent study, which includes preparing for lab tasks, reviewing lecture materials, conducting background reading, and reinforcing their programming skills through practice. This blended approach ensures a balance of theoretical understanding and practical proficiency."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN103&psl_code=SEM1"
+    }
+  ]
+}

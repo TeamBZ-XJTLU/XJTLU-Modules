@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMP",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Foundations of Financial Computing",
+  "module_code": "MTH116",
+  "offerings": [
+    {
+      "heading": "Foundations of Financial Computing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Foundations of Financial Computing",
+        "module_code": "MTH116",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Foundations of Financial Computing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To equip students with practical programming and quantitative analysis skills using Python, enabling them to tackle financial problems through numerical computation and data-driven modelling. Specifically, students will learn to design, implement, and evaluate financial models, such as multifactor frameworks, using algorithmic thinking and results interpretation supported by graphical and tabular outputs.",
+        "Learning outcomes": "A. Develop the ability to translate mathematical models and algorithmic logic into efficient, executable Python code for computational finance. B. Apply advanced numerical computing and data manipulation skills using Python's scientific stack to solve financial problems. C. Create professional visual representations of data and generate structured tables to summarize analytical results. D. Implement statistical and probabilistic algorithms in various contexts, particularly in factor modelling and investment analysis.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures and computer labs."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH116&psl_code=SEM2"
+    }
+  ]
+}

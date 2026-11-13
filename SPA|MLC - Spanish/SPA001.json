@@ -1,0 +1,57 @@
+{
+  "department": {
+    "department_code": "MLC",
+    "domain_code": "SPA",
+    "full_name": "Spanish"
+  },
+  "full_name": "Spanish Language 1",
+  "module_code": "SPA001",
+  "offerings": [
+    {
+      "heading": "Spanish Language 1",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SPA",
+        "full_name": "Spanish Language 1",
+        "module_code": "SPA001",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Spanish Language 1",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module is intended for students who have little or no previous knowledge of the Spanish language and it will introduce the Spanish language and culture. The module will broadly achieve an outcome at level A1- of the Common European Framework of Reference for Languages. The module aims: • To provide students with the basic grammatical structures of the language and elementary skills in all four key language skills: writing, speaking, listening and reading. • To introduce the culture, customs and society of Spain and Spanish-speaking countries, to help students develop an awareness of the cultural and social background of the language. All the Spanish language modules have been developed taking into account the QAA benchmark statements for a full or minor component in a language. QAA benchmark statements relate to the language component comprising at least one-third of the study total, resulting in students at the end of the relevant degree programme being at level C1. These Spanish language modules make up less than one third of study and so the realistic minimum that would be achieved for a student starting at a beginner level in year 1 is CEFR B1.",
+        "Learning outcomes": "A. Demonstrate comprehension of basic spoken Spanish about familiar topics B. Understand familiar everyday expressions and very basic phrases designed to satisfy needs of a concrete type, from a range of different type of texts. C. Demonstrate spoken communication skills by providing and/or exchanging personal information at very basic level. D. Produce very simple texts in Spanish about familiar topics E. Identify very basic aspects of the culture of Spanish-speaking countries.",
+        "Method of teaching and learning": "• Core teaching takes place through Spanish language and study skills workshops with an emphasis on student-to-student interaction and all student participation. • In addition, there will be guided reading and directed study to enable students to prepare for and reinforce class input and develop autonomous learning strategies. Online resources will also be used to complement contact sessions and workshops whereby additional information and resources can be made available electronically and on-line discussions between students and tutors can be held."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SPA001&psl_code=SEM1"
+    },
+    {
+      "heading": "Spanish Language 1",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SPA",
+        "full_name": "Spanish Language 1",
+        "module_code": "SPA001",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Spanish Language 1",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module is intended for students who have little or no previous knowledge of the Spanish language and it will introduce the Spanish language and culture. The module will broadly achieve an outcome at level A1- of the Common European Framework of Reference for Languages. The module aims: • To provide students with the basic grammatical structures of the language and elementary skills in all four key language skills: writing, speaking, listening and reading. • To introduce the culture, customs and society of Spain and Spanish-speaking countries, to help students develop an awareness of the cultural and social background of the language. All the Spanish language modules have been developed taking into account the QAA benchmark statements for a full or minor component in a language. QAA benchmark statements relate to the language component comprising at least one-third of the study total, resulting in students at the end of the relevant degree programme being at level C1. These Spanish language modules make up less than one third of study and so the realistic minimum that would be achieved for a student starting at a beginner level in year 1 is CEFR B1.",
+        "Learning outcomes": "A. Demonstrate comprehension of basic spoken Spanish about familiar topics B. Understand familiar everyday expressions and very basic phrases designed to satisfy needs of a concrete type, from a range of different type of texts. C. Demonstrate spoken communication skills by providing and/or exchanging personal information at very basic level. D. Produce very simple texts in Spanish about familiar topics E. Identify very basic aspects of the culture of Spanish-speaking countries.",
+        "Method of teaching and learning": "• Core teaching takes place through Spanish language and study skills workshops with an emphasis on student-to-student interaction and all student participation. • In addition, there will be guided reading and directed study to enable students to prepare for and reinforce class input and develop autonomous learning strategies. Online resources will also be used to complement contact sessions and workshops whereby additional information and resources can be made available electronically and on-line discussions between students and tutors can be held."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SPA001&psl_code=SEM2"
+    }
+  ]
+}

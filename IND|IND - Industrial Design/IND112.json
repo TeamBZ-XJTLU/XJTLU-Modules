@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IND",
+    "domain_code": "IND",
+    "full_name": "Industrial Design"
+  },
+  "full_name": "Computer Aided Design and Modeling (3-D)",
+  "module_code": "IND112",
+  "offerings": [
+    {
+      "heading": "Computer Aided Design and Modeling (3-D)",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IND",
+        "full_name": "Computer Aided Design and Modeling (3-D)",
+        "module_code": "IND112",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Computer Aided Design and Modeling (3-D)",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "In a period of rapid prototyping and production, and speed to market imperatives, the creation of digital artefacts is of essential importance to the Industrial Design profession. Digital design enables a range of stakeholders such as engineers, brand owners and users, to view product concepts, for physical and virtual models to be rapidly made, and for feedback to be generated. 3D CAD and digital software modelling is therefore an essential and fundamental skill for all students to learn. In this module students will learn a variety of basic industry standard softwares and techniques to communicate 3-D forms, using parametric data, vectors and solids. Depending on the context for the digital artefact, by the end of the module students will know which tools to select for the communication of engineering and production data and which to use or more visually oriented contexts. Students will follow lecture/demonstrations, group and individual tutorials and carry out self-directed tutorials to complete weekly exercises. Completion of the learning outcomes for this module will have a significant bearing on students' abilities to produce competent and professional standard visuals in other modules.",
+        "Learning outcomes": "A. Apply the basic knowledge of CAD softwares to set-up and creation of models in a CAD environment. B. Define and set the range of parameters that underpin the construction of a geometry. C. Flexibly use the combination of computational and visual features to produce complex surface/surface combinations. D. Use a 3D software to create models of existing artifacts and to produce rendered visuals. E. Adopt in-context design approach to build assembly models.",
+        "Method of teaching and learning": "This module will be delivered through briefing lectures followed by demonstrations in dedicated computer labs. Additionally students will receive group and individual tutorials and set exercises, which students will complete in their self-directed learning time."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IND112&psl_code=SEM2"
+    }
+  ]
+}

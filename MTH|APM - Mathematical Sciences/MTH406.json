@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "APM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Arbitrage, Equilibrium and Pricing",
+  "module_code": "MTH406",
+  "offerings": [
+    {
+      "heading": "Arbitrage, Equilibrium and Pricing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Arbitrage, Equilibrium and Pricing",
+        "module_code": "MTH406",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Arbitrage, Equilibrium and Pricing",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course gives an introduction to the theory part of Research methods in Finance for MSc students. It focuses on the foundations of the equilibrium models of asset pricing theory. It introduces the students to the relevant modeling techniques for asset pricing. Three pricing principles are considered: non-arbitrage, individual optimality, and equilibrium. Many of the models are treated at three different levels as one-period, multi-period and continuous time models. We shall comment on some empirical evidence and on how these theories are used in financial practice.",
+        "Learning outcomes": "On the completion of this module students will be able to: a. Understand and apply the forms of Capital Asset Pricing Model (CAPM), the linear factor model arising from the Arbitrage Pricing Theory (APT), and contingent claims pricing. b. Understand and apply theoretical and practical aspects of the Black and Scholes model. c. Be able to price fixed income securities for investing, market-making or speculating, familiar with quantitative tools used to value bonds and manage bonds' portfolios d. Understand and apply the applications of expected utility theory and state prices, pricing kernels, and risk-neutral probabilities",
+        "Method of teaching and learning": ""
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH406&psl_code=SEM2"
+    }
+  ]
+}

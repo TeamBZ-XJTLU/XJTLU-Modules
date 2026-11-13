@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Accounting Fraud Detection and Analytics",
+  "module_code": "ACC310",
+  "offerings": [
+    {
+      "heading": "Accounting Fraud Detection and Analytics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Accounting Fraud Detection and Analytics",
+        "module_code": "ACC310",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Accounting Fraud Detection and Analytics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to help students understand topics in accounting fraud detection and analytics, including (1) understanding different ways of conducting accounting fraud; (2) Interpreting the trend of financial ratios to identify accounting fraud; and (3) using Python to develop analytical skills to detect potential fraud. This module will provide students with hands-on experience in using Python to analyze financial data and detect potential accounting fraud. This module will also deliver real-world cases to help understand the financial ratio features of companies involved in accounting fraud.",
+        "Learning outcomes": "A Demonstrate understanding of the mechanisms underlying accounting fraud; B Interpret the trend of financial ratios to identify accounting fraud; C Calculate financial ratios using Python; D Detect potential accounting fraud using Python.",
+        "Method of teaching and learning": "This module will be delivered via a combination of lectures and tutorials. Lectures are designed to cover the concept and cases for each topic. Tutorials will show how to calculate financial ratios and analyze financial data using Python. All course materials will be available on Learning Mall. Office hours will be available every week for consultations."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC310&psl_code=SEM2"
+    }
+  ]
+}

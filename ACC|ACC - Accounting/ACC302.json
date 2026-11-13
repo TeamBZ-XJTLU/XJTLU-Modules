@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Corporate Reporting, Analysis",
+  "module_code": "ACC302",
+  "offerings": [
+    {
+      "heading": "Corporate Reporting, Analysis",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Corporate Reporting, Analysis",
+        "module_code": "ACC302",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Corporate Reporting, Analysis",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "• This course is designed to build upon the knowledge and skills gained in earlier modules by covering more detailed and complex International Financial Reporting Standards (IFRS) and to develop a critical understanding of the construction and context of corporate reports and their role in the communication process • to develop and apply the analytical skills necessary to interpret the activities of corporate enterprises to a range of potential users interested in their affairs",
+        "Learning outcomes": "A. demonstrate a critical understanding of financial statement analysis, other financial and non-financial information and draw appropriate conclusions. B. apply the International Accounting Standards Board’s (IASB) conceptual framework for financial reporting and identify and explain key ethical issues C. assess critically the current developments in corporate reporting and relate these to alternative approaches to the regulation of corporate reporting D. demonstrate underlying concepts in classification, recognition, and measurement of financial instruments and accounting for derivatives and hedges. E. applying underlying concepts to interpret and report specified complex consolidation scenarios",
+        "Method of teaching and learning": "Lectures supported by scenarios and examples. Seminars/workshops to practice the application of techniques and principles."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC302&psl_code=SEM2"
+    }
+  ]
+}

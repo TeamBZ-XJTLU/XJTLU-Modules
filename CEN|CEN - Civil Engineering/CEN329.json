@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Finite Element Method",
+  "module_code": "CEN329",
+  "offerings": [
+    {
+      "heading": "Finite Element Method",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Finite Element Method",
+        "module_code": "CEN329",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Finite Element Method",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to develop the students’ structural analysis skills by providing them the necessary background of the Finite Element Method (FEM) which is very popular within the civil engineering community. In the end of the module, the student should be aware of the internal procedures of an FEM program and how a real civil engineering structure must be modeled so that FEM can be applied in a proper way.",
+        "Learning outcomes": "A Calculate manually the stiffness matrix and the load vectors of a linearly elastic structure. B Know the forms of the Finite Element Method for various structural (beams, plane stress, plane strain, and/or axisymmetry) and boundary conditions (e.g. constraints due to the presence of diaphragm). C Model a real engineering structure by choosing suitable structural conditions and suitable finite elements and apply the analysis by using a finite element software D Know the procedures which are running in a finite element program",
+        "Method of teaching and learning": "Basic information is presented in the form of lectures and tutorials. The assessment will be based on two coursework assignments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN329&psl_code=SEM1"
+    }
+  ]
+}

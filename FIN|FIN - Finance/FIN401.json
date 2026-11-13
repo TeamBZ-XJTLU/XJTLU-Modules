@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FIN",
+    "domain_code": "FIN",
+    "full_name": "Finance"
+  },
+  "full_name": "Advanced Corporate Finance",
+  "module_code": "FIN401",
+  "offerings": [
+    {
+      "heading": "Advanced Corporate Finance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FIN",
+        "full_name": "Advanced Corporate Finance",
+        "module_code": "FIN401",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Corporate Finance",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to examine a range of topics and issues in corporate finance including: capital budgeting, business risk, capital structure, dividend policy, raising long-term capital, corporate governance, and short-term finance in order to equip students to be able to undertake independent and advanced investigations in corporate finance. Particular emphasis will be placed on how financing and investment decisions interact with each other and how those decisions have implications for capital structure, takeovers and corporate bankruptcy. The module also aims to integrate fundamental financial theories with real-world examples to foster problem-solving, grounded in a strong understanding of the business environment and advanced data analytics, such as financial ratio and trend analysis, financial modelling, scenario and sensitivity analysis, and regression analysis.",
+        "Learning outcomes": "A Demonstrate a critical understanding of current theoretical concepts in corporate finance for understanding and developing sound decisions and practices regarding capital budgeting, capital structure, dividend policy, corporate governance, and acquisition and restructuring. B Analyse quantitative and qualitative data in accordance with relevant conceptual frameworks and synthesise them towards optimal decisions and practical expectations. C Understand traditional concepts in Corporate Finance and their application in different business contexts. D Demonstrate the understanding of ethical principles, social responsibility, and sustainability, and apply them in the field of finance. E. Utilize data analytics tools and techniques, including financial ratio and trend analysis, financial modelling, scenario and sensitivity analysis, and regression analysis, to support evidence-based corporate finance decisions. Critically apply artificial intelligence (AI) methods in corporate analysis to inform strategic decision-making.",
+        "Method of teaching and learning": "A range of teaching and learning methods will be utilised on this module. Conceptual and theoretical knowledge will be introduced in a two-hour lecture per week and reinforced by a private study. The case-based exercises and issue-driven seminars will be organised in a one-hour session per week to deepen students’ problem-solving skills and broaden their critical-thinking talents."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN401&psl_code=SEM2"
+    }
+  ]
+}

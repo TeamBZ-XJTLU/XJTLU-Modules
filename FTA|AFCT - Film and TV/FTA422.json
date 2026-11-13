@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Cultural and Media Policies",
+  "module_code": "FTA422",
+  "offerings": [
+    {
+      "heading": "Cultural and Media Policies",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Cultural and Media Policies",
+        "module_code": "FTA422",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Cultural and Media Policies",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: This module offers students the opportunity to review policies, making in a wide range of cultural and media arenas, and understanding policies’ influences on the industries and society. Questions of cultural and media policy and policy-making provide a framework for understanding the legal framework, classifications and institutions which underlie culture and promote or prevent an understanding of our cultural heritage and diversity. They also provide a framework for understanding public agenda within a public sphere impacted by media. Objectives: After the module, the students will develop a critical understanding of the role of public policies in the development of cultural creative industries.",
+        "Learning outcomes": "A Demonstrate a systematic understanding of media and cultural policies. B Apply critically the framework of policies to analyze the development of media and cultural industries C Evaluate systematically the connections and influences of cultural and media policies in the society",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures, seminar, and tutorials. Lectures will be designed to provide essential information and introduce students to understanding the polices, principles, and legality frameworks, etc. for media and cultural industries. Seminar will be designed to provide cases, analyses, presentations of research or report. Tutorials will be provided for students having opportunities to discuss the materials for completion of their coursework."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA422&psl_code=SEM1"
+    }
+  ]
+}

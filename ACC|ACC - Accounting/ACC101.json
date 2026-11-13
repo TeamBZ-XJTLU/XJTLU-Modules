@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Skills for the Professional Accountants",
+  "module_code": "ACC101",
+  "offerings": [
+    {
+      "heading": "Skills for the Professional Accountants",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Skills for the Professional Accountants",
+        "module_code": "ACC101",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Skills for the Professional Accountants",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to provide students with an understanding of some of the skills required of the professional accountant in the current business environment, and the opportunity to acquire and apply those skills.",
+        "Learning outcomes": "A. understand the importance of written and verbal communication from a personal and business perspective B. develop team work experience and experience the different stages of building up effective relationships C. develop ways to work effectively in groups and improve organizational and planning skills D. carry out effective self-guided research E. present confidently in front of others",
+        "Method of teaching and learning": "The module will be taught using a combination of lectures and tutorials as well as ICE."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC101&psl_code=SEM1"
+    }
+  ]
+}

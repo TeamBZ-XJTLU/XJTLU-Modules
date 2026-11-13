@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Physics for Chemistry",
+  "module_code": "PHY101",
+  "offerings": [
+    {
+      "heading": "Physics for Chemistry",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "PHY",
+        "full_name": "Physics for Chemistry",
+        "module_code": "PHY101",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Physics for Chemistry",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides the basic mathematical tools and physical concepts to enable a coherent understanding of the concepts and methods commonly used in domains of applied chemistry such as atomic spectroscopy, reaction kinetics and the electrostatics of salt solutions. After taking this module, students will be able to better appreciate the more advanced and detailed theories and approaches introduced in upper-level modules of applied chemistry such as electrochemistry, polymer chemistry, and solid state chemistry and energy storage materials.",
+        "Learning outcomes": "A Evaluate basic physics problems with proper mathematical tools B Understand the physics principles underlying modern chemistry C Apply statistical thermodynamics to evaluate chemistry-related problems such as phase transitions and physical kinetics D Apply classical mechanics as a basis to analyze concepts used in thermodynamics and quantum mechanics such as work, energy, and rotational and vibrational degrees of freedom E Apply electromagnetism and optics to evaluate chemistry-related problems such as interference and diffraction F Apply quantum mechanics to evaluate chemistry-related problems such as atomic spectroscopy and resonance methods",
+        "Method of teaching and learning": "Students will have 3 hours of lectures and 1 hour of tutorial per week. Lectures and tutorials complement each other, with lectures providing the theories and approaches and tutorials providing problems that showcase the application of the theories and approaches introduced in the lectures. Students are also expected to devote unsupervised time to private study, which includes the study of relevant chapters from the mandatory textbook and supplementary lecture notes. Students’ progress in understanding and mastering concepts introduced in the module will be assessed through continuous assessment in the form of homework assignments, as well as a written examination at the end of the semester. Students are encouraged to utilize AI tools and to critically explore the strengths and limitations of employing generative AI for enhancing their learning and comprehension of physics concepts, including understanding when generative AI works effectively and when it does not."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY101&psl_code=SEM2"
+    }
+  ]
+}

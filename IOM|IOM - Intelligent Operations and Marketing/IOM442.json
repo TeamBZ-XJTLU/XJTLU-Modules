@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Problem-Based Learning Basics",
+  "module_code": "IOM442",
+  "offerings": [
+    {
+      "heading": "Problem-Based Learning Basics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Problem-Based Learning Basics",
+        "module_code": "IOM442",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 4",
+        "Module Title": "Problem-Based Learning Basics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to provide foundational knowledge and skills necessary for students to succeed in their in-company projects. The objectives are to: • Introduce students to the concept and methodology of problem-based learning (PBL). • Equip students with a solid understanding of the fundamentals of project management, including key principles, tools, and frameworks. • Provide hands-on knowledge of the DMAIC (Define, Measure, Analyse, Improve, Control) process and its applications in solving real-world industrial problems. • Ensure students understand the purpose of their in-company projects and are prepared to apply theoretical knowledge to practical situations in collaboration with industry professionals.",
+        "Learning outcomes": "A. Define what PBL is and how it applies to their in-company projects. B. Understand how PBL helps to identify, analyse, and solve real-world industrial problems. C. Apply key project management concepts such as planning, execution, monitoring, and completion. D. Recognise the roles and responsibilities of project stakeholders, including students, faculty, and industry professionals. E. Demonstrate understanding of the DMAIC process. F. Identify and apply DMAIC tools (e.g., process mapping, data analysis) to assess and solve project-related problems.",
+        "Method of teaching and learning": "The module will utilise the following methods to engage students and promote active learning: • Lectures and Presentations: Key concepts of PBL, project management, and DMAIC will be introduced through instructor-led sessions. • Group Discussions and Interactive Activities: Students will engage in group discussions to explore real-world examples and apply PBL principles. • Case Studies and Simulations: Practical case studies related to industrial projects will be analysed to illustrate how to use project management tools and DMAIC techniques. • Self-Study: Students will engage with the key PBL reference book to reinforce classroom learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM442&psl_code=SEM2"
+    }
+  ]
+}

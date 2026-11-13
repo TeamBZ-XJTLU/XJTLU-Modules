@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MLC",
+    "domain_code": "CLT",
+    "full_name": "Chinese Language"
+  },
+  "full_name": "Teaching Chinese as an International Language",
+  "module_code": "CLT202",
+  "offerings": [
+    {
+      "heading": "Teaching Chinese as an International Language",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CLT",
+        "full_name": "Teaching Chinese as an International Language",
+        "module_code": "CLT202",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Teaching Chinese as an International Language",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is part of the Teaching Chinese as an International Language pathway. The module provides students with the skills to pursue teaching careers after their studies. This module aims to provide students with the fundamental knowledge and practice of concepts in language teaching. It also aims to help them to develop their own teaching pedagogy through examining the assumptions and guiding principles underpinning the various approaches and methods in language teaching. Finally, students will gain practical experience through classroom observations, teaching practice and reflective tasks.",
+        "Learning outcomes": "A. Critically analyse pedagogic rationales for teaching various aspects of Mandarin Chinese. B. Explain and apply the principles of selecting methods in teaching Chinese. C. Critically discuss key concepts in teaching methodologies in a national/international environment. D. Reflect on key concepts and principles of teaching methodologies through teaching observations and practice.",
+        "Method of teaching and learning": "The teaching uses a combination of teacher- led seminars followed by student-led discussions about the seminar topic, the observations students have held, and the teaching practices the students have been involved in. The first half of seminars introduce students to relevant knowledge of teaching practice(s), which are then discussed and analysed further in the second half of seminars, which function more as discussion groups relating to the observations/weekly topics/teaching practices. The portfolio task will be based around the changing assumptions and ideas of teaching through the course. It will be designed to allow students to work through the weeks to develop their critical awareness of teaching practices based on the course content, observations and teaching practices."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CLT202&psl_code=SEM1"
+    }
+  ]
+}

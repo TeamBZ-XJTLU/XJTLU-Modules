@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LIFE",
+    "domain_code": "LM",
+    "full_name": ""
+  },
+  "full_name": "Introduction to Financial Accounting",
+  "module_code": "LMACC103",
+  "offerings": [
+    {
+      "heading": "Introduction to Financial Accounting",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LM",
+        "full_name": "Introduction to Financial Accounting",
+        "module_code": "LMACC103",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Financial Accounting",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with knowledge and understanding of the underlying principles and concepts relating to financial accounting and technical proficiency in the use of double entry accounting techniques in recording transactions, adjusting financial records and preparing basic financial statements.",
+        "Learning outcomes": "A. Understand different legal forms of a business. B. Demonstrate the use of double entry and accounting systems C. Record transactions using ledger entries D. Prepare basic financial statements. E. Understand basic partnership accounts.",
+        "Method of teaching and learning": "The lectures cover basic principles and applications of financial accounting supported by examples and exercises. Tutorial work is used to reinforce application through examples and discussion. Learning on this module will be integrated with the companion module in semester two on managerial accounting."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LMACC103&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IND",
+    "domain_code": "IND",
+    "full_name": "Industrial Design"
+  },
+  "full_name": "Studio 5: Advanced Practice",
+  "module_code": "IND314",
+  "offerings": [
+    {
+      "heading": "Studio 5: Advanced Practice",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IND",
+        "full_name": "Studio 5: Advanced Practice",
+        "module_code": "IND314",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 3",
+        "Module Title": "Studio 5: Advanced Practice",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The purpose of this module is for students to commence framing a design practice position. To achieve this through design practice and exploratory design making, prototyping and testing towards final designed products, furniture, spaces, interactions, etc respective weighting of activity in each case is structured within project activities to allow for differing student aptitude and interest. The end point of the module is intended as the springboard to inform the Final Year Project - and the realization of a major project of public exhibition quality. This means delivering an inspiring and substantial body of exploratory research, analysis and prototyping yielding a clear, emergent Design Practice and Portfolio identity and Professional Profile. Individual projects are negotiated by the student with a primary focus on the capacity to self-initiate then direct further independent study. It is necessary to navigate uncertainty, take risks and to demonstrate professionalism.",
+        "Learning outcomes": "A. Apply advanced drawing and making skills to explore creative ideas for future industrial design practice. B. Demonstrate a range of professional skills for managing and presenting a design project. C. Evaluate and apply advanced design methods and tools to improve human experience. D. Articulate understanding of local and global audiences, and diverse cultural imperatives. E. Demonstrate transferable skills, independence and entrepreneurship for a range of contexts. F. To work collaboratively within a project context with a range of stakeholders.",
+        "Method of teaching and learning": "The core learning and teaching on this module comprise project briefings, group and individual tutorials, guest design talks, skills and materials-based workshops and advanced CAD sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IND314&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "CATTC",
+    "full_name": "Cultural Technology"
+  },
+  "full_name": "Advanced Game Development",
+  "module_code": "CAT204TC",
+  "offerings": [
+    {
+      "heading": "Advanced Game Development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CATTC",
+        "full_name": "Advanced Game Development",
+        "module_code": "CAT204TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Advanced Game Development",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module is designed to explain formal game production workflows, game concepts and the creation and development of technical assets and components.",
+        "Learning outcomes": "A. Evidence comprehension of game design production and industry development practice. B. Apply game design processes to create a sort demo project. C. Demonstrate a practical knowledge of game design software.",
+        "Method of teaching and learning": "The teaching sessions are divided into three components (Lectures, labs and private study). Lectures will focus on game design technique and basic craft rules. An intensive series of practical workshops will equip the students with the technical skills and understanding of game design and game design software. Within lab work the emphasis will shift to the creation and management of different assets focused on the development of interactive experiences."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAT204TC&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Business and Digital Strategy",
+  "module_code": "ACC419",
+  "offerings": [
+    {
+      "heading": "Business and Digital Strategy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Business and Digital Strategy",
+        "module_code": "ACC419",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Business and Digital Strategy",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide students with an understanding of how an organisation develops, implements and monitors strategy, including implications for ethics and sustainability.",
+        "Learning outcomes": "A. explain, analyse and evaluate the consequences of an organisation’s current strategic direction, including objectives, market position, organisational structure and technology developments; B. use data to evaluate the likely consequences of strategic choices and technology developments, and recommend business and digital strategies to meet the objectives of an organisation; C. recommend appropriate methods for an organisation to implement and monitor strategies, including strategies for technology and innovation, and demonstrate how data can be used subsequently to measure and monitor strategic performance; D. explain and evaluate ethical issues and recommend appropriate actions, considering all stakeholders and the public interest.",
+        "Method of teaching and learning": "A range of teaching and learning methods (see Mode of Delivery above) will be utilised in this module. Core substantive knowledge will be delivered via lectures, and the knowledge covered in lectures will be reinforced by problem-based discussion; students perform problem-based solving in the tutorial sessions. Longer, case-based exam-type work will be delivered using seminars, which will again be participative."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC419&psl_code=SEM2"
+    }
+  ]
+}

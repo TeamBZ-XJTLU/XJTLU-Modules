@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Artificial Intelligence for Managerial Decision Making",
+  "module_code": "IOM105",
+  "offerings": [
+    {
+      "heading": "Artificial Intelligence for Managerial Decision Making",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Artificial Intelligence for Managerial Decision Making",
+        "module_code": "IOM105",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Artificial Intelligence for Managerial Decision Making",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the practical applications of Artificial Intelligence (AI) in the business world. It aims to: 1. Provide an overview of how AI is used to improve decision-making and operational efficiency in different business sectors. 2. Help students understand the role of AI technologies in marketing, finance, operations and/or customer service. 3. Develop students' ability to evaluate the impact of AI on businesses and society, including legal and ethical considerations.",
+        "Learning outcomes": "A Understand the main concepts and key uses of AI in business operations and decision-making. B Comprehend the role of data in AI applications for business C Identify the benefits and limitations of using different AI techniques in various business contexts. D Discuss the legal, ethical, and societal implications of AI in the workplace and beyond.",
+        "Method of teaching and learning": "This module will be delivered through a combination of lectures and tutorials. The lectures are designed to provide essential information and introduce students to both the academic and practical content covered in the module. The tutorials, on the other hand, will focus on practical cases, offering students the opportunity to deepen their understanding and extend the knowledge presented during the lectures."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM105&psl_code=SEM2"
+    }
+  ]
+}

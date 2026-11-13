@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Environmental Economics",
+  "module_code": "ECO321",
+  "offerings": [
+    {
+      "heading": "Environmental Economics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Environmental Economics",
+        "module_code": "ECO321",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Environmental Economics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with an understanding and appreciation of an emerging field of Environmental Economics. This includes resource management problems, environmental externalities and climate change. The module provides a basic overview of a range of environmental topics covered within Economics together with some applied problem solving on microeconomic and macroeconomic levels.",
+        "Learning outcomes": "A Demonstrate understanding of the core concepts and models used in environmental economics B Understand the interaction between the economy and the environment C Stress the crucial role of technology in environmental impact of the economy D Demonstrate the ability to pose and solve a variety of environmental management problems",
+        "Method of teaching and learning": "The module will be delivered via a combination of lectures and tutorials. Lectures will be delivered every week, which will be designed to provide essential information and introduce students to the basic tools of analysis. Tutorials will consolidate and extend the material introduced in the lectures. Students are expected to do some in-depth analysis of specific problems of environmental economics"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO321&psl_code=SEM1"
+    }
+  ]
+}

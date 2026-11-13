@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Strategic Management and Business Policy",
+  "module_code": "SMO308",
+  "offerings": [
+    {
+      "heading": "Strategic Management and Business Policy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Strategic Management and Business Policy",
+        "module_code": "SMO308",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Strategic Management and Business Policy",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces the fundamental principles of business policy and strategic management, with a focus on how strategic decisions are made and the factors that influence them. Students will explore various models of the strategic management process and examine each of its key components. Using a case study approach, the module guides students through the planning process, including environmental and resource analysis, scenario planning, and option selection, while also considering aspects of strategy implementation. By the end of the module, students will develop a practical understanding of how strategic decisions are formulated and executed in real business contexts.",
+        "Learning outcomes": "A. Acquire comprehensive knowledge of various strategic management frameworks. B. Comprehend the sequential stages involved in the strategic management. C. Understand the influence of a firm's external and internal environments on its strategic management. D. Acquire the analytical skills necessary to systematically evaluate a firm's internal and external environments and evaluate the efficacy and limitations of various analytical tools. E. Identify the roles of decision-makers at different levels of organizational hierarchy and their challenges and impact on the strategic management processes. F. Understand the recent issues that firms face in their strategic management process.",
+        "Method of teaching and learning": "This module will be delivered via a combination of lectures and workshops. Lectures are designed to provide essential information and introduce students to the basic tools of analysis. Tutorials, making extensive use of case studies and presentations, will provide students with a learning opportunity designed to extend the material introduced in the lectures through the in- depth analysis of specific strategic management issues. The emphasis throughout will be on interactive learning and participation will be expected from all members of the group to facilitate a full discussion of the relevant issues. There will be a balance in terms of the student's own learning between the dissemination of knowledge and the practical interpretation and utilisation of that knowledge."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO308&psl_code=SEM2"
+    }
+  ]
+}

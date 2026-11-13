@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Macroeconomics II",
+  "module_code": "ECO216",
+  "offerings": [
+    {
+      "heading": "Macroeconomics II",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Macroeconomics II",
+        "module_code": "ECO216",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Macroeconomics II",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a solid understanding of open-economy macroeconomics, including key issues related to international trade, exchange rates, macroeconomic policy, and long-run economic growth. It builds on the foundation established in ECO213 Macroeconomics I, which focuses on the closed economy, and complements it by extending the analysis to an interconnected global context relevant for applied policy and real-world economic decision-making.",
+        "Learning outcomes": "A. Explain and evaluate the effects of fiscal and monetary policy changes on national income and the balance of payments under a fixed exchange rate regime. B. Analyse how fiscal and monetary policies influence output and exchange rates in a flexible exchange rate regime. C. Critically examine contemporary macroeconomic issues such as unemployment, inflation, exchange rate volatility, and the macroeconomic implications of technological change and artificial intelligence. D. Demonstrate an integrated understanding of the interrelationships between different macroeconomic policies and their implications for long-run growth, productivity, and innovation in an increasingly digital economy.",
+        "Method of teaching and learning": "The module will operate on a lecture and tutorial based format. The lectures outline the fundamental foundations of macroeconomics, present the theory and examine the empirical evidence related to different models. In each tutorial there will be specific exercises and analyses to be carried out plus topics to be discussed."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO216&psl_code=SEM2"
+    }
+  ]
+}

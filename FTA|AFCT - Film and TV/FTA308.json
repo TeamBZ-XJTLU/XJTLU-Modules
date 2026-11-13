@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Mediated Project",
+  "module_code": "FTA308",
+  "offerings": [
+    {
+      "heading": "Mediated Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Mediated Project",
+        "module_code": "FTA308",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "15",
+        "Module Level": "Level 3",
+        "Module Title": "Mediated Project",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to allow the student to: Negotiate a senior role within a major piece of project work and cement their knowledge of filmmaking craft by completing a film/television project based upon their specialist craft knowledge. Research and evidence a developed understanding of their craft. Manage advanced safe and healthy practices. Reflect on their role within the project and offer a clear and concise evaluation of their skills.",
+        "Learning outcomes": "A Demonstrate a professional level of technical competence in a specialist area to realise a short project B Demonstrate the ability to work both autonomously and collaboratively in a management role within a project based environment C Deliver an advanced level of creative output in a specialist role to allow the completion of a short project D Demonstrate a deeper understanding and analysis of professional practices and professional work ethic.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (Lectures and seminars). A series of lectures will provide the advanced understanding and of specialist skills within a single camera environment and provide the historical and conceptual background to understand the role undertaken. The practical workshops will focus on film making techniques and grammar from a professional discipline stand point, effective team management within a project environment and advanced application of skills within practical exercises and shoots. Seminars will focus on reviewing work in progress. There are only a relatively small number of assessments – this is to allow the student to focus solely on their project, which will become their calling card to industry in a sytegrative educational model. However, there will be regular and frequent formative assessments. Although these assessments are not graded, students will be expected to satisfy the final year team of tutors in order to progress to the next stage."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA308&psl_code=ACYR"
+    }
+  ]
+}

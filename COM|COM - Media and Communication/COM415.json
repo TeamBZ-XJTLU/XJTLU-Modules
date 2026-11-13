@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Visual Communication",
+  "module_code": "COM415",
+  "offerings": [
+    {
+      "heading": "Visual Communication",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Visual Communication",
+        "module_code": "COM415",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Visual Communication",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module encompasses visual design both in theory and in practice. It provides students with historical knowledge, critical insight, and hands-on competencies in the principles and practice of visual communication, with special reference to graphic design. The module’s lecture con-tent, seminar discussions and lab sessions aim to help students to acquire a critical understand-ing of foundational principles of visual communication, the skills, including problem-solving ability, required to communicate ideas visually, and practical visual communication skills through the development of expertise in programme-specific graphic output, specifically Adobe CC.",
+        "Learning outcomes": "A Demonstrate critical understanding of theories, concepts, and aesthetics in visual communication B Produce a persuasive plan for a visual design project C Research and complete a visual design project D Work constructively and efficiently in a group E Critically reflect on production processes and choices",
+        "Method of teaching and learning": "The lectures elaborate on the context, theories and core concepts of visual communication. In the seminars, students delve deeper into the lecture materials. In lab sessions, students acquire skills in design."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM415&psl_code=SEM1"
+    }
+  ]
+}

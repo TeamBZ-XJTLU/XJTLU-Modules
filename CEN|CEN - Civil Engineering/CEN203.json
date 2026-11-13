@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Mechanics of Materials",
+  "module_code": "CEN203",
+  "offerings": [
+    {
+      "heading": "Mechanics of Materials",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Mechanics of Materials",
+        "module_code": "CEN203",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Mechanics of Materials",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to deepen students’ understanding of the mechanical behaviour of materials and structural elements under complex loading conditions, building on the fundamental principles of solid mechanics. It develops advanced analytical skills in beam deflection, column buckling, shear stress distribution, stress and strain transformation, and energy methods. Through the study of statically determinate and simple indeterminate structures, stability of columns, shear flow and shear centre concepts, Mohr’s circle, and strain energy theorems, students gain the ability to assess deformation, stress states, and structural performance with greater accuracy. The module enables students to link theoretical concepts with the observed behaviour of real materials and structural members. As a core module for Engineering programmes, it aligns with UK accreditation requirements by strengthening students’ competence in stress and structural analysis, material response, and engineering problem-solving, thereby preparing them for advanced study, design projects, and professional engineering practice.",
+        "Learning outcomes": "A. Apply principles of mechanics to statically determinate and indeterminate structural elements such as trusses, beams, and columns. B. Analyse a given structure to determine the support reactions, bending moments, shear forces, bending and shear stresses, deflections, rotations and strain energy. C. Predict the behaviour and failure of engineering force systems by considering its deflections, stresses, and strains.",
+        "Method of teaching and learning": "The module employs a blended pedagogical approach to facilitate a deep understanding of advanced mechanical principles. Formal lectures introduce and explain key theoretical concepts, which are then solidified through problem-solving in interactive tutorials. A crucial component of the learning strategy is the laboratory practical session, where students observe and measure the physical behaviour of materials and structural members under load. Learning is further consolidated through a coursework report, which challenges students to synthesise analytical techniques, interpret results, and communicate their findings professionally, mirroring real-world engineering practice."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN203&psl_code=SEM1"
+    }
+  ]
+}

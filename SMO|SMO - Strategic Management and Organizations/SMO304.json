@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Diversity in Organisations",
+  "module_code": "SMO304",
+  "offerings": [
+    {
+      "heading": "Diversity in Organisations",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Diversity in Organisations",
+        "module_code": "SMO304",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Diversity in Organisations",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is about understanding and dialoguing about differences. It aims to engage the students with the contemporary debate on equality and diversity in organizations in order to develop their intercultural competency and prepare them for participation in a diverse global society to succeed in the 21st century. The module focuses on helping students to acquire the knowledge and skills necessary to navigate an increasingly connected and diverse world with traditional approaches. This module also equipts students with AI-relevant knowledge and approaches to help them deal with issue associated with equality and diversity.",
+        "Learning outcomes": "A) Demonstrate an in-depth understanding of the ‘equal opportunities’ versus ‘diversity in the workplace’ debate. B) Comprehend and interpret alternative viewpoints concerning equal opportunity and diversity in a range of cultural settings. C) Demonstrate a strong understanding of the business case for diversity and intercultural leadership. D) Critically evaluate, analyse and recommend different strategies for reducing inequalities and discrimination in the workplace. E) Critically reflect upon the role of diversity in the social responsibility commitments of organisations. F) Apply AI to enhance and resolve diveristy issue.",
+        "Method of teaching and learning": "This module is delivered on a weekly through a combination of lectures and tutorials. Typically 2 hour lecture and 1 hour tutorial per week."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO304&psl_code=SEM2"
+    }
+  ]
+}

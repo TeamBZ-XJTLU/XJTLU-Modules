@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Supply Chain Digitalization",
+  "module_code": "IFB319TC",
+  "offerings": [
+    {
+      "heading": "Supply Chain Digitalization",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Supply Chain Digitalization",
+        "module_code": "IFB319TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Supply Chain Digitalization",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to expose students to digital supply chain systems with particular emphasis on the distribution part of supply chains, where finished goods are ordered, stored and delivered to ending customers. Built upon two industrial-level software suites, transportation management system (TMS) and warehouse management system (WMS), the module introduces the plan, execution, and optimization of the physical movement of goods through the TMS, and the real-time control and visibility over the movement, storage, and tracking of inventory within a warehouse or distribution center through the WMS. It also encapsulates the interface with other business functions such as customer ordering and fulfillment as well as payment. Applying intelligent technologies, e.g. IoT and navigation, to logistics industry will also be quickly introduced. Students will practice TMS and WMS through lab sessions.",
+        "Learning outcomes": "A Analyse the roles of TMS in planning, executing, and optimising the physical movement of goods, including carrier selection, routing, loading, auditing, real-time tracking, payment, and documentation, from the creation to the completion of a customer order. B Evaluate the core functions of a warehouse and their implementation in a WMS, including receiving, checking, putaway, movement, counting, and delivery of goods. C Critically assess the adoption of intelligent technologies in TMS and WMS and their impact on operational efficiency. D Complete a transportation task in a TMS and a warehousing task in a WMS.",
+        "Method of teaching and learning": "The module is delivered through series of lectures, seminars, and labs. Lectures are to teach the basic concepts and theories. Seminars are used to invite external practitioners to introduce the real-word cases. Labs are used to practice software that visualizes a supply chain and to make management decisions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB319TC&psl_code=SEM2"
+    }
+  ]
+}

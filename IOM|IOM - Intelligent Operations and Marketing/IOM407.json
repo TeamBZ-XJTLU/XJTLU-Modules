@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Social Commerce",
+  "module_code": "IOM407",
+  "offerings": [
+    {
+      "heading": "Social Commerce",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Social Commerce",
+        "module_code": "IOM407",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Social Commerce",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide an understanding of the importance, context and role of social media in the buying and selling of products and services. This module provides an overview of the psychological and social aspects of this buying and selling; specifically, how companies and individuals can take advantage of the social networking affordances and contemporary advanced technology, e.g., AI applications and systems, to encourage individuals to buy from and sell to each other. The module is optional for MSc Project Management (full & part time) as it provides students with an understanding of social commerce industry and management, and MSc Social Computing (full & part time) because knowledge and skills for social commerce is an application area of social computing.",
+        "Learning outcomes": "A. Understand the essentials of social commerce and its strategic value. B. Demonstrate critical knowledge and application of major theories behind social commerce. C. Appreciate the different marketing techniques employed by organizations and discuss alternatives. D. Predict the trends in social commerce and assess the implementation and deployment issues involved in social commerce. E. Have the strategic skills and ability to introduce innovative social commerce initiatives into an organization, e.g., AI-driven social commerce strategies.",
+        "Method of teaching and learning": "This module will be taught through seminars, group discussions and case study method of successful companies in social commerce."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM407&psl_code=SEM2"
+    }
+  ]
+}

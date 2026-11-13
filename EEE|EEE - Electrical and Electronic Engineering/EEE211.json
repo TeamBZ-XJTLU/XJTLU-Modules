@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Electronic Circuits and Systems",
+  "module_code": "EEE211",
+  "offerings": [
+    {
+      "heading": "Electronic Circuits and Systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Electronic Circuits and Systems",
+        "module_code": "EEE211",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Electronic Circuits and Systems",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide a comprehensive foundation for analyzing and designing the analog electronic circuits. It is designed to explore the fundamentals of BJT amplifiers, feedback amplifiers and their stability analysis, and extension to multi-stage amplifiers for the design of integrated circuits (ICs). With solid understanding of these concepts, students are expected to clearly present the operation, characteristics, and limitations of the basic circuits that form the complex ICs used in specific design applications.",
+        "Learning outcomes": "A. Critically evaluate the characteristics of small signal transistor amplifier circuits, including current mirrors, high frequency limitations, amplifier types, feedback topologies, and the Miller effect. B. Synthesize various transistor amplifier building blocks and explain their functional integration to achieve specific output requirements. C. Conduct experimental investigations to demonstrate and assess the performance and stability of transistor amplifiers using appropriate measures and equipment. D. Design and simulate multistage amplifier circuits, applying principles derived from single transistor circuits and considering real-world constraints. E. Implement and test designed multistage transistor amplifier circuits in a laboratory setting, and analyze the results to ensure compliance with design specifications.",
+        "Method of teaching and learning": "This module employs an integrated approach to teaching and learning, combining theoretical knowledge delivered through the formal lectures every week with hands-on practice via laboratory sessions to ensure students develop a deep and practical understanding of electronic circuits. The module is expected to deliver through a combination of interactive lectures including tutorials, practical lab sessions, and independent self-study. Lectures serve as the foundation for introducing basic BJT amplifiers and their frequency response, feedback amplifiers including stability analysis, and operational amplifiers with non-ideal properties. Tutorials will be designed and delivered every week to practice the exercise problems that are associated with the topics taught during formal lectures."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE211&psl_code=SEM1"
+    }
+  ]
+}

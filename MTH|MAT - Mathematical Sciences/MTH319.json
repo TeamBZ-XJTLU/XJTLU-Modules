@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MAT",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Financial Engineering(II): Numerical Methods and Asset Models",
+  "module_code": "MTH319",
+  "offerings": [
+    {
+      "heading": "Financial Engineering(II): Numerical Methods and Asset Models",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Financial Engineering(II): Numerical Methods and Asset Models",
+        "module_code": "MTH319",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Financial Engineering(II): Numerical Methods and Asset Models",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course gives a solid foundation towards the advanced numerical methods and other modeling techniques widely used in finance. It aims at reviewing the major financial models and modeling techniques used in practical applications, understanding their applicability and limitations, and at building an integrated framework allowing students to conduct comprehensive theoretical analyses and practical implementations. The module is designed to complement the theoretical knowledge developed in the financial mathematics programme with practical applications. The module not only contributes to the development of programming and computational skills of students but also improves the understanding of the financial mathematics theory via hands on practice with one of the most commonly used software.",
+        "Learning outcomes": "A Implement advanced modeling techniques in finance B Conduct comprehensive theoretical analyses and practical applications in financial engineering C Analyze and implement numerical schemas for financial derivatives D Understand, analyze and implement derivatives pricing models by using financial models/numerical methods E Analyze and apply financial models/numerical methods for portfolio optimization/allocation and performance attribution",
+        "Method of teaching and learning": "To give sufficient hands on experience the module is based on a mixture of lectures, tutorials and computer labs sessions. Computer labs equipped with a programming language will be utilized every week. Furthermore, assignments and continuous work provides sufficient practice and timely feedback."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH319&psl_code=SEM1"
+    }
+  ]
+}

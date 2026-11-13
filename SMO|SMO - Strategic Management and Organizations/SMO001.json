@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Communication Skills for Personal Success",
+  "module_code": "SMO001",
+  "offerings": [
+    {
+      "heading": "Communication Skills for Personal Success",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Communication Skills for Personal Success",
+        "module_code": "SMO001",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Communication Skills for Personal Success",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide knowledge and skills on a set of communication skills that enables beneficial behavioural traits for students’ future study and work. Students will learn about: how to create, organize and deliver various types of presentations for influence and impact; how to understand the dynamics and play a contributing role in a team; and how to strive in influencing others to achieve collaborative goals. This module is suitable for students who previously have little experience or systematic learning in these topics, or those whose future prospective discipline or career could require possession of these skills.",
+        "Learning outcomes": "A Articulate insights on becoming an impactful presenter B Exhibit an understanding of how to contribute effectively in a team role C Demonstrate fundamental knowledge in negotiation strategies and tactics",
+        "Method of teaching and learning": "Lectures combined with cases studies, exercises, and interactive activities (such as role-playing) as needed."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO001&psl_code=SEM2"
+    }
+  ]
+}

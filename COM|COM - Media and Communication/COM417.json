@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "World Cinema",
+  "module_code": "COM417",
+  "offerings": [
+    {
+      "heading": "World Cinema",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "World Cinema",
+        "module_code": "COM417",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "World Cinema",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module offers an introduction to cinema as a global phenomenon, encouraging critical reflection on world cinemas. It delves into international cinema practices across various film industries, including Hollywood, Europe, Chinese cinema (including the Hong Kong SAR and Taiwan), Asia, the Middle East, and Africa. This exploration allows for an informed engagement with transnational cinema theories and colonialism. The course aims to reevaluate the ‘world cinema’ category, considering new production forms and aesthetic sensibilities. It facilitates a critical understanding of global economies, histories, geographies, cultures, and languages in relation to film industry development, technology accessibility, and access to self-representation in film. Perfectly aligning with the Global Media and China pathway, the module equips students with deep analytical insights into the global film and media industries, including China. It enhances their research skills and critical thinking, aligning with the pathway’s core objectives.",
+        "Learning outcomes": "A Critically engage with major conceptual and methodological debates in world cinema B Analyze world cinema films based on their social and cultural contexts C Evaluate and critique the historical influences and aesthetic characteristics of world cinema films D Apply academic research and referencing skills to articulate in-depth knowledge of world cinema",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures, seminars, and film screenings. Lectures will be designed to contextualize, analyze, and explain key concepts and debates on world cinema. In the seminar, students will have the opportunity to develop a deeper understanding of the reading materials and share their opinions. Film screenings will provide students the opportunity to view films discussed in the lectures, readings, and seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM417&psl_code=SEM1"
+    }
+  ]
+}

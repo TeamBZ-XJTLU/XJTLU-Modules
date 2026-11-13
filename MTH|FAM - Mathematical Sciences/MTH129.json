@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FAM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Introduction to AI for Mathematical Sciences",
+  "module_code": "MTH129",
+  "offerings": [
+    {
+      "heading": "Introduction to AI for Mathematical Sciences",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Introduction to AI for Mathematical Sciences",
+        "module_code": "MTH129",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to AI for Mathematical Sciences",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Introduce the basics of machine learning algorithms in various contexts of the school of mathematics and physics. Equip students with convenient computational tools that are useful for problem-solving within the programme. In particular, enable students to design AI algorithms in solving practical problems and to write computer programs using AI functional modules, which strongly complements their mathematical abilities and puts them in a competent position for further study and research involving AI technologies.",
+        "Learning outcomes": "A Understand basic math theories (e.g. multivariate calculus, linear algebra) and fundamental programming constructs (e.g. functions, control flows) B Understand AI models used in mathematics and physics 1 Please indicate both XJTLU module level and FHEQ level (The Frameworks for HE Qualifications of UK Degree-Awarding Bodies: https://www.qaa.ac.uk/quality-code/qualifications-and-credit-frameworks). 2 Total hours must equal credits×30; delivery pattern could include weekly/fortnightly sessions/block teaching etc. C Implement AI algorithms with software programs D Optimize AI algorithms for better efficiency and accuracy",
+        "Method of teaching and learning": "This module will be delivered through a series of lectures followed by computer labs. We will cover simple AI models (e.g., linear classifier) and ANN with BP algorithms and teach students to implement these models and algorithms in Python."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH129&psl_code=SEM2"
+    }
+  ]
+}

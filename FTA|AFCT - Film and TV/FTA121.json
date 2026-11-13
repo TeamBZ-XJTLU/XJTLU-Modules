@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Strategies for Artificial Intelligence",
+  "module_code": "FTA121",
+  "offerings": [
+    {
+      "heading": "Strategies for Artificial Intelligence",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Strategies for Artificial Intelligence",
+        "module_code": "FTA121",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Strategies for Artificial Intelligence",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is aimed at preparing students across AFCT with a platform of tools and knowledge for learning, working, and creating with Artificial Intelligence (AI). It will introduce students to practical and creative processes with AI within the context of Digital Media Arts, Filmmaking, and TV Production. Activities will foster an experimental and conceptual understanding of the creative processes in order to develop strategies and critical conceptual skills in combination with relevant technical skills. The module aims to: Deliver creative strategies for generating creative practical work across relevant fields of media production Develop technical skills with applications of AI via introductions to AI fundamentals relating to creative media practice To encourage critical thought around the application of AI Develop skills in researching and planning creative works across relevant fields of media production",
+        "Learning outcomes": "A Demonstrate a creative, experimental approach to the use of AI B Develop technical skills for operating with relevant AI tools C Demonstrate an understanding of creative strategies for AI D Be aware of professional, social, environmental, moral, and ethical issues of operating with AI E Develop AI literacy skills to interpret and communicate with AI-related information and recognize misinformation",
+        "Method of teaching and learning": "Lectures will introduce key concepts and contextualize practical skills delivered in workshops. Workshops will deliver necessary creative production skills in context with materials delivered in lectures. Tutorials will support the learning processes and provide points of feedback and feedforward."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA121&psl_code=SEM1"
+    }
+  ]
+}

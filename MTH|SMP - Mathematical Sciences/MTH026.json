@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMP",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Calculus I",
+  "module_code": "MTH026",
+  "offerings": [
+    {
+      "heading": "Calculus I",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Calculus I",
+        "module_code": "MTH026",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Calculus I",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To introduce students to the fundamental concepts of single-variable calculus, including limits, continuity, differentiation, and definite integration; To develop students' ability to apply calculus techniques to solve problems in different contexts; To provide the mathematical foundation necessary for further study in multivariable calculus; To develop students' ability to work independently, communicate mathematical reasoning clearly, and apply analytical problem-solving strategies; To support Year 1 academic communication and foundational academic capability through guided practice in notation, explanation, and problem solving.",
+        "Learning outcomes": "A Describe elementary functions, including exponential, logarithmic, trigonometric, and inverse trigonometric functions, and explain their key properties. B Evaluate limits, determine continuity of functions, and apply limit theorems including limits at infinity and trigonometric limits. C Compute derivatives using the product rule, quotient rule, chain rule, and implicit differentiation, and apply derivatives to related rates problems. D Use derivatives to analyse function behaviour, solve optimisation problems, and apply L'Hôpital's rule and the Mean Value Theorem. E Explain the definite integral and the Fundamental Theorems of Calculus, and apply basic integration techniques including integration by parts. F Apply calculus concepts to foundation-level Science and Engineering contexts and communicate problem-solving strategies using appropriate mathematical notation.",
+        "Method of teaching and learning": "Students will attend 2 hours of formal lectures in a typical week. Lectures introduce the academic content and practical skills through short explanations, worked examples, and guided problem-solving activities. Students will practise reading mathematical notation, writing clear solutions, and explaining the choice of method, supporting academic communication and foundational mathematical capability. In addition to lectures, students are expected to use private study time to review lecture materials, complete problem sheets, respond to feedback, and consolidate independent learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH026&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Child and Adolescent Mental Health",
+  "module_code": "EDS417",
+  "offerings": [
+    {
+      "heading": "Child and Adolescent Mental Health",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Child and Adolescent Mental Health",
+        "module_code": "EDS417",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Child and Adolescent Mental Health",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Through a Research-Led Project-Based Learning approach, this module offers an applied and context-sensitive exploration of child and adolescent mental health across familial, educational, community, and wider sociocultural settings. Students engage with multidisciplinary perspectives on young people’s wellbeing and distress by stepping into the roles of reflective educator, scholarly researcher, and strategic leader. They synthesize theory, empirical evidence, and local contextual knowledge to examine how young people’s inner worlds are shaped by developmental experiences, relationships, institutions, and social conditions. Using digital tools (including AI and AI enabled tools and plaforms) and data-informed methods, students will engage in case-based inquiry, critically evaluate dominant theories, research approaches, and support models, including their cultural assumptions and ethical implications. They then formulate responsive, care-centred strategies for supporting young people across familial, educational, and community contexts.",
+        "Learning outcomes": "A. Critically appraise child and adolescent mental health as a developmental, relational, and culturally situated constructs. B. Synthesize multidisciplinary evidence to evaluate how young people’s wellbeing and distress are shaped within nested social and educational ecologies. C. Critically engage with theoretical, empirical, and practice-based approaches to child and adolescent mental health, with attention to their cultural relevance, ethical use, and contextual applicability. D. Integrate developmental science, local contextual knowledge, evidence-informed practice, and advanced technology-enhanced tools to formulate responsive and care-centred strategies for supporting young people across familial, educational, and community settings.",
+        "Method of teaching and learning": "The teaching sessions include lectures and tutorials/seminars that work together to provide students with key conceptual, theoretical, and methodological insights into child and adolescent mental health. Learning strategies focus on student-centred and interactive learning activities, including case-based discussion, collaborative inquiry, reflective exercises, and applied problem-solving. Where appropriate, digital tools and technology-enhanced methods (including AI and AI empowered tools and platforms) will be integrated to support literature exploration, evidence synthesis, case analysis, and the development of responsive, care-centred support strategies. Students engage in both collaborative and individual practice, with opportunities for critical reflection and iterative development of resources addressing mental health and wellbeing across familial, educational, and community settings."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS417&psl_code=SEM1"
+    }
+  ]
+}

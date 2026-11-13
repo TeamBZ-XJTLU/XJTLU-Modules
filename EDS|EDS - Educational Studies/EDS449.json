@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EDS",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Introduction to Research Methods",
+  "module_code": "EDS449",
+  "offerings": [
+    {
+      "heading": "Introduction to Research Methods",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Introduction to Research Methods",
+        "module_code": "EDS449",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Introduction to Research Methods",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to facilitate the development of scholarly researcher-educators equipped to understand the fundamental principles and techniques used in conducting research within the fields of psychology and education. Beyond fundamental techniques, this course empowers students to evaluate various research designs and select the most appropriate ones for investigating the issues of interest. Students will systematically design and justify coherent projects that bridge the gap between theoretical methodology and evidence-based educational practice, critically select quantitative and qualitative data analysis methods to answer the research questions, and engage in iterative personal reflection to refine research designs and develop the self-awareness necessary for professional growth. Relevant AI and GenAI options, AI literacy, and ethical considerations in research will also be incorporated into the learning process and assessments.",
+        "Learning outcomes": "A. Critically evaluate various research paradigms and the scientific method, integrating theory and practice to systematically investigate complex psychological and educational problems. B. Design and conduct coherent, research-led projects by systematically justifying and applying appropriate methodologies and data collection strategies to generate evidence for educational practice. C. Synthesize and critically analyze quantitative and qualitative data (utilizing AI and AI-empowered technologies, where applicable) to evaluate teaching approaches, utilizing empirical evidence to inform learning design and improve student outcomes. D. Navigate complex ethical dilemmas in educational research and practice by rigorously applying professional guidelines, demonstrating the ethical integrity required of both a scholarly researcher and a reflective educator.",
+        "Method of teaching and learning": "The teaching sessions include lectures, lab/practicals, and tutorials, which work together to engage students with key conceptual and methodological insights, as well as dedicated opportunities for critical reflection. Students will also engage in collaborative and individual practice in addressing practical issues regarding research design and applications of research methods in schools and other educational settings. Students will be supported to engage critically and ethically with relevant AI and GenAI tools as part of the learning process. Teaching will also incorporate opportunities to develop AI literacy, with attention to evidence quality, professional judgement, safeguarding, bias, accessibility, and responsible use in educational contexts."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS449&psl_code=SEM1"
+    }
+  ]
+}

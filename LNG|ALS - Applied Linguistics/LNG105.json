@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "History of English",
+  "module_code": "LNG105",
+  "offerings": [
+    {
+      "heading": "History of English",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "History of English",
+        "module_code": "LNG105",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "History of English",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims •To introduce students to the development of English from 449 to the present day •To show students the distinction between endogenous and exogenous change •To introduce students to some major varieties of English globally (e.g. Singapore English, Indian English, Hong Kong English, and China English) • to introduce students to a wide range of phenomena related to English as a global language at both global and local levels; • to introduce students to some key conceptual and theoretical resources useful for understanding these phenomena;",
+        "Learning outcomes": "A Identify linguistic features of varieties of historical stages and global varieties of English B Demonstrate an understanding of some of the mechanisms for language change C analyse extracts of early English D. analyse variation in a selection of world Englishes. E. reflect critically on some of the major historical, cultural, and/or sociolinguistic issues concerning English as a global language F. Discuss attitudes to variation and change",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (Lectures and Tutorials/workshops). Lectures Tutorials/ workshops"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG105&psl_code=SEM2"
+    }
+  ]
+}

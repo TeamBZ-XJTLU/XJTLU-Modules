@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MAT",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Introduction to Modern Cryptography",
+  "module_code": "MTH239",
+  "offerings": [
+    {
+      "heading": "Introduction to Modern Cryptography",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Introduction to Modern Cryptography",
+        "module_code": "MTH239",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Introduction to Modern Cryptography",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course aims to provide students with a solid understanding of the basic idea of modern cryptography, including the design and security analysis of the basic modern crypto algorithms, with a particular focus on the basic theory behind these algorithms. Students will gain insight into the theoretical underpinnings of cryptographic techniques and acquire practical skills to program, test, and apply these algorithms in real-world scenarios. Additionally, the course seeks to enhance students’ ability to conduct independent research, fostering critical thinking and problem-solving skills in the field of cryptography",
+        "Learning outcomes": "A Show Understanding of the basic ideas and fundamental concepts of modern cryptography. B Define and introduce the symmetric cryptographic techniques and the applications. C Show Understanding of the designs of public key cryptographic algorithms and protocols. D Describe and analyze security protocols for practical applications and know the basic theory behind them. E Design programming implementation of cryptographic algorithms and security protocols.",
+        "Method of teaching and learning": "Students will learn through a combination of lectures, tutorials and course work activity. Lectures will explore and illuminate the theoretical material on symmetric and asymmetric cryptography. In the tutorials, students will have the opportunity to discuss the protocols and tease out its implications for the practical work. In the course work activities, students will conduct a research project and programming tasks should be integrated into the project. Students will also be expected to learn independently and carry out reading and directed study beyond that available within taught classes."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH239&psl_code=SEM2"
+    }
+  ]
+}

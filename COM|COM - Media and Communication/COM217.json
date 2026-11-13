@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Health Communication",
+  "module_code": "COM217",
+  "offerings": [
+    {
+      "heading": "Health Communication",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Health Communication",
+        "module_code": "COM217",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Health Communication",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "As health issues continue to shape global communities, the ability to communicate clearly and responsibly about health plays a key role in promoting well-being of the public. The aim of this module is to provide students with a comprehensive understanding of how media and communication strategies can influence health behaviors and outcomes, equipping them with the skills to effectively convey health information and influence public understanding. The module introduces important topics such as health message design and behavior change theories. It also explores cutting-edge areas such as eHealth (electronic health), mHealth (mobile health), and the use of big data and AI in health communication. By addressing challenges such as message resistance, health disparities, and misinformation, students gain practical insights into the complexities of modern health communication. Overall, this module enhances students’ knowledge about health communication theories and research, sharpens their ability to critically evaluate public health efforts, and develops their skills in applying communication strategies to real-world health issues.",
+        "Learning outcomes": "A. Demonstrate an in-depth understanding of key health communication theories and concepts. B. Apply health communication theories and concepts to analyze health communication practices and their impact on public health. C. Evaluate health campaigns and communication strategies, identifying strengths and areas for improvement. D. Create innovative and inclusive communication strategies to address real-world health",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures and seminars. Lectures will be designed to provide essential information and introduce students to the basic concepts and theories of health communication. Seminars will be based on discussion and practice-based exercise, which will provide students with a learning opportunity to apply the knowledge introduced in lectures to solve real-world problems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM217&psl_code=SEM1"
+    }
+  ]
+}

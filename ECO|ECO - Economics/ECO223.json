@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Intermediate Microeconomics",
+  "module_code": "ECO223",
+  "offerings": [
+    {
+      "heading": "Intermediate Microeconomics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Intermediate Microeconomics",
+        "module_code": "ECO223",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Intermediate Microeconomics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a solid foundation of intermediate level microeconomic theory. There is a strong focus on the development of microeconomic intuition. It develops and extends on six of the fundamental microeconomic topics – Consumer Theory, Producer Theory, Industrial Organisation, Risk and Uncertainty, General Equilibrium, and Public Goods/Externalities. The module prepares students for more advanced modules in their next level of study.",
+        "Learning outcomes": "A. Analyse problems in microeconomics in a range of theoretical and applied settings. B. Apply microeconomic intuition to a range of real or hypothetical scenarios. C. Understand the role of microeconomic assumptions, their implications, and what happens if they are relaxed.",
+        "Method of teaching and learning": "This module will be delivered via a combination of lectures and tutorials. Lectures are designed to provide essential information and introduce students to the basic tools of analysis used in Microeconomics. Tutorials will provide students with a learning opportunity designed to extend the material introduced in the lectures through the in-depth analysis of specific problems from various topics covered in the module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO223&psl_code=SEM1"
+    }
+  ]
+}

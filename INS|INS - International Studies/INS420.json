@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Diplomacy in a Globalized World",
+  "module_code": "INS420",
+  "offerings": [
+    {
+      "heading": "Diplomacy in a Globalized World",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Diplomacy in a Globalized World",
+        "module_code": "INS420",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Diplomacy in a Globalized World",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The purpose of this module is to provide MA students with a comprehensive understanding of the practice of diplomacy in international relations. By integrating theoretical frameworks with practical applications, the course aims to equip students with the knowledge and skills necessary to analyze, formulate, and implement diplomatic approaches effectively. The lectures and seminars are designed to equip students with a broad understanding of diplomacy and diplomatic thought. The module places strong emphasis on developing a theoretically informed comprehension of the practices of diplomacy and foreign policy behavior in international relations, and on applying this knowledge to specific case studies. This module is integral to the MA international relations program as it bridges theoretical concepts with real-world practice. It enhances the overall curriculum by focusing on the dynamics of diplomacy and foreign policy decision-making, preparing students for careers in international diplomacy, policy analysis, and related fields within international relations.",
+        "Learning outcomes": "A. Demonstrate a thorough grasp of theories of diplomacy and how they inform diplomatic practices within international relations. B. Analyze the processes involved in diplomacy and foreign policy formation and evaluate the roles of various actors—such as states, international organizations, and non-state entities—in influencing diplomacy in a globalized world. C. Apply theoretical insights to specific diplomatic case studies, critically assessing decisions and outcomes while considering ethical implications. D. Apply skills in diplomatic negotiation and crisis management through participation in simulation exercises involving hypothetical global incidents.",
+        "Method of teaching and learning": "The module adopts an interactive and experiential learning approach that combines seminars, case study analyses, and simulation exercises. Seminars serve as the foundational platform where students engage with theoretical concepts of diplomacy through group work and open discussions. Active participation is encouraged to foster critical thinking and deepen understanding. To bridge theory with practice, students analyze specific foreign policy case studies, applying their theoretical knowledge to real-world scenarios and assessing outcomes and ethical considerations. In the latter part of the module, a hands-on simulation exercise involving a hypothetical global incident allows students to immerse themselves in diplomatic negotiation and crisis management, thereby enhancing practical skills. This multifaceted teaching methodology is designed to provide a comprehensive learning experience that integrates conceptual learning with practical application."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS420&psl_code=SEM1"
+    }
+  ]
+}

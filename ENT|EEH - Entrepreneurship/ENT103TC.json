@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEH",
+    "domain_code": "ENT",
+    "full_name": "Entrepreneurship"
+  },
+  "full_name": "Creative Innovator’s Toolkit",
+  "module_code": "ENT103TC",
+  "offerings": [
+    {
+      "heading": "Creative Innovator’s Toolkit",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENT",
+        "full_name": "Creative Innovator’s Toolkit",
+        "module_code": "ENT103TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Creative Innovator’s Toolkit",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to comprehensively explore creative innovation and prepare students for practical application in real-world scenarios. The module aims to: 1) Foster an entrepreneurial mindset among students by promoting innovation, risk-taking, and proactive problem-solving. 2) Cultivate multidisciplinary creative thinking by combining art, history, technology, and entrepreneurship to help develop innovative thinking . 3) Develop students' ability to solve real-world problems efficiently using Lean principles and historical context, encouraging reflective practice.",
+        "Learning outcomes": "A Analyse historical precedents and trends to understand how art, technology, and entrepreneurship have intersected. B Employ a diverse set of creative ideation techniques and tools. C Apply problem-solving methodologies to streamline processes. D Identify , critically analyse, and effectively communicate opportunities and challenges presented by innovation and creativity. E Reflect on and appreciate the importance of embracing challenges and seizing opportunities arising from innovation and creativity,",
+        "Method of teaching and learning": "This module is integral to contemporary entrepreneurial education within XJTLU Entrepreneur College's (XEC) Industry Schools. Rooted in Syntegrative Education, the teaching methodology is centered on supporting students in Syntegrative projects within a studio setting. The approach emphasizes hands-on practicals, seamlessly combining lectures and coaching projects, fostering project-based learning and cross-disciplinary collaboration among XEC Industry Schools and industry partners. Functioning as a collaborative space, the module provides students with a unique opportunity to apply theoretical knowledge to real-world challenges, engaging in problem-based assessments. Industry experts actively participate, enriching students' projects and nurturing critical thinking skills crucial for innovative problem-solving in diverse industry contexts. This methodology not only cultivates an inclusive and dynamic learning environment but also equips students with holistic skills necessary for success in multifaceted industries. Evaluation will be based on group project work, incorporating individual grading in accordance with the university's policy. This comprehensive approach aligns with our commitment to delivering a practical, well-rounded educational experience."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENT103TC&psl_code=SEM1"
+    }
+  ]
+}

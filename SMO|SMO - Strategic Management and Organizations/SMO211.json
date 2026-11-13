@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Theory of the Firm",
+  "module_code": "SMO211",
+  "offerings": [
+    {
+      "heading": "Theory of the Firm",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Theory of the Firm",
+        "module_code": "SMO211",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Theory of the Firm",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module equips business students with the knowledge and analytical skills necessary to understand, evaluate, and apply major theories of the firm in explaining how business organizations make strategic decisions, grow, and create value. The module is designed to support students in analysing the internal and external environments in which firms operate across national and international markets. It also aims to develop students’ ability to examine the strategic implications of digital transformation and AI for firm behaviour, organizational capabilities, and decision-making in contemporary business contexts.",
+        "Learning outcomes": "A. Explain and compare the main theories of the firm, including Neoclassical economics, Behavioural theory of the firm, Contracting theory, and the Resource-based view. B. Apply theories of the firm to analyse how business organizations grow, make strategic decisions, and create value in national and international markets. C. Evaluate the strengths and limitations of different theoretical perspectives in explaining firm behaviour and strategic choice. D. Apply theories of the firm to analyse the implications of digital transformation and AI for firm behaviour, organizational capabilities, and strategic decision-making.",
+        "Method of teaching and learning": "The module will be delivered via a combination of lectures and tutorials. Lectures will be held in each week, which will be designed to provide essential information and introduce students to the basic tools of analysis. Tutorials will provide student learning opportunities to consolidate and extend the material introduced in the lectures through the in-depth analysis of specific problems faced by firms in conduct of their business."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO211&psl_code=SEM1"
+    }
+  ]
+}

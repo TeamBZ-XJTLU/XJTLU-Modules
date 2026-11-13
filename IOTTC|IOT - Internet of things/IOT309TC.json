@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOT",
+    "domain_code": "IOTTC",
+    "full_name": "Internet of things"
+  },
+  "full_name": "Information Security Technology of IoT",
+  "module_code": "IOT309TC",
+  "offerings": [
+    {
+      "heading": "Information Security Technology of IoT",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOTTC",
+        "full_name": "Information Security Technology of IoT",
+        "module_code": "IOT309TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Information Security Technology of IoT",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The goal of this AI-enhanced module is to discuss Internet of Things (IoT) technology, market-specific topics, relevant case studies of IoT security vulnerabilities and attacks, and mitigation controls. Assess the health, safety, privacy, and economic impacts of IoT security events. Apply AI to solve the problems encountered. This includes critical thinking in AI applications, proficiency with AI tools, and an understanding of ethical considerations in AI and IoT security. The module aligns with the IoT, which focuses on the environment where smart devices sense, anticipate, and respond to the needs that are managed remotely between the digital and physical environments. This also includes examining the security and ethical issues of the vast implementation of smart devices.",
+        "Learning outcomes": "A. Demonstrate knowledge and understanding of the security and ethical issues of the IoT. B. Identify vulnerabilities and attacks involving IoT. C. Discuss how AI can be used to identify attacks and mitigate vulnerabilities. D. Identify countermeasures for IoT threats and use AI to design, develop, and implement measures to reduce IoT threats. E. Analyze the societal impact of AI based IoT security threats and mitigate these impacts. F. Compare and contrast the various threats specific to industry and/or device type and use AI to develop security solutions.",
+        "Method of teaching and learning": "The teaching and learning philosophy is guided by syntegrative education, which involves industry-oriented applications within a 6-week intensive teaching block. The delivery of this module will require students to attend lectures, seminars, and practicals in IoT laboratories. Teaching also entails using AI-powered simulations to create realistic scenarios of IoT security events. In addition, AI-powered feedback tools will be used to assess various student tasks and activities. Students are to spend six hours of unsupervised time solving continuous assessment tasks, reflecting on their lectures, and reading additional resource materials (private study)."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOT309TC&psl_code=SEM1"
+    }
+  ]
+}

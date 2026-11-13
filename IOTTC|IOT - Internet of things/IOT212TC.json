@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOT",
+    "domain_code": "IOTTC",
+    "full_name": "Internet of things"
+  },
+  "full_name": "Wireless Sensor Networks and Communication Protocols",
+  "module_code": "IOT212TC",
+  "offerings": [
+    {
+      "heading": "Wireless Sensor Networks and Communication Protocols",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOTTC",
+        "full_name": "Wireless Sensor Networks and Communication Protocols",
+        "module_code": "IOT212TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Wireless Sensor Networks and Communication Protocols",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to provide practical knowledge of Artificial Intelligence (AI) for wireless networking, including protocols and architectures for wireless sensor network design. It introduces focused topics for wireless sensor networks, such as time synchronisation, localisation, and topology management, and discusses research/newer topics, with a particular emphasis on the integration of AI and Machine Learning (ML) for intelligent network performance analysis, predictive modelling, and autonomous network optimisation. This module also covers a comprehensive coverage of the underlying theory, design techniques and analytical tools of wireless communication systems, while equipping students with the basic skills required to work on the future Internet of Things systems. Ultimately, it equips students with the foundational and advanced skills required to design, manage, and innovate within the next generation of intelligent systems, such as the future Internet of Things (IoT), where embedded AI is central to creating adaptive and efficient networks.",
+        "Learning outcomes": "A. Demonstrate understanding of the fundamental operating principles and probability and statistics techniques of wireless communications. B. Demonstrate understanding of communication protocols applied in different radio systems. C. Design communication protocols for wireless sensor networks. D. Show familiarity with architectures, functions, and performance of wireless sensor network systems.",
+        "Method of teaching and learning": "The teaching philosophy of this module is firmly grounded in the principles of Syntegrative Education. This is realised through an intensive block-teaching delivery pattern, designed to foster deeper, more meaningful student engagement. This philosophy extends to the assessment strategy, which reduces reliance on traditional examinations in favour of increased coursework, particularly problem-based assessments that mirror real-world challenges. The delivery schedule is structured to provide dedicated time within the semester for students to concentrate on completing these substantive assessments. The module will be delivered through a blend of formal lectures, interactive seminars, and supervised laboratory sessions. Lectures will introduce the core theoretical content and design techniques in radio communications. The laboratory sessions will provide a hands-on environment for students to practise and refine their technical skills. To align with contemporary technological advancements, the curriculum incorporates principles of Artificial Intelligence. Students will explore how AI-driven signal processing can enhance wireless communication systems and will engage with AI-powered simulation tools to model and optimise radio networks. A key learning outcome will be to develop critical AI literacy, enabling students to leverage these tools effectively while understanding their limitations and the importance of human oversight in design and analysis. Private study remains essential, providing time for reflection and consolidation of lecture materials, background reading, and the completion of assessment tasks. During this time, students are encouraged to use AI as a collaborative tool for brainstorming and initial research, while emphasising the development of their own original analysis and technical judgement."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOT212TC&psl_code=SEM2"
+    }
+  ]
+}

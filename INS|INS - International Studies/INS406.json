@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "War and Peace in the Asia Pacific",
+  "module_code": "INS406",
+  "offerings": [
+    {
+      "heading": "War and Peace in the Asia Pacific",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "War and Peace in the Asia Pacific",
+        "module_code": "INS406",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "War and Peace in the Asia Pacific",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will enable students to apply research methods and insights gained in other modules of the MA International Relations to a geographically specific area. This module explores international politics in East Asia after the end of the Cold War. This period covers the period of US global hegemony and its relative decline. The module will first offer a historical perspective on the international relations of the Asia Pacific. It will explore the grand strategies of China, Japan, the United States of America and their relations with other countries. Combining a foreign policy analysis and system level approach, the course invites students to consider the potential causes of war in the region, and by what means peace may be sustained.",
+        "Learning outcomes": "A Apply and critique a recognised theory of international relations. B Understand the historical and contemporary sources of the grand strategies of select states in the Asia Pacific. C Use relevant databases to assess the power resources available to states in the conduct of their foreign policy. D Engage in a foreign policy analysis of one or more country. E Critically evaluate sources. F Communicate complex information and interpretation in a public form of writing and presentation. G Engage in research and writing to advance a scholarly argument.",
+        "Method of teaching and learning": "Seminars, blended learning and reading banks."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS406&psl_code=SEM2"
+    }
+  ]
+}

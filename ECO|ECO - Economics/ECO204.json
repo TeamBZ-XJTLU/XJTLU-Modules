@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Mathematical Economics",
+  "module_code": "ECO204",
+  "offerings": [
+    {
+      "heading": "Mathematical Economics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Mathematical Economics",
+        "module_code": "ECO204",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Mathematical Economics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module is to introduce students to the use of mathematical models in the study of Economics. This module builds on the material of the first year Mathematics and Economics modules and will deepen students’ knowledge of both Microeconomics and Macroeconomics. The module is optional for Economics students but it is highly recommended for those who plan to further study quantitative modules such as ECO302 and alike.",
+        "Learning outcomes": "A. Demonstrate skills with multivariate calculus and optimization B. Demonstrate basic understanding of integration C. Demonstrate skills in classifying and solving simple differential equtions& their systems D. Apply these skills to solving microeconomic and macroeconomic models.",
+        "Method of teaching and learning": "The module will be taught using a combination of lectures, exercise tutorials and office hours for student questions. The lectures are intended to provide an introduction to the topics covered in the syllabus. This will be built upon by the regular completion of structured exercises. Learning will also be reinforced by appropriate readings from the course text. Additional time for questions will be provided to students during office hours."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO204&psl_code=SEM1"
+    }
+  ]
+}

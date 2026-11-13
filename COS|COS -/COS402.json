@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COS",
+    "domain_code": "COS",
+    "full_name": ""
+  },
+  "full_name": "Data Communication and Communication Networks",
+  "module_code": "COS402",
+  "offerings": [
+    {
+      "heading": "Data Communication and Communication Networks",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COS",
+        "full_name": "Data Communication and Communication Networks",
+        "module_code": "COS402",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Data Communication and Communication Networks",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students fundamental understanding of data communication network protocols and architectures, a common basis for the study of advanced modules such as wireless communication networks, and to enable them to use tools & techniques for the design and analysis of the performance of network protocols and architectures. As a core part of the MSc in Multimedia Telecommunications, this module equips students with knowledge from the communication networking perspective.",
+        "Learning outcomes": "A. Evaluate the operation of key protocols and algorithms for error detection, automatic repeat request, multiple access, routing/switching, and TCP flow/congestion control in communication networks. B. Design and analyse the performance of data communication protocols and network architectures using mathematical techniques and/or computer simulations. C. Assess options for the mitigation of operational risks in data communication protocols and network architectures. D. Critically evaluate how network protocol and architecture design choices impact diverse user populations and access needs.",
+        "Method of teaching and learning": "The module employs a blended pedagogical approach that integrates theoretical rigor, applied problem-solving, and computational experimentation to foster deep conceptual understanding and practical competency. Core concepts and technologies such as OSI protocol reference model, transmission control protocol (TCP), user datagram protocol (UDP), queuing theory, etc., are introduced through lectures. Computer laboratory sessions anchor theoretical knowledge in digital computer practices, where instructors offer on-site help on programming-related issues and explain critical theories that allows one to link theoretical results and simulation results. Recorded lectures and other supplementary materials (if deemed necessary) will be provided to students to facilitate self-study."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COS402&psl_code=SEM1"
+    }
+  ]
+}

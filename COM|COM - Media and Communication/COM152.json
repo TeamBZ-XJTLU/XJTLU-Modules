@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Representation, Diversity and Identity",
+  "module_code": "COM152",
+  "offerings": [
+    {
+      "heading": "Representation, Diversity and Identity",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Representation, Diversity and Identity",
+        "module_code": "COM152",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Representation, Diversity and Identity",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to critical frameworks and concepts in cultural studies and media studies, emphasising on the relationships between systems of representation, discourse, and power within media, culture, and society. Through engaging in critical analysis of various forms of media, students will explore how media representation shape perceptions of diversity and identities within contemporary society. The module will also encourage students to discuss the ways in which media representations perpetuate stereotypes, reinforce dominant ideologies, and marginalise underrepresented groups. This module will help students develop the necessary skills and knowledge to participate in critical discussions about media representation, diversity, and identity.",
+        "Learning outcomes": "A. Demonstrate an understanding of how representation affects perceptions of diversity and identity B. Identify power relations involved in the processes of representation C. Analyse portrayals of diverse identities in various media forms D. Apply concepts and theories to examine issues in media, culture, and society E. Communicate effectively about issues surrounding representation, diversity, and identity",
+        "Method of teaching and learning": "Lectures Seminars"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM152&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Project Management in a Digital World",
+  "module_code": "IFB429TC",
+  "offerings": [
+    {
+      "heading": "Project Management in a Digital World",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Project Management in a Digital World",
+        "module_code": "IFB429TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Project Management in a Digital World",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with specialized project management knowledge, tools, and techniques tailored to the unique demands of digital business initiatives. It bridges universal project management principles with the fast-paced, tech-driven context of digital business, where projects often involve cross-functional teams, regulatory uncertainty, and rapid technological change. Key aims include: • Developing a systematic understanding of project management frameworks and their adaptation to digital business projects. • Building proficiency in using digital tools to plan, execute, and monitor digital business-focused projects. • Cultivating the ability to address digital business-specific project challenges, including regulatory compliance, resource constraints, and stakeholder expectations. As an elective module in the MSc in Digital Business, this module aligns with the programme’s goal of preparing graduates for roles in digital transformation project delivery.",
+        "Learning outcomes": "A. Evaluate the strengths and limitations of project management methodologies in the context of digital business. B. Critically assess project feasibility (technical, financial, regulatory) for digital business initiatives. C. Evaluate the success of digital business projects using key performance indicators. D. Develop a comprehensive project plan for a digital business initiative that includes scope definitions, budgets, timelines, and risk mitigation strategies. E. Collaborate effectively in cross-functional teams.",
+        "Method of teaching and learning": "The module employs a blended approach to teaching and learning. Lectures are used to introduce core concepts and theoretical frameworks. Seminars facilitate interactive discussions on real-world digital marketing campaigns, challenges, and emerging industry trends, with case studies to provide hands-on experience. Group projects encourage collaborative strategy development, enabling students to design integrated digital marketing plans and refine them through peer feedback. Independent study complements structured sessions, allowing students to conduct research, engage with online resources, and prepare for assessments through self-directed learning."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB429TC&psl_code=SEM2"
+    }
+  ]
+}

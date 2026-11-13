@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IME",
+    "domain_code": "MFETC",
+    "full_name": "Manufacturing Engineering"
+  },
+  "full_name": "Manufacturing process",
+  "module_code": "MFE205TC",
+  "offerings": [
+    {
+      "heading": "Manufacturing process",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MFETC",
+        "full_name": "Manufacturing process",
+        "module_code": "MFE205TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Manufacturing process",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the fundamentals of modern manufacturing processes, with emphasis on the physics of the processes, design for manufacturability, and integration of digital design tools. It builds upon knowledge of materials and prior knowledge of engineering design and includes practical/lab components. The module also introduces students to to model, analyse, and optimise parts for manufacturability and assembly, using digital tools like Solidworks. Through lectures, tutorials, labs, project-based coursework, and a final exam students will explore machining, forming, casting, assembly, and the use of design software in manufacturing. The module’s structure supports the university’s Syntegrative Education model by fostering industrial engagement and hands-on learning.",
+        "Learning outcomes": "A Analyse and select appropriate materials and manufacturing processes for parts, explaining trade-offs in cost, performance, manufacturability, and environmental impact B Identify and manage cost within the context of engineering design by making product designs more economical and simplifying production processes C Explain manufacturing methods and their limits, possibilities and environmental impacts for different materials D Identify the basic mechanisms that affect quality, rate, cost, and flexibility for major manufacturing processes E Improve or redesign an existing product for ease of manufacture and assembly (manual and/or automatic), by applying DFM/DFA principles and using SolidWorks to design, simulate, and optimise parts and assemblies.",
+        "Method of teaching and learning": "TThe teaching of this module aligns with the Syntegrative Education approach. Students learn through a balanced mix of lectures, tutorials, and hands-on laboratory sessions. Emphasis is placed on active learning, CAD-based design, and problem-based project work. The total contact hours include 20 hours of lectures, 20 hours of tutorials, and 16 hours of laboratory/practical work covering SolidWorks CAD sessions, machining demonstrations, and hands-on assembly labs. Coursework tasks integrate industrial examples and focus on applying CAD tools in conjunction with DFM/DFA principles. A 1.5-hour exam that consists of a combination of qualitative and quantitative questions is scheduled to ensure that the critical knowledge and skills of manufacturing process are deeply ingrained in students. Assessments are structured to develop critical thinking, design capabilities, and process planning skills in both individual and team settings."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MFE205TC&psl_code=SEM1"
+    }
+  ]
+}

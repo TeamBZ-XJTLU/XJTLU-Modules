@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FIN",
+    "domain_code": "FIN",
+    "full_name": "Finance"
+  },
+  "full_name": "Financial Instruments",
+  "module_code": "FIN204",
+  "offerings": [
+    {
+      "heading": "Financial Instruments",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FIN",
+        "full_name": "Financial Instruments",
+        "module_code": "FIN204",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Financial Instruments",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the theory and practical skills related to the use of financial instruments in the context of various markets. Attention will hence focus on critically assessing different valuation techniques for bond, equity, foreign exchange, and derivative instruments. In addition, special emphasis will be put on understanding the role of specific financial instruments leading to historical instances of financial crisis.",
+        "Learning outcomes": "A Understand the implications of using financial instruments in specific contexts. B Be proficient in the application of a wide variety of investment vehicles C Be able to select the most appropriate investment vehicle in a given circumstances D Understand the limitations of financial instruments",
+        "Method of teaching and learning": "Lectures will provide students with a conceptual overview of financial instruments. Theory will be supplemented by additional teaching materials to connect conceptual thinking to practical cases. Tutorials: Students will be given the chance to acquire practical knowledge in tutorials by solving real market valuation exercises."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN204&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Advanced Research Methods",
+  "module_code": "IOM441",
+  "offerings": [
+    {
+      "heading": "Advanced Research Methods",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Advanced Research Methods",
+        "module_code": "IOM441",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Research Methods",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to enable students to further their quantitative and qualitative research skills by stimulating and exposing them to a number of advanced research methods available in the field of business and management. Students will also be required to critically evaluate a range of existing scholarly studies in terms of their methodological approach, limitations, and quality of findings.",
+        "Learning outcomes": "A Decide which advanced quantitative and qualitative research methods to apply in a given business and management research project. B Critically evaluate a range of advanced quantitative and qualitative research techniques as reported in extant literature. C Evaluate, select and apply different software packages related to the research topic of interest and the type of analysis required. D Have a critical appreciation and understanding of the different research methods that are available to them, and have the ability to use these methods where appropriate for their research.",
+        "Method of teaching and learning": "This module will be taught using seminars and laboratory-based exercises."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM441&psl_code=SEM2"
+    }
+  ]
+}

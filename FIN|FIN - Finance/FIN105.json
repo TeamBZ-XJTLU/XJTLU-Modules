@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FIN",
+    "domain_code": "FIN",
+    "full_name": "Finance"
+  },
+  "full_name": "Introduction to Finance for Accounting",
+  "module_code": "FIN105",
+  "offerings": [
+    {
+      "heading": "Introduction to Finance for Accounting",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FIN",
+        "full_name": "Introduction to Finance for Accounting",
+        "module_code": "FIN105",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Finance for Accounting",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to the study of corporate finance. It provides a foundation for students to build later at levels 2 and 3 of their programme of study, by covering basic logical and rational analytical tools that underpin financial decisions.",
+        "Learning outcomes": "A Understand the basic concepts and principles of corporate finance; B Apply the basic logical and analytical tools that underpin investment decisions; C Explain various risk measures and models of the relation between risk and return; D Discuss firms’ choice of capital structure and implications for the value of the firm; E Examine and discuss the key issues relating to payout policy and their implications for the value of the firm.",
+        "Method of teaching and learning": "The teaching and learning strategies employed include a combination of Lectures based around a core text, Workshops (to provide students with interactive and hands-on sessions) and LM, for the dissemination of material and learning resources."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN105&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "ARC",
+    "full_name": "Architecture"
+  },
+  "full_name": "Structural Design",
+  "module_code": "ARC202",
+  "offerings": [
+    {
+      "heading": "Structural Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ARC",
+        "full_name": "Structural Design",
+        "module_code": "ARC202",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Structural Design",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to structural and building technological aspects of designing architecturally. Students learn to address structural challenges through designing and building of experimental structural models. Building case studies illustrate how structural and technological issues can be taken into account during the design process. Particular attention is given to team working processes between architects and outstanding engineers such as Cecil Balmond, Anthony Hunt, Frei Otto, Peter Rice and Mutsuro Sasaki.",
+        "Learning outcomes": "A. Demonstrate building designs which integrate structural and technological requirements with aesthetic principles. B. Operate within speculative processes with conflicting requirements. C. Examine and apply appropriate structural strategies in response to a variety of design challenges, adopting digital and analytical AI design tools. D Evaluate technological requirements of design proposals and select appropriate materials.",
+        "Method of teaching and learning": "The module focuses on recent structural developments and takes into account key contemporary structural innovations and strategies. Historic examples illustrate the development of construction technology and associated material choices and structural principles. The positive effect of close collaboration between engineers and architects is highlighted and discussed in a series of contemporary and recent case studies that demonstrate well integrated and innovative design projects featuring a range of design scenarios in both Western and Asian contexts. The module integrates lectures and applied structural design work where students learn through building experimental models in teams. Experimental structural models are discussed and subjected to performance tests in class."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ARC202&psl_code=SEM2"
+    }
+  ]
+}

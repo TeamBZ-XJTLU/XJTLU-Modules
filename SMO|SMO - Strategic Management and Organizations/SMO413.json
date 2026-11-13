@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Leading and Managing People",
+  "module_code": "SMO413",
+  "offerings": [
+    {
+      "heading": "Leading and Managing People",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Leading and Managing People",
+        "module_code": "SMO413",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Leading and Managing People",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will focus on the theory and practice of leading and managing people in organisations. Starting from the study of individual personality, motivation and attitudes, and moving onto team and group management, the module will essentially focus on leadership style and the effective management of performance in the workplace. As well as covering the key theories of leadership and people management, the module will ask participants to reflect on their own personalities and experiences as leaders/managers and identify future development goals.",
+        "Learning outcomes": "A. Gain knowledge of managing individuals at work and the link to employee performance. B. Understand the challenges of managing and leading teams/groups for better performance. C. Critically analyse the relationship between organisational level leadership and organisational performance. D. Reflect on your own development as a manager and/or leader, and set individual development goals for the future.",
+        "Method of teaching and learning": "Lectures, class discussion, simulations/role plays, reflective exercises, group based exercises and individual assignments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO413&psl_code=SEM1"
+    }
+  ]
+}

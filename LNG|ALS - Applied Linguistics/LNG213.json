@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Chinese Linguistics",
+  "module_code": "LNG213",
+  "offerings": [
+    {
+      "heading": "Chinese Linguistics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Chinese Linguistics",
+        "module_code": "LNG213",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Chinese Linguistics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The main aims of the module are: • to provide a historical overview of Chinese and introduce students to the areas of Chinese language description and analysis such as phonetics, phonology, morphology, syntax, semantics and sociolinguistics; • to equip students with methods for analysing the Chinese language; • to apply methods of description and analysis to the Chinese Language.",
+        "Learning outcomes": "A. Demonstrate familiarity with key aspects of Chinese language structure and develop a sense of the major linguistic properties of Chinese B. Demonstrate an ability to analyse the Chinese language at various levels of its structure C. Use Linguistic Theories/Approaches to analyse the Chinese language or account for Chinese language data D. Demonstrate an ability and skills to conduct research in the Chinese language",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: Lectures and Tutorials/workshops. Teaching consists of one lecture and one Tutorial/workshop per week."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG213&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MAT",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Actuarial Modelling",
+  "module_code": "MTH432",
+  "offerings": [
+    {
+      "heading": "Actuarial Modelling",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Actuarial Modelling",
+        "module_code": "MTH432",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Actuarial Modelling",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide a foundation in mathematical and statistical modelling techniques for problem solving in actuarial practice. This module introduces relevant statistical and probability models, and shows the application methods of these theoretical models within actuarial science to students by applying computer software. The main contents of the course include probability distribution in risk modelling, extreme value theory, time series, and statistical methods in survival models.",
+        "Learning outcomes": "A. Apply mathematical, statistical and probabilistic skills to solve actuarial models. B. Evaluate Parametric models: parameter estimation, simulations, bootstrapping. C. Summarize and develop Estimate parameters: point estimation, moment estimation, and maximum likelihood estimation. D. Analyse and construct Non-Parametric models & Semi-Parametric models. E. Operate insurance models with Incomplete Data and complete Data. F. Apply estimation and model selection to complex models. G. Employ time-series (e.g., GARCH) models to real data sets.",
+        "Method of teaching and learning": "This module is delivered through formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH432&psl_code=SEM2"
+    }
+  ]
+}

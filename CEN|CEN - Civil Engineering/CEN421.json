@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Construction Process Simulation",
+  "module_code": "CEN421",
+  "offerings": [
+    {
+      "heading": "Construction Process Simulation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Construction Process Simulation",
+        "module_code": "CEN421",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Construction Process Simulation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To enhance the students’ ability of extending the breadth of knowledge needed to understand the dynamics of construction processes and applying optimization techniques of construction resource allocation, which is essential for more advanced construction project management.",
+        "Learning outcomes": "A Perform comprehensive analysis of various construction process and activities with the focus on the resource requirements of the whole cycle of repetitive activities. B Create construction process simulation models considering resources in terms of labor, material, equipment, time and space. C Optimize resource allocation by considering the constraints and combination of different resources. D Analyze the advantages and disadvantages of various data collection approaches and integrate information techniques to enable automatic data collection.",
+        "Method of teaching and learning": "The material in this module is delivered through a combination of lectures, seminars, and tutorials. Simulation software packages will be introduced to create simulation models of various construction processes and activities. Onsite data collection technology will be introduced to students by site visits to construction sites. In addition, seminars will be offered to students from departmental Industrial Advisory Board (IAB) to gain industrial experiences."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN421&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Digital Money",
+  "module_code": "COM421",
+  "offerings": [
+    {
+      "heading": "Digital Money",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Digital Money",
+        "module_code": "COM421",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Digital Money",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module delves into a cutting-edge digital innovation that has brought change and disruption to industries including finance and to society at large: the transition of money from a ‘real world’ asset to a completely digital phenomenon. The module’s historical and philosophical foray into the question, “What is money’ concludes that this technology facilitates the communication of value in time and space. Subsequently, the module delves into digital money in its different manifestations including bank accounts, stable coins, central bank digital currencies, and cryptocurrencies. The module aims to examine the pros and cons of the shift to digital money for individuals and society at large. It considers the technologies and the regulatory frameworks that afford and limit this development. The module fits the programme and its emphasis on digital media in that it interrogates an important, innovative digital transformation and an essential communicative process.",
+        "Learning outcomes": "A Demonstrate historical and philosophical understanding of past and current incarnations of money as technology and communicative process B Critically reflect on digital money and its current and future functions C Conduct a SWOT analysis of a digital monetary product",
+        "Method of teaching and learning": "The lectures present and explain relevant material including the module readings. In the seminars students actively deepen their understanding of the module material."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM421&psl_code=SEM1"
+    }
+  ]
+}

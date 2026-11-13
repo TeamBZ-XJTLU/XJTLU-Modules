@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Chinese Cinema",
+  "module_code": "COM332",
+  "offerings": [
+    {
+      "heading": "Chinese Cinema",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "COM",
+        "full_name": "Chinese Cinema",
+        "module_code": "COM332",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Chinese Cinema",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide a historical overview of cinema in mainland China, by introducing students to a number of important film periods, movements and figures, including the various “Generations” of Chinese filmmakers. It will develop chronologically, starting from the origins of Chinese cinema to the present day development of a big-budget commercial cinema. It will also address the evolving relationship between the Chinese film industry and other cinemas. The module will enable students to analyse various genres in both Maoist and post-socialist China, as well as pan-Asian genres (the martial arts film). In order to allow students to gain a thorough understanding of the films, the module will cover the relevant historical and political contexts that directly and indirectly influenced film production and consumption, as well as trends in the film industry. The module will also problematise the notion of “national cinema” and will explore issues pertaining to the representation of nation, gender, class, and ethnicity in Chinese films.",
+        "Learning outcomes": "A Discuss from a historical perspective the aesthetic, cultural, economic, political, and technological trends related to cinema in mainland China B Demonstrate an in-depth understanding of key figures and movements in Chinese cinema C Analyse Chinese films referencing the concepts and debates introduced in the module D Examine issues related to national identity through representative films",
+        "Method of teaching and learning": "Lectures Seminars Film screenings"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM332&psl_code=SEM1"
+    }
+  ]
+}

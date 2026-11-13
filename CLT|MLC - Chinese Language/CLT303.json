@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MLC",
+    "domain_code": "CLT",
+    "full_name": "Chinese Language"
+  },
+  "full_name": "Business Chinese Part 1",
+  "module_code": "CLT303",
+  "offerings": [
+    {
+      "heading": "Business Chinese Part 1",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CLT",
+        "full_name": "Business Chinese Part 1",
+        "module_code": "CLT303",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Business Chinese Part 1",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This is an advanced Chinese language module designed for Year 4 international students studying International Business with a Language whose Chinese proficiencies have achieved the level of CLT008 and are interested in Business Chinese, or who plan to work in a Chinese language environment. The module will progress in their Chinese proficiency to a level of equivalent to CEFR B2 or above. It aims to develop students’ Chinese proficiency in the context of business activities that require dequate language skills, business knowledge and awareness of socio-cultural customs.",
+        "Learning outcomes": "Students completing the module successfully should be able to: A. Understand dialogues and spoken reports under various business contexts. B. Discuss, negotiate, and communicate on various business topics using level-appropriate linguistic forms. C. Understand the gist and critical information from complex written texts in Chinese within a variety of business topic areas. D. Produce written business correspondence and documents with appropriate lexical and syntactic structures. E. Demonstrate awareness and understanding of cultural and business issues within Chinese culture.",
+        "Method of teaching and learning": "Business Chinese focuses more on a real business environment. Students will learn language structures and vocabulary used in business settings, along with the conventions of business interaction and correspondence. Reading, discussion, presentation and writing will be organized to build up students’ comprehensive abilities as a preparation to participate in various business activities and to deal with different business documents. Fieldwork will also be integrated into the module to allow students to interact with local companies. The module provides higher language competence for understanding and communicating on wider cultural and social issues that underline many aspects of business practice in contemporary China. Real cases of successful multinational Chinese and foreign companies and issues including marketing, branding, mergers and acquisitions, international expansion will be used as texts. All the seminars are delivered in Chinese."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CLT303&psl_code=SEM1"
+    }
+  ]
+}

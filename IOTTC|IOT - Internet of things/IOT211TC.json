@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOT",
+    "domain_code": "IOTTC",
+    "full_name": "Internet of things"
+  },
+  "full_name": "Requirement Analysis and Design of Mobile Applications for IoT",
+  "module_code": "IOT211TC",
+  "offerings": [
+    {
+      "heading": "Requirement Analysis and Design of Mobile Applications for IoT",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOTTC",
+        "full_name": "Requirement Analysis and Design of Mobile Applications for IoT",
+        "module_code": "IOT211TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Requirement Analysis and Design of Mobile Applications for IoT",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module is designed to impart a comprehensive understanding of the principles of mobile design for IoT (Internet of Things). It seeks to offer students an in-depth understanding of the processes of requirement analysis and design for IoT-centered mobile applications. It further intends to immerse students in professional methodologies and relevant technologies that underpin requirement analysis in the IoT domain. The aim extrapolates to fostering students' abilities to critically evaluate potential technologies for IoT mobile application design and putting professional methodologies and tools into practice for designing such applications. As for how this module fits in the programme, broader educational and industry context, it is tailored to meet the surging demand for specialized skills in mobile application development for IoT. After completing the module, students can expect to secure roles that involve mobile application development, IoT product development, and software engineering, among others, due to their newfound ability to design IoT-optimized mobile applications. Moreover, the fit of this module extends beyond immediate career applications. It aligns with overarching academic objectives of nurturing problem-solving prowess, critical thinking, and tech-savviness in students, equipping them to stay adaptive in the face of technological evolution.",
+        "Learning outcomes": "A. Demonstrate a solid understanding of requirement analysis and design for mobile applications in the context of IoT. B. Utilize professional requirement analysis methodology and relevant technologies to analyze the mobile application requirements in the context of IoT. C. Evaluate the appropriate technologies to design the mobile application for IoT based on the given requirement analysis. D. Design the required mobile application for IoT based on professional methodology, modelling and tools.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This has meant that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contributions. This philosophy is carried through also in terms of assessment, with a reduction in the use of exams and an increase in coursework, especially project-focused assessments. The delivery pattern provides space in the semester for students to concentrate on completing the assessments. This module will be delivered by a combination of lectures, seminars, and labs. Lectures will introduce students to the academic content and practical skills, while computer labs will allow students to practice those practical skills. Private study will provide time for reflection and consideration of lecture materials and background reading. Continuous assessment will be used to test to what extent practical skills have been learned."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOT211TC&psl_code=SEM1"
+    }
+  ]
+}

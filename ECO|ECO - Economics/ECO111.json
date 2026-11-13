@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Quantitative Methods",
+  "module_code": "ECO111",
+  "offerings": [
+    {
+      "heading": "Quantitative Methods",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Quantitative Methods",
+        "module_code": "ECO111",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Quantitative Methods",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with an introduction to quantitative methods that will develop the mathematical, quantitative and statistical skills required for the study of accounting, finance, economics and related subjects later in the degree programme.",
+        "Learning outcomes": "A. demonstrate a basic understanding of mathematical tools and their applications to accounting, finance and economics; B. understand the fundamental concepts of statistics and probability; C. understand basic principles of random sampling, the nature of sampling error and the need for estimation & the rules of hypothesis testing; D. explain the relation among random variables by using correlation and regression analyses;",
+        "Method of teaching and learning": "There are thirteen 2-hour lectures, supported by weekly tutorials or computer laboratory and software practice. Lectures consist of a presentation of each topic as well as a discussion on how to solve more elaborate problems. Tutorials allow students to discuss the subject matter, and develop their mathematical problem solving skills under the direction of the teaching staff. Laboratory and software practice introduces the software used in empirical analysis and helps students to apply quantitative methods to solve real examples. It is expected that students spend their self-study time practicing problem solving, using textbook questions, previous years’ exam questions and any other extra material provided by the lecturer. Material is placed in a broad business context during the lectures and the links between accounting and finance and wider business, economic, and social issues are established."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO111&psl_code=SEM1"
+    }
+  ]
+}

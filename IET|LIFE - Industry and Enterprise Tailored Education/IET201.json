@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LIFE",
+    "domain_code": "IET",
+    "full_name": "Industry and Enterprise Tailored Education"
+  },
+  "full_name": "Global Trends in Industrial Development",
+  "module_code": "IET201",
+  "offerings": [
+    {
+      "heading": "Global Trends in Industrial Development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IET",
+        "full_name": "Global Trends in Industrial Development",
+        "module_code": "IET201",
+        "semester": "SEMS"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Global Trends in Industrial Development",
+        "Semester": "SEMS"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module enables students to consider and appraise the key global trends affecting industrial development. It will allow for an assessment of the operations and logistics of existing and new industries and their implications. It also aims to enable students to master how to utilise current new technologies to change the industry to follow and lead the global trend.",
+        "Learning outcomes": "A Grasp the development path of industries from the evolution of globalization. B Analyse the development and operation of the core industries of a focal organisation from a global perspective. C Learn how to identify the opportunities for the development of industries. D Demonstrate skills in reflection on the relationship between theory and professional practice.",
+        "Method of teaching and learning": "Classroom teaching, interaction analysis, case study, group exercises and enterprise-based on-site practices."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IET201&psl_code=SEMS"
+    }
+  ]
+}

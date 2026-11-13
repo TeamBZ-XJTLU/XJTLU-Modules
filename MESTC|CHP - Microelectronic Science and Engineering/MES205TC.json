@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHP",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "Digital Electronics II",
+  "module_code": "MES205TC",
+  "offerings": [
+    {
+      "heading": "Digital Electronics II",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Digital Electronics II",
+        "module_code": "MES205TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Digital Electronics II",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide students with the ability to: The binary number system, the laws of Boolean algebra, and basic design methods for combinational and sequential logic circuits. Design digital systems using the Algorithmic State Machine (ASM) methodology. Understand the features of Programmable Logic Devices (PLDs) and use them in their designs.",
+        "Learning outcomes": "A. Demonstrate understanding of laws of Boolean algebra in logic minimization. B. Demonstrate understanding of basic design methods for combinational and sequential logic circuits. C. Understand the Algorithmic State Machine (ASM) design technique, synchronous digital systems, and FPGAs. D. Apply theoretical knowledge to design a stable and robust digital system. E. Implement digital systems and use CAE tools to design and simulate digital systems.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures, seminars, tutorials and both supervised and unsupervised laboratory sessions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES205TC&psl_code=SEM1"
+    }
+  ]
+}

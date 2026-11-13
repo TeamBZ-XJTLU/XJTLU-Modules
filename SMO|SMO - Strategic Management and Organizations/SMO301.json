@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Employee Rewards",
+  "module_code": "SMO301",
+  "offerings": [
+    {
+      "heading": "Employee Rewards",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Employee Rewards",
+        "module_code": "SMO301",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Employee Rewards",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims at providing students with an advanced understanding of the role of effectively rewarding employees in contemporary human resource management. It offers a systematic learning of the reward management concepts and theories, and how remuneration strategies should align with business and organizational objectives. Students will appreciate the importance and complication of the process of planning and implementing reward management systems. This module will equip students with necessary knowledge and tools to understand how firms develop a pay and reward system and factors that help to evaluate the effectiveness of its implementation.",
+        "Learning outcomes": "A. Have an understanding of key knowledge on reward management. B. Understand key arguments and considerations over developing an effective reward management system. C. Critically evaluate the development of integrated and effective reward management systems. D. Apply key concepts and theories to analyzing real issues on reward management at national and international levels. E. Develop systematic analysis and thinking skills that enable students to draw connections between other issues and reward management",
+        "Method of teaching and learning": "This module will be taught in seminar mode."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO301&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Python Programming for Physics",
+  "module_code": "PHY105",
+  "offerings": [
+    {
+      "heading": "Python Programming for Physics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "PHY",
+        "full_name": "Python Programming for Physics",
+        "module_code": "PHY105",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Python Programming for Physics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to give students a broad background on the use of Python as a programming language. This knowledge is the basis for all subsequent modules in the students’ curriculum that require the usage of programming tools, such as implementing numerical methods for physics or handling data from lab-based activities. On the one hand, this module equips students with the core expertise to use Python in science-related applications, such as inputting data from files and creating customized plots. On the other hand, it develops students’ ability to critically evaluate the performance of existing codes, and to independently retrieve existing subroutines from standard Python libraries.",
+        "Learning outcomes": "A use conditional and iteration statements to perform coding tasks; B develop complex codes logically by interfacing self-written subroutines; C perform operations (numerical, input/output, argument passing, etc.) on different kinds of compound data types such as arrays, lists, and dictionaries; D produce user-customized 1D and 2D plots; E import and use standard Python libraries to simplify the code structure.",
+        "Method of teaching and learning": "This module is delivered over 13 teaching weeks in year 2, semester 1. Every week, students are expected to: - attend two hours of formal lectures, which serve to introduce new programming concepts from a theoretical perspective, and to show examples of their usage and usefulness; - attend two hours of computer lab activities, which give students the opportunity to practice their code-development skills and to apply the concepts learned in the formal lectures; - devote 7-8 hours to independent study and coding practice on personal laptops or PC made available by the University. Students are encouraged to utilize AI tools and to critically explore the strengths and limitations of generative AI for developing code. In particular, students are required to always test AI coding output against their personal expertise on the subject."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY105&psl_code=SEM1"
+    }
+  ]
+}

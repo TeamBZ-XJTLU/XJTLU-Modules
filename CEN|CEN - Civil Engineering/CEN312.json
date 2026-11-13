@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Construction Management",
+  "module_code": "CEN312",
+  "offerings": [
+    {
+      "heading": "Construction Management",
+      "listing": {
+        "academic_year": "2027/28",
+        "domain_code": "CEN",
+        "full_name": "Construction Management",
+        "module_code": "CEN312",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2027/28",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Construction Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to extend students’ ability to use theory, tools and techniques of modern construction management and train the students with practical applications of project management.",
+        "Learning outcomes": "A. Apply Life Cycle Costing to evaluate investment options and profitability of construction projects. B. Adopt the scheduling techniques and tools for planning and managing time of construction projects. C. Assess health/safety/security issues in the construction industry and appreciate ethical decision making processes. D. Apply quality and risk management process, tools and techniques to construction projects and appreciate different types of procurement systems. E. Evaluate the project performance by using earned value method and produce optimized crash costs for construction projects. F. Analyze and apply the process of productivity improvement for construction projects and understand the modern management tools being used to improve the productivity and quality of construction projects.",
+        "Method of teaching and learning": "The module is taught through formal lectures and class tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN312&psl_code=SEM2"
+    }
+  ]
+}

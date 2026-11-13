@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Contemporary Issues in the Ethics of Business Analytics",
+  "module_code": "IOM413",
+  "offerings": [
+    {
+      "heading": "Contemporary Issues in the Ethics of Business Analytics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Contemporary Issues in the Ethics of Business Analytics",
+        "module_code": "IOM413",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 4",
+        "Module Title": "Contemporary Issues in the Ethics of Business Analytics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module teaches students how organisations deal with the new challenges posed by contemporary data analytics, especially in the realm of big data. It exposes students to research and real-life cases on ethical issues arising from collecting and analyzing big data. It provides students with practical frameworks for analyzing and acting in new ethically-sensitive situations.",
+        "Learning outcomes": "A Critically analyze contemporary ethical issues in business analytics B Integrate research and practice to analyse ethical issues in business analytics C Develop actionable strategies by addressing ethical concerns that may arise from business analytics and effectively present the findings",
+        "Method of teaching and learning": "The module incorporates a combination of instructor-led lectures and seminars to facilitate effective learning. Through these sessions, students will receive comprehensive and up-to-date information on the subject matter. • The instructor-led lectures will provide a structured and organized approach to delivering key concepts, theories, and frameworks related to the ethical considerations in business analytics. • The seminars will offer an interactive platform for students to engage in discussions and critical analysis of the provided materials. During these sessions, students will have the opportunity to share their perspectives, ask questions, and engage in debates on the ethical implications of business analytics. • In addition to the lectures and seminars, students will be directed towards recommended scholarly articles, academic research papers, contemporary professional journals, and press articles. This supplementary material aims to deepen their understanding of the current ethical issues surrounding business analytics. This multifaceted approach to teaching and learning ensures that students are equipped with the necessary knowledge and skills to address ethical concerns effectively in their future professional endeavors."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM413&psl_code=SEM1"
+    }
+  ]
+}

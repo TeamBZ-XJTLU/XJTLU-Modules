@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Teaching, Learning and Assessment",
+  "module_code": "EDS428",
+  "offerings": [
+    {
+      "heading": "Teaching, Learning and Assessment",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Teaching, Learning and Assessment",
+        "module_code": "EDS428",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Teaching, Learning and Assessment",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with core concepts and ideas about teaching and learning and equip students with the ability to support the learning of individuals from diverse backgrounds. This module will: 1. Develop students’ critical understanding of key theories and models of learning, teaching, assessment, feedback, and inclusion in diverse global education contexts. 2. Examine how pedagogical and assessment choices can support learners from varied backgrounds in secondary and tertiary, including international and multilingual, settings. 3. Engage students in project-based learning through the collaborative design of teaching, learning, and assessment strategies that enact and support the curriculum developed within the integrated pathway project. 4. Cultivate students’ capacity to use digital and AI-enabled tools critically, ethically, and strategically for learning design, differentiation, assessment, feedback, collaboration, and communication.",
+        "Learning outcomes": "A. Critically analyse theories of learning, teaching, assessment, and feedback, and evaluate their implications for diverse learners across cultures and contexts. B. Evaluate and select pedagogical and assessment approaches — including project-based, inquiry-based, collaborative, and inclusive strategies — that fit curriculum goals, learner needs, and context. C. Collaboratively design and justify a teaching, learning, and assessment plan for a realistic educational context, demonstrating coherent alignment among intended outcomes, activities, authentic assessment, and feedback. D. Use digital and AI-enabled tools critically, ethically, and strategically to support teaching, learning, assessment, feedback, and professional collaboration.",
+        "Method of teaching and learning": "This course adopts a Research-Led Project-Based Learning (RLPBL) approach with AI integration and a real-world practice orientation. Since this module focuses on the practical aspects of teaching, learning, and assessment. Students will be assigned to work in groups to complete projects like designing lessons, curriculum, assessments, etc."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS428&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ADS",
+    "domain_code": "ADS",
+    "full_name": ""
+  },
+  "full_name": "Data Structures and Algorithms",
+  "module_code": "ADS103",
+  "offerings": [
+    {
+      "heading": "Data Structures and Algorithms",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ADS",
+        "full_name": "Data Structures and Algorithms",
+        "module_code": "ADS103",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "Data Structures and Algorithms",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to fundamental algorithms and data structures, focusing on the design, analysis, and implementation of algorithms with the use of appropriate data structures. It equips students with the skills to assess algorithm performance, particularly in terms of time complexity. The module lays the foundation for further study in areas such as computer science and artificial intelligence, as well as for pursuing professional careers in the computer industry.",
+        "Learning outcomes": "A. Describe the principles of, and apply, a variety of data structures using their associated algorithms. B. Apply standard algorithms and pseudocode representations to develop solutions for given problems. C. Analyze the computational complexity of fundamental algorithms using asymptotic notation. D. Choose and justify the use of appropriate data structures to enable efficient implementation of algorithms.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures, tutorials and labs. Lectures will introduce students to the academic content and practical skills which are the subject of the module, while tutorials and lab sessions will allow students to practice those skills. In additions, students will be expected to devote about three hours of unsupervised time for private study, which provide students time for reflection and consideration of lecture materials and background reading."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ADS103&psl_code=SEM2"
+    }
+  ]
+}

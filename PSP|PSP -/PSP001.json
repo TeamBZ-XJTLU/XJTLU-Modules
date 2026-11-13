@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PSP",
+    "domain_code": "PSP",
+    "full_name": ""
+  },
+  "full_name": "Foundations and Professional Practice in Computer Science",
+  "module_code": "PSP001",
+  "offerings": [
+    {
+      "heading": "Foundations and Professional Practice in Computer Science",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "PSP",
+        "full_name": "Foundations and Professional Practice in Computer Science",
+        "module_code": "PSP001",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Foundations and Professional Practice in Computer Science",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to equip students with the fundamental knowledge and practical skills required for an effective communicator and a computing professional. Students gain a holistic overview of the historic, technical, economic, social and ethical perspectives of computer science, as well as an awareness of professional bodies and employability skills for computing professionals. They also develop practical structured problem-solving skills to analyse and solve real-world computing problems. The module lays a foundation for students’ further study within their degree programme and professional careers in the IT industry.",
+        "Learning outcomes": "Students completing the module successfully should be able to: • A. Describe and explain key concepts, principles and theories in computer science, and outline the historic, technical, economic and social aspects of the IT industry. • B. Identify and discuss legal, social, ethical, and professional issues related to the work of a professional within the IT industry with reference to the BCS codes of conduct and practice. • C. Plan and manage a computing project, applying structured problem-solving techniques and reporting outcomes through technical written reports and oral presentations that meet industry and academic standards.",
+        "Method of teaching and learning": "This module combines lectures, tutorials and computer labs. Over the module duration students attend thirteen one-hour lectures, seven one-hour tutorials and six one-hour computer labs. Weekly formal lectures introduce the key technical, professional and ethical topics for the module and provide the theoretical grounding for project work. Tutorial sessions support the group project. They provide structured time for group discussion, for students to consult the teaching team on their project work, and for the preparation and delivery of group project reports and oral presentations. Computer lab sessions develop the practical tools students need to present their work professionally, including an introduction to LaTeX for producing academic reports and to basic web design for building simple user interfaces, supporting both the written report and the presentation of academic work. In addition, in a typical week students are expected to devote unsupervised time to background reading, project work and the preparation of assessments. Some sessions may be co-taught by staff from the Academic Literacies Centre (ALC), who provide activities for students to further develop their academic communication skills in Computer Science. The module employs a Project-Based Learning assessment structure comprising two components. The first is a group project (report and presentation) that develops collaborative, communication and professional-awareness skills. The second is an individual report that extends this work and allows each student's achievement of the learning outcomes to be assessed independently. The resit, also an individual coursework assignment, reassesses the full set of learning outcomes on the same basis."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PSP001&psl_code=SEM2"
+    }
+  ]
+}

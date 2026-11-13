@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "APM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Stochastic Modelling in Insurance and Finance I",
+  "module_code": "MTH237",
+  "offerings": [
+    {
+      "heading": "Stochastic Modelling in Insurance and Finance I",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Stochastic Modelling in Insurance and Finance I",
+        "module_code": "MTH237",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Stochastic Modelling in Insurance and Finance I",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides a grounding in the principles of actuarial modelling, focusing on stochastic asset models, the valuation of financial derivatives and develops skills to model economic decision making, the probability of ruin, estimation of claims and the pricing of assets and options.",
+        "Learning outcomes": "A Use theories and modelling techniques to explore, understand and evaluate rational economic decision making and asset pricing. In particular, the application of utility functions to financial and economic problems. B Apply a range of financial risk measurement tools to evaluate investment opportunities in the context of utility functions. Understand how mitigating actions can reduce risk faced by insurance companies. C Use of models in portfolio selection and asset pricing. D Construct and evaluate of common forward and option contracts as well as theoretical models for derivatives and option pricing, in particular the theory and application of binomial models.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH237&psl_code=SEM2"
+    }
+  ]
+}

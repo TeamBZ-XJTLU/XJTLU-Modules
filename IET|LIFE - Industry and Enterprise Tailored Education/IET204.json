@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "LIFE",
+    "domain_code": "IET",
+    "full_name": "Industry and Enterprise Tailored Education"
+  },
+  "full_name": "Logistics Management Systems and Technologies",
+  "module_code": "IET204",
+  "offerings": [
+    {
+      "heading": "Logistics Management Systems and Technologies",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IET",
+        "full_name": "Logistics Management Systems and Technologies",
+        "module_code": "IET204",
+        "semester": "SEMS"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Logistics Management Systems and Technologies",
+        "Semester": "SEMS"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a systematic understanding and knowledge of e-commerce and information technology systems as used in contemporary industrial, transportation and logistics operations.",
+        "Learning outcomes": "A Assess the use of advanced Information Technology systems in the transport industry to both specialist and non-specialist audiences. B Evaluate Information Technology and systems used to manage transportation and logistics operations.",
+        "Method of teaching and learning": "The module involves a range of teaching strategies including lectures, seminars and case study analysis. Independent research and study will be encouraged throughout to complement classroom teaching. Student-led case analysis will facilitate the sharing of knowledge and experiences of class members. Additional material will be in the form of web-based reading and research, selected texts, and contemporary magazine and press articles."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IET204&psl_code=SEMS"
+    }
+  ]
+}

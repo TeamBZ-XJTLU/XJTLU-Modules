@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Digitalization for Sustainability",
+  "module_code": "IOM210",
+  "offerings": [
+    {
+      "heading": "Digitalization for Sustainability",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Digitalization for Sustainability",
+        "module_code": "IOM210",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Digitalization for Sustainability",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Companies need to align their purpose, governance, culture, leadership and strategy with long-term value creation for society to motivate their people and thrive commercially as sustainable businesses. Technology is a driving force in building a sustainable future. This module provides comprehensive knowledge and broad perspective on how to employ digitalization to foster positive outcomes for both the natural environment and society (Tech-for-good). This model will help students understand key digitalization technologies that can be used to solve Environment, Social, and Governance (ESG)issues and digital ethics and responsibility. The module also provides students with skills to propose sustainable business solutions in real business context.",
+        "Learning outcomes": "A Gain an overview of the most important terms and concept of SDG goals, sustainability, ESG, sustainable ecosystem, stakeholders, and sustainable business B Gain an understanding of the complexity of technological environment for achieving SDG goals and sustainable business transformation C Acquire knowledge of key digitalization technologies D Acquire knowledge of the application of digitalization in sustainability E Acquire skills to evaluate tech-for-good cases and propose digitalization solutions for ESG challenges",
+        "Method of teaching and learning": "The teaching and learning strategies employed include a combination of lectures (which teach basic concepts and principles), workshops (which are interactive and designed to enable students to apply and discuss their knowledge to analyse real-world problems, issues and case studies), and the university’s virtual learning environment (Learning Mall), which will be used for the dissemination of material, as well to provide feedback to students. Guest lectures and a company visit will also be used to complement learning and teaching."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM210&psl_code=SEM1"
+    }
+  ]
+}

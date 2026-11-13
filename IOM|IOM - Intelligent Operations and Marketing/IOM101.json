@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Fundamentals of Marketing",
+  "module_code": "IOM101",
+  "offerings": [
+    {
+      "heading": "Fundamentals of Marketing",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Fundamentals of Marketing",
+        "module_code": "IOM101",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Fundamentals of Marketing",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with a grounded appreciation of the utility and universality of a marketing orientation as the process by which organisations align themselves to their operating environment, markets, customers and other stakeholders.",
+        "Learning outcomes": "A. undertake an analysis of customer and competitive environments. B. comprehend the fundamental philosophy of marketing and its application in both business and not-for-profit organisations. C. identify and apply key marketing concepts to aid marketing and business decisions. D. demonstrate an understanding of the practical aspects and processes of marketing.",
+        "Method of teaching and learning": "The module involves a range of teaching strategies including lectures, student-led seminars, and case study analysis. Additional material will be in the form of web-based reading and research, selected texts, journal articles and contemporary magazine and press articles. Independent research and study will be encouraged throughout to complement group work activities. Student-led seminars will facilitate the sharing of knowledge and experiences of cohort members."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM101&psl_code=SEM1"
+    }
+  ]
+}

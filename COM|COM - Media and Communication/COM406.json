@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Research Methods in Communication",
+  "module_code": "COM406",
+  "offerings": [
+    {
+      "heading": "Research Methods in Communication",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Research Methods in Communication",
+        "module_code": "COM406",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Research Methods in Communication",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module examines a range of quantitative and qualitative research strategies, designs and methods, helping students assess the strengths and weaknesses of each. Students will have the opportunity to evaluate what makes a good research question and to develop their own. In addition, the module explores sampling, data analysis and research ethics. Students can choose to conduct a research project using a qualitative and quantitative method or mixed methods, depending on their expertise, interests, and future plans, especially in relation to their Final Individual Project (FIP). For the first assessment, students will design and propose a research project using either qualitative or quantitative research methods, e.g. participant observation, interviews, content analysis, experiment and survey questionnaire. For the second assignment, students will conduct their proposed research project, thus demonstrating their data analysis skills. The module fits the programme in that it provides students the opportunity to practice research skills relevant to media and communication topics. It also prepares students for their FIP.",
+        "Learning outcomes": "A. Critically assess a range of research designs and methods B. Design a qualitative, quantitative or mixed-method study C. Conduct a qualitative, quantitative or mixed-method research project",
+        "Method of teaching and learning": "Methods of teaching and learning: The lectures explain the reading materials. In the seminars, the students dive deeper into the materials. They practice critiquing research designs and methodologies, developing research questions and conducting content and data analysis."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM406&psl_code=SEM2"
+    }
+  ]
+}

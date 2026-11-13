@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEH",
+    "domain_code": "ENT",
+    "full_name": "Entrepreneurship"
+  },
+  "full_name": "Responsible Digital Innovation and Sustainability",
+  "module_code": "ENT417TC",
+  "offerings": [
+    {
+      "heading": "Responsible Digital Innovation and Sustainability",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENT",
+        "full_name": "Responsible Digital Innovation and Sustainability",
+        "module_code": "ENT417TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Responsible Digital Innovation and Sustainability",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The Responsible Digital Innovation and Sustainability module integrates sustainability as a core theme, equipping students with systematic knowledge in innovation and entrepreneurship. By focusing on sustainable digital solutions, the module aligns with the global and national agenda on green development, addressing key policy priorities for the next decade. Sustainability is deeply intertwined with human progress, influencing economic, social, and environmental dimensions. The United Nations' 2030 Agenda for Sustainable Development, with its 17 Sustainable Development Goals (SDGs), underscores the urgency of fostering responsible, impactful innovations. As digital businesses increasingly seek professionals with a sustainability mindset, students with expertise in responsible innovation will gain a competitive edge in the job market. The module emphasizes real-world digital innovation projects, leveraging sustainability as a strategic entry point for skill development. Students will engage in practical learning experiences, including business model development, innovative technology applications, entrepreneurial management, leadership, teamwork, and problem-solving. Through these projects, they will develop a strong understanding of ethical, social, and environmental considerations in digital innovation. Furthermore, students will explore responsible innovation frameworks and learn how to develop green business projects, fostering a forward-thinking perspective. This prepares students to lead in the evolving digital enterprise while advancing sustainability goals.",
+        "Learning outcomes": "A Develop entrepreneurial initiatives for inclusive and sustainable digital innovation. B Design a social enterprise model that integrates principles of sustainability, digital innovation, and addresses a specific social challenge. C Develop strategies for measuring and evaluating the social and environmental impact of entrepreneurial initiatives. D Communicate and advocate for responsible digital innovation practices to diverse stakeholders. E Analyze the role of digital technologies in shaping ethical decision-making and responsible business practices",
+        "Method of teaching and learning": "This module employs a project-based learning (PBL) approach combined with industry engagement. This approach fosters active learning through real-world application and collaboration. Key methods include: • Workshops: Facilitate hands-on experience in designing and developing sustainable social enterprise models. Workshops will focus on practical exercises, such as creating sustainable business models and impact measurement plans, with guidance from faculty and industry experts. • Seminars: Offer opportunities for in-depth exploration of specific topics related to social entrepreneurship and sustainability. Seminars will include case studies, guest lectures from industry practitioners, and group discussions to deepen understanding. • Field Visits: Provide practical insights into sustainable practices and social entrepreneurship. Visits to relevant organizations or enterprises will enhance students' understanding of real-world applications and challenges. • Workplace Simulations and Role-Playing: Engage students in realistic scenarios, such as stakeholder negotiations and pitch presentations. These activities help students develop practical skills in communication and stakeholder management."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENT417TC&psl_code=SEM1"
+    }
+  ]
+}

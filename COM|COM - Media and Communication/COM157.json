@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Introduction to Journalism Studies",
+  "module_code": "COM157",
+  "offerings": [
+    {
+      "heading": "Introduction to Journalism Studies",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Introduction to Journalism Studies",
+        "module_code": "COM157",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Journalism Studies",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module introduces students to the history, key concepts and academic study of journalism. Students will be encouraged to explore core issues including professionalism, ethics, objectivity and the current state of journalism, as well as the differences between Western and Chinese conceptions of journalism. The module aims to help students develop skills in finding and evaluating academic literature, useful for the later modules on journalism and PR, and provides them with the foundational theoretical concepts underpinning the practical module News Reporting.",
+        "Learning outcomes": "A Describe key developments in the history of journalism B Identify and explain key concepts in journalism C Find and analyse academic research on journalism D Show familiarity with the history and characteristics of the academic study of journalism",
+        "Method of teaching and learning": "Lectures Seminars"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM157&psl_code=SEM2"
+    }
+  ]
+}

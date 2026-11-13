@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "BNV",
+    "full_name": "Built Environment"
+  },
+  "full_name": "Topics of Urban Design",
+  "module_code": "BNV401",
+  "offerings": [
+    {
+      "heading": "Topics of Urban Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BNV",
+        "full_name": "Topics of Urban Design",
+        "module_code": "BNV401",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Topics of Urban Design",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Heir to a long tradition of town planning and city-making, urban design (re-) emerged as a discipline in the late 1950s to bridge the growing gap between the normative approach of planning and the exclusive focus of architecture on buildings. Essentially aimed at “giving practical shape and coherence to the built environment”, urban design has since then broadened its scope and applications. The module introduces students to 1) the fundamental elements, 2) the key theories and 3) the various applications of urban design. Through lectures, seminars and interpretative exercises, the module aims to familiarise students with urban design as a contextualized discipline and to develop their critical understanding of its main theoretical concepts and operational techniques. This module provides a base of knowledge and practical skills necessary for the successful completion of parallel and further courses and studios of the programme in Urban Design.",
+        "Learning outcomes": "A. Synthesise and relate the key theories that support urban design concepts and practice and their influences on urban design's spatial, social, economic, and technological aspects. B. Present an advanced understanding of the main urban challenges in existing and transforming urban fabrics, particularly those relating to sustainable and resilient urban development. C. Demonstrate a capacity to compose a multi-criteria set of indicators to analyse and evaluate urban design projects through a reflective and critical approach. D. Develop creative and critical insights into the similarities and differences between urban design practices in Western and East Asian countries, and apply these insights to evaluate the effectiveness of design approaches in a selected urban case study. E. Manage a comprehensive range of visual, oral and written media to communicate and articulate their own views and develop clear evidenced-based arguments.",
+        "Method of teaching and learning": "The method of the module combines lectures (based on one or more reference texts) with practical seminar sessions reflecting on the content of the lecture. The seminars include group discussions, practical exercises and presentations prepared by the students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BNV401&psl_code=SEM2"
+    }
+  ]
+}

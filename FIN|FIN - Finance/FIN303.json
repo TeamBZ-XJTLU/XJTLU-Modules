@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FIN",
+    "domain_code": "FIN",
+    "full_name": "Finance"
+  },
+  "full_name": "Financial Risk Management",
+  "module_code": "FIN303",
+  "offerings": [
+    {
+      "heading": "Financial Risk Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FIN",
+        "full_name": "Financial Risk Management",
+        "module_code": "FIN303",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Financial Risk Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a sound understanding of the basic principles of risk management. Attention will hence focus on different approaches of risk measuring and managing. Topics covered include credit risk, liquidity risk, and operational risk.",
+        "Learning outcomes": "A Understand different theoretical models used to measure various types of risk B Identify the nature of various financial risks, especially market risk, portfolio risk, credit risk, and liquidity risk. C Be able to analyse and suggest risk management solutions for financial institutions D Be able to calculate risk using specialised software, with an awareness of how basic artificial intelligence (AI) techniques can support risk analysis.",
+        "Method of teaching and learning": "This module will be taught using a combination of lectures, tutorials, labs and consultation hours. Learning will also be reinforced by appropriate readings of research papers. Students will be given the chance to implement their knowledge in tutorials and labs by solving real risk problems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN303&psl_code=SEM2"
+    }
+  ]
+}

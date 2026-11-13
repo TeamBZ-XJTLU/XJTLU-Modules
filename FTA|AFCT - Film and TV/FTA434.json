@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Distribution Project",
+  "module_code": "FTA434",
+  "offerings": [
+    {
+      "heading": "Distribution Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Distribution Project",
+        "module_code": "FTA434",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Distribution Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: This module aims to equip students with the knowledge and practical skills to draw up a pressing/release plan for taking ideally the Master project outcome forward into the industries. Objectives: The students will focus on communicating effectively, both in traditional approach like writing and in presentations; and innovative approaches that utilise information technologies like Social Media, Podcasting, AI, Live Video and Newsjacking, to potential audience and market. At the end of the semester, in addition to documenting the distribution plan, students will also present their individual or collaborative work at the graduate exhibition along with their research outcome to the panel within a professional environment. The panel may consist of potential stakeholders, partners, and target audience.",
+        "Learning outcomes": "A Comprehend critically the theories and concepts of pressing and release. B Devise an original business plan/proposal of a pressing/release event for their Master project. C Develop critically the awareness of the innovative aspects of media and marketing and how these aspects have the potential to reach more audiences.",
+        "Method of teaching and learning": "The module will be delivered through mainly formal lectures and seminar group discussions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA434&psl_code=SEM2"
+    }
+  ]
+}

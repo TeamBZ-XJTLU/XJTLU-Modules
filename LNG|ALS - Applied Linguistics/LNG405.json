@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Principles of Course and Materials Design",
+  "module_code": "LNG405",
+  "offerings": [
+    {
+      "heading": "Principles of Course and Materials Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Principles of Course and Materials Design",
+        "module_code": "LNG405",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Principles of Course and Materials Design",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The main aims of the module are to: • Introduce some of the main research, theorizing and practice involved in the evaluation and design of curricula for English language education • Examine each of the main levels of activity involved in curriculum design, i.e., needs analysis, situation analysis, course design, material design, syllabus design and materials evaluation and adaptation • Identify relevant academic concepts for each of these areas studied • Raise awareness of factors that are crucial to effective teaching • Understand and use the practical procedures and principals involved",
+        "Learning outcomes": "Students completing the module successfully should: CODE OUTCOME A Understand the main research, theory and practice involved in the design and evaluation of curricula for English language education B Have a good knowledge about each of the main levels of activity involved in curriculum design, i.e., needs analysis, situation analysis, course design, material design, syllabus design and materials evaluation and adaptation C Acquire relevant academic concepts for these areas D Be aware of the key factors that are crucial to effective teaching E Be able to apply theoretical principles in real course and material designing practice",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: lectures and tutorials/workshops."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG405&psl_code=SEM1"
+    }
+  ]
+}

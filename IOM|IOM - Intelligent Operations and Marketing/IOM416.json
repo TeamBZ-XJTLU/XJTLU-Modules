@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Modelling and Simulation of Operations",
+  "module_code": "IOM416",
+  "offerings": [
+    {
+      "heading": "Modelling and Simulation of Operations",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Modelling and Simulation of Operations",
+        "module_code": "IOM416",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Modelling and Simulation of Operations",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with a critical understanding and practical experience of the role of modelling and simulation in the development and improvement of business processes in an industrial environment. Important elements include analytical techniques of systems, statistical aspects of modelling, and system dynamics. Extensive use will be made of commercially available modelling and simulation tools. The module will also incorporate an operations and supply chain simulation game to reinforce in students an understanding of the various roles and decisions and roles involved in the management of a number of product lines.",
+        "Learning outcomes": "A develop process maps to describe the operations of a system B develop a computer simulation model to represent the operations of a system. C critically analyse and recommend approaches for improving the operations of a system by carrying out experimentation on a simulation model. D understand and critically apply the decisions required to support the optimal operations of a company.",
+        "Method of teaching and learning": "The module is delivered through a series of lectures covering the mathematical and principles of simulation and modelling. This will be followed by more 6lab sessions of 3 hours each providing students with hands on experience with building a software-based simulation model. The labs will be based on Witness which is a data driven discrete event simulator with an extensive library of processes. A further two hours will used to introduce a second approach based on systems dynamics using Vensim. The student will be given two models to build. The first will be during the lab sessions while the second should be completed in their private study time. Students will be provided with the training manuals in addition to a set of 10 short training videos developed by the module tutor. There will also be a group supply chain simulation exercise in which the students will adopt various roles (production, sales, purchasing and supply chain). The aim will be to optimize the operations of the company though multi-level decisions."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM416&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "CATTC",
+    "full_name": "Cultural Technology"
+  },
+  "full_name": "Interactive Technology",
+  "module_code": "CAT403TC",
+  "offerings": [
+    {
+      "heading": "Interactive Technology",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CATTC",
+        "full_name": "Interactive Technology",
+        "module_code": "CAT403TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Interactive Technology",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The purpose of this module is to explore how to create experience. The world we live in is a built one, filled with 2D and 3D, virtual and physical objects and spaces. Our journey through life is disrupted by intended and spontaneous events that, by fault or design, impact how we feel and how we perceive the world and our position in it. For the creative practitioner, the intention is to present the audience/users/participants with memorable moments when the monotony of daily life is interrupted by meaningful experiences. In order to create these moments, we must employ tacit and learned knowledge. To ensure the intended experience we present is realized. This module will address the moment of interaction when the experience-making is activated and investigate how Interactive Technology can influence the resultant value of the experience for the human. The module aims to provide Postgraduate level students with practical and theoretical insights into the process of conceptualization, design and fabrication of interactive experiences through the use of Interactive Technology for Mixed Reality (MR). By the end of the module, students will be better able to conceptualize creative experiences in a given context that are enhanced by interactive technologies and have the ability to communicate the technical requirements for realizing them through physical prototyping.",
+        "Learning outcomes": "A. Utilize Secondary and Primary Research to inform a creative practice project. B. Evaluate the appropriate use of interactive technologies in a chosen socio-cultural context. C. Apply interactive technologies in a chosen socio-cultural context. D. Demonstrate ability to undertake a creative industries project from conceptualization to prototype testing. E. Disseminate the Creative Practice through traditional and contemporary mechanisms.",
+        "Method of teaching and learning": "This module will be delivered through a combination of lectures, seminars, and practical lab sessions. • Lectures will provide students with theoretical perspectives and principles in the field of Interactive Technologies and their applications in the Creative Industries. • Seminars will provide students with an opportunity to present and discuss their developing comprehension [theory and practical] of the field of Interactive Technology. • Practical Labs will provide students with hands-on learning of Interactive Technologies [hardware and software tools] for the production of Interactive Experiences."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAT403TC&psl_code=SEM1"
+    }
+  ]
+}

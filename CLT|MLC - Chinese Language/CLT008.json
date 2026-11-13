@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MLC",
+    "domain_code": "CLT",
+    "full_name": "Chinese Language"
+  },
+  "full_name": "Chinese Language 8",
+  "module_code": "CLT008",
+  "offerings": [
+    {
+      "heading": "Chinese Language 8",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CLT",
+        "full_name": "Chinese Language 8",
+        "module_code": "CLT008",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Chinese Language 8",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is a linked module with CLT007. The module aims to increase university students’ vocabulary, to improve their ability to express themselves orally and on paper, thus to improve their ability in comprehensive Chinese application and to bring their Chinese language proficiency to a level equivalent to B1+. All the Chinese language modules have been developed taking into account the QAA benchmark statements for a full or minor component in a language. QAA benchmark statements relate to the language component comprising at least one-third of the study total, resulting in students at the end of the relevant degree programme being at level C1.These Chinese modules make up less than one third of study and so the realistic minimum that would be achieved for a student starting at a beginner level in year 1 is CEFR B1+, though students with some initial knowledge would be at B2+.",
+        "Learning outcomes": "A. Demonstrate understanding of general messages, straightforward information, and specific details when spoken clearly in Chinese B. Demonstrate a general understanding of the main points and specific details in texts on subjects of personal interest in Chinese C. Deliver an oral presentation on experiences and events, and express opinions in the context of a discussion D. Write comprehensible connected texts on familiar topics, and briefly explain opinions E. Demonstrate broad knowledge and understanding of Chinese cultures and societies",
+        "Method of teaching and learning": "This module includes 2*2 hours seminars plus 1 hour lecture per week. The seminars place emphasis on a task-based teaching philosophy, with tasks provided throughout the teaching process. The module advocates allowing students to learn and grasp the knowledge and skills of the language through the completion of assignments, and to improve their communication and comprehensive language abilities. The lecture, which is a large group practice and review session, will be designed to support student learning in and after class."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CLT008&psl_code=SEM2"
+    }
+  ]
+}

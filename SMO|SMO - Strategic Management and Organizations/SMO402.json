@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Business Leadership",
+  "module_code": "SMO402",
+  "offerings": [
+    {
+      "heading": "Business Leadership",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Business Leadership",
+        "module_code": "SMO402",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Business Leadership",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to provide students with an understanding of the development of leadership theory together with a critical appreciation of its applicability in a range of business contexts. Contemporary leadership issues including ethical leadership and how leadership relates to diversity are also examined. Seminars concentrate on relating leadership models and frameworks from the literature to practitioner perspectives and concerns.",
+        "Learning outcomes": "A. Systematically evaluate leadership fundamental theories and models B. Cultivate a sense of self-awareness through identifying a leadership vision, mission, style and values C. Critically evaluate the different leadership styles and analyze how they can apply to different situations D. Recognize the business drivers for diversity, together with the significance of cross cultural influences on leadership when leading diverse teams",
+        "Method of teaching and learning": "This module will be delivered through a series of key lectures/seminars within the management school. In addition, students will be required to work within study groups and analyse studies in leadership, examining both successful and unsuccessful leadership styles."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO402&psl_code=SEM2"
+    }
+  ]
+}

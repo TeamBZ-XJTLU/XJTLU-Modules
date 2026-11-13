@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CIEHX",
+    "domain_code": "ENT",
+    "full_name": "Entrepreneurship"
+  },
+  "full_name": "Ethics and Governance in Venture Capital",
+  "module_code": "ENT404TC",
+  "offerings": [
+    {
+      "heading": "Ethics and Governance in Venture Capital",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENT",
+        "full_name": "Ethics and Governance in Venture Capital",
+        "module_code": "ENT404TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Ethics and Governance in Venture Capital",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module provides a comprehensive exploration of the critical issues related to decision-making, accountability, and ethical challenges within the venture capital (VC) ecosystem. As venture capital plays a significant role in the growth of startups and innovation-driven enterprises, it is crucial to ensure these investments are managed with transparency, fairness, and long-term value creation for all. Students will learn about the structures, key players, and processes involved in financing startups at different stages, roles and responsibilities of VC firms, limited partners (LPs), general partners (GPs), portfolio companies, and entrepreneurs. Additionally, it explores the contractual agreements that define the relationship between these stakeholders, such as term sheets, equity stakes, and exit strategies. A key component of the module is the ethical challenges and dilemmas that arise in venture capital investments. Startups often face immense pressure to deliver rapid growth, which can sometimes lead to ethically questionable decisions regarding customer privacy, financial reporting, or employee welfare. On the investor side, venture capitalists may face conflicts of interest, particularly when balancing the interests of their limited partners with those of the portfolio companies. This section encourages critical thinking about how to navigate such conflicts while upholding ethical standards.",
+        "Learning outcomes": "A Understand the principles of governance in VC ecosystem (funds, startups, investors) B Analyse the ethical challenges faced by venture capitalists and startups at different stages C Explore the role and responsibility of different parties involved, boards, and reporting D Examine regulatory frameworks and the role of transparency, accountability, and trust E Engage in ethical reasoning to solve complex real-world problems in venture capital",
+        "Method of teaching and learning": "ENT404TC module is led mainly by practice-based teaching with the aim for students to ‘learn-by-doing’. Therefore, highly applied knowledge that cuts across the different facets of entrepreneurship, venture capital, and the vital functions of governance and ethics in that context - remain at the core of curriculum and assessment for this module, which students can apply towards their professional and personal interest in variety of fields, and career path ahead. Ultimately this module should develop a future workforce, more prepared to engage with the venture capital sector, from several dimensions be that as investors, entrepreneurs, regulators, or other connected stakeholders. The module will use actual deal-flows to illustrate topics and guide classroom learning, along with skill-specific workshops, plus industry partner project to make learning outcomes more real. Students will participate in group activity plus individually assigned work on-campus or field-study, to solve given task in way that develops their knowledge as well as ability to demonstrate practical learning. Furthermore, the module would also interface with X3 CoVentures, and other such industry associations that provide students additional exposure to ecosystem."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENT404TC&psl_code=SEM2"
+    }
+  ]
+}

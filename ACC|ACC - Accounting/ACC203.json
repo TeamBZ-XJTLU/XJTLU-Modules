@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Financial Reporting I",
+  "module_code": "ACC203",
+  "offerings": [
+    {
+      "heading": "Financial Reporting I",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Financial Reporting I",
+        "module_code": "ACC203",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Financial Reporting I",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the regulatory reporting requirements for companies in the UK by covering key elements of international accounting standards. It explains to students the concepts of financial reporting through a coverage of the International Accounting Standards Board (IASB) Framework.",
+        "Learning outcomes": "A. Draw up a set of financial statements which comply with the major provisions of Presentation of Financial Statements (or IAS1) and other key International Accounting Standards. B. Summarise key differences between International Accounting Standards and UK Generally Accepted Accounting Principles (GAAP). C. Evaluate and criticise a set of financial statements published by a UK company. D. Assess the concepts underlying financial reporting through knowledge of the International Accounting Standards Board (IASB) Framework.",
+        "Method of teaching and learning": "Lectures supported by worked examples, and seminars and workshops designed to allow students to practice the application of techniques and principles taught in lectures."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC203&psl_code=SEM1"
+    }
+  ]
+}

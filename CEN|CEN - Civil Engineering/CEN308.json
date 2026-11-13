@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Earthquake Engineering",
+  "module_code": "CEN308",
+  "offerings": [
+    {
+      "heading": "Earthquake Engineering",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Earthquake Engineering",
+        "module_code": "CEN308",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Earthquake Engineering",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide the most important knowledge and intellectual skills for students to be able to analyze and design earthquake resistance buildings. The module covers the analysis of building structures subjected to earthquake loads as well as the evaluation of different design techniques including equivalent static analysis, response spectra, and capacity design. Implementation in practice includes introduction to European earthquake design code (EC8) and ductile detailing practice for reinforced concrete, masonry and steel buildings in earthquake zones. It also enables students to understand the mechanics of ground motion and become familiar with the natural phenomenon of earthquake.",
+        "Learning outcomes": "A. Interpret geological data in such a way in order to assess basic ground motion parameters as the ground acceleration, peak ground velocity and displacement directly related to the earthquake intensity. B. Make use of both the linear and non-linear response spectra in order to quantify the earthquake forces. C. Apply the principles of structural dynamics to Single & Multi Degree of freedom systems subjected to earthquake loading. D. Analyze & design building structural elements using the performance based and conceptual design criterion within the framework of EC8. E. Apply design criteria and methods taking into account the non-linear response of reinforced concrete, masonry and steel structures, using the requirements of EC8. F. Combine the use of computer software and programming skills in order to perform dynamic analysis of building structures subjected to earthquake loading.",
+        "Method of teaching and learning": "Basic information is presented in the form of lectures on each material. The lectures are supplemented by a number of tutorial problems which the students attempt on their own. Coursework involving design of structures in all three materials is an essential component of the course. Laboratory projects relevant to the taught subjects may be included."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN308&psl_code=SEM2"
+    }
+  ]
+}

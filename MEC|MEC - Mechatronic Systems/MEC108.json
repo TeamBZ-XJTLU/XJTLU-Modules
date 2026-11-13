@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MEC",
+    "domain_code": "MEC",
+    "full_name": "Mechatronic Systems"
+  },
+  "full_name": "Introduction to Mechatronics",
+  "module_code": "MEC108",
+  "offerings": [
+    {
+      "heading": "Introduction to Mechatronics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MEC",
+        "full_name": "Introduction to Mechatronics",
+        "module_code": "MEC108",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 1",
+        "Module Title": "Introduction to Mechatronics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to provide students with a comprehensive understanding of the fundamental principles, including Ampere's Law, Faraday's Law, and Lorentz force behind electromechanical devices, such as transformers and motors, laying the groundwork for their application in modern engineering systems. Students will develop the quantitative analytical skills to evaluate the working principles, including the derivation of induced torque in AC induction machines, with a particular focus on their driving systems powered by motors and the associated motor control techniques. A strong emphasis is placed on bridging theoretical knowledge with practical engineering applications, equipping students with hands-on skills to apply modern mechatronics in real-world settings.",
+        "Learning outcomes": "A. Apply the principles of electromagnetism and mechanics, like Ampere's law, Faraday's law, and Lorentz force, to the operation of motors, transformers, actuators, and electromechanical systems. B. Evaluate the properties of ferromagnetic materials, like permeability for use in electromechanical devices, and assess the efficiency or induced torque of electrical devices such as DC and AC motors, solenoids, and transformers. C. Analyze the reluctance, magnetomotive force, and magnetic flux in a magnetic circuit, and analyze an electromechanical system to predict its characteristics, including performance and efficiency. D. Compare and contrast the control schematic diagram and elements for traditional motor control techniques using electromechanical devices (e.g., relays) with modern servo control techniques such as PWM speed control, variable frequency drives, and PLC control.",
+        "Method of teaching and learning": "This module employs a combination of teaching and learning approaches to support students in mastering the principles and applications of electromechanical systems. Formal lectures introduce fundamental concepts and theories, providing a solid theoretical foundation, while supervised laboratory sessions offer hands-on experience to apply and reinforce this knowledge in practical settings. Students are encouraged to engage actively during lab activities, working on real-world problems under guided supervision to develop critical engineering skills, especially how to drive a DC stepper motor with the controller and become familiar with PLC engineering tools to design an industrial drive circuit of an induction motor with the function of forward/reverse rotation. Independent study is also emphasized, with students tasked with reviewing technical literature and product datasheets."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MEC108&psl_code=SEM2"
+    }
+  ]
+}

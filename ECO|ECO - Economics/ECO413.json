@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Introduction to Business Analytics",
+  "module_code": "ECO413",
+  "offerings": [
+    {
+      "heading": "Introduction to Business Analytics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Introduction to Business Analytics",
+        "module_code": "ECO413",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 4",
+        "Module Title": "Introduction to Business Analytics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces the concepts of business analytics arising from collecting and analysing big data in real-life cases. Thus, students can conduct independent research based on large business datasets. The module also refreshes students’ knowledge of statistics and teaches them a number of advanced software that are used in data analysis.",
+        "Learning outcomes": "A. Demonstrate a critical understanding of business analytics and its role in organisations B. Demonstrate a conceptual and practical understanding of core concepts of descriptive statistics C. Be able to visualize, present and analyse data in an effective way D. Use advanced software and/or AI tools to analyse and interpret data E. Prepare and present statistical reports understandable by both experts and non-experts",
+        "Method of teaching and learning": "Students should attend a 2 hour lecture each for six weeks and a 1 hour tutorial each week for five weeks. The teaching is computer-based. Both students and the teacher will work together using software during the lectures. The lectures focus on applied aspects rather than abstract formulas. Each lecture introduces business cases as a pretext for learning new concepts and techniques that are directly applied and analysed using software to solve problems. More complex issues and cases are solved on tutorials. The objective is to deepen and apply concepts covered during the lecture of the week."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO413&psl_code=SEM1"
+    }
+  ]
+}

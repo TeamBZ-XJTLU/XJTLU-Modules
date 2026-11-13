@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IBSS",
+    "domain_code": "BUS",
+    "full_name": "International Business School"
+  },
+  "full_name": "Final Year Project",
+  "module_code": "BUS303",
+  "offerings": [
+    {
+      "heading": "Final Year Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "BUS",
+        "full_name": "Final Year Project",
+        "module_code": "BUS303",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 3",
+        "Module Title": "Final Year Project",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "An opportunity to work in a guided but independent fashion to explore a substantial problem in depth, making practical use of principles, techniques and methodologies acquired elsewhere in their degree. Students will have the experience of carrying out a large piece of individual work and in producing a dissertation. They will have opportunity to enhance their communication skills, both oral and written. The module introduces students to research styles and methodologies specific to, and in line with, their degree programme. It also will prepare students for more advanced study in a particular field, as well as serving as a tool for discussion and interview with prospective employers. A cap will be added to the number of external students (non-IBSS students) who will be accepted onto the module. The cap will be communicated to the relevant departments at the beginning of the second semester of each academic year. Students can communicate with their programme directors for more information about the cap while choosing FYP modules.",
+        "Learning outcomes": "On completion of the module students will be able to: A. Specify a substantial research problem, and produce a plan to address the problem B. Manage their time effectively so as to carry out their research plan C. Locate and make use of information relevant to their research project D. Design a solution to a substantial research problem E. Evaluate in a critical fashion the research they have done, and to place it in the context of scholarship and literature in the related field F. Prepare and deliver a formal oral presentation G. Structure and write a scholarly dissertation that presents the research purpose and questions, a critical review of relevant literature, research methods used to address the research problem, presentation and analysis of data, and conclusions.",
+        "Method of teaching and learning": "Supervisor selection is conducted using a two round system and allocated according to first, second and third choices of the students. A research project is produced under the guidance of a supervisor. The student is responsible for choosing the direction of their project, undertaking the research and meeting all deadlines. Through regular meetings the supervisor will offer feedback on all aspects of the project and give support and guidance as needed. In Semester 1, four lectures are delivered. The first introduces advisors, their research areas, and the range of potential topics. The second introduces the timetable of the FYP process, critical elements of a successful FYP proposal and dissertation, and resources available to students. The third and fourth lectures introduce various research methods. In Semester 2, two lectures are delivered. The first lecture provides instruction on how to write up a research paper successfully. It also shows samples of good writing versus bad writing in (1) abstract, (2) Introduction, (3) Literature Review, (4) Data description, (5) Research Method, (6) Presentation of results, and (7) Analysis of results. The second lecture provides instruction on how to make effective presentation of a research paper, invites faculty member to illustrate how to make an effect presentation, and gives opportunities to students to practice presentation."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=BUS303&psl_code=ACYR"
+    }
+  ]
+}

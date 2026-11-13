@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Power Integrated Circuit Design",
+  "module_code": "EEE409",
+  "offerings": [
+    {
+      "heading": "Power Integrated Circuit Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Power Integrated Circuit Design",
+        "module_code": "EEE409",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Power Integrated Circuit Design",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Power integrated circuits (ICs) are playing an increasingly vital role in modern electrical energy systems, ranging from grid-level power conditioning to household energy management. In response to the fast development of low-carbon energy infrastructure, the skills of design and verification methodologies for power ICs need to be adopted into the system-on-chip (SoC) integrated circuits. Hence, this module is prepared to introduce featured power ICs including low dropout regulators, switching power converters, and switched capacitors, etc., which are among the important technologies to further improve the power conversion efficiency and optimize the battery lifetime, enabling higher reliability, high efficiency, and less power loss in energy harvesting systems.",
+        "Learning outcomes": "A. Critically analyze the circuit building blocks for general analog integrated circuits and design the basic blocks for power management integrated circuits (PMIC). B. Assess and construct the fundamental structures of Low Dropout (LDO) regulators, demonstrating both theoretical and practical knowledge. C. Appraise the fundamentals of Switching Power Regulators and apply the knowledge to the design of circuit structures and the calculation of device sizes. D. Develop a comprehensive design process for integrated circuits targeted at power management applications, showcasing project management and design skills.",
+        "Method of teaching and learning": "This module will be delivered through a combination of formal lectures, seminars, and laboratory sessions. The lectures set the foundational/theoretical content. The seminars introduce the cutting-edge technical trends related to the topics of the module and the design techniques of the integrated circuits in the environment provided by the labs. The laboratory sessions provide students with the opportunity to put into design practice the circuit theory and design techniques learned during the lectures and seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE409&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCTC",
+    "domain_code": "LM",
+    "full_name": ""
+  },
+  "full_name": "Trends in Contemporary Accounting",
+  "module_code": "LMACC002",
+  "offerings": [
+    {
+      "heading": "Trends in Contemporary Accounting",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LM",
+        "full_name": "Trends in Contemporary Accounting",
+        "module_code": "LMACC002",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Trends in Contemporary Accounting",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this Year 1 module is to prepare students for study on the programme of BA Accounting. The module introduces students the current trends in accounting industry and profession, as well as the development and adoption of International Accounting Standards (IAS/IFRS) globally. Students also learn contemporary issues in financial accounting, management accounting, and financial management.",
+        "Learning outcomes": "A. Develop a basic understanding of why accounting and accounting professionals are important for modern business. B. Demonstrate a basic understanding of the need for International Accounting Standards (IAS/IFRS), and the determinants and consequences of adopting IAS/IFRS globally. C. Have an awareness of contemporary issues and challenges in the fields of accounting and financial management. D. Develop the English language and study skills of students within the context of Accounting.",
+        "Method of teaching and learning": "The module will be delivered through a combination of lectures and tutorials. Lectures will provide a basic guide and introduction to the topics. Tutorials will use a combination of case analysis, hypothetical situations and guest speech to deepen the student’s understanding of that week’s topic.Students may also be provided with online language/study skills support from the English Language Centre (ELC) to help them engage with module content. Some sessions may be co-taught by staff from the English Language Centre, who will use activities to further develop the English language skills of students within the context of accounting."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LMACC002&psl_code=SEM2"
+    }
+  ]
+}

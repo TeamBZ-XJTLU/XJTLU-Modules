@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SOE",
+    "domain_code": "SOE",
+    "full_name": ""
+  },
+  "full_name": "Software Engineering I",
+  "module_code": "SOE203",
+  "offerings": [
+    {
+      "heading": "Software Engineering I",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SOE",
+        "full_name": "Software Engineering I",
+        "module_code": "SOE203",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Software Engineering I",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to teach systematic methods for developing software. Students learn requirements analysis, design, testing, and project management to build reliable, maintainable software within constraints. This module fits the degree programs by bridging theoretical computer science fundamentals with professional practice. It teaches the essential process of turning algorithms and data structures into large, reliable, and collaborative real-world software systems.",
+        "Learning outcomes": "A. Specify a software system based on user requirements analysis, incorporating diverse user needs and accessibility goals. B. Compare software process models, including plan-driven and agile approaches, and explain how they support continuous improvement. C. Apply object-oriented design principles and construct UML diagrams to represent software designs. D. Design and execute test cases for software validation, evaluate core quality assurance practices, and assess key risks associated with software engineering project delivery. E. Discuss ethical responsibilities and professional issues arising throughout the software development lifecycle.",
+        "Method of teaching and learning": "To support student learning, three hours of formal lectures per week set the foundational and theoretical content. And one-hour supervised Lab / Practicals per week provides students with the opportunity to put into practice the content learned during the lectures. In addition, students will be expected to devote eight hours per week for unsupervised private study. Private study will be used for students’ preparation and reflection of lecture material, lab exercises and reading text books and other learning materials. This module uses AI to enhance student learning. An XIPU AI tutor is provided in learning mall for this module, to support students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SOE203&psl_code=SEM1"
+    }
+  ]
+}

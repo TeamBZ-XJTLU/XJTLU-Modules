@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Introduction to Research Methods",
+  "module_code": "EDS456",
+  "offerings": [
+    {
+      "heading": "Introduction to Research Methods",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Introduction to Research Methods",
+        "module_code": "EDS456",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Introduction to Research Methods",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The modules aim to develop the research competency and identity of digital education researchers through design projects, capable of applying research methodologies, methods, and technologies in a critical, ethical, and context-sensitive manner. At the beginning of their programme, the module intends to: -Engage students in research practices through Research-Led Project-Based Learning in real-world contexts; -Provide practical exposure to a variety of research methodologies, methods, and technologies (including AI) for digital education contexts; -Cultivate the identity of a critical digital education researcher, capable of thinking critically about methodology, method, and technology selection, including the use of AI in data collection and analysis; -Cultivate the identity of an ethical researcher, aware of research ethics and academic integrity in the digital and AI era; -Help students to envision their emerging, long-term capstone syntegrative learning and research project in a digital education context; -Encourage students to consider how research (methodology) relates to the digital education research field, their own areas of interest, and their career development in the digital and AI era. Doing so, the module lays a foundation for EDS459 Syntegrative Learning and Research Project.",
+        "Learning outcomes": "A Apply appropriate research methodologies, methods, and technologies to short-term digital education projects. B Critically reflect on the strengths and limitations of different research methodologies, methods, and technologies. C Articulate a preliminary research proposal for a long-term digital education project. D Critically select and justify research methodologies, methods, and technologies suited to specific educational and professional contexts. E Justify a suitable approach to research ethics and academic integrity for digital education research.",
+        "Method of teaching and learning": "This module follows the principles of Research-Led Project-Based Learning (RL-PBL) and is delivered through a combination of lectures, labs/practicals, and private study. The lectures introduce students to digital education research and bridge its methodological, conceptual, theoretical, and technological dimensions. The labs provide a dedicated time and space for hands-on experimentation regarding the critical analysis, design, development, implementation, and evaluation of digital education interventions (e.g., practices, curricula, events, assets, products, or services) for various emerging projects. The Digital Education Lab also offers access to research technologies, such as cameras, Nvivo, Perplexity, NotebookLM, and SPSS, for (AI-assisted) literature synthesis, data collection and analysis. The scaffolded private study forms a crucial part of the educational experience, including but not limited to project planning, reading, writing, exercises, and reflective dialogue."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS456&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IND",
+    "domain_code": "IND",
+    "full_name": "Industrial Design"
+  },
+  "full_name": "Transdisciplinary Design",
+  "module_code": "IND405",
+  "offerings": [
+    {
+      "heading": "Transdisciplinary Design",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IND",
+        "full_name": "Transdisciplinary Design",
+        "module_code": "IND405",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "10",
+        "Module Level": "Level 4",
+        "Module Title": "Transdisciplinary Design",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This studio module provides the opportunity for students to practice and explore their individual design philosophy in material form with self-directed design projects throughout semester 1. Challenging design objectives are established from the outset, grounded by in-depth research, thorough hands-on prototyping and testing and iterative learning through making processes (trial and error). This module also provides the opportunity to explore knowledge and experience gained within IND401 Framing Design Research, IND403 Design for Social Innovation, IND408 Parametric Design & Industry in Semester 1, through several phases of complete design and development projects. These projects are structured both as group projects and individually managed projects, to reflect typical professional contexts within research and design practice. Simultaneously, this module functions as a preparatory module for IND402 Design Research Project in Semester 3 and 4, combining research methods and design processes that will become more critical within the final year. As design processes become a more valuable aspect of new disciplines, designers are required to broaden their skill set of methods and tools, to evaluate and communicate their design proposals. Transdisciplinary Design broadens the scope of Industrial Design by seeking new approaches that cut across disciplinary boundaries, to tackle contemporary issues and to communicate to a wider audience. As such, the purpose of this module is to equip students with tools and methods to analyse and understand the complex entanglement of contemporary issues. Secondly, this module aims to expose students to a diversity of mediums, forms of communication, representations, manufacturing (craftsmanship, series production, manufacturing techniques) and research to identify novel areas for design, with a strong emphasis on prototyping, materiality and hands-on making. The purpose is to tackle contemporary questions within social design, health and well-being, business and economics, integrated technology systems, architecture and environment, manufacturing industry, education and cultural contexts, and other leading design initiatives.",
+        "Learning outcomes": "A Use appropriate research methods to identify and analyse an existing problem/need B Use primary and secondary sources to develop and strengthen a research preposition C Evaluate design solutions through use of relevant testing methods and tools D Develop a rigorous design solution to the proposed research problem using relevant 2D/3D representation techniques E Demonstrate ability to critically reflect on quality of design solutions",
+        "Method of teaching and learning": "This is a studio module. Under tutorial supervision and enhanced by lectures and other inputs from academical staff, students address design briefs both individually and in structured groups."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IND405&psl_code=SEM2"
+    }
+  ]
+}

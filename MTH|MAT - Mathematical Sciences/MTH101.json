@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MAT",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Engineering Mathematics I",
+  "module_code": "MTH101",
+  "offerings": [
+    {
+      "heading": "Engineering Mathematics I",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Engineering Mathematics I",
+        "module_code": "MTH101",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Engineering Mathematics I",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aims of this module are to: give students advanced mathematical tools common to engineering applications. demonstrate the physical origin of applied mathematics. understand the basic concepts in vector analysis, complex functions and Laplace transforms be familiar with the equations of importance to engineering and materials science and their properties. train the students' ability to think logically and independently and to acquire the skills of problem solving.",
+        "Learning outcomes": "On successful completion of the module, the student should be able to A. explain and apply complex functions and their integrals, B. explain and apply Laplace transforms, C. explain and apply series solutions of ODEs, D. solve problem by establishing appropriate mathematical models using the most relevant techniques, E. explain the importance of mathematics to engineering and materials science.",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures, problem classes, case studies and revision seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH101&psl_code=SEM1"
+    }
+  ]
+}

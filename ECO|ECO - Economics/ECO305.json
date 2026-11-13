@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Monetary Economics",
+  "module_code": "ECO305",
+  "offerings": [
+    {
+      "heading": "Monetary Economics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Monetary Economics",
+        "module_code": "ECO305",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Monetary Economics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This is an advanced-level module on the theories of money, asymmetric information, financial intermediaries, and monetary policy that aims to provide students with an analytical framework in which they can understand and analyze current issues in macroeconomics. The module teaches students the tools and techniques to analyze the effectiveness of monetary policy under different circumstances and assumptions.",
+        "Learning outcomes": "A. Possess in-depth understanding and knowledge of the theory of money, and the relationship between money and the real economy in the short run and the long run. B. Critically assess the Rational Expectations Hypothesis (REH) and how it affects the effectiveness of monetary policy. C. Demonstrate a fundamental understanding of the Keynesian and New Keynesian theory regarding the effectiveness of monetary policy. D. Explain the functions of financial intermediaries and the money supply process, and the theory of the term structure of interest rates. E. Critically evaluate issues related to central bank independence, rules versus discretion, and the design of optimal monetary policy. F. Apply core principles and economic reasoning on the tools and transmission mechanism of monetary policy in the profession of central banking.",
+        "Method of teaching and learning": "The module will be delivered by a combination of lectures and tutorials. Lectures are designed to introduce students to the basic tools and concepts of monetary economics, and to discuss key research papers related to central issues in monetary economics. Tutorials are delivered to supplement the lectures, discuss selected topics in detail, and help prepare students to conduct their own research on the assigned essay."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO305&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "CATTC",
+    "full_name": "Cultural Technology"
+  },
+  "full_name": "Industrial Project Design and Realisation",
+  "module_code": "CAT301TC",
+  "offerings": [
+    {
+      "heading": "Industrial Project Design and Realisation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CATTC",
+        "full_name": "Industrial Project Design and Realisation",
+        "module_code": "CAT301TC",
+        "semester": "ACYR"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "15",
+        "Module Level": "Level 3",
+        "Module Title": "Industrial Project Design and Realisation",
+        "Semester": "ACYR"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to allow the student to: Negotiate a professional role within a major piece of project work and cement their knowledge of their craft by working toward the completion of a project based within the creative and cultural industries. Manage advanced safe and healthy practices. Reflect on their role within the project and offer a clear and concise evaluation of their skills. Research and evidence a developed understanding of their craft skills.",
+        "Learning outcomes": "A. Demonstrate a professional-level competence in technical, artistic, and commercial aspects of their field through a short project, focusing on the cultural industry. B. Demonstrate the ability to work effectively both independently and collaboratively within the context of a project, gaining a comprehensive understanding of project dynamics and develop the versatility required in professional settings. C. Deliver an advanced level of creative work, encouraging them to innovate and push artistic boundaries, developing a deep understanding of their creative potential and effective communication to diverse audiences. D. Developing critical evaluation skills by analyzing their work within reflective, historical, and conceptual contexts, gaining insights to refine their skills and approaches.",
+        "Method of teaching and learning": "The teaching sessions are divided into several components. A series of seminars will provide the historical and conceptual background necessary to understand the project parameters, focusing on reviewing work in progress. The tutorial will focus on practical techniques and grammar from a professional discipline standpoint, effective team management within a project environment, and the advanced application of skills through practical exercises and project tests."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAT301TC&psl_code=ACYR"
+    }
+  ]
+}

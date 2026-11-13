@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Language and Health in a Multilingual World",
+  "module_code": "LNG418",
+  "offerings": [
+    {
+      "heading": "Language and Health in a Multilingual World",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Language and Health in a Multilingual World",
+        "module_code": "LNG418",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Language and Health in a Multilingual World",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to the critical role of language and communication in health and healthcare, particularly in multilingual contexts. The module explores the diverse linguistic and cultural factors that influence health beliefs, practices, and outcomes, and equips students with theoretical frameworks and methodological tools from Applied Linguistics to analyze, understand, and address complex ethical and practical communication challenges in this field.",
+        "Learning outcomes": "A Critically analyse and evaluate the multifaceted linguistic and cultural factors that shape health communication, patient-provider interactions, and health outcomes in diverse multilingual settings B Apply advanced theoretical concepts and methodological approaches from Applied Linguistics to identify specific communication challenges within healthcare systems. C Propose and justify evidence-based, linguistically informed strategies and interventions aimed at enhancing health equity, and improving communication effectiveness. D Critically evaluate the intricate role of culture and linguistic conceptualizations in shaping understandings of health, illness, well-being, and care practices across diverse communities.",
+        "Method of teaching and learning": "This module will be delivered by a combination of lectures, tutorials and labs. Lectures will be designed to provide essential information and introduce students to the basic tools of analysis, including some basic practice in applying the techniques. Tutorials will be based around discussions, exercises, and practical workshops."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG418&psl_code=SEM2"
+    }
+  ]
+}

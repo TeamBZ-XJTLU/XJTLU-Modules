@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Practical Physics B: Electrodynamics",
+  "module_code": "PHY108",
+  "offerings": [
+    {
+      "heading": "Practical Physics B: Electrodynamics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "PHY",
+        "full_name": "Practical Physics B: Electrodynamics",
+        "module_code": "PHY108",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Practical Physics B: Electrodynamics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This is the second practical physics module that students encounter in their curriculum of BSc Applied Physics, and also the first module fully dedicated to experimental activity and data analysis, as students already possess the required knowledge from the previous module PHY104. The present module focuses on a set of lab experiments about electromagnetism. On the one hand, it practically demonstrates the theoretical concepts that the students have already encountered in the module PHY002; on the other hand, it improves students’ practical skills and expertise in data acquisition, analysis, and modeling. In the framework of a STEM-lab approach, this module also grants students some independence in the design of experimental activities and subsequent data processing (when applicable).",
+        "Learning outcomes": "A describe the functioning of the electromagnetism experimental apparatus; B devise the actual implementation of experiments about electromagnetism; C perform measurements of electromagnetic physical quantities in the laboratory; D process experimental data and verify theory models in electromagnetic systems; E write lab reports based on experimental results and analyses.",
+        "Method of teaching and learning": "This module is delivered over 13 teaching weeks in year 2, semester 2. The first week will feature two in-class lectures, to introduce students to the overall organization of the module, its content, and briefing on lab safety practices. Students are then expected to conduct 6 different experiments related to electromagnetism. Each experiment will occupy 4 lectures. The first is a classroom lecture, whose aim is to revise the theoretical concepts to be tested in the lab, and to introduce students to the corresponding experimental setup and its usage. This lecture will encourage students to devise (when possible) an independent plan to conduct the experiment. The remaining three lectures will be spent in the lab, where students can operate the apparatus following their planned approach. Students are expected to devote 7-8 hours on a typical week to independent study, experiment design, data analysis, and preparation of lab reports. Students are encouraged to utilize AI tools and to critically explore the strengths and limitations of generative AI for assisting them in the planning of experimental activity, and on data analysis tasks. After the completion of each experiment, students are expected to prepare and submit a comprehensive lab report. The average grade from all lab reports constitutes 50% of the final grade for this module. The remaining 50% is provided via an exam-type evaluation that tests students’ knowledge and understanding of the electromagnetic experimental apparatus."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY108&psl_code=SEM2"
+    }
+  ]
+}

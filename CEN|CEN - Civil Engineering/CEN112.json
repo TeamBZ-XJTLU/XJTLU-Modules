@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Engineering Skills",
+  "module_code": "CEN112",
+  "offerings": [
+    {
+      "heading": "Engineering Skills",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Engineering Skills",
+        "module_code": "CEN112",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Engineering Skills",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to enhance students' core engineering skills through hands-on application and modern digital methods. It integrates foundational technical communication, including manual drawing and Computer-Aided Design, with a complete, collaborative design-build-test cycle. Through group project work, students will develop key skills in project planning, collaborative problem-solving, and team-based management of the design process. They will apply principles of material strength, safety factors, and load analysis to design and prototype a functional model. The module also focuses on developing analytical and digital competencies by incorporating data analysis tools and exploring the use of Artificial Intelligence (AI) to aid in design optimisation and decision-making. A key objective is to ground all technical and collaborative work within essential professional contexts, ensuring students learn to integrate principles of sustainable development, engineering ethics, and inclusive design into their engineering solutions.",
+        "Learning outcomes": "A. Interpret orthographic drawings and apply manual and computer-aided design techniques for engineering drawings. B. Design and construct models for assigned loads collaboratively, ensuring adherence to safety factors. C. Evaluate resistance of members and materials against loads through model analysis and testing. D. Use digital tools and artificial intelligence to enhance model design, data analysis, and design optimization. E. Understand and apply the principles of sustainable development, quality management, diversity, equality and inclusion (DEI), engineering ethics, security-minded considerations, and design uncertainties in designing and evaluating engineering solutions.",
+        "Method of teaching and learning": "The module employs an integrated and active learning approach centered on practical application. Core concepts are introduced in lectures, which are further reinforced through hands-on software tutorials and technical drawing sessions. Primary learning is achieved through a substantial group project, where students collaboratively manage the entire engineering process, from initial design and digital modelling to physical construction, load testing, and analysis (CDIO). This project-based learning is supported by dedicated lab sessions and tutorials, providing a structured environment for iterative development, teamwork, and instructor feedback."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN112&psl_code=SEM1"
+    }
+  ]
+}

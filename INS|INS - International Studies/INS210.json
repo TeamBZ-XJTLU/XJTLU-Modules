@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "INS",
+    "domain_code": "INS",
+    "full_name": "International Studies"
+  },
+  "full_name": "Comparative Politics",
+  "module_code": "INS210",
+  "offerings": [
+    {
+      "heading": "Comparative Politics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "INS",
+        "full_name": "Comparative Politics",
+        "module_code": "INS210",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Comparative Politics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module comparatively studies major political systems in the world, exploring similarities and differences in their organization, origins, evolution, and relevance for addressing contemporary challenges, including conflicts and climate change. The module starts with an introduction to the field of comparative politics and related fundamental concepts and comparative methods. Next, it examines different types of political systems, institutions, and processes in the world. Additionally, the module studies various actors in politics and policy-making, notably including political parties and interest groups. The final part of the module explores effects of different regime-types on various aspirations of governance relating to peace and sustainable development",
+        "Learning outcomes": "A. Identify, define, and apply fundamental concepts in comparative politics, including, inter-alia, state, nation, nation-state, sovereignty, jurisdiction, and political party. B. Describe and explain political systems, institutions, and processes relating to rule-making, enforcement, and adjudication. C. Compare and contrast different political systems, institutions, and processes of those major countries studied in the module. D. Apply comparative methods in analyzing relevance of political systems and institutions in tackling challenges to peace and sustainable development within and across countries. E. Conduct basic research in comparative politics. F. Demonstrate academic writing skills in analyzing issues and debates in contemporary comparative politics.",
+        "Method of teaching and learning": "Lectures, seminars and private study"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=INS210&psl_code=SEM1"
+    }
+  ]
+}

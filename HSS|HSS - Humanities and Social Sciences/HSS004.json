@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "HSS",
+    "domain_code": "HSS",
+    "full_name": "Humanities and Social Sciences"
+  },
+  "full_name": "Words, Worlds, and Power: Communication Across Cultures",
+  "module_code": "HSS004",
+  "offerings": [
+    {
+      "heading": "Words, Worlds, and Power: Communication Across Cultures",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "HSS",
+        "full_name": "Words, Worlds, and Power: Communication Across Cultures",
+        "module_code": "HSS004",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Words, Worlds, and Power: Communication Across Cultures",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to the dynamics of communication across cultures, emphasising its role in critical thinking, intercultural competence, and strategic expression. Situated within the Semester 1 exploratory interdisciplinary block, this module supports students’ transition into English-medium university learning, invites exploration of new subject areas in Humanities and Social Sciences, and opens pathways for future academic and professional development. Students will explore how language, media, and texts construct meaning across national and cultural borders, and engage with interdisciplinary methods, including observation, discourse analysis, news framing, case mapping, and stakeholder analysis, to tackle real-world communication challenges. This module also highlights storytelling, translation, and media as forces of connection and power in both traditional contexts and digital environments. Through a combination of practical and reflective activities, students will explore cross-cultural expression alongside digital and AI tools, developing cognitive flexibility, critical thinking, and communication-oriented approaches. These skills are increasingly vital in a world shaped by technological change, complex global challenges, and the need for interdisciplinary collaboration. This module is open to any interested first-year undergraduate students from all disciplinary backgrounds. It introduces intercultural communication as a foundational mode of thinking and problem-solving, essential for academic success, innovation, and adaptability across sectors. Therefore, it aims to develop students’ understanding of global, theoretical and historical perspectives on communication across cultures while providing opportunity for the application of intercultural strategies to academic and real-world challenges.",
+        "Learning outcomes": "A Analyse how language, media, and texts construct meaning across national and cultural borders, demonstrating foundational critical reading and cross-cultural awareness essential for first-year academic study. B Apply interdisciplinary methods, including observations, discourse analysis, news framing, case mapping, and stakeholder analysis, to address real-world communication challenges, either individually or collaboratively, thereby developing research and teamwork skills that underpin university-level inquiry. C Establish intentional communication channels, including social media campaigns, brand visual identities, live-streamed content, and VR scenarios, that exemplify cultural and intercultural intelligence and strategic thinking, and produce tangible outputs that bridge academic learning and practical application.",
+        "Method of teaching and learning": "Weekly sessions alternate between conceptual grounding and inquiry-driven practice. Students conduct research across multiple modalities — analysing institutional discourses, comparing translated texts, interrogating diplomatic rhetoric, and examining policy documents, ethnographic materials, and multimedia sources to trace how meaning is constructed, contested, and circulated across languages, genres, and geopolitical boundaries. Complementing this, this module will apply dedicated quasi-authentic simulations and lab sessions to build students’ transferable skills through active projects: designing a social media campaign; interviewing a subject and producing a feature story; creating a logo or visual identity for a company; participating in a role play of business negotiation or live-streaming interpreting simulation; navigating an international affairs scenario in the VR lab, among others. The module is co-delivered with LIFE through the common Semester 1 Academic Horizons spine. School staff provide the social and cultural context, challenge framing, disciplinary credibility, and assessment of the academic project output. LIFE staff support the inquiry process, responsible AI/digital practice, teamwork, reflection, feedback use, and pathway alignment activities."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=HSS004&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "International Labour Markets",
+  "module_code": "ECO207",
+  "offerings": [
+    {
+      "heading": "International Labour Markets",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "International Labour Markets",
+        "module_code": "ECO207",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "International Labour Markets",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to explain to students the behaviour of labour markets and the structure of labour market institutions, including labour supply, wages, search, human capital, discrimination, market segmentation, unemployment and migration. The module complements the Principles of Economics modules that students have previously studied and any econometrics or quantitative methods module students have taken or are currently taking. British and Chinese labour markets are examined, but empirical material applying to other countries is also used. By emphasising a particular market (the market for labour), the subject-matter of this module is related to microeconomics and human resource management. Determinants of wages and, in particular, CEO pay in China and in the UK, are examined as are the determinants of labour supply, in particular for women. The decision to migrate is also covered. The discussion is informed by analytical methods and econometric results.",
+        "Learning outcomes": "A. Apply core economic theory and economic reasoning to labour economic models such as human capital, earnings functions, wage differentials, job search, signaling, discrimination and migration. B. Discuss, analyse and evaluate government labour-related policy and to assess the performance of labour markets in the UK, China and other countries. C. Collect, organize and present labour market data to assess the performance of labour markets using appropriate statistical techniques.",
+        "Method of teaching and learning": "The module is taught using seminars, incorporating both lecture-type presentations and discussions. Learning is reinforced by appropriate readings from the course text. Students are also expected to read and analyse journal articles to broaden their critical thinking and analysis skills."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO207&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DES",
+    "domain_code": "DES",
+    "full_name": "Design"
+  },
+  "full_name": "Professional Practice",
+  "module_code": "DES301",
+  "offerings": [
+    {
+      "heading": "Professional Practice",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DES",
+        "full_name": "Professional Practice",
+        "module_code": "DES301",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Professional Practice",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Design and engineering practice requires a structured understanding of the societal responsibilities, regulatory contexts and ethical implications shaping the working environment in which professonals operate. At the same time, professionalinsm entails a wide skillset in the areas of collaboration, health and safety, project management, and communications, among others. The module provides a general introduction on this topics in the broader field of design and engineering, with more in-depth coverage of selected themes affecting more directly contemporary practice and professional bodies requirements in the areas of Architecture, Civil Engineering, Industial Design and urban planning and design. The module also introduces Generative Artificial Intelligence (GAI) as a tool for supporting complex tasks and streamlining workflows in professional practice.",
+        "Learning outcomes": "A. Compare multidisciplinary design career pathways, including the role of accreditation bodies. B. Recognise the role of legal and regulatory frameworks in China and UK to meet user needs, standards, and safety requirements. C. Demonstrate project management through planning, budgeting, brief-writing, and client communication. D. Indentify, select and apply appropriate AI-powered tools in professional practice E. Adopt an ethical and inclusive approach to professional practice",
+        "Method of teaching and learning": "The module is taught in weekly meetings articulated in lectures and small-group tutorials. The former provides the relevant theoretical knowledge, while the latter promotes active learning through discussions and project-based applications, and team work to support the coursework's development. Students will be guided through the application of a range of methods, including digital tools and artificial intelligence. Students are required to study and conduct research independently during their self-study time, consolidate the knowledge discussed in class, and develop substantial coursework through which their academic attainment will be assessed. The assessment is conducted thorugh two coursework components, the first of which consists of a group assignment. emphasising collaboration and teamwork in a professional context."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DES301&psl_code=SEM2"
+    }
+  ]
+}

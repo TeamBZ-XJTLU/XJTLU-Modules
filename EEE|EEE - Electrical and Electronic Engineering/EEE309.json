@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Electronics for Instrumentation",
+  "module_code": "EEE309",
+  "offerings": [
+    {
+      "heading": "Electronics for Instrumentation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Electronics for Instrumentation",
+        "module_code": "EEE309",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Electronics for Instrumentation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to develop students' understanding of analogue electronics and its application to instrumentation systems. Students will learn how to design and analyse analogue circuits for accurate signal conditioning and measurement. This module builds on students' prior learning in circuit theory and electronic devices, and provides the essential foundation for advanced modules related to sensor interfacing, data acquisition, and electronic system design. It also strengthens the analytical and practical skills required for their final-year projects and future professional work in instrumentation, control, and measurement systems.",
+        "Learning outcomes": "A. Analyse the stability in the frequency range and the problems associated with electronic circuits for instrumentations. B. Design linear and nonlinear feedback networks to improve its performance and stability in OP amplifier circuit. C. Design the integrated instrumentation circuit to get high common mode rejection ratio and the practical circuits to meet a given specification. D. Design nonlinear circuits including peak detector, analogue digital converter, digital analogue converter.",
+        "Method of teaching and learning": "Teaching and learning are structured to integrate theoretical understanding with practical application. Lectures introduce the key concepts and analytical methods of analogue electronics and instrumentation. Tutorials provide opportunities for guided problem-solving and discussion to reinforce theoretical principles. Coursework engages students in practical design and simulation tasks, allowing them to apply theoretical knowledge to real-world circuit analysis and system implementation. This combination ensures students can bridge the gap between theoretical design and experimental verification in instrumentation systems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE309&psl_code=SEM1"
+    }
+  ]
+}

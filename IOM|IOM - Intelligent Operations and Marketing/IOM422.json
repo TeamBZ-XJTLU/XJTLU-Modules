@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Production Planning and Control",
+  "module_code": "IOM422",
+  "offerings": [
+    {
+      "heading": "Production Planning and Control",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IOM",
+        "full_name": "Production Planning and Control",
+        "module_code": "IOM422",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Production Planning and Control",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The production planning and control deals with planning and controlling activities in all aspects of manufacturing, including managing materials, capacity planning, scheduling machines and people, and coordinating suppliers and key customers. An effective production planning and control system enables the success of the manufacturing organizations coordinating with their supply chain’ efforts across the company boundaries. A successful production planning and control system continuously adapts and responds to changes in the company environment, strategy, customer requirements, and new supply chain opportunities. This module provides the student with in-depth understanding of key principles and techniques to assure effective production planning and control with the aid of software applications. The aims of this module are to enable students to: (1) Understand the principles and role of production planning and control. (2) Be able to assess the effectiveness of a production planning and control system. (3) Apply a range of tools and techniques to optimize the production planning and control operations. (4) Recognize the importance of emerging digital and intelligent technologies (e.g., AI) in enhancing data-driven decision-making for production planning and control.",
+        "Learning outcomes": "A. Critically assess and map the typical tasks performed by the production planning and control system and how do these tasks affect company operations. B. Appreciate main qualitative and quantitative methodologies applied in assessing the performance of the production planning and control system. C. Demonstrate an in-depth understanding of how to design production planning and control systems and how production and process issues affect the design. D. Recognize and apply emerging digital and AI-driven technologies to enhance decision-making in production planning and control.",
+        "Method of teaching and learning": "The module is delivered through series of lectures, seminars and computer labs. It blends both quantitative and qualitative materials with theoretical and practical perspectives. Lab case studies will be utilized to further expose students to practical applications of the principles. Computerized exercises will be scheduled to cover different topics of the production planning and control systems. MS Excel and ERP software such as SAP will be utilized as main platform for lab exercises."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM422&psl_code=SEM2"
+    }
+  ]
+}

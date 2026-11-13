@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "FTA",
+    "full_name": "Film and TV"
+  },
+  "full_name": "Creative and Aesthetics Economy",
+  "module_code": "FTA435",
+  "offerings": [
+    {
+      "heading": "Creative and Aesthetics Economy",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FTA",
+        "full_name": "Creative and Aesthetics Economy",
+        "module_code": "FTA435",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Creative and Aesthetics Economy",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: This module aims to develop through practical and critical contextual work a critical understanding of the economic theories and models of creative and aesthetic consumptions. Objectives: Students will learn the academic research skills and methods to analyse and apply the ecomonic perspective onto the needs and supply of creative and aesthetic production.",
+        "Learning outcomes": "A Employ critically the traditional or practice-based research methods to conduct critical research inquiry into creative and aesthetics economy B Produce original written work that reflects the critical understanding of creative- and aesthetics-driven economic development C Evaluate critically the creative consumption trends through historical and contemporary critical theory",
+        "Method of teaching and learning": "This module will be delivered through a combination of lectures, tutorials and seminars."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FTA435&psl_code=SEM2"
+    }
+  ]
+}

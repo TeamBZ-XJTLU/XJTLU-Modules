@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LNG",
+    "full_name": "Applied Linguistics"
+  },
+  "full_name": "Language, globalization and mobility",
+  "module_code": "LNG415",
+  "offerings": [
+    {
+      "heading": "Language, globalization and mobility",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LNG",
+        "full_name": "Language, globalization and mobility",
+        "module_code": "LNG415",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Language, globalization and mobility",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module is to develop students’ critical knowledge of how globalization influences language use and communication. Specifically, this module aims to develop students’ ability to analyze and explain the linguistic practices and communicative functions contextualized in the globalization process, as well as their knowledge of some important strands of sociolinguistics, such as multilingualism, World Englishes, linguistic landscape, language and media. Additionally, it enables students to analyze the new social relations and power structure reflected in various communicative activities around the globe.",
+        "Learning outcomes": "A Analyze the relationship between linguistic phenomena and the globalization process B Identify and describe the linguistic and literacy features of a range of written, spoken and digital discourse C Analyze and present how communication and discourse norms and their realization differ between cultures, communities of practices and social stratification D Demonstrate the knowledge of various important sociolinguistic research strands and practices via seminar discussion, reflection essays and term papers. E Adopt applied linguistic analyses on sociolinguistics contextualized in globalization F Conduct critical discussions on academic topics in sociolinguistics of globalization and produce works of academic reflection and analytic papers",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: lectures and seminars. Presentation of knowledge through traditional lecture hours will be accompanied with workshops and hands-on analyses of empirical data in seminars. Both individual and group work will be included according to different tasks provided to the students."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LNG415&psl_code=SEM2"
+    }
+  ]
+}

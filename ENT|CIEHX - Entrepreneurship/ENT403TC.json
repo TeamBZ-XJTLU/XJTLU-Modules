@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CIEHX",
+    "domain_code": "ENT",
+    "full_name": "Entrepreneurship"
+  },
+  "full_name": "Digital Transformation & Strategic Management",
+  "module_code": "ENT403TC",
+  "offerings": [
+    {
+      "heading": "Digital Transformation & Strategic Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENT",
+        "full_name": "Digital Transformation & Strategic Management",
+        "module_code": "ENT403TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Digital Transformation & Strategic Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module equips students with a critical understanding of the key issues and opportunities associated with digital transformation and strategic management, emphasizing their significance in the modern business landscape, including but not limited to adapting to new technological changes, developing effective strategies to harness the power of new technologies, incorporating new technologies into the development of new ventures. Students will explore essential related theories, models, and frameworks, focusing on how digital technologies and innovations can be integrated into the strategy development process to create competitive advantage and drive business growth.",
+        "Learning outcomes": "A Identify the importance and benefits of digital transformation and strategic management for organizations; B Analyze the internal and external environments of an organization; C Critically evaluate how digital strategy drives organisational performance and competitiveness; D Critique the business and corporate strategies for digital transformation, considering the impact of emerging technologies and digital trends. E Recommend a range of business ethics and corporate social responsibility codes for a strategic digital transformation.",
+        "Method of teaching and learning": "The teaching and learning strategy for this module emphasizes an engaging and practical approach designed to foster critical thinking, collaboration, and real-world application of knowledge. Class activities will encompass a blend of interactive lectures, dynamic in-class exercises, and hands-on experiences. These will include case studies, collaborative team discussions, student-led report-back sessions, and impactful project presentations. Adopting a Project-Based Learning (PBL) approach and leveraging experiential learning, students will participate in a series of immersive workshops and practical sessions. Working in teams, they will analyze complex scenarios, critically examine challenges, and develop innovative, actionable solutions to address real-life issues. This integrated strategy aims to bridge theoretical concepts with industry-driven practice, equipping students with essential skills for their professional and entrepreneurial endeavors."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENT403TC&psl_code=SEM1"
+    }
+  ]
+}

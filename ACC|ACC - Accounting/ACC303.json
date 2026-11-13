@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Financial Reporting II",
+  "module_code": "ACC303",
+  "offerings": [
+    {
+      "heading": "Financial Reporting II",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Financial Reporting II",
+        "module_code": "ACC303",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Financial Reporting II",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is designed to build upon the knowledge and skills that students have gained in earlier modules by covering more detailed and complex accounting standards and looking at ways in which financial statements can be analysed. It will draw on learning achieved in other modules as well as providing students with additional technical knowledge and more advanced skills in financial reporting.",
+        "Learning outcomes": "Students completing the module successfully should: (note: for accreditation and other reasons, sub-headings could be added apart from the items below by departments) A Evaluate the financial reporting framework. B Appraise ethical and professional issues for an accountant undertaking work in corporate reporting and recommend courses of action. C Prepare and evaluate single company financial statements, or extracts thereof, in accordance with IFRS for complex transactions. D Understand accounts for business combinations in accordance with International Accounting Standards. E Determine appropriate procedures to be used in preparing group financial statements.",
+        "Method of teaching and learning": "Lectures supported by scenarios and examples. Seminars/workshops to practice the application of techniques and principles."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC303&psl_code=SEM1"
+    }
+  ]
+}

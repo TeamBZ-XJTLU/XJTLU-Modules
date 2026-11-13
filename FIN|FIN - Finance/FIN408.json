@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FIN",
+    "domain_code": "FIN",
+    "full_name": "Finance"
+  },
+  "full_name": "Portfolio Management",
+  "module_code": "FIN408",
+  "offerings": [
+    {
+      "heading": "Portfolio Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FIN",
+        "full_name": "Portfolio Management",
+        "module_code": "FIN408",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Portfolio Management",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module teaches students how to explain and demonstrate the use of fundamentals of portfolio management, including return and risk measurement, and portfolio planning and construction. The student will also be trained on state-of-the-market analytic systems essential in this highly quantitative area of study. The module places strong emphasis on developing advanced data analytical capabilities through the application of quantitative portfolio optimization techniques, risk modeling, performance attribution analysis, and the utilization of big data and machine learning approaches in investment decision-making processes.",
+        "Learning outcomes": "A. Implement systematic understanding of knowledge, and a critical awareness of current issues in the area of professional practice related to portfolio management. B. Demonstrate originality in the application of knowledge, together with a practical understanding of established, applied techniques of research and analysis as used to interpret knowledge and practice in portfolio management. C. Evaluate and apply quantitative portfolio construction techniques, multi-factor risk models, and statistical analysis methods to optimize portfolio performance and manage investment risks. D. Develop awareness and critical thinking related to the ethical and professional standards essential when managing other people’s money. E. Critically assess and apply advanced data analytics tools such as performance attribution models and machine learning techniques to enhance investment decision-making and portfolio management processes.",
+        "Method of teaching and learning": "This module will be taught using a combination of lectures, tutorial and investment seminars in the Trading floor financial lab. Learning will be reinforced by appropriate readings from both the textbook, case studies and topical articles in the financial press."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN408&psl_code=SEM2"
+    }
+  ]
+}

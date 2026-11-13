@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DES",
+    "domain_code": "DES",
+    "full_name": "Design"
+  },
+  "full_name": "Future Cities",
+  "module_code": "DES004",
+  "offerings": [
+    {
+      "heading": "Future Cities",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DES",
+        "full_name": "Future Cities",
+        "module_code": "DES004",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Future Cities",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "As an Academic Horizon module from Design School, this module, in collaboration with LIFE, aims to provide students with a general understanding of cities and a vision for its future through a research-led project-based learning approach. It addresses, with a focus on sustainability, the ongoing transformations of the human habitat, pervading space as well as physical and digital infrastructures, and reshaping our future life and activities. Students will be introduced to the challenges posed in this area by the current climatic, societal and demographic changes, recognise the opportunities brought about by the latest technological advances, and appreciate how these can be directed and leveraged by innovative design at different scales.",
+        "Learning outcomes": "A. Summarise sustainable development in the context of cities and identify the main contemporary challenges at different scales B. Identify and discuss the complex elements elements that constitute future cities and the factors that may influence their development C. Recognise the significance of a collaborative approach to complexity D. Demonstrate the understanding and capability of research-led project-based learning",
+        "Method of teaching and learning": "The module is taught in weekly sessions articulated in 2-hour lecture and 1-hour studio/tutorial. The former provides the theoretical framework and the project context, while the latter elicits research-led project-based learning through discussions, case studies and group activities. Weekly tutorials will also support students in the development of their coursework."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DES004&psl_code=SEM1"
+    }
+  ]
+}

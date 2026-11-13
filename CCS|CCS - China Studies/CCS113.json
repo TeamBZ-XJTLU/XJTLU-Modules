@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "China: Family and society",
+  "module_code": "CCS113",
+  "offerings": [
+    {
+      "heading": "China: Family and society",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "China: Family and society",
+        "module_code": "CCS113",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "China: Family and society",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces students to key themes in the study of Chinese society, with a particular focus on the relationship between social structures—such as family, kinship, gender, and class—and broader political and economic processes. The module equips students with analytical tools to explore how everyday life in China is shaped by historical legacies, state policy, and patterns of social change.",
+        "Learning outcomes": "A Explain major themes and structures of Chinese society and how these are linked to larger social, political and economic processes in China. B Critically assess strategies, ideologies, and state policies related to family, kinship, and social organisation in China. C Analyse the impact of state policies and economic reforms on social life in rural and urban China. D Evaluate how social identities such as gender, ethnicity, and class shape experiences of everyday life in China. E Demonstrate critical reading and writing skills through engagement with English academic literature and empirical case studies.",
+        "Method of teaching and learning": "The module is delivered through lectures, seminars, and multimodal learning activities. Lectures introduce key concepts, social theories, and empirical case studies relevant to Chinese family and society, providing students with foundational knowledge and analytical frameworks. Seminars offer opportunities for interactive discussion, peer learning, and critical engagement with readings and real-world examples. Students are encouraged to apply theoretical insights to contemporary situations and everyday life in China through guided activities and group exploration. Lectures and seminars are supported by a range of multimodal materials—such as textual, visual, audiovisual, digital, and material-based resources—and may incorporate online platforms and AI-supported tools to cater to diverse learning styles, promote independent study, and encourage critical engagement with academic content."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS113&psl_code=SEM1"
+    }
+  ]
+}

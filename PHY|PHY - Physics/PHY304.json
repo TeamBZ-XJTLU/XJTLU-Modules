@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "PHY",
+    "domain_code": "PHY",
+    "full_name": "Physics"
+  },
+  "full_name": "Quantum Mechanics II",
+  "module_code": "PHY304",
+  "offerings": [
+    {
+      "heading": "Quantum Mechanics II",
+      "listing": {
+        "academic_year": "2028/29",
+        "domain_code": "PHY",
+        "full_name": "Quantum Mechanics II",
+        "module_code": "PHY304",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2028/29",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Quantum Mechanics II",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Quantum mechanics provides a powerful framework for describing physical systems at microscopic scales. This module builds on the foundational concepts introduced in Quantum Mechanics I by extending the formalism to more complex systems, including multi-particle states, atoms, and interactions. It develops the use of operator methods and Hilbert space techniques, with greater emphasis on symmetry principles and approximation methods. The module introduces the quantum mechanics of identical particles, the structure of multi-electron atoms, and time-independent perturbation theory. Symmetry operations are treated systematically and used to derive conservation laws and selection rules relevant to atomic systems.",
+        "Learning outcomes": "A. Apply principles of quantum mechanics to systems of identical particles, including the use of symmetrisation and antisymmetrisation for bosons and fermions. B. Analyze the structure of multi-electron atoms using concepts such as electron configurations, spin coupling, and the Pauli exclusion principle. C. Use symmetry operations (translation, rotation, parity) to identify conserved quantities and derive selection rules for transitions. D. Apply time-independent perturbation theory to analyze atomic systems such as fine structure corrections and the Zeeman effect. E. Use quantum formalism to calculate and explain experimental predictions",
+        "Method of teaching and learning": "This module will be delivered by a combination of formal lectures and tutorials."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=PHY304&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FIN",
+    "domain_code": "FIN",
+    "full_name": "Finance"
+  },
+  "full_name": "Advanced Investments",
+  "module_code": "FIN411",
+  "offerings": [
+    {
+      "heading": "Advanced Investments",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "FIN",
+        "full_name": "Advanced Investments",
+        "module_code": "FIN411",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Advanced Investments",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module will provide an in-depth risk-return analysis in equity markets. There are two main aims. First, to familiarize with the traditional framework of risk-return analysis: Portfolio Theory and Capital Asset Pricing Model. Second, incorporate the role that subsequent pricing anomalies play in risk-return analysis. This module will also cover well-documented anomalies. Learning will be reinforced by appropriate readings from textbook and the journal articles that document each of the preceding pricing anomalies. This module will also highlight the practical implications of these pricing anomalies in terms of portfolio evaluation and portfolio strategies that are commonly used by industry practitioners.",
+        "Learning outcomes": "A Demonstrate deep and critical understanding of traditional portfolio theory and Capital Asset Pricing Model. B Assess and evaluate the role that asset pricing models play in portfolio strategies. C Analyse the role of pricing anomalies in risk-return analysis. D Develop critical thinking of modern portfolio theory and awareness of emerging breakthroughs.",
+        "Method of teaching and learning": "This module is delivered using weekly 3-hour workshops that comprise a mixture of lectures and in-class discussions for a total of 36 contact hours over the semester."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=FIN411&psl_code=SEM2"
+    }
+  ]
+}

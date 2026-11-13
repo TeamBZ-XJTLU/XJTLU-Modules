@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CCS",
+    "domain_code": "CCS",
+    "full_name": "China Studies"
+  },
+  "full_name": "International China",
+  "module_code": "CCS201",
+  "offerings": [
+    {
+      "heading": "International China",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CCS",
+        "full_name": "International China",
+        "module_code": "CCS201",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "International China",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This course provides students with an understanding of China’s role in international affairs, especially given the increase in its economic importance, and develops an ability to apply this knowledge to analyzing and evaluating related issues and trends.",
+        "Learning outcomes": "A. Demonstrate understanding of international relations theories and critically apply them to China and China’s foreign relations B. Demonstrate understanding and critically assess the domestic context of China’s foreign policy: how culture, history, key stakeholders, and policy-making processes and priorities influence the formulation and implementation of Chinese foreign strategy and policies. C. Analyse and evaluate China’s role and impact in major international organizations, international economy and security, and its relations with key countries and regions. D. Conduct basic research using multiple search applications/tools in English/Chinese-source data environments. E. Effectively structure and present critical analysis of China’s foreign relations in various written and oral forms",
+        "Method of teaching and learning": "Lectures and seminars for rehearsal of weekly topics."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CCS201&psl_code=SEM1"
+    }
+  ]
+}

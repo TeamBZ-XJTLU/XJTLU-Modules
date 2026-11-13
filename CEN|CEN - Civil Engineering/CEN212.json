@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Basic Soil Mechanics",
+  "module_code": "CEN212",
+  "offerings": [
+    {
+      "heading": "Basic Soil Mechanics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Basic Soil Mechanics",
+        "module_code": "CEN212",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Basic Soil Mechanics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to introduce the students to basic soil mechanics concepts (fluid flow, stress distributions in soil masses, soil strength, consolidation, settlement and bearing capacity), and show how the fundamental principles of Soil Mechanics are applied to simple problems including the stability of slopes, pressures against earth retaining structures, bearing capacity of shallow foundations.",
+        "Learning outcomes": "A. Describe soils, measure their basic properties, and use these to calculate other soil parameters. B. Calculate effective stresses and shear strength at any point below ground level, carry out stress transformations using Mohr’s Circle, analyse laboratory stress-strain responses. C. Use graphical forms of, Bernoulli equation, Darcy’s Law, Hazens empirical formula, Young’s Equation, and the Laplace Equation during both the prediction and measurement of the interaction between a fluid and a soil and on this basis solve fluid-soil interaction problems. D. Use approximations to assess the engineering stability of slopes, taking into account the typical types of failure modes. E. Generate engineering designs for shallow foundations taking into account considerations of bearing capacity and settlement. F. Suggest appropriate methods by which the engineering properties of the ground can be improved, and suggest appropriate methods to monitor the ground’s post-engineering behaviour.",
+        "Method of teaching and learning": "The lectures are used to teach the background knowledge. Practical classes are used to teach how the real world behaviour of materials relates to the theoretical behaviour."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN212&psl_code=SEM2"
+    }
+  ]
+}

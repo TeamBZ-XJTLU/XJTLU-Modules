@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "History of Economic Thought",
+  "module_code": "ECO201",
+  "offerings": [
+    {
+      "heading": "History of Economic Thought",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "History of Economic Thought",
+        "module_code": "ECO201",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "History of Economic Thought",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Does economics have a useful past Or is it the case that all truly important contributions of the past are incorporated in our present theory Is the discovery of the errors made by earlier thinkers a waste of time In this module we will examine the efficiency of the market for ideas. We will see that there are arguments in the work of earlier thinkers which remain unincorporated in our contemporary theory and which, once incorporated, can improve our understanding of economic matters. After taking this module students will be better able to contextualize economic concepts and to recognize how different schools of thought have contributed to our present economic theory.",
+        "Learning outcomes": "A. acquire the capacity to read and understand original economic texts B. apply critical thinking and develop the ability to discuss and persuasively argue about economic concepts C. understand the evolution of economic concepts that we use today D. analyze and evaluate different methodological approaches in economics. E. understand the interrelations of different economic doctrines.",
+        "Method of teaching and learning": "Lectures will provide essential information about the contributions of authors in economics, their ideas, and schools of thought in their historical context. In tutorials students will read and discuss selected original economics texts. Engagement with the material will be encouraged through interactive teaching methods."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO201&psl_code=SEM1"
+    }
+  ]
+}

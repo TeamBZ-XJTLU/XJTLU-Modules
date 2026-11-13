@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "FAM",
+    "domain_code": "MTH",
+    "full_name": "Mathematical Sciences"
+  },
+  "full_name": "Optimisation Theory",
+  "module_code": "MTH318",
+  "offerings": [
+    {
+      "heading": "Optimisation Theory",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MTH",
+        "full_name": "Optimisation Theory",
+        "module_code": "MTH318",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Optimisation Theory",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Many mathematical problems arising in the real world can be formulated as optimisation problems. This module provides students with the tools and training to recognise optimisation problems that arise in mathematics and related fields, presenting the basic theory and concentrating on results that are useful in computation. The module helps students understand how such problems are solved and gain experience in solving them, giving them the background required to use the methods in their future careers.",
+        "Learning outcomes": "A Investigate the existence of solutions to an optimisation problem. B Discuss and analyse simple optimisation problems and set them out in standard form. C Show the theorems of the alternative and use them to derive necessary conditions for optimality. D Make use of the necessary conditions for optimality to solve the primal problem. E Recognise the important role of convexity of an objective function in optimisation. F State constraint qualifications for optima with inequality constraints and apply them to discuss constrained optimisation problems. G Formulate and solve the dual problem.",
+        "Method of teaching and learning": "This module will be delivered by formal lectures and tutorials. Students are expected to attend lectures as well as tutorials. Lectures will introduce students to the academic content and practical skills which are the subject of the module, while tutorials will allow students to discuss and analyse optimisation problems and to practice relevant skills."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MTH318&psl_code=SEM2"
+    }
+  ]
+}

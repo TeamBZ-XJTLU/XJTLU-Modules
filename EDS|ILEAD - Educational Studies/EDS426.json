@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Monitoring and Evaluation in Educational Systems and Organizations",
+  "module_code": "EDS426",
+  "offerings": [
+    {
+      "heading": "Monitoring and Evaluation in Educational Systems and Organizations",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Monitoring and Evaluation in Educational Systems and Organizations",
+        "module_code": "EDS426",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Monitoring and Evaluation in Educational Systems and Organizations",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "1. Develop students’ foundational and critical understanding of the purposes, principles, and practices of monitoring and evaluation (M&E) in educational systems and organizations. 2. Examine how monitoring and evaluation support accountability, organizational learning, evidence-informed decision-making, innovation improvement, and strategic planning in diverse global education settings. 3. Engage students in Research-Led Project-Based Learning through the collaborative design of a monitoring and evaluation framework and plan linked to an integrated pathway project in a realistic educational context. 4. Cultivate students’ ability to use digital and AI-enabled tools critically, ethically, and strategically for data collection, data interpretation, indicator development, visualization, reporting, and professional communication.",
+        "Learning outcomes": "A. Critically analyse the key concepts, purposes, components, and ethical considerations of monitoring and evaluation systems in educational programmes, projects, organizations, and policies. B. Develop and justify an M&E framework, including a logic model or theory of change, appropriate indicators, data sources, and methods aligned to programme goals, stakeholder needs, and context. C. Collaboratively design and communicate a coherent monitoring and evaluation plan for a realistic educational innovation as the evaluation component of an integrated pathway project, demonstrating appropriate evidence use, feasibility, and attention to implementation and improvement. D. Use digital and AI-enabled tools critically, ethically, and strategically to support data management, analysis, visualization, interpretation, reporting, and evidence-informed recommendations.",
+        "Method of teaching and learning": "This module will be delivered through a combination of lectures and tutorials, with a focus on Research-Led Project-Based Learning approaches. Students will work with authentic or simulated “clients” who require a monitoring and evaluation system or plan for their educational projects. Lectures will provide key conceptual, theoretical, and methodological insights, while tutorials will offer opportunities for collaborative and individual practice, critical reflection, and iterative development of the monitoring and evaluation system or plan. Where appropriate, students will use digital tools, data-driven methods, and advanced technologies (e.g., AI or AI-enabled tools) to support evidence analysis, assessment design, feedback generation, and evaluation decision-making in ethical and context-sensitive ways."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS426&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ACC",
+    "domain_code": "ACC",
+    "full_name": "Accounting"
+  },
+  "full_name": "Accounting and Financial Management",
+  "module_code": "ACC403",
+  "offerings": [
+    {
+      "heading": "Accounting and Financial Management",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ACC",
+        "full_name": "Accounting and Financial Management",
+        "module_code": "ACC403",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Accounting and Financial Management",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide Master’s level students with a framework that enables them to understand the role of accounting and finance in management and business and the role of accounting information in supporting managerial decision making. The module gives students an understanding of the basic accounting principles, the techniques for preparing accounting information, and the fundamentals of costing and costing systems and of financial accounting systems. It also equips students with an understanding of the fundamentals of financial management, how to use accounting and finance information in managerial decision-making, and the relationships between accounting and finance and other management disciplines.",
+        "Learning outcomes": "A. Explain the role of accounting and finance in management and business and the role of accounting information in managerial decision making. B. Interpret and evaluate a simple balance sheet, income statement and statement of cash flows and appreciate the benefits and limitations of the three financial statements in supporting managerial decision making, particularly through interpreting financial ratios. C. Appreciate the nature of the behaviour of the various costs in management accounting and apply them in decision making. D. Apply key costing methods such as Break Even Analysis and Activity Based Costing and various investment appraisal methods to support decision making and be able to critically comment on their strengths and limitations. E. Demonstrate how various budget techniques, including flexible budgets, can be used to manage and control a business. F. Illustrate the legal nature of a limited company and distinguish this from that of an unincorporated business.",
+        "Method of teaching and learning": "The overall teaching strategy is governed by the non-specialist nature of the students and their background. The materials are placed in a broad business context and the links between accounting information and the wider management and business issues and other management functions (e.g. the management of strategy, marketing, customer service, operations management) are developed. The nature of accounting and the basic techniques of preparing accounting information are based on an understanding of general principles and these are applied through practical examples. Organisational context and qualitative material are presented to provide both depth and breadth of understanding. Stakeholder needs of accounting information are illustrated with the use of relevant examples. Texts designed specifically for non-specialists have been chosen. These texts have strong learning support which will be integrated into the module and linked to ICE which are used to support learning. Students will have directed reading from the texts and other sources and their learning is reinforced with exercises and seminars following each week’s lecture. The mid-semester case study will provide both summative and formative assessment and the formative element is also supported by regular practice in class. Students are encouraged to link their studies on this module to their wider work on management studies."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ACC403&psl_code=SEM1"
+    }
+  ]
+}

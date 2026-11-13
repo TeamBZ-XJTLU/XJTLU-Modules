@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IOM",
+    "domain_code": "IOM",
+    "full_name": "Intelligent Operations and Marketing"
+  },
+  "full_name": "Contemporary Social Commerce",
+  "module_code": "IOM315",
+  "offerings": [
+    {
+      "heading": "Contemporary Social Commerce",
+      "listing": {
+        "academic_year": "2029/30",
+        "domain_code": "IOM",
+        "full_name": "Contemporary Social Commerce",
+        "module_code": "IOM315",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2029/30",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Contemporary Social Commerce",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To provide an understanding of the importance, context and role of social media and social networking in the buying and selling of products and services. This module provides an overview of the psychological and social aspects of this buying and selling; specifically, how companies and individuals can take advantage of the affordances of the internet to encourage individuals to buy and sell to each other.",
+        "Learning outcomes": "A. Understand the essentials of social commerce and its strategic value. B. Demonstrate critical knowledge and application of major theories and tools behind social commerce. C. Appreciate the different sales and marketing techniques used by organizations and discuss alternatives. D. Understand the trends in social commerce and assess the implementation and deployment issues involved in social commerce. E. Have the strategic skills and ability to research and introduce social commerce ideas and systems into a company.",
+        "Method of teaching and learning": "Teaching is by seminars. Learning takes place through studying lecture materials, preparation for and participation in activities, and independent reading and study. Lectures in seminars will primarily summarize and synthesize key points in the chapters and readings, provide real world examples, and discuss managerial implications of theories, concepts and models. Students are expected to prepare for lectures through identified readings. Activities in seminars include group discussions and case studies of successful companies in social commerce. They are designed to reinforce knowledge, support group work and encourage further independent study. All students are expected to prepare for and take full part in activities within the seminar. While the lecturer will provide a structure and some guidelines, the students are to make major contributions. In addition, students are expected to undertake independent reading and study. As a guide, the module comprises 150 hours of student learning activity time. These hours include all formal contact hours (i.e., lectures and tutorials), plus all preparation and reading time associated both with the formal contact hours and the assessments, and time devoted to background reading."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IOM315&psl_code=SEM1"
+    }
+  ]
+}

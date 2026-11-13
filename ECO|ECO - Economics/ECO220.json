@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Microeconomics II",
+  "module_code": "ECO220",
+  "offerings": [
+    {
+      "heading": "Microeconomics II",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Microeconomics II",
+        "module_code": "ECO220",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Microeconomics II",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module in accordance with Microeconomics 1 aims to provide students with a solid foundation of intermediate level microeconomic theory. It develops and extends three of the topics introduced in first year Microeconomics, namely welfare economics (including theory of externalities), asymmetric information and game theory. It prepares the students for the more advanced modules in the second and third year like Game Theory.",
+        "Learning outcomes": "A. Demonstrate understanding of the core concepts and models used in welfare economics; asymmetric information and game theory. B. apply the concepts and models analytically to solve problems using verbal, diagrammatic and mathematical methods in the above-mentioned topics in a range of markets and settings; C. Demonstrate a critical perspective regarding the assumptions underlying microeconomics models. D. Demonstrate the ability to read and work with current economic research papers; E. Critically analyze the logic of economic arguments;",
+        "Method of teaching and learning": "This module will be delivered via a combination of lectures and tutorials. Lectures are designed to provide essential information and introduce students to the basic tools of analysis used in Microeconomics. Tutorials will provide students with a learning opportunity to extend the material introduced in the lectures through the in-depth analysis of specific problems from various topics covered in the module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO220&psl_code=SEM2"
+    }
+  ]
+}

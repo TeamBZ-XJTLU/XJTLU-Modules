@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "TRI",
+    "full_name": "Translation and Interpreting"
+  },
+  "full_name": "Conference Interpreting",
+  "module_code": "TRI303",
+  "offerings": [
+    {
+      "heading": "Conference Interpreting",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "TRI",
+        "full_name": "Conference Interpreting",
+        "module_code": "TRI303",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Conference Interpreting",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Build on existing consecutive interpreting skills acquired in TRI202 and develop skills further to cope with more complex source materials in a more demanding mode; Equip students with the skills to use interpreting booths and computer-aided interpreting software. Develop the students' awareness of the problems likely to arise when interpreting simultaneously and provide them with the opportunity to deploy their skills making appropriate use of interpreting strategies and procedures to solve them; Develop the bilingual terminology appropriate to multiple domains; Develop the intellectual and analytical insight to be able to confront the ethical challenges that may arise when working as professional interpreters.",
+        "Learning outcomes": "A. demonstrate knowledge of interpreting studies in an international conference context B. demonstrate awareness of various interpreting skills including anticipation and paraphrasing; C. demonstrate skills in simultaneous interpreting with texts in general topics; D. demonstrate skills in simultaneous interpreting without texts in general topics; E. deliver interpretations effectively both on one’s own or on a team F. raise awareness and understand ethical challenges that may arise when working as professional interpreters.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components (Lectures and workshops), and will involve the following modes of teaching and learning: a. Lecture: introduce knowledge of interpreting studies and provide a platform for students to examine and to improve their understanding of conference interpreting b. Workshop: practice on different modes of simultaneous interpreting, such as chuchotage, SI with texts and SI without texts."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=TRI303&psl_code=SEM1"
+    }
+  ]
+}

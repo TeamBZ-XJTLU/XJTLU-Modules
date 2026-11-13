@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ECO",
+    "domain_code": "ECO",
+    "full_name": "Economics"
+  },
+  "full_name": "Probability and Statistics",
+  "module_code": "ECO113",
+  "offerings": [
+    {
+      "heading": "Probability and Statistics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ECO",
+        "full_name": "Probability and Statistics",
+        "module_code": "ECO113",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Probability and Statistics",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module serves as a bridge between Calculus and subsequent Econometrics, providing students with a comprehensive grasp of the fundamental concepts, theories, and methods of probability and statistics. By completing this course, students will be equipped to identify the inherent randomness in economic data, master scientific methodologies for drawing inferences from samples to populations, and apply statistical techniques to interpret and analyze relevant issues in economic forecasting.",
+        "Learning outcomes": "A. Summarize univariate and bivariate datasets using graphical and numerical methods, and apply Normal distributions to identify patterns and anomalies in data. B. Evaluate different data collection methods, such as sampling and experimental design, to ensure data validity and minimize bias in research. C. Apply probability models, the Law of Large Numbers, and the Central Limit Theorem to model random phenomena and understand the behavior of sampling distributions. D. Construct confidence intervals and execute significance tests for population means and proportions to make scientifically grounded claims about economic indicators. E. Perform and interpret statistical inference for both simple and multiple linear regression models, including hypothesis testing for coefficients and evaluating model fit.",
+        "Method of teaching and learning": "The module is delivered through a structured combination of systematic lectures and interactive tutorials, transitioning from foundational descriptive statistics to advanced empirical inference. Lectures are designed to introduce essential probability and statistical theories and their applications. These theoretical frameworks are directly reinforced during tutorials, where students engage in hands-on problem-solving, bridging the gap between theoretical abstraction and real-world practice."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ECO113&psl_code=SEM1"
+    }
+  ]
+}

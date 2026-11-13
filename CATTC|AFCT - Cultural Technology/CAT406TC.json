@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "AFCT",
+    "domain_code": "CATTC",
+    "full_name": "Cultural Technology"
+  },
+  "full_name": "Dissemination Project",
+  "module_code": "CAT406TC",
+  "offerings": [
+    {
+      "heading": "Dissemination Project",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CATTC",
+        "full_name": "Dissemination Project",
+        "module_code": "CAT406TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Dissemination Project",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Aims: This module aims to equip students with the knowledge and practical skills to draw up a dissemination plan for taking ideally the Master project outcome forward into the public and/or related industries. Through this module, students are able to create a strategic basis that will play a key role in ensuring the long-term goals of the Master project are achieved. With the methodology and useful knowledge of dissemination strategies, tools and activities, student are expected to present a practical graduate work responding to the framework of a changing world with innovative and reflective societies. Objectives: Student will work both independently and with the guidance of the Master project supervisor. While executing the Master project for graduate exhibition, students will go through a number of defined stages including target audience and stakeholder research, strategies development, action plans, and intellectual property rights management. At the end of the semester, in addition to documenting the dissemination plan, students will also present their individual or collaborative work at the graduate exhibition along with their research outcome to the panel within a professional environment. The panel may consist of potential stakeholders, partners, and target audience.",
+        "Learning outcomes": "A Apply acquisition of critical analysis, research, creative, technical and professional skills on a dissemination plan for an interactive media project. B Demonstrate a comprehensive understanding of the potential audience and the market through appropriate dissemination channels chosen to communicate the findings of the project. C Producing original documentation and deliverables for the proposal and the pitch D Communicate effectively, both in writing and in presentations to an audience displaying highly advanced communication skills",
+        "Method of teaching and learning": "The module will be delivered through formal lectures, seminars and lab practicals to guide each student’s project for graduate exhibition."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CAT406TC&psl_code=SEM2"
+    }
+  ]
+}

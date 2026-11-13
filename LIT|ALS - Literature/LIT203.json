@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "LIT",
+    "full_name": "Literature"
+  },
+  "full_name": "Literature and Gender",
+  "module_code": "LIT203",
+  "offerings": [
+    {
+      "heading": "Literature and Gender",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LIT",
+        "full_name": "Literature and Gender",
+        "module_code": "LIT203",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Literature and Gender",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module draws on feminist and queer theory to explore the ways in which gender is constructed and represented in British, American and Chinese literature. We will study a series of texts that explore what it means to be a man or a woman, probe the relationship between gender, sex and sexuality and create what Judith Butler terms ‘gender trouble’ by highlighting the fluidity, multiplicity and performativity of gender in a way that challenges heteropatriarchal norms.",
+        "Learning outcomes": "A. Engage with literature in an international context. B. Relate literature to cultural, social and political issues. C. Gain an informed awareness of representations of women and gender and debate their contemporary and cross-cultural relevance. D. Develop skills in argument, persuasion, and analysis. E. Combine existing skills in close reading (LIT101) with a nuanced use of secondary sources. F. Structure a coherent and critically informed analysis of literary texts.",
+        "Method of teaching and learning": "The teaching sessions are divided into two components. Lectures introduce students to relevant knowledge of literature and gender theory. Seminars develop critical discussions about the topic. Seminars will also provide continuous guidance on the use and abuse of generative AI in the production of coursework assessments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LIT203&psl_code=SEM1"
+    }
+  ]
+}

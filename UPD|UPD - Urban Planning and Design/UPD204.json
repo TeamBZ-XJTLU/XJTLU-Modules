@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "UPD",
+    "full_name": "Urban Planning and Design"
+  },
+  "full_name": "Geographic information systems",
+  "module_code": "UPD204",
+  "offerings": [
+    {
+      "heading": "Geographic information systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "Geographic information systems",
+        "module_code": "UPD204",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Geographic information systems",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to familiarise students with the theoretical and practical aspects of geographical information systems (GIS) at an introductory level. This will be achieved via several key objectives, such as learning the principles and techniques involved in GIS and applying them to solve problems in urban planning and design. Particular emphasis is placed upon the acquisition of practical skills associated with the use of GIS software.",
+        "Learning outcomes": "A. apply the practical uses of GIS to real-world problem solving; B. demonstrate the basic methods of spatial analysis; C. assess issues relating to data quality and GIS use; D. illustrate trends in the development of GIS; E. manipulate spatial data; and, F. operate the basics of GIS software",
+        "Method of teaching and learning": "The module consists of lectures, practical sessions and tutorials. The lectures will deliver firm knowledge on principles of GIS and its applications in town planning process to tackle spatially-referenced issues in a real life context. Working manners of GIS software will be introduced in the practical sessions to develop skills and practical experience in handling spatial data and analysis methods. Students are also expected to relate learning outcomes from this module to other course modules in using methods of spatial analysis. This module will provide case studies, several handouts, multimedia materials and practical worksheets."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD204&psl_code=SEM1"
+    }
+  ]
+}

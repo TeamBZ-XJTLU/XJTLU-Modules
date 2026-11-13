@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MLC",
+    "domain_code": "JPL",
+    "full_name": "Japanese Language"
+  },
+  "full_name": "Japanese Language 5",
+  "module_code": "JPL005",
+  "offerings": [
+    {
+      "heading": "Japanese Language 5",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "JPL",
+        "full_name": "Japanese Language 5",
+        "module_code": "JPL005",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 0",
+        "Module Title": "Japanese Language 5",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is intended for students with pre-existing Japanese language ability equivalent to CEFR A2- level. The module aims to bring students to an exit level of Japanese language proficiency that is equivalent to CEFR A2 level. All the Japanese language modules have been developed taking into account the QAA benchmark statements for a full or minor component in a language. QAA benchmark statements relate to the language component comprising at least one-third of the study total, resulting in students at the end of the relevant degree programme being at level C1. These Japanese language modules make up less than one third of study and so the realistic minimum that would be achieved for a student starting at a beginner level in year 1 is CEFR B2, though students with some initial knowledge would be at C1.",
+        "Learning outcomes": "A. Demonstrate understanding of the main ideas when listening to simple clear explanations or speeches on familiar topics in Japanese. B. Demonstrate understanding of the main points of texts written in clear standard Japanese on familiar matters. C. Deliver a short oral presentation on familiar subjects, briefly giving reasons, explanations and opinions, and exchange information in an informal discussion in Japanese. D. Write short, comprehensible connected texts on familiar topics in Japanese. E. Demonstrate general understanding of Japanese cultures and societies.",
+        "Method of teaching and learning": "This module takes a communicative approach to language teaching, and involves a high level of interaction between teacher and students as well as amongst students. Teaching and assessment will revolve around the setting and completion of specified language tasks. This module includes 2*2 hours seminars plus 1 hour lecture per week. Students will have 4 hours per week of integrated skills class, covering reading, writing, listening and speaking skills. The lecture, which is a large group practice and review session, will be designed to support student learning in and after class."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=JPL005&psl_code=SEM1"
+    }
+  ]
+}

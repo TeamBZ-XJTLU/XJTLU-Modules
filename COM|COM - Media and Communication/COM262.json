@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Multimedia Journalism",
+  "module_code": "COM262",
+  "offerings": [
+    {
+      "heading": "Multimedia Journalism",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Multimedia Journalism",
+        "module_code": "COM262",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Multimedia Journalism",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module in the Journalism/PR pathway will equip students with essential skills in multimedia newsgathering, interviewing, and news production. It will introduce them to the principles and evolving values of journalism in a converged and fast-changing digital environment. Through hands-on practice, students will learn journalistic style and master the art of planning, structuring, and interweaving different content formats to produce original, interactive articles and multimedia packages under tight deadlines while adhering to ethical standards. By using basic technical skills, they will learn to create compelling, professional, web-ready content, combining audio, video, images, graphics, and data, or innovative elements such as social media, and artificial intelligence. The course will also offer them the opportunity to hone their interviewing, sourcing, attribution, verification, and fact-checking skills, preparing them for the complexities of the contemporary digital environment. This is essentially a practical module and builds on the theoretical knowledge acquired in COM157 Introduction to Journalism Studies.",
+        "Learning outcomes": "A Demonstrate knowledge of changing news values and elements of multimedia journalism B Produce multimedia news content to engage targeted news consumers C Use journalistic style, sourcing and attributions correctly D Apply professional, ethical standards to interviewing and reporting E Reflect critically on their own journalistic work process and production",
+        "Method of teaching and learning": "Lectures Lab/Practicals"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM262&psl_code=SEM1"
+    }
+  ]
+}

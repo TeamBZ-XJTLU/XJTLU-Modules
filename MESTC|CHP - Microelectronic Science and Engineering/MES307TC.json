@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHP",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "Sensors and Integrated Systems",
+  "module_code": "MES307TC",
+  "offerings": [
+    {
+      "heading": "Sensors and Integrated Systems",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Sensors and Integrated Systems",
+        "module_code": "MES307TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 3",
+        "Module Title": "Sensors and Integrated Systems",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces the concepts required to understand sensors and integrated systems. This module focuses on the study, design, fabrication, and integration of advanced sensors on a chip level. Topics include various sensing mechanisms (optical, thermal, chemical, and mechanical), miniaturization techniques, and sensor arrays. Emphasis is placed on RF sensing with EM wave-based microwave sensors, advanced miniaturized antennas, metasurfaces, and millimeter waves. Students will gain skills in sensor designing, 3D-EM wave simulations, hands-on-experience on instruments such as vector network analyzer, low-power designs, and scalable manufacturing for high-performance sensing solutions in industries like healthcare, communication applications and smart systems.",
+        "Learning outcomes": "Students completing the module successfully should be able to: A Understanding sensors and fundamentals • Introduce what is a sensor, various types of sensors, their working principles, and the physical phenomena they measure (e.g., temperature, pressure, motion, light, etc.). • Explain how sensors convert physical quantities into electrical signals and how these signals are processed and transmitted. B RF Sensing – the prominence • Learning RF Sensing and EM Wave based Sensors • Different methodologies for designing based on antennas, metasurfaces in the microwave and mm-wave frequencies. C 3D Electromagnetic wave Simulations and modelling • Know how to design a sensor suing 3D EM wave-based simulation software and how to predict early experimental results accurately. D Hands-on Experience • Provide practical experience in designing, testing, and deploying sensor-based systems, using simulations and physical implementation platforms. E Application of Sensors in Real-World Systems and On-chip • Expose students to real-world applications of sensors in fields like healthcare (with a focus on glucose monitoring: Diabetes), communication, and consumer electronics. F Future Trends and Emerging Technologies • To discuss cutting-edge sensor technologies and future trends, such as wearable sensors, smart sensors, sensor fusion, advances in integrated systems and artificial intelligence (AI) integration.",
+        "Method of teaching and learning": "This module will employ a blended teaching approach, including lectures, tutorials, labs, and seminars, to provide students with a comprehensive understanding of plasma-based semiconductor manufacturing. 1. Lectures – These lectures aim to provide students with a solid foundation in both theoretical and practical aspects of sensors and integrated systems. By the end of the course, students will be well-prepared to design, implement, and analyze sensor-based systems, with applications across various industries and cutting-edge technologies. 2. Laboratories – Hands-on laboratory sessions will provide practical experience in using 3D simulation softwares for early prediction of experimental results and how to use testing instruments. 3. Seminar – Guest lectures will be provided by faculties and some industry experts in which they will discuss about latest innovations in the topic of sensors. This will help students in going after real-world insights and delve deeper into the challenges and opportunities in chip level production. This multifaceted teaching approach will ensure that students gain both theoretical knowledge and practical expertise, equipping them with the skills necessary to tackle the challenges of modern semiconductor manufacturing."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES307TC&psl_code=SEM1"
+    }
+  ]
+}

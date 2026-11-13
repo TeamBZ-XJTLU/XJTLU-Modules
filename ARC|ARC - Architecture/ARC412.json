@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ARC",
+    "domain_code": "ARC",
+    "full_name": "Architecture"
+  },
+  "full_name": "Topics in Design Thinking and Cultural Innovation",
+  "module_code": "ARC412",
+  "offerings": [
+    {
+      "heading": "Topics in Design Thinking and Cultural Innovation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ARC",
+        "full_name": "Topics in Design Thinking and Cultural Innovation",
+        "module_code": "ARC412",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Topics in Design Thinking and Cultural Innovation",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module introduces critical and transdisciplinary approaches to design thinking from a humanistic perspective, integrating theory, history, philosophy, the arts, and broader cultural frameworks. It situates design as a culturally embedded practice and examines how intellectual traditions and social conditions shape both contemporary and historical modes of production. Within the context of the MArch programme, the module supports the development of interdisciplinary research and aligns with both pathways by linking cultural analysis to current design challenges, including emerging digital and AI-driven practices, as well as processes of architectural regeneration, adaptive reuse, and the rehabilitation of the existing built environment. It encourages students to critically engage with transformation, sustainability, and the long-term stewardship of architectural and urban systems. The module further emphasizes research as a core design tool, fostering the rigorous development and communication of ideas through visual and written media. By connecting speculative thinking with applied design contexts, it prepares students for advanced research, independent inquiry, and critically engaged professional practice within evolving cultural and technological landscapes.",
+        "Learning outcomes": "A. Demonstrate a critical and aesthetic understanding of the relationships between design practices, theoretical discourses, historical events and cultural frameworks shaping material production. B. Analyze cultural identities and contexts, recognizing how past and present theoretical debates influence design practices and innovation. C. Apply sensory analysis of material objects, through case studies, to interpret and communicate the theoretical and practical foundations of design thinking. D. Synthesize cultural, theoretical and aesthetic frameworks to articulate an original research question, incorporating AI as a tool for developing speculative and contextually grounded design propositions related to design practice. E. Exhibit the ability to apply acquired knowledge across a range of material, artistic and practical formats, while maintaining academic rigor throughout. F. Communicate complex, well-structured, multi-layered arguments clearly and persuasively in spoken and written English, demonstrating critical awareness and adherence to appropriate academic conventions.",
+        "Method of teaching and learning": "This module consists of one-hour weekly lectures and seminars focused on debate and academic exchange. The seminars are intended to develop into a space for reflection and intellectual growth. The lectures will provide the necessary content for subsequent work. The collective and individual work undertaken will serve to consolidate the learning outcomes among students. Some sessions may be delivered in collaboration with Language Centre tutors, with the aim of supporting students in the linguistic aspects and study skills required for the module."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ARC412&psl_code=SEM2"
+    }
+  ]
+}

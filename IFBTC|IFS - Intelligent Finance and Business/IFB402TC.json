@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Global Financial Markets",
+  "module_code": "IFB402TC",
+  "offerings": [
+    {
+      "heading": "Global Financial Markets",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Global Financial Markets",
+        "module_code": "IFB402TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Global Financial Markets",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of this module is to provide students with the knowledge and skills to understand and analyse the nature and structure of financial institutions and markets that exist globally and examine their structure, operations and products. The module also examines the importance that regulation plays in ensuring the efficiency and effectiveness of these markets, drawing on the experiences learned from global financial crises.",
+        "Learning outcomes": "A. Analyse the structure and functions of money, banks and other financial institutions operating with the global economy B. Deepen understanding of the intricacies of derivatives and their respective markets by exploring their structure and operational mechanisms C. Critically analyze and evaluate the structure and operation of derivatives and derivative markets D. Critically assess the causes of financial crises and potential solutions, as well as the role that regulation plays in this process.",
+        "Method of teaching and learning": "Based on the philosophy of Syntegrative Education, this module’s delivery pattern follows more intensive block teaching, and allows more meaningful contribution from industry partners. This delivery pattern provides space for students to concentrate on completing the problem-based and project-oriented assessments. This module will be delivered through a series of key lectures/seminars. In addition, students will be required to analyse a number of cases, determining what worked and why."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB402TC&psl_code=SEM1"
+    }
+  ]
+}

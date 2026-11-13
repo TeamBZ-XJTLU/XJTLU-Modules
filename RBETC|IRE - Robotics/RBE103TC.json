@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IRE",
+    "domain_code": "RBETC",
+    "full_name": "Robotics"
+  },
+  "full_name": "Electronic Circuits - Analogue and Digital",
+  "module_code": "RBE103TC",
+  "offerings": [
+    {
+      "heading": "Electronic Circuits - Analogue and Digital",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "RBETC",
+        "full_name": "Electronic Circuits - Analogue and Digital",
+        "module_code": "RBE103TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Electronic Circuits - Analogue and Digital",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The aim of the module is to introduce students to A. fundamental electronic devices - diodes and transistors, and how transistors are used in design and analysis of amplifier and switching circuits. B. the binary number system, the laws of Boolean algebra, and basic design methods for combinational and sequential logic circuits.",
+        "Learning outcomes": "A Demonstrate understanding of the behaviour, important properties, equivalent circuit representations and applications of diodes and transistors. B Design and analyse simple BJT/MOSFET circuits. C Analyse simple BJT/MOSFET amplifier’s frequency response. D Demonstrate understanding of and apply laws of Boolean algebra in logic minimization. E Demonstrate understanding of basic design methods for combinational and sequential logic circuits. F Demonstrate understanding of the practical skills in building and debugging electronic systems.",
+        "Method of teaching and learning": "The teaching philosophy of the module follows very much the philosophy of Syntegrative Education. This means that the teaching delivery pattern, which follows more intensive block teaching, allows more meaningful contributions from industry partners. This philosophy is carried through also in terms of assessment, with a reduction in the use of exams and an increase in coursework, especially problem-based assessments that are project-focused. This module will be delivered through a combination of lectures, group discussions, case studies, hands-on practical exercises, etc. Lectures and group discussions are conducted using the Problem-Based Learning paradigm focusing on student-centered learning, where students develop critical thinking and problem-solving skills to address open-ended problems that lack a straightforward solution. This module is taught with an emphasis on student learning through practice and by projects, facilitated by a module leader, and where appropriate, industrial mentors. Students can identify particular areas of learning needs or interests according to the available project(s). They will conduct independent research to gather information and resources to better define the problem. Progress towards the learning outcomes will be facilitated and monitored, where students are guided to progressively address the given problem through tasks. Independent learning will form an important aspect of the educational activities in this module. Assessed by a project , students shall gain practical experience in undertaking independent study and research on industry-focused real-world problems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=RBE103TC&psl_code=SEM2"
+    }
+  ]
+}

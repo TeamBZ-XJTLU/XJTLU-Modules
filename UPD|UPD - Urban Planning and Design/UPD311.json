@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "UPD",
+    "full_name": "Urban Planning and Design"
+  },
+  "full_name": "Planning and Property development",
+  "module_code": "UPD311",
+  "offerings": [
+    {
+      "heading": "Planning and Property development",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "Planning and Property development",
+        "module_code": "UPD311",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Planning and Property development",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module is concerned with the processes through which the built environment is used, produced, managed and renewed. This sets the context for the design and implementation of land use planning goals, strategies and regulatory procedures. Its objectives are to review and explore the nature of land and property development markets, the valuation of property, models which explain the processes associated with property development, the roles of the private and public sectors in land and property development, and the relations between land use planning and property development interests.",
+        "Learning outcomes": "Students completing the module successfully should: A. Have a critical understanding of land and property markets B. Demonstrate and apply a critical understanding of property valuation methodologies C. Have a systematic understanding of the property development process",
+        "Method of teaching and learning": "This module is delivered through lectures and group tutorials. Lectures will introduce the knowledge base (e.g. key concepts and ideas etc.), and the group tutorials will provide for a more detailed discussion of the issues related to the property development assignment. Other complementary sections such as invited speakers or guided site visits will also be arranged to provide examples of current practice if appropriate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD311&psl_code=SEM2"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Supply Chain Finance",
+  "module_code": "IFB210TC",
+  "offerings": [
+    {
+      "heading": "Supply Chain Finance",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Supply Chain Finance",
+        "module_code": "IFB210TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 2",
+        "Module Title": "Supply Chain Finance",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to develop students’ understanding of the key concepts in supply chain finance and the role of supply chain finance in optimizing working capital, improving access to funds and managing supply chain risk. It also aims to equip students with the knowledge and skills to critically evaluate various supply chain finance instruments and techniques. Finally, it aims to introduce some of the recent innovations in supply chain finance. Supply chain finance is one of the fastest growing segments of finance. The demand for supply chain finance is expected to remain strong or even increase in the foreseeable future. Knowledge on this subject is essential for anyone who plans to work in the supply chain departments of modern corporations or start his/her own company.",
+        "Learning outcomes": "A. Define the key concepts in supply chain finance B. Explain the role of supply chain finance in financial management and supply chain risk management C. Design supply chain finance solutions D. Critically evaluate various supply chain finance instruments and techniques",
+        "Method of teaching and learning": "Formal lectures including the use of labs/tutorials to enable the appreciation of thoretical aspects of supply chain finance and the ability to use the relevant soft and hard tools."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB210TC&psl_code=SEM2"
+    }
+  ]
+}

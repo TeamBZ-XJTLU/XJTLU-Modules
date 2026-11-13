@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "DES",
+    "domain_code": "DES",
+    "full_name": "Design"
+  },
+  "full_name": "Facade Design Theory",
+  "module_code": "DES404",
+  "offerings": [
+    {
+      "heading": "Facade Design Theory",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "DES",
+        "full_name": "Facade Design Theory",
+        "module_code": "DES404",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Facade Design Theory",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module provides the core knowledge and competencies underpinning façade design. Centred around the nexus among architecture, technology and performance, it also develops an understanding of the complexity intrinsic to building façades.",
+        "Learning outcomes": "A. Explain and interpret the significance of façade design in the architecture of buildings and cities. B. Describe and measure façade performances in the areas of thermal control, daylight and acoustics. C. Discuss and assess the environmental sustainability of building façades and the constituting components and materials, in alignment with the United Nations Sustainability Development Goals. D. Illustrate the interaction of the façade with other building systems, and synthesise the design process and tools for their integration.",
+        "Method of teaching and learning": "The module is taught in weekly sessions articulated in a lecture and a seminar. The former provides the theoretical framework, while the latter elicits active learning through discussions, case studies and group activities. Seminars will also support students in the development of their coursework. Students are required to study and conduct research independently in their self-study time, to consolidate the knowledge discussed in class and to develop substantial coursework through which their academic attainment will be assessed."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=DES404&psl_code=SEM2"
+    }
+  ]
+}

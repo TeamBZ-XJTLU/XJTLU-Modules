@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "IFS",
+    "domain_code": "IFBTC",
+    "full_name": "Intelligent Finance and Business"
+  },
+  "full_name": "Exploring Intelligent Supply Chains with Smart Business Practices",
+  "module_code": "IFB001TC",
+  "offerings": [
+    {
+      "heading": "Exploring Intelligent Supply Chains with Smart Business Practices",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "IFBTC",
+        "full_name": "Exploring Intelligent Supply Chains with Smart Business Practices",
+        "module_code": "IFB001TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 0",
+        "Module Title": "Exploring Intelligent Supply Chains with Smart Business Practices",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to introduce students to the fundamentals of intelligent supply chains through inquiry-based, real-world problem exploration. Instead of delivering a comprehensive survey of industries, the module engages students in a semester-long investigation: “Why do supply chains in different industries respond differently to disruptions, and how can emerging technologies improve resilience?” Students will develop transferable capabilities in asking investigable questions, using evidence responsibly, applying systems thinking, collaborating in teams, reflecting on learning, and using AI transparently. The module prepares students for provisional pathway alignment at the end of Semester 1 and provides foundational inquiry experience for the Semester 2 Investigative Futures Seminar.",
+        "Learning outcomes": "A. Formulate an investigable question about a supply chain challenge in a specific industry, demonstrating understanding of what makes a question answerable with public evidence. B. Gather and evaluate evidence from diverse sources (news, reports, data) to analyse a supply chain vulnerability, using a basic credibility framework. C. Evaluate the nodes and dependencies in a supply chain, and identify potential points of fragility.",
+        "Method of teaching and learning": "This module is delivered through weekly inquiry-based seminars. No separate lectures are given. Each session follows a structured active learning cycle: • Short framing: The tutor presents a real-world puzzle, a brief case, or a conflicting claim about supply chains. • Group inquiry task: Students work in small teams to ask questions, find evidence, compare industries, or map systems. Tasks are designed to be “low floor, high ceiling” – accessible to all but with room for depth. • Sharing and comparing: Teams share partial findings, and the tutor facilitates comparison across different approaches. • Reflection and documentation: Each student records a short reflection or evidence note into their Project Passport (a developmental portfolio shared across both Semester 1 AH modules). The module is tightly coordinated with LIFE. The LIFE workshop teaches generic inquiry methods (question formation, evidence use, AI ethics, systems mapping, feedback literacy); this module provides the disciplinary context and application tasks where students practise those methods on supply chain problems."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=IFB001TC&psl_code=SEM1"
+    }
+  ]
+}

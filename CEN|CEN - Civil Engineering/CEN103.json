@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CEN",
+    "domain_code": "CEN",
+    "full_name": "Civil Engineering"
+  },
+  "full_name": "Solid Mechanics",
+  "module_code": "CEN103",
+  "offerings": [
+    {
+      "heading": "Solid Mechanics",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "CEN",
+        "full_name": "Solid Mechanics",
+        "module_code": "CEN103",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 1",
+        "Module Title": "Solid Mechanics",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module aims to provide students with a solid foundation in the principles of solid mechanics. It develops students’ understanding of how forces, bending moments, shear forces, and loads affect the behaviour of engineering structures and materials, and how these effects are analysed using fundamental engineering mechanics concepts. Students learn the fundamentals of stress and strain development in a force system of bending and axial forces. Through the study of vector mechanics, force equilibrium, trusses, cross-sectional properties, beam behaviour, bending stresses, and torsion, students gain the essential analytical skills required for safe and efficient design of simple force system. The module enables students to connect theoretical knowledge with real-world material behaviour. As a core engineering subject, this module aligns with UK accreditation requirements by developing key competencies in structural analysis, material behaviour, and problem-solving, ensuring students are well prepared for advanced engineering study.",
+        "Learning outcomes": "A. Apply foundational principles of statics to analyse mechanical systems and structural components. B. Assess and compute fundamental properties of beam and truss structures, including cross sectional properties and reaction forces. C. Analyse bending and axial stress, strain, and torsional effects in statically determinate structural elements to determine load-bearing capacity. D. Utilise theoretical models and problem-solving approaches for analysis of forces and stress systems in engineering contexts.",
+        "Method of teaching and learning": "Learning and teaching methods encompass various approaches, including lectures and tutorials, hands-on practice through laboratory experimentation, and case study analysis. These methods, along with project-based tasks and self-directed study, aim to engage learners actively while fostering critical thinking, practical skills, and reflective growth. Feedback and reflective practice are integral, supporting continuous improvement and adaptability across educational contexts."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=CEN103&psl_code=SEM2"
+    }
+  ]
+}

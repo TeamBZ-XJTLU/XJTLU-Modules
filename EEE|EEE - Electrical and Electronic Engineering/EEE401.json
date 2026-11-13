@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEE",
+    "domain_code": "EEE",
+    "full_name": "Electrical and Electronic Engineering"
+  },
+  "full_name": "Sustainable Energy and Environment",
+  "module_code": "EEE401",
+  "offerings": [
+    {
+      "heading": "Sustainable Energy and Environment",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EEE",
+        "full_name": "Sustainable Energy and Environment",
+        "module_code": "EEE401",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Sustainable Energy and Environment",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "• To provide a theoretical understanding of designing suitable energy conversion devices for the development of various renewable energy sources such as solar energy, onshore and offshore wind energy, hydropower, tides, waves and currents, biomass, and biofuels, and be able to analyze the location selection, control strategies, structural loads, and practical limitations imposed by the response of these devices. • To enable students to choose suitable sustainable energy technologies (especially wind and solar energy) and provide reasonable design solutions under given climate conditions and load conditions. • To enable students to analyze environmental and social impacts of energy conversion and use when taking into account the limited natural resources and climate changes. These contents of the module will enable students to have a profound understanding of various renewable energy technologies and possess theories and skills to solve cutting-edge energy problems.",
+        "Learning outcomes": "A. Critically evaluate the physical principles and dynamics governing energy extraction from renewable sources, including solar, wind, hydropower, and marine energy. B. Analyse and compare renewable energy technologies based on their technical components, site suitability, performance metrics, lifecycle costs, and environmental impacts. C. Develop and justify solutions to complex energy and sustainability problems by synthesising technical knowledge, analytical skills, and evidence from current research. D. Formulate an integrated sustainable energy plan for a specific geographical context, addressing the interconnected demands of heat, power, and transport. E. Critically assess sustainable development strategies using system thinking tools, such as life cycle assessment (LCA) or multi-criteria decision analysis (MCDA), to evaluate the strategies' benefits and trade-offs.",
+        "Method of teaching and learning": "Lectures provide students with fundamental/theoretical content on the basic principles and operational characteristics of various renewable energy technologies, while seminars with simulation training offer students the opportunity to apply their learned knowledge to practical renewable energy system design practices."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EEE401&psl_code=SEM1"
+    }
+  ]
+}

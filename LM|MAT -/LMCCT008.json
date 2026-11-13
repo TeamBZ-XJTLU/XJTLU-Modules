@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "MAT",
+    "domain_code": "LM",
+    "full_name": ""
+  },
+  "full_name": "Ideological and Moral Cultivation and Basis of Law",
+  "module_code": "LMCCT008",
+  "offerings": [
+    {
+      "heading": "Ideological and Moral Cultivation and Basis of Law",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "LM",
+        "full_name": "Ideological and Moral Cultivation and Basis of Law",
+        "module_code": "LMCCT008",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2",
+        "Module Level": "Level 0",
+        "Module Title": "Ideological and Moral Cultivation and Basis of Law",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "Through theoretical study and practical experiences, guide students to form noble beliefs and correct values, strengthen ideological and moral cultivation, enhance the consciousness of learning, abiding by, and using the law. Comprehensively improve the moral character and legal literacy.",
+        "Learning outcomes": "A. Help students understand general Chinese Law System, basic law concepts, principles and contents. B. Improve students’ law consciousness, and understand basic principles of market economy, and to regulate their own behavior C. Improve their ability to analyze law cases, and can use law to protect their own rights. D. Help students know basis differences between different law systems. E. Help students to form correct worldview, and to view social issues objectively and rationally. F. Help students understand law articles, trial procedures and principles. A. 了解我国法律体系的概况，掌握法律的基本概念、基本原则和基本内容。 B. 提高法律意识，增强法制观念，理解效率、公平、诚实信用等市场经济基本理念；更好的规范自己的行为。 C. 具备分析案例的能力；能运用法律维护自身权益，实现真正意义的守法。 D. 通过对不同法系法律的介绍，能了解不同法系法律的特色。通过相似案例在各个国家的不同判决，看到中国法律的利弊。 E. 用法律的思维视角去看待身边的人和事，在知法、守法的基础上再引导学生形成正确的社会观，用理性的态度去看待社会上的事件并能对事件进行一个客观的分析。 F. 能读懂相关法律文书，了解法庭审判的基本原则及流程。",
+        "Method of teaching and learning": "Case Teaching; Independent analysis; group discussion"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=LMCCT008&psl_code=SEM2"
+    }
+  ]
+}

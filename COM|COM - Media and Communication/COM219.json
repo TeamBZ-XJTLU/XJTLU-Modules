@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "COM",
+    "domain_code": "COM",
+    "full_name": "Media and Communication"
+  },
+  "full_name": "Media, War, and Conflict",
+  "module_code": "COM219",
+  "offerings": [
+    {
+      "heading": "Media, War, and Conflict",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "COM",
+        "full_name": "Media, War, and Conflict",
+        "module_code": "COM219",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Media, War, and Conflict",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module examines international wars and crises from the media’s perspective. Through a series of case studies from the post-Cold War period (the 1991 Gulf War to the rise of IS and the war in Ukraine and beyond), the module explores the interconnections between media and international politics by focusing on the theoretical role of the media and discussing the global media performance in major conflicts and in the current information age. It will familiarise students with different media systems and offer an appreciation of how the relationship between media and politics differs in these distinctive contexts. The module will cover topics such as the role of war journalists, the challenges of news coverage in conveying complex issues through its focus on event-driven and human-interest narratives, the media’s influence and humanitarianism, the risks undertaken by war journalists every day of their professional lives, stealth conflicts and propaganda war, and operational ‘rules’ for the official-media relationship since the Vietnam war. These topics will be explored through theoretical lenses (e.g., framing and agenda-setting), along with media management methods such as ‘pooling’ and ‘embedding’ journalists.",
+        "Learning outcomes": "A Identify and evaluate key concepts, theories, and debates about wartime media B Critically analyse the role of the media in international politics, wars and crises C Apply relevant concepts and theories to critique the media’s influence D Apply analytical and writing skills to articulate knowledge of the role of the media in communicating about wars and crises, internationally",
+        "Method of teaching and learning": "his module will be delivered by a combination of lectures, seminars, and labs, along with private study and reading. Lectures are designed to provide students with a structured approach to learning by delivering some of the key concepts and knowledge students will need to understand the content of this module. Seminars take the form of group discussions of the topics covered in the module to consolidate the understanding of lecture material and knowledge acquired through private study. Seminar sessions are also designed to develop communication skills that students will need in their future professional endeavours. There is also a screening session every second week, designed to introduce students to important documentary films about the media’s role in shaping public opinion and the war’s coverage."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=COM219&psl_code=SEM2"
+    }
+  ]
+}

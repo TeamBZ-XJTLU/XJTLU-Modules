@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "UPD",
+    "domain_code": "UPD",
+    "full_name": "Urban Planning and Design"
+  },
+  "full_name": "Heritage, Historic Districts and Conservation",
+  "module_code": "UPD404",
+  "offerings": [
+    {
+      "heading": "Heritage, Historic Districts and Conservation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "UPD",
+        "full_name": "Heritage, Historic Districts and Conservation",
+        "module_code": "UPD404",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Heritage, Historic Districts and Conservation",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces the theories and practices of cultural heritage conservation and examines the wider role of heritage in urban regeneration. It aims to provide students with a broad understanding of the evolution of discourse from building preservation, through urban conservation to heritage commodification. It seeks to improve students appreciation of the motivations and objectives for protecting relics of the past, our changing attitudes and approaches to heritage conservation, and the regulatory and policy frameworks of heritage planning in the international context as well as in China. Conservation principles are illustrated by case study examples with reference to their relevance in physical, economic and social regeneration.",
+        "Learning outcomes": "A. Synthesise knowledge about the evolution of the concept of heritage and conservation ethics; B. Synthesise understandings of conservation theories and principles that underpin contemporary practices; C. Develop a critical view on policies and a range of issues concerning heritage planning on both national and international levels; D. Evaluate the economic and social implications of heritage-led regeneration E. Formulate viewpoints and critical arguments in both verbal and written communication.",
+        "Method of teaching and learning": "The module is delivered through lectures, tutorials, video sessions and student-led seminars to encourage students to develop a critical view on the issues concerning heritage planning ."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=UPD404&psl_code=SEM2"
+    }
+  ]
+}

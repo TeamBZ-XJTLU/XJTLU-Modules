@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Emotional Intelligence and Communication for Managers",
+  "module_code": "SMO423",
+  "offerings": [
+    {
+      "heading": "Emotional Intelligence and Communication for Managers",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Emotional Intelligence and Communication for Managers",
+        "module_code": "SMO423",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "2.5",
+        "Module Level": "Level 4",
+        "Module Title": "Emotional Intelligence and Communication for Managers",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module focuses on the emotional intelligence skills needed to be a successful manager. The module adopts a workshop style of teaching and will involve many practical exercises to gain insights and practice in identifying and using emotional intelligence skills.",
+        "Learning outcomes": "A Identify the relevance of emotional intelligence for management and leadership roles, including teamwork and interpersonal communication B Understand the nature of emotions and the different components of emotional intelligence C Reflect on their current level of emotional intelligence and emotional skills and its impact on current performance D Identify ways to develop emotional intelligence and emotional skills for future performance",
+        "Method of teaching and learning": "Lecture Case study Class discussion Simulation and role-play"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO423&psl_code=SEM2"
+    }
+  ]
+}

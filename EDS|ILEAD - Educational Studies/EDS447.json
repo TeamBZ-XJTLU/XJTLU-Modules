@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ILEAD",
+    "domain_code": "EDS",
+    "full_name": "Educational Studies"
+  },
+  "full_name": "Scholarship of Teaching and Learning: Research and Practices",
+  "module_code": "EDS447",
+  "offerings": [
+    {
+      "heading": "Scholarship of Teaching and Learning: Research and Practices",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "EDS",
+        "full_name": "Scholarship of Teaching and Learning: Research and Practices",
+        "module_code": "EDS447",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Scholarship of Teaching and Learning: Research and Practices",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "1. Develop students as reflective, research-oriented practitioners who can apply the Scholarship of Teaching and Learning (SoTL) and practice-based inquiry methods to investigate and enhance curriculum, teaching, learning, and assessment in diverse and global educational contexts. 2. Examine how evidence, reflection, and context inform the evaluation and continuous improvement of educational practice across school and higher education settings. 3. Engage students in research-led and project-based learning through the collaborative design and implementation of a small-scale inquiry or evaluation linked to the integrated pathway project. 4. Cultivate students’ capacity to use digital and AI-enabled tools critically, ethically, and strategically for literature engagement, data collection, analysis, interpretation, and communication.",
+        "Learning outcomes": "A. Critically analyse key concepts, methods, and ethical principles of the Scholarship of Teaching and Learning (SoTL) and related practice-based inquiry approaches in global education. B. Formulate and justify a coherent, ethical inquiry question and research design to investigate an aspect of curriculum, teaching, learning, or assessment within the integrated pathway project. C. Collaboratively conduct and communicate a small-scale SoTL, action research, or evaluation project using appropriate data to generate evidence-informed recommendations for improvement in a real or realistic educational context. D. Use digital and AI-enabled tools critically, ethically, and strategically to support literature engagement, data collection, analysis, interpretation, collaboration, and professional communication.",
+        "Method of teaching and learning": "The module adopts a Research-Led Project-Based Learning (RLPBL) approach, integrating seminars, workshops, and project supervision to support collaborative inquiry and practice-based learning. Teaching combines theoretical input with applied learning activities, including research design workshops, peer collaboration, project implementation, and reflective discussions. Learning is structured around iterative cycles of inquiry, implementation, analysis, reflection, and improvement, enabling students to progressively develop research and professional competencies. AI-supported tools (e.g., literature synthesis, data analysis, collaboration, and feedback tools) are embedded to enhance critical thinking, evidence-informed decision-making, and professional communication. Students will engage with real or realistic educational problems through the integrated pathway project and produce practical outputs that demonstrate their ability to investigate and improve teaching, learning, curriculum, or assessment in global education contexts."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=EDS447&psl_code=SEM2"
+    }
+  ]
+}

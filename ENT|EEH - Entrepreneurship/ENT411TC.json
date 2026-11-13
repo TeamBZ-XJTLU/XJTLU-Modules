@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEH",
+    "domain_code": "ENT",
+    "full_name": "Entrepreneurship"
+  },
+  "full_name": "Strategic Capabilities for AI Technology Innovation",
+  "module_code": "ENT411TC",
+  "offerings": [
+    {
+      "heading": "Strategic Capabilities for AI Technology Innovation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENT",
+        "full_name": "Strategic Capabilities for AI Technology Innovation",
+        "module_code": "ENT411TC",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Strategic Capabilities for AI Technology Innovation",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module aims to equip students with the skills and knowledge necessary to drive AI innovation and technology entrepreneurship within industry contexts. It focuses on the strategic role of emerging AI technologies in shaping industry landscapes and fostering sustainable business models. The module will explore industry-specific innovation strategies, technology transfer processes, and the mechanisms that accelerate AI technology adoption in businesses. Through the analysis of real-world case studies and industry collaborations, students will develop the capacity to lead and implement technology-driven innovation in dynamic and competitive environments.",
+        "Learning outcomes": "A Analyze and implement cutting-edge AI technological innovations within industry settings, identifying their strategic impact on business growth and market competitiveness. B Cultivate an entrepreneurial mindset and demonstrate leadership in managing industry-wide AI technological changes, with an emphasis on navigating disruptive technologies.. C Critically evaluate the processes and challenges of AI technology transfer across various industries, with a focus on adapting innovations to meet specific market and organizational needs. D Apply global best practices in AI technology transfer, leveraging emerging trends, policies, and industry standards to drive successful innovation and commercialization strategies..",
+        "Method of teaching and learning": "This module adopts an industry-focused problem/project-based learning (PBL) approach, delivered through immersive practical sessions and collaborative workshops. Real-world challenges, presented by industry partners, drive the learning process, offering students the opportunity to address authentic problems and co-create innovative solutions. Engagement with industry professionals is integral, as students collaborate on projects, receive mentorship, and gain insights into current practices and expectations. Transferable skills, such as effective communication, teamwork, and professional presentation, are developed through the preparation and delivery of written and oral project outputs, ensuring students are equipped for dynamic, real-world environments."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENT411TC&psl_code=SEM1"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "SMO",
+    "domain_code": "SMO",
+    "full_name": "Strategic Management and Organizations"
+  },
+  "full_name": "Business and Employment Law",
+  "module_code": "SMO207",
+  "offerings": [
+    {
+      "heading": "Business and Employment Law",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "SMO",
+        "full_name": "Business and Employment Law",
+        "module_code": "SMO207",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Business and Employment Law",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module introduces students to the basic principles of Chinese Law. It highlights the important legal principles that affect day-to-day business transactions and relationships in China, making students aware of the legal responsibilities and obligations of companies and employers.",
+        "Learning outcomes": "A. Be aware of how Chinese Law operates in the Chinese business environment. B. Understand the fundamental principles and key rules of Chinese business law and employment law. C. Apply Chinese law to interpret and evaluate case scenarios, demonstrating problem-solving skills in business and employment contexts.",
+        "Method of teaching and learning": "This module will be delivered through a combination of lectures and tutorials. Lectures will introduce key legal issues in Chinese business contexts, providing students with a foundational understanding of relevant legal principles and rules. Small-group tutorials will reinforce lecture content by allowing students to clarify their understanding, engage in critical discussions, and explore each topic in greater depth through case analysis and debate."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=SMO207&psl_code=SEM2"
+    }
+  ]
+}

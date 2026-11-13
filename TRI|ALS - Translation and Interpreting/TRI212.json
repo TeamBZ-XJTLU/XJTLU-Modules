@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "TRI",
+    "full_name": "Translation and Interpreting"
+  },
+  "full_name": "Translation for Legal Purposes",
+  "module_code": "TRI212",
+  "offerings": [
+    {
+      "heading": "Translation for Legal Purposes",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "TRI",
+        "full_name": "Translation for Legal Purposes",
+        "module_code": "TRI212",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Translation for Legal Purposes",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This module introduces the key concepts and practices in legal translation to students and develops their knowledge, skills and techniques in tackling problems arising in the legal translation process. It teaches students how to analyse and translate various types of legal texts and encourage them to reflect critically upon their own translation practices. The new directions and professional prospects of legal translation are also discussed.",
+        "Learning outcomes": "A demonstrate a critical understanding of the core concepts and practices in legal translation B Demonstrate skills, ability and techniques in translating legal texts C reflect critically on legal translation practices D Identify the role and professional development of legal translators",
+        "Method of teaching and learning": "The teaching sessions are divided into two components: lectures and workshops. Lectures provide students with concepts, principles and subject area knowledge related to legal translation; workshops are conducted for students to carry out group discussions, case study analysis and simulate working environments of legal translators. The module will also involve private study and research. Active participation is essential in both forms of teaching."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=TRI212&psl_code=SEM2"
+    }
+  ]
+}

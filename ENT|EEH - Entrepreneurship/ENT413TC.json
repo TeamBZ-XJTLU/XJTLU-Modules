@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "EEH",
+    "domain_code": "ENT",
+    "full_name": "Entrepreneurship"
+  },
+  "full_name": "Technology Transfer: Theory and Practice",
+  "module_code": "ENT413TC",
+  "offerings": [
+    {
+      "heading": "Technology Transfer: Theory and Practice",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "ENT",
+        "full_name": "Technology Transfer: Theory and Practice",
+        "module_code": "ENT413TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 4",
+        "Module Title": "Technology Transfer: Theory and Practice",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "The module equips students with the theoretical and practical knowledge required to manage and implement technology transfer within an industry setting. It emphasizes the commercialization of innovations, focusing on market-driven technology assessment and the strategic alignment of technologies with business needs. Students will develop practical skills to facilitate the technology transfer process, including market evaluation, stakeholder engagement, and implementation strategies. The module also addresses key issues related to intellectual property management, sustainability, competitive advantage, and the role of startups, licensing, and spin-off companies in the commercialization of new technologies.",
+        "Learning outcomes": "A Critically evaluate and implement industry-specific strategies for successful technology transfer, focusing on real-world commercialization and stakeholder engagement. B Analyze market-driven technology opportunities and align technological innovations with both customer demands and industry trends to optimize the technology transfer process. C Assess and develop comprehensive strategies for technology licensing, spin-off formation, and startup growth, emphasizing scalability and long-term sustainability within competitive markets. D Demonstrate expertise in managing the legal, regulatory, and intellectual property challenges associated with technology transfer, leveraging these factors to drive competitive advantage in global markets.",
+        "Method of teaching and learning": "This module adopts a fully project-based learning (PBL) approach, centered on an industry-driven project and a series of practical workshops. There are no traditional lectures or tutorials; instead, students engage in hands-on, immersive sessions designed to foster collaborative problem-solving and innovation. Practical and workshop activities are structured to guide students through analyzing, addressing, and solving real-world challenges presented by industry partners. Transferable skills, such as critical thinking, teamwork, and communication, are developed through the preparation and delivery of both written and oral project outputs, ensuring students gain practical, actionable expertise."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=ENT413TC&psl_code=SEM2"
+    }
+  ]
+}

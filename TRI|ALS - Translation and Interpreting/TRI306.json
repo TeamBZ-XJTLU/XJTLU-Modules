@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "ALS",
+    "domain_code": "TRI",
+    "full_name": "Translation and Interpreting"
+  },
+  "full_name": "Translation and Society",
+  "module_code": "TRI306",
+  "offerings": [
+    {
+      "heading": "Translation and Society",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "TRI",
+        "full_name": "Translation and Society",
+        "module_code": "TRI306",
+        "semester": "SEM1"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 3",
+        "Module Title": "Translation and Society",
+        "Semester": "SEM1"
+      },
+      "sections": {
+        "Aims and Fit of Module": "This is an advanced module that enhances students’ understanding of translation (including its various forms) from a sociological perspective. It does so by situating translation in various societal phenomena and structures and familiarising students with a range of theoretical tools that can help them critically examine the societal positioning of translation. The module includes ample opportunities for students to apply the theoretical approaches to their critical thinking about translation and society at large.",
+        "Learning outcomes": "A. Demonstrate an understanding of the various societal factors influencing translation activities B. Analyse the social functioning of translation products C. Assess the social properties of translation agents D. Apply appropriate sociological theories to examining translation products, activities, and/or agents",
+        "Method of teaching and learning": "This module is delivered through lectures and seminars. Lectures are designed to introduce students to sociological theories that can be applied to translation studies. Seminars facilitate students’ understanding of the theoretical perspectives with case studies and offer a space for students apply the theories to studying translation issues of their interests. The latter involves pre-class preparation, in-class presentation, and post-class consultation."
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=TRI306&psl_code=SEM1"
+    }
+  ]
+}

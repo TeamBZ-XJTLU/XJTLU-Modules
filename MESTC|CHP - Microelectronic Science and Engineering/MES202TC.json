@@ -1,0 +1,34 @@
+{
+  "department": {
+    "department_code": "CHP",
+    "domain_code": "MESTC",
+    "full_name": "Microelectronic Science and Engineering"
+  },
+  "full_name": "Digital VLSI System Design and Design Automation",
+  "module_code": "MES202TC",
+  "offerings": [
+    {
+      "heading": "Digital VLSI System Design and Design Automation",
+      "listing": {
+        "academic_year": "2026/27",
+        "domain_code": "MESTC",
+        "full_name": "Digital VLSI System Design and Design Automation",
+        "module_code": "MES202TC",
+        "semester": "SEM2"
+      },
+      "overview": {
+        "Academic Year": "2026/27",
+        "Module Credits": "5",
+        "Module Level": "Level 2",
+        "Module Title": "Digital VLSI System Design and Design Automation",
+        "Semester": "SEM2"
+      },
+      "sections": {
+        "Aims and Fit of Module": "To equip students with hardware descriptive language (HDL) and professional advanced CAD tools to conduct structured, specification, synthesis and simulation circuits and with the understanding of the nature of digital VLSI system design and design automation.",
+        "Learning outcomes": "A Obtain and understand the basic knowledge of structured design styles, specification, synthesis and simulation using hardware descriptive language (HDL) B Understand the essential knowledges and concepts of structural chip design and system design C Conduct digital VLSI circuit design of system building blocks: arithmetic unit, memory systems D Implement and analyze clocking and performance issues in system design, design-automation tools and their applications E Master independent learning and design skills to design digital VLSI system and automation",
+        "Method of teaching and learning": "This module is delivered through a combination of formal lectures, tutorials, design exercises and supervised laboratory sessions. There is a particular emphasis on developing industry standard design skills alongside professional problems solving"
+      },
+      "source_url": "https://modules.xjtlu.edu.cn/mod?mod_code=MES202TC&psl_code=SEM2"
+    }
+  ]
+}
